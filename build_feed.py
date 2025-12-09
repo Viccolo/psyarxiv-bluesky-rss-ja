@@ -1,93 +1,36 @@
 #!/usr/bin/env python3
 import os
-import sys
 import html
 from datetime import datetime, timezone
 from email.utils import format_datetime
 
-import requests
-from bs4 import BeautifulSoup
-from googletrans import Translator
-
-# ---- 設定 ----
-# PsyArXiv 本体の RSS（ここを入力元にします）
-SOURCE_RSS = "https://psyarxiv.com/rss"
-
 DOCS_DIR = "docs"
 FEED_FILENAME = "feed.xml"
 
-# Google 翻訳クライアント
-translator = Translator(service_urls=["translate.googleapis.com"])
-
-
-def fetch_source_feed_xml():
-    """PsyArXiv の RSS を取得して BeautifulSoup(xml) にする。"""
-    resp = requests.get(SOURCE_RSS, timeout=30)
-    resp.raise_for_status()
-    return BeautifulSoup(resp.content, "xml")
-
-
-def ja_title_from_en(en_title: str) -> str:
-    """英語タイトルを日本語に翻訳（失敗したらそのまま返す）。"""
-    try:
-        res = translator.translate(en_title, src="en", dest="ja")
-        ja = res.text.strip()
-        return ja or en_title
-    except Exception:
-        return en_title
-
 
 def build_entries():
-    """PsyArXiv RSS → 日本語タイトル付きエントリリストを作る。"""
-    feed = fetch_source_feed_xml()
-    entries = []
-
-    for item in feed.find_all("item"):
-        # link
-        link_tag = item.find("link")
-        if link_tag is None:
-            continue
-
-        url = (link_tag.string or "").strip()
-        if not url:
-            url = (link_tag.get("href") or "").strip()
-        if not url:
-            continue
-
-        # 英語タイトル
-        if item.title and item.title.string:
-            en_title = item.title.string.strip()
-        else:
-            en_title = url
-
-        # 日本語タイトル
-        ja_title = ja_title_from_en(en_title)
-        full_title = f"{ja_title} ({en_title})"
-
-        # pubDate（なければ現在時刻）
-        if item.pubDate and item.pubDate.string:
-            pub_date = item.pubDate.string.strip()
-        else:
-            pub_date = format_datetime(datetime.now(timezone.utc))
-
-        entries.append(
-            {
-                "title": full_title,
-                "link": url,
-                "pubDate": pub_date,
-            }
-        )
-
-    return entries
+    """テスト用に固定2件だけ返す。外部アクセスなし。"""
+    now = format_datetime(datetime.now(timezone.utc))
+    return [
+        {
+            "title": "テスト論文その1 (Test paper one)",
+            "link": "https://psyarxiv.com/abcd1",
+            "pubDate": now,
+        },
+        {
+            "title": "テスト論文その2 (Test paper two)",
+            "link": "https://psyarxiv.com/abcd2",
+            "pubDate": now,
+        },
+    ]
 
 
 def build_rss_xml(entries):
-    """entries リストからシンプルな RSS 2.0 の XML を生成。"""
+    """entries からシンプルな RSS 2.0 を構成。"""
     channel_title = "PsyArXiv bot (日本語タイトル付き)"
     channel_link = "https://bsky.app/profile/psyarxivbot.bsky.social"
     channel_description = (
-        "psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、"
-        "日本語タイトル（英語タイトル）形式で配信する非公式RSSフィード"
+        "テスト用：固定2件のダミーエントリを配信するRSSフィード"
     )
 
     items_xml = []
@@ -134,8 +77,4 @@ def main():
 
 
 if __name__ == "__main__":
-    try:
-        main()
-    except Exception as e:
-        print("Error:", e, file=sys.stderr)
-        sys.exit(1)
+    main()
