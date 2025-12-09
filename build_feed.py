@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 import os
-import re
 import sys
 import html
 from datetime import datetime, timezone
@@ -10,66 +9,23 @@ import requests
 from bs4 import BeautifulSoup
 from googletrans import Translator
 
-# 入力元: PsyArXiv（OSF）のプレプリントRSS
-# https://osf.io/preprints/psyarxiv/ は RSS として購読可能
-SOURCE_RSS = "https://osf.io/preprints/psyarxiv/"
+# ---- 設定 ----
+# 入力元: PsyArXiv 本体の RSS
+SOURCE_RSS = "https://psyarxiv.com/rss"
 
+# 出力先
+DOCS_DIR = "docs"
+FEED_FILENAME = "feed.xml"
 
-# Google翻訳クライアント（無料）
+# Google 翻訳クライアント（無料API）
 translator = Translator(service_urls=["translate.googleapis.com"])
 
 
 def fetch_source_feed_xml():
-    """PsyArXiv/OSF のRSSを取得して BeautifulSoup(xml) にする。"""
+    """PsyArXiv の RSS を取得して BeautifulSoup(xml) にする。"""
     resp = requests.get(SOURCE_RSS, timeout=30)
     resp.raise_for_status()
     return BeautifulSoup(resp.content, "xml")
-
-
-
-def extract_psyarxiv_url(text: str | None) -> str | None:
-    """
-    テキスト中から PsyArXiv 関連のURLを1つ拾う。
-    psyarxiv.com か osf.io（PsyArXivプレプリント）を対象とする。
-    見つからなければ None。
-    """
-    if not text:
-        return None
-
-    # まず psyarxiv.com を優先して探す
-    m = re.search(r"https?://psyarxiv\.com/\S+", text)
-    if m:
-        return m.group(0).rstrip(").,]")
-
-    # 見つからなければ osf.io のURLを探す
-    m = re.search(r"https?://osf\.io/\S+", text)
-    if m:
-        return m.group(0).rstrip(").,]")
-
-    return None
-
-
-
-def fetch_psyarxiv_title(url: str) -> str | None:
-    """PsyArXiv ページから英語タイトルを取得（og:title 優先）"""
-    try:
-        resp = requests.get(url, timeout=30)
-        resp.raise_for_status()
-    except Exception:
-        return None
-
-    soup = BeautifulSoup(resp.text, "html.parser")
-
-    # <meta property="og:title" content="...">
-    og = soup.find("meta", attrs={"property": "og:title"})
-    if og and og.get("content"):
-        return og["content"].strip()
-
-    # フォールバック：<title>タグ
-    if soup.title and soup.title.string:
-        return soup.title.string.strip()
-
-    return None
 
 
 def ja_title_from_en(en_title: str) -> str:
@@ -83,17 +39,15 @@ def ja_title_from_en(en_title: str) -> str:
 
 
 def build_entries():
-    """PsyArXiv/OSFのRSS → 日本語タイトル付きエントリリストを作る。"""
+    """PsyArXiv RSS → 日本語タイトル付きエントリリストを作る。"""
     feed = fetch_source_feed_xml()
     entries = []
 
     for item in feed.find_all("item"):
-        # link の取り出し
+        # link
         link_tag = item.find("link")
         if link_tag is None:
             continue
-
-        # RSSによっては <link>URL</link> or <link href="..."> どちらもありうる
         url = (link_tag.string or "").strip()
         if not url:
             url = (link_tag.get("href") or "").strip()
@@ -104,13 +58,13 @@ def build_entries():
         if item.title and item.title.string:
             en_title = item.title.string.strip()
         else:
-            en_title = url  # さすがにここはあまり来ないはず
+            en_title = url
 
         # 日本語タイトル
         ja_title = ja_title_from_en(en_title)
         full_title = f"{ja_title} ({en_title})"
 
-        # pubDate（なければ現在時刻を使う）
+        # pubDate（なければ現在時刻）
         if item.pubDate and item.pubDate.string:
             pub_date = item.pubDate.string.strip()
         else:
@@ -127,9 +81,8 @@ def build_entries():
     return entries
 
 
-
 def build_rss_xml(entries):
-    """entriesリストからシンプルなRSS 2.0のXML文字列を生成する。"""
+    """entries リストからシンプルな RSS 2.0 の XML を生成。"""
     channel_title = "PsyArXiv bot (日本語タイトル付き)"
     channel_link = "https://bsky.app/profile/psyarxivbot.bsky.social"
     channel_description = (
@@ -144,26 +97,25 @@ def build_rss_xml(entries):
         guid_esc = link_esc
         pub_date = e["pubDate"]
 
-        item_xml = f"""
-    <item>
-      <title>{title_esc}</title>
-      <link>{link_esc}</link>
-      <guid isPermaLink="false">{guid_esc}</guid>
-      <pubDate>{pub_date}</pubDate>
-      <description><![CDATA[PsyArXiv: {e["link"]}]]></description>
-    </item>"""
+        item_xml = f"""  <item>
+    <title>{title_esc}</title>
+    <link>{link_esc}</link>
+    <guid isPermaLink="false">{guid_esc}</guid>
+    <pubDate>{pub_date}</pubDate>
+  </item>"""
         items_xml.append(item_xml)
 
     items_joined = "\n".join(items_xml)
 
     rss_xml = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-  <channel>
-    <title>{html.escape(channel_title)}</title>
-    <link>{html.escape(channel_link)}</link>
-    <description>{html.escape(channel_description)}</description>
-    <language>ja</language>{items_joined}
-  </channel>
+<channel>
+  <title>{html.escape(channel_title)}</title>
+  <link>{html.escape(channel_link)}</link>
+  <description>{html.escape(channel_description)}</description>
+  <language>ja</language>
+{items_joined}
+</channel>
 </rss>
 """
     return rss_xml
@@ -171,14 +123,13 @@ def build_rss_xml(entries):
 
 def main():
     entries = build_entries()
-    # エントリが0件でも、とりあえず空フィードとして出す
     rss_xml = build_rss_xml(entries)
 
-    docs_dir = "docs"
-    os.makedirs(docs_dir, exist_ok=True)
-    out_path = os.path.join(docs_dir, "feed.xml")
+    os.makedirs(DOCS_DIR, exist_ok=True)
+    out_path = os.path.join(DOCS_DIR, FEED_FILENAME)
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(rss_xml)
+
     print(f"Wrote {out_path}")
 
 
