@@ -25,15 +25,26 @@ def fetch_bluesky_feed_xml():
 
 
 def extract_psyarxiv_url(text: str | None) -> str | None:
-    """テキスト中から PsyArXiv の URL を1つ拾う。見つからなければ None。"""
+    """
+    テキスト中から PsyArXiv 関連のURLを1つ拾う。
+    psyarxiv.com か osf.io（PsyArXivプレプリント）を対象とする。
+    見つからなければ None。
+    """
     if not text:
         return None
+
+    # まず psyarxiv.com を優先して探す
     m = re.search(r"https?://psyarxiv\.com/\S+", text)
-    if not m:
-        return None
-    # 文末の ),. ] みたいなのを落とす
-    url = m.group(0).rstrip(").,]")
-    return url
+    if m:
+        return m.group(0).rstrip(").,]")
+
+    # 見つからなければ osf.io のURLを探す
+    m = re.search(r"https?://osf\.io/\S+", text)
+    if m:
+        return m.group(0).rstrip(").,]")
+
+    return None
+
 
 
 def fetch_psyarxiv_title(url: str) -> str | None:
