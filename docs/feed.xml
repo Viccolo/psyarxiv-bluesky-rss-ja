@@ -6,6 +6,18 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル（英語タイトル）形式で配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>【JPテスト】Interoceptive Accuracy, Metacognition, and Interpersonal Trust Perception Across the Adult Lifespan (Interoceptive Accuracy, Metacognition, and Interpersonal Trust Perception Across the Adult Lifespan)</title>
+    <link>https://osf.io/58hza</link>
+    <guid isPermaLink="false">https://osf.io/58hza</guid>
+    <pubDate>09 Dec 2025 14:47 +0000</pubDate>
+  </item>
+  <item>
+    <title>【JPテスト】The Supporting Role of Women in UK Farming. A Mixed Methods Analysis of Relational Need Satisfaction, Stress, and Well-being (The Supporting Role of Women in UK Farming. A Mixed Methods Analysis of Relational Need Satisfaction, Stress, and Well-being)</title>
+    <link>https://osf.io/sywp7</link>
+    <guid isPermaLink="false">https://osf.io/sywp7</guid>
+    <pubDate>09 Dec 2025 14:47 +0000</pubDate>
+  </item>
+  <item>
     <title>【JPテスト】Critical review on the development and evolution of beat perception (Critical review on the development and evolution of beat perception)</title>
     <link>https://osf.io/hrbsm</link>
     <guid isPermaLink="false">https://osf.io/hrbsm</guid>
@@ -165,18 +177,6 @@
     <title>【JPテスト】Enhancing career choice motivation and self-efficacy in high school students: A decision-analytic career intervention (Enhancing career choice motivation and self-efficacy in high school students: A decision-analytic career intervention)</title>
     <link>https://osf.io/kdbmf</link>
     <guid isPermaLink="false">https://osf.io/kdbmf</guid>
-    <pubDate>08 Dec 2025 23:38 +0000</pubDate>
-  </item>
-  <item>
-    <title>【JPテスト】Beyond exposure: Toward more precise terminology in nature and health research (Beyond exposure: Toward more precise terminology in nature and health research)</title>
-    <link>https://osf.io/e9yva</link>
-    <guid isPermaLink="false">https://osf.io/e9yva</guid>
-    <pubDate>08 Dec 2025 23:38 +0000</pubDate>
-  </item>
-  <item>
-    <title>【JPテスト】Training collaborators for effective division of labor (Training collaborators for effective division of labor)</title>
-    <link>https://osf.io/dxy7u</link>
-    <guid isPermaLink="false">https://osf.io/dxy7u</guid>
     <pubDate>08 Dec 2025 23:38 +0000</pubDate>
   </item>
 </channel>
