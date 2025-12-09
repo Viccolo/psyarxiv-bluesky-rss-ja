@@ -6,6 +6,12 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル（英語タイトル）形式で配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>【JPテスト】Multi-agent architecture for patient engagement across conversational channels (Multi-agent architecture for patient engagement across conversational channels)</title>
+    <link>https://osf.io/6kvmx</link>
+    <guid isPermaLink="false">https://osf.io/6kvmx</guid>
+    <pubDate>09 Dec 2025 21:38 +0000</pubDate>
+  </item>
+  <item>
     <title>【JPテスト】Como perciben los hablantes la morfologia &quot;decorativa&quot; del espanol (Como perciben los hablantes la morfologia &quot;decorativa&quot; del espanol)</title>
     <link>https://osf.io/7qzgu</link>
     <guid isPermaLink="false">https://osf.io/7qzgu</guid>
@@ -171,12 +177,6 @@
     <title>【JPテスト】The Third Visual Pathway for Social Perception (The Third Visual Pathway for Social Perception)</title>
     <link>https://osf.io/85vah</link>
     <guid isPermaLink="false">https://osf.io/85vah</guid>
-    <pubDate>08 Dec 2025 23:38 +0000</pubDate>
-  </item>
-  <item>
-    <title>【JPテスト】The universality of vowel intrinsic F0: A corpus study of cross-linguistic and inter-speaker variability in 75 languages (The universality of vowel intrinsic F0: A corpus study of cross-linguistic and inter-speaker variability in 75 languages)</title>
-    <link>https://osf.io/5ykqs</link>
-    <guid isPermaLink="false">https://osf.io/5ykqs</guid>
     <pubDate>08 Dec 2025 23:38 +0000</pubDate>
   </item>
 </channel>
