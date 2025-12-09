@@ -10,14 +10,13 @@ from bs4 import BeautifulSoup
 from googletrans import Translator
 
 # ---- 設定 ----
-# 入力元: PsyArXiv 本体の RSS
+# PsyArXiv 本体の RSS（ここを入力元にします）
 SOURCE_RSS = "https://psyarxiv.com/rss"
 
-# 出力先
 DOCS_DIR = "docs"
 FEED_FILENAME = "feed.xml"
 
-# Google 翻訳クライアント（無料API）
+# Google 翻訳クライアント
 translator = Translator(service_urls=["translate.googleapis.com"])
 
 
@@ -48,6 +47,7 @@ def build_entries():
         link_tag = item.find("link")
         if link_tag is None:
             continue
+
         url = (link_tag.string or "").strip()
         if not url:
             url = (link_tag.get("href") or "").strip()
