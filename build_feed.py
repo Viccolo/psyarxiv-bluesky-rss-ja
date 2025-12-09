@@ -74,6 +74,7 @@ def build_feed():
     fg = FeedGenerator()
     fg.id("psyarxivbot-ja-feed")
     fg.title("PsyArXiv bot (日本語タイトル付き)")
+    fg.description("PsyArXiv bot のポストを日本語タイトル付きで配信する非公式RSSフィード")
     fg.link(href="https://bsky.app/profile/psyarxivbot.bsky.social", rel="alternate")
     # 後でGitHub PagesのURLに差し替え可（とりあえずダミーでOK）
     fg.link(
