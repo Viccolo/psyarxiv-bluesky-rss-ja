@@ -10,18 +10,21 @@ import requests
 from bs4 import BeautifulSoup
 from googletrans import Translator
 
-# 元の Bluesky RSS（psyarxivbot）
-BLUESKY_RSS = "https://bsky.app/profile/psyarxivbot.bsky.social/rss"
+# 入力元: PsyArXiv（OSF）のプレプリントRSS
+# https://osf.io/preprints/psyarxiv/ は RSS として購読可能
+SOURCE_RSS = "https://osf.io/preprints/psyarxiv/"
+
 
 # Google翻訳クライアント（無料）
 translator = Translator(service_urls=["translate.googleapis.com"])
 
 
-def fetch_bluesky_feed_xml():
-    """BlueskyのRSSを取得して BeautifulSoup(xml) にする。"""
-    resp = requests.get(BLUESKY_RSS, timeout=30)
+def fetch_source_feed_xml():
+    """PsyArXiv/OSF のRSSを取得して BeautifulSoup(xml) にする。"""
+    resp = requests.get(SOURCE_RSS, timeout=30)
     resp.raise_for_status()
     return BeautifulSoup(resp.content, "xml")
+
 
 
 def extract_psyarxiv_url(text: str | None) -> str | None:
