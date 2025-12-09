@@ -3,7 +3,10 @@ name: Build PsyArXiv JA RSS
 on:
   schedule:
     - cron: "*/10 * * * *"  # 10分ごとに自動実行
-  workflow_dispatch:      # 手動実行ボタンも付けておく
+  workflow_dispatch:        # 手動実行ボタン
+
+permissions:
+  contents: write           # git push するために必要
 
 jobs:
   build:
