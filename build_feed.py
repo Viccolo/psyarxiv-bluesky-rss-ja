@@ -83,24 +83,34 @@ def ja_title_from_en(en_title: str) -> str:
 
 
 def build_entries():
-    """Bluesky RSS → PsyArXiv URLとタイトルを抜き出してエントリリストを返す。"""
-    bs_feed = fetch_bluesky_feed_xml()
+    """PsyArXiv/OSFのRSS → 日本語タイトル付きエントリリストを作る。"""
+    feed = fetch_source_feed_xml()
     entries = []
 
-    for item in bs_feed.find_all("item"):
-        raw_title = (item.title.string or "").strip() if item.title else ""
-        description = (item.description.string or "").strip() if item.description else ""
-        text = raw_title or description
-
-        psy_url = extract_psyarxiv_url(text)
-        if not psy_url:
+    for item in feed.find_all("item"):
+        # link の取り出し
+        link_tag = item.find("link")
+        if link_tag is None:
             continue
 
-        en_title = fetch_psyarxiv_title(psy_url) or text
+        # RSSによっては <link>URL</link> or <link href="..."> どちらもありうる
+        url = (link_tag.string or "").strip()
+        if not url:
+            url = (link_tag.get("href") or "").strip()
+        if not url:
+            continue
+
+        # 英語タイトル
+        if item.title and item.title.string:
+            en_title = item.title.string.strip()
+        else:
+            en_title = url  # さすがにここはあまり来ないはず
+
+        # 日本語タイトル
         ja_title = ja_title_from_en(en_title)
         full_title = f"{ja_title} ({en_title})"
 
-        # pubDate はあればそれを使う、なければ現在時刻
+        # pubDate（なければ現在時刻を使う）
         if item.pubDate and item.pubDate.string:
             pub_date = item.pubDate.string.strip()
         else:
@@ -109,12 +119,13 @@ def build_entries():
         entries.append(
             {
                 "title": full_title,
-                "link": psy_url,
+                "link": url,
                 "pubDate": pub_date,
             }
         )
 
     return entries
+
 
 
 def build_rss_xml(entries):
