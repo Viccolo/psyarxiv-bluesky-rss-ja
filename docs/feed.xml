@@ -6,6 +6,18 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル（英語タイトル）形式で配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>【JPテスト】Mind as Gravity (Mind as Gravity)</title>
+    <link>https://osf.io/8duqj</link>
+    <guid isPermaLink="false">https://osf.io/8duqj</guid>
+    <pubDate>09 Dec 2025 23:15 +0000</pubDate>
+  </item>
+  <item>
+    <title>【JPテスト】Owning the Doctorate:  The Role of Psychological Ownership in PhD Satisfaction and Commitment (Owning the Doctorate:  The Role of Psychological Ownership in PhD Satisfaction and Commitment)</title>
+    <link>https://osf.io/bv6w5</link>
+    <guid isPermaLink="false">https://osf.io/bv6w5</guid>
+    <pubDate>09 Dec 2025 23:15 +0000</pubDate>
+  </item>
+  <item>
     <title>【JPテスト】Bonding and Boundaries: The Relationship between Attachment Dimensions and  Spatial Navigation (Bonding and Boundaries: The Relationship between Attachment Dimensions and  Spatial Navigation)</title>
     <link>https://osf.io/fxcw3</link>
     <guid isPermaLink="false">https://osf.io/fxcw3</guid>
@@ -171,18 +183,6 @@
     <title>【JPテスト】Modeling Individual Differences in Working Memory: Subject-Level Parameter Recovery within the Memory Measurement Model Framework (M3) (Modeling Individual Differences in Working Memory: Subject-Level Parameter Recovery within the Memory Measurement Model Framework (M3))</title>
     <link>https://osf.io/945d2</link>
     <guid isPermaLink="false">https://osf.io/945d2</guid>
-    <pubDate>09 Dec 2025 14:18 +0000</pubDate>
-  </item>
-  <item>
-    <title>【JPテスト】The Efficacy of Neurofeedback on Attention-Deficit/Hyperactivity Disorder (ADHD): A Meta-Analysis (The Efficacy of Neurofeedback on Attention-Deficit/Hyperactivity Disorder (ADHD): A Meta-Analysis)</title>
-    <link>https://osf.io/c973p</link>
-    <guid isPermaLink="false">https://osf.io/c973p</guid>
-    <pubDate>09 Dec 2025 14:18 +0000</pubDate>
-  </item>
-  <item>
-    <title>【JPテスト】Inference guides retroactive effects of arousal on memory (Inference guides retroactive effects of arousal on memory)</title>
-    <link>https://osf.io/zsf83</link>
-    <guid isPermaLink="false">https://osf.io/zsf83</guid>
     <pubDate>09 Dec 2025 14:18 +0000</pubDate>
   </item>
 </channel>
