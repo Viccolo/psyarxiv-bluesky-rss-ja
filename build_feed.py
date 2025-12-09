@@ -59,13 +59,8 @@ def extract_en_title(text: str, osf_url: str) -> str:
 
 
 def ja_title_from_en(en_title: str) -> str:
-    """英語タイトルを日本語に翻訳（失敗したらそのまま返す）。"""
-    try:
-        res = translator.translate(en_title, src="en", dest="ja")
-        ja = res.text.strip()
-        return ja or en_title
-    except Exception:
-        return en_title
+    """テスト用：翻訳せず、プレフィックスだけ付ける。"""
+    return f"【JPテスト】{en_title}"
 
 
 def build_real_entries():
