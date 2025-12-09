@@ -3,19 +3,175 @@
 <channel>
   <title>PsyArXiv bot (日本語タイトル付き)</title>
   <link>https://bsky.app/profile/psyarxivbot.bsky.social</link>
-  <description>テスト用：固定2件のダミーエントリを配信するRSSフィード</description>
+  <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル（英語タイトル）形式で配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>テスト論文その1 (Test paper one)</title>
-    <link>https://psyarxiv.com/abcd1</link>
-    <guid isPermaLink="false">https://psyarxiv.com/abcd1</guid>
-    <pubDate>Tue, 09 Dec 2025 08:17:21 +0000</pubDate>
+    <title>Musical Animals: Are we? Can there be? (Musical Animals: Are we? Can there be?)</title>
+    <link>https://osf.io/j8x4w</link>
+    <guid isPermaLink="false">https://osf.io/j8x4w</guid>
+    <pubDate>09 Dec 2025 04:00 +0000</pubDate>
   </item>
   <item>
-    <title>テスト論文その2 (Test paper two)</title>
-    <link>https://psyarxiv.com/abcd2</link>
-    <guid isPermaLink="false">https://psyarxiv.com/abcd2</guid>
-    <pubDate>Tue, 09 Dec 2025 08:17:21 +0000</pubDate>
+    <title>Identifying early feeding and growth patterns of infants who later develop Avoidant Restrictive Food Intake Disorder (ARFID) symptoms: findings from a prospective birth cohort (Identifying early feeding and growth patterns of infants who later develop Avoidant Restrictive Food Intake Disorder (ARFID) symptoms: findings from a prospective birth cohort)</title>
+    <link>https://osf.io/c7ta6</link>
+    <guid isPermaLink="false">https://osf.io/c7ta6</guid>
+    <pubDate>09 Dec 2025 04:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>The relationship between cognitive abilities and depression in the context of old age: Testing for measurement invariance using local structural equation modeling (The relationship between cognitive abilities and depression in the context of old age: Testing for measurement invariance using local structural equation modeling)</title>
+    <link>https://osf.io/mvujd</link>
+    <guid isPermaLink="false">https://osf.io/mvujd</guid>
+    <pubDate>08 Dec 2025 23:38 +0000</pubDate>
+  </item>
+  <item>
+    <title>I Have Time to Do It Later:  Avoidant Automatic Thoughts and Task Avoidance in College Students with ADHD (I Have Time to Do It Later:  Avoidant Automatic Thoughts and Task Avoidance in College Students with ADHD)</title>
+    <link>https://osf.io/n2khc</link>
+    <guid isPermaLink="false">https://osf.io/n2khc</guid>
+    <pubDate>08 Dec 2025 23:38 +0000</pubDate>
+  </item>
+  <item>
+    <title>The Third Visual Pathway for Social Perception (The Third Visual Pathway for Social Perception)</title>
+    <link>https://osf.io/85vah</link>
+    <guid isPermaLink="false">https://osf.io/85vah</guid>
+    <pubDate>08 Dec 2025 23:38 +0000</pubDate>
+  </item>
+  <item>
+    <title>The universality of vowel intrinsic F0: A corpus study of cross-linguistic and inter-speaker variability in 75 languages (The universality of vowel intrinsic F0: A corpus study of cross-linguistic and inter-speaker variability in 75 languages)</title>
+    <link>https://osf.io/5ykqs</link>
+    <guid isPermaLink="false">https://osf.io/5ykqs</guid>
+    <pubDate>08 Dec 2025 23:38 +0000</pubDate>
+  </item>
+  <item>
+    <title>Enhancing career choice motivation and self-efficacy in high school students: A decision-analytic career intervention (Enhancing career choice motivation and self-efficacy in high school students: A decision-analytic career intervention)</title>
+    <link>https://osf.io/kdbmf</link>
+    <guid isPermaLink="false">https://osf.io/kdbmf</guid>
+    <pubDate>08 Dec 2025 23:38 +0000</pubDate>
+  </item>
+  <item>
+    <title>Beyond exposure: Toward more precise terminology in nature and health research (Beyond exposure: Toward more precise terminology in nature and health research)</title>
+    <link>https://osf.io/e9yva</link>
+    <guid isPermaLink="false">https://osf.io/e9yva</guid>
+    <pubDate>08 Dec 2025 23:38 +0000</pubDate>
+  </item>
+  <item>
+    <title>Training collaborators for effective division of labor (Training collaborators for effective division of labor)</title>
+    <link>https://osf.io/dxy7u</link>
+    <guid isPermaLink="false">https://osf.io/dxy7u</guid>
+    <pubDate>08 Dec 2025 23:38 +0000</pubDate>
+  </item>
+  <item>
+    <title>Regularized Joint Maximum Likelihood Estimation for Exploratory Multidimensional Item Response Theory Models (Regularized Joint Maximum Likelihood Estimation for Exploratory Multidimensional Item Response Theory Models)</title>
+    <link>https://osf.io/df4n6</link>
+    <guid isPermaLink="false">https://osf.io/df4n6</guid>
+    <pubDate>08 Dec 2025 19:36 +0000</pubDate>
+  </item>
+  <item>
+    <title>The Structural Validity of the Italian Version of the Short Scale of Creative Self (The Structural Validity of the Italian Version of the Short Scale of Creative Self)</title>
+    <link>https://osf.io/m2k4p</link>
+    <guid isPermaLink="false">https://osf.io/m2k4p</guid>
+    <pubDate>08 Dec 2025 19:36 +0000</pubDate>
+  </item>
+  <item>
+    <title>Spirituality Beyond Religion: Development of 9-Item and 27-Item  Multidimensional Measures of Spiritual Yearning (Spirituality Beyond Religion: Development of 9-Item and 27-Item  Multidimensional Measures of Spiritual Yearning)</title>
+    <link>https://osf.io/wrjzu</link>
+    <guid isPermaLink="false">https://osf.io/wrjzu</guid>
+    <pubDate>08 Dec 2025 19:36 +0000</pubDate>
+  </item>
+  <item>
+    <title>A Multilevel Theoretical Model of Adverse Childhood Experiences and Complex PTSD in Mexico: A Decolonial Perspective (A Multilevel Theoretical Model of Adverse Childhood Experiences and Complex PTSD in Mexico: A Decolonial Perspective)</title>
+    <link>https://osf.io/xdk42</link>
+    <guid isPermaLink="false">https://osf.io/xdk42</guid>
+    <pubDate>08 Dec 2025 17:16 +0000</pubDate>
+  </item>
+  <item>
+    <title>Estimating the evidentiary value of studies examining bodily feedback effects on motivation: a z-curve analysis (Estimating the evidentiary value of studies examining bodily feedback effects on motivation: a z-curve analysis)</title>
+    <link>https://osf.io/pr3y5</link>
+    <guid isPermaLink="false">https://osf.io/pr3y5</guid>
+    <pubDate>08 Dec 2025 17:16 +0000</pubDate>
+  </item>
+  <item>
+    <title>Measuring Depression in Aphasia: Development of an Ecological Momentary Assessment Tool (Measuring Depression in Aphasia: Development of an Ecological Momentary Assessment Tool)</title>
+    <link>https://osf.io/pa69v</link>
+    <guid isPermaLink="false">https://osf.io/pa69v</guid>
+    <pubDate>08 Dec 2025 17:16 +0000</pubDate>
+  </item>
+  <item>
+    <title>The most wonderful time of the year? Parenting stress spirals and a gendered labour division over the Christmas holidays (The most wonderful time of the year? Parenting stress spirals and a gendered labour division over the Christmas holidays)</title>
+    <link>https://osf.io/xy9v7</link>
+    <guid isPermaLink="false">https://osf.io/xy9v7</guid>
+    <pubDate>08 Dec 2025 17:16 +0000</pubDate>
+  </item>
+  <item>
+    <title>Considerations for setting up an S-tier behavioral and brain science laboratory (Considerations for setting up an S-tier behavioral and brain science laboratory)</title>
+    <link>https://osf.io/meh8j</link>
+    <guid isPermaLink="false">https://osf.io/meh8j</guid>
+    <pubDate>07 Dec 2025 08:19 +0000</pubDate>
+  </item>
+  <item>
+    <title>Intuitions about trait responsibilities (Intuitions about trait responsibilities)</title>
+    <link>https://osf.io/meyrx</link>
+    <guid isPermaLink="false">https://osf.io/meyrx</guid>
+    <pubDate>07 Dec 2025 08:19 +0000</pubDate>
+  </item>
+  <item>
+    <title>From Museum to Workshop: A Pragmatist Intervention in Science of Consciousness (From Museum to Workshop: A Pragmatist Intervention in Science of Consciousness)</title>
+    <link>https://osf.io/kpe9r</link>
+    <guid isPermaLink="false">https://osf.io/kpe9r</guid>
+    <pubDate>07 Dec 2025 08:19 +0000</pubDate>
+  </item>
+  <item>
+    <title>Polarity and the speed of scalar implicature processing (Polarity and the speed of scalar implicature processing)</title>
+    <link>https://osf.io/25xwu</link>
+    <guid isPermaLink="false">https://osf.io/25xwu</guid>
+    <pubDate>07 Dec 2025 08:19 +0000</pubDate>
+  </item>
+  <item>
+    <title>Experiments in Church-Based Research (Experiments in Church-Based Research)</title>
+    <link>https://osf.io/m5he2</link>
+    <guid isPermaLink="false">https://osf.io/m5he2</guid>
+    <pubDate>07 Dec 2025 08:19 +0000</pubDate>
+  </item>
+  <item>
+    <title>Novel experiences create a penumbra of enhanced autobiographical memory: evidence from a daily diary study (Novel experiences create a penumbra of enhanced autobiographical memory: evidence from a daily diary study)</title>
+    <link>https://osf.io/vkq6a</link>
+    <guid isPermaLink="false">https://osf.io/vkq6a</guid>
+    <pubDate>07 Dec 2025 07:35 +0000</pubDate>
+  </item>
+  <item>
+    <title>Large Language Models Acting as Psychotherapists: A Scoping Review (Large Language Models Acting as Psychotherapists: A Scoping Review)</title>
+    <link>https://osf.io/8x974</link>
+    <guid isPermaLink="false">https://osf.io/8x974</guid>
+    <pubDate>07 Dec 2025 06:22 +0000</pubDate>
+  </item>
+  <item>
+    <title>Genuine Learning Biases Persist After Accounting for Temporally Decreasing Learning Rates: insight from fitting six datasets (Genuine Learning Biases Persist After Accounting for Temporally Decreasing Learning Rates: insight from fitting six datasets)</title>
+    <link>https://osf.io/xyvk9</link>
+    <guid isPermaLink="false">https://osf.io/xyvk9</guid>
+    <pubDate>07 Dec 2025 06:22 +0000</pubDate>
+  </item>
+  <item>
+    <title>Failure to Replicate Previous Reports of Associations Between Fluid Intelligence and EEG Signal Complexity and Microstates: A Preregistered Study in a Large Sample (Failure to Replicate Previous Reports of Associations Between Fluid Intelligence and EEG Signal Complexity and Microstates: A Preregistered Study in a Large Sample)</title>
+    <link>https://osf.io/4kqhs</link>
+    <guid isPermaLink="false">https://osf.io/4kqhs</guid>
+    <pubDate>07 Dec 2025 06:22 +0000</pubDate>
+  </item>
+  <item>
+    <title>Convictions or Plausibility Judgements? The Ambiguity of Self-Reported Agreement with Conspiracy Theories (Convictions or Plausibility Judgements? The Ambiguity of Self-Reported Agreement with Conspiracy Theories)</title>
+    <link>https://osf.io/9ebhq</link>
+    <guid isPermaLink="false">https://osf.io/9ebhq</guid>
+    <pubDate>07 Dec 2025 06:22 +0000</pubDate>
+  </item>
+  <item>
+    <title>Chasing losses and wins: A drift-diffusion decomposition of sequential gambling decisions (Chasing losses and wins: A drift-diffusion decomposition of sequential gambling decisions)</title>
+    <link>https://osf.io/rs7b8</link>
+    <guid isPermaLink="false">https://osf.io/rs7b8</guid>
+    <pubDate>07 Dec 2025 06:22 +0000</pubDate>
+  </item>
+  <item>
+    <title>Red Facilitates Anger Perception Across Cultures (Red Facilitates Anger Perception Across Cultures)</title>
+    <link>https://osf.io/6by4h</link>
+    <guid isPermaLink="false">https://osf.io/6by4h</guid>
+    <pubDate>07 Dec 2025 06:22 +0000</pubDate>
   </item>
 </channel>
 </rss>
