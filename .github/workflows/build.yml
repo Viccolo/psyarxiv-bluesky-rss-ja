@@ -5,11 +5,12 @@ on:
     - cron: "*/10 * * * *"  # 10分ごと
   workflow_dispatch:        # 手動実行ボタン
 
+permissions:
+  contents: write           # git push するために必要
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout
