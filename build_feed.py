@@ -2,28 +2,29 @@
 import os
 import re
 import sys
+import html
 from datetime import datetime, timezone
+from email.utils import format_datetime
 
 import requests
 from bs4 import BeautifulSoup
-from feedgen.feed import FeedGenerator
 from googletrans import Translator
 
 # 元の Bluesky RSS（psyarxivbot）
 BLUESKY_RSS = "https://bsky.app/profile/psyarxivbot.bsky.social/rss"
 
-# Google翻訳クライアント
+# Google翻訳クライアント（無料）
 translator = Translator(service_urls=["translate.googleapis.com"])
 
 
-def fetch_bluesky_feed():
+def fetch_bluesky_feed_xml():
     """BlueskyのRSSを取得して BeautifulSoup(xml) にする。"""
     resp = requests.get(BLUESKY_RSS, timeout=30)
     resp.raise_for_status()
     return BeautifulSoup(resp.content, "xml")
 
 
-def extract_psyarxiv_url(text):
+def extract_psyarxiv_url(text: str | None) -> str | None:
     """テキスト中から PsyArXiv の URL を1つ拾う。見つからなければ None。"""
     if not text:
         return None
@@ -35,7 +36,7 @@ def extract_psyarxiv_url(text):
     return url
 
 
-def fetch_psyarxiv_title(url):
+def fetch_psyarxiv_title(url: str) -> str | None:
     """PsyArXiv ページから英語タイトルを取得（og:title 優先）"""
     try:
         resp = requests.get(url, timeout=30)
@@ -57,31 +58,20 @@ def fetch_psyarxiv_title(url):
     return None
 
 
-def ja_title_from_en(en_title):
+def ja_title_from_en(en_title: str) -> str:
     """英語タイトルを日本語に翻訳（失敗したらそのまま返す）。"""
     try:
         res = translator.translate(en_title, src="en", dest="ja")
         ja = res.text.strip()
-        return ja
+        return ja or en_title
     except Exception:
         return en_title
 
 
-def build_feed():
-    """Bluesky→PsyArXiv→日本語タイトル付きRSSを生成して docs/feed.xml に保存。"""
-    bs_feed = fetch_bluesky_feed()
-
-    fg = FeedGenerator()
-    fg.id("psyarxivbot-ja-feed")
-    fg.title("PsyArXiv bot (日本語タイトル付き)")
-    fg.description("PsyArXiv bot のポストを日本語タイトル付きで配信する非公式RSSフィード")
-    fg.link(href="https://bsky.app/profile/psyarxivbot.bsky.social", rel="alternate")
-    # 後でGitHub PagesのURLに差し替え可（とりあえずダミーでOK）
-    fg.link(
-        href="https://example.github.io/psyarxiv-bluesky-rss-ja/feed.xml",
-        rel="self",
-    )
-    fg.language("ja")
+def build_entries():
+    """Bluesky RSS → PsyArXiv URLとタイトルを抜き出してエントリリストを返す。"""
+    bs_feed = fetch_bluesky_feed_xml()
+    entries = []
 
     for item in bs_feed.find_all("item"):
         raw_title = (item.title.string or "").strip() if item.title else ""
@@ -90,38 +80,86 @@ def build_feed():
 
         psy_url = extract_psyarxiv_url(text)
         if not psy_url:
-            # PsyArXivリンクが無いポストはスキップ
             continue
 
         en_title = fetch_psyarxiv_title(psy_url) or text
         ja_title = ja_title_from_en(en_title)
-
         full_title = f"{ja_title} ({en_title})"
 
-        fe = fg.add_entry()
-        fe.id(psy_url)
-        fe.link(href=psy_url)  # 直接 PsyArXiv に飛ぶ
-        fe.title(full_title)
-
-        # Bluesky側のpubDateがあれば使う
+        # pubDate はあればそれを使う、なければ現在時刻
         if item.pubDate and item.pubDate.string:
-            fe.pubDate(item.pubDate.string)
+            pub_date = item.pubDate.string.strip()
         else:
-            fe.pubDate(datetime.now(timezone.utc))
+            pub_date = format_datetime(datetime.now(timezone.utc))
 
-        # 本文はここでは特に載せない（PsyArXiv側で読む運用）
-        fe.description(f"PsyArXiv: {psy_url}")
+        entries.append(
+            {
+                "title": full_title,
+                "link": psy_url,
+                "pubDate": pub_date,
+            }
+        )
 
-    # GitHub Pages 用に docs/ 配下にRSSを書き出し
+    return entries
+
+
+def build_rss_xml(entries):
+    """entriesリストからシンプルなRSS 2.0のXML文字列を生成する。"""
+    channel_title = "PsyArXiv bot (日本語タイトル付き)"
+    channel_link = "https://bsky.app/profile/psyarxivbot.bsky.social"
+    channel_description = (
+        "psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、"
+        "日本語タイトル（英語タイトル）形式で配信する非公式RSSフィード"
+    )
+
+    items_xml = []
+    for e in entries:
+        title_esc = html.escape(e["title"])
+        link_esc = html.escape(e["link"])
+        guid_esc = link_esc
+        pub_date = e["pubDate"]
+
+        item_xml = f"""
+    <item>
+      <title>{title_esc}</title>
+      <link>{link_esc}</link>
+      <guid isPermaLink="false">{guid_esc}</guid>
+      <pubDate>{pub_date}</pubDate>
+      <description><![CDATA[PsyArXiv: {e["link"]}]]></description>
+    </item>"""
+        items_xml.append(item_xml)
+
+    items_joined = "\n".join(items_xml)
+
+    rss_xml = f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>{html.escape(channel_title)}</title>
+    <link>{html.escape(channel_link)}</link>
+    <description>{html.escape(channel_description)}</description>
+    <language>ja</language>{items_joined}
+  </channel>
+</rss>
+"""
+    return rss_xml
+
+
+def main():
+    entries = build_entries()
+    # エントリが0件でも、とりあえず空フィードとして出す
+    rss_xml = build_rss_xml(entries)
+
     docs_dir = "docs"
     os.makedirs(docs_dir, exist_ok=True)
-    fg.rss_str(pretty=True)
-    fg.rss_file(os.path.join(docs_dir, "feed.xml"))
+    out_path = os.path.join(docs_dir, "feed.xml")
+    with open(out_path, "w", encoding="utf-8") as f:
+        f.write(rss_xml)
+    print(f"Wrote {out_path}")
 
 
 if __name__ == "__main__":
     try:
-        build_feed()
+        main()
     except Exception as e:
         print("Error:", e, file=sys.stderr)
         sys.exit(1)
