@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-  <channel>
-    <title>PsyArXiv bot (日本語タイトル付き)</title>
-    <link>https://bsky.app/profile/psyarxivbot.bsky.social</link>
-    <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル（英語タイトル）形式で配信する非公式RSSフィード</description>
-    <language>ja</language>
-  </channel>
+<channel>
+  <title>PsyArXiv bot (日本語タイトル付き)</title>
+  <link>https://bsky.app/profile/psyarxivbot.bsky.social</link>
+  <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル（英語タイトル）形式で配信する非公式RSSフィード</description>
+  <language>ja</language>
+
+</channel>
 </rss>
