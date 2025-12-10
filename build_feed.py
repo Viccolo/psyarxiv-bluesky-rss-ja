@@ -8,7 +8,6 @@ from email.utils import format_datetime
 
 import requests
 from bs4 import BeautifulSoup
-from googletrans import Translator
 from openai import OpenAI
 
 
@@ -20,9 +19,6 @@ client = OpenAI()  # OPENAI_API_KEY は環境変数から自動で拾われる
 
 DOCS_DIR = "docs"
 FEED_FILENAME = "feed.xml"
-
-# Google 翻訳クライアント
-translator = Translator(service_urls=["translate.googleapis.com"])
 
 
 def fetch_source_feed_xml():
