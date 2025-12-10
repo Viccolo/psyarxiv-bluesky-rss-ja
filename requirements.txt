@@ -1,5 +1,3 @@
 requests
 beautifulsoup4
-feedgen
-googletrans==4.0.0rc1
 openai>=1.55.0
