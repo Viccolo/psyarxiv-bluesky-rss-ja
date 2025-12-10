@@ -9,10 +9,14 @@ from email.utils import format_datetime
 import requests
 from bs4 import BeautifulSoup
 from googletrans import Translator
+from openai import OpenAI
+
 
 # ---- 設定 ----
 # 入力元: Bluesky の PsyArXivBot プロフィールRSS
 SOURCE_RSS = "https://bsky.app/profile/psyarxivbot.bsky.social/rss"
+
+client = OpenAI()  # OPENAI_API_KEY は環境変数から自動で拾われる
 
 DOCS_DIR = "docs"
 FEED_FILENAME = "feed.xml"
@@ -59,8 +63,37 @@ def extract_en_title(text: str, osf_url: str) -> str:
 
 
 def ja_title_from_en(en_title: str) -> str:
-    """テスト用：翻訳せず、プレフィックスだけ付ける。"""
-    return f"【JPテスト】{en_title}"
+    """
+    gpt-5-nano を使って英語タイトルを自然な日本語タイトルに翻訳する。
+    失敗したら元の英語タイトルをそのまま返す。
+    """
+    # APIキーがなければ英語のまま
+    if not os.environ.get("OPENAI_API_KEY"):
+        return en_title
+
+    try:
+        # Responses API でシンプルに1行翻訳させる
+        response = client.responses.create(
+            model="gpt-5-nano",
+            input=(
+                "あなたは学術論文タイトルの専門翻訳者です。"
+                "次の英語の論文タイトルを、学術的（特に心理学的）に自然な日本語タイトルに翻訳してください。"
+                "出力は日本語タイトルのみを1行で書き、余計な説明や引用符は一切付けないでください。\n\n"
+                f"{en_title}"
+            ),
+            # ちょっとだけ決定的寄りに
+            temperature=0.2,
+        )
+
+        # Responses API のテキスト本体を取り出す
+        ja = response.output[0].content[0].text.strip()
+        return ja or en_title
+
+    except Exception as e:
+        # 何かエラーが出てもフィード生成自体は止めない
+        print(f"OpenAI translation error: {e}", file=sys.stderr)
+        return en_title
+
 
 
 def build_real_entries():
