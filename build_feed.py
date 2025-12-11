@@ -10,16 +10,18 @@ import requests
 from bs4 import BeautifulSoup
 from openai import OpenAI
 
-
-# ---- 設定 ----
-# 入力元: Bluesky の PsyArXivBot プロフィールRSS
+# ==== 設定 ====
+# 入力元: Bluesky の PsyArXivBot プロフィール RSS
 SOURCE_RSS = "https://bsky.app/profile/psyarxivbot.bsky.social/rss"
-
-client = OpenAI()  # OPENAI_API_KEY は環境変数から自動で拾われる
 
 DOCS_DIR = "docs"
 FEED_FILENAME = "feed.xml"
 
+# OpenAI クライアント（環境変数 OPENAI_API_KEY からキーを読む）
+client = OpenAI()
+
+
+# ==== Bluesky → OSFリンク & 英語タイトル 抽出 ====
 
 def fetch_source_feed_xml():
     """Bluesky の RSS を取得して BeautifulSoup(xml) にする。"""
@@ -29,76 +31,74 @@ def fetch_source_feed_xml():
 
 
 def extract_osf_url(text: str | None) -> str | None:
-    """テキスト中から OSF の URL を1つ拾う。見つからなければ None。"""
+    """テキスト中から OSF/PsyArXiv の URL を1つ拾う。見つからなければ None。"""
     if not text:
         return None
+
+    # psyarxiv.com を優先
+    m = re.search(r"https?://psyarxiv\.com/\S+", text)
+    if m:
+        return m.group(0).rstrip(").,]")
+
+    # なければ osf.io
     m = re.search(r"https?://osf\.io/\S+", text)
-    if not m:
-        return None
-    # 文末の ),. ] みたいなのを落とす
-    url = m.group(0).rstrip(").,]")
-    return url
+    if m:
+        return m.group(0).rstrip(").,]")
+
+    return None
 
 
-def extract_en_title(text: str, osf_url: str) -> str:
+def extract_en_title(text: str, url: str) -> str:
     """
     Bluesky のポスト本文から英語タイトル部分を取り出す。
-    例:
-      "Maladaptive Personality Trait Change ... Pandemic in the German General Population: http://osf.io/n8yek_v1/"
-    のような場合を想定。
+    URL の前後を削って、残りをタイトルとみなす。
     """
-    # OSF URL を削る
-    t = text.replace(osf_url, "")
-    # URL 前に付いているコロンやダッシュを落とす
-    t = t.rstrip()
-    t = re.sub(r"[:\-–—\s]+$", "", t)
-    t = t.strip()
+    t = text.replace(url, "")
+    # URL直前のコロン・ダッシュなどを削る
+    t = re.sub(r"[:\-–—\s]+$", "", t.strip())
     if not t:
-        return osf_url
+        return url
     return t
 
 
+# ==== 英語タイトル → 日本語タイトル ====
+
 def ja_title_from_en(en_title: str) -> str:
     """
-    gpt-5-nano を使って英語タイトルを自然な日本語タイトルに翻訳する。
+    gpt-5-nano を使って英語タイトルを自然な日本語タイトルに翻訳。
     失敗したら元の英語タイトルをそのまま返す。
     """
-    # APIキーがなければ英語のまま
     if not os.environ.get("OPENAI_API_KEY"):
+        # APIキーが無いときは英語のまま
         return en_title
 
     try:
-        # Responses API でシンプルに1行翻訳させる
         response = client.responses.create(
-            model="gpt-5-nano",
+            model="gpt-5.1-mini",  # gpt-5-nano 系の低コストモデル
             input=(
                 "あなたは学術論文タイトルの専門翻訳者です。"
-                "次の英語の論文タイトルを、学術的（特に心理学的）に自然な日本語タイトルに翻訳してください。"
+                "次の英語の論文タイトルを、学術的に自然な日本語タイトルに翻訳してください。"
                 "出力は日本語タイトルのみを1行で書き、余計な説明や引用符は一切付けないでください。\n\n"
                 f"{en_title}"
             ),
-            # ちょっとだけ決定的寄りに
             temperature=0.2,
         )
-
-        # Responses API のテキスト本体を取り出す
         ja = response.output[0].content[0].text.strip()
         return ja or en_title
-
     except Exception as e:
-        # 何かエラーが出てもフィード生成自体は止めない
         print(f"OpenAI translation error: {e}", file=sys.stderr)
         return en_title
 
 
+# ==== エントリ構築 ====
 
 def build_real_entries():
-    """Bluesky RSS → 日本語タイトル付きエントリリストを作る。"""
+    """Bluesky RSS から実データを読み、日本語タイトル付きエントリを作る。"""
     feed = fetch_source_feed_xml()
     entries = []
 
     for item in feed.find_all("item"):
-        # ポスト本文（title を優先、なければ description）
+        # ポスト本文（title を優先）
         if item.title and item.title.string:
             text = item.title.string.strip()
         elif item.description and item.description.string:
@@ -106,12 +106,12 @@ def build_real_entries():
         else:
             continue
 
-        osf_url = extract_osf_url(text)
-        if not osf_url:
-            # OSF のURLが含まれていないポストはスキップ
+        url = extract_osf_url(text)
+        if not url:
+            # OSFリンクを含まないポストはスキップ
             continue
 
-        en_title = extract_en_title(text, osf_url)
+        en_title = extract_en_title(text, url)
         ja_title = ja_title_from_en(en_title)
         full_title = f"{ja_title} ({en_title})"
 
@@ -124,7 +124,7 @@ def build_real_entries():
         entries.append(
             {
                 "title": full_title,
-                "link": osf_url,  # Reeder から直接 PsyArXiv/OSF へ飛びたいのでこちらを使う
+                "link": url,  # Reederから直接 OSF/PsyArXiv へ飛ぶ
                 "pubDate": pub_date,
             }
         )
@@ -133,7 +133,7 @@ def build_real_entries():
 
 
 def build_test_entries():
-    """テスト用の固定2件。何かあったときのフォールバック用。"""
+    """トラブル時のフォールバック用テスト2件。"""
     now = format_datetime(datetime.now(timezone.utc))
     return [
         {
@@ -150,7 +150,7 @@ def build_test_entries():
 
 
 def build_entries():
-    """本番用エントリを作り、失敗したらテスト2件にフォールバック。"""
+    """本番エントリを作成し、ダメならテストにフォールバックする。"""
     try:
         entries = build_real_entries()
         if entries:
@@ -162,8 +162,10 @@ def build_entries():
     return build_test_entries()
 
 
+# ==== RSS 生成 ====
+
 def build_rss_xml(entries):
-    """entries からシンプルな RSS 2.0 を構成。"""
+    """entriesリストからシンプルなRSS 2.0のXML文字列を生成する。"""
     channel_title = "PsyArXiv bot (日本語タイトル付き)"
     channel_link = "https://bsky.app/profile/psyarxivbot.bsky.social"
     channel_description = (
