@@ -38,7 +38,7 @@ jobs:
 　      env:
 　        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 　      run: |
-　        # docs/feed.xml に変更がなければ終了
+　    
 　        if git diff --quiet docs/feed.xml; then
 　          echo "No changes to commit"
 　          exit 0
