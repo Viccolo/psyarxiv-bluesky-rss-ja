@@ -34,16 +34,22 @@ jobs:
         run: |
           python build_feed.py
 
-      - name: Commit and push feed.xml if changed
-        run: |
-          if git diff --quiet docs/feed.xml; then
-            echo "No changes in docs/feed.xml, skipping commit."
-            exit 0
-          fi
+    　- name: Commit and push if feed.xml changed
+　      env:
+　        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+　      run: |
+　        # docs/feed.xml に変更がなければ終了
+　        if git diff --quiet docs/feed.xml; then
+　          echo "No changes to commit"
+　          exit 0
+　        fi
 
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+　        git config user.name "github-actions[bot]"
+　        git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add docs/feed.xml
-          git commit -m "Update feed"
-          git push
+　        git add docs/feed.xml
+ 　       git commit -m "Update feed"
+
+ 　       # origin に GITHUB_TOKEN 付きの URL をセットしてから push
+ 　       git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/Viccolo/psyarxiv-bluesky-rss-ja.git
+ 　       git push origin main
