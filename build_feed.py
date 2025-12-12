@@ -73,7 +73,7 @@ def ja_title_from_en(en_title: str) -> str:
 
     try:
         response = client.responses.create(
-            model="gpt-5-mini"
+            model="gpt-5-mini",
             input=[
                 {
                     "role": "system",
