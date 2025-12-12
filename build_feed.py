@@ -1,4 +1,3 @@
-import os
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
@@ -9,129 +8,118 @@ from openai import OpenAI
 # 設定
 # =========================
 
-BLUESKY_FEED_URL = "https://bsky.app/profile/psyarxivbot.bsky.social"
+BLUESKY_URL = "https://bsky.app/profile/psyarxivbot.bsky.social"
 OUTPUT_PATH = "docs/feed.xml"
+AUTHOR_DISPLAY_LIMIT = 3
+MODEL_TRANSLATE = "gpt-4.1-mini"
 
-# 著者表示数（ここを変えるだけ）
-AUTHOR_DISPLAY_LIMIT = 3   # 例：3 → 3人まで表示、それ以上は et al.
-
-MODEL_TRANSLATE = "gpt-4.1-mini"  # 安定動作確認済み
-
-client = OpenAI()  # OPENAI_API_KEY を使用
+client = OpenAI()  # OPENAI_API_KEY 必須
 
 
 # =========================
-# ユーティリティ
+# 共通ユーティリティ
 # =========================
 
-def fetch_html(url: str) -> BeautifulSoup | None:
-    try:
-        r = requests.get(url, timeout=10)
-        r.raise_for_status()
-        return BeautifulSoup(r.text, "html.parser")
-    except Exception:
-        return None
+def get_soup(url: str):
+    r = requests.get(url, timeout=15)
+    r.raise_for_status()
+    return BeautifulSoup(r.text, "html.parser")
 
 
-def fetch_authors(osf_url: str) -> list[str]:
-    """
-    PsyArXiv 論文ページの Authors セクションから
-    表示されている名前をそのまま取得（厳密性は追わない）
-    """
-    soup = fetch_html(osf_url)
-    if soup is None:
-        return []
+# =========================
+# Bluesky → OSF URL 取得
+# =========================
 
+def fetch_osf_links():
+    soup = get_soup(BLUESKY_URL)
+    links = []
+
+    for a in soup.find_all("a", href=True):
+        href = a["href"]
+        if "osf.io/" in href:
+            if href.startswith("/"):
+                href = "https://bsky.app" + href
+            links.append(href)
+
+    # 重複除去
+    return list(dict.fromkeys(links))
+
+
+# =========================
+# OSF 論文情報取得
+# =========================
+
+def fetch_osf_metadata(osf_url: str):
+    soup = get_soup(osf_url)
+
+    # タイトル
+    title_tag = soup.find("h1")
+    title_en = title_tag.get_text(strip=True) if title_tag else "Untitled"
+
+    # 著者（2025年以降UI対応）
     authors = []
-
-    # 2025年以降のUI対応：profileリンクを持つ a タグ
     for a in soup.select('a[href^="/profile/"]'):
         name = a.get_text(strip=True)
         if name:
             authors.append(name)
 
-    # 重複除去（順序保持）
-    return list(dict.fromkeys(authors))
+    authors = list(dict.fromkeys(authors))
+
+    return title_en, authors
 
 
-def format_authors(authors: list[str], limit: int) -> str:
-    """
-    表示人数は後で自由に変更できるように分離
-    """
+def format_authors(authors):
     if not authors:
         return ""
-
-    if len(authors) <= limit:
+    if len(authors) <= AUTHOR_DISPLAY_LIMIT:
         return ", ".join(authors)
-
-    return ", ".join(authors[:limit]) + " et al."
-
-
-def translate_title(title_en: str) -> str:
-    """
-    英語タイトル → 日本語タイトル
-    """
-    try:
-        res = client.chat.completions.create(
-            model=MODEL_TRANSLATE,
-            messages=[
-                {
-                    "role": "system",
-                    "content": "Translate academic paper titles into natural Japanese."
-                },
-                {
-                    "role": "user",
-                    "content": title_en
-                }
-            ],
-            temperature=0.2,
-        )
-        return res.choices[0].message.content.strip()
-    except Exception:
-        return title_en  # 失敗時は英語のまま
+    return ", ".join(authors[:AUTHOR_DISPLAY_LIMIT]) + " et al."
 
 
 # =========================
-# メイン処理
+# 翻訳
+# =========================
+
+def translate_title(title_en: str) -> str:
+    res = client.chat.completions.create(
+        model=MODEL_TRANSLATE,
+        messages=[
+            {"role": "system", "content": "Translate academic paper titles into natural Japanese."},
+            {"role": "user", "content": title_en}
+        ],
+        temperature=0.2,
+    )
+    return res.choices[0].message.content.strip()
+
+
+# =========================
+# RSS生成
 # =========================
 
 def build_feed():
     fg = FeedGenerator()
-    fg.load_extension("dc", atom=False, rss=True)
-
     fg.title("PsyArXiv bot (日本語タイトル付き)")
-    fg.link(href=BLUESKY_FEED_URL)
+    fg.link(href=BLUESKY_URL)
     fg.description(
-        "psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、"
-        "日本語タイトル（英語タイトル）＋著者情報を配信する非公式RSSフィード"
+        "psyarxivbot.bsky.social の投稿から PsyArXiv 論文を取得し、"
+        "日本語タイトル＋英語タイトル＋著者情報を配信する非公式RSS"
     )
     fg.language("ja")
 
-    # ----
-    # ここでは「すでに取得済み」と仮定
-    # 実際は Bluesky から osf_url / title_en / pub_date を取っているはず
-    # ----
+    osf_links = fetch_osf_links()
 
-    papers = fetch_papers_somehow()  # ← 既存処理をそのまま使う想定
-
-    for paper in papers:
-        title_en = paper["title"]
-        osf_url = paper["url"]
-        pub_date = paper["published"]
-
+    for osf_url in osf_links:
+        title_en, authors = fetch_osf_metadata(osf_url)
         title_ja = translate_title(title_en)
-        authors = fetch_authors(osf_url)
-        author_text = format_authors(authors, AUTHOR_DISPLAY_LIMIT)
+        author_text = format_authors(authors)
 
         fe = fg.add_entry()
         fe.id(osf_url + "#ja")
         fe.link(href=osf_url)
-        fe.pubDate(pub_date)
+        fe.pubDate(datetime.utcnow())
 
-        # タイトルは日本語のみ（RSS一覧で視認性優先）
         fe.title(title_ja)
 
-        # description に英語タイトル＋著者
         desc = f"EN: {title_en}"
         if author_text:
             desc += f" | Authors: {author_text}"
