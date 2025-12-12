@@ -25,25 +25,22 @@ SOURCE_API = (
 DOCS_DIR = "docs"
 FEED_FILENAME = "feed.xml"
 
-MODEL = "gpt-5-mini"  # ← ここが希望のモデル
+MODEL = "gpt-5-mini"  # ←使いたいモデル
 
-# OpenAI client (expects OPENAI_API_KEY in env)
 client = OpenAI()
 
 
 # =========================
-# Helpers: Bluesky -> URL & Title
+# Bluesky -> URL & Title
 # =========================
 
 def fetch_source_feed_json() -> dict:
-    """Fetch Bluesky author feed via the public API (JSON)."""
     resp = requests.get(SOURCE_API, timeout=30)
     resp.raise_for_status()
     return resp.json()
 
 
 def extract_osf_url(text: str | None) -> str | None:
-    """Pick one OSF/PsyArXiv URL from the post text."""
     if not text:
         return None
 
@@ -60,26 +57,81 @@ def extract_osf_url(text: str | None) -> str | None:
     return None
 
 
+def extract_osf_id(url: str) -> str | None:
+    m = re.search(r"osf\.io/([a-z0-9]+)", url, flags=re.IGNORECASE)
+    return m.group(1) if m else None
+
+
 def extract_en_title(text: str, url: str) -> str:
-    """
-    Heuristic: remove the URL from the post text and trim punctuation/whitespace.
-    """
     t = text.replace(url, "").strip()
     t = re.sub(r"[:\-–—\s]+$", "", t).strip()
     return t if t else url
 
 
 # =========================
-# Helpers: OpenAI response parsing (robust)
+# OSF metadata (authors)
+# =========================
+
+def fetch_osf_preprint_meta(osf_id: str) -> dict | None:
+    """
+    Fetch OSF preprint metadata. Works for PsyArXiv/OSF preprints.
+    """
+    api_url = f"https://api.osf.io/v2/preprints/{osf_id}/"
+    try:
+        r = requests.get(api_url, timeout=30)
+        if r.status_code != 200:
+            return None
+        return r.json()
+    except Exception:
+        return None
+
+
+def fetch_osf_contributors(osf_id: str) -> list[str]:
+    """
+    Fetch contributors' full names. Best-effort.
+    """
+    # Relationship endpoint
+    rel_url = f"https://api.osf.io/v2/preprints/{osf_id}/contributors/"
+    try:
+        r = requests.get(rel_url, timeout=30)
+        if r.status_code != 200:
+            return []
+        data = r.json()
+        names = []
+        for item in data.get("data", []):
+            attrs = item.get("attributes", {})
+            nm = attrs.get("full_name")
+            if nm:
+                names.append(nm)
+        return names
+    except Exception:
+        return []
+
+
+def format_authors_et_al(names: list[str], max_authors: int = 1) -> str:
+    """
+    Display e.g. "Smith et al." or "Smith, Tanaka et al." if max_authors>1.
+    We keep roman letters as-is; do not translate.
+    """
+    if not names:
+        return ""
+    if len(names) == 1:
+        return names[0]
+    head = names[:max_authors]
+    if max_authors <= 1:
+        return f"{head[0]} et al."
+    return f"{', '.join(head)} et al."
+
+
+# =========================
+# OpenAI response parsing (robust)
 # =========================
 
 def _coerce_to_dict(obj):
-    """Try to turn SDK objects into plain dicts."""
     if obj is None:
         return None
     if isinstance(obj, dict):
         return obj
-    # OpenAI SDK objects typically support model_dump() / dict() / json()
     for fn in ("model_dump", "dict"):
         if hasattr(obj, fn):
             try:
@@ -95,11 +147,6 @@ def _coerce_to_dict(obj):
 
 
 def get_text_from_response(response) -> str:
-    """
-    Robustly extract text from OpenAI Responses API result.
-    Works across models / SDK versions where output_text may be empty.
-    """
-    # 1) Try the convenience field first
     try:
         ot = getattr(response, "output_text", None)
         if isinstance(ot, str) and ot.strip():
@@ -107,7 +154,6 @@ def get_text_from_response(response) -> str:
     except Exception:
         pass
 
-    # 2) Try to parse structured output
     rd = _coerce_to_dict(response)
     if not rd:
         return ""
@@ -126,15 +172,12 @@ def get_text_from_response(response) -> str:
         for c in content:
             if not isinstance(c, dict):
                 continue
-            # Typical: {"type":"output_text","text":"..."}
             if c.get("type") == "output_text" and isinstance(c.get("text"), str):
                 chunks.append(c["text"])
-            # Some variants may use "content" or nested structures; handle best-effort
             elif isinstance(c.get("text"), str):
                 chunks.append(c["text"])
 
-    text = "\n".join([s for s in chunks if s and s.strip()]).strip()
-    return text
+    return "\n".join([s for s in chunks if s and s.strip()]).strip()
 
 
 # =========================
@@ -142,10 +185,6 @@ def get_text_from_response(response) -> str:
 # =========================
 
 def ja_title_from_en(en_title: str) -> str:
-    """
-    Translate an academic title into Japanese.
-    If anything fails, return the original English title.
-    """
     if not os.environ.get("OPENAI_API_KEY"):
         return en_title
 
@@ -156,14 +195,14 @@ def ja_title_from_en(en_title: str) -> str:
                 {
                     "role": "system",
                     "content": (
-                        "You are a professional academic translator in psychology. "
+                        "You are a professional academic translator. "
                         "Translate paper titles into natural Japanese suitable for academic contexts."
                     ),
                 },
                 {
                     "role": "user",
                     "content": (
-                        "Translate the following academic psychological paper title into natural Japanese.\n"
+                        "Translate the following academic paper title into natural Japanese.\n"
                         "Rules:\n"
                         "- Output ONLY the Japanese title (one line)\n"
                         "- Do not add quotes, brackets, or explanations\n"
@@ -175,17 +214,9 @@ def ja_title_from_en(en_title: str) -> str:
             temperature=0.2,
         )
 
-        ja = get_text_from_response(response)
-        ja = ja.strip()
-
-        # Guardrails: if model returns empty or same as input, treat as failure
-        if not ja:
+        ja = get_text_from_response(response).strip()
+        if not ja or ja.strip() == en_title.strip():
             return en_title
-        # Sometimes it echoes; if identical, treat as failure
-        if ja.strip() == en_title.strip():
-            return en_title
-
-        # single-line
         ja = re.sub(r"\s+", " ", ja).strip()
         return ja
 
@@ -199,10 +230,6 @@ def ja_title_from_en(en_title: str) -> str:
 # =========================
 
 def build_real_entries() -> list[dict]:
-    """
-    Build entries from Bluesky public API JSON.
-    Each entry: title (JA + EN), link (OSF/PsyArXiv), pubDate (RFC822)
-    """
     try:
         data = fetch_source_feed_json()
     except Exception as e:
@@ -225,7 +252,24 @@ def build_real_entries() -> list[dict]:
 
         en_title = extract_en_title(text, url)
         ja_title = ja_title_from_en(en_title)
-        full_title = f"{ja_title} ({en_title})"
+
+        # Authors from OSF (best-effort; only for osf.io links)
+        authors_display = ""
+        osf_id = extract_osf_id(url)
+        if osf_id:
+            names = fetch_osf_contributors(osf_id)
+            authors_display = format_authors_et_al(names, max_authors=1)
+
+        # RSS title: Japanese only (short)
+        title = ja_title
+
+        # RSS description: English title + authors (and link)
+        parts = []
+        parts.append(f"EN: {en_title}")
+        if authors_display:
+            parts.append(f"Authors: {authors_display}")
+        parts.append(f"Link: {url}")
+        description = " | ".join(parts)
 
         created_at = record.get("createdAt")
         if created_at:
@@ -239,9 +283,10 @@ def build_real_entries() -> list[dict]:
 
         entries.append(
             {
-                "title": full_title,
+                "title": title,
+                "description": description,
                 "link": url,
-                "guid": f"{url}#ja",  # Reederで英語版と混ざらない/新着判定しやすい
+                "guid": f"{url}#ja",
                 "pubDate": pub_date,
             }
         )
@@ -253,13 +298,15 @@ def build_test_entries() -> list[dict]:
     now = format_datetime(datetime.now(timezone.utc))
     return [
         {
-            "title": "テスト論文その1 (Test paper one)",
+            "title": "テスト論文その1",
+            "description": "EN: Test paper one | Authors: Smith et al. | Link: https://psyarxiv.com/abcd1",
             "link": "https://psyarxiv.com/abcd1",
             "guid": "https://psyarxiv.com/abcd1#ja",
             "pubDate": now,
         },
         {
-            "title": "テスト論文その2 (Test paper two)",
+            "title": "テスト論文その2",
+            "description": "EN: Test paper two | Authors: Tanaka et al. | Link: https://psyarxiv.com/abcd2",
             "link": "https://psyarxiv.com/abcd2",
             "guid": "https://psyarxiv.com/abcd2#ja",
             "pubDate": now,
@@ -297,6 +344,7 @@ def build_rss_xml(entries: list[dict]) -> str:
         link_esc = html.escape(e["link"])
         guid_esc = html.escape(e.get("guid") or e["link"])
         pub_date = e["pubDate"]
+        desc_esc = html.escape(e.get("description", ""))
 
         items_xml.append(
             f"""  <item>
@@ -304,6 +352,7 @@ def build_rss_xml(entries: list[dict]) -> str:
     <link>{link_esc}</link>
     <guid isPermaLink="false">{guid_esc}</guid>
     <pubDate>{pub_date}</pubDate>
+    <description>{desc_esc}</description>
   </item>"""
         )
 
