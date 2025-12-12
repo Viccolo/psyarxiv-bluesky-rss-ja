@@ -25,13 +25,17 @@ SOURCE_API = (
 DOCS_DIR = "docs"
 FEED_FILENAME = "feed.xml"
 
-MODEL = "gpt-5-mini"  # ←使いたいモデル
+# Use gpt-5-mini as requested (translation via Chat Completions for stability)
+MODEL = "gpt-5-mini"
+
+# Author display style
+MAX_AUTHORS_IN_DISPLAY = 1  # 1 => "FirstAuthor et al.", 2 => "A, B et al."
 
 client = OpenAI()
 
 
 # =========================
-# Bluesky -> URL & Title
+# Helpers: Bluesky -> URL & (fallback) title
 # =========================
 
 def fetch_source_feed_json() -> dict:
@@ -58,27 +62,33 @@ def extract_osf_url(text: str | None) -> str | None:
 
 
 def extract_osf_id(url: str) -> str | None:
+    # supports https://osf.io/abc12 or https://osf.io/abc12/
     m = re.search(r"osf\.io/([a-z0-9]+)", url, flags=re.IGNORECASE)
     return m.group(1) if m else None
 
 
-def extract_en_title(text: str, url: str) -> str:
+def extract_en_title_from_post(text: str, url: str) -> str:
+    """
+    Heuristic fallback: remove URL from post text.
+    (We will prefer OSF API title when available.)
+    """
     t = text.replace(url, "").strip()
+    # trim trailing separators
     t = re.sub(r"[:\-–—\s]+$", "", t).strip()
     return t if t else url
 
 
 # =========================
-# OSF metadata (authors)
+# OSF API: title + authors (more reliable via include)
 # =========================
 
-def fetch_osf_preprint_meta(osf_id: str) -> dict | None:
+def fetch_osf_preprint_with_contributors(osf_id: str) -> dict | None:
     """
-    Fetch OSF preprint metadata. Works for PsyArXiv/OSF preprints.
+    Fetch preprint metadata with contributors included.
     """
-    api_url = f"https://api.osf.io/v2/preprints/{osf_id}/"
+    url = f"https://api.osf.io/v2/preprints/{osf_id}/?include=contributors"
     try:
-        r = requests.get(api_url, timeout=30)
+        r = requests.get(url, timeout=30)
         if r.status_code != 200:
             return None
         return r.json()
@@ -86,102 +96,83 @@ def fetch_osf_preprint_meta(osf_id: str) -> dict | None:
         return None
 
 
-def fetch_osf_contributors(osf_id: str) -> list[str]:
+def get_osf_title_and_authors(osf_id: str) -> tuple[str | None, list[str]]:
     """
-    Fetch contributors' full names. Best-effort.
+    Returns (english_title_or_None, ordered_author_names)
     """
-    # Relationship endpoint
-    rel_url = f"https://api.osf.io/v2/preprints/{osf_id}/contributors/"
+    j = fetch_osf_preprint_with_contributors(osf_id)
+    if not j:
+        return (None, [])
+
+    # Title
+    title = None
     try:
-        r = requests.get(rel_url, timeout=30)
-        if r.status_code != 200:
-            return []
-        data = r.json()
-        names = []
-        for item in data.get("data", []):
-            attrs = item.get("attributes", {})
-            nm = attrs.get("full_name")
-            if nm:
-                names.append(nm)
-        return names
+        title = j.get("data", {}).get("attributes", {}).get("title")
     except Exception:
-        return []
+        title = None
+
+    # Author order: relationships.contributors.data gives ids in order (often)
+    order_ids: list[str] = []
+    try:
+        rel = j.get("data", {}).get("relationships", {}).get("contributors", {}).get("data", [])
+        if isinstance(rel, list):
+            order_ids = [x.get("id") for x in rel if isinstance(x, dict) and x.get("id")]
+    except Exception:
+        order_ids = []
+
+    # included: id -> full_name
+    id2name: dict[str, str] = {}
+    included = j.get("included", [])
+    if isinstance(included, list):
+        for it in included:
+            if not isinstance(it, dict):
+                continue
+            it_id = it.get("id")
+            attrs = it.get("attributes", {})
+            full = attrs.get("full_name")
+            if it_id and isinstance(full, str) and full.strip():
+                id2name[it_id] = full.strip()
+
+    # build ordered names
+    names: list[str] = []
+    for cid in order_ids:
+        nm = id2name.get(cid)
+        if nm:
+            names.append(nm)
+
+    # fallback: if relationships empty, just pull from included (unordered)
+    if not names and isinstance(included, list):
+        for it in included:
+            if not isinstance(it, dict):
+                continue
+            full = it.get("attributes", {}).get("full_name")
+            if isinstance(full, str) and full.strip():
+                names.append(full.strip())
+
+    # de-dup while preserving order
+    seen = set()
+    out = []
+    for n in names:
+        if n not in seen:
+            out.append(n)
+            seen.add(n)
+
+    return (title, out)
 
 
 def format_authors_et_al(names: list[str], max_authors: int = 1) -> str:
-    """
-    Display e.g. "Smith et al." or "Smith, Tanaka et al." if max_authors>1.
-    We keep roman letters as-is; do not translate.
-    """
     if not names:
         return ""
     if len(names) == 1:
         return names[0]
-    head = names[:max_authors]
+    head = names[:max_authors] if max_authors > 0 else [names[0]]
     if max_authors <= 1:
         return f"{head[0]} et al."
     return f"{', '.join(head)} et al."
 
 
 # =========================
-# OpenAI response parsing (robust)
-# =========================
-
-def _coerce_to_dict(obj):
-    if obj is None:
-        return None
-    if isinstance(obj, dict):
-        return obj
-    for fn in ("model_dump", "dict"):
-        if hasattr(obj, fn):
-            try:
-                return getattr(obj, fn)()
-            except Exception:
-                pass
-    if hasattr(obj, "json"):
-        try:
-            return json.loads(obj.json())
-        except Exception:
-            pass
-    return None
-
-
-def get_text_from_response(response) -> str:
-    try:
-        ot = getattr(response, "output_text", None)
-        if isinstance(ot, str) and ot.strip():
-            return ot.strip()
-    except Exception:
-        pass
-
-    rd = _coerce_to_dict(response)
-    if not rd:
-        return ""
-
-    output = rd.get("output", [])
-    if not isinstance(output, list):
-        return ""
-
-    chunks: list[str] = []
-    for msg in output:
-        if not isinstance(msg, dict):
-            continue
-        content = msg.get("content", [])
-        if not isinstance(content, list):
-            continue
-        for c in content:
-            if not isinstance(c, dict):
-                continue
-            if c.get("type") == "output_text" and isinstance(c.get("text"), str):
-                chunks.append(c["text"])
-            elif isinstance(c.get("text"), str):
-                chunks.append(c["text"])
-
-    return "\n".join([s for s in chunks if s and s.strip()]).strip()
-
-
-# =========================
-# Translation
+# Translation: gpt-5-mini via Chat Completions (stable)
 # =========================
 
 def ja_title_from_en(en_title: str) -> str:
@@ -189,9 +180,9 @@ def ja_title_from_en(en_title: str) -> str:
         return en_title
 
     try:
-        response = client.responses.create(
+        resp = client.chat.completions.create(
             model=MODEL,
-            input=[
+            messages=[
                 {
                     "role": "system",
                     "content": (
@@ -213,20 +204,18 @@ def ja_title_from_en(en_title: str) -> str:
             ],
             temperature=0.2,
         )
-
-        ja = get_text_from_response(response).strip()
-        if not ja or ja.strip() == en_title.strip():
+        ja = (resp.choices[0].message.content or "").strip()
+        if not ja:
             return en_title
         ja = re.sub(r"\s+", " ", ja).strip()
         return ja
-
     except Exception as e:
         print(f"Translation error: {e}", file=sys.stderr)
         return en_title
 
 
 # =========================
-# Entry building
+# Build entries
 # =========================
 
 def build_real_entries() -> list[dict]:
@@ -250,27 +239,35 @@ def build_real_entries() -> list[dict]:
         if not url:
             continue
 
-        en_title = extract_en_title(text, url)
-        ja_title = ja_title_from_en(en_title)
-
-        # Authors from OSF (best-effort; only for osf.io links)
+        # Prefer OSF API title & authors when osf.io exists
+        en_title = None
         authors_display = ""
+
         osf_id = extract_osf_id(url)
         if osf_id:
-            names = fetch_osf_contributors(osf_id)
-            authors_display = format_authors_et_al(names, max_authors=1)
+            api_title, author_names = get_osf_title_and_authors(osf_id)
+            if isinstance(api_title, str) and api_title.strip():
+                en_title = api_title.strip()
+            if author_names:
+                authors_display = format_authors_et_al(author_names, max_authors=MAX_AUTHORS_IN_DISPLAY)
 
-        # RSS title: Japanese only (short)
+        # fallback title from post
+        if not en_title:
+            en_title = extract_en_title_from_post(text, url)
+
+        ja_title = ja_title_from_en(en_title)
+
+        # RSS title: Japanese only
         title = ja_title
 
-        # RSS description: English title + authors (and link)
-        parts = []
-        parts.append(f"EN: {en_title}")
+        # RSS description: English + authors + link (authors optional)
+        parts = [f"EN: {en_title}"]
         if authors_display:
             parts.append(f"Authors: {authors_display}")
         parts.append(f"Link: {url}")
         description = " | ".join(parts)
 
+        # pubDate from createdAt if available, else now
         created_at = record.get("createdAt")
         if created_at:
             try:
@@ -315,14 +312,10 @@ def build_test_entries() -> list[dict]:
 
 
 def build_entries() -> list[dict]:
-    try:
-        entries = build_real_entries()
-        if entries:
-            return entries
-        print("No entries from Bluesky feed; falling back to test entries", file=sys.stderr)
-    except Exception as e:
-        print(f"Unexpected error building entries: {e}", file=sys.stderr)
-
+    entries = build_real_entries()
+    if entries:
+        return entries
+    print("No entries from Bluesky feed; falling back to test entries", file=sys.stderr)
     return build_test_entries()
 
 
