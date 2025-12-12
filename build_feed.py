@@ -97,25 +97,41 @@ def build_real_entries():
     feed = fetch_source_feed_xml()
     entries = []
 
-    for item in feed.find_all("item"):
-        # ポスト本文（title を優先）
-        if item.title and item.title.string:
-            text = item.title.string.strip()
-        elif item.description and item.description.string:
-            text = item.description.string.strip()
-        else:
+    items = feed.find_all("item")
+    for item in items:
+        # --- ポスト本文を取り出す ---
+        # title と description の両方を見て、より「中身がありそうな方」を採用
+        text = ""
+
+        title_tag = item.find("title")
+        if title_tag:
+            text = title_tag.get_text(strip=True)
+
+        desc_tag = item.find("description")
+        if desc_tag:
+            desc_text = desc_tag.get_text(strip=True)
+            # Bluesky RSS は description に本文が入ることが多いので、そちらを優先
+            if desc_text:
+                text = desc_text
+
+        if not text:
+            # どちらからもテキストが取れないならスキップ
             continue
 
+        # --- OSF / PsyArXiv のURLを拾う ---
         url = extract_osf_url(text)
         if not url:
             # OSFリンクを含まないポストはスキップ
             continue
 
+        # --- 英語タイトルを抽出 ---
         en_title = extract_en_title(text, url)
+
+        # --- 日本語タイトルに翻訳 ---
         ja_title = ja_title_from_en(en_title)
         full_title = f"{ja_title} ({en_title})"
 
-        # pubDate（なければ現在時刻）
+        # --- pubDate（なければ現在時刻） ---
         if item.pubDate and item.pubDate.string:
             pub_date = item.pubDate.string.strip()
         else:
@@ -130,6 +146,7 @@ def build_real_entries():
         )
 
     return entries
+
 
 
 def build_test_entries():
