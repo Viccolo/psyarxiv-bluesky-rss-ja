@@ -12,7 +12,11 @@ from openai import OpenAI
 
 # ==== 設定 ====
 # 入力元: Bluesky の PsyArXivBot プロフィール RSS
-SOURCE_RSS = "https://bsky.app/profile/psyarxivbot.bsky.social/rss"
+SOURCE_API = (
+    "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed"
+    "?actor=psyarxivbot.bsky.social&limit=50"
+)
+
 
 DOCS_DIR = "docs"
 FEED_FILENAME = "feed.xml"
@@ -23,11 +27,11 @@ client = OpenAI()
 
 # ==== Bluesky → OSFリンク & 英語タイトル 抽出 ====
 
-def fetch_source_feed_xml():
-    """Bluesky の RSS を取得して BeautifulSoup(xml) にする。"""
-    resp = requests.get(SOURCE_RSS, timeout=30)
+def fetch_source_feed_json():
+    """Bluesky の public API から PsyArXivBot の投稿を JSON で取得する。"""
+    resp = requests.get(SOURCE_API, timeout=30)
     resp.raise_for_status()
-    return BeautifulSoup(resp.content, "xml")
+    return resp.json()
 
 
 def extract_osf_url(text: str | None) -> str | None:
@@ -93,54 +97,59 @@ def ja_title_from_en(en_title: str) -> str:
 # ==== エントリ構築 ====
 
 def build_real_entries():
-    """Bluesky RSS から実データを読み、日本語タイトル付きエントリを作る。"""
-    feed = fetch_source_feed_xml()
+    """Bluesky API の JSON から、日本語タイトル付きエントリを作成する。"""
+    try:
+        data = fetch_source_feed_json()
+    except Exception as e:
+        print(f"Error fetching Bluesky feed: {e}")
+        return []
+
     entries = []
 
-    items = feed.find_all("item")
-    for item in items:
-        # --- ポスト本文を取り出す ---
-        # title と description の両方を見て、より「中身がありそうな方」を採用
-        text = ""
+    # data["feed"] の中に各ポストが入っている
+    for item in data.get("feed", []):
+        post = item.get("post", {})
+        record = post.get("record", {})
 
-        title_tag = item.find("title")
-        if title_tag:
-            text = title_tag.get_text(strip=True)
-
-        desc_tag = item.find("description")
-        if desc_tag:
-            desc_text = desc_tag.get_text(strip=True)
-            # Bluesky RSS は description に本文が入ることが多いので、そちらを優先
-            if desc_text:
-                text = desc_text
-
+        # ---- テキスト本体 ----
+        text = record.get("text", "")
         if not text:
-            # どちらからもテキストが取れないならスキップ
             continue
 
-        # --- OSF / PsyArXiv のURLを拾う ---
+        # ---- OSF / PsyArXiv のURLを抽出 ----
         url = extract_osf_url(text)
         if not url:
             # OSFリンクを含まないポストはスキップ
             continue
 
-        # --- 英語タイトルを抽出 ---
+        # ---- 英語タイトルを抽出 ----
         en_title = extract_en_title(text, url)
 
-        # --- 日本語タイトルに翻訳 ---
+        # ---- 日本語タイトルに翻訳 ----
         ja_title = ja_title_from_en(en_title)
         full_title = f"{ja_title} ({en_title})"
 
-        # --- pubDate（なければ現在時刻） ---
-        if item.pubDate and item.pubDate.string:
-            pub_date = item.pubDate.string.strip()
+        # ---- 投稿日時 ----
+        created_at = record.get("createdAt")  # 例: "2025-03-21T03:27:33.752Z"
+        if created_at:
+            try:
+                # "Z" を UTC として扱う
+                from datetime import datetime, timezone
+
+                dt = datetime.fromisoformat(
+                    created_at.replace("Z", "+00:00")
+                )
+                pub_date = format_datetime(dt.astimezone(timezone.utc))
+            except Exception:
+                pub_date = format_datetime(datetime.now(timezone.utc))
         else:
+            from datetime import datetime, timezone
             pub_date = format_datetime(datetime.now(timezone.utc))
 
         entries.append(
             {
                 "title": full_title,
-                "link": url,  # Reederから直接 OSF/PsyArXiv へ飛ぶ
+                "link": url,  # Reeder から直接 OSF/PsyArXiv に飛ぶ
                 "pubDate": pub_date,
             }
         )
