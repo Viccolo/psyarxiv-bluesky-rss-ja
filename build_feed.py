@@ -73,16 +73,16 @@ def ja_title_from_en(en_title: str) -> str:
 
     try:
         response = client.responses.create(
-            model="gpt-4.1-mini",  # ← 確実に存在するモデル
+            model="gpt-5-mini"
             input=[
                 {
                     "role": "system",
-                    "content": "You are a professional academic translator."
+                    "content": "You are a professional academic psychological translator."
                 },
                 {
                     "role": "user",
                     "content": (
-                        "Translate the following academic paper title into natural Japanese. "
+                        "Translate the following academic psychological paper title into natural Japanese. "
                         "Output ONLY the Japanese title.\n\n"
                         f"{en_title}"
                     )
