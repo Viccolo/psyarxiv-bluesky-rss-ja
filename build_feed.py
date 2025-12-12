@@ -10,7 +10,7 @@ import requests
 from openai import OpenAI
 
 # =========================
-# Basic settings
+# Settings
 # =========================
 
 ACTOR = "psyarxivbot.bsky.social"
@@ -24,7 +24,7 @@ BLUESKY_API = (
 DOCS_DIR = "docs"
 FEED_FILE = "feed.xml"
 
-# ★ 安定重視
+# 安定重視
 MODEL = "gpt-4.1-mini"
 
 # 著者表示：FirstAuthor et al.
@@ -46,12 +46,10 @@ def extract_osf_url(text: str | None) -> str | None:
     if not text:
         return None
 
-    # Prefer psyarxiv.com
     m = re.search(r"https?://psyarxiv\.com/\S+", text)
     if m:
         return m.group(0).rstrip(").,]")
 
-    # Fallback to osf.io
     m = re.search(r"https?://osf\.io/\S+", text)
     if m:
         return m.group(0).rstrip(").,]")
@@ -71,11 +69,11 @@ def fallback_title_from_post(text: str, url: str) -> str:
 
 
 # =========================
-# OSF API (title + authors)
+# OSF API helpers
 # =========================
 
-def fetch_osf_metadata(osf_id: str) -> dict | None:
-    url = f"https://api.osf.io/v2/preprints/{osf_id}/?include=contributors"
+def fetch_preprint(osf_id: str) -> dict | None:
+    url = f"https://api.osf.io/v2/preprints/{osf_id}/"
     try:
         r = requests.get(url, timeout=30)
         if r.status_code != 200:
@@ -85,48 +83,51 @@ def fetch_osf_metadata(osf_id: str) -> dict | None:
         return None
 
 
-def get_title_and_authors(osf_id: str) -> tuple[str | None, list[str]]:
-    j = fetch_osf_metadata(osf_id)
+def get_node_id_from_preprint(osf_id: str) -> str | None:
+    j = fetch_preprint(osf_id)
     if not j:
-        return None, []
+        return None
+    return (
+        j.get("data", {})
+         .get("relationships", {})
+         .get("node", {})
+         .get("data", {})
+         .get("id")
+    )
 
-    # English title
-    title = j.get("data", {}).get("attributes", {}).get("title")
 
-    # Author order from relationships
-    order_ids = []
-    rel = j.get("data", {}).get("relationships", {}).get("contributors", {}).get("data", [])
-    if isinstance(rel, list):
-        order_ids = [x.get("id") for x in rel if isinstance(x, dict) and x.get("id")]
+def fetch_node_authors(node_id: str) -> list[str]:
+    url = f"https://api.osf.io/v2/nodes/{node_id}/contributors/"
+    try:
+        r = requests.get(url, timeout=30)
+        if r.status_code != 200:
+            return []
+        j = r.json()
 
-    # included -> id -> full_name
-    id2name = {}
-    for it in j.get("included", []):
-        if not isinstance(it, dict):
-            continue
-        fid = it.get("id")
-        name = it.get("attributes", {}).get("full_name")
-        if fid and isinstance(name, str):
-            id2name[fid] = name.strip()
+        names = []
+        for it in j.get("data", []):
+            full = it.get("attributes", {}).get("full_name")
+            if isinstance(full, str) and full.strip():
+                names.append(full.strip())
 
-    names = [id2name[i] for i in order_ids if i in id2name]
+        # deduplicate (preserve order)
+        seen = set()
+        out = []
+        for n in names:
+            if n not in seen:
+                out.append(n)
+                seen.add(n)
+        return out
 
-    # fallback if ordering missing
-    if not names:
-        for it in j.get("included", []):
-            name = it.get("attributes", {}).get("full_name")
-            if isinstance(name, str):
-                names.append(name.strip())
+    except Exception:
+        return []
 
-    # deduplicate, preserve order
-    seen = set()
-    uniq = []
-    for n in names:
-        if n not in seen:
-            uniq.append(n)
-            seen.add(n)
 
-    return title, uniq
+def get_preprint_title(osf_id: str) -> str | None:
+    j = fetch_preprint(osf_id)
+    if not j:
+        return None
+    return j.get("data", {}).get("attributes", {}).get("title")
 
 
 def format_authors_et_al(names: list[str], max_authors: int = 1) -> str:
@@ -198,23 +199,26 @@ def build_entries() -> list[dict]:
             continue
 
         osf_id = extract_osf_id(url)
+        if not osf_id:
+            continue
 
-        en_title = None
-        authors = ""
-
-        if osf_id:
-            api_title, names = get_title_and_authors(osf_id)
-            if api_title:
-                en_title = api_title
-            if names:
-                authors = format_authors_et_al(names, MAX_AUTHORS)
-
+        # English title
+        en_title = get_preprint_title(osf_id)
         if not en_title:
             en_title = fallback_title_from_post(text, url)
 
+        # Japanese title
         ja_title = translate_title_to_ja(en_title)
 
-        # description: English + authors + link
+        # Authors (node-based)
+        authors = ""
+        node_id = get_node_id_from_preprint(osf_id)
+        if node_id:
+            names = fetch_node_authors(node_id)
+            if names:
+                authors = format_authors_et_al(names, MAX_AUTHORS)
+
+        # Description: EN + Authors + Link
         desc_parts = [f"EN: {en_title}"]
         if authors:
             desc_parts.append(f"Authors: {authors}")
