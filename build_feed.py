@@ -68,31 +68,37 @@ def extract_en_title(text: str, url: str) -> str:
 # ==== 英語タイトル → 日本語タイトル ====
 
 def ja_title_from_en(en_title: str) -> str:
-    """
-    gpt-5-nano を使って英語タイトルを自然な日本語タイトルに翻訳。
-    失敗したら元の英語タイトルをそのまま返す。
-    """
     if not os.environ.get("OPENAI_API_KEY"):
-        # APIキーが無いときは英語のまま
         return en_title
 
     try:
         response = client.responses.create(
-            model="gpt-5.1-mini",  # gpt-5-nano 系の低コストモデル
-            input=(
-                "あなたは学術論文タイトルの専門翻訳者です。"
-                "次の英語の論文タイトルを、学術的に自然な日本語タイトルに翻訳してください。"
-                "出力は日本語タイトルのみを1行で書き、余計な説明や引用符は一切付けないでください。\n\n"
-                f"{en_title}"
-            ),
+            model="gpt-4.1-mini",  # ← 確実に存在するモデル
+            input=[
+                {
+                    "role": "system",
+                    "content": "You are a professional academic translator."
+                },
+                {
+                    "role": "user",
+                    "content": (
+                        "Translate the following academic paper title into natural Japanese. "
+                        "Output ONLY the Japanese title.\n\n"
+                        f"{en_title}"
+                    )
+                }
+            ],
             temperature=0.2,
         )
-        ja = response.output[0].content[0].text.strip()
-        return ja or en_title
-    except Exception as e:
-        print(f"OpenAI translation error: {e}", file=sys.stderr)
+
+        ja = response.output_text.strip()
+        if ja:
+            return ja
         return en_title
 
+    except Exception as e:
+        print("Translation error:", e)
+        return en_title
 
 # ==== エントリ構築 ====
 
