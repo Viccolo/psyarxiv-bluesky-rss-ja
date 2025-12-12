@@ -2,8 +2,8 @@ name: Build PsyArXiv JA RSS
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # 10分おきに実行
-  workflow_dispatch: {}       # 手動実行ボタン
+    - cron: "*/10 * * * *"   # 10分おき
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -11,14 +11,13 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
         with:
-          persist-credentials: true
+          fetch-depth: 0
 
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
@@ -34,22 +33,25 @@ jobs:
         run: |
           python build_feed.py
 
-    - name: Commit and push if feed.xml changed
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        # docs/feed.xml に変更がなければ終了
-        if git diff --quiet docs/feed.xml; then
-          echo "No changes to commit"
-          exit 0
-        fi
+      - name: Commit & push (only if changed)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # docs/feed.xml が存在しないなら失敗（スクリプト不具合を早く気づける）
+          test -f docs/feed.xml
 
-        git config user.name "github-actions[bot]"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
+          # 変更がなければ終了
+          if git diff --quiet docs/feed.xml; then
+            echo "No changes in docs/feed.xml"
+            exit 0
+          fi
 
-        git add docs/feed.xml
-        git commit -m "Update feed"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-        # origin に GITHUB_TOKEN 付きの URL をセットしてから push
-        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/Viccolo/psyarxiv-bluesky-rss-ja.git
-        git push origin main
+          git add docs/feed.xml
+          git commit -m "Update feed"
+
+          # 認証付きURLに差し替えて push
+          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/Viccolo/psyarxiv-bluesky-rss-ja.git"
+          git push origin HEAD:main
