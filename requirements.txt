@@ -1,2 +1,4 @@
 requests
+beautifulsoup4
+feedgen
 openai>=1.55.0
