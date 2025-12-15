@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 15 Dec 2025 20:52:57 +0000</lastBuildDate>
-    <item>
-      <title>OSF（オープンサイエンスフレームワーク） (OSF)</title>
-      <link>https://osf.io/aj5mt</link>
-      <description>Link: https://osf.io/aj5mt</description>
-      <guid isPermaLink="false">https://osf.io/aj5mt#ja</guid>
-      <pubDate>Thu, 11 Dec 2025 15:19:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Dec 2025 21:22:38 +0000</lastBuildDate>
     <item>
       <title>OSF（オープンサイエンスフレームワーク） (OSF)</title>
       <link>https://osf.io/z672b</link>
@@ -427,6 +420,13 @@
       <description>Link: https://osf.io/3gtdy</description>
       <guid isPermaLink="false">https://osf.io/3gtdy#ja</guid>
       <pubDate>Mon, 15 Dec 2025 20:44:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>OSF（オープンサイエンスフレームワーク） (OSF)</title>
+      <link>https://osf.io/8679v</link>
+      <description>Link: https://osf.io/8679v</description>
+      <guid isPermaLink="false">https://osf.io/8679v#ja</guid>
+      <pubDate>Mon, 15 Dec 2025 21:15:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
