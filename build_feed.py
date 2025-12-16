@@ -216,9 +216,6 @@ def build_entries() -> list[dict]:
 
         # description: English + authors + link
         desc_parts = [f"{en_title}"]
-        if authors:
-            desc_parts.append(f"Authors: {authors}")
-        desc_parts.append(f"Link: {url}")
 
         created = record.get("createdAt")
         try:
