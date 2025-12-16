@@ -1,337 +1,381 @@
 #!/usr/bin/env python3
 import os
+import sys
 import re
-import json
-import time
+import html
 from datetime import datetime, timezone
-from xml.dom import minidom
+from email.utils import format_datetime
 
 import requests
 from bs4 import BeautifulSoup
+from datetime import datetime
 from feedgen.feed import FeedGenerator
 from openai import OpenAI
 
 # =========================
 # Settings
+# 設定
 # =========================
+
 ACTOR = "psyarxivbot.bsky.social"
-BLUESKY_API = "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed"
+LIMIT = 50
 
-LIMIT_PER_PAGE = 100
-MAX_POSTS_FETCH = 400
-MAX_ITEMS = 60
-SLEEP_SEC = 0.1
-
+BLUESKY_API = (
+    "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed"
+    f"?actor={ACTOR}&limit={LIMIT}"
+)
+BLUESKY_FEED_URL = "https://bsky.app/profile/psyarxivbot.bsky.social"
 OUTPUT_PATH = "docs/feed.xml"
-CACHE_PATH = "docs/cache.json"
 
-MODEL_TRANSLATE = "gpt-4.1-mini"
+DOCS_DIR = "docs"
+FEED_FILE = "feed.xml"
+# 著者表示数（ここを変えるだけ）
+AUTHOR_DISPLAY_LIMIT = 3   # 例：3 → 3人まで表示、それ以上は et al.
 
-client = OpenAI()  # OPENAI_API_KEY 必須
+# 安定重視
+MODEL = "gpt-4.1-mini"
+MODEL_TRANSLATE = "gpt-4.1-mini"  # 安定動作確認済み
 
-URL_RE = re.compile(r"https?://[^\s)>\]]+")
+# 著者表示：FirstAuthor et al.
+MAX_AUTHORS = 1
+client = OpenAI()  # OPENAI_API_KEY を使用
 
-UA = {
-    "User-Agent": "psyarxiv-bluesky-rss-ja/1.0 (+https://github.com/Viccolo/psyarxiv-bluesky-rss-ja)"
-}
-
-
-# =========================
-# Cache
-# =========================
-def load_cache():
-    if not os.path.exists(CACHE_PATH):
-        return {}
-    try:
-        with open(CACHE_PATH, "r", encoding="utf-8") as f:
-            return json.load(f)
-    except Exception:
-        return {}
-
-def save_cache(cache: dict):
-    os.makedirs(os.path.dirname(CACHE_PATH), exist_ok=True)
-    with open(CACHE_PATH, "w", encoding="utf-8") as f:
-        json.dump(cache, f, ensure_ascii=False, indent=2)
-
+client = OpenAI()
 
 # =========================
-# Bluesky
+# Bluesky helpers
+# ユーティリティ
 # =========================
-def fetch_author_feed(max_records: int = 300):
-    items = []
-    cursor = None
 
-    while len(items) < max_records:
-        params = {"actor": ACTOR, "limit": LIMIT_PER_PAGE}
-        if cursor:
-            params["cursor"] = cursor
-
-        r = requests.get(BLUESKY_API, params=params, timeout=30, headers=UA)
-        r.raise_for_status()
-        j = r.json()
-
-        feed = j.get("feed", []) or []
-        items.extend(feed)
-
-        cursor = j.get("cursor")
-        if not cursor or not feed:
-            break
-
-    return items[:max_records]
+def fetch_bluesky_feed() -> dict:
+    r = requests.get(BLUESKY_API, timeout=30)
+    r.raise_for_status()
+    return r.json()
 
 
-def _extract_from_facets(record: dict) -> list[str]:
-    urls = []
-    for facet in (record.get("facets") or []):
-        for feat in (facet.get("features") or []):
-            uri = feat.get("uri")
-            if isinstance(uri, str) and uri.startswith("http"):
-                urls.append(uri)
-    return urls
+def extract_osf_url(text: str | None) -> str | None:
+    if not text:
+        return None
 
-def _extract_from_embed(record: dict) -> list[str]:
-    urls = []
-    embed = record.get("embed")
-    if not isinstance(embed, dict):
-        return urls
+    m = re.search(r"https?://psyarxiv\.com/\S+", text)
+    if m:
+        return m.group(0).rstrip(").,]")
 
-    ext = embed.get("external")
-    if isinstance(ext, dict):
-        uri = ext.get("uri")
-        if isinstance(uri, str) and uri.startswith("http"):
-            urls.append(uri)
-
-    media = embed.get("media")
-    if isinstance(media, dict):
-        ext2 = media.get("external")
-        if isinstance(ext2, dict):
-            uri2 = ext2.get("uri")
-            if isinstance(uri2, str) and uri2.startswith("http"):
-                urls.append(uri2)
-
-    return urls
-
-def extract_urls_from_post(item: dict) -> list[str]:
-    post = item.get("post") or {}
-    record = post.get("record") or {}
-    text = record.get("text") or ""
-
-    urls = []
-    urls.extend(_extract_from_facets(record))
-    urls.extend(_extract_from_embed(record))
-    urls.extend(URL_RE.findall(text))
-
-    cleaned = []
-    for u in urls:
-        cleaned.append(u.rstrip(").,;]>\u3001\u3002"))
-
-    seen = set()
-    out = []
-    for u in cleaned:
-        if u not in seen:
-            out.append(u)
-            seen.add(u)
-    return out
-
-
-# =========================
-# URL normalize (重要：OSF→PsyArXiv優先)
-# =========================
-def _try_psyarxiv_first_from_osf(osf_url: str) -> str:
-    """
-    osf.io/xxxxx を見つけたら、
-    まず psyarxiv.com/xxxxx が生きているか軽く確認し、
-    生きていればそっちを採用する（タイトルが取れやすい）。
-    """
-    m = re.search(r"osf\.io/([a-z0-9]+)", osf_url, flags=re.I)
-    if not m:
-        return osf_url
-    pid = m.group(1).lower()
-    psy = f"https://psyarxiv.com/{pid}"
-
-    try:
-        # HEADが通らないサイトもあるのでGETで軽く（ストリームで負荷軽減）
-        r = requests.get(psy, timeout=15, headers=UA, stream=True)
-        ok = (200 <= r.status_code < 300)
-        r.close()
-        if ok:
-            return psy
-    except Exception:
-        pass
-
-    return f"https://osf.io/{pid}"
-
-
-def normalize_target_url(url: str) -> str | None:
-    # 既にpsyarxiv.comならそれを採用
-    if "psyarxiv.com/" in url:
-        m = re.search(r"psyarxiv\.com/([a-z0-9]+)", url, flags=re.I)
-        if m:
-            return f"https://psyarxiv.com/{m.group(1).lower()}"
-        return url
-
-    # osf.ioなら psyarxiv.com を優先して試す
-    if "osf.io/" in url:
-        return _try_psyarxiv_first_from_osf(url)
+    m = re.search(r"https?://osf\.io/\S+", text)
+    if m:
+        return m.group(0).rstrip(").,]")
 
     return None
 
 
+def extract_osf_id(url: str) -> str | None:
+    m = re.search(r"osf\.io/([a-z0-9]+)", url, flags=re.IGNORECASE)
+    return m.group(1) if m else None
+
+
+def fallback_title_from_post(text: str, url: str) -> str:
+    t = text.replace(url, "").strip()
+    t = re.sub(r"[:\-–—\s]+$", "", t).strip()
+    return t if t else url
+
+
 # =========================
-# Page parse (title only)
+# OSF API helpers
 # =========================
-def get_soup(url: str) -> BeautifulSoup | None:
-    try:
-        r = requests.get(url, timeout=30, headers=UA)
+
+def fetch_preprint(osf_id: str) -> dict | None:
+    url = f"https://api.osf.io/v2/preprints/{osf_id}/"
+def fetch_html(url: str) -> BeautifulSoup | None:
+try:
+        r = requests.get(url, timeout=30)
+        if r.status_code != 200:
+            return None
+        return r.json()
+        r = requests.get(url, timeout=10)
         r.raise_for_status()
         return BeautifulSoup(r.text, "html.parser")
-    except Exception:
+except Exception:
+return None
+
+
+def get_node_id_from_preprint(osf_id: str) -> str | None:
+    j = fetch_preprint(osf_id)
+    if not j:
         return None
-
-def parse_title_from_page(soup: BeautifulSoup) -> str:
-    """
-    “OSF” みたいな汎用タイトルを踏まないために、
-    citation_title を最優先で拾う。
-    """
-    # 最優先：citation_title（学術メタ）
-    ct = soup.find("meta", attrs={"name": "citation_title"})
-    if ct and ct.get("content"):
-        t = ct["content"].strip()
-        if t:
-            return t
-
-    # 次点：og:title
-    og = soup.find("meta", attrs={"property": "og:title"})
-    if og and og.get("content"):
-        t = og["content"].strip()
-        if t and t.lower() != "osf":
-            return t
-
-    # 次：h1
-    h1 = soup.find("h1")
-    if h1:
-        t = h1.get_text(strip=True)
-        if t and t.lower() != "osf":
-            return t
-
-    # 最後：titleタグ
-    ttag = soup.find("title")
-    if ttag:
-        t = ttag.get_text(strip=True)
-        if t and t.lower() != "osf":
-            return t
-
-    return "Untitled"
+    return (
+        j.get("data", {})
+         .get("relationships", {})
+         .get("node", {})
+         .get("data", {})
+         .get("id")
+    )
 
 
-# =========================
-# Translation
-# =========================
-def translate_title(title_en: str, cache: dict) -> str:
-    if title_en in cache:
-        return cache[title_en]
-
+def fetch_node_authors(node_id: str) -> list[str]:
+    url = f"https://api.osf.io/v2/nodes/{node_id}/contributors/"
     try:
+        r = requests.get(url, timeout=30)
+        if r.status_code != 200:
+            return []
+        j = r.json()
+
+        names = []
+        for it in j.get("data", []):
+            full = it.get("attributes", {}).get("full_name")
+            if isinstance(full, str) and full.strip():
+                names.append(full.strip())
+
+        # deduplicate (preserve order)
+        seen = set()
+        out = []
+        for n in names:
+            if n not in seen:
+                out.append(n)
+                seen.add(n)
+        return out
+
+    except Exception:
+def fetch_authors(osf_url: str) -> list[str]:
+    """
+    PsyArXiv 論文ページの Authors セクションから
+    表示されている名前をそのまま取得（厳密性は追わない）
+    """
+    soup = fetch_html(osf_url)
+    if soup is None:
+return []
+
+    authors = []
+
+def get_preprint_title(osf_id: str) -> str | None:
+    j = fetch_preprint(osf_id)
+    if not j:
+        return None
+    return j.get("data", {}).get("attributes", {}).get("title")
+    # 2025年以降のUI対応：profileリンクを持つ a タグ
+    for a in soup.select('a[href^="/profile/"]'):
+        name = a.get_text(strip=True)
+        if name:
+            authors.append(name)
+
+    # 重複除去（順序保持）
+    return list(dict.fromkeys(authors))
+
+
+def format_authors_et_al(names: list[str], max_authors: int = 1) -> str:
+    if not names:
+def format_authors(authors: list[str], limit: int) -> str:
+    """
+    表示人数は後で自由に変更できるように分離
+    """
+    if not authors:
+return ""
+    if len(names) == 1:
+        return names[0]
+    if max_authors <= 1:
+        return f"{names[0]} et al."
+    return f"{', '.join(names[:max_authors])} et al."
+
+    if len(authors) <= limit:
+        return ", ".join(authors)
+
+# =========================
+# Translation (stable)
+# =========================
+    return ", ".join(authors[:limit]) + " et al."
+
+def translate_title_to_ja(en_title: str) -> str:
+    if not os.environ.get("OPENAI_API_KEY"):
+        return en_title
+
+def translate_title(title_en: str) -> str:
+    """
+    英語タイトル → 日本語タイトル
+    """
+try:
+        resp = client.chat.completions.create(
+            model=MODEL,
         res = client.chat.completions.create(
             model=MODEL_TRANSLATE,
-            messages=[
-                {"role": "system", "content": "Translate academic paper titles into natural Japanese."},
-                {"role": "user", "content": "Output ONLY the Japanese title.\n\n" + title_en},
-            ],
-            temperature=0.2,
-        )
-        ja = (res.choices[0].message.content or "").strip()
-        if not ja:
-            ja = title_en
+messages=[
+{
+"role": "system",
+                    "content": (
+                        "You are a professional academic translator. "
+                        "Translate academic paper titles into natural Japanese."
+                    ),
+                    "content": "Translate academic paper titles into natural Japanese."
+},
+{
+"role": "user",
+                    "content": (
+                        "Translate the following paper title into Japanese.\n"
+                        "Rules:\n"
+                        "- Output ONLY the Japanese title\n"
+                        "- No quotes, no explanations\n\n"
+                        f"{en_title}"
+                    ),
+                },
+                    "content": title_en
+                }
+],
+temperature=0.2,
+)
+
+        ja = (resp.choices[0].message.content or "").strip()
+        return ja if ja else en_title
+
+    except Exception as e:
+        print(f"[translate error] {e}", file=sys.stderr)
+        return en_title
+        return res.choices[0].message.content.strip()
     except Exception:
-        ja = title_en
-
-    cache[title_en] = ja
-    return ja
+        return title_en  # 失敗時は英語のまま
 
 
 # =========================
-# XML pretty
+# Entry builder
+# メイン処理
 # =========================
-def write_pretty_xml(path: str, xml_bytes: bytes):
-    try:
-        dom = minidom.parseString(xml_bytes)
-        pretty = dom.toprettyxml(indent="  ", encoding="UTF-8")
-        with open(path, "wb") as f:
-            f.write(pretty)
-    except Exception:
-        with open(path, "wb") as f:
-            f.write(xml_bytes)
 
+def build_entries() -> list[dict]:
+    data = fetch_bluesky_feed()
+    entries = []
 
-# =========================
-# Main
-# =========================
-def build_feed():
-    os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
-    cache = load_cache()
+    for item in data.get("feed", []):
+        post = item.get("post", {})
+        record = post.get("record", {})
+        text = record.get("text", "")
 
-    feed_items = fetch_author_feed(max_records=MAX_POSTS_FETCH)
+        url = extract_osf_url(text)
+        if not url:
+            continue
 
-    # URL -> newest_date
-    url_to_date = {}
-    for it in feed_items:
-        post = (it.get("post") or {})
-        record = (post.get("record") or {})
+        osf_id = extract_osf_id(url)
+        if not osf_id:
+            continue
+
+        # English title
+        en_title = get_preprint_title(osf_id)
+        if not en_title:
+            en_title = fallback_title_from_post(text, url)
+
+        # Japanese title
+        ja_title = translate_title_to_ja(en_title)
+
+        # Authors (node-based)
+        authors = ""
+        node_id = get_node_id_from_preprint(osf_id)
+        if node_id:
+            names = fetch_node_authors(node_id)
+            if names:
+                authors = format_authors_et_al(names, MAX_AUTHORS)
+
+        # Description: EN + Authors + Link
+        desc_parts = [f"EN: {en_title}"]
+        if authors:
+            desc_parts.append(f"Authors: {authors}")
+        desc_parts.append(f"Link: {url}")
+
         created = record.get("createdAt")
-
         try:
             dt = datetime.fromisoformat(created.replace("Z", "+00:00"))
         except Exception:
             dt = datetime.now(timezone.utc)
 
-        for u in extract_urls_from_post(it):
-            nu = normalize_target_url(u)
-            if not nu:
-                continue
-            if ("psyarxiv.com/" not in nu) and ("osf.io/" not in nu):
-                continue
-
-            prev = url_to_date.get(nu)
-            if (prev is None) or (dt > prev):
-                url_to_date[nu] = dt
-
-    selected = sorted(url_to_date.items(), key=lambda x: x[1], reverse=True)[:MAX_ITEMS]
-
+        entries.append(
+            {
+                "title": ja_title,
+                "description": " | ".join(desc_parts),
+                "link": url,
+                "guid": f"{url}#ja",
+                "pubDate": format_datetime(dt.astimezone(timezone.utc)),
+            }
+        )
+def build_feed():
     fg = FeedGenerator()
+    fg.load_extension("dc", atom=False, rss=True)
+
+    return entries
     fg.title("PsyArXiv bot (日本語タイトル付き)")
-    fg.link(href=f"https://bsky.app/profile/{ACTOR}")
+    fg.link(href=BLUESKY_FEED_URL)
     fg.description(
         "psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、"
-        "日本語タイトル（英語タイトル）形式で配信する非公式RSSフィード"
+        "日本語タイトル（英語タイトル）＋著者情報を配信する非公式RSSフィード"
     )
     fg.language("ja")
-    fg.lastBuildDate(datetime.now(timezone.utc))
 
-    for url, dt in selected:
-        soup = get_soup(url)
-        if soup is None:
-            continue
+    # ----
+    # ここでは「すでに取得済み」と仮定
+    # 実際は Bluesky から osf_url / title_en / pub_date を取っているはず
+    # ----
 
-        title_en = parse_title_from_page(soup)
-        title_ja = translate_title(title_en, cache)
+# =========================
+# RSS writer
+# =========================
+    papers = fetch_papers_somehow()  # ← 既存処理をそのまま使う想定
+
+def build_rss(entries: list[dict]) -> str:
+    items = []
+    for e in entries:
+        items.append(
+            f"""  <item>
+    <title>{html.escape(e["title"])}</title>
+    <link>{html.escape(e["link"])}</link>
+    <guid isPermaLink="false">{html.escape(e["guid"])}</guid>
+    <pubDate>{e["pubDate"]}</pubDate>
+    <description>{html.escape(e["description"])}</description>
+  </item>"""
+        )
+    for paper in papers:
+        title_en = paper["title"]
+        osf_url = paper["url"]
+        pub_date = paper["published"]
+
+        title_ja = translate_title(title_en)
+        authors = fetch_authors(osf_url)
+        author_text = format_authors(authors, AUTHOR_DISPLAY_LIMIT)
 
         fe = fg.add_entry()
-        fe.id(url + "#ja")
-        fe.link(href=url)
-        fe.pubDate(dt.astimezone(timezone.utc))
+        fe.id(osf_url + "#ja")
+        fe.link(href=osf_url)
+        fe.pubDate(pub_date)
 
-        fe.title(f"{title_ja} ({title_en})")
-        fe.description(f"Link: {url}")
+    return f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>PsyArXiv bot (日本語タイトル付き)</title>
+  <link>https://bsky.app/profile/{ACTOR}</link>
+  <description>{ACTOR} のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
+  <language>ja</language>
+{chr(10).join(items)}
+</channel>
+</rss>
+"""
+        # タイトルは日本語のみ（RSS一覧で視認性優先）
+        fe.title(title_ja)
 
-        time.sleep(SLEEP_SEC)
+        # description に英語タイトル＋著者
+        desc = f"EN: {title_en}"
+        if author_text:
+            desc += f" | Authors: {author_text}"
 
-    xml_bytes = fg.rss_str(pretty=False)
-    write_pretty_xml(OUTPUT_PATH, xml_bytes)
+def main():
+    entries = build_entries()
+    rss = build_rss(entries)
+        fe.description(desc)
 
-    save_cache(cache)
-    print(f"Wrote {OUTPUT_PATH} with {len(selected)} items")
+    os.makedirs(DOCS_DIR, exist_ok=True)
+    path = os.path.join(DOCS_DIR, FEED_FILE)
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(rss)
+    fg.rss_file(OUTPUT_PATH, encoding="utf-8")
 
+    print(f"Wrote {path} ({len(entries)} items)")
+
+# =========================
+# 実行
+# =========================
 
 if __name__ == "__main__":
+    main()
     build_feed()
