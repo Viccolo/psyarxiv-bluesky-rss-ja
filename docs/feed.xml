@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>レイプの一般的定義：性的暴力を描写した事例の分類</title>
+    <title>レイプの一般的定義：性的暴力を描写した事例のカテゴリー化</title>
     <link>https://osf.io/vz5ay</link>
     <guid isPermaLink="false">https://osf.io/vz5ay#ja</guid>
     <pubDate>Tue, 16 Dec 2025 16:53:44 +0000</pubDate>
@@ -20,7 +20,7 @@
     <description>How participants create illusory experiences to help experimenters</description>
   </item>
   <item>
-    <title>AIメンタルヘルスアプリ設計における異文化的配慮：実践的10の提言</title>
+    <title>AIメンタルヘルスアプリ設計における異文化的考慮：実践的10の提言</title>
     <link>https://osf.io/bzcnx</link>
     <guid isPermaLink="false">https://osf.io/bzcnx#ja</guid>
     <pubDate>Mon, 15 Dec 2025 22:16:41 +0000</pubDate>
@@ -55,7 +55,7 @@
     <description>An Examination of Racial Bias in Scoring the Autism Diagnostic Observation Schedule (ADOS) Module 3: An Item Response Theory Analysis</description>
   </item>
   <item>
-    <title>学習中の変動性は必ずしも有益ではない：課題および変動性の種類による影響</title>
+    <title>学習中の変動性は必ずしも有益ではない：課題および変動性の種類の影響</title>
     <link>https://osf.io/a7p2g</link>
     <guid isPermaLink="false">https://osf.io/a7p2g#ja</guid>
     <pubDate>Mon, 15 Dec 2025 20:44:49 +0000</pubDate>
@@ -69,7 +69,7 @@
     <description>Tears for Better, for Worse:  Development and Validation of the Crying in Romantic Relationships Questionnaire</description>
   </item>
   <item>
-    <title>大規模入門心理学授業におけるエンゲージメント重視の実演：理解度、記憶保持、および学生の関与への影響</title>
+    <title>大規模入門心理学授業における参加重視型デモンストレーションの理解度、記憶保持、および学生の関与への影響</title>
     <link>https://osf.io/yuf78</link>
     <guid isPermaLink="false">https://osf.io/yuf78#ja</guid>
     <pubDate>Mon, 15 Dec 2025 20:44:48 +0000</pubDate>
@@ -125,7 +125,7 @@
     <description>Trauma-Focused  Social Adjustment Therapy  (TF-SAT): A Short-Term Intensive Approach to Enhancing Social Adjustment in Youth with Trauma Histories</description>
   </item>
   <item>
-    <title>ブラジル人英語第二言語話者の発話における人間と大規模言語モデルによるアクセント評価</title>
+    <title>ブラジル人話者による英語第二言語発話の人間および大規模言語モデルによるアクセント評価</title>
     <link>https://osf.io/q9cj6</link>
     <guid isPermaLink="false">https://osf.io/q9cj6#ja</guid>
     <pubDate>Sun, 14 Dec 2025 13:24:10 +0000</pubDate>
@@ -160,7 +160,7 @@
     <description>Does Creativity Have a Genius Bias?</description>
   </item>
   <item>
-    <title>政治的信念体系における中心的態度は周辺的態度よりも変化に抵抗しやすいが、説得に対して必ずしも受容的でないとは限らない</title>
+    <title>政治的信念体系における中心的態度は周辺的態度よりも変化に抵抗しやすいが、説得の試みに必ずしも不応答ではない</title>
     <link>https://osf.io/6a8ue</link>
     <guid isPermaLink="false">https://osf.io/6a8ue#ja</guid>
     <pubDate>Sun, 14 Dec 2025 08:20:43 +0000</pubDate>
@@ -181,7 +181,7 @@
     <description>Shaping minds through modelling: a novel experimental approach in the museum</description>
   </item>
   <item>
-    <title>人工知能と行動分析：倫理的活用のための指針</title>
+    <title>人工知能と行動分析：倫理的使用のための指針</title>
     <link>https://osf.io/axurd</link>
     <guid isPermaLink="false">https://osf.io/axurd#ja</guid>
     <pubDate>Fri, 12 Dec 2025 22:41:47 +0000</pubDate>
@@ -195,7 +195,7 @@
     <description>A passion for passion:  Collectivistic cultures value intrinsic motivation more than individualistic cultures</description>
   </item>
   <item>
-    <title>因果機械学習を用いた慢性疼痛の個別化治療割り当て：層別無作為化比較試験</title>
+    <title>因果機械学習を用いた慢性疼痛における個別化治療割り当て：層別無作為化比較試験</title>
     <link>https://osf.io/fgu2j</link>
     <guid isPermaLink="false">https://osf.io/fgu2j#ja</guid>
     <pubDate>Fri, 12 Dec 2025 22:41:46 +0000</pubDate>
@@ -216,7 +216,7 @@
     <description>Speech sounds through time: from traditional accounts to embodied perspectives</description>
   </item>
   <item>
-    <title>部分的対象の分類と計数の関連性：いつ、なぜ部分が数に含まれるのか</title>
+    <title>部分的対象の分類と計数の関連性：いつ、なぜ部分が重要となるのか</title>
     <link>https://osf.io/kfqb5</link>
     <guid isPermaLink="false">https://osf.io/kfqb5#ja</guid>
     <pubDate>Fri, 12 Dec 2025 22:41:45 +0000</pubDate>
@@ -237,14 +237,14 @@
     <description>A Behavioral Conceptualization of Personality Functioning</description>
   </item>
   <item>
-    <title>経済的協力の維持における関係的タイミングの役割</title>
+    <title>経済的協力の持続における関係的タイミングの役割</title>
     <link>https://osf.io/fa3hk</link>
     <guid isPermaLink="false">https://osf.io/fa3hk#ja</guid>
     <pubDate>Fri, 12 Dec 2025 16:46:26 +0000</pubDate>
     <description>The role of relational timing in sustaining economic cooperation</description>
   </item>
   <item>
-    <title>近接および遠隔エピソードの心的イメージにおける詳細レベル</title>
+    <title>近距離および遠距離エピソードの心的イメージにおける詳細度の違い</title>
     <link>https://osf.io/9wqab</link>
     <guid isPermaLink="false">https://osf.io/9wqab#ja</guid>
     <pubDate>Fri, 12 Dec 2025 16:46:26 +0000</pubDate>
@@ -265,7 +265,7 @@
     <description>The Principal–Agent Problem in User–Algorithm Interactions</description>
   </item>
   <item>
-    <title>認知バイアス修正がPTSDにおける症状と認知の関係性に及ぼす影響：ランダム化比較試験に基づくネットワーク分析の検証</title>
+    <title>認知バイアス修正がPTSDにおける症状と認知の関係に及ぼす影響：ランダム化比較試験におけるネットワーク分析の証拠</title>
     <link>https://osf.io/7a9vm</link>
     <guid isPermaLink="false">https://osf.io/7a9vm#ja</guid>
     <pubDate>Fri, 12 Dec 2025 16:46:25 +0000</pubDate>
@@ -279,7 +279,7 @@
     <description>Motor Imagery Vividness Does Not Predict the Ability to Judge Object Weight from Observed Hand Actions</description>
   </item>
   <item>
-    <title>ワーク・ファミリー境界強度尺度のいくつかの心理計量特性：リトアニアにおける二つの研究結果</title>
+    <title>ワーク・ファミリー境界強度尺度の心理計量特性：リトアニアにおける二つの研究結果</title>
     <link>https://osf.io/eqyjx</link>
     <guid isPermaLink="false">https://osf.io/eqyjx#ja</guid>
     <pubDate>Fri, 12 Dec 2025 16:46:24 +0000</pubDate>
@@ -293,14 +293,14 @@
     <description>Actor-Driven Risk Factors of Publication Bias: Opening the File Drawer of Two Probabilistic Panel Surveys</description>
   </item>
   <item>
-    <title>思春期における道徳性の発達</title>
+    <title>青年期における道徳性の発達</title>
     <link>https://osf.io/nzuef</link>
     <guid isPermaLink="false">https://osf.io/nzuef#ja</guid>
     <pubDate>Fri, 12 Dec 2025 16:46:24 +0000</pubDate>
     <description>Morality in adolescent life</description>
   </item>
   <item>
-    <title>好循環：勤務柔軟化と知覚された組織サポートの相互関係</title>
+    <title>好循環の形成：勤務柔軟化と知覚された組織サポートの相互関係</title>
     <link>https://osf.io/cxb2w</link>
     <guid isPermaLink="false">https://osf.io/cxb2w#ja</guid>
     <pubDate>Fri, 12 Dec 2025 16:46:23 +0000</pubDate>
@@ -314,28 +314,28 @@
     <description>The Effect of AI-based Linguistically Tailored Health Messages on Plant-Based Lunch Choices of Adolescents: A Randomised Controlled Trial</description>
   </item>
   <item>
-    <title>古典語処理の自動化：時間的制約と直線的提示がラテン語文理解に及ぼす影響</title>
+    <title>古典語処理の自動化：時間的制約と線形提示がラテン語文理解に及ぼす影響</title>
     <link>https://osf.io/kyvrp</link>
     <guid isPermaLink="false">https://osf.io/kyvrp#ja</guid>
     <pubDate>Fri, 12 Dec 2025 16:46:23 +0000</pubDate>
     <description>Automatization in Processing a Classical Language: Effects of Time Pressure and Linear Presentation on Sentence Comprehension in Latin</description>
   </item>
   <item>
-    <title>聴覚的短期記憶は初期学習段階に影響するが、記憶固定化後の学習段階には影響しない：語形習得の予測因子に関する個人差研究</title>
+    <title>聴覚的短期記憶は初期学習段階に影響するが、記憶固定化後の学習段階には影響しない：語形獲得の予測因子に関する個人差研究</title>
     <link>https://osf.io/w2b4d</link>
     <guid isPermaLink="false">https://osf.io/w2b4d#ja</guid>
     <pubDate>Fri, 12 Dec 2025 16:46:22 +0000</pubDate>
     <description>Auditory short-term memory affects initial but not post-consolidation learning phases: An individual differences study on predictors of word form acquisition</description>
   </item>
   <item>
-    <title>認知的予備力は長期脳卒中患者における実行機能と抑うつの関係を調整する</title>
+    <title>認知予備力は長期脳卒中患者における実行機能と抑うつの関係を調節する</title>
     <link>https://osf.io/45ua6</link>
     <guid isPermaLink="false">https://osf.io/45ua6#ja</guid>
     <pubDate>Fri, 12 Dec 2025 16:46:22 +0000</pubDate>
     <description>Cognitive Reserve Moderates the Relationship between Executive Functioning and Depression in Long-term Stroke</description>
   </item>
   <item>
-    <title>行動障害の特定支援ツール：ベイズ証拠に基づく手法と機械学習手法の比較</title>
+    <title>行動障害の特定支援ツール：ベイズ証拠に基づくアプローチと機械学習アプローチの比較</title>
     <link>https://osf.io/4sfjz</link>
     <guid isPermaLink="false">https://osf.io/4sfjz#ja</guid>
     <pubDate>Fri, 12 Dec 2025 16:46:22 +0000</pubDate>
