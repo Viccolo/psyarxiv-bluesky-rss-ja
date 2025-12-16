@@ -18,18 +18,22 @@ ACTOR = "psyarxivbot.bsky.social"
 BLUESKY_API = "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed"
 
 LIMIT_PER_PAGE = 100
-MAX_POSTS_FETCH = 400      # 取得する投稿数（多めに取ってURL抽出）
-MAX_ITEMS = 60             # RSSに入れる最大件数
-SLEEP_SEC = 0.1            # OSFへの連打を少し抑える
+MAX_POSTS_FETCH = 400
+MAX_ITEMS = 60
+SLEEP_SEC = 0.1
 
 OUTPUT_PATH = "docs/feed.xml"
-CACHE_PATH = "docs/cache.json"  # 翻訳キャッシュ（推奨）
+CACHE_PATH = "docs/cache.json"
 
 MODEL_TRANSLATE = "gpt-4.1-mini"
 
 client = OpenAI()  # OPENAI_API_KEY 必須
 
 URL_RE = re.compile(r"https?://[^\s)>\]]+")
+
+UA = {
+    "User-Agent": "psyarxiv-bluesky-rss-ja/1.0 (+https://github.com/Viccolo/psyarxiv-bluesky-rss-ja)"
+}
 
 
 # =========================
@@ -62,7 +66,7 @@ def fetch_author_feed(max_records: int = 300):
         if cursor:
             params["cursor"] = cursor
 
-        r = requests.get(BLUESKY_API, params=params, timeout=30)
+        r = requests.get(BLUESKY_API, params=params, timeout=30, headers=UA)
         r.raise_for_status()
         j = r.json()
 
@@ -130,22 +134,46 @@ def extract_urls_from_post(item: dict) -> list[str]:
     return out
 
 
+# =========================
+# URL normalize (重要：OSF→PsyArXiv優先)
+# =========================
+def _try_psyarxiv_first_from_osf(osf_url: str) -> str:
+    """
+    osf.io/xxxxx を見つけたら、
+    まず psyarxiv.com/xxxxx が生きているか軽く確認し、
+    生きていればそっちを採用する（タイトルが取れやすい）。
+    """
+    m = re.search(r"osf\.io/([a-z0-9]+)", osf_url, flags=re.I)
+    if not m:
+        return osf_url
+    pid = m.group(1).lower()
+    psy = f"https://psyarxiv.com/{pid}"
+
+    try:
+        # HEADが通らないサイトもあるのでGETで軽く（ストリームで負荷軽減）
+        r = requests.get(psy, timeout=15, headers=UA, stream=True)
+        ok = (200 <= r.status_code < 300)
+        r.close()
+        if ok:
+            return psy
+    except Exception:
+        pass
+
+    return f"https://osf.io/{pid}"
+
+
 def normalize_target_url(url: str) -> str | None:
-    """
-    RSSは「PsyArXivに直接飛べる方が便利」だったので、
-    psyarxiv.com が取れればそれ優先。
-    ただし投稿が osf.io しか無い場合もあるので両対応。
-    """
+    # 既にpsyarxiv.comならそれを採用
     if "psyarxiv.com/" in url:
         m = re.search(r"psyarxiv\.com/([a-z0-9]+)", url, flags=re.I)
         if m:
             return f"https://psyarxiv.com/{m.group(1).lower()}"
         return url
+
+    # osf.ioなら psyarxiv.com を優先して試す
     if "osf.io/" in url:
-        m = re.search(r"osf\.io/([a-z0-9]+)", url, flags=re.I)
-        if m:
-            return f"https://osf.io/{m.group(1).lower()}"
-        return url
+        return _try_psyarxiv_first_from_osf(url)
+
     return None
 
 
@@ -154,29 +182,43 @@ def normalize_target_url(url: str) -> str | None:
 # =========================
 def get_soup(url: str) -> BeautifulSoup | None:
     try:
-        r = requests.get(url, timeout=30)
+        r = requests.get(url, timeout=30, headers=UA)
         r.raise_for_status()
         return BeautifulSoup(r.text, "html.parser")
     except Exception:
         return None
 
 def parse_title_from_page(soup: BeautifulSoup) -> str:
+    """
+    “OSF” みたいな汎用タイトルを踏まないために、
+    citation_title を最優先で拾う。
+    """
+    # 最優先：citation_title（学術メタ）
+    ct = soup.find("meta", attrs={"name": "citation_title"})
+    if ct and ct.get("content"):
+        t = ct["content"].strip()
+        if t:
+            return t
+
+    # 次点：og:title
     og = soup.find("meta", attrs={"property": "og:title"})
     if og and og.get("content"):
         t = og["content"].strip()
-        if t:
+        if t and t.lower() != "osf":
             return t
 
+    # 次：h1
     h1 = soup.find("h1")
     if h1:
         t = h1.get_text(strip=True)
-        if t:
+        if t and t.lower() != "osf":
             return t
 
+    # 最後：titleタグ
     ttag = soup.find("title")
     if ttag:
         t = ttag.get_text(strip=True)
-        if t:
+        if t and t.lower() != "osf":
             return t
 
     return "Untitled"
@@ -236,7 +278,7 @@ def build_feed():
     for it in feed_items:
         post = (it.get("post") or {})
         record = (post.get("record") or {})
-        created = record.get("createdAt")  # ISO8601
+        created = record.get("createdAt")
 
         try:
             dt = datetime.fromisoformat(created.replace("Z", "+00:00"))
@@ -279,10 +321,7 @@ def build_feed():
         fe.link(href=url)
         fe.pubDate(dt.astimezone(timezone.utc))
 
-        # タイトルは「日本語（英語）」で一覧性を上げる（あなたの当初要件）
         fe.title(f"{title_ja} ({title_en})")
-
-        # description は短く（本文は要らない）
         fe.description(f"Link: {url}")
 
         time.sleep(SLEEP_SEC)
