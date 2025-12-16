@@ -7,14 +7,10 @@ from datetime import datetime, timezone
 from email.utils import format_datetime
 
 import requests
-from bs4 import BeautifulSoup
-from datetime import datetime
-from feedgen.feed import FeedGenerator
 from openai import OpenAI
 
 # =========================
-# Settings
-# 設定
+# Basic settings
 # =========================
 
 ACTOR = "psyarxivbot.bsky.social"
@@ -24,27 +20,20 @@ BLUESKY_API = (
     "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed"
     f"?actor={ACTOR}&limit={LIMIT}"
 )
-BLUESKY_FEED_URL = "https://bsky.app/profile/psyarxivbot.bsky.social"
-OUTPUT_PATH = "docs/feed.xml"
 
 DOCS_DIR = "docs"
 FEED_FILE = "feed.xml"
-# 著者表示数（ここを変えるだけ）
-AUTHOR_DISPLAY_LIMIT = 3   # 例：3 → 3人まで表示、それ以上は et al.
 
-# 安定重視
+# ★ 安定重視
 MODEL = "gpt-4.1-mini"
-MODEL_TRANSLATE = "gpt-4.1-mini"  # 安定動作確認済み
 
 # 著者表示：FirstAuthor et al.
 MAX_AUTHORS = 1
-client = OpenAI()  # OPENAI_API_KEY を使用
 
 client = OpenAI()
 
 # =========================
 # Bluesky helpers
-# ユーティリティ
 # =========================
 
 def fetch_bluesky_feed() -> dict:
@@ -57,10 +46,12 @@ def extract_osf_url(text: str | None) -> str | None:
     if not text:
         return None
 
+    # Prefer psyarxiv.com
     m = re.search(r"https?://psyarxiv\.com/\S+", text)
     if m:
         return m.group(0).rstrip(").,]")
 
+    # Fallback to osf.io
     m = re.search(r"https?://osf\.io/\S+", text)
     if m:
         return m.group(0).rstrip(").,]")
@@ -80,133 +71,95 @@ def fallback_title_from_post(text: str, url: str) -> str:
 
 
 # =========================
-# OSF API helpers
+# OSF API (title + authors)
 # =========================
 
-def fetch_preprint(osf_id: str) -> dict | None:
-    url = f"https://api.osf.io/v2/preprints/{osf_id}/"
-def fetch_html(url: str) -> BeautifulSoup | None:
-try:
+def fetch_osf_metadata(osf_id: str) -> dict | None:
+    url = f"https://api.osf.io/v2/preprints/{osf_id}/?include=contributors"
+    try:
         r = requests.get(url, timeout=30)
         if r.status_code != 200:
             return None
         return r.json()
-        r = requests.get(url, timeout=10)
-        r.raise_for_status()
-        return BeautifulSoup(r.text, "html.parser")
-except Exception:
-return None
-
-
-def get_node_id_from_preprint(osf_id: str) -> str | None:
-    j = fetch_preprint(osf_id)
-    if not j:
-        return None
-    return (
-        j.get("data", {})
-         .get("relationships", {})
-         .get("node", {})
-         .get("data", {})
-         .get("id")
-    )
-
-
-def fetch_node_authors(node_id: str) -> list[str]:
-    url = f"https://api.osf.io/v2/nodes/{node_id}/contributors/"
-    try:
-        r = requests.get(url, timeout=30)
-        if r.status_code != 200:
-            return []
-        j = r.json()
-
-        names = []
-        for it in j.get("data", []):
-            full = it.get("attributes", {}).get("full_name")
-            if isinstance(full, str) and full.strip():
-                names.append(full.strip())
-
-        # deduplicate (preserve order)
-        seen = set()
-        out = []
-        for n in names:
-            if n not in seen:
-                out.append(n)
-                seen.add(n)
-        return out
-
     except Exception:
-def fetch_authors(osf_url: str) -> list[str]:
-    """
-    PsyArXiv 論文ページの Authors セクションから
-    表示されている名前をそのまま取得（厳密性は追わない）
-    """
-    soup = fetch_html(osf_url)
-    if soup is None:
-return []
-
-    authors = []
-
-def get_preprint_title(osf_id: str) -> str | None:
-    j = fetch_preprint(osf_id)
-    if not j:
         return None
-    return j.get("data", {}).get("attributes", {}).get("title")
-    # 2025年以降のUI対応：profileリンクを持つ a タグ
-    for a in soup.select('a[href^="/profile/"]'):
-        name = a.get_text(strip=True)
-        if name:
-            authors.append(name)
 
-    # 重複除去（順序保持）
-    return list(dict.fromkeys(authors))
+
+def get_title_and_authors(osf_id: str) -> tuple[str | None, list[str]]:
+    j = fetch_osf_metadata(osf_id)
+    if not j:
+        return None, []
+
+    # English title
+    title = j.get("data", {}).get("attributes", {}).get("title")
+
+    # Author order from relationships
+    order_ids = []
+    rel = j.get("data", {}).get("relationships", {}).get("contributors", {}).get("data", [])
+    if isinstance(rel, list):
+        order_ids = [x.get("id") for x in rel if isinstance(x, dict) and x.get("id")]
+
+    # included -> id -> full_name
+    id2name = {}
+    for it in j.get("included", []):
+        if not isinstance(it, dict):
+            continue
+        fid = it.get("id")
+        name = it.get("attributes", {}).get("full_name")
+        if fid and isinstance(name, str):
+            id2name[fid] = name.strip()
+
+    names = [id2name[i] for i in order_ids if i in id2name]
+
+    # fallback if ordering missing
+    if not names:
+        for it in j.get("included", []):
+            name = it.get("attributes", {}).get("full_name")
+            if isinstance(name, str):
+                names.append(name.strip())
+
+    # deduplicate, preserve order
+    seen = set()
+    uniq = []
+    for n in names:
+        if n not in seen:
+            uniq.append(n)
+            seen.add(n)
+
+    return title, uniq
 
 
 def format_authors_et_al(names: list[str], max_authors: int = 1) -> str:
     if not names:
-def format_authors(authors: list[str], limit: int) -> str:
-    """
-    表示人数は後で自由に変更できるように分離
-    """
-    if not authors:
-return ""
+        return ""
     if len(names) == 1:
         return names[0]
     if max_authors <= 1:
         return f"{names[0]} et al."
     return f"{', '.join(names[:max_authors])} et al."
 
-    if len(authors) <= limit:
-        return ", ".join(authors)
 
 # =========================
 # Translation (stable)
 # =========================
-    return ", ".join(authors[:limit]) + " et al."
 
 def translate_title_to_ja(en_title: str) -> str:
     if not os.environ.get("OPENAI_API_KEY"):
         return en_title
 
-def translate_title(title_en: str) -> str:
-    """
-    英語タイトル → 日本語タイトル
-    """
-try:
+    try:
         resp = client.chat.completions.create(
             model=MODEL,
-        res = client.chat.completions.create(
-            model=MODEL_TRANSLATE,
-messages=[
-{
-"role": "system",
+            messages=[
+                {
+                    "role": "system",
                     "content": (
                         "You are a professional academic translator. "
                         "Translate academic paper titles into natural Japanese."
                     ),
-                    "content": "Translate academic paper titles into natural Japanese."
-},
-{
-"role": "user",
+                },
+                {
+                    "role": "user",
                     "content": (
                         "Translate the following paper title into Japanese.\n"
                         "Rules:\n"
@@ -215,11 +168,9 @@ messages=[
                         f"{en_title}"
                     ),
                 },
-                    "content": title_en
-                }
-],
-temperature=0.2,
-)
+            ],
+            temperature=0.2,
+        )
 
         ja = (resp.choices[0].message.content or "").strip()
         return ja if ja else en_title
@@ -227,14 +178,10 @@ temperature=0.2,
     except Exception as e:
         print(f"[translate error] {e}", file=sys.stderr)
         return en_title
-        return res.choices[0].message.content.strip()
-    except Exception:
-        return title_en  # 失敗時は英語のまま
 
 
 # =========================
 # Entry builder
-# メイン処理
 # =========================
 
 def build_entries() -> list[dict]:
@@ -251,26 +198,23 @@ def build_entries() -> list[dict]:
             continue
 
         osf_id = extract_osf_id(url)
-        if not osf_id:
-            continue
 
-        # English title
-        en_title = get_preprint_title(osf_id)
-        if not en_title:
-            en_title = fallback_title_from_post(text, url)
-
-        # Japanese title
-        ja_title = translate_title_to_ja(en_title)
-
-        # Authors (node-based)
+        en_title = None
         authors = ""
-        node_id = get_node_id_from_preprint(osf_id)
-        if node_id:
-            names = fetch_node_authors(node_id)
+
+        if osf_id:
+            api_title, names = get_title_and_authors(osf_id)
+            if api_title:
+                en_title = api_title
             if names:
                 authors = format_authors_et_al(names, MAX_AUTHORS)
 
-        # Description: EN + Authors + Link
+        if not en_title:
+            en_title = fallback_title_from_post(text, url)
+
+        ja_title = translate_title_to_ja(en_title)
+
+        # description: English + authors + link
         desc_parts = [f"EN: {en_title}"]
         if authors:
             desc_parts.append(f"Authors: {authors}")
@@ -291,28 +235,13 @@ def build_entries() -> list[dict]:
                 "pubDate": format_datetime(dt.astimezone(timezone.utc)),
             }
         )
-def build_feed():
-    fg = FeedGenerator()
-    fg.load_extension("dc", atom=False, rss=True)
 
     return entries
-    fg.title("PsyArXiv bot (日本語タイトル付き)")
-    fg.link(href=BLUESKY_FEED_URL)
-    fg.description(
-        "psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、"
-        "日本語タイトル（英語タイトル）＋著者情報を配信する非公式RSSフィード"
-    )
-    fg.language("ja")
 
-    # ----
-    # ここでは「すでに取得済み」と仮定
-    # 実際は Bluesky から osf_url / title_en / pub_date を取っているはず
-    # ----
 
 # =========================
 # RSS writer
 # =========================
-    papers = fetch_papers_somehow()  # ← 既存処理をそのまま使う想定
 
 def build_rss(entries: list[dict]) -> str:
     items = []
@@ -326,19 +255,6 @@ def build_rss(entries: list[dict]) -> str:
     <description>{html.escape(e["description"])}</description>
   </item>"""
         )
-    for paper in papers:
-        title_en = paper["title"]
-        osf_url = paper["url"]
-        pub_date = paper["published"]
-
-        title_ja = translate_title(title_en)
-        authors = fetch_authors(osf_url)
-        author_text = format_authors(authors, AUTHOR_DISPLAY_LIMIT)
-
-        fe = fg.add_entry()
-        fe.id(osf_url + "#ja")
-        fe.link(href=osf_url)
-        fe.pubDate(pub_date)
 
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
@@ -351,31 +267,19 @@ def build_rss(entries: list[dict]) -> str:
 </channel>
 </rss>
 """
-        # タイトルは日本語のみ（RSS一覧で視認性優先）
-        fe.title(title_ja)
 
-        # description に英語タイトル＋著者
-        desc = f"EN: {title_en}"
-        if author_text:
-            desc += f" | Authors: {author_text}"
 
 def main():
     entries = build_entries()
     rss = build_rss(entries)
-        fe.description(desc)
 
     os.makedirs(DOCS_DIR, exist_ok=True)
     path = os.path.join(DOCS_DIR, FEED_FILE)
     with open(path, "w", encoding="utf-8") as f:
         f.write(rss)
-    fg.rss_file(OUTPUT_PATH, encoding="utf-8")
 
     print(f"Wrote {path} ({len(entries)} items)")
 
-# =========================
-# 実行
-# =========================
 
 if __name__ == "__main__":
     main()
-    build_feed()
