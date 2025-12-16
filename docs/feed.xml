@@ -6,6 +6,41 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>境界性パーソナリティ障害における共感の神経基盤</title>
+    <link>https://osf.io/wnvg6</link>
+    <guid isPermaLink="false">https://osf.io/wnvg6#ja</guid>
+    <pubDate>Tue, 16 Dec 2025 21:16:58 +0000</pubDate>
+    <description>The Neural Basis of Empathy in Borderline Personality Disorder</description>
+  </item>
+  <item>
+    <title>アメリカにおける自閉症者およびその親の英語自閉症用語選好：クラスタリングによる多様な見解の解明</title>
+    <link>https://osf.io/29r4f</link>
+    <guid isPermaLink="false">https://osf.io/29r4f#ja</guid>
+    <pubDate>Tue, 16 Dec 2025 21:16:58 +0000</pubDate>
+    <description>English-Language Autism Terminology Preferences of Autistic People and their Parents in the United States: Clustering Illuminates Diverse Views</description>
+  </item>
+  <item>
+    <title>ロシア語の黙読における三種類の知覚範囲の検討</title>
+    <link>https://osf.io/243sf</link>
+    <guid isPermaLink="false">https://osf.io/243sf#ja</guid>
+    <pubDate>Tue, 16 Dec 2025 21:16:57 +0000</pubDate>
+    <description>Exploring three types of perceptual span during silent reading in Russian</description>
+  </item>
+  <item>
+    <title>アルコール報酬からの学習：アルコール使用障害における薬物関連報酬予測誤差の神経学的指標</title>
+    <link>https://osf.io/ec7kh</link>
+    <guid isPermaLink="false">https://osf.io/ec7kh#ja</guid>
+    <pubDate>Tue, 16 Dec 2025 21:16:57 +0000</pubDate>
+    <description>Learning from Alcohol Rewards: Neural Signatures of Drug-Related Reward Prediction Errors in Alcohol Use Disorder</description>
+  </item>
+  <item>
+    <title>応用行動分析における同意の概念</title>
+    <link>https://osf.io/fku5s</link>
+    <guid isPermaLink="false">https://osf.io/fku5s#ja</guid>
+    <pubDate>Tue, 16 Dec 2025 21:16:57 +0000</pubDate>
+    <description>Assent in Applied Behavior Analysis</description>
+  </item>
+  <item>
     <title>レイプの一般的定義：性的暴力を描写した事例の分類</title>
     <link>https://osf.io/vz5ay</link>
     <guid isPermaLink="false">https://osf.io/vz5ay#ja</guid>
@@ -13,7 +48,7 @@
     <description>Lay definitions of rape: Categorisation of vignettes depicting sexual violence.</description>
   </item>
   <item>
-    <title>参加者が実験者支援のために錯覚的体験を創出する過程</title>
+    <title>参加者が実験者を支援するために錯覚的体験を創出する過程</title>
     <link>https://osf.io/n2ukj</link>
     <guid isPermaLink="false">https://osf.io/n2ukj#ja</guid>
     <pubDate>Tue, 16 Dec 2025 16:53:44 +0000</pubDate>
@@ -55,7 +90,7 @@
     <description>An Examination of Racial Bias in Scoring the Autism Diagnostic Observation Schedule (ADOS) Module 3: An Item Response Theory Analysis</description>
   </item>
   <item>
-    <title>学習中の変動性は必ずしも有益ではない：課題および変動性の種類による影響</title>
+    <title>学習中の変動性は必ずしも有益ではない：課題および変動性の種類の影響</title>
     <link>https://osf.io/a7p2g</link>
     <guid isPermaLink="false">https://osf.io/a7p2g#ja</guid>
     <pubDate>Mon, 15 Dec 2025 20:44:49 +0000</pubDate>
@@ -69,7 +104,7 @@
     <description>Tears for Better, for Worse:  Development and Validation of the Crying in Romantic Relationships Questionnaire</description>
   </item>
   <item>
-    <title>大規模入門心理学授業におけるエンゲージメント重視のデモンストレーション：理解度、記憶保持、および学生の関与への影響</title>
+    <title>大規模入門心理学講義におけるエンゲージメント重視の実演：理解度、記憶保持、および学生の関与への影響</title>
     <link>https://osf.io/yuf78</link>
     <guid isPermaLink="false">https://osf.io/yuf78#ja</guid>
     <pubDate>Mon, 15 Dec 2025 20:44:48 +0000</pubDate>
@@ -90,7 +125,7 @@
     <description>Evaluating a Novel Virtual Reality Stress Induction Against a Standardised Laboratory-Based Paradigm.</description>
   </item>
   <item>
-    <title>感覚運動適応における共分散と結合の誤認：回帰傾斜は加法性を検証しない</title>
+    <title>感覚運動適応における共分散と組み合わせの誤認：回帰傾斜は加法性を検証しない</title>
     <link>https://osf.io/4ur6x</link>
     <guid isPermaLink="false">https://osf.io/4ur6x#ja</guid>
     <pubDate>Mon, 15 Dec 2025 20:44:47 +0000</pubDate>
@@ -125,7 +160,7 @@
     <description>Trauma-Focused  Social Adjustment Therapy  (TF-SAT): A Short-Term Intensive Approach to Enhancing Social Adjustment in Youth with Trauma Histories</description>
   </item>
   <item>
-    <title>ブラジル人話者の英語第二言語発話における人間と大規模言語モデルによるアクセント評価</title>
+    <title>ブラジル人話者による英語第二言語発話の人間および大規模言語モデルによるアクセント評価</title>
     <link>https://osf.io/q9cj6</link>
     <guid isPermaLink="false">https://osf.io/q9cj6#ja</guid>
     <pubDate>Sun, 14 Dec 2025 13:24:10 +0000</pubDate>
@@ -139,14 +174,14 @@
     <description>Should we still care about the CAMHS-AMHS transition? Evidence from a systematic review and meta-analysis</description>
   </item>
   <item>
-    <title>調整的柔軟性と心理的健康―多ければ良いというわけではないか</title>
+    <title>調整的柔軟性と心理的健康 ― 多ければ多いほど良いのか？</title>
     <link>https://osf.io/v9mwg</link>
     <guid isPermaLink="false">https://osf.io/v9mwg#ja</guid>
     <pubDate>Sun, 14 Dec 2025 10:41:34 +0000</pubDate>
     <description>Regulatory Flexibility and Psychological Health – Is More Always Better?</description>
   </item>
   <item>
-    <title>いつ止めるべきかの知識：逐次意思決定における最適停止問題</title>
+    <title>いつやめるべきかを知る：逐次意思決定における最適停止問題</title>
     <link>https://osf.io/k5b8j</link>
     <guid isPermaLink="false">https://osf.io/k5b8j#ja</guid>
     <pubDate>Sun, 14 Dec 2025 08:45:10 +0000</pubDate>
@@ -160,7 +195,7 @@
     <description>Does Creativity Have a Genius Bias?</description>
   </item>
   <item>
-    <title>政治的信念体系における中心的態度は周辺的態度より変化に抵抗しやすいが、説得への受容性が必ずしも低いわけではない</title>
+    <title>政治的信念体系における中心的態度は周辺的態度よりも変化に対して抵抗性が高いが、必ずしも説得に対して受容性が低いわけではない</title>
     <link>https://osf.io/6a8ue</link>
     <guid isPermaLink="false">https://osf.io/6a8ue#ja</guid>
     <pubDate>Sun, 14 Dec 2025 08:20:43 +0000</pubDate>
@@ -195,7 +230,7 @@
     <description>A passion for passion:  Collectivistic cultures value intrinsic motivation more than individualistic cultures</description>
   </item>
   <item>
-    <title>因果機械学習を用いた慢性疼痛の個別化治療割り当て：層別無作為化比較試験</title>
+    <title>因果機械学習を用いた慢性疼痛における個別化治療割り当て：層別無作為化比較試験</title>
     <link>https://osf.io/fgu2j</link>
     <guid isPermaLink="false">https://osf.io/fgu2j#ja</guid>
     <pubDate>Fri, 12 Dec 2025 22:41:46 +0000</pubDate>
@@ -209,21 +244,21 @@
     <description>Optimizing the Measurement of Life Satisfaction beyond the Satisfaction With Life Scale (SWLS) with the Development and Validation of the Satisfaction and Quality of Life Scale (SQLS)</description>
   </item>
   <item>
-    <title>時間を超えた音声知覚：伝統的説明から身体化された視点へ</title>
+    <title>時間を超えた音声：伝統的説明から身体化された視点へ</title>
     <link>https://osf.io/fhwuj</link>
     <guid isPermaLink="false">https://osf.io/fhwuj#ja</guid>
     <pubDate>Fri, 12 Dec 2025 22:41:45 +0000</pubDate>
     <description>Speech sounds through time: from traditional accounts to embodied perspectives</description>
   </item>
   <item>
-    <title>部分的対象の分類と計数の連関：いつ、なぜ部分が重要となるのか</title>
+    <title>部分対象の分類と計数の関連性：いつ、なぜ部分が重要となるのか</title>
     <link>https://osf.io/kfqb5</link>
     <guid isPermaLink="false">https://osf.io/kfqb5#ja</guid>
     <pubDate>Fri, 12 Dec 2025 22:41:45 +0000</pubDate>
     <description>When and why parts count: Linking categorization and counting of partial objects</description>
   </item>
   <item>
-    <title>音楽心理学における著者の性別特性</title>
+    <title>音楽心理学における著者のジェンダー特性</title>
     <link>https://osf.io/jz93p</link>
     <guid isPermaLink="false">https://osf.io/jz93p#ja</guid>
     <pubDate>Fri, 12 Dec 2025 22:41:44 +0000</pubDate>
@@ -244,7 +279,7 @@
     <description>The role of relational timing in sustaining economic cooperation</description>
   </item>
   <item>
-    <title>近接および遠隔エピソードの心的イメージにおける詳細レベル</title>
+    <title>近距離および遠距離エピソードの心的イメージにおける詳細度の違い</title>
     <link>https://osf.io/9wqab</link>
     <guid isPermaLink="false">https://osf.io/9wqab#ja</guid>
     <pubDate>Fri, 12 Dec 2025 16:46:26 +0000</pubDate>
@@ -265,28 +300,28 @@
     <description>The Principal–Agent Problem in User–Algorithm Interactions</description>
   </item>
   <item>
-    <title>認知バイアス修正がPTSDにおける症状と認知の関係に及ぼす影響：ランダム化比較試験におけるネットワーク分析の証拠</title>
+    <title>認知バイアス修正がPTSDにおける症状と認知の関係性に及ぼす影響：ランダム化比較試験におけるネットワーク分析の検証</title>
     <link>https://osf.io/7a9vm</link>
     <guid isPermaLink="false">https://osf.io/7a9vm#ja</guid>
     <pubDate>Fri, 12 Dec 2025 16:46:25 +0000</pubDate>
     <description>Does Cognitive Bias Modification for Appraisals Change Symptom-Cognition Relations in PTSD? Evidence from Network Analysis in a Randomized Controlled Trial</description>
   </item>
   <item>
-    <title>運動イメージの鮮明さは観察された手の動作から物体の重さを判断する能力を予測しない</title>
+    <title>運動イメージの鮮明さは観察された手の動作から物体の重量を判断する能力を予測しない</title>
     <link>https://osf.io/9ngv6</link>
     <guid isPermaLink="false">https://osf.io/9ngv6#ja</guid>
     <pubDate>Fri, 12 Dec 2025 16:46:24 +0000</pubDate>
     <description>Motor Imagery Vividness Does Not Predict the Ability to Judge Object Weight from Observed Hand Actions</description>
   </item>
   <item>
-    <title>ワーク・ファミリー境界強度尺度の心理計量特性に関する検討：リトアニアにおける二つの研究結果</title>
+    <title>ワーク・ファミリー境界強度尺度の心理測定特性に関する検討：リトアニアにおける二つの研究結果</title>
     <link>https://osf.io/eqyjx</link>
     <guid isPermaLink="false">https://osf.io/eqyjx#ja</guid>
     <pubDate>Fri, 12 Dec 2025 16:46:24 +0000</pubDate>
     <description>A Few Psychometric Properties of Work-Family Boundaries Strength Scale: Results from Two Studies in Lithuania</description>
   </item>
   <item>
-    <title>出版バイアスの主体的リスク要因：二つの確率的パネル調査における未発表データの検証</title>
+    <title>出版バイアスの主体的リスク要因：二つの確率的パネル調査のファイルドロワーを開く</title>
     <link>https://osf.io/phk3a</link>
     <guid isPermaLink="false">https://osf.io/phk3a#ja</guid>
     <pubDate>Fri, 12 Dec 2025 16:46:24 +0000</pubDate>
@@ -300,46 +335,11 @@
     <description>Morality in adolescent life</description>
   </item>
   <item>
-    <title>好循環の形成：勤務柔軟化と知覚される組織支援の相互関係</title>
+    <title>好循環：勤務柔軟化と知覚された組織支援の相互関係</title>
     <link>https://osf.io/cxb2w</link>
     <guid isPermaLink="false">https://osf.io/cxb2w#ja</guid>
     <pubDate>Fri, 12 Dec 2025 16:46:23 +0000</pubDate>
     <description>A Virtuous Cycle: Reciprocal Relations Between Work Flexibilization and Perceived Organizational Support</description>
-  </item>
-  <item>
-    <title>AIを活用した言語的に最適化された健康メッセージが青年期の植物性昼食選択に及ぼす影響：ランダム化比較試験</title>
-    <link>https://osf.io/wyhgq</link>
-    <guid isPermaLink="false">https://osf.io/wyhgq#ja</guid>
-    <pubDate>Fri, 12 Dec 2025 16:46:23 +0000</pubDate>
-    <description>The Effect of AI-based Linguistically Tailored Health Messages on Plant-Based Lunch Choices of Adolescents: A Randomised Controlled Trial</description>
-  </item>
-  <item>
-    <title>古典語処理の自動化：時間的制約と直線的提示がラテン語文理解に及ぼす影響</title>
-    <link>https://osf.io/kyvrp</link>
-    <guid isPermaLink="false">https://osf.io/kyvrp#ja</guid>
-    <pubDate>Fri, 12 Dec 2025 16:46:23 +0000</pubDate>
-    <description>Automatization in Processing a Classical Language: Effects of Time Pressure and Linear Presentation on Sentence Comprehension in Latin</description>
-  </item>
-  <item>
-    <title>聴覚的短期記憶は初期学習段階に影響するが、記憶固定化後の学習段階には影響しない：語形習得の予測因子に関する個人差研究</title>
-    <link>https://osf.io/w2b4d</link>
-    <guid isPermaLink="false">https://osf.io/w2b4d#ja</guid>
-    <pubDate>Fri, 12 Dec 2025 16:46:22 +0000</pubDate>
-    <description>Auditory short-term memory affects initial but not post-consolidation learning phases: An individual differences study on predictors of word form acquisition</description>
-  </item>
-  <item>
-    <title>認知予備力は長期脳卒中患者における実行機能と抑うつの関係を調整する</title>
-    <link>https://osf.io/45ua6</link>
-    <guid isPermaLink="false">https://osf.io/45ua6#ja</guid>
-    <pubDate>Fri, 12 Dec 2025 16:46:22 +0000</pubDate>
-    <description>Cognitive Reserve Moderates the Relationship between Executive Functioning and Depression in Long-term Stroke</description>
-  </item>
-  <item>
-    <title>行動障害の特定支援ツール：ベイズ証拠に基づくアプローチと機械学習アプローチの比較</title>
-    <link>https://osf.io/4sfjz</link>
-    <guid isPermaLink="false">https://osf.io/4sfjz#ja</guid>
-    <pubDate>Fri, 12 Dec 2025 16:46:22 +0000</pubDate>
-    <description>Tools for Helping Identify Behavior Disorders:  Comparing Bayesian Evidence-Based and Machine Learning Approaches</description>
   </item>
 </channel>
 </rss>
