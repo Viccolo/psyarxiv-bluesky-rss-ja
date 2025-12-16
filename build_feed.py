@@ -154,14 +154,14 @@ def translate_title_to_ja(en_title: str) -> str:
                 {
                     "role": "system",
                     "content": (
-                        "You are a professional academic translator. "
-                        "Translate academic paper titles into natural Japanese."
+                        "You are a professional academic psychological translator. "
+                        "Translate academic paper titles into natural Japanese in psychology."
                     ),
                 },
                 {
                     "role": "user",
                     "content": (
-                        "Translate the following paper title into Japanese.\n"
+                        "Translate the following paper title into psychologically valid and professional Japanese.\n"
                         "Rules:\n"
                         "- Output ONLY the Japanese title\n"
                         "- No quotes, no explanations\n\n"
@@ -215,7 +215,7 @@ def build_entries() -> list[dict]:
         ja_title = translate_title_to_ja(en_title)
 
         # description: English + authors + link
-        desc_parts = [f"EN: {en_title}"]
+        desc_parts = [f"{en_title}"]
         if authors:
             desc_parts.append(f"Authors: {authors}")
         desc_parts.append(f"Link: {url}")
