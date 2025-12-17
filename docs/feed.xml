@@ -6,6 +6,20 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>自発的な心のさまよい思考内容は制御された内的注意よりも制約が少ない</title>
+    <link>https://osf.io/p96zq</link>
+    <guid isPermaLink="false">https://osf.io/p96zq#ja</guid>
+    <pubDate>Wed, 17 Dec 2025 18:26:50 +0000</pubDate>
+    <description>Spontaneous Mind-Wandering Thought Content Is Less Constrained Than Controlled Internal Attention</description>
+  </item>
+  <item>
+    <title>デジタルバーンアウトと注意力崩壊：異文化心理学的総合レビュー</title>
+    <link>https://osf.io/mvr9h</link>
+    <guid isPermaLink="false">https://osf.io/mvr9h#ja</guid>
+    <pubDate>Wed, 17 Dec 2025 18:26:49 +0000</pubDate>
+    <description>Digital Burnout and Attention Collapse: A Review of Cross-Cultural Psychological Synthesis</description>
+  </item>
+  <item>
     <title>大規模言語モデルを用いた言語記述からの人間の選択行動の探索と予測</title>
     <link>https://osf.io/bxtj2</link>
     <guid isPermaLink="false">https://osf.io/bxtj2#ja</guid>
@@ -27,7 +41,7 @@
     <description>Unmasking the Flaws of Triplet-Triplet Attraction Effect Measures: Via Mathematical Analysis and Agent-Level Simulations</description>
   </item>
   <item>
-    <title>オーストラリアの小学生自閉症児における自己報告による学校満足度の検討</title>
+    <title>オーストラリアの小学校年齢自閉症児における自己報告による学校満足度の検討</title>
     <link>https://osf.io/vum7c</link>
     <guid isPermaLink="false">https://osf.io/vum7c#ja</guid>
     <pubDate>Wed, 17 Dec 2025 06:55:24 +0000</pubDate>
@@ -41,14 +55,14 @@
     <description>Creation and validation of the LEVANTE core tasks: Internationalized measures of learning and development for children ages 5-12 years</description>
   </item>
   <item>
-    <title>人々はデフォルトオプションに関する政策決定から推論を行う：McKenzieら（2006）の再検証と拡張</title>
+    <title>政策決定におけるデフォルト選択肢からの推論：McKenzieら（2006）の再検証と拡張</title>
     <link>https://osf.io/wfven</link>
     <guid isPermaLink="false">https://osf.io/wfven#ja</guid>
     <pubDate>Wed, 17 Dec 2025 06:55:23 +0000</pubDate>
     <description>People make inferences from policy decisions regarding default options:  Replication and extension of McKenzie et al. (2006)</description>
   </item>
   <item>
-    <title>注意関連抑制：IOR効果は注意があった場所ではなく、注意がある場所に存在する可能性</title>
+    <title>注意関連抑制：IOR効果は注意があった場所ではなく、注意がある場所に存在する可能性について</title>
     <link>https://osf.io/y9f8w</link>
     <guid isPermaLink="false">https://osf.io/y9f8w#ja</guid>
     <pubDate>Tue, 16 Dec 2025 22:41:31 +0000</pubDate>
@@ -62,14 +76,14 @@
     <description>The Neural Basis of Empathy in Borderline Personality Disorder</description>
   </item>
   <item>
-    <title>アメリカにおける自閉症者およびその親の英語自閉症用語選好：クラスタリングによる多様な見解の解明</title>
+    <title>アメリカにおける自閉症者およびその親の英語自閉症用語の好み：クラスタリングによる多様な見解の解明</title>
     <link>https://osf.io/29r4f</link>
     <guid isPermaLink="false">https://osf.io/29r4f#ja</guid>
     <pubDate>Tue, 16 Dec 2025 21:16:58 +0000</pubDate>
     <description>English-Language Autism Terminology Preferences of Autistic People and their Parents in the United States: Clustering Illuminates Diverse Views</description>
   </item>
   <item>
-    <title>ロシア語の黙読における三種類の知覚的視野の検討</title>
+    <title>ロシア語の黙読における三種類の知覚範囲の検討</title>
     <link>https://osf.io/243sf</link>
     <guid isPermaLink="false">https://osf.io/243sf#ja</guid>
     <pubDate>Tue, 16 Dec 2025 21:16:57 +0000</pubDate>
@@ -139,7 +153,7 @@
     <description>An Examination of Racial Bias in Scoring the Autism Diagnostic Observation Schedule (ADOS) Module 3: An Item Response Theory Analysis</description>
   </item>
   <item>
-    <title>学習中の変動性は必ずしも有益ではない：課題および変動性の種類による影響</title>
+    <title>学習中の変動性は必ずしも有益ではない：課題および変動性の種類の影響</title>
     <link>https://osf.io/a7p2g</link>
     <guid isPermaLink="false">https://osf.io/a7p2g#ja</guid>
     <pubDate>Mon, 15 Dec 2025 20:44:49 +0000</pubDate>
@@ -153,14 +167,14 @@
     <description>Tears for Better, for Worse:  Development and Validation of the Crying in Romantic Relationships Questionnaire</description>
   </item>
   <item>
-    <title>大規模入門心理学講義における参加重視型デモンストレーションの理解度、記憶保持、および学生の関与への影響</title>
+    <title>大規模入門心理学授業におけるエンゲージメント重視の実演：理解度、記憶保持、学生の関与への影響</title>
     <link>https://osf.io/yuf78</link>
     <guid isPermaLink="false">https://osf.io/yuf78#ja</guid>
     <pubDate>Mon, 15 Dec 2025 20:44:48 +0000</pubDate>
     <description>Engagement-centered demonstrations in large enrollment introductory psychology classes: effects on understanding, retention, and student engagement</description>
   </item>
   <item>
-    <title>異なる扱いを受ける？オランダの大学におけるMBO段階修了者の経験</title>
+    <title>異なる扱いを受けるのか？オランダの大学におけるMBO段階修了者の経験</title>
     <link>https://osf.io/fpgbn</link>
     <guid isPermaLink="false">https://osf.io/fpgbn#ja</guid>
     <pubDate>Mon, 15 Dec 2025 20:44:48 +0000</pubDate>
@@ -216,21 +230,21 @@
     <description>Human and LLM accent rating of English-L2 speech by Brazilian speakers</description>
   </item>
   <item>
-    <title>CAMHSからAMHSへの移行に依然として注目すべきか？システマティックレビューとメタアナリシスによる検証</title>
+    <title>CAMHSからAMHSへの移行は依然重要か？システマティックレビューとメタアナリシスによる検証</title>
     <link>https://osf.io/9z2as</link>
     <guid isPermaLink="false">https://osf.io/9z2as#ja</guid>
     <pubDate>Sun, 14 Dec 2025 10:41:34 +0000</pubDate>
     <description>Should we still care about the CAMHS-AMHS transition? Evidence from a systematic review and meta-analysis</description>
   </item>
   <item>
-    <title>調整的柔軟性と心理的健康 ― 多ければ多いほど良いのか？</title>
+    <title>調整的柔軟性と心理的健康―多ければ多いほど良いのか？</title>
     <link>https://osf.io/v9mwg</link>
     <guid isPermaLink="false">https://osf.io/v9mwg#ja</guid>
     <pubDate>Sun, 14 Dec 2025 10:41:34 +0000</pubDate>
     <description>Regulatory Flexibility and Psychological Health – Is More Always Better?</description>
   </item>
   <item>
-    <title>いつやめるべきかを知る：逐次意思決定における最適停止問題</title>
+    <title>いつやめるべきかを知る：連続意思決定における最適停止問題</title>
     <link>https://osf.io/k5b8j</link>
     <guid isPermaLink="false">https://osf.io/k5b8j#ja</guid>
     <pubDate>Sun, 14 Dec 2025 08:45:10 +0000</pubDate>
@@ -244,7 +258,7 @@
     <description>Does Creativity Have a Genius Bias?</description>
   </item>
   <item>
-    <title>政治的信念体系における中心的態度は周辺的態度よりも変化に抵抗しやすいが、必ずしも説得に対して受容性が低いわけではない</title>
+    <title>政治的信念体系における中心的態度は周辺的態度よりも変化に抵抗しやすいが、必ずしも説得に対して受容的でないわけではない</title>
     <link>https://osf.io/6a8ue</link>
     <guid isPermaLink="false">https://osf.io/6a8ue#ja</guid>
     <pubDate>Sun, 14 Dec 2025 08:20:43 +0000</pubDate>
@@ -305,27 +319,6 @@
     <guid isPermaLink="false">https://osf.io/kfqb5#ja</guid>
     <pubDate>Fri, 12 Dec 2025 22:41:45 +0000</pubDate>
     <description>When and why parts count: Linking categorization and counting of partial objects</description>
-  </item>
-  <item>
-    <title>音楽心理学における著者のジェンダー特性</title>
-    <link>https://osf.io/jz93p</link>
-    <guid isPermaLink="false">https://osf.io/jz93p#ja</guid>
-    <pubDate>Fri, 12 Dec 2025 22:41:44 +0000</pubDate>
-    <description>The Gendered Nature of Authorship in Music Psychology</description>
-  </item>
-  <item>
-    <title>パーソナリティ機能の行動的概念化</title>
-    <link>https://osf.io/vpfst</link>
-    <guid isPermaLink="false">https://osf.io/vpfst#ja</guid>
-    <pubDate>Fri, 12 Dec 2025 22:41:44 +0000</pubDate>
-    <description>A Behavioral Conceptualization of Personality Functioning</description>
-  </item>
-  <item>
-    <title>経済的協力の維持における関係的タイミングの役割</title>
-    <link>https://osf.io/fa3hk</link>
-    <guid isPermaLink="false">https://osf.io/fa3hk#ja</guid>
-    <pubDate>Fri, 12 Dec 2025 16:46:26 +0000</pubDate>
-    <description>The role of relational timing in sustaining economic cooperation</description>
   </item>
 </channel>
 </rss>
