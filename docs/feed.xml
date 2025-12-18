@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>日常的セクシズム：心理療法における性的少数者・ジェンダー少数者・女性へのマイクロアグレッション</title>
+    <title>心理療法における日常的セクシズム：性的少数者・性別少数者・女性へのマイクロアグレッションの心理療法的二者関係内での検討</title>
     <link>https://osf.io/awr8y</link>
     <guid isPermaLink="false">https://osf.io/awr8y#ja</guid>
     <pubDate>Thu, 18 Dec 2025 15:18:31 +0000</pubDate>
@@ -20,7 +20,7 @@
     <description>A quantitative comparison of AI and human therapists during simulated therapy</description>
   </item>
   <item>
-    <title>中期児童期における顔表情認識の特徴：養育態度および社会情動機能との関連</title>
+    <title>中期児童期における顔表情感情認識の特徴：養育環境および社会情動機能との関連</title>
     <link>https://osf.io/mk5hg</link>
     <guid isPermaLink="false">https://osf.io/mk5hg#ja</guid>
     <pubDate>Thu, 18 Dec 2025 07:19:09 +0000</pubDate>
@@ -34,14 +34,14 @@
     <description>The Unintended Consequences of Labeling AI-Generated Media Online</description>
   </item>
   <item>
-    <title>ビンジ文化とその先に：OTTが促すZ世代の心的変容に関する概念的枠組み</title>
+    <title>ビンジカルチャーを超えて：OTTが促すZ世代の心的態度変容に関する概念的枠組み</title>
     <link>https://osf.io/jts23</link>
     <guid isPermaLink="false">https://osf.io/jts23#ja</guid>
     <pubDate>Thu, 18 Dec 2025 04:06:04 +0000</pubDate>
     <description>Binge Culture and Beyond: A Conceptual Framework of OTT-Driven Mindset Shifts in Generation Z</description>
   </item>
   <item>
-    <title>刺青された真実と治療の地図：障害肯定的臨床におけるモチーフマッピングの応用</title>
+    <title>刺青された真実と治療の地図：障害肯定的臨床実践におけるモチーフマッピングの応用</title>
     <link>https://osf.io/cm8pg</link>
     <guid isPermaLink="false">https://osf.io/cm8pg#ja</guid>
     <pubDate>Wed, 17 Dec 2025 23:39:58 +0000</pubDate>
@@ -55,7 +55,7 @@
     <description>Ethical AI Use: A Clinical Framework for Professional Practice</description>
   </item>
   <item>
-    <title>教育トラッキングと学校の名声が青年期の学業成績軌跡および重要な全国試験の結果に果たす役割</title>
+    <title>教育トラッキングと学校の権威が青年期の学業成績軌跡および高難度全国試験の結果に与える影響</title>
     <link>https://osf.io/wdqmn</link>
     <guid isPermaLink="false">https://osf.io/wdqmn#ja</guid>
     <pubDate>Wed, 17 Dec 2025 18:54:37 +0000</pubDate>
@@ -76,7 +76,7 @@
     <description>Spontaneous Mind-Wandering Thought Content Is Less Constrained Than Controlled Internal Attention</description>
   </item>
   <item>
-    <title>デジタルバーンアウトと注意力崩壊：異文化心理学的統合のレビュー</title>
+    <title>デジタルバーンアウトと注意力崩壊：異文化心理学的統合レビュー</title>
     <link>https://osf.io/mvr9h</link>
     <guid isPermaLink="false">https://osf.io/mvr9h#ja</guid>
     <pubDate>Wed, 17 Dec 2025 18:26:49 +0000</pubDate>
@@ -111,14 +111,14 @@
     <description>Self-Reported School Satisfaction in an Australian Sample of Primary School-Aged Children with Autism</description>
   </item>
   <item>
-    <title>LEVANTEコア課題の作成と検証：5～12歳児の学習と発達を国際的に評価する尺度</title>
+    <title>LEVANTEコア課題の作成と検証：5～12歳児の学習と発達を国際的に評価する尺度の開発</title>
     <link>https://osf.io/r4dhw</link>
     <guid isPermaLink="false">https://osf.io/r4dhw#ja</guid>
     <pubDate>Wed, 17 Dec 2025 06:55:24 +0000</pubDate>
     <description>Creation and validation of the LEVANTE core tasks: Internationalized measures of learning and development for children ages 5-12 years</description>
   </item>
   <item>
-    <title>デフォルト選択肢に関する政策決定からの推論：McKenzieら（2006年）の再検証と拡張</title>
+    <title>人々はデフォルトオプションに関する政策決定から推論を行う：McKenzieら（2006）の再検証と拡張</title>
     <link>https://osf.io/wfven</link>
     <guid isPermaLink="false">https://osf.io/wfven#ja</guid>
     <pubDate>Wed, 17 Dec 2025 06:55:23 +0000</pubDate>
@@ -181,7 +181,7 @@
     <description>How participants create illusory experiences to help experimenters</description>
   </item>
   <item>
-    <title>AIメンタルヘルスアプリ設計における異文化的考慮：実践的10の提言</title>
+    <title>AIメンタルヘルスアプリ設計における異文化的配慮：実践的10の提言</title>
     <link>https://osf.io/bzcnx</link>
     <guid isPermaLink="false">https://osf.io/bzcnx#ja</guid>
     <pubDate>Mon, 15 Dec 2025 22:16:41 +0000</pubDate>
@@ -216,7 +216,7 @@
     <description>An Examination of Racial Bias in Scoring the Autism Diagnostic Observation Schedule (ADOS) Module 3: An Item Response Theory Analysis</description>
   </item>
   <item>
-    <title>学習過程における変動性は必ずしも有益ではない：課題および変動性の種類による影響</title>
+    <title>学習中の変動性は必ずしも有益ではない：課題および変動性の種類の影響</title>
     <link>https://osf.io/a7p2g</link>
     <guid isPermaLink="false">https://osf.io/a7p2g#ja</guid>
     <pubDate>Mon, 15 Dec 2025 20:44:49 +0000</pubDate>
@@ -230,7 +230,7 @@
     <description>Tears for Better, for Worse:  Development and Validation of the Crying in Romantic Relationships Questionnaire</description>
   </item>
   <item>
-    <title>大規模入門心理学授業におけるエンゲージメント重視の実演：理解度、記憶保持、および学生の関与への影響</title>
+    <title>大規模入門心理学講義における参加重視型デモンストレーションの理解度、記憶保持、および学生の関与への影響</title>
     <link>https://osf.io/yuf78</link>
     <guid isPermaLink="false">https://osf.io/yuf78#ja</guid>
     <pubDate>Mon, 15 Dec 2025 20:44:48 +0000</pubDate>
@@ -244,7 +244,7 @@
     <description>Anders behandeld? Ervaringen van mbo-stapelaars aan een Nederlandse universiteit</description>
   </item>
   <item>
-    <title>標準化された実験室内ストレス誘発パラダイムと比較した新規バーチャルリアリティストレス誘発法の評価</title>
+    <title>標準化された実験室内パラダイムと比較した新規バーチャルリアリティストレス誘発法の評価</title>
     <link>https://osf.io/prjd7</link>
     <guid isPermaLink="false">https://osf.io/prjd7#ja</guid>
     <pubDate>Mon, 15 Dec 2025 20:44:47 +0000</pubDate>
@@ -300,7 +300,7 @@
     <description>Should we still care about the CAMHS-AMHS transition? Evidence from a systematic review and meta-analysis</description>
   </item>
   <item>
-    <title>調整的柔軟性と心理的健康 ― 多ければ多いほど良いのか？</title>
+    <title>調整的柔軟性と心理的健康―多ければ多いほど良いのか？</title>
     <link>https://osf.io/v9mwg</link>
     <guid isPermaLink="false">https://osf.io/v9mwg#ja</guid>
     <pubDate>Sun, 14 Dec 2025 10:41:34 +0000</pubDate>
