@@ -6,21 +6,21 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>カテゴリー局所性を考慮した終助詞言語における記憶効果のモデリング</title>
+    <title>カテゴリー局所性を考慮した終助詞言語における記憶効果のモデル化</title>
     <link>https://osf.io/aj6my</link>
     <guid isPermaLink="false">https://osf.io/aj6my#ja</guid>
     <pubDate>Fri, 19 Dec 2025 09:20:25 +0000</pubDate>
     <description>Modeling memory effects in a head-final language with category locality</description>
   </item>
   <item>
-    <title>国際大学生における自殺支援要請意図とスティグマに対する体験動画と教育用事実シートの比較研究</title>
+    <title>国際大学生における自殺支援要請意図とスティグマに関する体験動画と教育用ファクトシートの比較研究</title>
     <link>https://osf.io/a3xpt</link>
     <guid isPermaLink="false">https://osf.io/a3xpt#ja</guid>
     <pubDate>Thu, 18 Dec 2025 22:42:31 +0000</pubDate>
     <description>Lived experience videos versus educational factsheets on suicide help-seeking intentions and stigma amongst international university students</description>
   </item>
   <item>
-    <title>心理療法における日常的セクシズム：性的少数者・性別少数者・女性に対するマイクロアグレッションの心理療法的二者関係内での検討</title>
+    <title>心理療法における日常的セクシズム：性的少数者・性別少数者・女性に対する心理療法的二者関係内のマイクロアグレッション</title>
     <link>https://osf.io/awr8y</link>
     <guid isPermaLink="false">https://osf.io/awr8y#ja</guid>
     <pubDate>Thu, 18 Dec 2025 15:18:31 +0000</pubDate>
@@ -41,7 +41,7 @@
     <description>Facial Emotion Recognition Profiles in Middle Childhood: Links to Parenting and Social-Emotional Functioning</description>
   </item>
   <item>
-    <title>オンライン上のAI生成メディアへのラベリングがもたらす意図せざる影響</title>
+    <title>オンライン上のAI生成メディアに対するラベリングの意図しない影響</title>
     <link>https://osf.io/v87xf</link>
     <guid isPermaLink="false">https://osf.io/v87xf#ja</guid>
     <pubDate>Thu, 18 Dec 2025 07:19:09 +0000</pubDate>
@@ -69,7 +69,7 @@
     <description>Ethical AI Use: A Clinical Framework for Professional Practice</description>
   </item>
   <item>
-    <title>教育トラッキングと学校の権威が青年期の学業成績軌跡および高難度全国試験の結果に与える影響</title>
+    <title>教育トラッキングと学校の権威性が青年期の学業成績軌跡および高難度全国試験の結果に与える影響</title>
     <link>https://osf.io/wdqmn</link>
     <guid isPermaLink="false">https://osf.io/wdqmn#ja</guid>
     <pubDate>Wed, 17 Dec 2025 18:54:37 +0000</pubDate>
@@ -118,7 +118,7 @@
     <description>Unmasking the Flaws of Triplet-Triplet Attraction Effect Measures: Via Mathematical Analysis and Agent-Level Simulations</description>
   </item>
   <item>
-    <title>オーストラリアの小学校年齢自閉症児における自己報告による学校満足度の検討</title>
+    <title>オーストラリアの小学生自閉症児における自己報告による学校満足度の検討</title>
     <link>https://osf.io/vum7c</link>
     <guid isPermaLink="false">https://osf.io/vum7c#ja</guid>
     <pubDate>Wed, 17 Dec 2025 06:55:24 +0000</pubDate>
@@ -153,7 +153,7 @@
     <description>The Neural Basis of Empathy in Borderline Personality Disorder</description>
   </item>
   <item>
-    <title>アメリカにおける自閉症者およびその親の英語自閉症用語選好：クラスタリングによる多様な見解の解明</title>
+    <title>アメリカ合衆国における自閉症者およびその親の英語自閉症用語選好：クラスタリングによる多様な意見の解明</title>
     <link>https://osf.io/29r4f</link>
     <guid isPermaLink="false">https://osf.io/29r4f#ja</guid>
     <pubDate>Tue, 16 Dec 2025 21:16:58 +0000</pubDate>
@@ -174,14 +174,14 @@
     <description>Learning from Alcohol Rewards: Neural Signatures of Drug-Related Reward Prediction Errors in Alcohol Use Disorder</description>
   </item>
   <item>
-    <title>応用行動分析における同意の意義</title>
+    <title>応用行動分析における同意の概念</title>
     <link>https://osf.io/fku5s</link>
     <guid isPermaLink="false">https://osf.io/fku5s#ja</guid>
     <pubDate>Tue, 16 Dec 2025 21:16:57 +0000</pubDate>
     <description>Assent in Applied Behavior Analysis</description>
   </item>
   <item>
-    <title>レイプの一般的定義：性的暴力を描写した事例の分類</title>
+    <title>レイプの一般的定義：性的暴力を描写した事例のカテゴリー化</title>
     <link>https://osf.io/vz5ay</link>
     <guid isPermaLink="false">https://osf.io/vz5ay#ja</guid>
     <pubDate>Tue, 16 Dec 2025 16:53:44 +0000</pubDate>
@@ -223,14 +223,14 @@
     <description>“A Life Like No Other”: A Reflexive Thematic Analysis of Women’s Roles and Wellbeing in UK Farming</description>
   </item>
   <item>
-    <title>自閉症診断観察スケジュール（ADOS）モジュール3の採点における人種バイアスの検討：項目反応理論による分析</title>
+    <title>自閉症診断観察スケジュール（ADOS）モジュール3の評価における人種バイアスの検討：項目反応理論による分析</title>
     <link>https://osf.io/3gtdy</link>
     <guid isPermaLink="false">https://osf.io/3gtdy#ja</guid>
     <pubDate>Mon, 15 Dec 2025 20:44:49 +0000</pubDate>
     <description>An Examination of Racial Bias in Scoring the Autism Diagnostic Observation Schedule (ADOS) Module 3: An Item Response Theory Analysis</description>
   </item>
   <item>
-    <title>学習中の変動性は必ずしも有益ではない：課題および変動性の種類の影響</title>
+    <title>学習中の変動性は必ずしも有益ではない：課題および変動性の種類による影響</title>
     <link>https://osf.io/a7p2g</link>
     <guid isPermaLink="false">https://osf.io/a7p2g#ja</guid>
     <pubDate>Mon, 15 Dec 2025 20:44:49 +0000</pubDate>
@@ -244,14 +244,14 @@
     <description>Tears for Better, for Worse:  Development and Validation of the Crying in Romantic Relationships Questionnaire</description>
   </item>
   <item>
-    <title>大規模入門心理学授業における参加重視型デモンストレーションの理解度、記憶保持、および学生の関与への影響</title>
+    <title>大規模入門心理学講義におけるエンゲージメント重視の実演：理解度、記憶保持、学生の関与への影響</title>
     <link>https://osf.io/yuf78</link>
     <guid isPermaLink="false">https://osf.io/yuf78#ja</guid>
     <pubDate>Mon, 15 Dec 2025 20:44:48 +0000</pubDate>
     <description>Engagement-centered demonstrations in large enrollment introductory psychology classes: effects on understanding, retention, and student engagement</description>
   </item>
   <item>
-    <title>異なる扱いを受けるのか？オランダの大学におけるMBO段階修了者の経験</title>
+    <title>異なる扱いを受ける？オランダの大学におけるMBO段階修了者の経験</title>
     <link>https://osf.io/fpgbn</link>
     <guid isPermaLink="false">https://osf.io/fpgbn#ja</guid>
     <pubDate>Mon, 15 Dec 2025 20:44:48 +0000</pubDate>
@@ -272,14 +272,14 @@
     <description>Mistaking covariance for combination in sensorimotor adaptation: Regression slopes do not test additivity</description>
   </item>
   <item>
-    <title>神経事後推定における一般化：レーシング拡散モデルを用いた事例研究</title>
+    <title>ニューラル事後推定における一般化：レーシング拡散モデルを用いた事例研究</title>
     <link>https://osf.io/fy6kv</link>
     <guid isPermaLink="false">https://osf.io/fy6kv#ja</guid>
     <pubDate>Mon, 15 Dec 2025 20:44:46 +0000</pubDate>
     <description>Generalization in neural posterior estimation: Case studies with the racing diffusion model</description>
   </item>
   <item>
-    <title>EFTにおけるフォーカシング：統合に関するセラピストの視点</title>
+    <title>EFTにおける焦点化：セラピストの統合に関する視点</title>
     <link>https://osf.io/9yh5k</link>
     <guid isPermaLink="false">https://osf.io/9yh5k#ja</guid>
     <pubDate>Sun, 14 Dec 2025 22:14:40 +0000</pubDate>
@@ -307,14 +307,14 @@
     <description>Human and LLM accent rating of English-L2 speech by Brazilian speakers</description>
   </item>
   <item>
-    <title>CAMHSからAMHSへの移行に依然として関心を持つべきか？システマティックレビューとメタアナリシスによる検証</title>
+    <title>CAMHSからAMHSへの移行に依然として注目すべきか？システマティックレビューとメタアナリシスによる検証</title>
     <link>https://osf.io/9z2as</link>
     <guid isPermaLink="false">https://osf.io/9z2as#ja</guid>
     <pubDate>Sun, 14 Dec 2025 10:41:34 +0000</pubDate>
     <description>Should we still care about the CAMHS-AMHS transition? Evidence from a systematic review and meta-analysis</description>
   </item>
   <item>
-    <title>調整的柔軟性と心理的健康 ― 多ければ多いほど良いのか？</title>
+    <title>調整的柔軟性と心理的健康―多ければ多いほど良いのか？</title>
     <link>https://osf.io/v9mwg</link>
     <guid isPermaLink="false">https://osf.io/v9mwg#ja</guid>
     <pubDate>Sun, 14 Dec 2025 10:41:34 +0000</pubDate>
