@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>カテゴリー局所性を考慮した終止型言語における記憶効果のモデリング</title>
+    <title>カテゴリー局所性を考慮した終助詞言語における記憶効果のモデリング</title>
     <link>https://osf.io/aj6my</link>
     <guid isPermaLink="false">https://osf.io/aj6my#ja</guid>
     <pubDate>Fri, 19 Dec 2025 09:20:25 +0000</pubDate>
@@ -20,7 +20,7 @@
     <description>Lived experience videos versus educational factsheets on suicide help-seeking intentions and stigma amongst international university students</description>
   </item>
   <item>
-    <title>日常的セクシズム：心理療法における性的少数者・性別少数者・女性へのマイクロアグレッション</title>
+    <title>心理療法における日常的セクシズム：セクシュアルマイノリティ、ジェンダーマイノリティ、および女性に対するマイクロアグレッションの心理療法的二者関係内での検討</title>
     <link>https://osf.io/awr8y</link>
     <guid isPermaLink="false">https://osf.io/awr8y#ja</guid>
     <pubDate>Thu, 18 Dec 2025 15:18:31 +0000</pubDate>
@@ -41,21 +41,21 @@
     <description>Facial Emotion Recognition Profiles in Middle Childhood: Links to Parenting and Social-Emotional Functioning</description>
   </item>
   <item>
-    <title>オンラインにおけるAI生成メディアのラベリングがもたらす意図せざる影響</title>
+    <title>オンライン上のAI生成メディアへのラベリングがもたらす意図せざる影響</title>
     <link>https://osf.io/v87xf</link>
     <guid isPermaLink="false">https://osf.io/v87xf#ja</guid>
     <pubDate>Thu, 18 Dec 2025 07:19:09 +0000</pubDate>
     <description>The Unintended Consequences of Labeling AI-Generated Media Online</description>
   </item>
   <item>
-    <title>ビンジ文化とその先へ：OTTが促すZ世代の心的変容に関する概念的枠組み</title>
+    <title>ビンジ文化とその先へ：OTTが促すZ世代の心的態度変容に関する概念的枠組み</title>
     <link>https://osf.io/jts23</link>
     <guid isPermaLink="false">https://osf.io/jts23#ja</guid>
     <pubDate>Thu, 18 Dec 2025 04:06:04 +0000</pubDate>
     <description>Binge Culture and Beyond: A Conceptual Framework of OTT-Driven Mindset Shifts in Generation Z</description>
   </item>
   <item>
-    <title>刺青された真実と治療の地図：障害肯定的臨床実践におけるモチーフマッピングの応用</title>
+    <title>刺青された真実と治療の地図：障害肯定的臨床におけるモチーフマッピングの応用</title>
     <link>https://osf.io/cm8pg</link>
     <guid isPermaLink="false">https://osf.io/cm8pg#ja</guid>
     <pubDate>Wed, 17 Dec 2025 23:39:58 +0000</pubDate>
@@ -69,14 +69,14 @@
     <description>Ethical AI Use: A Clinical Framework for Professional Practice</description>
   </item>
   <item>
-    <title>教育トラッキングと学校の名声が青年期の学業成績軌跡および重要な全国試験の結果に与える影響</title>
+    <title>教育トラッキングと学校の名声が青年期の学業成績の軌跡および高難度全国試験の結果に与える影響</title>
     <link>https://osf.io/wdqmn</link>
     <guid isPermaLink="false">https://osf.io/wdqmn#ja</guid>
     <pubDate>Wed, 17 Dec 2025 18:54:37 +0000</pubDate>
     <description>The Role of Educational Tracking and School Prestige in Shaping Adolescents’ Achievement Trajectories and Results at High-Stakes National Exams</description>
   </item>
   <item>
-    <title>児童福祉サービス利用者の若年層における精神保健サービス利用格差：71,700件超の臨床記録の遡及的分析</title>
+    <title>児童福祉サービスと接触する若年層における精神保健サービス利用の格差：71,700件超の臨床記録を用いた後ろ向き分析</title>
     <link>https://osf.io/9utzk</link>
     <guid isPermaLink="false">https://osf.io/9utzk#ja</guid>
     <pubDate>Wed, 17 Dec 2025 18:54:36 +0000</pubDate>
@@ -132,7 +132,7 @@
     <description>Creation and validation of the LEVANTE core tasks: Internationalized measures of learning and development for children ages 5-12 years</description>
   </item>
   <item>
-    <title>人々はデフォルトオプションに関する政策決定から推論を行う：McKenzieら（2006）の再検証と拡張</title>
+    <title>政策決定におけるデフォルト選択肢からの推論：McKenzieら（2006）の再検証と拡張</title>
     <link>https://osf.io/wfven</link>
     <guid isPermaLink="false">https://osf.io/wfven#ja</guid>
     <pubDate>Wed, 17 Dec 2025 06:55:23 +0000</pubDate>
@@ -153,7 +153,7 @@
     <description>The Neural Basis of Empathy in Borderline Personality Disorder</description>
   </item>
   <item>
-    <title>アメリカにおける自閉症者およびその親の英語自閉症用語選好：クラスタリングによる多様な意見の解明</title>
+    <title>アメリカにおける自閉症者およびその親の英語自閉症用語選好：クラスタリングによる多様な見解の解明</title>
     <link>https://osf.io/29r4f</link>
     <guid isPermaLink="false">https://osf.io/29r4f#ja</guid>
     <pubDate>Tue, 16 Dec 2025 21:16:58 +0000</pubDate>
@@ -188,14 +188,14 @@
     <description>Lay definitions of rape: Categorisation of vignettes depicting sexual violence.</description>
   </item>
   <item>
-    <title>参加者が実験者を支援するために錯覚的体験を創出する過程</title>
+    <title>参加者が実験者支援のために錯覚的体験を創出する過程</title>
     <link>https://osf.io/n2ukj</link>
     <guid isPermaLink="false">https://osf.io/n2ukj#ja</guid>
     <pubDate>Tue, 16 Dec 2025 16:53:44 +0000</pubDate>
     <description>How participants create illusory experiences to help experimenters</description>
   </item>
   <item>
-    <title>AIメンタルヘルスアプリ設計における異文化的考慮：実践的10の提言</title>
+    <title>AIメンタルヘルスアプリ設計における異文化的配慮：実践的10の提言</title>
     <link>https://osf.io/bzcnx</link>
     <guid isPermaLink="false">https://osf.io/bzcnx#ja</guid>
     <pubDate>Mon, 15 Dec 2025 22:16:41 +0000</pubDate>
@@ -230,7 +230,7 @@
     <description>An Examination of Racial Bias in Scoring the Autism Diagnostic Observation Schedule (ADOS) Module 3: An Item Response Theory Analysis</description>
   </item>
   <item>
-    <title>学習中の変動性は必ずしも有益ではない：課題および変動性の種類の影響</title>
+    <title>学習中の変動性は必ずしも有益ではない：課題および変動性の種類による影響</title>
     <link>https://osf.io/a7p2g</link>
     <guid isPermaLink="false">https://osf.io/a7p2g#ja</guid>
     <pubDate>Mon, 15 Dec 2025 20:44:49 +0000</pubDate>
@@ -244,21 +244,21 @@
     <description>Tears for Better, for Worse:  Development and Validation of the Crying in Romantic Relationships Questionnaire</description>
   </item>
   <item>
-    <title>大規模入門心理学授業におけるエンゲージメント重視の実演：理解度、記憶保持、および学生の関与への影響</title>
+    <title>大規模入門心理学授業におけるエンゲージメント重視の実演：理解度、記憶保持、学生の関与への影響</title>
     <link>https://osf.io/yuf78</link>
     <guid isPermaLink="false">https://osf.io/yuf78#ja</guid>
     <pubDate>Mon, 15 Dec 2025 20:44:48 +0000</pubDate>
     <description>Engagement-centered demonstrations in large enrollment introductory psychology classes: effects on understanding, retention, and student engagement</description>
   </item>
   <item>
-    <title>異なる扱いを受けるのか？オランダの大学におけるMBO段階修了者の経験</title>
+    <title>異なる扱いを受ける？オランダの大学におけるMBO段階修了者の経験</title>
     <link>https://osf.io/fpgbn</link>
     <guid isPermaLink="false">https://osf.io/fpgbn#ja</guid>
     <pubDate>Mon, 15 Dec 2025 20:44:48 +0000</pubDate>
     <description>Anders behandeld? Ervaringen van mbo-stapelaars aan een Nederlandse universiteit</description>
   </item>
   <item>
-    <title>標準化された実験室内ストレス誘発パラダイムと比較した新規バーチャルリアリティストレス誘発法の評価</title>
+    <title>標準化された実験室内ストレス誘発法と比較した新規バーチャルリアリティストレス誘発法の評価</title>
     <link>https://osf.io/prjd7</link>
     <guid isPermaLink="false">https://osf.io/prjd7#ja</guid>
     <pubDate>Mon, 15 Dec 2025 20:44:47 +0000</pubDate>
@@ -300,7 +300,7 @@
     <description>Trauma-Focused  Social Adjustment Therapy  (TF-SAT): A Short-Term Intensive Approach to Enhancing Social Adjustment in Youth with Trauma Histories</description>
   </item>
   <item>
-    <title>ブラジル人話者の英語第二言語発話における人間と大規模言語モデルによるアクセント評価</title>
+    <title>ブラジル人話者による英語第二言語発話の人間および大規模言語モデルによるアクセント評価</title>
     <link>https://osf.io/q9cj6</link>
     <guid isPermaLink="false">https://osf.io/q9cj6#ja</guid>
     <pubDate>Sun, 14 Dec 2025 13:24:10 +0000</pubDate>
