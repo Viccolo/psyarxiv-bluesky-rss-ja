@@ -6,6 +6,34 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>海馬単一ボクセルプロトン磁気共鳴分光法の信頼性評価におけるクラス内効果分解の応用</title>
+    <link>https://osf.io/gcmsq</link>
+    <guid isPermaLink="false">https://osf.io/gcmsq#ja</guid>
+    <pubDate>Sat, 20 Dec 2025 19:12:22 +0000</pubDate>
+    <description>Assessing the reliability of hippocampal single-voxel proton magnetic resonance spectroscopy through intra-class effect decomposition</description>
+  </item>
+  <item>
+    <title>大規模言語モデルによる特性内在化症状における社会的解釈時の抽象的処理の加速化の解明</title>
+    <link>https://osf.io/mntpb</link>
+    <guid isPermaLink="false">https://osf.io/mntpb#ja</guid>
+    <pubDate>Sat, 20 Dec 2025 19:12:22 +0000</pubDate>
+    <description>Large Language Models Reveal Accelerated Abstract Processing During Social Interpretation in Trait Internalizing Symptoms</description>
+  </item>
+  <item>
+    <title>信念の調整を操る：制御可能なAI行動が人間の信念と認知に及ぼす多次元的影響</title>
+    <link>https://osf.io/7qcv8</link>
+    <guid isPermaLink="false">https://osf.io/7qcv8#ja</guid>
+    <pubDate>Sat, 20 Dec 2025 19:12:21 +0000</pubDate>
+    <description>Playing with the dials of belief: how controllable AI behaviours could modulate human belief and cognition across scales</description>
+  </item>
+  <item>
+    <title>未訓練ユーザーの大規模利用におけるGenAIの完全認知自動化：ヒューマンファクターとエルゴノミクスへの示唆</title>
+    <link>https://osf.io/hgb9j</link>
+    <guid isPermaLink="false">https://osf.io/hgb9j#ja</guid>
+    <pubDate>Sat, 20 Dec 2025 19:12:21 +0000</pubDate>
+    <description>GenAI as Complete Cognitive Automation for Untrained Users at Population Scale: Implications for Human Factors and Ergonomics</description>
+  </item>
+  <item>
     <title>リスクを伴う二者間採餌における非難と妥協の心理学的検討</title>
     <link>https://osf.io/gdy72</link>
     <guid isPermaLink="false">https://osf.io/gdy72#ja</guid>
@@ -13,28 +41,28 @@
     <description>Blame and Compromise During Risky Dyadic Foraging</description>
   </item>
   <item>
-    <title>メタ回帰における研究誤分類への感度：メタアナリシスにおける二重コーディングの意義と推奨事項</title>
+    <title>メタ回帰における研究誤分類への感度：メタアナリシスにおける二重コーディングの意義と提言</title>
     <link>https://osf.io/wmfvc</link>
     <guid isPermaLink="false">https://osf.io/wmfvc#ja</guid>
     <pubDate>Sat, 20 Dec 2025 10:41:37 +0000</pubDate>
     <description>Meta-regression sensitivity to study miscategorisation: Implications and recommendations for double-coding in meta-analysis</description>
   </item>
   <item>
-    <title>バイリンガルは曖昧さを回避するか、それとも処理負荷を最小化するか？音声マンダリンにおけるオンライン視線追跡研究からの知見</title>
+    <title>バイリンガルは曖昧さを回避するか、それとも処理負荷を最小化するか？話し言葉の標準中国語におけるオンライン視線追跡研究からの知見</title>
     <link>https://osf.io/dhe3j</link>
     <guid isPermaLink="false">https://osf.io/dhe3j#ja</guid>
     <pubDate>Sat, 20 Dec 2025 10:41:37 +0000</pubDate>
     <description>Do bilinguals avoid ambiguity or minimise processing effort? Insights from an online eye-tracking study in spoken Mandarin</description>
   </item>
   <item>
-    <title>南アフリカにおけるパーソナリティ構造の探究：テキストマイニング手法の適用</title>
+    <title>南アフリカにおけるパーソナリティ構造の探究：テキストマイニング手法による分析</title>
     <link>https://osf.io/8bnyf</link>
     <guid isPermaLink="false">https://osf.io/8bnyf#ja</guid>
     <pubDate>Sat, 20 Dec 2025 10:16:10 +0000</pubDate>
     <description>Exploring personality structure in South Africa: A text mining approach</description>
   </item>
   <item>
-    <title>カテゴリー局所性を考慮した終助詞言語における記憶効果のモデリング</title>
+    <title>カテゴリー局所性を考慮した終止型言語における記憶効果のモデル化</title>
     <link>https://osf.io/aj6my</link>
     <guid isPermaLink="false">https://osf.io/aj6my#ja</guid>
     <pubDate>Fri, 19 Dec 2025 09:20:25 +0000</pubDate>
@@ -48,7 +76,7 @@
     <description>Lived experience videos versus educational factsheets on suicide help-seeking intentions and stigma amongst international university students</description>
   </item>
   <item>
-    <title>心理療法における日常的セクシズム：性的少数者・性別少数者・女性に対するマイクロアグレッションの心理療法的二者関係内での検討</title>
+    <title>心理療法における日常的セクシズム：性的少数者・ジェンダー少数者・女性に対するマイクロアグレッションの検討</title>
     <link>https://osf.io/awr8y</link>
     <guid isPermaLink="false">https://osf.io/awr8y#ja</guid>
     <pubDate>Thu, 18 Dec 2025 15:18:31 +0000</pubDate>
@@ -62,21 +90,21 @@
     <description>A quantitative comparison of AI and human therapists during simulated therapy</description>
   </item>
   <item>
-    <title>中期児童期における顔の感情認識プロファイル：養育態度および社会情動機能との関連</title>
+    <title>中期児童期における顔表情認識の特徴：養育態度および社会情動機能との関連</title>
     <link>https://osf.io/mk5hg</link>
     <guid isPermaLink="false">https://osf.io/mk5hg#ja</guid>
     <pubDate>Thu, 18 Dec 2025 07:19:09 +0000</pubDate>
     <description>Facial Emotion Recognition Profiles in Middle Childhood: Links to Parenting and Social-Emotional Functioning</description>
   </item>
   <item>
-    <title>オンライン上のAI生成メディアへのラベリングがもたらす意図しない影響</title>
+    <title>オンライン上のAI生成メディアへのラベリングがもたらす意図せざる影響</title>
     <link>https://osf.io/v87xf</link>
     <guid isPermaLink="false">https://osf.io/v87xf#ja</guid>
     <pubDate>Thu, 18 Dec 2025 07:19:09 +0000</pubDate>
     <description>The Unintended Consequences of Labeling AI-Generated Media Online</description>
   </item>
   <item>
-    <title>ビンジカルチャーを超えて：OTTが促すZ世代の心的変容に関する概念的枠組み</title>
+    <title>ビンジカルチャーとその先：OTTが促すZ世代の心的態度変容に関する概念的枠組み</title>
     <link>https://osf.io/jts23</link>
     <guid isPermaLink="false">https://osf.io/jts23#ja</guid>
     <pubDate>Thu, 18 Dec 2025 04:06:04 +0000</pubDate>
@@ -104,21 +132,21 @@
     <description>The Role of Educational Tracking and School Prestige in Shaping Adolescents’ Achievement Trajectories and Results at High-Stakes National Exams</description>
   </item>
   <item>
-    <title>児童福祉サービス利用者の若年層における精神保健サービス利用格差：71,700件超の臨床記録の遡及的分析</title>
+    <title>児童福祉サービスと接触する若年層における精神保健サービス利用格差：71,700件以上の臨床記録の後ろ向き分析</title>
     <link>https://osf.io/9utzk</link>
     <guid isPermaLink="false">https://osf.io/9utzk#ja</guid>
     <pubDate>Wed, 17 Dec 2025 18:54:36 +0000</pubDate>
     <description>Disparities in accessing mental health services for young people in contact with children’s social work: a retrospective analysis of over 71,700 clinical records.</description>
   </item>
   <item>
-    <title>自発的な心のさまよい思考内容は制御された内的注意よりも制約が少ない</title>
+    <title>自発的な心のさまよい思考内容は、制御された内的注意よりも制約が少ない</title>
     <link>https://osf.io/p96zq</link>
     <guid isPermaLink="false">https://osf.io/p96zq#ja</guid>
     <pubDate>Wed, 17 Dec 2025 18:26:50 +0000</pubDate>
     <description>Spontaneous Mind-Wandering Thought Content Is Less Constrained Than Controlled Internal Attention</description>
   </item>
   <item>
-    <title>デジタルバーンアウトと注意力崩壊：異文化心理学的統合のレビュー</title>
+    <title>デジタルバーンアウトと注意力崩壊：文化横断的心理学的統合のレビュー</title>
     <link>https://osf.io/mvr9h</link>
     <guid isPermaLink="false">https://osf.io/mvr9h#ja</guid>
     <pubDate>Wed, 17 Dec 2025 18:26:49 +0000</pubDate>
@@ -181,7 +209,7 @@
     <description>The Neural Basis of Empathy in Borderline Personality Disorder</description>
   </item>
   <item>
-    <title>アメリカにおける自閉症者およびその親の英語自閉症用語の好み：クラスタリングによる多様な見解の解明</title>
+    <title>アメリカにおける自閉症者およびその親の英語自閉症用語選好：クラスタリングによる多様な見解の解明</title>
     <link>https://osf.io/29r4f</link>
     <guid isPermaLink="false">https://osf.io/29r4f#ja</guid>
     <pubDate>Tue, 16 Dec 2025 21:16:58 +0000</pubDate>
@@ -209,7 +237,7 @@
     <description>Assent in Applied Behavior Analysis</description>
   </item>
   <item>
-    <title>レイプの一般的定義：性的暴力を描写した事例のカテゴリー化</title>
+    <title>レイプの一般的定義：性的暴力を描写した事例の分類</title>
     <link>https://osf.io/vz5ay</link>
     <guid isPermaLink="false">https://osf.io/vz5ay#ja</guid>
     <pubDate>Tue, 16 Dec 2025 16:53:44 +0000</pubDate>
@@ -223,7 +251,7 @@
     <description>How participants create illusory experiences to help experimenters</description>
   </item>
   <item>
-    <title>AIメンタルヘルスアプリ設計における異文化的考慮：実践的10の提言</title>
+    <title>AIメンタルヘルスアプリ設計における異文化的配慮：実践的10の提言</title>
     <link>https://osf.io/bzcnx</link>
     <guid isPermaLink="false">https://osf.io/bzcnx#ja</guid>
     <pubDate>Mon, 15 Dec 2025 22:16:41 +0000</pubDate>
@@ -279,21 +307,21 @@
     <description>Engagement-centered demonstrations in large enrollment introductory psychology classes: effects on understanding, retention, and student engagement</description>
   </item>
   <item>
-    <title>異なる扱いを受ける？オランダの大学におけるMBO段階修了者の経験</title>
+    <title>異なる扱いを受ける？オランダの大学におけるMBOステップラーの経験</title>
     <link>https://osf.io/fpgbn</link>
     <guid isPermaLink="false">https://osf.io/fpgbn#ja</guid>
     <pubDate>Mon, 15 Dec 2025 20:44:48 +0000</pubDate>
     <description>Anders behandeld? Ervaringen van mbo-stapelaars aan een Nederlandse universiteit</description>
   </item>
   <item>
-    <title>標準化された実験室ベースのパラダイムと比較した新規バーチャルリアリティストレス誘発法の評価</title>
+    <title>標準化された実験室内ストレス誘発パラダイムと比較した新規バーチャルリアリティストレス誘発法の評価</title>
     <link>https://osf.io/prjd7</link>
     <guid isPermaLink="false">https://osf.io/prjd7#ja</guid>
     <pubDate>Mon, 15 Dec 2025 20:44:47 +0000</pubDate>
     <description>Evaluating a Novel Virtual Reality Stress Induction Against a Standardised Laboratory-Based Paradigm.</description>
   </item>
   <item>
-    <title>感覚運動適応における共分散の組み合わせ誤認：回帰傾斜は加法性を検証しない</title>
+    <title>感覚運動適応における共分散と結合の誤認：回帰傾斜は加法性を検証しない</title>
     <link>https://osf.io/4ur6x</link>
     <guid isPermaLink="false">https://osf.io/4ur6x#ja</guid>
     <pubDate>Mon, 15 Dec 2025 20:44:47 +0000</pubDate>
@@ -305,20 +333,6 @@
     <guid isPermaLink="false">https://osf.io/fy6kv#ja</guid>
     <pubDate>Mon, 15 Dec 2025 20:44:46 +0000</pubDate>
     <description>Generalization in neural posterior estimation: Case studies with the racing diffusion model</description>
-  </item>
-  <item>
-    <title>EFTにおけるフォーカシング：セラピストの統合に関する視点</title>
-    <link>https://osf.io/9yh5k</link>
-    <guid isPermaLink="false">https://osf.io/9yh5k#ja</guid>
-    <pubDate>Sun, 14 Dec 2025 22:14:40 +0000</pubDate>
-    <description>Focusing within EFT: Therapists’ Perspectives on Integration</description>
-  </item>
-  <item>
-    <title>CAMHSからAMHSへの移行に依然として注目すべきか？システマティックレビューとメタアナリシスによる検証</title>
-    <link>https://osf.io/9z2as</link>
-    <guid isPermaLink="false">https://osf.io/9z2as#ja</guid>
-    <pubDate>Sun, 14 Dec 2025 21:37:03 +0000</pubDate>
-    <description>Should we still care about the CAMHS-AMHS transition? Evidence from a systematic review and meta-analysis</description>
   </item>
 </channel>
 </rss>
