@@ -6,14 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>fNIRSを用いた幼児の模擬心理療法状態分類における機械学習の応用</title>
+    <title>機械学習による幼児のfNIRSデータからの模擬心理療法状態分類</title>
     <link>https://osf.io/9h28v</link>
     <guid isPermaLink="false">https://osf.io/9h28v#ja</guid>
     <pubDate>Tue, 23 Dec 2025 23:15:30 +0000</pubDate>
     <description>Machine Learning to Classify Simulated Psychotherapy States in Preschool Children from fNIRS</description>
   </item>
   <item>
-    <title>自閉スペクトラム症の青年期者とその親を対象としたヨガ Bali-A-TSA プログラムの開発：概念的枠組み</title>
+    <title>自閉スペクトラム症の青年期者とその親を対象としたヨガBali-A-TSAプログラムの開発：概念的枠組み</title>
     <link>https://osf.io/phbmt</link>
     <guid isPermaLink="false">https://osf.io/phbmt#ja</guid>
     <pubDate>Tue, 23 Dec 2025 23:15:30 +0000</pubDate>
@@ -27,7 +27,7 @@
     <description>Confidence-accuracy dissociations in perceptual decision making</description>
   </item>
   <item>
-    <title>自然な道路景観の予測：運動、立体視深度、および場面文脈の影響</title>
+    <title>自然道路景観の予測：運動、立体的深度、および場面文脈の影響</title>
     <link>https://osf.io/spg2z</link>
     <guid isPermaLink="false">https://osf.io/spg2z#ja</guid>
     <pubDate>Tue, 23 Dec 2025 23:15:29 +0000</pubDate>
@@ -69,7 +69,7 @@
     <description>Learning the determinants of human behavior</description>
   </item>
   <item>
-    <title>コンピュータ生成三次元仮想モデルを活用した物理地質学実験における岩石識別指導の効果的強化</title>
+    <title>コンピュータ生成三次元仮想モデルを活用した物理地質学実験における岩石識別教育の向上</title>
     <link>https://osf.io/usbda</link>
     <guid isPermaLink="false">https://osf.io/usbda#ja</guid>
     <pubDate>Tue, 23 Dec 2025 18:25:13 +0000</pubDate>
@@ -83,35 +83,35 @@
     <description>No evidence for impaired Statistical Learning in Developmental Dyslexia: an individual differences approach to cognitive correlates</description>
   </item>
   <item>
-    <title>自己他者および知人他者の声識別における音節的手がかり</title>
+    <title>自己他者および知人他者の声識別における分節的手がかり</title>
     <link>https://osf.io/x7gzh</link>
     <guid isPermaLink="false">https://osf.io/x7gzh#ja</guid>
     <pubDate>Tue, 23 Dec 2025 18:25:12 +0000</pubDate>
     <description>Segmental cues for self-other and familiar-other voice distinction</description>
   </item>
   <item>
-    <title>ポジティブ情動の出現：母親、父親、見知らぬ人との相互的な微笑みの発達</title>
+    <title>ポジティブ情動の出現：母親、父親、および見知らぬ人との相互的な微笑みの発達</title>
     <link>https://osf.io/h6fje</link>
     <guid isPermaLink="false">https://osf.io/h6fje#ja</guid>
     <pubDate>Tue, 23 Dec 2025 18:25:11 +0000</pubDate>
     <description>The Emergence of Positive Affect:  The Development of Interactive Smiling with Mothers, Fathers, and Strangers</description>
   </item>
   <item>
-    <title>練習は想起を改善するが「無視視点」は変化させない：空間的に空いた位置への眼球運動は反復によって安定している</title>
+    <title>練習は想起を改善するが「無視視」には影響しない：空間的に空いた場所への眼球運動は反復を通じて安定している</title>
     <link>https://osf.io/nt8wa</link>
     <guid isPermaLink="false">https://osf.io/nt8wa#ja</guid>
     <pubDate>Tue, 23 Dec 2025 16:21:59 +0000</pubDate>
     <description>Practice Improves Recall but Not Looking-at-Nothing: Eye Movements to Emptied Spatial Locations Remain Stable Across Repetition</description>
   </item>
   <item>
-    <title>誤情報は社会的合意の認知を歪め、介入がその是正に寄与する</title>
+    <title>誤情報は社会的合意の認知を歪め、介入がその修正を促進する</title>
     <link>https://osf.io/gm6zx</link>
     <guid isPermaLink="false">https://osf.io/gm6zx#ja</guid>
     <pubDate>Tue, 23 Dec 2025 16:21:59 +0000</pubDate>
     <description>Misinformation Distorts Perceived Social Consensus, and Interventions Help Correct It</description>
   </item>
   <item>
-    <title>LLMベースのデジタルツインの心理計測的比較可能性</title>
+    <title>LLMベースのデジタルツインの心理測定的比較可能性</title>
     <link>https://osf.io/965yg</link>
     <guid isPermaLink="false">https://osf.io/965yg#ja</guid>
     <pubDate>Tue, 23 Dec 2025 15:18:07 +0000</pubDate>
@@ -153,7 +153,7 @@
     <description>Epistemological Fault Lines Between Human and Artificial Intelligence</description>
   </item>
   <item>
-    <title>注意欠陥・多動性障害における統計的学習とリズム能力：個人差が集団効果を上回る</title>
+    <title>注意欠陥・多動性障害における統計的学習とリズム能力：個人差が群効果を上回る</title>
     <link>https://osf.io/ad5qy</link>
     <guid isPermaLink="false">https://osf.io/ad5qy#ja</guid>
     <pubDate>Mon, 22 Dec 2025 15:18:03 +0000</pubDate>
@@ -202,7 +202,7 @@
     <description>Emotional and Cognitive Empathy as Predictors of the Levels and Changes in Well-being and Health</description>
   </item>
   <item>
-    <title>海馬単一ボクセルプロトン磁気共鳴分光法の信頼性評価：クラス内効果分解による検討</title>
+    <title>海馬単一ボクセルプロトン磁気共鳴スペクトロスコピーの信頼性評価におけるクラス内効果分解法の適用</title>
     <link>https://osf.io/gcmsq</link>
     <guid isPermaLink="false">https://osf.io/gcmsq#ja</guid>
     <pubDate>Sat, 20 Dec 2025 19:12:22 +0000</pubDate>
@@ -223,7 +223,7 @@
     <description>Playing with the dials of belief: how controllable AI behaviours could modulate human belief and cognition across scales</description>
   </item>
   <item>
-    <title>未訓練ユーザーの大規模利用における生成型AIの完全認知自動化：人間工学とヒューマンファクターへの示唆</title>
+    <title>未訓練ユーザーの大規模利用における生成AIの完全認知自動化：ヒューマンファクターとエルゴノミクスへの示唆</title>
     <link>https://osf.io/hgb9j</link>
     <guid isPermaLink="false">https://osf.io/hgb9j#ja</guid>
     <pubDate>Sat, 20 Dec 2025 19:12:21 +0000</pubDate>
@@ -244,21 +244,21 @@
     <description>Meta-regression sensitivity to study miscategorisation: Implications and recommendations for double-coding in meta-analysis</description>
   </item>
   <item>
-    <title>バイリンガルは曖昧さを回避するか、それとも処理負荷を最小化するか？話し言葉の標準中国語におけるオンライン視線追跡研究からの知見</title>
+    <title>バイリンガルは曖昧さを回避するか、処理負荷を最小化するか？音声マンダリンにおけるオンライン視線追跡研究からの知見</title>
     <link>https://osf.io/dhe3j</link>
     <guid isPermaLink="false">https://osf.io/dhe3j#ja</guid>
     <pubDate>Sat, 20 Dec 2025 10:41:37 +0000</pubDate>
     <description>Do bilinguals avoid ambiguity or minimise processing effort? Insights from an online eye-tracking study in spoken Mandarin</description>
   </item>
   <item>
-    <title>南アフリカにおけるパーソナリティ構造の探究：テキストマイニング手法の応用</title>
+    <title>南アフリカにおけるパーソナリティ構造の探究：テキストマイニング手法による分析</title>
     <link>https://osf.io/8bnyf</link>
     <guid isPermaLink="false">https://osf.io/8bnyf#ja</guid>
     <pubDate>Sat, 20 Dec 2025 10:16:10 +0000</pubDate>
     <description>Exploring personality structure in South Africa: A text mining approach</description>
   </item>
   <item>
-    <title>カテゴリー局所性を考慮した終助詞言語における記憶効果のモデリング</title>
+    <title>カテゴリー局所性を考慮した終助詞型言語における記憶効果のモデリング</title>
     <link>https://osf.io/aj6my</link>
     <guid isPermaLink="false">https://osf.io/aj6my#ja</guid>
     <pubDate>Fri, 19 Dec 2025 09:20:25 +0000</pubDate>
@@ -293,14 +293,14 @@
     <description>Facial Emotion Recognition Profiles in Middle Childhood: Links to Parenting and Social-Emotional Functioning</description>
   </item>
   <item>
-    <title>オンラインにおけるAI生成メディアのラベリングがもたらす意図せざる影響</title>
+    <title>オンライン上のAI生成メディアへのラベリングがもたらす意図せざる影響</title>
     <link>https://osf.io/v87xf</link>
     <guid isPermaLink="false">https://osf.io/v87xf#ja</guid>
     <pubDate>Thu, 18 Dec 2025 07:19:09 +0000</pubDate>
     <description>The Unintended Consequences of Labeling AI-Generated Media Online</description>
   </item>
   <item>
-    <title>ビンジカルチャーとその先：OTTが促すZ世代の心的態度変容に関する概念的枠組み</title>
+    <title>ビンジ文化を超えて：OTTが促すZ世代の心的変容に関する概念的枠組み</title>
     <link>https://osf.io/jts23</link>
     <guid isPermaLink="false">https://osf.io/jts23#ja</guid>
     <pubDate>Thu, 18 Dec 2025 04:06:04 +0000</pubDate>
@@ -321,7 +321,7 @@
     <description>Ethical AI Use: A Clinical Framework for Professional Practice</description>
   </item>
   <item>
-    <title>教育トラッキングと学校の名声が青年期の学業成績軌跡および高難度全国試験の結果に与える影響</title>
+    <title>教育トラッキングと学校の権威が青年期の学業成績軌跡および高難度全国試験の結果に与える影響</title>
     <link>https://osf.io/wdqmn</link>
     <guid isPermaLink="false">https://osf.io/wdqmn#ja</guid>
     <pubDate>Wed, 17 Dec 2025 18:54:37 +0000</pubDate>
