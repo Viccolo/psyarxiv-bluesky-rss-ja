@@ -6,6 +6,13 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>ブーバ・キキ効果の破壊：知覚的類似対象の命名におけるラベル類似性の影響</title>
+    <link>https://osf.io/vzah6</link>
+    <guid isPermaLink="false">https://osf.io/vzah6#ja</guid>
+    <pubDate>Sat, 27 Dec 2025 15:38:26 +0000</pubDate>
+    <description>Breaking Bouba-Kiki: The Effect of Label Similarity on Naming Perceptually Similar Referents</description>
+  </item>
+  <item>
     <title>成人スペイン語話者集団における急性ストレス誘発法の検証</title>
     <link>https://osf.io/s8yvt</link>
     <guid isPermaLink="false">https://osf.io/s8yvt#ja</guid>
@@ -13,7 +20,7 @@
     <description>Validating an Acute Stress Induction Method in Adult Spanish-Speaking Populations</description>
   </item>
   <item>
-    <title>スナップショットを超えて：多様かつ一般集団における親子間生態学的瞬間評価研究の系統的レビュー</title>
+    <title>スナップショットを超えて：多様かつ一般集団における親子間エコロジカルモーメンタリーアセスメント研究の系統的レビュー</title>
     <link>https://osf.io/v7gr3</link>
     <guid isPermaLink="false">https://osf.io/v7gr3#ja</guid>
     <pubDate>Fri, 26 Dec 2025 20:40:50 +0000</pubDate>
@@ -34,7 +41,7 @@
     <description>New risk indexes for identifying children at risk of high-risk substance use during adolescence</description>
   </item>
   <item>
-    <title>肥満女性の社会的身体不安を軽減するためのバーチャルリアリティ曝露と運動トレーニングを用いた心理的介入：実現可能性ランダム化比較試験</title>
+    <title>肥満女性の社会的身体不安を軽減するための仮想現実曝露と運動トレーニングを用いた心理的介入：実現可能性ランダム化比較試験</title>
     <link>https://osf.io/f5y7b</link>
     <guid isPermaLink="false">https://osf.io/f5y7b#ja</guid>
     <pubDate>Fri, 26 Dec 2025 16:19:25 +0000</pubDate>
@@ -55,7 +62,7 @@
     <description>Neural differences between monolinguals and early bilinguals in their native language during comprehension</description>
   </item>
   <item>
-    <title>他者との予定キャンセルの許容性を過小評価する傾向</title>
+    <title>他者との予定をキャンセルすることの許容性を過小評価する傾向</title>
     <link>https://osf.io/st6a5</link>
     <guid isPermaLink="false">https://osf.io/st6a5#ja</guid>
     <pubDate>Fri, 26 Dec 2025 16:19:24 +0000</pubDate>
@@ -111,7 +118,7 @@
     <description>The Offline Optimum: Why Sleep is a Computational Necessity in Complex Brains</description>
   </item>
   <item>
-    <title>先行的抑制と反応的抑制の解離：ゴー/ノーゴー課題およびストップシグナル課題からの証拠</title>
+    <title>能動的抑制と反応的抑制の解離：ゴー/ノーゴー課題およびストップシグナル課題からの証拠</title>
     <link>https://osf.io/r5anq</link>
     <guid isPermaLink="false">https://osf.io/r5anq#ja</guid>
     <pubDate>Fri, 26 Dec 2025 12:34:34 +0000</pubDate>
@@ -125,7 +132,7 @@
     <description>Machine Learning to Classify Simulated Psychotherapy States in Preschool Children from fNIRS</description>
   </item>
   <item>
-    <title>自閉スペクトラム症の青年期者とその親を対象としたヨガ Bali-A-TSA プログラムの開発：概念的枠組み</title>
+    <title>自閉スペクトラム症の思春期青年とその親を対象としたヨガBali-A-TSAプログラムの開発：概念的枠組み</title>
     <link>https://osf.io/phbmt</link>
     <guid isPermaLink="false">https://osf.io/phbmt#ja</guid>
     <pubDate>Tue, 23 Dec 2025 23:15:30 +0000</pubDate>
@@ -139,7 +146,7 @@
     <description>Confidence-accuracy dissociations in perceptual decision making</description>
   </item>
   <item>
-    <title>自然道路景観の予測：動き、立体視深度、および場面文脈の影響</title>
+    <title>自然な道路風景の予測：運動、立体的深度、および場面文脈の影響</title>
     <link>https://osf.io/spg2z</link>
     <guid isPermaLink="false">https://osf.io/spg2z#ja</guid>
     <pubDate>Tue, 23 Dec 2025 23:15:29 +0000</pubDate>
@@ -153,7 +160,7 @@
     <description>Atypical Cross-Modal Contextual Calibration of Sensory Evidence in Autism</description>
   </item>
   <item>
-    <title>ChatGPTは私に死んだ犬を食べさせるか？大規模言語モデルにおける道徳的判断と道徳的行動の検証</title>
+    <title>ChatGPTは私に死んだ犬を食べさせるか？大規模言語モデルにおける道徳判断と道徳行動の検証</title>
     <link>https://osf.io/fqg4x</link>
     <guid isPermaLink="false">https://osf.io/fqg4x#ja</guid>
     <pubDate>Tue, 23 Dec 2025 18:52:39 +0000</pubDate>
@@ -167,7 +174,7 @@
     <description>The network structure of anxiety: an analysis of 150 triggers across different life domains</description>
   </item>
   <item>
-    <title>不安の一般的側面と特異的側面：心理計量学的分析および認知機能への影響</title>
+    <title>不安の一般的側面と特定的側面：心理計量学的分析および認知機能への影響</title>
     <link>https://osf.io/bs4d9</link>
     <guid isPermaLink="false">https://osf.io/bs4d9#ja</guid>
     <pubDate>Tue, 23 Dec 2025 18:52:38 +0000</pubDate>
@@ -202,7 +209,7 @@
     <description>Segmental cues for self-other and familiar-other voice distinction</description>
   </item>
   <item>
-    <title>ポジティブ感情の出現：母親、父親、見知らぬ人との相互的な微笑みの発達</title>
+    <title>ポジティブ情動の出現：母親、父親、見知らぬ人との相互的な微笑みの発達</title>
     <link>https://osf.io/h6fje</link>
     <guid isPermaLink="false">https://osf.io/h6fje#ja</guid>
     <pubDate>Tue, 23 Dec 2025 18:25:11 +0000</pubDate>
@@ -237,7 +244,7 @@
     <description>Age Differences in Flexibly Binding Memory of What, When and Where</description>
   </item>
   <item>
-    <title>行動研究に基づく応用例によるDjangoウェブ開発の初歩</title>
+    <title>行動研究に基づく応用例を用いたDjangoウェブ開発の初歩</title>
     <link>https://osf.io/xrm5w</link>
     <guid isPermaLink="false">https://osf.io/xrm5w#ja</guid>
     <pubDate>Tue, 23 Dec 2025 14:17:23 +0000</pubDate>
@@ -286,14 +293,14 @@
     <description>Automatic Adaptation to Concept Complexity and Subjective  Natural Concepts: A Cognitive Model based on Chunking</description>
   </item>
   <item>
-    <title>デジタル時代におけるAI嫌悪：人工知能生成コンテンツの知覚に関する実証的研究</title>
+    <title>デジタル時代におけるAI嫌悪：AI生成コンテンツの知覚に関する実証的研究</title>
     <link>https://osf.io/qpc8y</link>
     <guid isPermaLink="false">https://osf.io/qpc8y#ja</guid>
     <pubDate>Sun, 21 Dec 2025 14:39:56 +0000</pubDate>
     <description>AI-Aversion im digitalen Zeitalter: Eine empirische Untersuchung zur Wahrnehmung KI-generierter Inhalte</description>
   </item>
   <item>
-    <title>臨床的完璧主義を有する成人を対象としたセルフヘルプ介入の検証：オンラインスキルモジュールと書籍の比較ランダム化比較試験</title>
+    <title>臨床的完璧主義を有する成人を対象としたセルフヘルプ介入の検証：オンラインスキルモジュールと書籍を比較したランダム化比較試験</title>
     <link>https://osf.io/n6t4m</link>
     <guid isPermaLink="false">https://osf.io/n6t4m#ja</guid>
     <pubDate>Sun, 21 Dec 2025 14:39:55 +0000</pubDate>
@@ -314,18 +321,11 @@
     <description>Emotional and Cognitive Empathy as Predictors of the Levels and Changes in Well-being and Health</description>
   </item>
   <item>
-    <title>海馬単一ボクセルプロトン磁気共鳴分光法の信頼性評価：クラス内効果分解による検証</title>
+    <title>海馬単一ボクセルプロトン磁気共鳴分光法の信頼性評価：クラス内効果分解による検討</title>
     <link>https://osf.io/gcmsq</link>
     <guid isPermaLink="false">https://osf.io/gcmsq#ja</guid>
     <pubDate>Sat, 20 Dec 2025 19:12:22 +0000</pubDate>
     <description>Assessing the reliability of hippocampal single-voxel proton magnetic resonance spectroscopy through intra-class effect decomposition</description>
-  </item>
-  <item>
-    <title>大規模言語モデルによる特性内在化症状における社会的解釈時の抽象的処理の加速化の解明</title>
-    <link>https://osf.io/mntpb</link>
-    <guid isPermaLink="false">https://osf.io/mntpb#ja</guid>
-    <pubDate>Sat, 20 Dec 2025 19:12:22 +0000</pubDate>
-    <description>Large Language Models Reveal Accelerated Abstract Processing During Social Interpretation in Trait Internalizing Symptoms</description>
   </item>
 </channel>
 </rss>
