@@ -6,14 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>成人スペイン語話者集団における急性ストレス誘発法の検証</title>
+    <title>スペイン語圏成人集団における急性ストレス誘発法の検証</title>
     <link>https://osf.io/s8yvt</link>
     <guid isPermaLink="false">https://osf.io/s8yvt#ja</guid>
     <pubDate>Fri, 26 Dec 2025 20:40:51 +0000</pubDate>
     <description>Validating an Acute Stress Induction Method in Adult Spanish-Speaking Populations</description>
   </item>
   <item>
-    <title>スナップショットを超えて：多様かつ一般集団における親子間生態学的瞬間評価研究の系統的レビュー</title>
+    <title>スナップショットを超えて：多様かつ一般集団における親子間生態学的瞬間評価研究の体系的レビュー</title>
     <link>https://osf.io/v7gr3</link>
     <guid isPermaLink="false">https://osf.io/v7gr3#ja</guid>
     <pubDate>Fri, 26 Dec 2025 20:40:50 +0000</pubDate>
@@ -27,14 +27,14 @@
     <description>From Formulaic Chunks to Productive Syntax: A Cross-Linguistic Network Analysis</description>
   </item>
   <item>
-    <title>思春期における高リスク物質使用のリスクが高い子どもを特定するための新たなリスク指標</title>
+    <title>思春期における高リスク薬物使用のリスクが高い子どもを特定するための新たなリスク指標</title>
     <link>https://osf.io/4rfve</link>
     <guid isPermaLink="false">https://osf.io/4rfve#ja</guid>
     <pubDate>Fri, 26 Dec 2025 16:19:25 +0000</pubDate>
     <description>New risk indexes for identifying children at risk of high-risk substance use during adolescence</description>
   </item>
   <item>
-    <title>肥満女性の社会的身体不安を軽減するための仮想現実曝露と運動トレーニングを用いた心理的介入の実現可能性ランダム化比較試験</title>
+    <title>肥満女性の社会的身体不安を軽減するための仮想現実曝露と運動トレーニングを用いた心理的介入：実現可能性ランダム化比較試験</title>
     <link>https://osf.io/f5y7b</link>
     <guid isPermaLink="false">https://osf.io/f5y7b#ja</guid>
     <pubDate>Fri, 26 Dec 2025 16:19:25 +0000</pubDate>
@@ -48,7 +48,7 @@
     <description>Personality Auto-Scoring with Large Language Models Using a Realistic Accuracy Model of Behavioral Cues in Chatbot Interviews</description>
   </item>
   <item>
-    <title>母語理解における単言語話者と早期バイリンガルの神経学的差異</title>
+    <title>母語理解における単一言語話者と早期バイリンガルの神経的差異</title>
     <link>https://osf.io/k3ux7</link>
     <guid isPermaLink="false">https://osf.io/k3ux7#ja</guid>
     <pubDate>Fri, 26 Dec 2025 16:19:24 +0000</pubDate>
@@ -62,7 +62,7 @@
     <description>People Underestimate the Acceptability of Canceling Plans with Others</description>
   </item>
   <item>
-    <title>親子の日常における正負の感情の同時および遅延同期：同期タイプ別の異なる予測因子</title>
+    <title>親子の日々の正負の感情における同時および遅延同期：同期タイプ別の異なる予測因子</title>
     <link>https://osf.io/zhk27</link>
     <guid isPermaLink="false">https://osf.io/zhk27#ja</guid>
     <pubDate>Fri, 26 Dec 2025 16:19:23 +0000</pubDate>
@@ -111,7 +111,7 @@
     <description>The Offline Optimum: Why Sleep is a Computational Necessity in Complex Brains</description>
   </item>
   <item>
-    <title>先行的抑制と反応的抑制の解離：ゴー/ノーゴー課題およびストップシグナル課題からの証拠</title>
+    <title>先行的抑制と反応的抑制の解離：ゴー／ノーゴー課題およびストップシグナル課題からの証拠</title>
     <link>https://osf.io/r5anq</link>
     <guid isPermaLink="false">https://osf.io/r5anq#ja</guid>
     <pubDate>Fri, 26 Dec 2025 12:34:34 +0000</pubDate>
@@ -139,14 +139,14 @@
     <description>Confidence-accuracy dissociations in perceptual decision making</description>
   </item>
   <item>
-    <title>自然道路景観の予測：動き、立体深度、および場面文脈の影響</title>
+    <title>自然な道路景観の予測：運動、立体的深度、および場面文脈の影響</title>
     <link>https://osf.io/spg2z</link>
     <guid isPermaLink="false">https://osf.io/spg2z#ja</guid>
     <pubDate>Tue, 23 Dec 2025 23:15:29 +0000</pubDate>
     <description>Predicting natural road scenes: Effects of motion, stereoscopic depth, and scene context</description>
   </item>
   <item>
-    <title>自閉症における感覚証拠の非典型的な異感覚間文脈調整</title>
+    <title>自閉症における非典型的な感覚証拠の異感覚間文脈調整</title>
     <link>https://osf.io/bcrxd</link>
     <guid isPermaLink="false">https://osf.io/bcrxd#ja</guid>
     <pubDate>Tue, 23 Dec 2025 18:52:39 +0000</pubDate>
@@ -167,7 +167,7 @@
     <description>The network structure of anxiety: an analysis of 150 triggers across different life domains</description>
   </item>
   <item>
-    <title>不安の一般的側面と特定的側面：心理計量学的分析および認知機能への影響</title>
+    <title>不安の一般的側面と特異的側面：心理計量学的分析および認知機能への影響</title>
     <link>https://osf.io/bs4d9</link>
     <guid isPermaLink="false">https://osf.io/bs4d9#ja</guid>
     <pubDate>Tue, 23 Dec 2025 18:52:38 +0000</pubDate>
@@ -181,7 +181,7 @@
     <description>Learning the determinants of human behavior</description>
   </item>
   <item>
-    <title>コンピュータ生成三次元仮想モデルを活用した物理地質学実験における岩石識別教育の効果的強化</title>
+    <title>コンピュータ生成三次元仮想モデルを活用した物理地質学実験における岩石識別教育の向上</title>
     <link>https://osf.io/usbda</link>
     <guid isPermaLink="false">https://osf.io/usbda#ja</guid>
     <pubDate>Tue, 23 Dec 2025 18:25:13 +0000</pubDate>
@@ -209,14 +209,14 @@
     <description>The Emergence of Positive Affect:  The Development of Interactive Smiling with Mothers, Fathers, and Strangers</description>
   </item>
   <item>
-    <title>練習は想起を改善するが「無視視」には影響しない：空間的に空いた場所への眼球運動は反復を通じて安定している</title>
+    <title>練習は想起を向上させるが「無視視」には影響しない：空間的に空いた場所への眼球運動は反復を通じて安定している</title>
     <link>https://osf.io/nt8wa</link>
     <guid isPermaLink="false">https://osf.io/nt8wa#ja</guid>
     <pubDate>Tue, 23 Dec 2025 16:21:59 +0000</pubDate>
     <description>Practice Improves Recall but Not Looking-at-Nothing: Eye Movements to Emptied Spatial Locations Remain Stable Across Repetition</description>
   </item>
   <item>
-    <title>誤情報は社会的合意の認知を歪め、介入がその是正に寄与する</title>
+    <title>誤情報は社会的合意の認知を歪め、介入がその修正に寄与する</title>
     <link>https://osf.io/gm6zx</link>
     <guid isPermaLink="false">https://osf.io/gm6zx#ja</guid>
     <pubDate>Tue, 23 Dec 2025 16:21:59 +0000</pubDate>
@@ -237,7 +237,7 @@
     <description>Age Differences in Flexibly Binding Memory of What, When and Where</description>
   </item>
   <item>
-    <title>行動研究に基づく応用例を用いたDjangoウェブ開発の初歩</title>
+    <title>行動研究に基づく応用例によるDjangoウェブ開発の初歩</title>
     <link>https://osf.io/xrm5w</link>
     <guid isPermaLink="false">https://osf.io/xrm5w#ja</guid>
     <pubDate>Tue, 23 Dec 2025 14:17:23 +0000</pubDate>
@@ -286,14 +286,14 @@
     <description>Automatic Adaptation to Concept Complexity and Subjective  Natural Concepts: A Cognitive Model based on Chunking</description>
   </item>
   <item>
-    <title>デジタル時代におけるAI嫌悪：人工知能生成コンテンツの知覚に関する実証的研究</title>
+    <title>デジタル時代におけるAI嫌悪：AI生成コンテンツの知覚に関する実証的研究</title>
     <link>https://osf.io/qpc8y</link>
     <guid isPermaLink="false">https://osf.io/qpc8y#ja</guid>
     <pubDate>Sun, 21 Dec 2025 14:39:56 +0000</pubDate>
     <description>AI-Aversion im digitalen Zeitalter: Eine empirische Untersuchung zur Wahrnehmung KI-generierter Inhalte</description>
   </item>
   <item>
-    <title>臨床的完璧主義を有する成人を対象としたセルフヘルプ介入の検証：オンラインスキルモジュールと書籍の比較ランダム化比較試験</title>
+    <title>臨床的完璧主義を有する成人を対象としたセルフヘルプ介入の検証：オンラインスキルモジュールと書籍を比較したランダム化比較試験</title>
     <link>https://osf.io/n6t4m</link>
     <guid isPermaLink="false">https://osf.io/n6t4m#ja</guid>
     <pubDate>Sun, 21 Dec 2025 14:39:55 +0000</pubDate>
