@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>不確実性不耐性と死の不安の関連性：精神的・宗教的アイデンティティによる調整効果の検証</title>
+    <title>不確実性不容忍と死の不安の関連性：精神的・宗教的アイデンティティによる調整効果の検証</title>
     <link>https://osf.io/pgycv</link>
     <guid isPermaLink="false">https://osf.io/pgycv#ja</guid>
     <pubDate>Thu, 01 Jan 2026 19:13:54 +0000</pubDate>
@@ -20,28 +20,28 @@
     <description>Key performance indicators for digital learning software</description>
   </item>
   <item>
-    <title>類は友を呼ぶ：内在的神経同期とパーソナリティが人間の友情形成を共同で予測する</title>
+    <title>類は友を呼ぶ：内在的神経同期と人格が共同で人間の友情の形成を予測する</title>
     <link>https://osf.io/eancd</link>
     <guid isPermaLink="false">https://osf.io/eancd#ja</guid>
     <pubDate>Thu, 01 Jan 2026 14:42:38 +0000</pubDate>
     <description>Birds of a Feather: Intrinsic neural alignment and personality jointly forecast the emergence of human friendship</description>
   </item>
   <item>
-    <title>耳鳴りバイオバンクおよびデータリポジトリの系統的レビュー：統一的表現型分類に向けて</title>
+    <title>耳鳴りバイオバンクおよびデータリポジトリの系統的レビュー：表現型の標準化に向けて</title>
     <link>https://osf.io/3ebaq</link>
     <guid isPermaLink="false">https://osf.io/3ebaq#ja</guid>
     <pubDate>Thu, 01 Jan 2026 14:42:37 +0000</pubDate>
     <description>Systematic Review of Tinnitus Biobanks and Data Repositories: Towards Harmonised Phenotyping</description>
   </item>
   <item>
-    <title>教室内介入が理系学部生の領域別動機づけに及ぼす効果の限界：19件の現場研究のメタ分析</title>
+    <title>教室内介入が理系学部生の領域別動機づけに及ぼす影響の限界：19件の現地研究のメタ分析</title>
     <link>https://osf.io/g3p68</link>
     <guid isPermaLink="false">https://osf.io/g3p68#ja</guid>
     <pubDate>Wed, 31 Dec 2025 20:18:02 +0000</pubDate>
     <description>Classroom interventions have limited effects on undergraduates’ domain-level motivation in STEM: A meta-analysis of 19 field studies</description>
   </item>
   <item>
-    <title>教室内介入が理系学部生の領域別動機づけに及ぼす効果の限界：19件の現地研究のメタ分析</title>
+    <title>教室内介入が理系学部生の領域別動機づけに及ぼす影響の限界：19件の現場研究のメタ分析</title>
     <link>https://osf.io/g3p68</link>
     <guid isPermaLink="false">https://osf.io/g3p68#ja</guid>
     <pubDate>Wed, 31 Dec 2025 18:24:00 +0000</pubDate>
@@ -62,7 +62,7 @@
     <description>Persistent Sexual Side Effects After Discontinuation of SRIs: Protocol for a Scoping Review of Symptoms and Birth-Assigned Sex Comparisons</description>
   </item>
   <item>
-    <title>デジタル大規模説得における影響力よりも接触頻度の重要性</title>
+    <title>デジタル大量説得における影響力よりも接触頻度の重要性</title>
     <link>https://osf.io/5ewbu</link>
     <guid isPermaLink="false">https://osf.io/5ewbu#ja</guid>
     <pubDate>Wed, 31 Dec 2025 18:23:59 +0000</pubDate>
@@ -76,7 +76,7 @@
     <description>The effect of emotion on recognition accuracy, intensity and response bias to vocal expressions in adolescents and adults with externalising and internalising symptoms</description>
   </item>
   <item>
-    <title>脳波に基づく個別化脳刺激：MEGおよびEEGを活用した経頭蓋交流電流刺激（tACS）の系統的レビュー</title>
+    <title>脳波に基づく個別化脳刺激：MEGおよびEEG情報を用いた経頭蓋交流電流刺激（tACS）の系統的レビュー</title>
     <link>https://osf.io/q8x6v</link>
     <guid isPermaLink="false">https://osf.io/q8x6v#ja</guid>
     <pubDate>Wed, 31 Dec 2025 17:40:23 +0000</pubDate>
@@ -90,14 +90,14 @@
     <description>Questionable prospective associations between mindfulness and mental health problems: A simulated multiverse reanalysis and comment on Ma et al. (2026)</description>
   </item>
   <item>
-    <title>言語を超えた多言語主義：非語彙主義的バイリンガリズムモデル</title>
+    <title>言語を用いない多言語主義：非語彙主義的バイリンガリズムモデル</title>
     <link>https://osf.io/a5e3u</link>
     <guid isPermaLink="false">https://osf.io/a5e3u#ja</guid>
     <pubDate>Wed, 31 Dec 2025 17:40:23 +0000</pubDate>
     <description>Multilingualism WithOut Words: A non-lexicalist model of bilingualism</description>
   </item>
   <item>
-    <title>社会的相互作用における個人差モデリングのための大規模言語モデルエージェントシミュレーション（LASSI）</title>
+    <title>社会的相互作用における個人差モデル化のための大規模言語モデルエージェントシミュレーション（LASSI）</title>
     <link>https://osf.io/xrj3c</link>
     <guid isPermaLink="false">https://osf.io/xrj3c#ja</guid>
     <pubDate>Wed, 31 Dec 2025 17:40:22 +0000</pubDate>
@@ -111,7 +111,7 @@
     <description>Individual Differences in the Shift-of-Strategy Approach</description>
   </item>
   <item>
-    <title>数の構成性における直感の限界：乗法の可換性の場合</title>
+    <title>数の構成性における直感の限界：乗法の交換性の場合</title>
     <link>https://osf.io/r2zse</link>
     <guid isPermaLink="false">https://osf.io/r2zse#ja</guid>
     <pubDate>Wed, 31 Dec 2025 01:20:53 +0000</pubDate>
@@ -125,7 +125,7 @@
     <description>Estimating Dimensional Structure in Generative Psychometrics: Comparing PCA and Network Methods Using Large Language Model Item Embeddings</description>
   </item>
   <item>
-    <title>ヒスパニック系個人における食事ノイズの測定：Ro Allison Indiana Dhurandhar 食事ノイズ（RAID-FN）目録のスペイン語版翻訳</title>
+    <title>ヒスパニック系個人における食物ノイズの測定：Ro Allison Indiana Dhurandhar 食物ノイズ（RAID-FN）目録のスペイン語翻訳</title>
     <link>https://osf.io/4sgj7</link>
     <guid isPermaLink="false">https://osf.io/4sgj7#ja</guid>
     <pubDate>Wed, 31 Dec 2025 01:20:53 +0000</pubDate>
@@ -139,14 +139,14 @@
     <description>Suboptimal Incorporation of Context during Decision Making in Post-9/11 Veterans with  Chronic Comorbid Blast mTBI and PTSD</description>
   </item>
   <item>
-    <title>冷淡―非情（CU）特性に関連する感情処理障害の多層メタアナリシス：年齢および性差による違いはあるか？</title>
+    <title>冷淡・非情（CU）特性に関連する感情処理障害の多層メタアナリシス：年齢および性差による違いはあるか？</title>
     <link>https://osf.io/r2a8g</link>
     <guid isPermaLink="false">https://osf.io/r2a8g#ja</guid>
     <pubDate>Tue, 30 Dec 2025 15:17:57 +0000</pubDate>
     <description>Multilevel meta-analyses of emotional processing deficits associated with callous-unemotional (CU) traits: Do they differ by age and sex?</description>
   </item>
   <item>
-    <title>神経線維腫症1型児における内在化問題および外在化問題の年齢別傾向：九施設共同研究</title>
+    <title>神経線維腫症1型児における内在化および外在化問題の年齢別傾向：九施設共同研究</title>
     <link>https://osf.io/dnf6b</link>
     <guid isPermaLink="false">https://osf.io/dnf6b#ja</guid>
     <pubDate>Tue, 30 Dec 2025 15:17:57 +0000</pubDate>
@@ -160,14 +160,14 @@
     <description>Shadow Epistemology and the Neurodiversity Movement: Towards a Philosophy of Contested Psychiatric Knowledge</description>
   </item>
   <item>
-    <title>英国における人種的少数派の女性と少女の公共の場での性的嫌がらせに関する認知と経験</title>
+    <title>英国における人種的少数派の女性および少女の公共の場での性的嫌がらせに関する認知と経験</title>
     <link>https://osf.io/x2t37</link>
     <guid isPermaLink="false">https://osf.io/x2t37#ja</guid>
     <pubDate>Mon, 29 Dec 2025 23:16:09 +0000</pubDate>
     <description>Racially Minoritised Girls’ and Women’s Perceptions and Experiences of Public Sexual Harassment in the UK</description>
   </item>
   <item>
-    <title>作業記憶は境界誘発的再活性化と部分的蓄積を介して出来事の区分化を促進する</title>
+    <title>作業記憶は境界誘発再活性化と部分的蓄積を介して出来事の区分化を促進する</title>
     <link>https://osf.io/yvta4</link>
     <guid isPermaLink="false">https://osf.io/yvta4#ja</guid>
     <pubDate>Mon, 29 Dec 2025 18:25:45 +0000</pubDate>
@@ -181,14 +181,14 @@
     <description>Difficulties in Identifying Causes of Emotions Prospectively Predict the Persistence of Suicidal Thoughts: A Six-Week Longitudinal Study</description>
   </item>
   <item>
-    <title>カウンタースピーチ三分類体系：系統的文献レビューに基づく行動的・情動的・認知的技法の統合</title>
+    <title>カウンタースピーチ三分類体系：体系的文献レビューに基づく行動的・情動的・認知的技法の統合</title>
     <link>https://osf.io/s4v23</link>
     <guid isPermaLink="false">https://osf.io/s4v23#ja</guid>
     <pubDate>Mon, 29 Dec 2025 18:25:44 +0000</pubDate>
     <description>The Counterspeech Trias Taxonomy: Behavioral, Affective, and Cognitive Techniques Synthesized from a Systematic Literature Review</description>
   </item>
   <item>
-    <title>長期COVID疲労における体性感覚処理と生理的・心理的要因との関連</title>
+    <title>ロングCOVID疲労における体性感覚処理と生理的・心理的要因との関連</title>
     <link>https://osf.io/tey2a</link>
     <guid isPermaLink="false">https://osf.io/tey2a#ja</guid>
     <pubDate>Mon, 29 Dec 2025 15:42:59 +0000</pubDate>
@@ -202,7 +202,7 @@
     <description>Embracing Interdependence in an Individualistic World: Supporting Basic Psychological Needs and Protecting Against Burnout -Development of the Interdependence Acceptance Questionnaire</description>
   </item>
   <item>
-    <title>顔の感情認識、共感性および精神病質特性：測定方法による影響の差異の理解</title>
+    <title>顔の感情認識、共感性およびサイコパス傾向：測定方法による効果の差異の理解</title>
     <link>https://osf.io/fr27t</link>
     <guid isPermaLink="false">https://osf.io/fr27t#ja</guid>
     <pubDate>Mon, 29 Dec 2025 15:42:58 +0000</pubDate>
@@ -223,21 +223,21 @@
     <description>Questionable necessity effects on suicidal ideation: A commentary on Marchetti et al. (2026)</description>
   </item>
   <item>
-    <title>研究が同期しない場合：包括的分析による母子の生理的連動の不在</title>
+    <title>研究が同期しない場合：包括的分析による母子の生理的連関の不在</title>
     <link>https://osf.io/dq4fe</link>
     <guid isPermaLink="false">https://osf.io/dq4fe#ja</guid>
     <pubDate>Mon, 29 Dec 2025 01:25:28 +0000</pubDate>
     <description>When research does not synchronize: Comprehensive analyses show no mother–child physiological coupling</description>
   </item>
   <item>
-    <title>リトリートから現実へ：1週間のリトリート後1か月における青年のマインドフルネス実践に関する質的研究</title>
+    <title>リトリートから現実へ：1週間のリトリート後1ヶ月間における思春期青年のマインドフルネス実践に関する質的研究</title>
     <link>https://osf.io/zfmk2</link>
     <guid isPermaLink="false">https://osf.io/zfmk2#ja</guid>
     <pubDate>Mon, 29 Dec 2025 01:25:28 +0000</pubDate>
     <description>From Retreat to Reality: A Qualitative Study of How Adolescents Apply Mindfulness One Month After a Weeklong Retreat</description>
   </item>
   <item>
-    <title>陰謀説の信憑性を信じるか否か？シグナル検出理論による検討</title>
+    <title>陰謀主張を信じるか否か？シグナル検出理論による検討</title>
     <link>https://osf.io/sdqp3</link>
     <guid isPermaLink="false">https://osf.io/sdqp3#ja</guid>
     <pubDate>Mon, 29 Dec 2025 01:25:27 +0000</pubDate>
@@ -258,14 +258,14 @@
     <description>Sleep Spindle–Slow Oscillation Coupling in Typical and Neurodiverse Development</description>
   </item>
   <item>
-    <title>同輩からの被害経験、反芻思考、抑うつ気分の相互関係：思春期女子を対象とした多波長縦断研究</title>
+    <title>ピア被害、反すう思考および不快気分の相互関係：思春期女子を対象とした多波長縦断研究</title>
     <link>https://osf.io/2rpky</link>
     <guid isPermaLink="false">https://osf.io/2rpky#ja</guid>
     <pubDate>Mon, 29 Dec 2025 01:25:27 +0000</pubDate>
     <description>Reciprocal relations between peer victimization, rumination, and dysphoria: A multi-wave longitudinal study of adolescent girls</description>
   </item>
   <item>
-    <title>人工システムへの意識帰属：デフォルトとしての機能主義と対照的な本質主義</title>
+    <title>人工システムへの意識帰属：機能主義的帰属がデフォルトであり、本質主義的帰属は対照的である</title>
     <link>https://osf.io/5ed7u</link>
     <guid isPermaLink="false">https://osf.io/5ed7u#ja</guid>
     <pubDate>Mon, 29 Dec 2025 01:25:26 +0000</pubDate>
@@ -286,7 +286,7 @@
     <description>Understanding and predicting cultural change</description>
   </item>
   <item>
-    <title>実験心理学における心理計測の統一的枠組み：標準化一般階層因子モデル</title>
+    <title>実験心理学における心理計測の統一的枠組み：標準化一般化階層因子モデル</title>
     <link>https://osf.io/gv6k7</link>
     <guid isPermaLink="false">https://osf.io/gv6k7#ja</guid>
     <pubDate>Mon, 29 Dec 2025 01:25:26 +0000</pubDate>
@@ -314,7 +314,7 @@
     <description>Validating an Acute Stress Induction Method in Adult Spanish-Speaking Populations</description>
   </item>
   <item>
-    <title>スナップショットを超えて：多様かつ一般集団における親子間エコロジカル・モーメンタリー・アセスメント研究の系統的レビュー</title>
+    <title>スナップショットを超えて：多様かつ一般集団における親子間エコロジカル・モーメンタリー・アセスメント研究の体系的レビュー</title>
     <link>https://osf.io/v7gr3</link>
     <guid isPermaLink="false">https://osf.io/v7gr3#ja</guid>
     <pubDate>Fri, 26 Dec 2025 20:40:50 +0000</pubDate>
