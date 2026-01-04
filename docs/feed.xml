@@ -6,6 +6,13 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>握力と認知機能の将来的関連性増加に関する説得力のある証拠は依然として不十分である：張らの研究（2026年）に対するシミュレーション再解析とコメント</title>
+    <link>https://osf.io/4hm5s</link>
+    <guid isPermaLink="false">https://osf.io/4hm5s#ja</guid>
+    <pubDate>Sun, 04 Jan 2026 17:13:57 +0000</pubDate>
+    <description>Still no convincing evidence for increasing prospective effects between grip strength and cognitive function: A simulated reanalysis and comment on Zhang et al. (2026)</description>
+  </item>
+  <item>
     <title>自動化された筆記面接能力評価の構成概念妥当性</title>
     <link>https://osf.io/2gy9c</link>
     <guid isPermaLink="false">https://osf.io/2gy9c#ja</guid>
@@ -20,14 +27,14 @@
     <description>The Art of Making Problems Simple: A Theory of Intelligence</description>
   </item>
   <item>
-    <title>分析手法が欺瞞検出結果に与える影響：生データの割合とシグナル検出理論指標の比較</title>
+    <title>分析手法が欺瞞検出結果に与える影響：生データ割合と信号検出理論指標の比較</title>
     <link>https://osf.io/jd7k8</link>
     <guid isPermaLink="false">https://osf.io/jd7k8#ja</guid>
     <pubDate>Sat, 03 Jan 2026 12:32:30 +0000</pubDate>
     <description>How Analytic Approaches Shape Deception Detection Results: A Comparison of Raw Percentage and Signal Detection Metrics</description>
   </item>
   <item>
-    <title>言語と説得の研究：1974年から2025年までの五十年間にわたる計算機的文献レビュー</title>
+    <title>言語と説得の研究：1974年から2025年までの五十年にわたる計算機的文献レビュー</title>
     <link>https://osf.io/md45c</link>
     <guid isPermaLink="false">https://osf.io/md45c#ja</guid>
     <pubDate>Sat, 03 Jan 2026 12:32:29 +0000</pubDate>
@@ -62,14 +69,14 @@
     <description>Creative Flourishing: Unpacking the Creativity-Well-Being Connection in Creative Practitioners and Comparison Participants</description>
   </item>
   <item>
-    <title>感情の価と覚醒の変動が認知機能および主観的精神的努力感に異なる関連を示す</title>
+    <title>感情の価数および覚醒の変動が認知機能と主観的精神的努力に異なる関連を示す</title>
     <link>https://osf.io/9pwtu</link>
     <guid isPermaLink="false">https://osf.io/9pwtu#ja</guid>
     <pubDate>Fri, 02 Jan 2026 18:24:50 +0000</pubDate>
     <description>Fluctuations in emotional valence and arousal are differentially linked to cognitive performance and subjective mental effort</description>
   </item>
   <item>
-    <title>前頭前野における認知地図の形成</title>
+    <title>前頭前皮質における認知地図</title>
     <link>https://osf.io/jp8au</link>
     <guid isPermaLink="false">https://osf.io/jp8au#ja</guid>
     <pubDate>Fri, 02 Jan 2026 18:24:49 +0000</pubDate>
@@ -83,14 +90,14 @@
     <description>Going in the Right Direction: A Tutorial to Directional Hypothesis Testing Using the BFpack Module in JASP</description>
   </item>
   <item>
-    <title>選択基準の厳しさは独身期間に影響するか？未婚および交際関係における最低交際相手基準と独身期間の関連性</title>
+    <title>選択基準の厳しさは独身期間および非拘束的・拘束的交際期間の長さを予測するか</title>
     <link>https://osf.io/5fwr2</link>
     <guid isPermaLink="false">https://osf.io/5fwr2#ja</guid>
     <pubDate>Fri, 02 Jan 2026 16:20:30 +0000</pubDate>
     <description>Too Picky to Be Picked? Minimum Mate Standards Predict Number of Years Single, in Uncommitted and Committed Relationships</description>
   </item>
   <item>
-    <title>覚醒が動機づけを形成する：動機づけ欠如の理解に向けた統合的枠組み</title>
+    <title>覚醒が動機づけを形成する：動機づけ障害理解のための統合的枠組み</title>
     <link>https://osf.io/jfdgm</link>
     <guid isPermaLink="false">https://osf.io/jfdgm#ja</guid>
     <pubDate>Fri, 02 Jan 2026 16:20:30 +0000</pubDate>
@@ -125,14 +132,14 @@
     <description>Are LLMs better expert judges? Rethinking content validity assessment in the age of AI</description>
   </item>
   <item>
-    <title>数値アンカーとバイアス推定：ロジスティック回帰分析の応用</title>
+    <title>数値的アンカーとバイアス推定：ロジスティック回帰分析の応用</title>
     <link>https://osf.io/b9vyz</link>
     <guid isPermaLink="false">https://osf.io/b9vyz#ja</guid>
     <pubDate>Fri, 02 Jan 2026 11:15:13 +0000</pubDate>
     <description>Numeric Anchors and Biased Estimation: A Logistic Regression Approach</description>
   </item>
   <item>
-    <title>選挙運動におけるポピュリスト広告と誤情報受容性の相互作用：縦断的研究</title>
+    <title>選挙キャンペーンにおけるポピュリスト広告と誤情報感受性の相互作用：縦断的研究</title>
     <link>https://osf.io/uybwv</link>
     <guid isPermaLink="false">https://osf.io/uybwv#ja</guid>
     <pubDate>Fri, 02 Jan 2026 09:44:36 +0000</pubDate>
@@ -153,7 +160,7 @@
     <description>How Dopamine Decline and the Positivity Effect Shift Type 1 and Type 2 Thinking in Aging</description>
   </item>
   <item>
-    <title>コンサートセラピー：非臨床集団におけるストレス調整を目的とした生演奏、呼吸法指導、穏やかな運動を統合した芸術ベース介入の開発と概要</title>
+    <title>コンサートセラピー：非臨床集団におけるストレス調整を目的とした生演奏、呼吸法指導、穏やかな運動を統合した芸術ベース介入の開発と記述</title>
     <link>https://osf.io/7etwz</link>
     <guid isPermaLink="false">https://osf.io/7etwz#ja</guid>
     <pubDate>Fri, 02 Jan 2026 07:42:48 +0000</pubDate>
@@ -181,28 +188,28 @@
     <description>Key performance indicators for digital learning software</description>
   </item>
   <item>
-    <title>類は友を呼ぶ：内在的神経同期とパーソナリティが人間の友情の形成を共同で予測する</title>
+    <title>類は友を呼ぶ：内在的神経同期とパーソナリティが人間の友情形成を共同で予測する</title>
     <link>https://osf.io/eancd</link>
     <guid isPermaLink="false">https://osf.io/eancd#ja</guid>
     <pubDate>Thu, 01 Jan 2026 14:42:38 +0000</pubDate>
     <description>Birds of a Feather: Intrinsic neural alignment and personality jointly forecast the emergence of human friendship</description>
   </item>
   <item>
-    <title>耳鳴りバイオバンクおよびデータリポジトリの系統的レビュー：表現型の標準化に向けて</title>
+    <title>耳鳴りバイオバンクおよびデータリポジトリの系統的レビュー：表現型の統一に向けて</title>
     <link>https://osf.io/3ebaq</link>
     <guid isPermaLink="false">https://osf.io/3ebaq#ja</guid>
     <pubDate>Thu, 01 Jan 2026 14:42:37 +0000</pubDate>
     <description>Systematic Review of Tinnitus Biobanks and Data Repositories: Towards Harmonised Phenotyping</description>
   </item>
   <item>
-    <title>教室介入が理系学部生の領域別動機づけに及ぼす影響の限界：19件の現地研究のメタ分析</title>
+    <title>教室介入が理系学部生の領域別動機づけに及ぼす影響の限界：19件の現場研究のメタ分析</title>
     <link>https://osf.io/g3p68</link>
     <guid isPermaLink="false">https://osf.io/g3p68#ja</guid>
     <pubDate>Wed, 31 Dec 2025 20:18:02 +0000</pubDate>
     <description>Classroom interventions have limited effects on undergraduates’ domain-level motivation in STEM: A meta-analysis of 19 field studies</description>
   </item>
   <item>
-    <title>教室内介入は理系学部生の領域別動機づけに限定的な効果しか示さない：19件の現場研究のメタ分析</title>
+    <title>教室介入が理系学部生の領域別動機づけに及ぼす影響の限界：19件の現場研究のメタ分析</title>
     <link>https://osf.io/g3p68</link>
     <guid isPermaLink="false">https://osf.io/g3p68#ja</guid>
     <pubDate>Wed, 31 Dec 2025 18:24:00 +0000</pubDate>
@@ -230,7 +237,7 @@
     <description>For Digital Mass Persuasion, Exposure Matters More Than Persuasiveness</description>
   </item>
   <item>
-    <title>外在化および内在化症状を有する青年期および成人における感情が声の表出に対する認識精度、強度および反応バイアスに及ぼす影響</title>
+    <title>外在化および内在化症状を有する青年期および成人における感情が音声表現の認知精度、強度および反応バイアスに及ぼす影響</title>
     <link>https://osf.io/qa4v2</link>
     <guid isPermaLink="false">https://osf.io/qa4v2#ja</guid>
     <pubDate>Wed, 31 Dec 2025 17:40:24 +0000</pubDate>
@@ -244,14 +251,14 @@
     <description>Personalized Brain Stimulation based on Brain Oscillations: A Systematic Review of MEG and EEG informed Transcranial Alternating Current Stimulation (tACS)</description>
   </item>
   <item>
-    <title>マインドフルネスと精神健康問題の疑わしい前向き関連性：シミュレートされたマルチバース再解析とMaら（2026）へのコメント</title>
+    <title>マインドフルネスと精神健康問題の疑わしい前向き関連性：シミュレートされたマルチバース再解析およびMaら（2026年）へのコメント</title>
     <link>https://osf.io/qh2by</link>
     <guid isPermaLink="false">https://osf.io/qh2by#ja</guid>
     <pubDate>Wed, 31 Dec 2025 17:40:23 +0000</pubDate>
     <description>Questionable prospective associations between mindfulness and mental health problems: A simulated multiverse reanalysis and comment on Ma et al. (2026)</description>
   </item>
   <item>
-    <title>言語を超えた多言語主義：非語彙主義的バイリンガリズムモデル</title>
+    <title>言語を介さない多言語主義：非語彙主義的バイリンガリズムモデル</title>
     <link>https://osf.io/a5e3u</link>
     <guid isPermaLink="false">https://osf.io/a5e3u#ja</guid>
     <pubDate>Wed, 31 Dec 2025 17:40:23 +0000</pubDate>
@@ -279,7 +286,7 @@
     <description>Limits to intuition in number compositionality:  the case of multiplicative commutativity</description>
   </item>
   <item>
-    <title>生成的心理計量学における次元構造の推定：大規模言語モデルの項目埋め込みを用いた主成分分析とネットワーク手法の比較</title>
+    <title>生成的心理計測における次元構造の推定：大規模言語モデルの項目埋め込みを用いた主成分分析とネットワーク手法の比較</title>
     <link>https://osf.io/2s7pw</link>
     <guid isPermaLink="false">https://osf.io/2s7pw#ja</guid>
     <pubDate>Wed, 31 Dec 2025 01:20:53 +0000</pubDate>
@@ -300,39 +307,32 @@
     <description>Suboptimal Incorporation of Context during Decision Making in Post-9/11 Veterans with  Chronic Comorbid Blast mTBI and PTSD</description>
   </item>
   <item>
-    <title>冷淡・無感情（CU）特性に関連する感情処理障害の多層メタアナリシス：年齢および性差による違いはあるか？</title>
+    <title>冷淡・非情（CU）特性に関連する情動処理障害の多層メタ分析：年齢および性差による違いはあるか？</title>
     <link>https://osf.io/r2a8g</link>
     <guid isPermaLink="false">https://osf.io/r2a8g#ja</guid>
     <pubDate>Tue, 30 Dec 2025 15:17:57 +0000</pubDate>
     <description>Multilevel meta-analyses of emotional processing deficits associated with callous-unemotional (CU) traits: Do they differ by age and sex?</description>
   </item>
   <item>
-    <title>神経線維腫症1型児童における内在化問題および外在化問題の年齢別傾向：九施設共同研究</title>
+    <title>神経線維腫症1型児における内在化および外在化問題の年齢別傾向：九施設共同研究</title>
     <link>https://osf.io/dnf6b</link>
     <guid isPermaLink="false">https://osf.io/dnf6b#ja</guid>
     <pubDate>Tue, 30 Dec 2025 15:17:57 +0000</pubDate>
     <description>Age Trends of Internalizing and Externalizing Problems in Children with Neurofibromatosis Type 1: A Nine-Center Study</description>
   </item>
   <item>
-    <title>シャドウ認識論とニューロダイバーシティ運動：争点となる精神医学的知識の哲学に向けて</title>
+    <title>影の認識論と神経多様性運動：対立する精神医学的知識の哲学に向けて</title>
     <link>https://osf.io/7f64k</link>
     <guid isPermaLink="false">https://osf.io/7f64k#ja</guid>
     <pubDate>Tue, 30 Dec 2025 01:19:39 +0000</pubDate>
     <description>Shadow Epistemology and the Neurodiversity Movement: Towards a Philosophy of Contested Psychiatric Knowledge</description>
   </item>
   <item>
-    <title>英国における人種的マイノリティの女性および少女の公共の場での性的嫌がらせに関する認知と経験</title>
+    <title>イギリスにおける人種的少数派の女性および少女の公共の場での性的嫌がらせに対する認知と経験</title>
     <link>https://osf.io/x2t37</link>
     <guid isPermaLink="false">https://osf.io/x2t37#ja</guid>
     <pubDate>Mon, 29 Dec 2025 23:16:09 +0000</pubDate>
     <description>Racially Minoritised Girls’ and Women’s Perceptions and Experiences of Public Sexual Harassment in the UK</description>
-  </item>
-  <item>
-    <title>作業記憶は境界誘発再活性化と部分的蓄積を介して出来事の区分化を促進する</title>
-    <link>https://osf.io/yvta4</link>
-    <guid isPermaLink="false">https://osf.io/yvta4#ja</guid>
-    <pubDate>Mon, 29 Dec 2025 18:25:45 +0000</pubDate>
-    <description>Working Memory Facilitates Event Segmentation via Boundary-Triggered Reactivation and Partial Accumulation During Events</description>
   </item>
 </channel>
 </rss>
