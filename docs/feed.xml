@@ -6,14 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>意味知識が小学校低学年の児童のエピソード記憶に及ぼす影響</title>
+    <title>意味知識が小学生の若年児および高年児のエピソード記憶に与える影響</title>
     <link>https://osf.io/pmbfq</link>
     <guid isPermaLink="false">https://osf.io/pmbfq#ja</guid>
     <pubDate>Mon, 05 Jan 2026 11:15:57 +0000</pubDate>
     <description>How semantic knowledge influences episodic memories in younger and older primary-school-aged children</description>
   </item>
   <item>
-    <title>社会的文脈における乳児の驚きの解明：生理的指標、行動、表情の多次元分析</title>
+    <title>社会的文脈における乳児の驚きの解明：生理学的・行動的・表情的指標の多次元分析</title>
     <link>https://osf.io/kshw3</link>
     <guid isPermaLink="false">https://osf.io/kshw3#ja</guid>
     <pubDate>Mon, 05 Jan 2026 11:15:57 +0000</pubDate>
@@ -34,14 +34,14 @@
     <description>Parental Ethnotheories About Children’s Information-Seeking: Examining Children’s Questions and Parents’ Responses</description>
   </item>
   <item>
-    <title>小標本サイズ下における潜在変数媒介モデルのためのパワープライオリット法</title>
+    <title>小標本サイズ下における潜在変数媒介モデルのためのパワープライオリ活用法</title>
     <link>https://osf.io/qf8kj</link>
     <guid isPermaLink="false">https://osf.io/qf8kj#ja</guid>
     <pubDate>Mon, 05 Jan 2026 08:27:24 +0000</pubDate>
     <description>Power priors for latent variable mediation models under small sample sizes.</description>
   </item>
   <item>
-    <title>ベイズ潜在変数モデルにおける符号反射処理手法の評価</title>
+    <title>ベイズ潜在変数モデルにおける符号反転処理手法の評価</title>
     <link>https://osf.io/hw5jx</link>
     <guid isPermaLink="false">https://osf.io/hw5jx#ja</guid>
     <pubDate>Mon, 05 Jan 2026 08:27:24 +0000</pubDate>
@@ -62,7 +62,7 @@
     <description>Developing policy implications from research findings: a brief tutorial</description>
   </item>
   <item>
-    <title>握力と認知機能の将来的関連性増加に関する説得力のある証拠は依然として不十分である：張ら（2026）へのシミュレーション再解析とコメント</title>
+    <title>握力と認知機能の将来的関連性増加に関する説得力のある証拠は依然として不十分である：張らら（2026）へのシミュレーション再解析とコメント</title>
     <link>https://osf.io/4hm5s</link>
     <guid isPermaLink="false">https://osf.io/4hm5s#ja</guid>
     <pubDate>Sun, 04 Jan 2026 17:13:57 +0000</pubDate>
@@ -90,7 +90,7 @@
     <description>How Analytic Approaches Shape Deception Detection Results: A Comparison of Raw Percentage and Signal Detection Metrics</description>
   </item>
   <item>
-    <title>言語と説得の研究：1974年から2025年までの五十年にわたる計算的文献レビュー</title>
+    <title>言語と説得の研究：1974年から2025年までの五十年にわたる計算機的文献レビュー</title>
     <link>https://osf.io/md45c</link>
     <guid isPermaLink="false">https://osf.io/md45c#ja</guid>
     <pubDate>Sat, 03 Jan 2026 12:32:29 +0000</pubDate>
@@ -104,7 +104,7 @@
     <description>AI Weakens, But Does Not Strengthen, Political Attitudes</description>
   </item>
   <item>
-    <title>世代間介入と高齢者および若年層の健康アウトカムへの影響：系統的レビュー</title>
+    <title>世代間介入と高齢者および若年者の健康アウトカムへの影響：システマティックレビュー</title>
     <link>https://osf.io/36x8q</link>
     <guid isPermaLink="false">https://osf.io/36x8q#ja</guid>
     <pubDate>Sat, 03 Jan 2026 12:32:28 +0000</pubDate>
@@ -118,14 +118,14 @@
     <description>Illusions of Understanding in the Sciences</description>
   </item>
   <item>
-    <title>創造的繁栄：創造的実践者と比較対象者における創造性とウェルビーイングの関連性の解明</title>
+    <title>創造的繁栄：創造的実践者と比較参加者における創造性とウェルビーイングの関連性の解明</title>
     <link>https://osf.io/y9a2b</link>
     <guid isPermaLink="false">https://osf.io/y9a2b#ja</guid>
     <pubDate>Fri, 02 Jan 2026 18:24:50 +0000</pubDate>
     <description>Creative Flourishing: Unpacking the Creativity-Well-Being Connection in Creative Practitioners and Comparison Participants</description>
   </item>
   <item>
-    <title>感情の価と覚醒の変動が認知機能および主観的精神的努力感に異なる関連を示す</title>
+    <title>感情の価数および覚醒の変動が認知機能と主観的精神的努力に異なる関連を示す</title>
     <link>https://osf.io/9pwtu</link>
     <guid isPermaLink="false">https://osf.io/9pwtu#ja</guid>
     <pubDate>Fri, 02 Jan 2026 18:24:50 +0000</pubDate>
@@ -139,21 +139,21 @@
     <description>Cognitive maps in the prefrontal cortex</description>
   </item>
   <item>
-    <title>正しい方向への進行：JASPのBFpackモジュールを用いた方向性仮説検定のチュートリアル</title>
+    <title>正しい方向への進展：JASPのBFpackモジュールを用いた方向性仮説検定のチュートリアル</title>
     <link>https://osf.io/f582h</link>
     <guid isPermaLink="false">https://osf.io/f582h#ja</guid>
     <pubDate>Fri, 02 Jan 2026 18:24:49 +0000</pubDate>
     <description>Going in the Right Direction: A Tutorial to Directional Hypothesis Testing Using the BFpack Module in JASP</description>
   </item>
   <item>
-    <title>選択基準の厳しさは独身期間および非恋愛・恋愛関係の継続年数を予測するか</title>
+    <title>選択基準の厳しさは独身期間および非拘束的・拘束的交際期間にどのように影響するか：最低限の配偶者基準の予測力</title>
     <link>https://osf.io/5fwr2</link>
     <guid isPermaLink="false">https://osf.io/5fwr2#ja</guid>
     <pubDate>Fri, 02 Jan 2026 16:20:30 +0000</pubDate>
     <description>Too Picky to Be Picked? Minimum Mate Standards Predict Number of Years Single, in Uncommitted and Committed Relationships</description>
   </item>
   <item>
-    <title>覚醒が動機づけを形成する：動機づけ障害理解のための統合的枠組み</title>
+    <title>覚醒が動機づけを形成する：動機づけ欠如の理解に向けた統合的枠組み</title>
     <link>https://osf.io/jfdgm</link>
     <guid isPermaLink="false">https://osf.io/jfdgm#ja</guid>
     <pubDate>Fri, 02 Jan 2026 16:20:30 +0000</pubDate>
@@ -167,7 +167,7 @@
     <description>Not Just Incels: Romantic Rejection Increases Women’s and Men’s Extremism</description>
   </item>
   <item>
-    <title>AI媒介音韻自動化理論（AIPAT）：成人学習者の第二言語発音習得促進のための概念モデル</title>
+    <title>AI媒介音声自動化理論（AIPAT）：成人学習者の第二言語発音習得促進のための概念モデル</title>
     <link>https://osf.io/8asje</link>
     <guid isPermaLink="false">https://osf.io/8asje#ja</guid>
     <pubDate>Fri, 02 Jan 2026 14:43:43 +0000</pubDate>
@@ -181,14 +181,14 @@
     <description>Discrepancies Between Felt and Judged Presence: The Role of Touch on Presence in Virtual Reality</description>
   </item>
   <item>
-    <title>大規模言語モデルはより優れた専門家評価者か？AI時代における内容妥当性評価の再考</title>
+    <title>大規模言語モデルはより優れた専門家判断者か？AI時代における内容妥当性評価の再考</title>
     <link>https://osf.io/4hsyx</link>
     <guid isPermaLink="false">https://osf.io/4hsyx#ja</guid>
     <pubDate>Fri, 02 Jan 2026 12:34:10 +0000</pubDate>
     <description>Are LLMs better expert judges? Rethinking content validity assessment in the age of AI</description>
   </item>
   <item>
-    <title>数値アンカーとバイアス推定：ロジスティック回帰分析の応用</title>
+    <title>数値アンカーと推定バイアス：ロジスティック回帰分析による検討</title>
     <link>https://osf.io/b9vyz</link>
     <guid isPermaLink="false">https://osf.io/b9vyz#ja</guid>
     <pubDate>Fri, 02 Jan 2026 11:15:13 +0000</pubDate>
@@ -216,7 +216,7 @@
     <description>How Dopamine Decline and the Positivity Effect Shift Type 1 and Type 2 Thinking in Aging</description>
   </item>
   <item>
-    <title>コンサートセラピー：非臨床集団のストレス調整を目的とした生演奏、呼吸法指導、穏やかな運動を統合した芸術ベース介入の開発と記述</title>
+    <title>コンサートセラピー：非臨床集団におけるストレス調整を目的とした生演奏、呼吸法、穏やかな運動を統合した芸術ベース介入の開発と概要</title>
     <link>https://osf.io/7etwz</link>
     <guid isPermaLink="false">https://osf.io/7etwz#ja</guid>
     <pubDate>Fri, 02 Jan 2026 07:42:48 +0000</pubDate>
@@ -230,7 +230,7 @@
     <description>(In)sensitivity to surface-level heuristics: A case from Turkish verbal attractors</description>
   </item>
   <item>
-    <title>不確実性不耐性と死の不安の関連性：精神的・宗教的アイデンティティによる調整効果の検討</title>
+    <title>不確実性不容忍と死の不安の関連性：精神的・宗教的アイデンティティによる調整効果の検証</title>
     <link>https://osf.io/pgycv</link>
     <guid isPermaLink="false">https://osf.io/pgycv#ja</guid>
     <pubDate>Thu, 01 Jan 2026 19:13:54 +0000</pubDate>
@@ -244,28 +244,28 @@
     <description>Key performance indicators for digital learning software</description>
   </item>
   <item>
-    <title>類は友を呼ぶ：内在的神経同期とパーソナリティが人間の友情形成を共同で予測する</title>
+    <title>類は友を呼ぶ：内在的神経同期と人格が人間の友情形成を共同で予測する</title>
     <link>https://osf.io/eancd</link>
     <guid isPermaLink="false">https://osf.io/eancd#ja</guid>
     <pubDate>Thu, 01 Jan 2026 14:42:38 +0000</pubDate>
     <description>Birds of a Feather: Intrinsic neural alignment and personality jointly forecast the emergence of human friendship</description>
   </item>
   <item>
-    <title>耳鳴りバイオバンクおよびデータリポジトリの系統的レビュー：統一的表現型分類に向けて</title>
+    <title>耳鳴りバイオバンクおよびデータリポジトリの系統的レビュー：表現型の標準化に向けて</title>
     <link>https://osf.io/3ebaq</link>
     <guid isPermaLink="false">https://osf.io/3ebaq#ja</guid>
     <pubDate>Thu, 01 Jan 2026 14:42:37 +0000</pubDate>
     <description>Systematic Review of Tinnitus Biobanks and Data Repositories: Towards Harmonised Phenotyping</description>
   </item>
   <item>
-    <title>教室内介入が理系学部生の領域別動機づけに及ぼす効果の限界：19件の現場研究のメタ分析</title>
+    <title>教室内介入が理系学部生の領域別動機づけに与える影響の限界：19件の現場研究のメタ分析</title>
     <link>https://osf.io/g3p68</link>
     <guid isPermaLink="false">https://osf.io/g3p68#ja</guid>
     <pubDate>Wed, 31 Dec 2025 20:18:02 +0000</pubDate>
     <description>Classroom interventions have limited effects on undergraduates’ domain-level motivation in STEM: A meta-analysis of 19 field studies</description>
   </item>
   <item>
-    <title>教室内介入が理系学部生の領域別動機づけに及ぼす効果の限界：19件の現場研究のメタ分析</title>
+    <title>教室内介入は理系学部生の領域別動機付けに限定的な効果しか示さない：19件の現場研究のメタ分析</title>
     <link>https://osf.io/g3p68</link>
     <guid isPermaLink="false">https://osf.io/g3p68#ja</guid>
     <pubDate>Wed, 31 Dec 2025 18:24:00 +0000</pubDate>
@@ -279,35 +279,35 @@
     <description>Experimentally Manipulating Gender Inequality Affects Explicit and Implicit Gendered Attitudes and Self-Perceptions</description>
   </item>
   <item>
-    <title>選択的セロトニン再取り込み阻害薬（SRI）中止後の持続的な性的副作用：症状および出生時割り当て性別の比較に関するスコーピングレビューのプロトコル</title>
+    <title>SRI中止後の持続的な性的副作用：症状および出生時割り当て性別の比較に関するスコーピングレビューのプロトコル</title>
     <link>https://osf.io/6w2u9</link>
     <guid isPermaLink="false">https://osf.io/6w2u9#ja</guid>
     <pubDate>Wed, 31 Dec 2025 18:24:00 +0000</pubDate>
     <description>Persistent Sexual Side Effects After Discontinuation of SRIs: Protocol for a Scoping Review of Symptoms and Birth-Assigned Sex Comparisons</description>
   </item>
   <item>
-    <title>デジタル大量説得における説得力よりも接触頻度の重要性</title>
+    <title>デジタル大規模説得における影響力よりも接触頻度の重要性</title>
     <link>https://osf.io/5ewbu</link>
     <guid isPermaLink="false">https://osf.io/5ewbu#ja</guid>
     <pubDate>Wed, 31 Dec 2025 18:23:59 +0000</pubDate>
     <description>For Digital Mass Persuasion, Exposure Matters More Than Persuasiveness</description>
   </item>
   <item>
-    <title>外在化および内在化症状を有する青年期および成人における感情が声の表出に対する認知精度、強度および反応バイアスに及ぼす影響</title>
+    <title>外在化および内在化症状を有する青少年および成人における感情が音声表現の認知精度、強度および反応バイアスに及ぼす影響</title>
     <link>https://osf.io/qa4v2</link>
     <guid isPermaLink="false">https://osf.io/qa4v2#ja</guid>
     <pubDate>Wed, 31 Dec 2025 17:40:24 +0000</pubDate>
     <description>The effect of emotion on recognition accuracy, intensity and response bias to vocal expressions in adolescents and adults with externalising and internalising symptoms</description>
   </item>
   <item>
-    <title>脳波に基づく個別化脳刺激：MEGおよびEEGを活用した経頭蓋交流電流刺激（tACS）の系統的レビュー</title>
+    <title>脳波に基づく個別化脳刺激：MEGおよびEEG情報を用いた経頭蓋交流電流刺激（tACS）の系統的レビュー</title>
     <link>https://osf.io/q8x6v</link>
     <guid isPermaLink="false">https://osf.io/q8x6v#ja</guid>
     <pubDate>Wed, 31 Dec 2025 17:40:23 +0000</pubDate>
     <description>Personalized Brain Stimulation based on Brain Oscillations: A Systematic Review of MEG and EEG informed Transcranial Alternating Current Stimulation (tACS)</description>
   </item>
   <item>
-    <title>マインドフルネスと精神健康問題の疑わしい前向き関連性：シミュレートされたマルチバース再解析およびMaら（2026）へのコメント</title>
+    <title>マインドフルネスと精神健康問題の疑わしい前向き関連性：シミュレートされたマルチバース再解析およびMaら（2026年）へのコメント</title>
     <link>https://osf.io/qh2by</link>
     <guid isPermaLink="false">https://osf.io/qh2by#ja</guid>
     <pubDate>Wed, 31 Dec 2025 17:40:23 +0000</pubDate>
@@ -321,7 +321,7 @@
     <description>Multilingualism WithOut Words: A non-lexicalist model of bilingualism</description>
   </item>
   <item>
-    <title>社会的相互作用における個人差モデリングのためのLLMベースエージェントシミュレーション（LASSI）</title>
+    <title>社会的相互作用における個人差モデリングのための大規模言語モデルエージェントシミュレーション（LASSI）</title>
     <link>https://osf.io/xrj3c</link>
     <guid isPermaLink="false">https://osf.io/xrj3c#ja</guid>
     <pubDate>Wed, 31 Dec 2025 17:40:22 +0000</pubDate>
@@ -347,13 +347,6 @@
     <guid isPermaLink="false">https://osf.io/2s7pw#ja</guid>
     <pubDate>Wed, 31 Dec 2025 01:20:53 +0000</pubDate>
     <description>Estimating Dimensional Structure in Generative Psychometrics: Comparing PCA and Network Methods Using Large Language Model Item Embeddings</description>
-  </item>
-  <item>
-    <title>ヒスパニック系個人における食事ノイズの測定：Ro Allison Indiana Dhurandhar 食事ノイズ（RAID-FN）目録のスペイン語版翻訳</title>
-    <link>https://osf.io/4sgj7</link>
-    <guid isPermaLink="false">https://osf.io/4sgj7#ja</guid>
-    <pubDate>Wed, 31 Dec 2025 01:20:53 +0000</pubDate>
-    <description>Measuring Food Noise in Hispanic Persons: Spanish Translation of the Ro Allison Indiana Dhurandhar Food Noise (RAID-FN) Inventory</description>
   </item>
 </channel>
 </rss>
