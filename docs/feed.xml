@@ -6,6 +6,34 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>リズムが騒音下音声課題における音声の知覚と神経追跡に及ぼす影響</title>
+    <link>https://osf.io/h7duq</link>
+    <guid isPermaLink="false">https://osf.io/h7duq#ja</guid>
+    <pubDate>Tue, 06 Jan 2026 16:22:50 +0000</pubDate>
+    <description>Rhythm modulates perception and neural tracking of speech in a speech-in-noise task</description>
+  </item>
+  <item>
+    <title>心理学研究におけるカスタマイズ可能なGPTチャットボットの活用：実践的チュートリアル</title>
+    <link>https://osf.io/kf96p</link>
+    <guid isPermaLink="false">https://osf.io/kf96p#ja</guid>
+    <pubDate>Tue, 06 Jan 2026 16:22:49 +0000</pubDate>
+    <description>Using Customisable GPT Chatbots in Psychology Research: A Practical Tutorial</description>
+  </item>
+  <item>
+    <title>スマートフォンを用いた介入における自己効力感が神経症傾向の変化に及ぼす予測的役割</title>
+    <link>https://osf.io/9rjux</link>
+    <guid isPermaLink="false">https://osf.io/9rjux#ja</guid>
+    <pubDate>Tue, 06 Jan 2026 16:22:49 +0000</pubDate>
+    <description>Self-Efficacy Predicts Differential Neuroticism Change in a Smartphone-Based Intervention</description>
+  </item>
+  <item>
+    <title>慢性疼痛における疼痛特異的および領域一般的接近・回避バイアスの新たな測定手法</title>
+    <link>https://osf.io/9ydhm</link>
+    <guid isPermaLink="false">https://osf.io/9ydhm#ja</guid>
+    <pubDate>Tue, 06 Jan 2026 16:22:49 +0000</pubDate>
+    <description>New Approaches for the Measurement of Pain-Specific and Domain-General Approach and Avoidance Biases in Chronic Pain</description>
+  </item>
+  <item>
     <title>短期日記からうつ病評価を行う大規模言語モデルの活用</title>
     <link>https://osf.io/2qgmk</link>
     <guid isPermaLink="false">https://osf.io/2qgmk#ja</guid>
@@ -20,21 +48,21 @@
     <description>Regulation of stress physiology across social contexts in prematurely born toddlers</description>
   </item>
   <item>
-    <title>新年の抱負の継続：行動変容維持の要因の検討</title>
+    <title>新年の抱負の継続：行動変容維持の要因の探究</title>
     <link>https://osf.io/anz3q</link>
     <guid isPermaLink="false">https://osf.io/anz3q#ja</guid>
     <pubDate>Tue, 06 Jan 2026 15:44:36 +0000</pubDate>
     <description>Sticking to New Year’s Resolutions: Exploring Drivers of Behavior Change Maintenance</description>
   </item>
   <item>
-    <title>潜在意識から無意識へ：哲学的系譜、進化のパラドックス、無意識起源の未来展望</title>
+    <title>潜在意識から無意識へ：哲学的系譜、進化の逆説、そして無意識の起源の未来</title>
     <link>https://osf.io/5tzun</link>
     <guid isPermaLink="false">https://osf.io/5tzun#ja</guid>
     <pubDate>Tue, 06 Jan 2026 15:44:36 +0000</pubDate>
     <description>From Subliminality, to the Unconscious Mind: Philosophical Lineages, Evolutionary Paradoxes, and the Future of the Origins of the Unconscious</description>
   </item>
   <item>
-    <title>心理学出版における誤誘導的AIガイダンス</title>
+    <title>心理学出版における誤解を招くAIガイダンス</title>
     <link>https://osf.io/k6cyt</link>
     <guid isPermaLink="false">https://osf.io/k6cyt#ja</guid>
     <pubDate>Tue, 06 Jan 2026 15:44:36 +0000</pubDate>
@@ -48,21 +76,21 @@
     <description>A Systematic Review and Meta-Analytic Gaussian Network Aggregation of Anxious Symptoms</description>
   </item>
   <item>
-    <title>聴覚および視覚注意の領域的局在：fMRIメタアナリシスによる検討</title>
+    <title>聴覚および視覚注意の領域的トポグラフィー：fMRIに基づくメタアナリシス</title>
     <link>https://osf.io/r26n8</link>
     <guid isPermaLink="false">https://osf.io/r26n8#ja</guid>
     <pubDate>Tue, 06 Jan 2026 11:15:37 +0000</pubDate>
     <description>Regional topography of auditory and visual attention: an fMRI-based meta-analysis</description>
   </item>
   <item>
-    <title>多肢選択式テストにおける知識測定の改善：階層的多項処理木モデルの応用</title>
+    <title>多肢選択式テストにおける知識測定の改善：階層的多項処理ツリーアプローチ</title>
     <link>https://osf.io/yhakc</link>
     <guid isPermaLink="false">https://osf.io/yhakc#ja</guid>
     <pubDate>Tue, 06 Jan 2026 10:48:21 +0000</pubDate>
     <description>Improving the measurement of knowledge in multiple-choice tests: A hierarchical multinomial processing tree approach</description>
   </item>
   <item>
-    <title>親への移行期における普遍的なカップル志向予防介入が家族解体に与える影響</title>
+    <title>親への移行期における普遍的なカップル中心予防介入が家族解体に与える影響</title>
     <link>https://osf.io/jxfu9</link>
     <guid isPermaLink="false">https://osf.io/jxfu9#ja</guid>
     <pubDate>Tue, 06 Jan 2026 10:48:21 +0000</pubDate>
@@ -76,7 +104,7 @@
     <description>A Resource-Rational Mechanism for Reading</description>
   </item>
   <item>
-    <title>主観的社会経済的地位の操作とその下流の（非）効果：拡張を加えた二つの直接的再現研究</title>
+    <title>主観的社会経済的地位の操作とその下流における（非）効果：拡張を加えた二つの直接的再現研究</title>
     <link>https://osf.io/n86rt</link>
     <guid isPermaLink="false">https://osf.io/n86rt#ja</guid>
     <pubDate>Mon, 05 Jan 2026 22:17:11 +0000</pubDate>
@@ -97,7 +125,7 @@
     <description>Trilled /r/ is associated with textural roughness in the vocabularies of spoken languages</description>
   </item>
   <item>
-    <title>党派性の起源の探究：子どもが自分の内集団の主張を優先的に支持する動機とは何か？</title>
+    <title>党派性の起源に関する検討：子どもが自己の内集団の主張を優先的に支持する動機とは何か？</title>
     <link>https://osf.io/gf38p</link>
     <guid isPermaLink="false">https://osf.io/gf38p#ja</guid>
     <pubDate>Mon, 05 Jan 2026 18:55:16 +0000</pubDate>
@@ -118,7 +146,7 @@
     <description>Unveiling Infant Surprise in a Social Context: A Multidimensional Analysis of Physiological, Behavioural, and Facial Expression Markers.</description>
   </item>
   <item>
-    <title>マリオカート効果―連続制御における主体感の指標としての混乱</title>
+    <title>マリオカート効果－連続制御における主体感の指標としての混乱</title>
     <link>https://osf.io/86jxc</link>
     <guid isPermaLink="false">https://osf.io/86jxc#ja</guid>
     <pubDate>Mon, 05 Jan 2026 11:15:57 +0000</pubDate>
@@ -160,7 +188,7 @@
     <description>Developing policy implications from research findings: a brief tutorial</description>
   </item>
   <item>
-    <title>握力と認知機能の将来的関連性増加に関する説得力のある証拠は依然として不十分である：張らら（2026）へのシミュレーション再解析とコメント</title>
+    <title>握力と認知機能の将来的関連性増加に関する説得力のある証拠は依然として不十分である：張らら（2026年）へのシミュレーション再解析とコメント</title>
     <link>https://osf.io/4hm5s</link>
     <guid isPermaLink="false">https://osf.io/4hm5s#ja</guid>
     <pubDate>Sun, 04 Jan 2026 17:13:57 +0000</pubDate>
@@ -181,7 +209,7 @@
     <description>The Art of Making Problems Simple: A Theory of Intelligence</description>
   </item>
   <item>
-    <title>分析手法が欺瞞検出結果に与える影響：生データ割合とシグナル検出理論指標の比較</title>
+    <title>分析手法が欺瞞検出結果に与える影響：生データ割合と信号検出理論指標の比較</title>
     <link>https://osf.io/jd7k8</link>
     <guid isPermaLink="false">https://osf.io/jd7k8#ja</guid>
     <pubDate>Sat, 03 Jan 2026 12:32:30 +0000</pubDate>
@@ -202,7 +230,7 @@
     <description>AI Weakens, But Does Not Strengthen, Political Attitudes</description>
   </item>
   <item>
-    <title>世代間介入と高齢者および若年者の健康アウトカムへの影響：系統的レビュー</title>
+    <title>世代間介入と高齢者および若年層の健康アウトカムへの影響：系統的レビュー</title>
     <link>https://osf.io/36x8q</link>
     <guid isPermaLink="false">https://osf.io/36x8q#ja</guid>
     <pubDate>Sat, 03 Jan 2026 12:32:28 +0000</pubDate>
@@ -237,14 +265,14 @@
     <description>Cognitive maps in the prefrontal cortex</description>
   </item>
   <item>
-    <title>正しい方向への進行：JASPのBFpackモジュールを用いた方向性仮説検定のチュートリアル</title>
+    <title>正しい方向への進行：JASPのBFpackモジュールを用いた方向性仮説検定チュートリアル</title>
     <link>https://osf.io/f582h</link>
     <guid isPermaLink="false">https://osf.io/f582h#ja</guid>
     <pubDate>Fri, 02 Jan 2026 18:24:49 +0000</pubDate>
     <description>Going in the Right Direction: A Tutorial to Directional Hypothesis Testing Using the BFpack Module in JASP</description>
   </item>
   <item>
-    <title>選択基準の厳しさは独身期間および非婚・婚姻関係の継続年数を予測するか</title>
+    <title>選択基準の厳しさは独身期間および非コミット・コミット関係における交際年数を予測する</title>
     <link>https://osf.io/5fwr2</link>
     <guid isPermaLink="false">https://osf.io/5fwr2#ja</guid>
     <pubDate>Fri, 02 Jan 2026 16:20:30 +0000</pubDate>
@@ -256,34 +284,6 @@
     <guid isPermaLink="false">https://osf.io/jfdgm#ja</guid>
     <pubDate>Fri, 02 Jan 2026 16:20:30 +0000</pubDate>
     <description>Arousal Shapes Motivation: An Integrative Framework for Understanding Motivational Deficits</description>
-  </item>
-  <item>
-    <title>インセルだけではない：恋愛拒絶が女性と男性の過激主義を増加させる</title>
-    <link>https://osf.io/2bd9y</link>
-    <guid isPermaLink="false">https://osf.io/2bd9y#ja</guid>
-    <pubDate>Fri, 02 Jan 2026 14:43:44 +0000</pubDate>
-    <description>Not Just Incels: Romantic Rejection Increases Women’s and Men’s Extremism</description>
-  </item>
-  <item>
-    <title>AI媒介音声自動化理論（AIPAT）：成人学習者の第二言語発音習得促進のための概念モデル</title>
-    <link>https://osf.io/8asje</link>
-    <guid isPermaLink="false">https://osf.io/8asje#ja</guid>
-    <pubDate>Fri, 02 Jan 2026 14:43:43 +0000</pubDate>
-    <description>AI-Mediated Phonetic Automatization Theory (AIPAT): A Conceptual Model for Accelerated L2 Pronunciation Development in Adult Learners</description>
-  </item>
-  <item>
-    <title>感じられる存在感と判断された存在感の不一致：バーチャルリアリティにおける触覚の存在感への影響</title>
-    <link>https://osf.io/v7fdc</link>
-    <guid isPermaLink="false">https://osf.io/v7fdc#ja</guid>
-    <pubDate>Fri, 02 Jan 2026 13:30:06 +0000</pubDate>
-    <description>Discrepancies Between Felt and Judged Presence: The Role of Touch on Presence in Virtual Reality</description>
-  </item>
-  <item>
-    <title>大規模言語モデルはより優れた専門家評価者か？AI時代における内容妥当性評価の再考</title>
-    <link>https://osf.io/4hsyx</link>
-    <guid isPermaLink="false">https://osf.io/4hsyx#ja</guid>
-    <pubDate>Fri, 02 Jan 2026 12:34:10 +0000</pubDate>
-    <description>Are LLMs better expert judges? Rethinking content validity assessment in the age of AI</description>
   </item>
 </channel>
 </rss>
