@@ -6,14 +6,21 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>幻覚状態のバイオマーカーとしての脳エントロピーに関する批判的検討</title>
+    <title>ヌンゴン語における引き寄せ効果が示す一致標識と切り替え参照標識の独立したメカニズム</title>
+    <link>https://osf.io/qvybp</link>
+    <guid isPermaLink="false">https://osf.io/qvybp#ja</guid>
+    <pubDate>Tue, 06 Jan 2026 21:41:15 +0000</pubDate>
+    <description>Attraction effects in Nungon reveal independent mechanisms for agreement and switch-reference marking</description>
+  </item>
+  <item>
+    <title>サイケデリック状態のバイオマーカーとしての脳エントロピーに関する批判的検討</title>
     <link>https://osf.io/9jtay</link>
     <guid isPermaLink="false">https://osf.io/9jtay#ja</guid>
     <pubDate>Tue, 06 Jan 2026 20:19:34 +0000</pubDate>
     <description>A critical review of brain entropy as a biomarker of the psychedelic state</description>
   </item>
   <item>
-    <title>統計的近視眼を超えて：心身研究に対する誤った批判への反論</title>
+    <title>統計的近視眼を超えて：心身研究に対する誤った批判への応答</title>
     <link>https://osf.io/mgw73</link>
     <guid isPermaLink="false">https://osf.io/mgw73#ja</guid>
     <pubDate>Tue, 06 Jan 2026 20:19:34 +0000</pubDate>
@@ -55,7 +62,7 @@
     <description>Experiential Features of Volunteering Predict Changes in College Students’ Social, Emotional, and Behavioral Skills</description>
   </item>
   <item>
-    <title>有害な癒し：心理的安全性介入における医原性の脆弱性</title>
+    <title>有害な癒し：心理的安全性介入における医原性脆弱性</title>
     <link>https://osf.io/yp85j</link>
     <guid isPermaLink="false">https://osf.io/yp85j#ja</guid>
     <pubDate>Tue, 06 Jan 2026 17:20:11 +0000</pubDate>
@@ -76,7 +83,7 @@
     <description>Using Customisable GPT Chatbots in Psychology Research: A Practical Tutorial</description>
   </item>
   <item>
-    <title>スマートフォンを用いた介入における自己効力感が神経症傾向の変化に及ぼす予測的役割</title>
+    <title>自己効力感はスマートフォンを用いた介入における神経症傾向の変化を予測する</title>
     <link>https://osf.io/9rjux</link>
     <guid isPermaLink="false">https://osf.io/9rjux#ja</guid>
     <pubDate>Tue, 06 Jan 2026 16:22:49 +0000</pubDate>
@@ -104,28 +111,28 @@
     <description>Regulation of stress physiology across social contexts in prematurely born toddlers</description>
   </item>
   <item>
-    <title>新年の抱負の継続：行動変容の維持要因の探究</title>
+    <title>新年の抱負の継続：行動変容維持の要因の検討</title>
     <link>https://osf.io/anz3q</link>
     <guid isPermaLink="false">https://osf.io/anz3q#ja</guid>
     <pubDate>Tue, 06 Jan 2026 15:44:36 +0000</pubDate>
     <description>Sticking to New Year’s Resolutions: Exploring Drivers of Behavior Change Maintenance</description>
   </item>
   <item>
-    <title>潜在意識から無意識へ：哲学的系譜、進化のパラドックス、無意識起源の未来展望</title>
+    <title>潜在意識から無意識へ：哲学的系譜、進化の逆説、そして無意識起源の未来</title>
     <link>https://osf.io/5tzun</link>
     <guid isPermaLink="false">https://osf.io/5tzun#ja</guid>
     <pubDate>Tue, 06 Jan 2026 15:44:36 +0000</pubDate>
     <description>From Subliminality, to the Unconscious Mind: Philosophical Lineages, Evolutionary Paradoxes, and the Future of the Origins of the Unconscious</description>
   </item>
   <item>
-    <title>心理学出版における誤誘導的AIガイダンスの問題</title>
+    <title>心理学出版における誤導的なAIガイダンス</title>
     <link>https://osf.io/k6cyt</link>
     <guid isPermaLink="false">https://osf.io/k6cyt#ja</guid>
     <pubDate>Tue, 06 Jan 2026 15:44:36 +0000</pubDate>
     <description>Misleading AI guidance in psychological publishing</description>
   </item>
   <item>
-    <title>不安症状の系統的レビューおよびメタアナリティックガウスネットワーク統合分析</title>
+    <title>不安症状の系統的レビューとメタアナリティックガウスネットワーク統合分析</title>
     <link>https://osf.io/cvqd6</link>
     <guid isPermaLink="false">https://osf.io/cvqd6#ja</guid>
     <pubDate>Tue, 06 Jan 2026 15:18:54 +0000</pubDate>
@@ -139,7 +146,7 @@
     <description>Regional topography of auditory and visual attention: an fMRI-based meta-analysis</description>
   </item>
   <item>
-    <title>多肢選択式テストにおける知識測定の改善：階層的多項処理木モデルの応用</title>
+    <title>多肢選択式テストにおける知識測定の改善：階層的多項処理ツリーアプローチ</title>
     <link>https://osf.io/yhakc</link>
     <guid isPermaLink="false">https://osf.io/yhakc#ja</guid>
     <pubDate>Tue, 06 Jan 2026 10:48:21 +0000</pubDate>
@@ -160,7 +167,7 @@
     <description>A Resource-Rational Mechanism for Reading</description>
   </item>
   <item>
-    <title>主観的社会経済的地位の操作とその下流の（非）効果：拡張を加えた二つの直接的再現研究</title>
+    <title>主観的社会経済的地位の操作とその下流における（非）効果：拡張を加えた二つの直接的再現研究</title>
     <link>https://osf.io/n86rt</link>
     <guid isPermaLink="false">https://osf.io/n86rt#ja</guid>
     <pubDate>Mon, 05 Jan 2026 22:17:11 +0000</pubDate>
@@ -188,21 +195,21 @@
     <description>Investigating the Origins of Partisanship: What Motivates Children to Preferentially Endorse Their Ingroups’ Claims?</description>
   </item>
   <item>
-    <title>意味知識が小学生の若年児および高年児のエピソード記憶に与える影響</title>
+    <title>意味知識が小学生の若年児と高年児のエピソード記憶に及ぼす影響</title>
     <link>https://osf.io/pmbfq</link>
     <guid isPermaLink="false">https://osf.io/pmbfq#ja</guid>
     <pubDate>Mon, 05 Jan 2026 11:15:57 +0000</pubDate>
     <description>How semantic knowledge influences episodic memories in younger and older primary-school-aged children</description>
   </item>
   <item>
-    <title>社会的文脈における乳児の驚きの解明：生理的指標、行動、表情の多次元分析</title>
+    <title>社会的文脈における乳児の驚きの解明：生理学的・行動的・表情的指標の多次元分析</title>
     <link>https://osf.io/kshw3</link>
     <guid isPermaLink="false">https://osf.io/kshw3#ja</guid>
     <pubDate>Mon, 05 Jan 2026 11:15:57 +0000</pubDate>
     <description>Unveiling Infant Surprise in a Social Context: A Multidimensional Analysis of Physiological, Behavioural, and Facial Expression Markers.</description>
   </item>
   <item>
-    <title>マリオカート効果－連続制御における主体感の指標としての混乱</title>
+    <title>マリオカート効果 ― 連続制御における主体感の指標としての混乱</title>
     <link>https://osf.io/86jxc</link>
     <guid isPermaLink="false">https://osf.io/86jxc#ja</guid>
     <pubDate>Mon, 05 Jan 2026 11:15:57 +0000</pubDate>
@@ -244,7 +251,7 @@
     <description>Developing policy implications from research findings: a brief tutorial</description>
   </item>
   <item>
-    <title>握力と認知機能の将来的関連性増加に関する説得力のある証拠は依然として不十分である：張ら（2026年）の研究に対するシミュレーション再解析とコメント</title>
+    <title>握力と認知機能の将来的関連性増加に関する説得力のある証拠は依然として存在しない：張らの研究（2026年）に対するシミュレーション再解析と考察</title>
     <link>https://osf.io/4hm5s</link>
     <guid isPermaLink="false">https://osf.io/4hm5s#ja</guid>
     <pubDate>Sun, 04 Jan 2026 17:13:57 +0000</pubDate>
@@ -265,7 +272,7 @@
     <description>The Art of Making Problems Simple: A Theory of Intelligence</description>
   </item>
   <item>
-    <title>分析手法が欺瞞検出結果に与える影響：生データ割合と信号検出理論指標の比較</title>
+    <title>分析手法が欺瞞検出結果に与える影響：生データ割合とシグナル検出理論指標の比較</title>
     <link>https://osf.io/jd7k8</link>
     <guid isPermaLink="false">https://osf.io/jd7k8#ja</guid>
     <pubDate>Sat, 03 Jan 2026 12:32:30 +0000</pubDate>
@@ -277,13 +284,6 @@
     <guid isPermaLink="false">https://osf.io/md45c#ja</guid>
     <pubDate>Sat, 03 Jan 2026 12:32:29 +0000</pubDate>
     <description>Language and Persuasion Research: A Computational Literature Review Spanning Five Decades of Scholarship (1974-2025)</description>
-  </item>
-  <item>
-    <title>AIは政治的態度を弱めるが強化はしない</title>
-    <link>https://osf.io/ukjnc</link>
-    <guid isPermaLink="false">https://osf.io/ukjnc#ja</guid>
-    <pubDate>Sat, 03 Jan 2026 12:32:29 +0000</pubDate>
-    <description>AI Weakens, But Does Not Strengthen, Political Attitudes</description>
   </item>
 </channel>
 </rss>
