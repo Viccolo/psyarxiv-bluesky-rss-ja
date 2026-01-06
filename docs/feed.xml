@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>ヌンゴン語における引き寄せ効果が示す一致標識と切り替え参照標識の独立したメカニズム</title>
+    <title>ヌンゴン語における引き寄せ効果が示す、同意標識と切り替え参照標識の独立したメカニズム</title>
     <link>https://osf.io/qvybp</link>
     <guid isPermaLink="false">https://osf.io/qvybp#ja</guid>
     <pubDate>Tue, 06 Jan 2026 21:41:15 +0000</pubDate>
@@ -41,7 +41,7 @@
     <description>Mentalizing Shapes Affective Inference from Biological Motion</description>
   </item>
   <item>
-    <title>非同期ビデオ面接における性格特性および認知能力予測における教師あり機械学習モデルと大規模言語モデルの比較検討</title>
+    <title>非同期ビデオ面接からの性格特性および認知能力予測における教師あり機械学習モデルと大規模言語モデルの比較</title>
     <link>https://osf.io/2xdfz</link>
     <guid isPermaLink="false">https://osf.io/2xdfz#ja</guid>
     <pubDate>Tue, 06 Jan 2026 20:19:32 +0000</pubDate>
@@ -83,7 +83,7 @@
     <description>Using Customisable GPT Chatbots in Psychology Research: A Practical Tutorial</description>
   </item>
   <item>
-    <title>自己効力感はスマートフォンを用いた介入における神経症傾向の変化を予測する</title>
+    <title>スマートフォンを用いた介入における自己効力感が神経症傾向の変化に及ぼす予測的役割</title>
     <link>https://osf.io/9rjux</link>
     <guid isPermaLink="false">https://osf.io/9rjux#ja</guid>
     <pubDate>Tue, 06 Jan 2026 16:22:49 +0000</pubDate>
@@ -97,7 +97,7 @@
     <description>New Approaches for the Measurement of Pain-Specific and Domain-General Approach and Avoidance Biases in Chronic Pain</description>
   </item>
   <item>
-    <title>短期日記からうつ病評価を行う大規模言語モデルの活用</title>
+    <title>短期日誌からのうつ病評価における大規模言語モデルの活用</title>
     <link>https://osf.io/2qgmk</link>
     <guid isPermaLink="false">https://osf.io/2qgmk#ja</guid>
     <pubDate>Tue, 06 Jan 2026 15:44:37 +0000</pubDate>
@@ -111,21 +111,21 @@
     <description>Regulation of stress physiology across social contexts in prematurely born toddlers</description>
   </item>
   <item>
-    <title>新年の抱負の継続：行動変容維持の要因の検討</title>
+    <title>新年の抱負の継続：行動変容の維持要因の探究</title>
     <link>https://osf.io/anz3q</link>
     <guid isPermaLink="false">https://osf.io/anz3q#ja</guid>
     <pubDate>Tue, 06 Jan 2026 15:44:36 +0000</pubDate>
     <description>Sticking to New Year’s Resolutions: Exploring Drivers of Behavior Change Maintenance</description>
   </item>
   <item>
-    <title>潜在意識から無意識へ：哲学的系譜、進化の逆説、そして無意識起源の未来</title>
+    <title>潜在意識から無意識へ：哲学的系譜、進化のパラドックス、無意識起源の未来展望</title>
     <link>https://osf.io/5tzun</link>
     <guid isPermaLink="false">https://osf.io/5tzun#ja</guid>
     <pubDate>Tue, 06 Jan 2026 15:44:36 +0000</pubDate>
     <description>From Subliminality, to the Unconscious Mind: Philosophical Lineages, Evolutionary Paradoxes, and the Future of the Origins of the Unconscious</description>
   </item>
   <item>
-    <title>心理学出版における誤導的なAIガイダンス</title>
+    <title>心理学出版における誤誘導的AIガイダンス</title>
     <link>https://osf.io/k6cyt</link>
     <guid isPermaLink="false">https://osf.io/k6cyt#ja</guid>
     <pubDate>Tue, 06 Jan 2026 15:44:36 +0000</pubDate>
@@ -146,14 +146,14 @@
     <description>Regional topography of auditory and visual attention: an fMRI-based meta-analysis</description>
   </item>
   <item>
-    <title>多肢選択式テストにおける知識測定の改善：階層的多項処理ツリーアプローチ</title>
+    <title>多肢選択式テストにおける知識測定の改善：階層的多項処理木モデルの応用</title>
     <link>https://osf.io/yhakc</link>
     <guid isPermaLink="false">https://osf.io/yhakc#ja</guid>
     <pubDate>Tue, 06 Jan 2026 10:48:21 +0000</pubDate>
     <description>Improving the measurement of knowledge in multiple-choice tests: A hierarchical multinomial processing tree approach</description>
   </item>
   <item>
-    <title>親への移行期における普遍的なカップル中心予防介入が家族解体に与える影響</title>
+    <title>親になる移行期における普遍的なカップル中心の予防介入が家族解体に与える影響</title>
     <link>https://osf.io/jxfu9</link>
     <guid isPermaLink="false">https://osf.io/jxfu9#ja</guid>
     <pubDate>Tue, 06 Jan 2026 10:48:21 +0000</pubDate>
@@ -167,7 +167,7 @@
     <description>A Resource-Rational Mechanism for Reading</description>
   </item>
   <item>
-    <title>主観的社会経済的地位の操作とその下流における（非）効果：拡張を加えた二つの直接的再現研究</title>
+    <title>主観的社会経済的地位の操作とその下流における（非）効果：拡張を加えた2件の直接再現研究</title>
     <link>https://osf.io/n86rt</link>
     <guid isPermaLink="false">https://osf.io/n86rt#ja</guid>
     <pubDate>Mon, 05 Jan 2026 22:17:11 +0000</pubDate>
@@ -188,28 +188,28 @@
     <description>Trilled /r/ is associated with textural roughness in the vocabularies of spoken languages</description>
   </item>
   <item>
-    <title>党派性の起源の探究：子どもが自群の主張を優先的に支持する動機とは何か？</title>
+    <title>党派性の起源に関する検討：子どもが自分の内集団の主張を優先的に支持する動機とは何か？</title>
     <link>https://osf.io/gf38p</link>
     <guid isPermaLink="false">https://osf.io/gf38p#ja</guid>
     <pubDate>Mon, 05 Jan 2026 18:55:16 +0000</pubDate>
     <description>Investigating the Origins of Partisanship: What Motivates Children to Preferentially Endorse Their Ingroups’ Claims?</description>
   </item>
   <item>
-    <title>意味知識が小学生の若年児と高年児のエピソード記憶に及ぼす影響</title>
+    <title>意味知識が小学生の若年児および高年児のエピソード記憶に与える影響</title>
     <link>https://osf.io/pmbfq</link>
     <guid isPermaLink="false">https://osf.io/pmbfq#ja</guid>
     <pubDate>Mon, 05 Jan 2026 11:15:57 +0000</pubDate>
     <description>How semantic knowledge influences episodic memories in younger and older primary-school-aged children</description>
   </item>
   <item>
-    <title>社会的文脈における乳児の驚きの解明：生理学的・行動的・表情的指標の多次元分析</title>
+    <title>社会的文脈における乳児の驚きの解明：生理的指標、行動、表情の多次元分析</title>
     <link>https://osf.io/kshw3</link>
     <guid isPermaLink="false">https://osf.io/kshw3#ja</guid>
     <pubDate>Mon, 05 Jan 2026 11:15:57 +0000</pubDate>
     <description>Unveiling Infant Surprise in a Social Context: A Multidimensional Analysis of Physiological, Behavioural, and Facial Expression Markers.</description>
   </item>
   <item>
-    <title>マリオカート効果 ― 連続制御における主体感の指標としての混乱</title>
+    <title>マリオカート効果－連続制御における主体感の指標としての混乱</title>
     <link>https://osf.io/86jxc</link>
     <guid isPermaLink="false">https://osf.io/86jxc#ja</guid>
     <pubDate>Mon, 05 Jan 2026 11:15:57 +0000</pubDate>
@@ -230,7 +230,7 @@
     <description>Power priors for latent variable mediation models under small sample sizes.</description>
   </item>
   <item>
-    <title>ベイズ潜在変数モデルにおける符号反射処理手法の評価</title>
+    <title>ベイズ潜在変数モデルにおける符号反転処理手法の評価</title>
     <link>https://osf.io/hw5jx</link>
     <guid isPermaLink="false">https://osf.io/hw5jx#ja</guid>
     <pubDate>Mon, 05 Jan 2026 08:27:24 +0000</pubDate>
@@ -251,7 +251,7 @@
     <description>Developing policy implications from research findings: a brief tutorial</description>
   </item>
   <item>
-    <title>握力と認知機能の将来的関連性増加に関する説得力のある証拠は依然として存在しない：張らの研究（2026年）に対するシミュレーション再解析と考察</title>
+    <title>握力と認知機能の将来的関連性増加に関する説得力のある証拠は依然として不十分である：張らら（2026）へのシミュレーション再解析とコメント</title>
     <link>https://osf.io/4hm5s</link>
     <guid isPermaLink="false">https://osf.io/4hm5s#ja</guid>
     <pubDate>Sun, 04 Jan 2026 17:13:57 +0000</pubDate>
@@ -272,7 +272,7 @@
     <description>The Art of Making Problems Simple: A Theory of Intelligence</description>
   </item>
   <item>
-    <title>分析手法が欺瞞検出結果に与える影響：生データ割合とシグナル検出理論指標の比較</title>
+    <title>分析手法が欺瞞検出結果に与える影響：生データ割合と信号検出理論指標の比較</title>
     <link>https://osf.io/jd7k8</link>
     <guid isPermaLink="false">https://osf.io/jd7k8#ja</guid>
     <pubDate>Sat, 03 Jan 2026 12:32:30 +0000</pubDate>
