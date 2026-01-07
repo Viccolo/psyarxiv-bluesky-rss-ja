@@ -6,6 +6,20 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>時間の感情的体験：不安と内受容感覚能力が時間知覚に及ぼす影響</title>
+    <link>https://osf.io/8276x</link>
+    <guid isPermaLink="false">https://osf.io/8276x#ja</guid>
+    <pubDate>Wed, 07 Jan 2026 14:48:39 +0000</pubDate>
+    <description>The emotional experience of time: Effects of anxiety and interoceptive ability on temporal perception</description>
+  </item>
+  <item>
+    <title>エージェントの到来：精神医学、心理療法およびカウンセリングにおける言語ベースAIシステムの5段階分類法</title>
+    <link>https://osf.io/wrejx</link>
+    <guid isPermaLink="false">https://osf.io/wrejx#ja</guid>
+    <pubDate>Wed, 07 Jan 2026 14:48:38 +0000</pubDate>
+    <description>Agents are coming: A 5-Step Taxonomy of language-based AI-Systems for Psychiatry, Psychotherapy and Counselling</description>
+  </item>
+  <item>
     <title>大規模言語モデルによる未来自己物語からの自殺念慮予測</title>
     <link>https://osf.io/fhzum</link>
     <guid isPermaLink="false">https://osf.io/fhzum#ja</guid>
@@ -34,7 +48,7 @@
     <description>Exploring the predictive value of different affect dynamics for psychological treatment outcome</description>
   </item>
   <item>
-    <title>運動系神経変性疾患における口腔栄養行動に関連する要因：系統的レビュー</title>
+    <title>運動系神経変性疾患における経口栄養行動に関連する要因：系統的レビュー</title>
     <link>https://osf.io/crvnq</link>
     <guid isPermaLink="false">https://osf.io/crvnq#ja</guid>
     <pubDate>Wed, 07 Jan 2026 11:16:49 +0000</pubDate>
@@ -48,7 +62,7 @@
     <description>Service development needs to promote caregiver empowerment for families raising children with developmental disabilities in Ethiopia and Argentina A qualitative comparative analysis</description>
   </item>
   <item>
-    <title>報酬が注意優先マップに及ぼす古典的効果の対照的検討：空間特異的報酬信号の注意ゲーティングに関する行動的証拠</title>
+    <title>報酬が注意優先マップに及ぼす古典的効果の対照比較：空間特異的報酬信号の注意ゲーティングに関する行動的証拠</title>
     <link>https://osf.io/zgkj8</link>
     <guid isPermaLink="false">https://osf.io/zgkj8#ja</guid>
     <pubDate>Tue, 06 Jan 2026 22:17:07 +0000</pubDate>
@@ -90,7 +104,7 @@
     <description>Understanding how context impacts on advocacy for and the inclusion of children with developmental disabilities in education in Ethiopia and Argentina: a qualitative comparative study</description>
   </item>
   <item>
-    <title>薬物使用歴のある人々を対象としたAI駆動型公衆衛生キャンペーンメッセージのオンライン無作為化パイロット評価</title>
+    <title>薬物使用歴を有する人々を対象としたAI駆動型公衆衛生キャンペーンメッセージのオンライン無作為化パイロット評価</title>
     <link>https://osf.io/9d6tm</link>
     <guid isPermaLink="false">https://osf.io/9d6tm#ja</guid>
     <pubDate>Tue, 06 Jan 2026 22:17:06 +0000</pubDate>
@@ -125,7 +139,7 @@
     <description>Inconclusive mutually reinforcing effects between associative learning and fluid intelligence: Simulated reanalyses and a comment on Ren et al. (2026)</description>
   </item>
   <item>
-    <title>メンタライジングが生物運動からの感情推論に与える影響</title>
+    <title>メンタライジングが生物運動からの情動推論に与える影響</title>
     <link>https://osf.io/58m9p</link>
     <guid isPermaLink="false">https://osf.io/58m9p#ja</guid>
     <pubDate>Tue, 06 Jan 2026 20:19:33 +0000</pubDate>
@@ -139,7 +153,7 @@
     <description>A comparison of supervised machine learning models and large language models in predicting personality traits and cognitive ability from asynchronous video interviews</description>
   </item>
   <item>
-    <title>抽象的核心知識が文化的魅力の基盤を形成する可能性：ロマンチックなキスを事例として</title>
+    <title>抽象的な核心知識が文化的魅力の基盤を形成する可能性：ロマンチックなキスを事例として</title>
     <link>https://osf.io/3r5js</link>
     <guid isPermaLink="false">https://osf.io/3r5js#ja</guid>
     <pubDate>Tue, 06 Jan 2026 20:19:32 +0000</pubDate>
@@ -160,7 +174,7 @@
     <description>Harmful Healing: Iatrogenic Fragility in Psychological Safety Interventions</description>
   </item>
   <item>
-    <title>リズムが騒音下音声課題における音声知覚と神経追跡に及ぼす影響</title>
+    <title>リズムが雑音下音声課題における音声知覚と神経追跡に及ぼす影響</title>
     <link>https://osf.io/h7duq</link>
     <guid isPermaLink="false">https://osf.io/h7duq#ja</guid>
     <pubDate>Tue, 06 Jan 2026 16:22:50 +0000</pubDate>
@@ -188,7 +202,7 @@
     <description>New Approaches for the Measurement of Pain-Specific and Domain-General Approach and Avoidance Biases in Chronic Pain</description>
   </item>
   <item>
-    <title>短期日記からうつ病評価を行う大規模言語モデルの活用</title>
+    <title>短期日誌からうつ病評価を行う大規模言語モデルの活用</title>
     <link>https://osf.io/2qgmk</link>
     <guid isPermaLink="false">https://osf.io/2qgmk#ja</guid>
     <pubDate>Tue, 06 Jan 2026 15:44:37 +0000</pubDate>
@@ -209,28 +223,28 @@
     <description>Sticking to New Year’s Resolutions: Exploring Drivers of Behavior Change Maintenance</description>
   </item>
   <item>
-    <title>潜在意識から無意識へ：哲学的系譜、進化のパラドックス、無意識の起源の未来</title>
+    <title>潜在意識から無意識へ：哲学的系譜、進化のパラドックス、無意識起源の未来展望</title>
     <link>https://osf.io/5tzun</link>
     <guid isPermaLink="false">https://osf.io/5tzun#ja</guid>
     <pubDate>Tue, 06 Jan 2026 15:44:36 +0000</pubDate>
     <description>From Subliminality, to the Unconscious Mind: Philosophical Lineages, Evolutionary Paradoxes, and the Future of the Origins of the Unconscious</description>
   </item>
   <item>
-    <title>心理学出版における誤誘導的AIガイダンスの問題</title>
+    <title>心理学出版における誤解を招くAIガイダンス</title>
     <link>https://osf.io/k6cyt</link>
     <guid isPermaLink="false">https://osf.io/k6cyt#ja</guid>
     <pubDate>Tue, 06 Jan 2026 15:44:36 +0000</pubDate>
     <description>Misleading AI guidance in psychological publishing</description>
   </item>
   <item>
-    <title>不安症状の系統的レビューとメタアナリティック・ガウスネットワーク統合解析</title>
+    <title>不安症状の系統的レビューとメタアナリティックガウスネットワーク統合分析</title>
     <link>https://osf.io/cvqd6</link>
     <guid isPermaLink="false">https://osf.io/cvqd6#ja</guid>
     <pubDate>Tue, 06 Jan 2026 15:18:54 +0000</pubDate>
     <description>A Systematic Review and Meta-Analytic Gaussian Network Aggregation of Anxious Symptoms</description>
   </item>
   <item>
-    <title>聴覚および視覚注意の領域的局在：fMRIメタアナリシスによる検討</title>
+    <title>聴覚および視覚注意の領域的トポグラフィー：fMRIメタアナリシスによる検討</title>
     <link>https://osf.io/r26n8</link>
     <guid isPermaLink="false">https://osf.io/r26n8#ja</guid>
     <pubDate>Tue, 06 Jan 2026 11:15:37 +0000</pubDate>
