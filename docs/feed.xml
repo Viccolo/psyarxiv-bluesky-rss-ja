@@ -6,21 +6,21 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>時間の感情的体験：不安と内受容能力が時間知覚に及ぼす影響</title>
+    <title>時間の感情的体験：不安と内受容感覚能力が時間知覚に及ぼす影響</title>
     <link>https://osf.io/8276x</link>
     <guid isPermaLink="false">https://osf.io/8276x#ja</guid>
     <pubDate>Wed, 07 Jan 2026 14:48:39 +0000</pubDate>
     <description>The emotional experience of time: Effects of anxiety and interoceptive ability on temporal perception</description>
   </item>
   <item>
-    <title>エージェントの到来：精神医学・心理療法・カウンセリングにおける言語ベースAIシステムの5段階分類</title>
+    <title>エージェントの到来：精神医学・心理療法・カウンセリングにおける言語ベースAIシステムの5段階分類法</title>
     <link>https://osf.io/wrejx</link>
     <guid isPermaLink="false">https://osf.io/wrejx#ja</guid>
     <pubDate>Wed, 07 Jan 2026 14:48:38 +0000</pubDate>
     <description>Agents are coming: A 5-Step Taxonomy of language-based AI-Systems for Psychiatry, Psychotherapy and Counselling</description>
   </item>
   <item>
-    <title>大規模言語モデルによる未来自己語りからの自殺念慮予測</title>
+    <title>大規模言語モデルによる未来自己物語からの自殺念慮予測</title>
     <link>https://osf.io/fhzum</link>
     <guid isPermaLink="false">https://osf.io/fhzum#ja</guid>
     <pubDate>Wed, 07 Jan 2026 14:20:25 +0000</pubDate>
@@ -34,7 +34,7 @@
     <description>Fast uncertainty quantification in EZ cognitive models</description>
   </item>
   <item>
-    <title>身体が孤独を感じるとき：孤独感における内受容感覚と前頭前野の関連性</title>
+    <title>身体が孤独を感じるとき：内受容感覚と孤独感に関連する前頭前野の神経基盤</title>
     <link>https://osf.io/ghyxe</link>
     <guid isPermaLink="false">https://osf.io/ghyxe#ja</guid>
     <pubDate>Wed, 07 Jan 2026 14:20:24 +0000</pubDate>
@@ -55,21 +55,21 @@
     <description>Factors associated with oral nutritional behaviours in  Neurodegenerative Disorders of the motor system: A systematic review</description>
   </item>
   <item>
-    <title>エチオピアおよびアルゼンチンにおける発達障害児を育てる家族の介護者エンパワーメント促進に向けたサービス開発の必要性―質的比較分析</title>
+    <title>エチオピアおよびアルゼンチンにおける発達障害児を育てる家族の介護者エンパワーメント促進を目的としたサービス開発に関する質的比較分析</title>
     <link>https://osf.io/rxjk8</link>
     <guid isPermaLink="false">https://osf.io/rxjk8#ja</guid>
     <pubDate>Tue, 06 Jan 2026 22:17:08 +0000</pubDate>
     <description>Service development needs to promote caregiver empowerment for families raising children with developmental disabilities in Ethiopia and Argentina A qualitative comparative analysis</description>
   </item>
   <item>
-    <title>報酬が注意優先マップに及ぼす古典的効果の対照的検討：空間特異的報酬信号の注意ゲーティングに関する行動的証拠</title>
+    <title>報酬が注意優先マップに及ぼす古典的効果の対照：空間特異的報酬信号の注意ゲーティングに関する行動的証拠</title>
     <link>https://osf.io/zgkj8</link>
     <guid isPermaLink="false">https://osf.io/zgkj8#ja</guid>
     <pubDate>Tue, 06 Jan 2026 22:17:07 +0000</pubDate>
     <description>Contrasting the classic effect of reward on attentional priority maps:  Behavioral evidence for an attentional gating of spatially-specific reward signals</description>
   </item>
   <item>
-    <title>フィラデルフィアの薬物使用者におけるソーシャルメディアからの行動可能なHIV/HCVおよび薬物使用治療メッセージのAI支援による個別化</title>
+    <title>フィラデルフィアの薬物使用者におけるソーシャルメディアからの実践的HIV/HCVおよび薬物使用治療メッセージのAI支援による個別最適化</title>
     <link>https://osf.io/a257u</link>
     <guid isPermaLink="false">https://osf.io/a257u#ja</guid>
     <pubDate>Tue, 06 Jan 2026 22:17:07 +0000</pubDate>
@@ -97,21 +97,21 @@
     <description>Functional Building Blocks for Neural Computation</description>
   </item>
   <item>
-    <title>エチオピアとアルゼンチンにおける発達障害児の教育参加促進と包摂に対する文脈の影響の理解：質的比較研究</title>
+    <title>エチオピアとアルゼンチンにおける発達障害児の教育参加促進と包摂に対する文脈の影響：質的比較研究</title>
     <link>https://osf.io/sb7k8</link>
     <guid isPermaLink="false">https://osf.io/sb7k8#ja</guid>
     <pubDate>Tue, 06 Jan 2026 22:17:06 +0000</pubDate>
     <description>Understanding how context impacts on advocacy for and the inclusion of children with developmental disabilities in education in Ethiopia and Argentina: a qualitative comparative study</description>
   </item>
   <item>
-    <title>薬物使用歴のある人々を対象としたAI駆動型公衆衛生キャンペーンメッセージのオンライン無作為化パイロット評価</title>
+    <title>薬物使用歴を有する人々を対象としたAI駆動型公衆衛生キャンペーンメッセージのオンライン無作為化パイロット評価</title>
     <link>https://osf.io/9d6tm</link>
     <guid isPermaLink="false">https://osf.io/9d6tm#ja</guid>
     <pubDate>Tue, 06 Jan 2026 22:17:06 +0000</pubDate>
     <description>An Online Randomized Pilot Evaluation of AI-Driven Public Health Campaign Messages among People with a History of Drug Use</description>
   </item>
   <item>
-    <title>ヌンゴン語における引き寄せ効果が示す一致標識と切替参照標識の独立したメカニズム</title>
+    <title>ヌンゴン語における魅力効果が示す一致標識と切替参照標識の独立したメカニズム</title>
     <link>https://osf.io/qvybp</link>
     <guid isPermaLink="false">https://osf.io/qvybp#ja</guid>
     <pubDate>Tue, 06 Jan 2026 21:41:15 +0000</pubDate>
@@ -139,14 +139,14 @@
     <description>Inconclusive mutually reinforcing effects between associative learning and fluid intelligence: Simulated reanalyses and a comment on Ren et al. (2026)</description>
   </item>
   <item>
-    <title>メンタライジングが生物運動からの感情推論に与える影響</title>
+    <title>メンタライジングが生物運動からの情動推論に与える影響</title>
     <link>https://osf.io/58m9p</link>
     <guid isPermaLink="false">https://osf.io/58m9p#ja</guid>
     <pubDate>Tue, 06 Jan 2026 20:19:33 +0000</pubDate>
     <description>Mentalizing Shapes Affective Inference from Biological Motion</description>
   </item>
   <item>
-    <title>非同期ビデオ面接からの性格特性および認知能力予測における教師あり機械学習モデルと大規模言語モデルの比較</title>
+    <title>非同期ビデオ面接における性格特性および認知能力予測における教師あり機械学習モデルと大規模言語モデルの比較検討</title>
     <link>https://osf.io/2xdfz</link>
     <guid isPermaLink="false">https://osf.io/2xdfz#ja</guid>
     <pubDate>Tue, 06 Jan 2026 20:19:32 +0000</pubDate>
@@ -160,21 +160,21 @@
     <description>Abstract core knowledge may shape the basins of cultural attraction: romantic kissing as a case study</description>
   </item>
   <item>
-    <title>ボランティア活動の体験的特徴が大学生の社会的・情動的・行動的スキルの変化を予測する</title>
+    <title>ボランティア経験の特徴が大学生の社会的・情動的・行動的スキルの変化を予測する</title>
     <link>https://osf.io/8ep3k</link>
     <guid isPermaLink="false">https://osf.io/8ep3k#ja</guid>
     <pubDate>Tue, 06 Jan 2026 17:45:46 +0000</pubDate>
     <description>Experiential Features of Volunteering Predict Changes in College Students’ Social, Emotional, and Behavioral Skills</description>
   </item>
   <item>
-    <title>有害な治癒：心理的安全性介入における医原性の脆弱性</title>
+    <title>有害な癒し：心理的安全性介入における医原性脆弱性</title>
     <link>https://osf.io/yp85j</link>
     <guid isPermaLink="false">https://osf.io/yp85j#ja</guid>
     <pubDate>Tue, 06 Jan 2026 17:20:11 +0000</pubDate>
     <description>Harmful Healing: Iatrogenic Fragility in Psychological Safety Interventions</description>
   </item>
   <item>
-    <title>リズムが雑音下音声課題における音声の知覚と神経追跡に及ぼす影響</title>
+    <title>リズムが騒音下音声課題における音声の知覚と神経追跡に及ぼす影響</title>
     <link>https://osf.io/h7duq</link>
     <guid isPermaLink="false">https://osf.io/h7duq#ja</guid>
     <pubDate>Tue, 06 Jan 2026 16:22:50 +0000</pubDate>
@@ -195,7 +195,7 @@
     <description>Self-Efficacy Predicts Differential Neuroticism Change in a Smartphone-Based Intervention</description>
   </item>
   <item>
-    <title>慢性疼痛における疼痛特異的および領域一般的接近・回避バイアスの新たな測定手法</title>
+    <title>慢性疼痛における痛み特異的および領域一般的接近・回避バイアスの新たな測定手法</title>
     <link>https://osf.io/9ydhm</link>
     <guid isPermaLink="false">https://osf.io/9ydhm#ja</guid>
     <pubDate>Tue, 06 Jan 2026 16:22:49 +0000</pubDate>
@@ -223,7 +223,7 @@
     <description>Sticking to New Year’s Resolutions: Exploring Drivers of Behavior Change Maintenance</description>
   </item>
   <item>
-    <title>潜在意識から無意識へ：哲学的系譜、進化の逆説、そして無意識の起源の未来</title>
+    <title>潜在意識から無意識へ：哲学的系譜、進化のパラドックス、無意識起源の未来展望</title>
     <link>https://osf.io/5tzun</link>
     <guid isPermaLink="false">https://osf.io/5tzun#ja</guid>
     <pubDate>Tue, 06 Jan 2026 15:44:36 +0000</pubDate>
@@ -237,14 +237,14 @@
     <description>Misleading AI guidance in psychological publishing</description>
   </item>
   <item>
-    <title>不安症状の系統的レビューとメタアナリティック・ガウスネットワーク統合分析</title>
+    <title>不安症状の系統的レビューとメタアナリティックガウスネットワーク統合解析</title>
     <link>https://osf.io/cvqd6</link>
     <guid isPermaLink="false">https://osf.io/cvqd6#ja</guid>
     <pubDate>Tue, 06 Jan 2026 15:18:54 +0000</pubDate>
     <description>A Systematic Review and Meta-Analytic Gaussian Network Aggregation of Anxious Symptoms</description>
   </item>
   <item>
-    <title>聴覚および視覚注意の領域的トポグラフィー：fMRIメタアナリシスによる検討</title>
+    <title>聴覚および視覚注意の領域的局在：fMRIメタアナリシスによる検討</title>
     <link>https://osf.io/r26n8</link>
     <guid isPermaLink="false">https://osf.io/r26n8#ja</guid>
     <pubDate>Tue, 06 Jan 2026 11:15:37 +0000</pubDate>
@@ -258,7 +258,7 @@
     <description>Improving the measurement of knowledge in multiple-choice tests: A hierarchical multinomial processing tree approach</description>
   </item>
   <item>
-    <title>親になる過程における普遍的なカップル支援型予防介入が家族解体に与える影響</title>
+    <title>親への移行期における普遍的なカップル中心予防介入が家族解体に与える影響</title>
     <link>https://osf.io/jxfu9</link>
     <guid isPermaLink="false">https://osf.io/jxfu9#ja</guid>
     <pubDate>Tue, 06 Jan 2026 10:48:21 +0000</pubDate>
@@ -272,7 +272,7 @@
     <description>A Resource-Rational Mechanism for Reading</description>
   </item>
   <item>
-    <title>主観的社会経済的地位の操作とその下流（非）効果：拡張を加えた二つの直接再現研究</title>
+    <title>主観的社会経済的地位の操作とその下流における（非）効果：拡張を加えた2つの直接的再現研究</title>
     <link>https://osf.io/n86rt</link>
     <guid isPermaLink="false">https://osf.io/n86rt#ja</guid>
     <pubDate>Mon, 05 Jan 2026 22:17:11 +0000</pubDate>
@@ -286,14 +286,14 @@
     <description>Distinct roles of anterior cingulate and subcortical regions supporting effort evaluation versus preparation</description>
   </item>
   <item>
-    <title>有声巻き舌音/r/は話し言葉の語彙における音響的粗さと関連する</title>
+    <title>有声巻き舌音/r/は話し言葉語彙における音響的粗さと関連する</title>
     <link>https://osf.io/s4etj</link>
     <guid isPermaLink="false">https://osf.io/s4etj#ja</guid>
     <pubDate>Mon, 05 Jan 2026 18:55:17 +0000</pubDate>
     <description>Trilled /r/ is associated with textural roughness in the vocabularies of spoken languages</description>
   </item>
   <item>
-    <title>党派性の起源の探究：子どもが自己の内集団の主張を優先的に支持する動機とは何か？</title>
+    <title>党派性の起源に関する検討：子どもが自群の主張を優先的に支持する動機とは何か？</title>
     <link>https://osf.io/gf38p</link>
     <guid isPermaLink="false">https://osf.io/gf38p#ja</guid>
     <pubDate>Mon, 05 Jan 2026 18:55:16 +0000</pubDate>
