@@ -6,7 +6,42 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>操作的ドリフト：自然回復研究における検証済み疲労誘発の欠如がもたらす問題</title>
+    <title>ブラジルにおける道徳性協力性質問票の異文化妥当性検証</title>
+    <link>https://osf.io/4f3jz</link>
+    <guid isPermaLink="false">https://osf.io/4f3jz#ja</guid>
+    <pubDate>Thu, 08 Jan 2026 19:16:18 +0000</pubDate>
+    <description>Cross-Cultural Validation of the Morality-as-Cooperation Questionnaire in Brazil</description>
+  </item>
+  <item>
+    <title>軍人および退役軍人夫婦に対する家族強化プログラムの効果は必ずしも高いわけではない</title>
+    <link>https://osf.io/e3syp</link>
+    <guid isPermaLink="false">https://osf.io/e3syp#ja</guid>
+    <pubDate>Thu, 08 Jan 2026 19:16:17 +0000</pubDate>
+    <description>Family Strengthening Programming is not Inherently More Effective for Military or Veteran Couples</description>
+  </item>
+  <item>
+    <title>リスク選好の個人差：選択効果と社会化効果の検討</title>
+    <link>https://osf.io/ry39z</link>
+    <guid isPermaLink="false">https://osf.io/ry39z#ja</guid>
+    <pubDate>Thu, 08 Jan 2026 19:16:17 +0000</pubDate>
+    <description>Individual Differences in Risk Preference: Selection and Socialization Effects</description>
+  </item>
+  <item>
+    <title>組織研究における複数共変量の測定不変性の検討：探索的因子分析および確証的因子分析ツリーの活用</title>
+    <link>https://osf.io/mkynf</link>
+    <guid isPermaLink="false">https://osf.io/mkynf#ja</guid>
+    <pubDate>Thu, 08 Jan 2026 19:16:16 +0000</pubDate>
+    <description>Investigating Measurement Invariance for Multiple Covariates in Organizational Research using EFA and CFA Trees</description>
+  </item>
+  <item>
+    <title>スポーツにおけるヒューマンエラーの一般的分類システム：何が問題を引き起こすのか？</title>
+    <link>https://osf.io/8qg7v</link>
+    <guid isPermaLink="false">https://osf.io/8qg7v#ja</guid>
+    <pubDate>Thu, 08 Jan 2026 19:16:16 +0000</pubDate>
+    <description>What can Possibly Go Wrong? A Generic Classification System for Human Error in Sports</description>
+  </item>
+  <item>
+    <title>操作的ドリフト：自然回復研究における検証済み疲労誘発の欠如がもたらす課題</title>
     <link>https://osf.io/mrxkf</link>
     <guid isPermaLink="false">https://osf.io/mrxkf#ja</guid>
     <pubDate>Thu, 08 Jan 2026 17:50:19 +0000</pubDate>
@@ -34,7 +69,7 @@
     <description>Deaf Signers Exhibit White-Matter Alterations in Right-Hemispheric Language Pathways</description>
   </item>
   <item>
-    <title>美術館と実験室における芸術鑑賞の差異：原画とデジタル複製による現象的芸術体験の比較研究</title>
+    <title>美術館と実験室における芸術鑑賞の違いはあるか：原画とデジタル複製における現象的芸術体験の比較研究</title>
     <link>https://osf.io/g9w8y</link>
     <guid isPermaLink="false">https://osf.io/g9w8y#ja</guid>
     <pubDate>Thu, 08 Jan 2026 17:23:51 +0000</pubDate>
@@ -48,7 +83,7 @@
     <description>CHRONOS: A brief assessment of temporal processing aspects</description>
   </item>
   <item>
-    <title>タイミングの重要性：自閉症スペクトラムの思春期青年が語る早期診断の意義</title>
+    <title>適切なタイミングの重要性：自閉症スペクトラムの思春期青年が語る早期診断の意義</title>
     <link>https://osf.io/y5dta</link>
     <guid isPermaLink="false">https://osf.io/y5dta#ja</guid>
     <pubDate>Thu, 08 Jan 2026 17:23:50 +0000</pubDate>
@@ -62,7 +97,7 @@
     <description>Enhancing student math achievement through a digital wellbeing training for educators</description>
   </item>
   <item>
-    <title>人工知能に対する態度の予測における人格特性、持続可能性への態度、世代継承への関心、人口統計学的要因、経済的安定性および親子関係の役割の検討</title>
+    <title>人工知能に対する態度の予測におけるパーソナリティ特性、持続可能性への態度、世代継承への関心、人口統計、経済的安定性および親子関係の役割の検討</title>
     <link>https://osf.io/526ma</link>
     <guid isPermaLink="false">https://osf.io/526ma#ja</guid>
     <pubDate>Thu, 08 Jan 2026 17:23:50 +0000</pubDate>
@@ -90,7 +125,7 @@
     <description>Empirically sufficient symptom sets as a path to validity and utility for  HiTOP and RDoC: A commentary on Fisher</description>
   </item>
   <item>
-    <title>因果メカニズム情報による事前因果信念の操作が結果頻度バイアスに与える影響</title>
+    <title>因果メカニズム情報による事前因果信念の操作が結果密度バイアスに及ぼす影響</title>
     <link>https://osf.io/bqmjy</link>
     <guid isPermaLink="false">https://osf.io/bqmjy#ja</guid>
     <pubDate>Thu, 08 Jan 2026 17:23:48 +0000</pubDate>
@@ -125,7 +160,7 @@
     <description>The Embodied Octopus: Distributed Intelligence and Active Inference in a Flexible Body</description>
   </item>
   <item>
-    <title>子ども・青少年向けオンラインメンタルヘルスコンテンツの設計：エビデンスの迅速レビュー</title>
+    <title>子ども・青年向けオンラインメンタルヘルスコンテンツの設計：エビデンスの迅速レビュー</title>
     <link>https://osf.io/4j7bt</link>
     <guid isPermaLink="false">https://osf.io/4j7bt#ja</guid>
     <pubDate>Thu, 08 Jan 2026 17:23:47 +0000</pubDate>
@@ -146,7 +181,7 @@
     <description>Le nudge : miracle ou mirage ?  Le regard de la psychologie sociale et des sciences du comportement</description>
   </item>
   <item>
-    <title>非流暢性失語を呈するカラリスート語話者における半自発的発話の研究</title>
+    <title>非流暢性失語を呈するカラリスート語（西グリーンランド語）話者における半自発的発話</title>
     <link>https://osf.io/jhkwg</link>
     <guid isPermaLink="false">https://osf.io/jhkwg#ja</guid>
     <pubDate>Thu, 08 Jan 2026 16:55:22 +0000</pubDate>
@@ -160,21 +195,21 @@
     <description>Panel Suisse LGBTIQ+ – Rapport de Synthèse 2025</description>
   </item>
   <item>
-    <title>スイスLGBTIQ+パネル報告書2025年総括</title>
+    <title>スイスLGBTIQ+パネル報告書 2025年総括</title>
     <link>https://osf.io/bkpn9</link>
     <guid isPermaLink="false">https://osf.io/bkpn9#ja</guid>
     <pubDate>Thu, 08 Jan 2026 16:55:22 +0000</pubDate>
     <description>Panel Svizzero LGBTIQ+ - Rapporto di sintesi 2025.</description>
   </item>
   <item>
-    <title>自己投影には時間的方向性があるか？九か国における過去の自己よりも未来の自己に類似性を感じる傾向</title>
+    <title>自己投影には時間的方向性があるか？九か国における未来自己への類似感の優位性</title>
     <link>https://osf.io/jp2ks</link>
     <guid isPermaLink="false">https://osf.io/jp2ks#ja</guid>
     <pubDate>Thu, 08 Jan 2026 16:55:21 +0000</pubDate>
     <description>Does self-projection have a temporal direction? In nine countries, people feel more similar to their future than past selves</description>
   </item>
   <item>
-    <title>学校内外の支援を統合した青少年のメンタルヘルス支援：解放的デザイン思考アプローチ</title>
+    <title>学校内外の支援を統合した青少年メンタルヘルス支援：解放的デザイン思考アプローチ</title>
     <link>https://osf.io/kz9j3</link>
     <guid isPermaLink="false">https://osf.io/kz9j3#ja</guid>
     <pubDate>Thu, 08 Jan 2026 16:55:21 +0000</pubDate>
@@ -202,14 +237,14 @@
     <description>Relational memory structure among prior neutral episodes guides Pavlovian threat responses</description>
   </item>
   <item>
-    <title>社会的賢者：中期児童期に出現する独自の社会的地位としての人気</title>
+    <title>社会的賢者：中間児童期に出現する独自の社会的地位としての人気</title>
     <link>https://osf.io/esypr</link>
     <guid isPermaLink="false">https://osf.io/esypr#ja</guid>
     <pubDate>Thu, 08 Jan 2026 16:24:26 +0000</pubDate>
     <description>Social sages: Popularity as a distinct form of social status emerging in middle childhood</description>
   </item>
   <item>
-    <title>経験の浅い読者と熟練読者におけるクロスモーダル意味文脈効果</title>
+    <title>経験の浅い読者と熟練読者における異感覚間意味文脈効果</title>
     <link>https://osf.io/76x9m</link>
     <guid isPermaLink="false">https://osf.io/76x9m#ja</guid>
     <pubDate>Thu, 08 Jan 2026 16:24:26 +0000</pubDate>
@@ -223,7 +258,7 @@
     <description>Association Between Screen Time and Sleep: An Online Survey</description>
   </item>
   <item>
-    <title>学術会議の組織化における文化進化的アプローチ</title>
+    <title>学術会議の組織化に関する文化進化的アプローチ</title>
     <link>https://osf.io/86as9</link>
     <guid isPermaLink="false">https://osf.io/86as9#ja</guid>
     <pubDate>Thu, 08 Jan 2026 16:24:25 +0000</pubDate>
@@ -237,7 +272,7 @@
     <description>Interpretation biases in daily life – Do mood, interpretation biases, and depressive symptoms go hand in hand?</description>
   </item>
   <item>
-    <title>三項課題による複雑な信念構造の評価：信頼性と妥当性</title>
+    <title>三項課題による複雑な信念構造の評価：信頼性と妥当性の検証</title>
     <link>https://osf.io/7kmfq</link>
     <guid isPermaLink="false">https://osf.io/7kmfq#ja</guid>
     <pubDate>Thu, 08 Jan 2026 16:24:24 +0000</pubDate>
@@ -258,7 +293,7 @@
     <description>Assessing complex belief structures with the triads task: Reliability and validity</description>
   </item>
   <item>
-    <title>数学における自己概念、興味、コスト、成績の縦断的相互作用－ランダム切片交差遅延パネルモデルによる検討</title>
+    <title>数学自己概念、興味、コストおよび成績の縦断的相互作用－ランダム切片交差遅延パネルモデルによる検討</title>
     <link>https://osf.io/w9v2t</link>
     <guid isPermaLink="false">https://osf.io/w9v2t#ja</guid>
     <pubDate>Wed, 07 Jan 2026 18:55:59 +0000</pubDate>
@@ -279,60 +314,18 @@
     <description>Mapping Psychological (In)Flexibility in U.S. Military Veterans: A Directed Acyclic Graph Approach to the Hexaflex Model</description>
   </item>
   <item>
-    <title>自己評価と職業経験の相互影響：二つの縦断研究の再解析</title>
+    <title>自尊感情と職務経験の相互影響：二つの縦断研究の再解析</title>
     <link>https://osf.io/2yfkr</link>
     <guid isPermaLink="false">https://osf.io/2yfkr#ja</guid>
     <pubDate>Wed, 07 Jan 2026 18:26:38 +0000</pubDate>
     <description>Reciprocal Effects Between Self-Esteem and Work Experiences: A Reanalysis of Two Longitudinal Studies</description>
   </item>
   <item>
-    <title>時間の感情的体験：不安と内受容感覚能力が時間知覚に及ぼす影響</title>
+    <title>時間の感情的体験：不安と内受容能力が時間知覚に及ぼす影響</title>
     <link>https://osf.io/8276x</link>
     <guid isPermaLink="false">https://osf.io/8276x#ja</guid>
     <pubDate>Wed, 07 Jan 2026 14:48:39 +0000</pubDate>
     <description>The emotional experience of time: Effects of anxiety and interoceptive ability on temporal perception</description>
-  </item>
-  <item>
-    <title>エージェントの到来：精神医学、心理療法およびカウンセリングにおける言語ベースAIシステムの5段階分類</title>
-    <link>https://osf.io/wrejx</link>
-    <guid isPermaLink="false">https://osf.io/wrejx#ja</guid>
-    <pubDate>Wed, 07 Jan 2026 14:48:38 +0000</pubDate>
-    <description>Agents are coming: A 5-Step Taxonomy of language-based AI-Systems for Psychiatry, Psychotherapy and Counselling</description>
-  </item>
-  <item>
-    <title>大規模言語モデルによる未来自己物語からの自殺念慮予測</title>
-    <link>https://osf.io/fhzum</link>
-    <guid isPermaLink="false">https://osf.io/fhzum#ja</guid>
-    <pubDate>Wed, 07 Jan 2026 14:20:25 +0000</pubDate>
-    <description>Large Language Models Can Forecast Suicidal Ideation From Future Self-Narratives</description>
-  </item>
-  <item>
-    <title>EZ認知モデルにおける高速不確実性定量化</title>
-    <link>https://osf.io/dut64</link>
-    <guid isPermaLink="false">https://osf.io/dut64#ja</guid>
-    <pubDate>Wed, 07 Jan 2026 14:20:24 +0000</pubDate>
-    <description>Fast uncertainty quantification in EZ cognitive models</description>
-  </item>
-  <item>
-    <title>身体が孤独を感じるとき：内受容感覚と孤独感に関連する前頭前野の神経基盤</title>
-    <link>https://osf.io/ghyxe</link>
-    <guid isPermaLink="false">https://osf.io/ghyxe#ja</guid>
-    <pubDate>Wed, 07 Jan 2026 14:20:24 +0000</pubDate>
-    <description>When the Body Feels Alone: Interoceptive Sensibility and Prefrontal Correlates of Loneliness</description>
-  </item>
-  <item>
-    <title>異なる感情動態が心理療法の治療成果に及ぼす予測的価値の検討</title>
-    <link>https://osf.io/3r9q6</link>
-    <guid isPermaLink="false">https://osf.io/3r9q6#ja</guid>
-    <pubDate>Wed, 07 Jan 2026 12:37:22 +0000</pubDate>
-    <description>Exploring the predictive value of different affect dynamics for psychological treatment outcome</description>
-  </item>
-  <item>
-    <title>運動系神経変性疾患における口腔栄養行動に関連する要因：系統的レビュー</title>
-    <link>https://osf.io/crvnq</link>
-    <guid isPermaLink="false">https://osf.io/crvnq#ja</guid>
-    <pubDate>Wed, 07 Jan 2026 11:16:49 +0000</pubDate>
-    <description>Factors associated with oral nutritional behaviours in  Neurodegenerative Disorders of the motor system: A systematic review</description>
   </item>
 </channel>
 </rss>
