@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>数学における自己概念、興味、コストおよび成績の縦断的相互作用－ランダムインターセプト交差遅延パネルモデルによる検討</title>
+    <title>数学的自己概念、興味、コスト、および成績の縦断的相互作用－ランダム切片交差遅延パネルモデルによる検討</title>
     <link>https://osf.io/w9v2t</link>
     <guid isPermaLink="false">https://osf.io/w9v2t#ja</guid>
     <pubDate>Wed, 07 Jan 2026 18:55:59 +0000</pubDate>
@@ -27,7 +27,7 @@
     <description>Mapping Psychological (In)Flexibility in U.S. Military Veterans: A Directed Acyclic Graph Approach to the Hexaflex Model</description>
   </item>
   <item>
-    <title>自己肯定感と職業経験の相互影響：二つの縦断研究の再解析</title>
+    <title>自尊感情と職業経験の相互影響：二つの縦断研究の再解析</title>
     <link>https://osf.io/2yfkr</link>
     <guid isPermaLink="false">https://osf.io/2yfkr#ja</guid>
     <pubDate>Wed, 07 Jan 2026 18:26:38 +0000</pubDate>
@@ -41,7 +41,7 @@
     <description>The emotional experience of time: Effects of anxiety and interoceptive ability on temporal perception</description>
   </item>
   <item>
-    <title>エージェントの到来：精神医学・心理療法・カウンセリングにおける言語ベースAIシステムの5段階分類</title>
+    <title>エージェントの到来：精神医学、心理療法、カウンセリングにおける言語ベースAIシステムの5段階分類</title>
     <link>https://osf.io/wrejx</link>
     <guid isPermaLink="false">https://osf.io/wrejx#ja</guid>
     <pubDate>Wed, 07 Jan 2026 14:48:38 +0000</pubDate>
@@ -62,7 +62,7 @@
     <description>Fast uncertainty quantification in EZ cognitive models</description>
   </item>
   <item>
-    <title>身体が孤独を感じるとき：孤独感における内受容感覚と前頭前野の関連性</title>
+    <title>身体が孤独を感じるとき：内受容感覚と孤独感に関連する前頭前皮質の神経基盤</title>
     <link>https://osf.io/ghyxe</link>
     <guid isPermaLink="false">https://osf.io/ghyxe#ja</guid>
     <pubDate>Wed, 07 Jan 2026 14:20:24 +0000</pubDate>
@@ -76,35 +76,35 @@
     <description>Exploring the predictive value of different affect dynamics for psychological treatment outcome</description>
   </item>
   <item>
-    <title>運動系神経変性疾患における経口栄養行動に関連する要因：系統的レビュー</title>
+    <title>運動系神経変性疾患における口腔栄養行動に関連する要因：システマティックレビュー</title>
     <link>https://osf.io/crvnq</link>
     <guid isPermaLink="false">https://osf.io/crvnq#ja</guid>
     <pubDate>Wed, 07 Jan 2026 11:16:49 +0000</pubDate>
     <description>Factors associated with oral nutritional behaviours in  Neurodegenerative Disorders of the motor system: A systematic review</description>
   </item>
   <item>
-    <title>エチオピアおよびアルゼンチンにおける発達障害児を育てる家族のケアギバーエンパワーメント促進を目的としたサービス開発に関する質的比較分析</title>
+    <title>エチオピアおよびアルゼンチンにおける発達障害児を育てる家族の介護者エンパワーメント促進を目的としたサービス開発：質的比較分析</title>
     <link>https://osf.io/rxjk8</link>
     <guid isPermaLink="false">https://osf.io/rxjk8#ja</guid>
     <pubDate>Tue, 06 Jan 2026 22:17:08 +0000</pubDate>
     <description>Service development needs to promote caregiver empowerment for families raising children with developmental disabilities in Ethiopia and Argentina A qualitative comparative analysis</description>
   </item>
   <item>
-    <title>報酬が注意優先マップに及ぼす古典的効果の対照的検討：空間特異的報酬信号の注意的ゲーティングに関する行動的証拠</title>
+    <title>報酬が注意優先マップに及ぼす古典的効果の対照的検討：空間特異的報酬信号の注意ゲーティングに関する行動的証拠</title>
     <link>https://osf.io/zgkj8</link>
     <guid isPermaLink="false">https://osf.io/zgkj8#ja</guid>
     <pubDate>Tue, 06 Jan 2026 22:17:07 +0000</pubDate>
     <description>Contrasting the classic effect of reward on attentional priority maps:  Behavioral evidence for an attentional gating of spatially-specific reward signals</description>
   </item>
   <item>
-    <title>フィラデルフィアの薬物使用者におけるソーシャルメディアからの実行可能なHIV/HCVおよび薬物使用治療メッセージのAI支援カスタマイズ</title>
+    <title>フィラデルフィアの薬物使用者におけるソーシャルメディアからの実践的HIV/HCVおよび薬物使用治療メッセージのAI支援による個別化</title>
     <link>https://osf.io/a257u</link>
     <guid isPermaLink="false">https://osf.io/a257u#ja</guid>
     <pubDate>Tue, 06 Jan 2026 22:17:07 +0000</pubDate>
     <description>An AI-Assisted Tailoring of Actionable HIV/HCV and Substance Use Treatment Messages from Social Media among People Who Use Drugs in Philadelphia</description>
   </item>
   <item>
-    <title>ドット配列刺激ツールボックス：非記号的数刺激の生成と解析のためのオープンソースソリューション</title>
+    <title>ドット配列刺激ツールボックス：非記号的数刺激の生成と分析のためのオープンソースソリューション</title>
     <link>https://osf.io/uhsv6</link>
     <guid isPermaLink="false">https://osf.io/uhsv6#ja</guid>
     <pubDate>Tue, 06 Jan 2026 22:17:07 +0000</pubDate>
@@ -125,7 +125,7 @@
     <description>Functional Building Blocks for Neural Computation</description>
   </item>
   <item>
-    <title>エチオピアとアルゼンチンにおける発達障害児の教育参加促進と包摂に対する文脈の影響：質的比較研究</title>
+    <title>エチオピアとアルゼンチンにおける発達障害児の教育参加と支援に対する文脈の影響：質的比較研究</title>
     <link>https://osf.io/sb7k8</link>
     <guid isPermaLink="false">https://osf.io/sb7k8#ja</guid>
     <pubDate>Tue, 06 Jan 2026 22:17:06 +0000</pubDate>
@@ -139,7 +139,7 @@
     <description>An Online Randomized Pilot Evaluation of AI-Driven Public Health Campaign Messages among People with a History of Drug Use</description>
   </item>
   <item>
-    <title>ヌンゴン語における引き寄せ効果が示す一致標識と切り替え参照標識の独立したメカニズム</title>
+    <title>ヌンゴン語における魅力効果が示す一致標示と切替参照標示の独立したメカニズム</title>
     <link>https://osf.io/qvybp</link>
     <guid isPermaLink="false">https://osf.io/qvybp#ja</guid>
     <pubDate>Tue, 06 Jan 2026 21:41:15 +0000</pubDate>
@@ -160,7 +160,7 @@
     <description>Beyond Statistical Myopia:  Replying to a Misguided Critique of Mind-Body Research</description>
   </item>
   <item>
-    <title>連合学習と流動性知能の相互強化効果に関する決定的でない検討：シミュレーション再解析およびRenら（2026）へのコメント</title>
+    <title>連合学習と流動性知能の相互強化効果に関する不確定な結果：シミュレーション再解析およびRenら（2026）へのコメント</title>
     <link>https://osf.io/qbgdn</link>
     <guid isPermaLink="false">https://osf.io/qbgdn#ja</guid>
     <pubDate>Tue, 06 Jan 2026 20:19:33 +0000</pubDate>
@@ -216,7 +216,7 @@
     <description>Using Customisable GPT Chatbots in Psychology Research: A Practical Tutorial</description>
   </item>
   <item>
-    <title>自己効力感はスマートフォンベース介入における神経症傾向の変化を予測する</title>
+    <title>自己効力感はスマートフォン介入における神経症傾向の変化を予測する</title>
     <link>https://osf.io/9rjux</link>
     <guid isPermaLink="false">https://osf.io/9rjux#ja</guid>
     <pubDate>Tue, 06 Jan 2026 16:22:49 +0000</pubDate>
@@ -251,14 +251,14 @@
     <description>Sticking to New Year’s Resolutions: Exploring Drivers of Behavior Change Maintenance</description>
   </item>
   <item>
-    <title>潜在意識から無意識へ：哲学的系譜、進化の逆説、そして無意識の起源の未来</title>
+    <title>潜在意識から無意識へ：哲学的系譜、進化の逆説、そして無意識起源の未来</title>
     <link>https://osf.io/5tzun</link>
     <guid isPermaLink="false">https://osf.io/5tzun#ja</guid>
     <pubDate>Tue, 06 Jan 2026 15:44:36 +0000</pubDate>
     <description>From Subliminality, to the Unconscious Mind: Philosophical Lineages, Evolutionary Paradoxes, and the Future of the Origins of the Unconscious</description>
   </item>
   <item>
-    <title>心理学出版における誤誘導的AIガイダンスの問題</title>
+    <title>心理学出版における誤解を招くAIガイダンス</title>
     <link>https://osf.io/k6cyt</link>
     <guid isPermaLink="false">https://osf.io/k6cyt#ja</guid>
     <pubDate>Tue, 06 Jan 2026 15:44:36 +0000</pubDate>
@@ -293,21 +293,21 @@
     <description>How Universal Couple - focused Prevention During the Transition to Parenthood Impact Family Dissolution</description>
   </item>
   <item>
-    <title>読解における資源合理的メカニズム</title>
+    <title>読書における資源合理的メカニズム</title>
     <link>https://osf.io/26hb8</link>
     <guid isPermaLink="false">https://osf.io/26hb8#ja</guid>
     <pubDate>Tue, 06 Jan 2026 10:48:20 +0000</pubDate>
     <description>A Resource-Rational Mechanism for Reading</description>
   </item>
   <item>
-    <title>主観的社会経済的地位の操作とその下流（非）効果：拡張を加えた二つの直接的再現研究</title>
+    <title>主観的社会経済的地位の操作とその下流における（非）効果：拡張を加えた二つの直接的再現研究</title>
     <link>https://osf.io/n86rt</link>
     <guid isPermaLink="false">https://osf.io/n86rt#ja</guid>
     <pubDate>Mon, 05 Jan 2026 22:17:11 +0000</pubDate>
     <description>Manipulating Subjective Socioeconomic Status and its Downstream (non) Effects: Two Direct Replications with Extensions</description>
   </item>
   <item>
-    <title>努力評価と準備を支える前帯状皮質と皮質下領域の異なる役割</title>
+    <title>努力評価と準備を支える前帯状皮質および皮質下領域の異なる役割</title>
     <link>https://osf.io/6dgyq</link>
     <guid isPermaLink="false">https://osf.io/6dgyq#ja</guid>
     <pubDate>Mon, 05 Jan 2026 22:17:11 +0000</pubDate>
