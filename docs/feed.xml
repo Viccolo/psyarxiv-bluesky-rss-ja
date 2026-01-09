@@ -6,6 +6,13 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>大規模言語モデルは性別に基づく共感のステレオタイプを増幅し、専攻およびキャリアの推薦に影響を与える</title>
+    <link>https://osf.io/wvc7g</link>
+    <guid isPermaLink="false">https://osf.io/wvc7g#ja</guid>
+    <pubDate>Fri, 09 Jan 2026 10:18:48 +0000</pubDate>
+    <description>LLMs Amplify Gendered Empathy Stereotypes and Influence Major and Career Recommendations</description>
+  </item>
+  <item>
     <title>Screenathon 2.0：患者生成健康データに適用した人間とAIの協働スクリーニング</title>
     <link>https://osf.io/e2qfj</link>
     <guid isPermaLink="false">https://osf.io/e2qfj#ja</guid>
@@ -13,7 +20,7 @@
     <description>Screenathon 2.0: Human–AI Collaborative Screening Applied to Patient-Generated Health Data</description>
   </item>
   <item>
-    <title>ペルー沿岸野生動物の疾病と死亡に関するメディア表象の探究：LISTEN法による大規模質的データの統合的内容およびネットワーク分析</title>
+    <title>ペルー沿岸野生動物の疾病と死亡に関するメディア報道の探究：LISTEN法による大規模質的データの統合的内容・ネットワーク分析</title>
     <link>https://osf.io/2nhtm</link>
     <guid isPermaLink="false">https://osf.io/2nhtm#ja</guid>
     <pubDate>Fri, 09 Jan 2026 08:24:55 +0000</pubDate>
@@ -34,14 +41,14 @@
     <description>Adult development, meditation, wisdom, and unlearning:  Toward a science of advanced meditation</description>
   </item>
   <item>
-    <title>ねじれではなく性的嗜好：BDSM実践者における愛着、パーソナリティ、ウェルビーイングの再検証と構造的不変性</title>
+    <title>ねじれではなく性的嗜好：BDSM実践者における愛着、パーソナリティ、ウェルビーイングの再現性と構造的不変性の検証</title>
     <link>https://osf.io/yk4ra</link>
     <guid isPermaLink="false">https://osf.io/yk4ra#ja</guid>
     <pubDate>Thu, 08 Jan 2026 19:38:52 +0000</pubDate>
     <description>Not twisted, just kinky: Replication and structural invariance of attachment, personality, and well-being among BDSM practitioners</description>
   </item>
   <item>
-    <title>手話と言語認知：語彙標識における象徴性と概念表象に関する示唆</title>
+    <title>手話と言語認知：語彙標識における図像性と概念表象に関する示唆</title>
     <link>https://osf.io/ry4b9</link>
     <guid isPermaLink="false">https://osf.io/ry4b9#ja</guid>
     <pubDate>Thu, 08 Jan 2026 19:38:52 +0000</pubDate>
@@ -69,7 +76,7 @@
     <description>Cross-Cultural Validation of the Morality-as-Cooperation Questionnaire in Brazil</description>
   </item>
   <item>
-    <title>軍人・退役軍人カップルに対する家族強化プログラムは必ずしもより効果的ではない</title>
+    <title>家族強化プログラムは軍人および退役軍人カップルに対して必ずしもより効果的であるとは限らない</title>
     <link>https://osf.io/e3syp</link>
     <guid isPermaLink="false">https://osf.io/e3syp#ja</guid>
     <pubDate>Thu, 08 Jan 2026 19:16:17 +0000</pubDate>
@@ -83,21 +90,21 @@
     <description>Individual Differences in Risk Preference: Selection and Socialization Effects</description>
   </item>
   <item>
-    <title>組織研究における複数共変量の測定不変性の検討：EFAおよびCFAツリーを用いて</title>
+    <title>組織研究における複数共変量の測定不変性の検討：探索的因子分析および確認的因子分析ツリーの活用</title>
     <link>https://osf.io/mkynf</link>
     <guid isPermaLink="false">https://osf.io/mkynf#ja</guid>
     <pubDate>Thu, 08 Jan 2026 19:16:16 +0000</pubDate>
     <description>Investigating Measurement Invariance for Multiple Covariates in Organizational Research using EFA and CFA Trees</description>
   </item>
   <item>
-    <title>何が問題を引き起こすのか？スポーツにおけるヒューマンエラーの一般的分類システム</title>
+    <title>スポーツにおけるヒューマンエラーの包括的分類システムの提案</title>
     <link>https://osf.io/8qg7v</link>
     <guid isPermaLink="false">https://osf.io/8qg7v#ja</guid>
     <pubDate>Thu, 08 Jan 2026 19:16:16 +0000</pubDate>
     <description>What can Possibly Go Wrong? A Generic Classification System for Human Error in Sports</description>
   </item>
   <item>
-    <title>操作的ドリフト：自然回復研究における検証済み疲労誘発の欠如がもたらす問題</title>
+    <title>操作的ドリフト：自然回復研究における検証済み疲労誘発の欠如がもたらす課題</title>
     <link>https://osf.io/mrxkf</link>
     <guid isPermaLink="false">https://osf.io/mrxkf#ja</guid>
     <pubDate>Thu, 08 Jan 2026 17:50:19 +0000</pubDate>
@@ -111,7 +118,7 @@
     <description>Will Foundation-Model AI Displace Human-Led Psychotherapeutic Practice?</description>
   </item>
   <item>
-    <title>因果信念が政策支持を予測する時期と理由</title>
+    <title>因果信念が政策支持を予測する時期とその理由</title>
     <link>https://osf.io/bzyf6</link>
     <guid isPermaLink="false">https://osf.io/bzyf6#ja</guid>
     <pubDate>Thu, 08 Jan 2026 17:50:18 +0000</pubDate>
@@ -139,7 +146,7 @@
     <description>CHRONOS: A brief assessment of temporal processing aspects</description>
   </item>
   <item>
-    <title>適切なタイミングの重要性：自閉症スペクトラムの思春期青年による早期診断の価値の省察</title>
+    <title>適切なタイミングの重要性：自閉症スペクトラムの青年期における早期診断の価値に関する考察</title>
     <link>https://osf.io/y5dta</link>
     <guid isPermaLink="false">https://osf.io/y5dta#ja</guid>
     <pubDate>Thu, 08 Jan 2026 17:23:50 +0000</pubDate>
@@ -153,14 +160,14 @@
     <description>Enhancing student math achievement through a digital wellbeing training for educators</description>
   </item>
   <item>
-    <title>人工知能に対する態度の予測における人格特性、持続可能性への態度、世代継承への関心、人口統計学的要因、経済的安定性および親子関係の役割の検討</title>
+    <title>人工知能に対する態度の予測におけるパーソナリティ特性、持続可能性への態度、世代継承への関心、人口統計学的要因、経済的安定性および親子関係の役割の検討</title>
     <link>https://osf.io/526ma</link>
     <guid isPermaLink="false">https://osf.io/526ma#ja</guid>
     <pubDate>Thu, 08 Jan 2026 17:23:50 +0000</pubDate>
     <description>Exploring the Role of Personality Attributes, Attitudes Towards Sustainability, Generativity Concern, Demographics, Financial Comfort, and Parenthood in predicting Attitudes Towards Artificial Intelligence</description>
   </item>
   <item>
-    <title>表面的な多様性を超えて：組織の多様性合理化が応募者の自己選択を通じた反DEI主張形成に与える影響</title>
+    <title>表面的対応を超えて：組織の多様性合理化が応募者の自己選択を通じた反DEI主張形成に与える影響</title>
     <link>https://osf.io/xkqvy</link>
     <guid isPermaLink="false">https://osf.io/xkqvy#ja</guid>
     <pubDate>Thu, 08 Jan 2026 17:23:49 +0000</pubDate>
@@ -174,14 +181,14 @@
     <description>Gambling streams and gambling intentions: Testing via the Theory of Planned Behaviour</description>
   </item>
   <item>
-    <title>HiTOPおよびRDoCの妥当性と有用性への道としての経験的に十分な症状セット：フィッシャーへのコメント</title>
+    <title>HiTOPおよびRDoCの妥当性と実用性への道としての経験的に十分な症状セット：フィッシャーへのコメント</title>
     <link>https://osf.io/k3xv4</link>
     <guid isPermaLink="false">https://osf.io/k3xv4#ja</guid>
     <pubDate>Thu, 08 Jan 2026 17:23:49 +0000</pubDate>
     <description>Empirically sufficient symptom sets as a path to validity and utility for  HiTOP and RDoC: A commentary on Fisher</description>
   </item>
   <item>
-    <title>因果メカニズム情報による事前因果信念の操作が結果密度バイアスに及ぼす影響</title>
+    <title>因果メカニズム情報による事前因果信念の操作が結果頻度バイアスに及ぼす影響</title>
     <link>https://osf.io/bqmjy</link>
     <guid isPermaLink="false">https://osf.io/bqmjy#ja</guid>
     <pubDate>Thu, 08 Jan 2026 17:23:48 +0000</pubDate>
@@ -209,14 +216,14 @@
     <description>A Markov Chain Monte Carlo Procedure with Simulated Annealing for Shortening Assessments</description>
   </item>
   <item>
-    <title>具現化されたタコ：柔軟な身体における分散知能と能動推論</title>
+    <title>具現化されたタコ：分散知能と柔軟な身体における能動的推論</title>
     <link>https://osf.io/p7f3k</link>
     <guid isPermaLink="false">https://osf.io/p7f3k#ja</guid>
     <pubDate>Thu, 08 Jan 2026 17:23:47 +0000</pubDate>
     <description>The Embodied Octopus: Distributed Intelligence and Active Inference in a Flexible Body</description>
   </item>
   <item>
-    <title>子ども・青少年向けオンラインメンタルヘルスコンテンツの設計：エビデンスの迅速レビュー</title>
+    <title>子ども・青年向けオンラインメンタルヘルスコンテンツの設計：エビデンスの迅速レビュー</title>
     <link>https://osf.io/4j7bt</link>
     <guid isPermaLink="false">https://osf.io/4j7bt#ja</guid>
     <pubDate>Thu, 08 Jan 2026 17:23:47 +0000</pubDate>
@@ -237,28 +244,28 @@
     <description>Le nudge : miracle ou mirage ?  Le regard de la psychologie sociale et des sciences du comportement</description>
   </item>
   <item>
-    <title>非流暢性失語を呈するカラリスート語話者における半自発的発話の検討</title>
+    <title>非流暢性失語を呈するカラリスート語（西グリーンランド語）話者における半自発的発話</title>
     <link>https://osf.io/jhkwg</link>
     <guid isPermaLink="false">https://osf.io/jhkwg#ja</guid>
     <pubDate>Thu, 08 Jan 2026 16:55:22 +0000</pubDate>
     <description>Semispontaneous speech in speakers of Kalaallisut (West Greenlandic) with non-fluent aphasia</description>
   </item>
   <item>
-    <title>スイスLGBTIQ+パネル報告書 2025年総合概要</title>
+    <title>スイスLGBTIQ+パネル報告書 2025年総括</title>
     <link>https://osf.io/qpkj8</link>
     <guid isPermaLink="false">https://osf.io/qpkj8#ja</guid>
     <pubDate>Thu, 08 Jan 2026 16:55:22 +0000</pubDate>
     <description>Panel Suisse LGBTIQ+ – Rapport de Synthèse 2025</description>
   </item>
   <item>
-    <title>スイスLGBTIQ+パネル報告書2025年総括</title>
+    <title>スイスLGBTIQ+パネル報告書 2025年総括</title>
     <link>https://osf.io/bkpn9</link>
     <guid isPermaLink="false">https://osf.io/bkpn9#ja</guid>
     <pubDate>Thu, 08 Jan 2026 16:55:22 +0000</pubDate>
     <description>Panel Svizzero LGBTIQ+ - Rapporto di sintesi 2025.</description>
   </item>
   <item>
-    <title>自己投影には時間的方向性があるか？九か国における未来の自己への類似感の優位性</title>
+    <title>自己投影には時間的方向性があるか？九か国における未来自己への類似感の優位性</title>
     <link>https://osf.io/jp2ks</link>
     <guid isPermaLink="false">https://osf.io/jp2ks#ja</guid>
     <pubDate>Thu, 08 Jan 2026 16:55:21 +0000</pubDate>
@@ -314,7 +321,7 @@
     <description>Association Between Screen Time and Sleep: An Online Survey</description>
   </item>
   <item>
-    <title>学術会議の組織化に関する文化進化的アプローチ</title>
+    <title>学会開催の文化進化的アプローチ</title>
     <link>https://osf.io/86as9</link>
     <guid isPermaLink="false">https://osf.io/86as9#ja</guid>
     <pubDate>Thu, 08 Jan 2026 16:24:25 +0000</pubDate>
@@ -328,25 +335,18 @@
     <description>Interpretation biases in daily life – Do mood, interpretation biases, and depressive symptoms go hand in hand?</description>
   </item>
   <item>
-    <title>三項課題による複雑な信念構造の評価：信頼性と妥当性</title>
+    <title>三元課題による複雑な信念構造の評価：信頼性と妥当性</title>
     <link>https://osf.io/7kmfq</link>
     <guid isPermaLink="false">https://osf.io/7kmfq#ja</guid>
     <pubDate>Thu, 08 Jan 2026 16:24:24 +0000</pubDate>
     <description>Assessing complex belief structures with the triads task: Reliability and validity</description>
   </item>
   <item>
-    <title>持続可能性のアフォーダンス：エネルギー転換の人間的側面に対する生態心理学の応用</title>
+    <title>持続可能性のアフォーダンス：エネルギー転換の人間的側面への生態心理学の応用</title>
     <link>https://osf.io/cx7j8</link>
     <guid isPermaLink="false">https://osf.io/cx7j8#ja</guid>
     <pubDate>Thu, 08 Jan 2026 16:24:24 +0000</pubDate>
     <description>Affordances for Sustainability: Applying Ecological Psychology to the Human Dimensions of Energy Transition</description>
-  </item>
-  <item>
-    <title>三項課題による複雑な信念構造の評価：信頼性と妥当性</title>
-    <link>https://osf.io/7kmfq</link>
-    <guid isPermaLink="false">https://osf.io/7kmfq#ja</guid>
-    <pubDate>Thu, 08 Jan 2026 15:48:19 +0000</pubDate>
-    <description>Assessing complex belief structures with the triads task: Reliability and validity</description>
   </item>
 </channel>
 </rss>
