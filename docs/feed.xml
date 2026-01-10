@@ -6,7 +6,21 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>サイケデリックおよびMDMA補助療法における支援的タッチの実践ガイドライン：実践者と研究者のためのモデル</title>
+    <title>大学生のジェンダーホロンの生物学的・心理社会的・社会人口学的決定要因と包括的幸福感との関連：2020–2025年文献の迅速レビュー</title>
+    <link>https://osf.io/6hz8f</link>
+    <guid isPermaLink="false">https://osf.io/6hz8f#ja</guid>
+    <pubDate>Sat, 10 Jan 2026 15:15:48 +0000</pubDate>
+    <description>Determinantes biológicos, psicosociales y sociodemográficos del holón del género y su relación con el bienestar integral en estudiantes universitarios: una revisión rápida de la literatura 2020–2025</description>
+  </item>
+  <item>
+    <title>具現化された行動意味論の再現性危機の中でのモデリング：Carriereら（2026）へのコメント</title>
+    <link>https://osf.io/hzgqe</link>
+    <guid isPermaLink="false">https://osf.io/hzgqe#ja</guid>
+    <pubDate>Sat, 10 Jan 2026 15:15:47 +0000</pubDate>
+    <description>Modelling in the midst of a replication crisis for embodied action semantics: a commentary on Carriere et al. (2026)</description>
+  </item>
+  <item>
+    <title>サイケデリックおよびMDMA補助療法における支援的タッチの実践的ガイドライン：実践者と研究者のためのモデル</title>
     <link>https://osf.io/yfbp5</link>
     <guid isPermaLink="false">https://osf.io/yfbp5#ja</guid>
     <pubDate>Sat, 10 Jan 2026 01:19:31 +0000</pubDate>
@@ -20,21 +34,21 @@
     <description>Why addressing HIV stigma should be our number one priority in the HIV response</description>
   </item>
   <item>
-    <title>新規ミラー反転課題における感覚運動学習と誤差処理：概念実証および予備的研究</title>
+    <title>新規ミラーレバーサル課題における感覚運動学習と誤差処理：概念実証および予備的研究</title>
     <link>https://osf.io/ag2kx</link>
     <guid isPermaLink="false">https://osf.io/ag2kx#ja</guid>
     <pubDate>Fri, 09 Jan 2026 21:17:27 +0000</pubDate>
     <description>Sensorimotor Learning and error processing in a new Mirror-Reversal Paradigm: Proof of Concept and Preliminary Study</description>
   </item>
   <item>
-    <title>物質使用障害を有する青年期における行動医療治療アクセスパターン</title>
+    <title>物質使用障害を有する青年期者における行動医療治療アクセスパターン</title>
     <link>https://osf.io/2b8ze</link>
     <guid isPermaLink="false">https://osf.io/2b8ze#ja</guid>
     <pubDate>Fri, 09 Jan 2026 21:17:27 +0000</pubDate>
     <description>Behavioral Healthcare Treatment Access Patterns in Adolescents with Substance Use Disorders</description>
   </item>
   <item>
-    <title>ヒトの顔認識における網膜中心座標系と顔中心座標系の解離</title>
+    <title>ヒト顔認識における網膜中心および顔中心の参照枠の解離</title>
     <link>https://osf.io/ahbkq</link>
     <guid isPermaLink="false">https://osf.io/ahbkq#ja</guid>
     <pubDate>Fri, 09 Jan 2026 21:17:26 +0000</pubDate>
@@ -62,21 +76,21 @@
     <description>Perceptual psychology and climate action: three theoretical challenges</description>
   </item>
   <item>
-    <title>境界性パーソナリティ障害の特定症状の重症度は性的指向によって異なるか？自己評価および臨床評価に基づく項目反応理論分析</title>
+    <title>特定の境界性パーソナリティ障害症状の重症度は性的指向によって異なるか？自己評価および臨床評価に基づく項目反応理論分析</title>
     <link>https://osf.io/umys9</link>
     <guid isPermaLink="false">https://osf.io/umys9#ja</guid>
     <pubDate>Fri, 09 Jan 2026 21:17:25 +0000</pubDate>
     <description>Does the Severity of Specific Borderline Personality Disorder Symptoms Vary by Sexual Orientation? A Differential Item Functioning Analysis of Self- and Clinician-Ratings</description>
   </item>
   <item>
-    <title>分散フィードバック下の強化学習における遅延報酬情報の過小評価</title>
+    <title>分散フィードバックを伴う強化学習における遅延報酬情報の過小評価</title>
     <link>https://osf.io/eyjmg</link>
     <guid isPermaLink="false">https://osf.io/eyjmg#ja</guid>
     <pubDate>Fri, 09 Jan 2026 21:17:24 +0000</pubDate>
     <description>Delayed reward information is underweighted in reinforcement learning with dispersed feedback</description>
   </item>
   <item>
-    <title>人生の目的感と脳健康の血液バイオマーカー</title>
+    <title>人生の目的意識と脳健康の血液バイオマーカー</title>
     <link>https://osf.io/93agc</link>
     <guid isPermaLink="false">https://osf.io/93agc#ja</guid>
     <pubDate>Fri, 09 Jan 2026 21:17:24 +0000</pubDate>
@@ -111,14 +125,14 @@
     <description>Screenathon 2.0: Human–AI Collaborative Screening Applied to Patient-Generated Health Data</description>
   </item>
   <item>
-    <title>ペルー沿岸野生動物の疾病と死亡に関するメディア描写の探究：LISTEN法による大規模質的データの統合的内容およびネットワーク分析</title>
+    <title>ペルー沿岸野生動物の疾病と死亡に関するメディア表象の探究：The LISTEN法による大規模質的データの統合的内容・ネットワーク分析</title>
     <link>https://osf.io/2nhtm</link>
     <guid isPermaLink="false">https://osf.io/2nhtm#ja</guid>
     <pubDate>Fri, 09 Jan 2026 08:24:55 +0000</pubDate>
     <description>Exploring media portrayals of coastal wildlife illnesses and death in Peru through The LISTEN method: An integrative content and network analysis of big qualitative data</description>
   </item>
   <item>
-    <title>ギャンブル重症度に関連する正当化と許容的信念の比較検討</title>
+    <title>ギャンブル重症度に関連する正当化と許容的信念の比較</title>
     <link>https://osf.io/7uhet</link>
     <guid isPermaLink="false">https://osf.io/7uhet#ja</guid>
     <pubDate>Fri, 09 Jan 2026 08:24:55 +0000</pubDate>
@@ -132,14 +146,14 @@
     <description>Adult development, meditation, wisdom, and unlearning:  Toward a science of advanced meditation</description>
   </item>
   <item>
-    <title>ねじれではなく性的嗜好：BDSM実践者における愛着、パーソナリティ、およびウェルビーイングの再現性と構造的不変性</title>
+    <title>ねじれではなく性的嗜好：BDSM実践者における愛着、パーソナリティ、幸福感の再検証と構造的不変性</title>
     <link>https://osf.io/yk4ra</link>
     <guid isPermaLink="false">https://osf.io/yk4ra#ja</guid>
     <pubDate>Thu, 08 Jan 2026 19:38:52 +0000</pubDate>
     <description>Not twisted, just kinky: Replication and structural invariance of attachment, personality, and well-being among BDSM practitioners</description>
   </item>
   <item>
-    <title>手話と言語認知：語彙標識における象徴性と概念表象に関する示唆</title>
+    <title>手話と言語認知：語彙標識における図像性と概念表象に関する示唆</title>
     <link>https://osf.io/ry4b9</link>
     <guid isPermaLink="false">https://osf.io/ry4b9#ja</guid>
     <pubDate>Thu, 08 Jan 2026 19:38:52 +0000</pubDate>
@@ -160,14 +174,14 @@
     <description>State Estimation as a Unifying Principle of Cognition</description>
   </item>
   <item>
-    <title>ブラジルにおける「協力としての道徳」質問票の異文化妥当性検証</title>
+    <title>ブラジルにおける道徳性協力性質問票の異文化妥当性検証</title>
     <link>https://osf.io/4f3jz</link>
     <guid isPermaLink="false">https://osf.io/4f3jz#ja</guid>
     <pubDate>Thu, 08 Jan 2026 19:16:18 +0000</pubDate>
     <description>Cross-Cultural Validation of the Morality-as-Cooperation Questionnaire in Brazil</description>
   </item>
   <item>
-    <title>軍人および退役軍人夫婦に対する家族強化プログラムは必ずしもより効果的ではない</title>
+    <title>軍人および退役軍人夫婦に対する家族強化プログラムの効果は必ずしも高いわけではない</title>
     <link>https://osf.io/e3syp</link>
     <guid isPermaLink="false">https://osf.io/e3syp#ja</guid>
     <pubDate>Thu, 08 Jan 2026 19:16:17 +0000</pubDate>
@@ -181,21 +195,21 @@
     <description>Individual Differences in Risk Preference: Selection and Socialization Effects</description>
   </item>
   <item>
-    <title>組織研究における複数共変量の測定不変性の検討：探索的因子分析および確認的因子分析ツリーの活用</title>
+    <title>組織研究における複数共変量の測定不変性の検討：探索的因子分析および確証的因子分析ツリーの活用</title>
     <link>https://osf.io/mkynf</link>
     <guid isPermaLink="false">https://osf.io/mkynf#ja</guid>
     <pubDate>Thu, 08 Jan 2026 19:16:16 +0000</pubDate>
     <description>Investigating Measurement Invariance for Multiple Covariates in Organizational Research using EFA and CFA Trees</description>
   </item>
   <item>
-    <title>何が問題を引き起こす可能性があるのか？スポーツにおけるヒューマンエラーの一般的分類システム</title>
+    <title>スポーツにおけるヒューマンエラーの一般的分類システム：何が問題を引き起こすのか？</title>
     <link>https://osf.io/8qg7v</link>
     <guid isPermaLink="false">https://osf.io/8qg7v#ja</guid>
     <pubDate>Thu, 08 Jan 2026 19:16:16 +0000</pubDate>
     <description>What can Possibly Go Wrong? A Generic Classification System for Human Error in Sports</description>
   </item>
   <item>
-    <title>操作的ドリフト：自然回復研究における検証済み疲労誘発の欠如がもたらす問題</title>
+    <title>操作的ドリフト：自然回復研究における検証された疲労誘発が欠如している理由</title>
     <link>https://osf.io/mrxkf</link>
     <guid isPermaLink="false">https://osf.io/mrxkf#ja</guid>
     <pubDate>Thu, 08 Jan 2026 17:50:19 +0000</pubDate>
@@ -223,7 +237,7 @@
     <description>Deaf Signers Exhibit White-Matter Alterations in Right-Hemispheric Language Pathways</description>
   </item>
   <item>
-    <title>美術館と実験室での芸術鑑賞に差異はあるか：原画とデジタル複製による現象的芸術体験の比較研究</title>
+    <title>美術館と実験室における芸術鑑賞の差異：原画とデジタル複製による現象的芸術体験の比較研究</title>
     <link>https://osf.io/g9w8y</link>
     <guid isPermaLink="false">https://osf.io/g9w8y#ja</guid>
     <pubDate>Thu, 08 Jan 2026 17:23:51 +0000</pubDate>
@@ -251,14 +265,14 @@
     <description>Enhancing student math achievement through a digital wellbeing training for educators</description>
   </item>
   <item>
-    <title>人工知能に対する態度の予測におけるパーソナリティ特性、持続可能性への態度、世代継承への関心、人口統計学的要因、経済的安定性および親であることの役割の検討</title>
+    <title>人工知能に対する態度の予測における人格特性、持続可能性への態度、世代継承への関心、人口統計学的要因、経済的安定性および親子関係の役割の検討</title>
     <link>https://osf.io/526ma</link>
     <guid isPermaLink="false">https://osf.io/526ma#ja</guid>
     <pubDate>Thu, 08 Jan 2026 17:23:50 +0000</pubDate>
     <description>Exploring the Role of Personality Attributes, Attitudes Towards Sustainability, Generativity Concern, Demographics, Financial Comfort, and Parenthood in predicting Attitudes Towards Artificial Intelligence</description>
   </item>
   <item>
-    <title>表面的な多様性を超えて：組織の多様性合理化が応募者の自己選択を通じて反DEI主張形成に与える影響</title>
+    <title>表面的対応を超えて：組織の多様性合理化が応募者の自己選択を通じた反DEI主張形成に与える影響</title>
     <link>https://osf.io/xkqvy</link>
     <guid isPermaLink="false">https://osf.io/xkqvy#ja</guid>
     <pubDate>Thu, 08 Jan 2026 17:23:49 +0000</pubDate>
@@ -272,28 +286,28 @@
     <description>Gambling streams and gambling intentions: Testing via the Theory of Planned Behaviour</description>
   </item>
   <item>
-    <title>HiTOPおよびRDoCの妥当性と有用性への道としての経験的に十分な症状セット：Fisherへのコメント</title>
+    <title>HiTOPおよびRDoCの妥当性と有用性への道としての経験的に十分な症状セット：フィッシャーへのコメント</title>
     <link>https://osf.io/k3xv4</link>
     <guid isPermaLink="false">https://osf.io/k3xv4#ja</guid>
     <pubDate>Thu, 08 Jan 2026 17:23:49 +0000</pubDate>
     <description>Empirically sufficient symptom sets as a path to validity and utility for  HiTOP and RDoC: A commentary on Fisher</description>
   </item>
   <item>
-    <title>因果メカニズム情報による事前因果信念の操作が結果密度バイアスに与える影響</title>
+    <title>因果メカニズム情報による事前因果信念の操作が結果頻度バイアスに及ぼす影響</title>
     <link>https://osf.io/bqmjy</link>
     <guid isPermaLink="false">https://osf.io/bqmjy#ja</guid>
     <pubDate>Thu, 08 Jan 2026 17:23:48 +0000</pubDate>
     <description>Manipulating Prior Causal Beliefs Through Causal Mechanism Information Affects the Outcome-Density Bias</description>
   </item>
   <item>
-    <title>権威主義の内側：異質な右派権威主義表出とCOVID-19恐怖および予防信念との動的関連</title>
+    <title>権威主義の内側：多様な右派権威主義表現とCOVID-19恐怖および予防信念との動的関連</title>
     <link>https://osf.io/7rjk4</link>
     <guid isPermaLink="false">https://osf.io/7rjk4#ja</guid>
     <pubDate>Thu, 08 Jan 2026 17:23:48 +0000</pubDate>
     <description>Inside Authoritarianism: Heterogeneous RWA Expressions and Their Dynamic Links to COVID-19 Fear and Prevention Beliefs</description>
   </item>
   <item>
-    <title>困難体験から幸福感および苦痛への行動連鎖の可視化：縦断的変化のネットワーク分析による統合的柔軟性・マインドフルネスモデルの検証</title>
+    <title>困難な経験から幸福感または苦痛への行動連鎖の可視化：縦断的変化のネットワーク分析による統合的柔軟性・マインドフルネスモデルの検証</title>
     <link>https://osf.io/7f3wr</link>
     <guid isPermaLink="false">https://osf.io/7f3wr#ja</guid>
     <pubDate>Thu, 08 Jan 2026 17:23:48 +0000</pubDate>
@@ -307,7 +321,7 @@
     <description>A Markov Chain Monte Carlo Procedure with Simulated Annealing for Shortening Assessments</description>
   </item>
   <item>
-    <title>具現化されたタコ：柔軟な身体における分散知能と能動推論</title>
+    <title>具現化されたタコ：分散知能と柔軟な身体における能動的推論</title>
     <link>https://osf.io/p7f3k</link>
     <guid isPermaLink="false">https://osf.io/p7f3k#ja</guid>
     <pubDate>Thu, 08 Jan 2026 17:23:47 +0000</pubDate>
@@ -333,20 +347,6 @@
     <guid isPermaLink="false">https://osf.io/y76he#ja</guid>
     <pubDate>Thu, 08 Jan 2026 16:55:23 +0000</pubDate>
     <description>Le nudge : miracle ou mirage ?  Le regard de la psychologie sociale et des sciences du comportement</description>
-  </item>
-  <item>
-    <title>非流暢性失語を呈するカラリスート語（西グリーンランド語）話者における半自発的発話</title>
-    <link>https://osf.io/jhkwg</link>
-    <guid isPermaLink="false">https://osf.io/jhkwg#ja</guid>
-    <pubDate>Thu, 08 Jan 2026 16:55:22 +0000</pubDate>
-    <description>Semispontaneous speech in speakers of Kalaallisut (West Greenlandic) with non-fluent aphasia</description>
-  </item>
-  <item>
-    <title>スイスLGBTIQ+パネル調査報告書 2025年版</title>
-    <link>https://osf.io/qpkj8</link>
-    <guid isPermaLink="false">https://osf.io/qpkj8#ja</guid>
-    <pubDate>Thu, 08 Jan 2026 16:55:22 +0000</pubDate>
-    <description>Panel Suisse LGBTIQ+ – Rapport de Synthèse 2025</description>
   </item>
 </channel>
 </rss>
