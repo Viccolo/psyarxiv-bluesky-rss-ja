@@ -6,6 +6,34 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>ベイズ版アイケンのV：内容妥当性のための信頼区間と確率的ルール</title>
+    <link>https://osf.io/c9f6t</link>
+    <guid isPermaLink="false">https://osf.io/c9f6t#ja</guid>
+    <pubDate>Sun, 11 Jan 2026 12:33:33 +0000</pubDate>
+    <description>Bayesian Aiken’s V: Credibility Intervals and Probabilistic Rules for Content Validity</description>
+  </item>
+  <item>
+    <title>自閉症思春期青年における社会的および非社会的報酬反応性の測定可能性：脳波（EEG）研究</title>
+    <link>https://osf.io/9fk25</link>
+    <guid isPermaLink="false">https://osf.io/9fk25#ja</guid>
+    <pubDate>Sun, 11 Jan 2026 12:33:33 +0000</pubDate>
+    <description>Feasibility of measuring social and nonsocial reward responsivity in autistic adolescents: An EEG study</description>
+  </item>
+  <item>
+    <title>子ども・青年における段階的ケア心理介入の有効性：メタアナリシスによる検討</title>
+    <link>https://osf.io/89zk5</link>
+    <guid isPermaLink="false">https://osf.io/89zk5#ja</guid>
+    <pubDate>Sun, 11 Jan 2026 12:33:32 +0000</pubDate>
+    <description>Effectiveness of Stepped Care Psychological Interventions in Children and Adolescents: A Meta-Analytic Review</description>
+  </item>
+  <item>
+    <title>入れ子状生態的アフォーダンス：環境に関わる行動のための関係的枠組み</title>
+    <link>https://osf.io/mn85h</link>
+    <guid isPermaLink="false">https://osf.io/mn85h#ja</guid>
+    <pubDate>Sun, 11 Jan 2026 12:33:32 +0000</pubDate>
+    <description>Nested Ecological Affordances: A Relational Framework for Environmentally Significant Behavior</description>
+  </item>
+  <item>
     <title>生成AI時代における認知的労働への投資の意義とは何か？</title>
     <link>https://osf.io/9hbaf</link>
     <guid isPermaLink="false">https://osf.io/9hbaf#ja</guid>
@@ -34,7 +62,7 @@
     <description>Pain and Suffering Have Distinct Effects on Distress and Wellbeing: Evidence From a Longitudinal Multi-Country Analysis</description>
   </item>
   <item>
-    <title>集団比較を超えて：聴覚障害児および正常聴覚児におけるスペイン語文理解のプロファイリング</title>
+    <title>集団比較を超えて：聴覚障害児と健聴児のスペイン語文理解プロファイリング</title>
     <link>https://osf.io/duya6</link>
     <guid isPermaLink="false">https://osf.io/duya6#ja</guid>
     <pubDate>Sat, 10 Jan 2026 18:23:35 +0000</pubDate>
@@ -48,35 +76,35 @@
     <description>Psychometrics</description>
   </item>
   <item>
-    <title>大学生のジェンダーホロンにおける生物学的・心理社会的・社会人口学的決定要因と総合的幸福感との関連：2020–2025年文献の迅速レビュー</title>
+    <title>大学生におけるジェンダーホロンの生物学的・心理社会的・社会人口学的決定要因と全人的幸福感との関連：2020–2025年文献の迅速レビュー</title>
     <link>https://osf.io/6hz8f</link>
     <guid isPermaLink="false">https://osf.io/6hz8f#ja</guid>
     <pubDate>Sat, 10 Jan 2026 15:15:48 +0000</pubDate>
     <description>Determinantes biológicos, psicosociales y sociodemográficos del holón del género y su relación con el bienestar integral en estudiantes universitarios: una revisión rápida de la literatura 2020–2025</description>
   </item>
   <item>
-    <title>身体化された行動意味論の再現性危機の中でのモデリング：Carriereら（2026）へのコメント</title>
+    <title>具現化された行動意味論の再現性危機の中でのモデリング：Carriereら（2026）へのコメント</title>
     <link>https://osf.io/hzgqe</link>
     <guid isPermaLink="false">https://osf.io/hzgqe#ja</guid>
     <pubDate>Sat, 10 Jan 2026 15:15:47 +0000</pubDate>
     <description>Modelling in the midst of a replication crisis for embodied action semantics: a commentary on Carriere et al. (2026)</description>
   </item>
   <item>
-    <title>サイケデリックおよびMDMA補助療法における支援的接触の実践的ガイドライン：臨床家と研究者のためのモデル</title>
+    <title>サイケデリックおよびMDMA補助療法における支援的タッチの実践的ガイドライン：実践者と研究者のためのモデル</title>
     <link>https://osf.io/yfbp5</link>
     <guid isPermaLink="false">https://osf.io/yfbp5#ja</guid>
     <pubDate>Sat, 10 Jan 2026 01:19:31 +0000</pubDate>
     <description>Practical Guidelines for Supportive Touch in Psychedelic-Assisted and MDMA-Assisted Therapy: A Model for Practitioners and Researchers</description>
   </item>
   <item>
-    <title>HIV対応においてHIVスティグマへの対処を最優先すべき理由</title>
+    <title>HIV対応においてHIVスティグマの解消を最優先すべき理由</title>
     <link>https://osf.io/e56r7</link>
     <guid isPermaLink="false">https://osf.io/e56r7#ja</guid>
     <pubDate>Fri, 09 Jan 2026 21:17:27 +0000</pubDate>
     <description>Why addressing HIV stigma should be our number one priority in the HIV response</description>
   </item>
   <item>
-    <title>新規ミラーレバーサル課題における感覚運動学習と誤差処理：概念実証と予備的研究</title>
+    <title>新規ミラー反転課題における感覚運動学習と誤差処理の概念実証および予備的研究</title>
     <link>https://osf.io/ag2kx</link>
     <guid isPermaLink="false">https://osf.io/ag2kx#ja</guid>
     <pubDate>Fri, 09 Jan 2026 21:17:27 +0000</pubDate>
@@ -90,7 +118,7 @@
     <description>Behavioral Healthcare Treatment Access Patterns in Adolescents with Substance Use Disorders</description>
   </item>
   <item>
-    <title>ヒトの顔認識における網膜中心および顔中心の参照枠の解離</title>
+    <title>ヒトの顔認識における網膜中心座標系と顔中心座標系の解離</title>
     <link>https://osf.io/ahbkq</link>
     <guid isPermaLink="false">https://osf.io/ahbkq#ja</guid>
     <pubDate>Fri, 09 Jan 2026 21:17:26 +0000</pubDate>
@@ -132,7 +160,7 @@
     <description>Delayed reward information is underweighted in reinforcement learning with dispersed feedback</description>
   </item>
   <item>
-    <title>人生の目的意識と脳健康の血液バイオマーカー</title>
+    <title>人生の目的意識と脳の健康に関する血液バイオマーカー</title>
     <link>https://osf.io/93agc</link>
     <guid isPermaLink="false">https://osf.io/93agc#ja</guid>
     <pubDate>Fri, 09 Jan 2026 21:17:24 +0000</pubDate>
@@ -146,7 +174,7 @@
     <description>Risk-Taking Behavior in Human-Robot Teams: Collaboration vs. Competition</description>
   </item>
   <item>
-    <title>日本語版高感受性者尺度の項目レベルにおける心理測定特性：部分得点モデルによる分析</title>
+    <title>日本語版高感受性者尺度の項目レベルにおける心理計量特性：部分得点モデルによる分析</title>
     <link>https://osf.io/ygaw8</link>
     <guid isPermaLink="false">https://osf.io/ygaw8#ja</guid>
     <pubDate>Fri, 09 Jan 2026 11:15:57 +0000</pubDate>
@@ -167,7 +195,7 @@
     <description>Screenathon 2.0: Human–AI Collaborative Screening Applied to Patient-Generated Health Data</description>
   </item>
   <item>
-    <title>ペルー沿岸野生動物の疾病と死亡に関するメディア表象の探究：LISTEN法による大規模質的データの統合的内容およびネットワーク分析</title>
+    <title>ペルー沿岸野生動物の疾病と死亡に関するメディア報道の探究：LISTEN法による大規模質的データの統合的内容およびネットワーク分析</title>
     <link>https://osf.io/2nhtm</link>
     <guid isPermaLink="false">https://osf.io/2nhtm#ja</guid>
     <pubDate>Fri, 09 Jan 2026 08:24:55 +0000</pubDate>
@@ -181,14 +209,14 @@
     <description>Comparing justifications and permissive beliefs in relation to gambling severity</description>
   </item>
   <item>
-    <title>成人発達、瞑想、知恵、そしてアンラーニング：高度瞑想科学への展望</title>
+    <title>成人発達、瞑想、知恵、そしてアンラーニング：高度な瞑想科学への展望</title>
     <link>https://osf.io/97h8z</link>
     <guid isPermaLink="false">https://osf.io/97h8z#ja</guid>
     <pubDate>Fri, 09 Jan 2026 08:24:54 +0000</pubDate>
     <description>Adult development, meditation, wisdom, and unlearning:  Toward a science of advanced meditation</description>
   </item>
   <item>
-    <title>ねじれではなく性的嗜好：BDSM実践者における愛着、パーソナリティ、ウェルビーイングの再現性と構造的不変性</title>
+    <title>ねじれではなく性的嗜好：BDSM実践者における愛着、パーソナリティ、幸福感の再検証と構造的不変性</title>
     <link>https://osf.io/yk4ra</link>
     <guid isPermaLink="false">https://osf.io/yk4ra#ja</guid>
     <pubDate>Thu, 08 Jan 2026 19:38:52 +0000</pubDate>
@@ -202,7 +230,7 @@
     <description>Sign Languages and Cognition. Iconicity in lexical signs and what it tells us about conceptual representations</description>
   </item>
   <item>
-    <title>マイクロフェノメノロジーの拡張：連続現象に対する研究者障害アプローチ</title>
+    <title>マイクロフェノメノロジーの拡張：連続現象に対する研究者障壁アプローチ</title>
     <link>https://osf.io/g7nmf</link>
     <guid isPermaLink="false">https://osf.io/g7nmf#ja</guid>
     <pubDate>Thu, 08 Jan 2026 19:38:52 +0000</pubDate>
@@ -216,14 +244,14 @@
     <description>State Estimation as a Unifying Principle of Cognition</description>
   </item>
   <item>
-    <title>ブラジルにおける道徳性協力質問票の異文化妥当性検証</title>
+    <title>ブラジルにおける道徳性協力性質問票の文化間妥当性検証</title>
     <link>https://osf.io/4f3jz</link>
     <guid isPermaLink="false">https://osf.io/4f3jz#ja</guid>
     <pubDate>Thu, 08 Jan 2026 19:16:18 +0000</pubDate>
     <description>Cross-Cultural Validation of the Morality-as-Cooperation Questionnaire in Brazil</description>
   </item>
   <item>
-    <title>軍人および退役軍人カップルに対する家族強化プログラムの効果は必ずしも高いわけではない</title>
+    <title>軍人および退役軍人夫婦に対する家族強化プログラムの効果に関する検討：固有の優位性はない</title>
     <link>https://osf.io/e3syp</link>
     <guid isPermaLink="false">https://osf.io/e3syp#ja</guid>
     <pubDate>Thu, 08 Jan 2026 19:16:17 +0000</pubDate>
@@ -237,21 +265,21 @@
     <description>Individual Differences in Risk Preference: Selection and Socialization Effects</description>
   </item>
   <item>
-    <title>組織研究における複数共変量の測定不変性の検討：探索的因子分析および確証的因子分析ツリーの活用</title>
+    <title>組織研究における複数共変量の測定不変性の検討：EFAおよびCFAツリーを用いて</title>
     <link>https://osf.io/mkynf</link>
     <guid isPermaLink="false">https://osf.io/mkynf#ja</guid>
     <pubDate>Thu, 08 Jan 2026 19:16:16 +0000</pubDate>
     <description>Investigating Measurement Invariance for Multiple Covariates in Organizational Research using EFA and CFA Trees</description>
   </item>
   <item>
-    <title>スポーツにおけるヒューマンエラーの包括的分類システム：何が問題を引き起こすのか？</title>
+    <title>スポーツにおけるヒューマンエラーの一般的分類システム：何が問題となりうるのか？</title>
     <link>https://osf.io/8qg7v</link>
     <guid isPermaLink="false">https://osf.io/8qg7v#ja</guid>
     <pubDate>Thu, 08 Jan 2026 19:16:16 +0000</pubDate>
     <description>What can Possibly Go Wrong? A Generic Classification System for Human Error in Sports</description>
   </item>
   <item>
-    <title>操作的逸脱：自然回復研究における検証済み疲労誘発の欠如がもたらす課題</title>
+    <title>作業性ドリフト：自然回復研究における検証済み疲労誘発の欠如がもたらす課題</title>
     <link>https://osf.io/mrxkf</link>
     <guid isPermaLink="false">https://osf.io/mrxkf#ja</guid>
     <pubDate>Thu, 08 Jan 2026 17:50:19 +0000</pubDate>
@@ -293,7 +321,7 @@
     <description>CHRONOS: A brief assessment of temporal processing aspects</description>
   </item>
   <item>
-    <title>タイミングの重要性：自閉症スペクトラムの思春期青年が語る早期診断の意義</title>
+    <title>適切なタイミングの重要性：自閉症スペクトラムの青年期における早期診断の価値に関する考察</title>
     <link>https://osf.io/y5dta</link>
     <guid isPermaLink="false">https://osf.io/y5dta#ja</guid>
     <pubDate>Thu, 08 Jan 2026 17:23:50 +0000</pubDate>
@@ -307,46 +335,18 @@
     <description>Enhancing student math achievement through a digital wellbeing training for educators</description>
   </item>
   <item>
-    <title>人工知能に対する態度の予測におけるパーソナリティ特性、持続可能性への態度、世代継承関心、人口統計学的要因、経済的安定性および親子関係の役割の検討</title>
+    <title>人工知能に対する態度の予測における人格特性、持続可能性への態度、世代継承への関心、人口統計学的要因、経済的安定性および親子関係の役割の検討</title>
     <link>https://osf.io/526ma</link>
     <guid isPermaLink="false">https://osf.io/526ma#ja</guid>
     <pubDate>Thu, 08 Jan 2026 17:23:50 +0000</pubDate>
     <description>Exploring the Role of Personality Attributes, Attitudes Towards Sustainability, Generativity Concern, Demographics, Financial Comfort, and Parenthood in predicting Attitudes Towards Artificial Intelligence</description>
   </item>
   <item>
-    <title>表面的対応を超えて：組織の多様性合理化が応募者の自己選択を通じた反DEI主張形成に与える影響</title>
+    <title>見せかけを超えて：組織の多様性合理化が応募者の自己選択を通じた反DEI主張形成に与える影響</title>
     <link>https://osf.io/xkqvy</link>
     <guid isPermaLink="false">https://osf.io/xkqvy#ja</guid>
     <pubDate>Thu, 08 Jan 2026 17:23:49 +0000</pubDate>
     <description>Beyond Window Dressing: Organizational Diversity Rationales Impact Anti-DEI Claims-Making through Applicant Self-Selection</description>
-  </item>
-  <item>
-    <title>ギャンブル配信とギャンブル意図：計画的行動理論による検証</title>
-    <link>https://osf.io/jtrmu</link>
-    <guid isPermaLink="false">https://osf.io/jtrmu#ja</guid>
-    <pubDate>Thu, 08 Jan 2026 17:23:49 +0000</pubDate>
-    <description>Gambling streams and gambling intentions: Testing via the Theory of Planned Behaviour</description>
-  </item>
-  <item>
-    <title>HiTOPおよびRDoCの妥当性と有用性への道としての経験的に十分な症状セット：フィッシャーへのコメント</title>
-    <link>https://osf.io/k3xv4</link>
-    <guid isPermaLink="false">https://osf.io/k3xv4#ja</guid>
-    <pubDate>Thu, 08 Jan 2026 17:23:49 +0000</pubDate>
-    <description>Empirically sufficient symptom sets as a path to validity and utility for  HiTOP and RDoC: A commentary on Fisher</description>
-  </item>
-  <item>
-    <title>因果メカニズム情報による事前因果信念の操作が結果頻度バイアスに及ぼす影響</title>
-    <link>https://osf.io/bqmjy</link>
-    <guid isPermaLink="false">https://osf.io/bqmjy#ja</guid>
-    <pubDate>Thu, 08 Jan 2026 17:23:48 +0000</pubDate>
-    <description>Manipulating Prior Causal Beliefs Through Causal Mechanism Information Affects the Outcome-Density Bias</description>
-  </item>
-  <item>
-    <title>権威主義の内側：多様な右派権威主義表現とCOVID-19恐怖および予防信念との動的関連</title>
-    <link>https://osf.io/7rjk4</link>
-    <guid isPermaLink="false">https://osf.io/7rjk4#ja</guid>
-    <pubDate>Thu, 08 Jan 2026 17:23:48 +0000</pubDate>
-    <description>Inside Authoritarianism: Heterogeneous RWA Expressions and Their Dynamic Links to COVID-19 Fear and Prevention Beliefs</description>
   </item>
 </channel>
 </rss>
