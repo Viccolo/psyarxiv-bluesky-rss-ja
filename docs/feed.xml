@@ -6,6 +6,41 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>自閉症児と非自閉症児の視覚的方向性および運動課題における知覚的意思決定と課題指示の影響</title>
+    <link>https://osf.io/w84rf</link>
+    <guid isPermaLink="false">https://osf.io/w84rf#ja</guid>
+    <pubDate>Wed, 14 Jan 2026 20:16:59 +0000</pubDate>
+    <description>Autistic and non-autistic children’s perceptual decision-making in visual orientation and motion tasks and the effect of task instructions</description>
+  </item>
+  <item>
+    <title>暗黙的態度と顕在的態度のパターン：2021年から2024年にかけてのバイアス増加の検証</title>
+    <link>https://osf.io/26f8v</link>
+    <guid isPermaLink="false">https://osf.io/26f8v#ja</guid>
+    <pubDate>Wed, 14 Jan 2026 20:16:58 +0000</pubDate>
+    <description>Patterns of Implicit and Explicit Attitudes V. Increase in bias from 2021-2024</description>
+  </item>
+  <item>
+    <title>音声の迅速な聴覚フィードバック制御は理想的目標ではなく現在の産出に基づく</title>
+    <link>https://osf.io/c56ka</link>
+    <guid isPermaLink="false">https://osf.io/c56ka#ja</guid>
+    <pubDate>Wed, 14 Jan 2026 20:16:58 +0000</pubDate>
+    <description>Rapid Auditory Feedback Control of Speech is Based on the Current Production, Not an Idealized Target</description>
+  </item>
+  <item>
+    <title>自己生成サンプルによる機能学習における自己からの学習</title>
+    <link>https://osf.io/jscx2</link>
+    <guid isPermaLink="false">https://osf.io/jscx2#ja</guid>
+    <pubDate>Wed, 14 Jan 2026 20:16:58 +0000</pubDate>
+    <description>Learning from oneself: Function learning with self-generated samples</description>
+  </item>
+  <item>
+    <title>L1スペイン語・タイ語話者およびL2英語話者による第3言語としての標準中国語破裂音の習得</title>
+    <link>https://osf.io/dbx8s</link>
+    <guid isPermaLink="false">https://osf.io/dbx8s#ja</guid>
+    <pubDate>Wed, 14 Jan 2026 20:16:57 +0000</pubDate>
+    <description>L3 acquisition of Mandarin Chinese stop consonants by learners with L1 Spanish/Thai and L2 English</description>
+  </item>
+  <item>
     <title>海馬の結合性が記憶の特異性および一般化能力を予測する</title>
     <link>https://osf.io/ef48h</link>
     <guid isPermaLink="false">https://osf.io/ef48h#ja</guid>
@@ -13,7 +48,7 @@
     <description>Hippocampal connectivity predicting memory specificity and memory generalization abilities</description>
   </item>
   <item>
-    <title>ゴールデンレトリバー：高齢者は単一桁の算術問題を事実想起により解決する</title>
+    <title>ゴールデンレトリバー：高齢者は単一桁の算術問題を事実想起によって解決する</title>
     <link>https://osf.io/ujn85</link>
     <guid isPermaLink="false">https://osf.io/ujn85#ja</guid>
     <pubDate>Wed, 14 Jan 2026 18:56:53 +0000</pubDate>
@@ -27,21 +62,21 @@
     <description>Thermal pain tolerance depends on stimulus duration and thermode type</description>
   </item>
   <item>
-    <title>火に火を投じる：メディア誘発回復における生理的覚醒の役割</title>
+    <title>火に火をもって制す：メディア誘発回復における生理的覚醒の役割</title>
     <link>https://osf.io/uyhxj</link>
     <guid isPermaLink="false">https://osf.io/uyhxj#ja</guid>
     <pubDate>Wed, 14 Jan 2026 18:56:52 +0000</pubDate>
     <description>Fighting fire with fire: The role of physiological arousal in media-induced recovery</description>
   </item>
   <item>
-    <title>誤りから学ぶ：迅速な誤答後の自己修正機会が適応的事実学習を促進する</title>
+    <title>誤りからの学習：迅速な誤答後の自己修正機会が適応的事実学習を促進する</title>
     <link>https://osf.io/6ujvt</link>
     <guid isPermaLink="false">https://osf.io/6ujvt#ja</guid>
     <pubDate>Wed, 14 Jan 2026 18:56:52 +0000</pubDate>
     <description>Learning From Our Mistakes: Opportunities for Self-Correction Following Fast Errors Enhance Adaptive Fact Learning</description>
   </item>
   <item>
-    <title>日常生活における心理的豊かさ：パーソナリティ、新規性、感情的関与の役割</title>
+    <title>日常生活における心理的豊かさ：パーソナリティ、新奇性、感情的関与の役割</title>
     <link>https://osf.io/gvpm3</link>
     <guid isPermaLink="false">https://osf.io/gvpm3#ja</guid>
     <pubDate>Wed, 14 Jan 2026 18:56:51 +0000</pubDate>
@@ -62,7 +97,7 @@
     <description>Against Frictionless AI</description>
   </item>
   <item>
-    <title>デジタル時代における身体醜形障害：アルゴリズムのメカニズムと青年期の臨床的示唆</title>
+    <title>デジタル時代における身体醜形障害：アルゴリズムのメカニズムと青年期の臨床的意義</title>
     <link>https://osf.io/xwe57</link>
     <guid isPermaLink="false">https://osf.io/xwe57#ja</guid>
     <pubDate>Wed, 14 Jan 2026 18:56:50 +0000</pubDate>
@@ -76,14 +111,14 @@
     <description>Prioritizing detailed item memories through post-encoding motivation requires consolidation</description>
   </item>
   <item>
-    <title>再分配選択における道徳的多元主義の収束的証拠：再分配原理モデルの検討</title>
+    <title>再分配原理モデル：再分配的選択における道徳的多元主義への収束的証拠</title>
     <link>https://osf.io/5t2h7</link>
     <guid isPermaLink="false">https://osf.io/5t2h7#ja</guid>
     <pubDate>Wed, 14 Jan 2026 18:27:45 +0000</pubDate>
     <description>The Redistributive Principles Model: converging evidence for moral pluralism in redistributive choice</description>
   </item>
   <item>
-    <title>ニューラル言語モデルの統語的アイランド効果に関する成功は普遍的ではない：英語におけるwh-アイランド感受性とオランダ語における非感受性</title>
+    <title>神経言語モデルの統語的アイランド効果に関する成功は普遍的ではない：英語におけるwh-アイランド感受性とオランダ語における非感受性</title>
     <link>https://osf.io/pk7e3</link>
     <guid isPermaLink="false">https://osf.io/pk7e3#ja</guid>
     <pubDate>Wed, 14 Jan 2026 13:37:09 +0000</pubDate>
@@ -97,7 +132,7 @@
     <description>Psychological Resilience in World Trade Center Responders is Associated with Effective Brain Network Connectivity</description>
   </item>
   <item>
-    <title>行動としての感情調整：認知再評価と受容が認知に与える影響</title>
+    <title>行動としての感情調整：再評価と受容が認知に与える影響</title>
     <link>https://osf.io/r8swx</link>
     <guid isPermaLink="false">https://osf.io/r8swx#ja</guid>
     <pubDate>Wed, 14 Jan 2026 01:24:23 +0000</pubDate>
@@ -111,7 +146,7 @@
     <description>Random forests in corpus research: A systematic review</description>
   </item>
   <item>
-    <title>社会的バイリンガル言語使用は抑制制御における神経効率性と関連する：ERPによる証拠</title>
+    <title>社会的バイリンガル言語使用は抑制制御における神経効率性と関連する：事象関連電位（ERP）による証拠</title>
     <link>https://osf.io/3b7nm</link>
     <guid isPermaLink="false">https://osf.io/3b7nm#ja</guid>
     <pubDate>Wed, 14 Jan 2026 01:24:22 +0000</pubDate>
@@ -125,7 +160,7 @@
     <description>The Ontogeny of the generalisation of avoidance behaviour</description>
   </item>
   <item>
-    <title>黒人アメリカ人の健康における人種の意味：マイクロアグレッションが自己効力感と行動変容準備に与える影響</title>
+    <title>黒人アメリカ人の健康における人種の意味：マイクロアグレッションが自己効力感と行動変容準備性に与える影響</title>
     <link>https://osf.io/vr4w7</link>
     <guid isPermaLink="false">https://osf.io/vr4w7#ja</guid>
     <pubDate>Tue, 13 Jan 2026 20:20:09 +0000</pubDate>
@@ -153,7 +188,7 @@
     <description>The Bereaved Voices Project: A protocol for community-based psychological autopsy research to understand and prevent suicide in autistic people</description>
   </item>
   <item>
-    <title>健康なパーソナリティは何をもたらすのか？幸福感の水準、安定性、および時間経過に伴う変化</title>
+    <title>健康なパーソナリティは何をもたらすか？幸福感の水準、安定性、および時間を通じた変化</title>
     <link>https://osf.io/ky9u6</link>
     <guid isPermaLink="false">https://osf.io/ky9u6#ja</guid>
     <pubDate>Tue, 13 Jan 2026 16:26:34 +0000</pubDate>
@@ -174,7 +209,7 @@
     <description>Culture in psychology and neuroscience: Concepts, relevance, and empirical evidence in rhythm perception</description>
   </item>
   <item>
-    <title>自己認識する中道派における極端化傾向の変化</title>
+    <title>自己認識された中道派における極端化傾向の変化</title>
     <link>https://osf.io/8xm2u</link>
     <guid isPermaLink="false">https://osf.io/8xm2u#ja</guid>
     <pubDate>Mon, 12 Jan 2026 22:42:00 +0000</pubDate>
@@ -202,7 +237,7 @@
     <description>Evaluating biomarkers and prediction models with E2P Simulator</description>
   </item>
   <item>
-    <title>生殖と子どもを持つ前に熟慮する社会：学部生および大学院生を対象とした文献の迅速レビュー</title>
+    <title>生殖と子どもを持つことを再考する社会：学部生および大学院生を対象とした文献の迅速レビュー</title>
     <link>https://osf.io/68zre</link>
     <guid isPermaLink="false">https://osf.io/68zre#ja</guid>
     <pubDate>Mon, 12 Jan 2026 18:27:17 +0000</pubDate>
@@ -216,7 +251,7 @@
     <description>Attitudes toward Technology and Technology-Free Environments: An Empirical and Theoretical Investigation of the User Experience</description>
   </item>
   <item>
-    <title>証拠蓄積における構造化された試行間変動のモデリング</title>
+    <title>証拠蓄積における構造化された試行間変動のモデル化</title>
     <link>https://osf.io/kzvm3</link>
     <guid isPermaLink="false">https://osf.io/kzvm3#ja</guid>
     <pubDate>Mon, 12 Jan 2026 18:27:16 +0000</pubDate>
@@ -230,7 +265,7 @@
     <description>Slovak Validation of the Online Gambling Disorder Questionnaire (OGD-Q)</description>
   </item>
   <item>
-    <title>何かを見落としているのか？教師養成教材に説明されていない最も効果的な学習戦略二つ</title>
+    <title>何かを見落としているのか？ 教師養成教材に説明されていない最も効果的な学習戦略二つ</title>
     <link>https://osf.io/gqz84</link>
     <guid isPermaLink="false">https://osf.io/gqz84#ja</guid>
     <pubDate>Mon, 12 Jan 2026 13:38:56 +0000</pubDate>
@@ -251,21 +286,21 @@
     <description>Social connection features predicting loneliness: A longitudinal, interpretable machine-learning analysis</description>
   </item>
   <item>
-    <title>線維筋痛症の急性増悪に関する神経認知的トリガーモデル：認知負荷、感情的背景ストレス、および神経回復の役割</title>
+    <title>線維筋痛症の急性増悪に関する神経認知トリガーモデル：認知負荷、情動的背景ストレス、および神経回復の役割</title>
     <link>https://osf.io/qtmw3</link>
     <guid isPermaLink="false">https://osf.io/qtmw3#ja</guid>
     <pubDate>Sun, 11 Jan 2026 22:42:13 +0000</pubDate>
     <description>A Neuro-Cognitive Trigger Model of Fibromyalgia Flare-Ups: The Role of Cognitive Load, Emotional Background Stress, and Neural Recovery</description>
   </item>
   <item>
-    <title>バイオフィードバックが音楽家のメンタルヘルスとパフォーマンスに及ぼす影響：系統的レビュー</title>
+    <title>バイオフィードバックが音楽家のメンタルヘルスと演奏パフォーマンスに及ぼす影響：系統的レビュー</title>
     <link>https://osf.io/nwhkt</link>
     <guid isPermaLink="false">https://osf.io/nwhkt#ja</guid>
     <pubDate>Sun, 11 Jan 2026 17:39:55 +0000</pubDate>
     <description>Effects of biofeedback on musicians&#x27; mental health and performance: a systematic review</description>
   </item>
   <item>
-    <title>合成的政策立案：非WEIRD諸国における既存および将来の政策に対する公共の見解予測のための大規模言語モデル生成ペルソナの活用</title>
+    <title>合成政策立案：非WEIRD諸国における既存および将来の政策に対する公共の見解予測のための大規模言語モデル生成ペルソナの活用</title>
     <link>https://osf.io/yjudk</link>
     <guid isPermaLink="false">https://osf.io/yjudk#ja</guid>
     <pubDate>Sun, 11 Jan 2026 17:39:55 +0000</pubDate>
@@ -286,7 +321,7 @@
     <description>Feasibility of measuring social and nonsocial reward responsivity in autistic adolescents: An EEG study</description>
   </item>
   <item>
-    <title>子ども・青年における段階的ケア心理介入の有効性：メタアナリシスレビュー</title>
+    <title>子どもと青年における段階的ケア心理介入の有効性：メタアナリシス的検討</title>
     <link>https://osf.io/89zk5</link>
     <guid isPermaLink="false">https://osf.io/89zk5#ja</guid>
     <pubDate>Sun, 11 Jan 2026 12:33:32 +0000</pubDate>
@@ -300,53 +335,18 @@
     <description>Nested Ecological Affordances: A Relational Framework for Environmentally Significant Behavior</description>
   </item>
   <item>
-    <title>生成AI時代における認知的労働への投資の意義とは何か？</title>
+    <title>生成AIの時代における認知的労働への投資の意義とは何か？</title>
     <link>https://osf.io/9hbaf</link>
     <guid isPermaLink="false">https://osf.io/9hbaf#ja</guid>
     <pubDate>Sun, 11 Jan 2026 09:40:51 +0000</pubDate>
     <description>Why Should we Invest Epistemic Labor in a World of Generative AI?</description>
   </item>
   <item>
-    <title>気候レジリエンスのための「グリーン化」教育：戦略、実施、およびカリキュラム統合</title>
+    <title>気候レジリエンスのための教育の「グリーン化」：戦略、実施、およびカリキュラム統合</title>
     <link>https://osf.io/b7hux</link>
     <guid isPermaLink="false">https://osf.io/b7hux#ja</guid>
     <pubDate>Sun, 11 Jan 2026 09:17:08 +0000</pubDate>
     <description>“Greening” Education for Climate Resilience: Strategies, Implementation, and Curriculum Integration</description>
-  </item>
-  <item>
-    <title>痛みとその後の56の幸福および生活結果：多国籍サンプルによるアウトカム全般の縦断的研究</title>
-    <link>https://osf.io/7eqfx</link>
-    <guid isPermaLink="false">https://osf.io/7eqfx#ja</guid>
-    <pubDate>Sat, 10 Jan 2026 20:41:51 +0000</pubDate>
-    <description>Pain and 56 Subsequent Wellbeing and Life Outcomes:  An Outcome-Wide Longitudinal Approach in a Multi-Country Sample</description>
-  </item>
-  <item>
-    <title>痛みと苦悩は苦痛と幸福感に異なる影響を及ぼす：多国間縦断分析による証拠</title>
-    <link>https://osf.io/7m2kg</link>
-    <guid isPermaLink="false">https://osf.io/7m2kg#ja</guid>
-    <pubDate>Sat, 10 Jan 2026 18:23:36 +0000</pubDate>
-    <description>Pain and Suffering Have Distinct Effects on Distress and Wellbeing: Evidence From a Longitudinal Multi-Country Analysis</description>
-  </item>
-  <item>
-    <title>集団比較を超えて：聴覚障害児と健聴児のスペイン語文理解プロファイリング</title>
-    <link>https://osf.io/duya6</link>
-    <guid isPermaLink="false">https://osf.io/duya6#ja</guid>
-    <pubDate>Sat, 10 Jan 2026 18:23:35 +0000</pubDate>
-    <description>Beyond group comparisons: Profiling sentence comprehension in Spanish-speaking children with hearing loss and with typical hearing</description>
-  </item>
-  <item>
-    <title>心理測定学</title>
-    <link>https://osf.io/qjpnk</link>
-    <guid isPermaLink="false">https://osf.io/qjpnk#ja</guid>
-    <pubDate>Sat, 10 Jan 2026 17:39:51 +0000</pubDate>
-    <description>Psychometrics</description>
-  </item>
-  <item>
-    <title>大学生のジェンダーホロンにおける生物学的・心理社会的・社会人口学的決定要因と総合的幸福感との関連：2020–2025年文献の迅速レビュー</title>
-    <link>https://osf.io/6hz8f</link>
-    <guid isPermaLink="false">https://osf.io/6hz8f#ja</guid>
-    <pubDate>Sat, 10 Jan 2026 15:15:48 +0000</pubDate>
-    <description>Determinantes biológicos, psicosociales y sociodemográficos del holón del género y su relación con el bienestar integral en estudiantes universitarios: una revisión rápida de la literatura 2020–2025</description>
   </item>
 </channel>
 </rss>
