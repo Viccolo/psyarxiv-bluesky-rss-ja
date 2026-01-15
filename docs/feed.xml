@@ -6,21 +6,84 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>ディープフェイク／実害：ディープフェイク悪用行為と誤信受容を減少させるオンライン介入の効果検証</title>
+    <title>ニューラルネットワークによる正則化を用いた統計的推論とその心理計測学への応用</title>
+    <link>https://osf.io/eq45p</link>
+    <guid isPermaLink="false">https://osf.io/eq45p#ja</guid>
+    <pubDate>Thu, 15 Jan 2026 04:26:14 +0000</pubDate>
+    <description>Statistical Inference Regularized with Neural Networks and its Application in Psychometrics</description>
+  </item>
+  <item>
+    <title>共有された原則と選択的正義</title>
+    <link>https://osf.io/4up2f</link>
+    <guid isPermaLink="false">https://osf.io/4up2f#ja</guid>
+    <pubDate>Thu, 15 Jan 2026 04:26:13 +0000</pubDate>
+    <description>Shared Principles, Selective Justice</description>
+  </item>
+  <item>
+    <title>青年期のソーシャルメディア体験の主要領域の理解：若者と主要成人を対象とした並行デルファイ研究</title>
+    <link>https://osf.io/6ph87</link>
+    <guid isPermaLink="false">https://osf.io/6ph87#ja</guid>
+    <pubDate>Thu, 15 Jan 2026 04:26:13 +0000</pubDate>
+    <description>Understanding the key domains of adolescent social media experience: a parallel Delphi study with young people and key adults</description>
+  </item>
+  <item>
+    <title>オーストリアに必要な心理療法士の数はいくつか？治療ギャップ推定の体系的総合分析</title>
+    <link>https://osf.io/wra4n</link>
+    <guid isPermaLink="false">https://osf.io/wra4n#ja</guid>
+    <pubDate>Thu, 15 Jan 2026 04:26:13 +0000</pubDate>
+    <description>How many psychotherapists does Austria need? A systematic synthesis of treatment gap estimates</description>
+  </item>
+  <item>
+    <title>家庭内における進化的公平性と不公平性の検討：公平性に関する進化論的説明のレビュー</title>
+    <link>https://osf.io/67sk5</link>
+    <guid isPermaLink="false">https://osf.io/67sk5#ja</guid>
+    <pubDate>Thu, 15 Jan 2026 04:26:07 +0000</pubDate>
+    <description>Evolved equity but inequity in the household?  Reviewing evolutionary accounts of Fairness</description>
+  </item>
+  <item>
+    <title>長時間のタイピング作業によって引き起こされる疲労の解明</title>
+    <link>https://osf.io/mch3k</link>
+    <guid isPermaLink="false">https://osf.io/mch3k#ja</guid>
+    <pubDate>Thu, 15 Jan 2026 04:26:07 +0000</pubDate>
+    <description>Unravelling the fatigue induced by a prolonged typing task</description>
+  </item>
+  <item>
+    <title>第三者としての社会的触覚：個人差が触覚知覚に与える影響</title>
+    <link>https://osf.io/5rh27</link>
+    <guid isPermaLink="false">https://osf.io/5rh27#ja</guid>
+    <pubDate>Thu, 15 Jan 2026 04:26:06 +0000</pubDate>
+    <description>Social touch as a third-party observer: how interindividual differences shape touch perception</description>
+  </item>
+  <item>
+    <title>制御の隠れた代償：再評価は短期的利益をもたらすが、予期せぬ感情的想起への適応を妨げる</title>
+    <link>https://osf.io/9khnd</link>
+    <guid isPermaLink="false">https://osf.io/9khnd#ja</guid>
+    <pubDate>Thu, 15 Jan 2026 04:26:00 +0000</pubDate>
+    <description>The Hidden Cost of Control: Reappraisal Brings Short-Term Benefits but Hinders Adaptation to Unexpected Emotional Reminders</description>
+  </item>
+  <item>
+    <title>統合失調スペクトラム障害における人種的ストレスが陰性症状に及ぼす影響の理論モデル</title>
+    <link>https://osf.io/6ne2m</link>
+    <guid isPermaLink="false">https://osf.io/6ne2m#ja</guid>
+    <pubDate>Thu, 15 Jan 2026 04:25:59 +0000</pubDate>
+    <description>A Theoretical Model of Racial Stress Shaping Negative Symptoms in Schizophrenia Spectrum Disorders</description>
+  </item>
+  <item>
+    <title>ディープフェイク被害と実害：ディープフェイク悪用行為および誤信受容を減少させるオンライン介入の効果検証</title>
     <link>https://osf.io/tqs7a</link>
     <guid isPermaLink="false">https://osf.io/tqs7a#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:54 +0000</pubDate>
     <description>Deepfake/Real Harms: An online intervention to reduce deepfake abuse perpetration and myth acceptance.</description>
   </item>
   <item>
-    <title>確信表現型：強化学習における価値と意思決定確実性の統一的計算モデル</title>
+    <title>確信表現型：強化学習における価値と意思決定確信の統一的計算モデル</title>
     <link>https://osf.io/7cqts</link>
     <guid isPermaLink="false">https://osf.io/7cqts#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:53 +0000</pubDate>
     <description>Confidence phenotypes: a unified computational account of value and decision certainty in reinforcement learning</description>
   </item>
   <item>
-    <title>最小関心効果量の開発と簡略化手続きに関する研究</title>
+    <title>最小関心効果量の開発と簡易的手続き</title>
     <link>https://osf.io/g2yv5</link>
     <guid isPermaLink="false">https://osf.io/g2yv5#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:53 +0000</pubDate>
@@ -34,21 +97,21 @@
     <description>When items become context: how retrieval questions shape memory</description>
   </item>
   <item>
-    <title>実験室におけるストレス反応性は日常生活のストレス反応と異なる：トライアー社会的ストレステストと携帯型評価の比較</title>
+    <title>実験室におけるストレス反応性と日常生活のストレス反応の乖離：トライアー社会的ストレステストと携帯型評価の比較</title>
     <link>https://osf.io/r4jhn</link>
     <guid isPermaLink="false">https://osf.io/r4jhn#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:52 +0000</pubDate>
     <description>Laboratory Stress Reactivity Diverges from Daily Life Stress Responses: Comparing the Trier Social Stress Test and Ambulatory Assessments</description>
   </item>
   <item>
-    <title>集団間対立がコミットメント表出を促進する：異文化間実験的証拠</title>
+    <title>集団間対立がコミットメントシグナルを促進する：異文化間実験的証拠</title>
     <link>https://osf.io/pxhby</link>
     <guid isPermaLink="false">https://osf.io/pxhby#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:52 +0000</pubDate>
     <description>Intergroup Conflict Drives Commitment Signalling: A Cross-Cultural Experimental Evidence</description>
   </item>
   <item>
-    <title>精神医学における出版動向：現代の歴史的傾向と社会人口統計学的要因</title>
+    <title>精神医学における出版動向：現代の歴史的傾向と社会人口学的要因</title>
     <link>https://osf.io/duyma</link>
     <guid isPermaLink="false">https://osf.io/duyma#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:52 +0000</pubDate>
@@ -62,7 +125,7 @@
     <description>The Proposition Based Theory Specification Method (PBTS): A Verbal Approach to Formalizing and Analyzing Theories in Psychology</description>
   </item>
   <item>
-    <title>刺激の馴染みが階層的構造学習とメタ認知動態に及ぼす影響</title>
+    <title>刺激の親しみやすさが階層的構造学習とメタ認知動態に及ぼす影響</title>
     <link>https://osf.io/x5atk</link>
     <guid isPermaLink="false">https://osf.io/x5atk#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:51 +0000</pubDate>
@@ -76,21 +139,21 @@
     <description>Perceiving Uncertainty: how visual encoding, socially mediated doubt, and task complexity influence human decision-making</description>
   </item>
   <item>
-    <title>マウストラッキングによる価値選択における傾向性と評価の寄与の実証</title>
+    <title>マウストラッキングによる価値選択における素因と評価の寄与の実証</title>
     <link>https://osf.io/et45g</link>
     <guid isPermaLink="false">https://osf.io/et45g#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:51 +0000</pubDate>
     <description>Mouse-Tracking Substantiates the Contributions of Predispositions and Evaluations in Value-Based Choice</description>
   </item>
   <item>
-    <title>アクアヘノーシス：フローテーションRESTによって誘発される非薬理学的変性意識状態</title>
+    <title>アクアヘノーシス：フローテーションRESTによって誘発される非薬理学的意識変容状態</title>
     <link>https://osf.io/6mj8n</link>
     <guid isPermaLink="false">https://osf.io/6mj8n#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:50 +0000</pubDate>
     <description>Aquahenosis: A non-pharmacological altered state of consciousness induced by Floatation-REST</description>
   </item>
   <item>
-    <title>若年成人におけるタバコ銘柄名の知覚：名称が示す（軽減された）害の認識</title>
+    <title>若年成人におけるタバコ銘柄名の知覚：名称は依然として（軽減された）害を示唆する</title>
     <link>https://osf.io/2fhak</link>
     <guid isPermaLink="false">https://osf.io/2fhak#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:50 +0000</pubDate>
@@ -104,14 +167,14 @@
     <description>Burst-related potentials as a temporal anchor for cognition</description>
   </item>
   <item>
-    <title>事前の聴取経験を伴わない音楽誘発ノスタルジアのモデルベース分析</title>
+    <title>事前の聴取経験を伴わない音楽誘発ノスタルジアのモデルベース解析</title>
     <link>https://osf.io/rfkxw</link>
     <guid isPermaLink="false">https://osf.io/rfkxw#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:50 +0000</pubDate>
     <description>A model-based analysis of music-evoked nostalgia without prior listening experience</description>
   </item>
   <item>
-    <title>衝動的および計画的殺人犯における精神病質と敵意帰属の関連性</title>
+    <title>衝動的および計画的殺人犯におけるサイコパシーと敵意帰属の関連性</title>
     <link>https://osf.io/mu73x</link>
     <guid isPermaLink="false">https://osf.io/mu73x#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:49 +0000</pubDate>
@@ -139,14 +202,14 @@
     <description>Ten simple rules for setting up a psychedelic study</description>
   </item>
   <item>
-    <title>STAR*D試験におけるシタロプラム抗うつ薬反応の症状特異的時間的フェノタイピング</title>
+    <title>STAR*D試験におけるシタロプラム抗うつ薬反応の症状特異的時間的表現型解析</title>
     <link>https://osf.io/bpq3n</link>
     <guid isPermaLink="false">https://osf.io/bpq3n#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:48 +0000</pubDate>
     <description>Symptom-specific Temporal Phenotyping of Anti-depressant Response to Citalopram in STAR*D Trial</description>
   </item>
   <item>
-    <title>相互作用における多モーダル韻律：範囲、意義および軌跡</title>
+    <title>相互作用における多モーダル韻律：範囲、意義および発展過程</title>
     <link>https://osf.io/4dk3n</link>
     <guid isPermaLink="false">https://osf.io/4dk3n#ja</guid>
     <pubDate>Wed, 14 Jan 2026 20:43:03 +0000</pubDate>
@@ -181,7 +244,7 @@
     <description>Learning from oneself: Function learning with self-generated samples</description>
   </item>
   <item>
-    <title>L1スペイン語・タイ語話者およびL2英語話者による第3言語としての標準中国語破裂音の習得</title>
+    <title>スペイン語・タイ語を母語とし英語を第二言語とする学習者による第三言語としての標準中国語破裂音の習得</title>
     <link>https://osf.io/dbx8s</link>
     <guid isPermaLink="false">https://osf.io/dbx8s#ja</guid>
     <pubDate>Wed, 14 Jan 2026 20:16:57 +0000</pubDate>
@@ -209,7 +272,7 @@
     <description>Thermal pain tolerance depends on stimulus duration and thermode type</description>
   </item>
   <item>
-    <title>火に火をもって対抗する：メディア誘発回復における生理的覚醒の役割</title>
+    <title>火に火をもって制す：メディア誘発回復における生理的覚醒の役割</title>
     <link>https://osf.io/uyhxj</link>
     <guid isPermaLink="false">https://osf.io/uyhxj#ja</guid>
     <pubDate>Wed, 14 Jan 2026 18:56:52 +0000</pubDate>
@@ -244,7 +307,7 @@
     <description>Against Frictionless AI</description>
   </item>
   <item>
-    <title>デジタル時代における身体醜形障害：アルゴリズムのメカニズムと青年期の臨床的示唆</title>
+    <title>デジタル時代における身体醜形障害：アルゴリズムのメカニズムと青年期の臨床的意義</title>
     <link>https://osf.io/xwe57</link>
     <guid isPermaLink="false">https://osf.io/xwe57#ja</guid>
     <pubDate>Wed, 14 Jan 2026 18:56:50 +0000</pubDate>
@@ -265,14 +328,14 @@
     <description>The Redistributive Principles Model: converging evidence for moral pluralism in redistributive choice</description>
   </item>
   <item>
-    <title>ニューラル言語モデルの統語的アイランド効果に関する成功は普遍的ではない：英語におけるwh-アイランド感受性とオランダ語における非感受性</title>
+    <title>神経言語モデルの統語的アイランド効果における成功は普遍的ではない：英語におけるwh-アイランド感受性とオランダ語における非感受性</title>
     <link>https://osf.io/pk7e3</link>
     <guid isPermaLink="false">https://osf.io/pk7e3#ja</guid>
     <pubDate>Wed, 14 Jan 2026 13:37:09 +0000</pubDate>
     <description>The success of Neural Language Models on syntactic island effects is not universal: wh-island sensitivity in English but not in Dutch</description>
   </item>
   <item>
-    <title>世界貿易センター対応者における心理的レジリエンスと脳ネットワークの効果的結合性の関連性</title>
+    <title>世界貿易センター対応者における心理的レジリエンスと脳ネットワークの効果的結合性との関連性</title>
     <link>https://osf.io/4dbzx</link>
     <guid isPermaLink="false">https://osf.io/4dbzx#ja</guid>
     <pubDate>Wed, 14 Jan 2026 06:57:19 +0000</pubDate>
@@ -291,69 +354,6 @@
     <guid isPermaLink="false">https://osf.io/byd5c#ja</guid>
     <pubDate>Wed, 14 Jan 2026 01:24:23 +0000</pubDate>
     <description>Random forests in corpus research: A systematic review</description>
-  </item>
-  <item>
-    <title>社会的バイリンガル言語使用は抑制制御における神経効率性と関連する：事象関連電位（ERP）による証拠</title>
-    <link>https://osf.io/3b7nm</link>
-    <guid isPermaLink="false">https://osf.io/3b7nm#ja</guid>
-    <pubDate>Wed, 14 Jan 2026 01:24:22 +0000</pubDate>
-    <description>Social Bilingual Language Use Is Associated with Neural Efficiency in Inhibitory Control: Evidence from ERPs</description>
-  </item>
-  <item>
-    <title>回避行動の一般化の発達過程</title>
-    <link>https://osf.io/hdf6s</link>
-    <guid isPermaLink="false">https://osf.io/hdf6s#ja</guid>
-    <pubDate>Wed, 14 Jan 2026 01:24:22 +0000</pubDate>
-    <description>The Ontogeny of the generalisation of avoidance behaviour</description>
-  </item>
-  <item>
-    <title>黒人アメリカ人の健康における人種の意味：マイクロアグレッションが自己効力感と行動変容準備に与える影響</title>
-    <link>https://osf.io/vr4w7</link>
-    <guid isPermaLink="false">https://osf.io/vr4w7#ja</guid>
-    <pubDate>Tue, 13 Jan 2026 20:20:09 +0000</pubDate>
-    <description>What Race Means for Health among Black Americans: How Microaggressions Shape Self-Efficacy and Readiness for Behavior Change</description>
-  </item>
-  <item>
-    <title>証拠表象の違いが選択境界の崩壊錯覚を生み出す</title>
-    <link>https://osf.io/kxyaf</link>
-    <guid isPermaLink="false">https://osf.io/kxyaf#ja</guid>
-    <pubDate>Tue, 13 Jan 2026 20:20:09 +0000</pubDate>
-    <description>Differences in Evidence Representations Give Rise to the Illusion of Collapsing Choice Boundaries</description>
-  </item>
-  <item>
-    <title>外部および内在化された体重スティグマの生態学的瞬間評価</title>
-    <link>https://osf.io/4rdb8</link>
-    <guid isPermaLink="false">https://osf.io/4rdb8#ja</guid>
-    <pubDate>Tue, 13 Jan 2026 20:20:09 +0000</pubDate>
-    <description>External and Internalized Weight Stigma: An Ecological Momentary Assessment</description>
-  </item>
-  <item>
-    <title>遺族の声プロジェクト：自閉症者の自殺理解と予防を目的とした地域密着型心理的剖検研究のプロトコル</title>
-    <link>https://osf.io/mfsd6</link>
-    <guid isPermaLink="false">https://osf.io/mfsd6#ja</guid>
-    <pubDate>Tue, 13 Jan 2026 20:20:08 +0000</pubDate>
-    <description>The Bereaved Voices Project: A protocol for community-based psychological autopsy research to understand and prevent suicide in autistic people</description>
-  </item>
-  <item>
-    <title>健康的なパーソナリティは何をもたらすか？幸福感のレベル、安定性、および時間経過に伴う変化</title>
-    <link>https://osf.io/ky9u6</link>
-    <guid isPermaLink="false">https://osf.io/ky9u6#ja</guid>
-    <pubDate>Tue, 13 Jan 2026 16:26:34 +0000</pubDate>
-    <description>What Does a Healthy Personality Do? Levels, Stability, and Change in Well-Being Across Time</description>
-  </item>
-  <item>
-    <title>強制的または希望的な居住地移転？移転の自発性が幸福感と移動行動に及ぼす影響</title>
-    <link>https://osf.io/z4vdc</link>
-    <guid isPermaLink="false">https://osf.io/z4vdc#ja</guid>
-    <pubDate>Tue, 13 Jan 2026 16:26:34 +0000</pubDate>
-    <description>Forced or Desired Residential Relocation? Moving Voluntariness and Its Effects on Well-Being and Travel Behaviour</description>
-  </item>
-  <item>
-    <title>心理学と神経科学における文化：リズム知覚の概念、重要性、および実証的証拠</title>
-    <link>https://osf.io/sqbzn</link>
-    <guid isPermaLink="false">https://osf.io/sqbzn#ja</guid>
-    <pubDate>Tue, 13 Jan 2026 13:38:00 +0000</pubDate>
-    <description>Culture in psychology and neuroscience: Concepts, relevance, and empirical evidence in rhythm perception</description>
   </item>
 </channel>
 </rss>
