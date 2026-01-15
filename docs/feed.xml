@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>補聴器使用者における知覚歪み：過剰な音量増加と変化した音色表象の心理物理学的証拠</title>
+    <title>補聴器使用難聴者における知覚歪み：過剰な音量増大と変化した音色表象の心理物理学的証拠</title>
     <link>https://osf.io/r9nyt</link>
     <guid isPermaLink="false">https://osf.io/r9nyt#ja</guid>
     <pubDate>Thu, 15 Jan 2026 20:20:39 +0000</pubDate>
@@ -27,7 +27,7 @@
     <description>Rhythm Cycle Alignment Task (RCAT). Cross-Cultural Differences in Aligning to Long Rhythmic Cycles from North Indian Classical Music.</description>
   </item>
   <item>
-    <title>キャラクターダイナミズム質問票：マズールのサイバネティックな人格アプローチの操作的定義に向けて</title>
+    <title>キャラクター・ダイナミズム質問票：マズールのサイバネティック・パーソナリティ理論の操作的定義に向けて</title>
     <link>https://osf.io/a4zjx</link>
     <guid isPermaLink="false">https://osf.io/a4zjx#ja</guid>
     <pubDate>Thu, 15 Jan 2026 17:03:53 +0000</pubDate>
@@ -48,7 +48,7 @@
     <description>I’m Cooked! From Burnt out to Cooked out: A Theoretical Model of Home Cooking Burnout (HCBO)</description>
   </item>
   <item>
-    <title>マンダリン・英語バイリンガル児童における物語の語りと再語り</title>
+    <title>マンダリン・英語バイリンガル児における物語の語りと再語り</title>
     <link>https://osf.io/8wcqy</link>
     <guid isPermaLink="false">https://osf.io/8wcqy#ja</guid>
     <pubDate>Thu, 15 Jan 2026 16:29:42 +0000</pubDate>
@@ -69,14 +69,14 @@
     <description>Psilocybin for Treatment-Resistant OCD: A Randomized Controlled Trial</description>
   </item>
   <item>
-    <title>エコ不安の連続体の探究：項目反応理論による尺度の較正</title>
+    <title>エコ不安連続体の探究：項目反応理論による尺度の較正</title>
     <link>https://osf.io/yvjd3</link>
     <guid isPermaLink="false">https://osf.io/yvjd3#ja</guid>
     <pubDate>Thu, 15 Jan 2026 10:20:07 +0000</pubDate>
     <description>Exploring the eco-anxiety continuum: calibrating scales with item response theory</description>
   </item>
   <item>
-    <title>リーダーシップ測定の革新：集団的リーダーシップ能力の文脈化された強制選択尺度の開発</title>
+    <title>リーダーシップ測定の革新：集団的リーダーシップ能力の文脈化強制選択尺度の開発</title>
     <link>https://osf.io/uvweq</link>
     <guid isPermaLink="false">https://osf.io/uvweq#ja</guid>
     <pubDate>Thu, 15 Jan 2026 07:26:23 +0000</pubDate>
@@ -132,35 +132,35 @@
     <description>Unravelling the fatigue induced by a prolonged typing task</description>
   </item>
   <item>
-    <title>第三者観察者としての社会的触覚：個人差が触覚知覚に与える影響</title>
+    <title>第三者としての社会的接触：個人差が触覚知覚に与える影響</title>
     <link>https://osf.io/5rh27</link>
     <guid isPermaLink="false">https://osf.io/5rh27#ja</guid>
     <pubDate>Thu, 15 Jan 2026 04:26:06 +0000</pubDate>
     <description>Social touch as a third-party observer: how interindividual differences shape touch perception</description>
   </item>
   <item>
-    <title>制御の隠れた代償：再評価は短期的利益をもたらすが予期せぬ感情的想起への適応を妨げる</title>
+    <title>制御の隠れた代償：再評価は短期的利益をもたらすが、予期せぬ感情的想起への適応を妨げる</title>
     <link>https://osf.io/9khnd</link>
     <guid isPermaLink="false">https://osf.io/9khnd#ja</guid>
     <pubDate>Thu, 15 Jan 2026 04:26:00 +0000</pubDate>
     <description>The Hidden Cost of Control: Reappraisal Brings Short-Term Benefits but Hinders Adaptation to Unexpected Emotional Reminders</description>
   </item>
   <item>
-    <title>統合失調スペクトラム障害における人種的ストレスが陰性症状に及ぼす影響の理論モデル</title>
+    <title>統合失調スペクトラム障害における人種的ストレスが陰性症状に与える影響の理論モデル</title>
     <link>https://osf.io/6ne2m</link>
     <guid isPermaLink="false">https://osf.io/6ne2m#ja</guid>
     <pubDate>Thu, 15 Jan 2026 04:25:59 +0000</pubDate>
     <description>A Theoretical Model of Racial Stress Shaping Negative Symptoms in Schizophrenia Spectrum Disorders</description>
   </item>
   <item>
-    <title>ディープフェイク／実被害：ディープフェイク悪用行為と誤信受容を減少させるオンライン介入研究</title>
+    <title>ディープフェイク／実害：ディープフェイク悪用行為と誤信受容を減少させるオンライン介入研究</title>
     <link>https://osf.io/tqs7a</link>
     <guid isPermaLink="false">https://osf.io/tqs7a#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:54 +0000</pubDate>
     <description>Deepfake/Real Harms: An online intervention to reduce deepfake abuse perpetration and myth acceptance.</description>
   </item>
   <item>
-    <title>確信表現型：強化学習における価値と意思決定確信度の統一的計算モデル</title>
+    <title>確信表現型：強化学習における価値と意思決定確信の統一的計算モデル</title>
     <link>https://osf.io/7cqts</link>
     <guid isPermaLink="false">https://osf.io/7cqts#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:53 +0000</pubDate>
@@ -209,14 +209,14 @@
     <description>The Proposition Based Theory Specification Method (PBTS): A Verbal Approach to Formalizing and Analyzing Theories in Psychology</description>
   </item>
   <item>
-    <title>刺激の馴染みが階層的構造学習とメタ認知動態に及ぼす影響</title>
+    <title>刺激の親近性が階層的構造学習とメタ認知動態に及ぼす影響</title>
     <link>https://osf.io/x5atk</link>
     <guid isPermaLink="false">https://osf.io/x5atk#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:51 +0000</pubDate>
     <description>Stimulus familiarity shapes hierarchical structure learning and metacognitive dynamics</description>
   </item>
   <item>
-    <title>不確実性の知覚：視覚的符号化、社会的媒介による疑念、および課題の複雑性が人間の意思決定に与える影響</title>
+    <title>不確実性の知覚：視覚的符号化、社会的媒介による疑念、課題の複雑性が人間の意思決定に与える影響</title>
     <link>https://osf.io/9f6v8</link>
     <guid isPermaLink="false">https://osf.io/9f6v8#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:51 +0000</pubDate>
@@ -237,21 +237,21 @@
     <description>Aquahenosis: A non-pharmacological altered state of consciousness induced by Floatation-REST</description>
   </item>
   <item>
-    <title>若年成人におけるたばこ製品名の知覚：名称が依然として（軽減された）害を示唆する役割を果たす</title>
+    <title>若年成人におけるタバコ製品名の知覚：名称が依然として（低減された）危害を示唆する役割を果たす</title>
     <link>https://osf.io/2fhak</link>
     <guid isPermaLink="false">https://osf.io/2fhak#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:50 +0000</pubDate>
     <description>Perceptions of Cigarette Variants Names Amongst Young Adults: Names Still Signal (Reduced) Harm</description>
   </item>
   <item>
-    <title>認知の時間的アンカーとしてのバースト関連電位</title>
+    <title>認知の時間的基準としてのバースト関連電位</title>
     <link>https://osf.io/dpcwy</link>
     <guid isPermaLink="false">https://osf.io/dpcwy#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:50 +0000</pubDate>
     <description>Burst-related potentials as a temporal anchor for cognition</description>
   </item>
   <item>
-    <title>事前の聴取経験を伴わない音楽誘発ノスタルジアのモデルベース分析</title>
+    <title>事前の聴取経験を伴わない音楽誘発ノスタルジアのモデルベース解析</title>
     <link>https://osf.io/rfkxw</link>
     <guid isPermaLink="false">https://osf.io/rfkxw#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:50 +0000</pubDate>
@@ -293,7 +293,7 @@
     <description>Symptom-specific Temporal Phenotyping of Anti-depressant Response to Citalopram in STAR*D Trial</description>
   </item>
   <item>
-    <title>対話における多モーダル韻律：範囲、意義、そして展開</title>
+    <title>相互作用における多モーダル韻律：範囲、意義、軌跡</title>
     <link>https://osf.io/4dk3n</link>
     <guid isPermaLink="false">https://osf.io/4dk3n#ja</guid>
     <pubDate>Wed, 14 Jan 2026 20:43:03 +0000</pubDate>
@@ -307,7 +307,7 @@
     <description>Autistic and non-autistic children’s perceptual decision-making in visual orientation and motion tasks and the effect of task instructions</description>
   </item>
   <item>
-    <title>暗黙的態度と顕在的態度のパターン：2021年から2024年にかけてのバイアスの増加</title>
+    <title>暗黙的態度と顕在的態度のパターン：2021年から2024年にかけてのバイアス増加の検証</title>
     <link>https://osf.io/26f8v</link>
     <guid isPermaLink="false">https://osf.io/26f8v#ja</guid>
     <pubDate>Wed, 14 Jan 2026 20:16:58 +0000</pubDate>
@@ -321,14 +321,14 @@
     <description>Rapid Auditory Feedback Control of Speech is Based on the Current Production, Not an Idealized Target</description>
   </item>
   <item>
-    <title>自己生成サンプルによる機能学習：自己からの学習メカニズムの検討</title>
+    <title>自己生成サンプルによる機能学習における自己からの学習</title>
     <link>https://osf.io/jscx2</link>
     <guid isPermaLink="false">https://osf.io/jscx2#ja</guid>
     <pubDate>Wed, 14 Jan 2026 20:16:58 +0000</pubDate>
     <description>Learning from oneself: Function learning with self-generated samples</description>
   </item>
   <item>
-    <title>スペイン語・タイ語を母語とし英語を第二言語とする学習者の第三言語としての標準中国語破裂音の習得</title>
+    <title>L1スペイン語・タイ語話者およびL2英語話者による第3言語としての標準中国語破裂音の習得</title>
     <link>https://osf.io/dbx8s</link>
     <guid isPermaLink="false">https://osf.io/dbx8s#ja</guid>
     <pubDate>Wed, 14 Jan 2026 20:16:57 +0000</pubDate>
