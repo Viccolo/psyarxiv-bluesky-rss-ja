@@ -6,6 +6,13 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>キャラクター・ダイナミズム質問票：マズールのサイバネティック・パーソナリティ理論の操作的定義に向けて</title>
+    <link>https://osf.io/a4zjx</link>
+    <guid isPermaLink="false">https://osf.io/a4zjx#ja</guid>
+    <pubDate>Thu, 15 Jan 2026 17:03:53 +0000</pubDate>
+    <description>Character Dynamism Questionnaire: Toward the Operationalization of Mazur’s Cybernetic Approach to Personality</description>
+  </item>
+  <item>
     <title>自己および状況焦点型認知的再評価が攻撃性に及ぼす心理生理学的影響</title>
     <link>https://osf.io/bdj6r</link>
     <guid isPermaLink="false">https://osf.io/bdj6r#ja</guid>
@@ -27,7 +34,7 @@
     <description>Narrative Tell and Retell in Mandarin-English Bilingual Children</description>
   </item>
   <item>
-    <title>社会的選好への窓：寛容さ、公平性、社会的文脈を反映する共通の思考パターン</title>
+    <title>社会的選好の窓：寛大さ、公平性、社会的文脈を反映する共通の思考パターン</title>
     <link>https://osf.io/nu3vt</link>
     <guid isPermaLink="false">https://osf.io/nu3vt#ja</guid>
     <pubDate>Thu, 15 Jan 2026 16:29:41 +0000</pubDate>
@@ -90,42 +97,42 @@
     <description>How many psychotherapists does Austria need? A systematic synthesis of treatment gap estimates</description>
   </item>
   <item>
-    <title>家庭内における進化的公平性の不均衡？公平性の進化的説明の再検討</title>
+    <title>家庭内における進化的公平性と不公平性の検討：公平性の進化論的説明の再考</title>
     <link>https://osf.io/67sk5</link>
     <guid isPermaLink="false">https://osf.io/67sk5#ja</guid>
     <pubDate>Thu, 15 Jan 2026 04:26:07 +0000</pubDate>
     <description>Evolved equity but inequity in the household?  Reviewing evolutionary accounts of Fairness</description>
   </item>
   <item>
-    <title>長時間のタイピング作業によって引き起こされる疲労の解明</title>
+    <title>長時間タイピング課題によって引き起こされる疲労の解明</title>
     <link>https://osf.io/mch3k</link>
     <guid isPermaLink="false">https://osf.io/mch3k#ja</guid>
     <pubDate>Thu, 15 Jan 2026 04:26:07 +0000</pubDate>
     <description>Unravelling the fatigue induced by a prolonged typing task</description>
   </item>
   <item>
-    <title>第三者としての社会的触覚：個人差が触覚知覚に与える影響</title>
+    <title>第三者観察者としての社会的触覚：個人差が触覚知覚に与える影響</title>
     <link>https://osf.io/5rh27</link>
     <guid isPermaLink="false">https://osf.io/5rh27#ja</guid>
     <pubDate>Thu, 15 Jan 2026 04:26:06 +0000</pubDate>
     <description>Social touch as a third-party observer: how interindividual differences shape touch perception</description>
   </item>
   <item>
-    <title>制御の隠れた代償：再評価は短期的利益をもたらすが、予期せぬ感情的想起への適応を妨げる</title>
+    <title>制御の隠れた代償：再評価は短期的利益をもたらすが予期せぬ感情的想起への適応を妨げる</title>
     <link>https://osf.io/9khnd</link>
     <guid isPermaLink="false">https://osf.io/9khnd#ja</guid>
     <pubDate>Thu, 15 Jan 2026 04:26:00 +0000</pubDate>
     <description>The Hidden Cost of Control: Reappraisal Brings Short-Term Benefits but Hinders Adaptation to Unexpected Emotional Reminders</description>
   </item>
   <item>
-    <title>統合失調スペクトラム障害における人種的ストレスが陰性症状に及ぼす影響の理論モデル</title>
+    <title>統合失調症スペクトラム障害における人種的ストレスが陰性症状に及ぼす影響の理論モデル</title>
     <link>https://osf.io/6ne2m</link>
     <guid isPermaLink="false">https://osf.io/6ne2m#ja</guid>
     <pubDate>Thu, 15 Jan 2026 04:25:59 +0000</pubDate>
     <description>A Theoretical Model of Racial Stress Shaping Negative Symptoms in Schizophrenia Spectrum Disorders</description>
   </item>
   <item>
-    <title>ディープフェイク被害と実害：ディープフェイク悪用行為および誤信受容を減少させるオンライン介入研究</title>
+    <title>ディープフェイク／実害：ディープフェイク悪用行為と誤信受容を減少させるオンライン介入の効果検証</title>
     <link>https://osf.io/tqs7a</link>
     <guid isPermaLink="false">https://osf.io/tqs7a#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:54 +0000</pubDate>
@@ -153,7 +160,7 @@
     <description>When items become context: how retrieval questions shape memory</description>
   </item>
   <item>
-    <title>実験室におけるストレス反応性と日常生活のストレス反応の乖離：トライアー社会的ストレステストと携帯型評価の比較</title>
+    <title>実験室におけるストレス反応性は日常生活のストレス反応と異なる：トライアー社会的ストレステストと携帯型評価の比較</title>
     <link>https://osf.io/r4jhn</link>
     <guid isPermaLink="false">https://osf.io/r4jhn#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:52 +0000</pubDate>
@@ -209,7 +216,7 @@
     <description>Aquahenosis: A non-pharmacological altered state of consciousness induced by Floatation-REST</description>
   </item>
   <item>
-    <title>若年成人におけるタバコ銘柄名の知覚：名称が依然として（低減された）害を示唆する役割</title>
+    <title>若年成人におけるタバコ銘柄名の知覚：名称が依然として（軽減された）害を示唆する役割を果たす</title>
     <link>https://osf.io/2fhak</link>
     <guid isPermaLink="false">https://osf.io/2fhak#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:50 +0000</pubDate>
@@ -223,7 +230,7 @@
     <description>Burst-related potentials as a temporal anchor for cognition</description>
   </item>
   <item>
-    <title>事前の聴取経験を伴わない音楽誘発ノスタルジアのモデルベース解析</title>
+    <title>事前の聴取経験を伴わない音楽誘発ノスタルジアのモデルベース分析</title>
     <link>https://osf.io/rfkxw</link>
     <guid isPermaLink="false">https://osf.io/rfkxw#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:50 +0000</pubDate>
@@ -251,7 +258,7 @@
     <description>Trial-wise awareness ratings do not capture the dynamics of masked priming</description>
   </item>
   <item>
-    <title>サイケデリック研究を立ち上げるための10の基本ルール</title>
+    <title>サイケデリック研究のための簡潔な10のルール</title>
     <link>https://osf.io/h53nq</link>
     <guid isPermaLink="false">https://osf.io/h53nq#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:49 +0000</pubDate>
@@ -265,21 +272,21 @@
     <description>Symptom-specific Temporal Phenotyping of Anti-depressant Response to Citalopram in STAR*D Trial</description>
   </item>
   <item>
-    <title>相互作用における多モーダル韻律：範囲、意義および発展軌跡</title>
+    <title>相互作用における多モーダル韻律：範囲、意義および展開</title>
     <link>https://osf.io/4dk3n</link>
     <guid isPermaLink="false">https://osf.io/4dk3n#ja</guid>
     <pubDate>Wed, 14 Jan 2026 20:43:03 +0000</pubDate>
     <description>Multimodal prosody in interaction: Scope, significance and trajectory</description>
   </item>
   <item>
-    <title>自閉症児と非自閉症児の視覚的方向および運動課題における知覚的意思決定と課題指示の影響</title>
+    <title>自閉症児と非自閉症児の視覚的方向性および運動課題における知覚的意思決定と課題指示の影響</title>
     <link>https://osf.io/w84rf</link>
     <guid isPermaLink="false">https://osf.io/w84rf#ja</guid>
     <pubDate>Wed, 14 Jan 2026 20:16:59 +0000</pubDate>
     <description>Autistic and non-autistic children’s perceptual decision-making in visual orientation and motion tasks and the effect of task instructions</description>
   </item>
   <item>
-    <title>暗黙的態度と顕在的態度のパターン：2021年から2024年にかけてのバイアスの増加</title>
+    <title>暗黙的態度と顕在的態度のパターン：2021年から2024年にかけてのバイアス増加の検証</title>
     <link>https://osf.io/26f8v</link>
     <guid isPermaLink="false">https://osf.io/26f8v#ja</guid>
     <pubDate>Wed, 14 Jan 2026 20:16:58 +0000</pubDate>
@@ -293,7 +300,7 @@
     <description>Rapid Auditory Feedback Control of Speech is Based on the Current Production, Not an Idealized Target</description>
   </item>
   <item>
-    <title>自己生成サンプルによる機能学習における自己からの学習</title>
+    <title>自己生成サンプルによる機能学習：自己からの学習メカニズム</title>
     <link>https://osf.io/jscx2</link>
     <guid isPermaLink="false">https://osf.io/jscx2#ja</guid>
     <pubDate>Wed, 14 Jan 2026 20:16:58 +0000</pubDate>
@@ -328,7 +335,7 @@
     <description>Thermal pain tolerance depends on stimulus duration and thermode type</description>
   </item>
   <item>
-    <title>火に火をもって対抗する：メディア誘発回復における生理的覚醒の役割</title>
+    <title>火に火をもって制す：メディア誘発回復における生理的覚醒の役割</title>
     <link>https://osf.io/uyhxj</link>
     <guid isPermaLink="false">https://osf.io/uyhxj#ja</guid>
     <pubDate>Wed, 14 Jan 2026 18:56:52 +0000</pubDate>
@@ -347,13 +354,6 @@
     <guid isPermaLink="false">https://osf.io/gvpm3#ja</guid>
     <pubDate>Wed, 14 Jan 2026 18:56:51 +0000</pubDate>
     <description>Psychological Richness in Everyday Life: Personality, Novelty, and Emotional Engagement</description>
-  </item>
-  <item>
-    <title>全国カップルの健康と時間ストレス生物学研究（NCHAT-BIO）：第1波方法論報告および第3波予告</title>
-    <link>https://osf.io/rzfj3</link>
-    <guid isPermaLink="false">https://osf.io/rzfj3#ja</guid>
-    <pubDate>Wed, 14 Jan 2026 18:56:51 +0000</pubDate>
-    <description>The National Couples’ Health and Time Stress Biology Study (NCHAT-BIO):  Wave 1 Methodology Report and Wave 3 Preview</description>
   </item>
 </channel>
 </rss>
