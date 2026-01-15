@@ -6,6 +6,13 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>治療抵抗性強迫性障害に対するシロシビンの効果：ランダム化比較試験</title>
+    <link>https://osf.io/atfum</link>
+    <guid isPermaLink="false">https://osf.io/atfum#ja</guid>
+    <pubDate>Thu, 15 Jan 2026 10:48:20 +0000</pubDate>
+    <description>Psilocybin for Treatment-Resistant OCD: A Randomized Controlled Trial</description>
+  </item>
+  <item>
     <title>エコ不安連続体の探究：項目反応理論による尺度の較正</title>
     <link>https://osf.io/yvjd3</link>
     <guid isPermaLink="false">https://osf.io/yvjd3#ja</guid>
@@ -48,14 +55,14 @@
     <description>Understanding the key domains of adolescent social media experience: a parallel Delphi study with young people and key adults</description>
   </item>
   <item>
-    <title>オーストリアに必要な心理療法士の数はいくつか？治療ギャップ推定の体系的総合分析</title>
+    <title>オーストリアに必要な心理療法士の数はいくつか？治療ギャップ推定の体系的統合</title>
     <link>https://osf.io/wra4n</link>
     <guid isPermaLink="false">https://osf.io/wra4n#ja</guid>
     <pubDate>Thu, 15 Jan 2026 04:26:13 +0000</pubDate>
     <description>How many psychotherapists does Austria need? A systematic synthesis of treatment gap estimates</description>
   </item>
   <item>
-    <title>家庭内における進化的公平性と不公平性の検討：公平性に関する進化論的説明の再考</title>
+    <title>家庭内における進化的公平性と不公平性の検討：公平性に関する進化論的説明のレビュー</title>
     <link>https://osf.io/67sk5</link>
     <guid isPermaLink="false">https://osf.io/67sk5#ja</guid>
     <pubDate>Thu, 15 Jan 2026 04:26:07 +0000</pubDate>
@@ -69,7 +76,7 @@
     <description>Unravelling the fatigue induced by a prolonged typing task</description>
   </item>
   <item>
-    <title>第三者としての社会的触覚：個人差が触覚知覚に与える影響</title>
+    <title>第三者観察者としての社会的触覚：個人差が触覚知覚に与える影響</title>
     <link>https://osf.io/5rh27</link>
     <guid isPermaLink="false">https://osf.io/5rh27#ja</guid>
     <pubDate>Thu, 15 Jan 2026 04:26:06 +0000</pubDate>
@@ -83,7 +90,7 @@
     <description>The Hidden Cost of Control: Reappraisal Brings Short-Term Benefits but Hinders Adaptation to Unexpected Emotional Reminders</description>
   </item>
   <item>
-    <title>統合失調スペクトラム障害における人種的ストレスが陰性症状に与える影響の理論モデル</title>
+    <title>統合失調スペクトラム障害における人種的ストレスが陰性症状に及ぼす影響の理論モデル</title>
     <link>https://osf.io/6ne2m</link>
     <guid isPermaLink="false">https://osf.io/6ne2m#ja</guid>
     <pubDate>Thu, 15 Jan 2026 04:25:59 +0000</pubDate>
@@ -97,21 +104,21 @@
     <description>Deepfake/Real Harms: An online intervention to reduce deepfake abuse perpetration and myth acceptance.</description>
   </item>
   <item>
-    <title>確信表現型：強化学習における価値と意思決定確信の統一的計算モデル</title>
+    <title>確信表現型：強化学習における価値と意思決定確実性の統一的計算モデル</title>
     <link>https://osf.io/7cqts</link>
     <guid isPermaLink="false">https://osf.io/7cqts#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:53 +0000</pubDate>
     <description>Confidence phenotypes: a unified computational account of value and decision certainty in reinforcement learning</description>
   </item>
   <item>
-    <title>最小関心効果量の開発と簡易的手続きに関する研究</title>
+    <title>最小関心効果量の開発と簡易的手続き</title>
     <link>https://osf.io/g2yv5</link>
     <guid isPermaLink="false">https://osf.io/g2yv5#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:53 +0000</pubDate>
     <description>On Smallest Effect Size of Interest: Its Development and a Simplified Procedure</description>
   </item>
   <item>
-    <title>アイテムが文脈になるとき：想起質問が記憶に与える影響</title>
+    <title>項目が文脈となるとき：想起質問が記憶に与える影響</title>
     <link>https://osf.io/k5gyw</link>
     <guid isPermaLink="false">https://osf.io/k5gyw#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:53 +0000</pubDate>
@@ -146,14 +153,14 @@
     <description>The Proposition Based Theory Specification Method (PBTS): A Verbal Approach to Formalizing and Analyzing Theories in Psychology</description>
   </item>
   <item>
-    <title>刺激の馴染みが階層的構造学習とメタ認知動態に及ぼす影響</title>
+    <title>刺激の親しみやすさが階層的構造学習とメタ認知動態に与える影響</title>
     <link>https://osf.io/x5atk</link>
     <guid isPermaLink="false">https://osf.io/x5atk#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:51 +0000</pubDate>
     <description>Stimulus familiarity shapes hierarchical structure learning and metacognitive dynamics</description>
   </item>
   <item>
-    <title>不確実性の知覚：視覚的符号化、社会的媒介による疑念、課題の複雑性が人間の意思決定に与える影響</title>
+    <title>不確実性の知覚：視覚的符号化、社会的媒介による疑念、および課題の複雑性が人間の意思決定に与える影響</title>
     <link>https://osf.io/9f6v8</link>
     <guid isPermaLink="false">https://osf.io/9f6v8#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:51 +0000</pubDate>
@@ -174,7 +181,7 @@
     <description>Aquahenosis: A non-pharmacological altered state of consciousness induced by Floatation-REST</description>
   </item>
   <item>
-    <title>若年成人におけるタバコ製品名称の認知：名称が依然として（低減された）害を示唆する役割</title>
+    <title>若年成人におけるタバコ銘柄名の知覚：名称が依然として（低減された）害を示唆する役割を果たす</title>
     <link>https://osf.io/2fhak</link>
     <guid isPermaLink="false">https://osf.io/2fhak#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:50 +0000</pubDate>
@@ -188,7 +195,7 @@
     <description>Burst-related potentials as a temporal anchor for cognition</description>
   </item>
   <item>
-    <title>事前の聴取経験を伴わない音楽誘発ノスタルジアのモデルベース分析</title>
+    <title>事前の聴取経験を伴わない音楽誘発ノスタルジアのモデルベース解析</title>
     <link>https://osf.io/rfkxw</link>
     <guid isPermaLink="false">https://osf.io/rfkxw#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:50 +0000</pubDate>
@@ -230,28 +237,28 @@
     <description>Symptom-specific Temporal Phenotyping of Anti-depressant Response to Citalopram in STAR*D Trial</description>
   </item>
   <item>
-    <title>相互作用における多モーダル韻律：範囲、意義および展開</title>
+    <title>対話における多モーダル韻律：範囲、意義および発展過程</title>
     <link>https://osf.io/4dk3n</link>
     <guid isPermaLink="false">https://osf.io/4dk3n#ja</guid>
     <pubDate>Wed, 14 Jan 2026 20:43:03 +0000</pubDate>
     <description>Multimodal prosody in interaction: Scope, significance and trajectory</description>
   </item>
   <item>
-    <title>自閉症児と非自閉症児の視覚的方向および運動課題における知覚的意思決定と課題指示の影響</title>
+    <title>自閉症児と非自閉症児の視覚的方向性および運動課題における知覚的意思決定と課題指示の影響</title>
     <link>https://osf.io/w84rf</link>
     <guid isPermaLink="false">https://osf.io/w84rf#ja</guid>
     <pubDate>Wed, 14 Jan 2026 20:16:59 +0000</pubDate>
     <description>Autistic and non-autistic children’s perceptual decision-making in visual orientation and motion tasks and the effect of task instructions</description>
   </item>
   <item>
-    <title>暗黙的態度と顕在的態度のパターン：2021年から2024年にかけてのバイアス増加の検証</title>
+    <title>暗黙的態度と顕在的態度のパターン：2021年から2024年にかけてのバイアスの増加</title>
     <link>https://osf.io/26f8v</link>
     <guid isPermaLink="false">https://osf.io/26f8v#ja</guid>
     <pubDate>Wed, 14 Jan 2026 20:16:58 +0000</pubDate>
     <description>Patterns of Implicit and Explicit Attitudes V. Increase in bias from 2021-2024</description>
   </item>
   <item>
-    <title>音声の迅速な聴覚フィードバック制御は理想化された目標ではなく現在の産出に基づく</title>
+    <title>音声の迅速な聴覚フィードバック制御は理想的目標ではなく現在の発話産出に基づく</title>
     <link>https://osf.io/c56ka</link>
     <guid isPermaLink="false">https://osf.io/c56ka#ja</guid>
     <pubDate>Wed, 14 Jan 2026 20:16:58 +0000</pubDate>
@@ -286,7 +293,7 @@
     <description>Golden Retrievers: Older adults solve single-digit arithmetic via fact retrieval</description>
   </item>
   <item>
-    <title>熱痛耐性は刺激持続時間およびサーモードの種類に依存する</title>
+    <title>熱痛耐性は刺激持続時間とサーモードの種類に依存する</title>
     <link>https://osf.io/kz8mt</link>
     <guid isPermaLink="false">https://osf.io/kz8mt#ja</guid>
     <pubDate>Wed, 14 Jan 2026 18:56:52 +0000</pubDate>
@@ -321,14 +328,14 @@
     <description>The National Couples’ Health and Time Stress Biology Study (NCHAT-BIO):  Wave 1 Methodology Report and Wave 3 Preview</description>
   </item>
   <item>
-    <title>摩擦のないAIに対する批判的考察</title>
+    <title>摩擦のないAIに対する心理学的考察</title>
     <link>https://osf.io/8efjx</link>
     <guid isPermaLink="false">https://osf.io/8efjx#ja</guid>
     <pubDate>Wed, 14 Jan 2026 18:56:51 +0000</pubDate>
     <description>Against Frictionless AI</description>
   </item>
   <item>
-    <title>デジタル時代における身体醜形障害：アルゴリズムのメカニズムと青年期の臨床的示唆</title>
+    <title>デジタル時代における身体醜形障害：アルゴリズムのメカニズムと青年期の臨床的意義</title>
     <link>https://osf.io/xwe57</link>
     <guid isPermaLink="false">https://osf.io/xwe57#ja</guid>
     <pubDate>Wed, 14 Jan 2026 18:56:50 +0000</pubDate>
@@ -347,13 +354,6 @@
     <guid isPermaLink="false">https://osf.io/5t2h7#ja</guid>
     <pubDate>Wed, 14 Jan 2026 18:27:45 +0000</pubDate>
     <description>The Redistributive Principles Model: converging evidence for moral pluralism in redistributive choice</description>
-  </item>
-  <item>
-    <title>神経言語モデルの統語的アイランド効果における成功は普遍的ではない：英語におけるwh-アイランド感受性とオランダ語における非感受性</title>
-    <link>https://osf.io/pk7e3</link>
-    <guid isPermaLink="false">https://osf.io/pk7e3#ja</guid>
-    <pubDate>Wed, 14 Jan 2026 13:37:09 +0000</pubDate>
-    <description>The success of Neural Language Models on syntactic island effects is not universal: wh-island sensitivity in English but not in Dutch</description>
   </item>
 </channel>
 </rss>
