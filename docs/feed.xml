@@ -6,6 +6,41 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>合理的な社会的学習が集団採用の効率性とバイアスを促進する</title>
+    <link>https://osf.io/nk632</link>
+    <guid isPermaLink="false">https://osf.io/nk632#ja</guid>
+    <pubDate>Fri, 16 Jan 2026 07:25:17 +0000</pubDate>
+    <description>Rational Social Learning Makes Group Hiring More Efficient and Biased</description>
+  </item>
+  <item>
+    <title>注意深く評価せよ：検索設計が単一化のメカニズムに与える影響</title>
+    <link>https://osf.io/73fqd</link>
+    <guid isPermaLink="false">https://osf.io/73fqd#ja</guid>
+    <pubDate>Fri, 16 Jan 2026 07:25:17 +0000</pubDate>
+    <description>BE CAREFUL HOW YOU TEST ME: HOW RETRIEVAL DESIGN AFFECTS THE MECHANISM OF UNITIZATION</description>
+  </item>
+  <item>
+    <title>顔から汚職可能な政治家を推測することは白人に限られる</title>
+    <link>https://osf.io/hbprf</link>
+    <guid isPermaLink="false">https://osf.io/hbprf#ja</guid>
+    <pubDate>Fri, 16 Jan 2026 07:25:16 +0000</pubDate>
+    <description>Inferring corruptible politicians from faces applies only if they are White</description>
+  </item>
+  <item>
+    <title>メキシコ系青少年における逆境的幼少期経験とアルコール使用・乱用の縦断的関連性</title>
+    <link>https://osf.io/6a82h</link>
+    <guid isPermaLink="false">https://osf.io/6a82h#ja</guid>
+    <pubDate>Fri, 16 Jan 2026 07:25:16 +0000</pubDate>
+    <description>Longitudinal associations between adverse childhood experiences and alcohol use and misuse among Mexican-origin adolescents</description>
+  </item>
+  <item>
+    <title>韓国語―英語バイリンガルのスクリーニング失語症検査適応版におけるパフォーマンス評価</title>
+    <link>https://osf.io/tp3ya</link>
+    <guid isPermaLink="false">https://osf.io/tp3ya#ja</guid>
+    <pubDate>Fri, 16 Jan 2026 07:25:15 +0000</pubDate>
+    <description>Performance of Korean-English Bilinguals on an Adaptation of the Screening Bilingual Aphasia Test</description>
+  </item>
+  <item>
     <title>補聴器使用難聴者における知覚歪み：過剰な音量増大と変化した音色表象の心理物理学的証拠</title>
     <link>https://osf.io/r9nyt</link>
     <guid isPermaLink="false">https://osf.io/r9nyt#ja</guid>
@@ -41,7 +76,7 @@
     <description>The psychophysiological influence of self- and situation-focused cognitive reappraisal on aggression</description>
   </item>
   <item>
-    <title>もう限界！家庭料理バーンアウト（HCBO）に関する理論モデル：燃え尽きから料理疲労へ</title>
+    <title>もう限界！家庭料理燃え尽き症候群（HCBO）の理論モデル：バーンアウトからクックアウトへ</title>
     <link>https://osf.io/htxjp</link>
     <guid isPermaLink="false">https://osf.io/htxjp#ja</guid>
     <pubDate>Thu, 15 Jan 2026 16:29:42 +0000</pubDate>
@@ -55,7 +90,7 @@
     <description>Narrative Tell and Retell in Mandarin-English Bilingual Children</description>
   </item>
   <item>
-    <title>社会的選好への窓：寛容さ、公平性、社会的文脈を反映する共通の思考パターン</title>
+    <title>社会的選好の窓：寛大さ、公平性、社会的文脈を反映する共通の思考パターン</title>
     <link>https://osf.io/nu3vt</link>
     <guid isPermaLink="false">https://osf.io/nu3vt#ja</guid>
     <pubDate>Thu, 15 Jan 2026 16:29:41 +0000</pubDate>
@@ -69,7 +104,7 @@
     <description>Psilocybin for Treatment-Resistant OCD: A Randomized Controlled Trial</description>
   </item>
   <item>
-    <title>エコ不安連続体の探究：項目反応理論による尺度の較正</title>
+    <title>エコ不安の連続体の探究：項目反応理論による尺度の較正</title>
     <link>https://osf.io/yvjd3</link>
     <guid isPermaLink="false">https://osf.io/yvjd3#ja</guid>
     <pubDate>Thu, 15 Jan 2026 10:20:07 +0000</pubDate>
@@ -90,7 +125,7 @@
     <description>Perception and Encoding of Narrative Events During Continuous Speech Listening in Background Noise</description>
   </item>
   <item>
-    <title>ニューラルネットワークによる正則化を用いた統計的推論とその心理計測学への応用</title>
+    <title>ニューラルネットワークによる正則化を用いた統計的推論とその心理計量学への応用</title>
     <link>https://osf.io/eq45p</link>
     <guid isPermaLink="false">https://osf.io/eq45p#ja</guid>
     <pubDate>Thu, 15 Jan 2026 04:26:14 +0000</pubDate>
@@ -118,7 +153,7 @@
     <description>How many psychotherapists does Austria need? A systematic synthesis of treatment gap estimates</description>
   </item>
   <item>
-    <title>家庭内における進化的公平性の不均衡？公平性の進化論的説明の再検討</title>
+    <title>家庭内における進化的公平性と不公平性の検討：公平性に関する進化論的説明の再考</title>
     <link>https://osf.io/67sk5</link>
     <guid isPermaLink="false">https://osf.io/67sk5#ja</guid>
     <pubDate>Thu, 15 Jan 2026 04:26:07 +0000</pubDate>
@@ -139,35 +174,35 @@
     <description>Social touch as a third-party observer: how interindividual differences shape touch perception</description>
   </item>
   <item>
-    <title>制御の隠れた代償：再評価は短期的利益をもたらすが、予期せぬ感情的想起への適応を妨げる</title>
+    <title>制御の隠れた代償：再評価は短期的利益をもたらすが予期せぬ情動的想起への適応を妨げる</title>
     <link>https://osf.io/9khnd</link>
     <guid isPermaLink="false">https://osf.io/9khnd#ja</guid>
     <pubDate>Thu, 15 Jan 2026 04:26:00 +0000</pubDate>
     <description>The Hidden Cost of Control: Reappraisal Brings Short-Term Benefits but Hinders Adaptation to Unexpected Emotional Reminders</description>
   </item>
   <item>
-    <title>統合失調スペクトラム障害における人種的ストレスが陰性症状に与える影響の理論モデル</title>
+    <title>統合失調スペクトラム障害における人種的ストレスが陰性症状に及ぼす影響の理論モデル</title>
     <link>https://osf.io/6ne2m</link>
     <guid isPermaLink="false">https://osf.io/6ne2m#ja</guid>
     <pubDate>Thu, 15 Jan 2026 04:25:59 +0000</pubDate>
     <description>A Theoretical Model of Racial Stress Shaping Negative Symptoms in Schizophrenia Spectrum Disorders</description>
   </item>
   <item>
-    <title>ディープフェイク／実害：ディープフェイク悪用行為と誤解受容を減少させるオンライン介入研究</title>
+    <title>ディープフェイク被害と実害：ディープフェイク悪用行為および誤信受容を減少させるオンライン介入研究</title>
     <link>https://osf.io/tqs7a</link>
     <guid isPermaLink="false">https://osf.io/tqs7a#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:54 +0000</pubDate>
     <description>Deepfake/Real Harms: An online intervention to reduce deepfake abuse perpetration and myth acceptance.</description>
   </item>
   <item>
-    <title>確信表現型：強化学習における価値と意思決定確信の統一的計算モデル</title>
+    <title>確信表現型：強化学習における価値と意思決定確実性の統一的計算モデル</title>
     <link>https://osf.io/7cqts</link>
     <guid isPermaLink="false">https://osf.io/7cqts#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:53 +0000</pubDate>
     <description>Confidence phenotypes: a unified computational account of value and decision certainty in reinforcement learning</description>
   </item>
   <item>
-    <title>最小関心効果量の開発と簡易手続き</title>
+    <title>最小関心効果量の開発と簡易的手続き</title>
     <link>https://osf.io/g2yv5</link>
     <guid isPermaLink="false">https://osf.io/g2yv5#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:53 +0000</pubDate>
@@ -181,21 +216,21 @@
     <description>When items become context: how retrieval questions shape memory</description>
   </item>
   <item>
-    <title>実験室におけるストレス反応性と日常生活のストレス反応の乖離：トライアー社会的ストレステストと携帯型評価の比較</title>
+    <title>実験室におけるストレス反応性は日常生活のストレス反応と異なる：トライアー社会的ストレステストと携帯型評価の比較</title>
     <link>https://osf.io/r4jhn</link>
     <guid isPermaLink="false">https://osf.io/r4jhn#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:52 +0000</pubDate>
     <description>Laboratory Stress Reactivity Diverges from Daily Life Stress Responses: Comparing the Trier Social Stress Test and Ambulatory Assessments</description>
   </item>
   <item>
-    <title>集団間対立がコミットメント表出を促進する：異文化間実験的証拠</title>
+    <title>集団間対立がコミットメントシグナリングを促進する：異文化間実験的証拠</title>
     <link>https://osf.io/pxhby</link>
     <guid isPermaLink="false">https://osf.io/pxhby#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:52 +0000</pubDate>
     <description>Intergroup Conflict Drives Commitment Signalling: A Cross-Cultural Experimental Evidence</description>
   </item>
   <item>
-    <title>精神医学における出版動向：現代の歴史的傾向と社会人口学的要因</title>
+    <title>精神医学における出版動向：現代の歴史的傾向と社会人口統計学的要因</title>
     <link>https://osf.io/duyma</link>
     <guid isPermaLink="false">https://osf.io/duyma#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:52 +0000</pubDate>
@@ -209,7 +244,7 @@
     <description>The Proposition Based Theory Specification Method (PBTS): A Verbal Approach to Formalizing and Analyzing Theories in Psychology</description>
   </item>
   <item>
-    <title>刺激の親しみやすさが階層的構造学習とメタ認知ダイナミクスに与える影響</title>
+    <title>刺激の馴染みが階層的構造学習とメタ認知動態に及ぼす影響</title>
     <link>https://osf.io/x5atk</link>
     <guid isPermaLink="false">https://osf.io/x5atk#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:51 +0000</pubDate>
@@ -237,7 +272,7 @@
     <description>Aquahenosis: A non-pharmacological altered state of consciousness induced by Floatation-REST</description>
   </item>
   <item>
-    <title>若年成人におけるタバコ製品名の認知：名称が示す（低減された）危害の知覚</title>
+    <title>若年成人におけるタバコ製品名の認知：名称が示す（低減された）害の知覚</title>
     <link>https://osf.io/2fhak</link>
     <guid isPermaLink="false">https://osf.io/2fhak#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:50 +0000</pubDate>
@@ -251,14 +286,14 @@
     <description>Burst-related potentials as a temporal anchor for cognition</description>
   </item>
   <item>
-    <title>事前の聴取経験を伴わない音楽誘発ノスタルジアのモデルベース解析</title>
+    <title>事前の聴取経験を伴わない音楽誘発ノスタルジアのモデルベース分析</title>
     <link>https://osf.io/rfkxw</link>
     <guid isPermaLink="false">https://osf.io/rfkxw#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:50 +0000</pubDate>
     <description>A model-based analysis of music-evoked nostalgia without prior listening experience</description>
   </item>
   <item>
-    <title>衝動的および計画的殺人犯における精神病質と敵意帰属</title>
+    <title>衝動的および計画的殺人犯における精神病質と敵意帰属の関連性</title>
     <link>https://osf.io/mu73x</link>
     <guid isPermaLink="false">https://osf.io/mu73x#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:49 +0000</pubDate>
@@ -272,14 +307,14 @@
     <description>Music shapes the content of spontaneous thought</description>
   </item>
   <item>
-    <title>試行ごとの意識評価はマスクプライミングの動態を捉えられない</title>
+    <title>試行ごとの気づき評価はマスクプライミングの動態を捉えられない</title>
     <link>https://osf.io/nhgja</link>
     <guid isPermaLink="false">https://osf.io/nhgja#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:49 +0000</pubDate>
     <description>Trial-wise awareness ratings do not capture the dynamics of masked priming</description>
   </item>
   <item>
-    <title>サイケデリック研究のための簡潔な10の基本ルール</title>
+    <title>サイケデリック研究のための簡潔な10の指針</title>
     <link>https://osf.io/h53nq</link>
     <guid isPermaLink="false">https://osf.io/h53nq#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:49 +0000</pubDate>
@@ -293,60 +328,25 @@
     <description>Symptom-specific Temporal Phenotyping of Anti-depressant Response to Citalopram in STAR*D Trial</description>
   </item>
   <item>
-    <title>相互作用における多モーダル韻律：範囲、意義および発展軌跡</title>
+    <title>相互作用における多モーダル韻律：範囲、意義、および展開</title>
     <link>https://osf.io/4dk3n</link>
     <guid isPermaLink="false">https://osf.io/4dk3n#ja</guid>
     <pubDate>Wed, 14 Jan 2026 20:43:03 +0000</pubDate>
     <description>Multimodal prosody in interaction: Scope, significance and trajectory</description>
   </item>
   <item>
-    <title>自閉症児と非自閉症児の視覚的方向および運動課題における知覚的意思決定と課題指示の影響</title>
+    <title>自閉症児と非自閉症児における視覚的方向および運動課題における知覚的意思決定と課題指示の影響</title>
     <link>https://osf.io/w84rf</link>
     <guid isPermaLink="false">https://osf.io/w84rf#ja</guid>
     <pubDate>Wed, 14 Jan 2026 20:16:59 +0000</pubDate>
     <description>Autistic and non-autistic children’s perceptual decision-making in visual orientation and motion tasks and the effect of task instructions</description>
   </item>
   <item>
-    <title>暗黙的態度と顕在的態度のパターン：2021年から2024年にかけてのバイアスの増加</title>
+    <title>暗黙的態度と顕在的態度のパターン：2021年から2024年にかけてのバイアス増加の検証</title>
     <link>https://osf.io/26f8v</link>
     <guid isPermaLink="false">https://osf.io/26f8v#ja</guid>
     <pubDate>Wed, 14 Jan 2026 20:16:58 +0000</pubDate>
     <description>Patterns of Implicit and Explicit Attitudes V. Increase in bias from 2021-2024</description>
-  </item>
-  <item>
-    <title>音声の迅速な聴覚フィードバック制御は理想的な目標ではなく現在の産出に基づく</title>
-    <link>https://osf.io/c56ka</link>
-    <guid isPermaLink="false">https://osf.io/c56ka#ja</guid>
-    <pubDate>Wed, 14 Jan 2026 20:16:58 +0000</pubDate>
-    <description>Rapid Auditory Feedback Control of Speech is Based on the Current Production, Not an Idealized Target</description>
-  </item>
-  <item>
-    <title>自己生成サンプルによる機能学習における自己からの学習</title>
-    <link>https://osf.io/jscx2</link>
-    <guid isPermaLink="false">https://osf.io/jscx2#ja</guid>
-    <pubDate>Wed, 14 Jan 2026 20:16:58 +0000</pubDate>
-    <description>Learning from oneself: Function learning with self-generated samples</description>
-  </item>
-  <item>
-    <title>スペイン語・タイ語を母語とし英語を第二言語とする学習者による第三言語としての標準中国語破裂音の習得</title>
-    <link>https://osf.io/dbx8s</link>
-    <guid isPermaLink="false">https://osf.io/dbx8s#ja</guid>
-    <pubDate>Wed, 14 Jan 2026 20:16:57 +0000</pubDate>
-    <description>L3 acquisition of Mandarin Chinese stop consonants by learners with L1 Spanish/Thai and L2 English</description>
-  </item>
-  <item>
-    <title>海馬の結合性が記憶の特異性および一般化能力を予測する</title>
-    <link>https://osf.io/ef48h</link>
-    <guid isPermaLink="false">https://osf.io/ef48h#ja</guid>
-    <pubDate>Wed, 14 Jan 2026 19:38:53 +0000</pubDate>
-    <description>Hippocampal connectivity predicting memory specificity and memory generalization abilities</description>
-  </item>
-  <item>
-    <title>ゴールデンレトリバー：高齢者は単一桁の算術問題を事実想起によって解決する</title>
-    <link>https://osf.io/ujn85</link>
-    <guid isPermaLink="false">https://osf.io/ujn85#ja</guid>
-    <pubDate>Wed, 14 Jan 2026 18:56:53 +0000</pubDate>
-    <description>Golden Retrievers: Older adults solve single-digit arithmetic via fact retrieval</description>
   </item>
 </channel>
 </rss>
