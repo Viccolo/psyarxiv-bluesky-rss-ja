@@ -6,14 +6,21 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>文脈再現が示す正常加齢における文脈記憶の特異性の保持</title>
+    <title>加齢におけるナビゲーションのメタ認知：符号化戦略と空間表象</title>
+    <link>https://osf.io/8gky2</link>
+    <guid isPermaLink="false">https://osf.io/8gky2#ja</guid>
+    <pubDate>Fri, 16 Jan 2026 19:17:44 +0000</pubDate>
+    <description>Navigational Metacognition in Aging: Encoding Strategies and Spatial Representation</description>
+  </item>
+  <item>
+    <title>文脈再現により明らかになる正常加齢における文脈記憶の特異性保持</title>
     <link>https://osf.io/924uf</link>
     <guid isPermaLink="false">https://osf.io/924uf#ja</guid>
     <pubDate>Fri, 16 Jan 2026 18:54:57 +0000</pubDate>
     <description>Context reinstatement reveals preserved context memory specificity in normal aging</description>
   </item>
   <item>
-    <title>空間記憶に関する階層的ベイズモデル</title>
+    <title>空間記憶のための階層ベイズモデル</title>
     <link>https://osf.io/yt7jm</link>
     <guid isPermaLink="false">https://osf.io/yt7jm#ja</guid>
     <pubDate>Fri, 16 Jan 2026 18:26:37 +0000</pubDate>
@@ -27,7 +34,7 @@
     <description>Evaluating Data-Driven Methods to Capture Anxious Arousal with Movie fMRI</description>
   </item>
   <item>
-    <title>UPPS-P衝動性、瞬間的感情、およびギャンブル：経験サンプリング法による検討</title>
+    <title>UPPS-P衝動性、瞬間的感情、およびギャンブル：経験サンプリング法による研究</title>
     <link>https://osf.io/sghqb</link>
     <guid isPermaLink="false">https://osf.io/sghqb#ja</guid>
     <pubDate>Fri, 16 Jan 2026 18:26:37 +0000</pubDate>
@@ -55,7 +62,7 @@
     <description>Exploring Emotional Responses to Familiar Music in Healthy Adults: A Systematic Review</description>
   </item>
   <item>
-    <title>安全なAGI構築のための設計制約としての道徳的指針：人間工学的原則の検討</title>
+    <title>安全な汎用人工知能構築のための倫理的指針と人間工学的原則</title>
     <link>https://osf.io/fd3kn</link>
     <guid isPermaLink="false">https://osf.io/fd3kn#ja</guid>
     <pubDate>Fri, 16 Jan 2026 12:36:24 +0000</pubDate>
@@ -104,7 +111,7 @@
     <description>Developmental Dysgraphia in Chinese: A Review of Neurocognitive Mechanisms, Classification, and Assessment</description>
   </item>
   <item>
-    <title>葛藤課題における感情制御：一致性連鎖効果のメタアナリシス</title>
+    <title>葛藤課題における情動制御：一致性連鎖効果に関するメタ分析</title>
     <link>https://osf.io/u5jc3</link>
     <guid isPermaLink="false">https://osf.io/u5jc3#ja</guid>
     <pubDate>Fri, 16 Jan 2026 08:24:35 +0000</pubDate>
@@ -118,7 +125,7 @@
     <description>How cognitive salience and cue frequency shape grammar: evidence from animacy</description>
   </item>
   <item>
-    <title>反応の価値は常に期待効用を反映するか、それとも過去の結果との単なる共起によって影響を受けるか？</title>
+    <title>反応の価値は常に期待効用を反映するか、それとも過去の結果との単なる共起によって影響を受けうるか？</title>
     <link>https://osf.io/escb5</link>
     <guid isPermaLink="false">https://osf.io/escb5#ja</guid>
     <pubDate>Fri, 16 Jan 2026 08:24:35 +0000</pubDate>
@@ -132,14 +139,14 @@
     <description>Rethinking empathy in the age of AI</description>
   </item>
   <item>
-    <title>増大した心配が無関係な問題への心配にどのように影響するか</title>
+    <title>増大した心配が無関係な問題への心配にどのように影響するか？</title>
     <link>https://osf.io/ysdvg</link>
     <guid isPermaLink="false">https://osf.io/ysdvg#ja</guid>
     <pubDate>Fri, 16 Jan 2026 07:43:41 +0000</pubDate>
     <description>How does increased worry affect worries about unrelated issues?</description>
   </item>
   <item>
-    <title>制御の喪失時における報酬不確実性下での学習性無力感と認知的柔軟性の時間的動態</title>
+    <title>制御感喪失の瞬間：報酬不確実性下における学習性無力感と認知的柔軟性の時間的動態</title>
     <link>https://osf.io/qj2av</link>
     <guid isPermaLink="false">https://osf.io/qj2av#ja</guid>
     <pubDate>Fri, 16 Jan 2026 07:43:40 +0000</pubDate>
@@ -160,7 +167,7 @@
     <description>BE CAREFUL HOW YOU TEST ME: HOW RETRIEVAL DESIGN AFFECTS THE MECHANISM OF UNITIZATION</description>
   </item>
   <item>
-    <title>顔から汚職可能な政治家を推測するのは白人に限られる</title>
+    <title>顔から腐敗しやすい政治家を推測することは、白人に限られる</title>
     <link>https://osf.io/hbprf</link>
     <guid isPermaLink="false">https://osf.io/hbprf#ja</guid>
     <pubDate>Fri, 16 Jan 2026 07:25:16 +0000</pubDate>
@@ -174,14 +181,14 @@
     <description>Longitudinal associations between adverse childhood experiences and alcohol use and misuse among Mexican-origin adolescents</description>
   </item>
   <item>
-    <title>韓国語・英語バイリンガルの適応型二言語失語症スクリーニング検査における成績</title>
+    <title>韓国語・英語バイリンガルのスクリーニングバイリンガル失語症検査適応版におけるパフォーマンス評価</title>
     <link>https://osf.io/tp3ya</link>
     <guid isPermaLink="false">https://osf.io/tp3ya#ja</guid>
     <pubDate>Fri, 16 Jan 2026 07:25:15 +0000</pubDate>
     <description>Performance of Korean-English Bilinguals on an Adaptation of the Screening Bilingual Aphasia Test</description>
   </item>
   <item>
-    <title>補聴器使用難聴者における知覚歪み：過剰な音量増大と変化した音色表象の心理物理学的証拠</title>
+    <title>補聴援助を受ける難聴者における知覚歪み：過剰な音量増大と変化した音色表象の心理物理学的証拠</title>
     <link>https://osf.io/r9nyt</link>
     <guid isPermaLink="false">https://osf.io/r9nyt#ja</guid>
     <pubDate>Thu, 15 Jan 2026 20:20:39 +0000</pubDate>
@@ -202,28 +209,28 @@
     <description>Rhythm Cycle Alignment Task (RCAT). Cross-Cultural Differences in Aligning to Long Rhythmic Cycles from North Indian Classical Music.</description>
   </item>
   <item>
-    <title>キャラクターダイナミズム質問票：マズールのサイバネティック・パーソナリティ理論の操作的定義に向けて</title>
+    <title>キャラクター・ダイナミズム質問票：マズールのサイバネティック・パーソナリティ理論の操作的定義に向けて</title>
     <link>https://osf.io/a4zjx</link>
     <guid isPermaLink="false">https://osf.io/a4zjx#ja</guid>
     <pubDate>Thu, 15 Jan 2026 17:03:53 +0000</pubDate>
     <description>Character Dynamism Questionnaire: Toward the Operationalization of Mazur’s Cybernetic Approach to Personality</description>
   </item>
   <item>
-    <title>自己および状況焦点型認知的再評価が攻撃性に及ぼす心理生理学的影響</title>
+    <title>自己焦点および状況焦点の認知的再評価が攻撃性に及ぼす心理生理学的影響</title>
     <link>https://osf.io/bdj6r</link>
     <guid isPermaLink="false">https://osf.io/bdj6r#ja</guid>
     <pubDate>Thu, 15 Jan 2026 16:29:42 +0000</pubDate>
     <description>The psychophysiological influence of self- and situation-focused cognitive reappraisal on aggression</description>
   </item>
   <item>
-    <title>もう限界！家庭料理バーンアウト（HCBO）に関する理論モデル：燃え尽きから料理疲労へ</title>
+    <title>もう限界！家庭料理燃え尽き症候群（HCBO）の理論モデル：バーンアウトからクックアウトへ</title>
     <link>https://osf.io/htxjp</link>
     <guid isPermaLink="false">https://osf.io/htxjp#ja</guid>
     <pubDate>Thu, 15 Jan 2026 16:29:42 +0000</pubDate>
     <description>I’m Cooked! From Burnt out to Cooked out: A Theoretical Model of Home Cooking Burnout (HCBO)</description>
   </item>
   <item>
-    <title>マンダリン・英語バイリンガル児童における物語の語りと再語り</title>
+    <title>マンダリン・英語バイリンガル児における物語の語りと再語り</title>
     <link>https://osf.io/8wcqy</link>
     <guid isPermaLink="false">https://osf.io/8wcqy#ja</guid>
     <pubDate>Thu, 15 Jan 2026 16:29:42 +0000</pubDate>
@@ -244,7 +251,7 @@
     <description>Psilocybin for Treatment-Resistant OCD: A Randomized Controlled Trial</description>
   </item>
   <item>
-    <title>エコ不安連続体の探究：項目反応理論による尺度の較正</title>
+    <title>エコ不安の連続体の探究：項目反応理論による尺度の較正</title>
     <link>https://osf.io/yvjd3</link>
     <guid isPermaLink="false">https://osf.io/yvjd3#ja</guid>
     <pubDate>Thu, 15 Jan 2026 10:20:07 +0000</pubDate>
@@ -286,21 +293,21 @@
     <description>Understanding the key domains of adolescent social media experience: a parallel Delphi study with young people and key adults</description>
   </item>
   <item>
-    <title>オーストリアに必要な心理療法士の数はいくつか？治療ギャップ推定の体系的統合</title>
+    <title>オーストリアに必要な心理療法士の数はいくつか？治療ギャップ推定の体系的総合分析</title>
     <link>https://osf.io/wra4n</link>
     <guid isPermaLink="false">https://osf.io/wra4n#ja</guid>
     <pubDate>Thu, 15 Jan 2026 04:26:13 +0000</pubDate>
     <description>How many psychotherapists does Austria need? A systematic synthesis of treatment gap estimates</description>
   </item>
   <item>
-    <title>家庭内における進化的公平性と不公平性の検討：公平性の進化論的説明の再考</title>
+    <title>家庭内における進化的公平性の検討：公平性に関する進化論的説明の再考</title>
     <link>https://osf.io/67sk5</link>
     <guid isPermaLink="false">https://osf.io/67sk5#ja</guid>
     <pubDate>Thu, 15 Jan 2026 04:26:07 +0000</pubDate>
     <description>Evolved equity but inequity in the household?  Reviewing evolutionary accounts of Fairness</description>
   </item>
   <item>
-    <title>長時間のタイピング作業によって引き起こされる疲労の解明</title>
+    <title>長時間タイピング作業による疲労の解明</title>
     <link>https://osf.io/mch3k</link>
     <guid isPermaLink="false">https://osf.io/mch3k#ja</guid>
     <pubDate>Thu, 15 Jan 2026 04:26:07 +0000</pubDate>
@@ -321,14 +328,14 @@
     <description>The Hidden Cost of Control: Reappraisal Brings Short-Term Benefits but Hinders Adaptation to Unexpected Emotional Reminders</description>
   </item>
   <item>
-    <title>統合失調症スペクトラム障害における人種的ストレスが陰性症状に及ぼす影響の理論モデル</title>
+    <title>統合失調スペクトラム障害における人種的ストレスが陰性症状に及ぼす影響の理論モデル</title>
     <link>https://osf.io/6ne2m</link>
     <guid isPermaLink="false">https://osf.io/6ne2m#ja</guid>
     <pubDate>Thu, 15 Jan 2026 04:25:59 +0000</pubDate>
     <description>A Theoretical Model of Racial Stress Shaping Negative Symptoms in Schizophrenia Spectrum Disorders</description>
   </item>
   <item>
-    <title>ディープフェイク被害と実害：ディープフェイク悪用行為および誤信受容を減少させるオンライン介入の効果検証</title>
+    <title>ディープフェイクによる実害と誤解：ディープフェイク悪用行為の抑制と誤信受容を目的としたオンライン介入研究</title>
     <link>https://osf.io/tqs7a</link>
     <guid isPermaLink="false">https://osf.io/tqs7a#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:54 +0000</pubDate>
@@ -340,13 +347,6 @@
     <guid isPermaLink="false">https://osf.io/7cqts#ja</guid>
     <pubDate>Thu, 15 Jan 2026 03:14:53 +0000</pubDate>
     <description>Confidence phenotypes: a unified computational account of value and decision certainty in reinforcement learning</description>
-  </item>
-  <item>
-    <title>最小関心効果量の開発と簡易手続きに関する研究</title>
-    <link>https://osf.io/g2yv5</link>
-    <guid isPermaLink="false">https://osf.io/g2yv5#ja</guid>
-    <pubDate>Thu, 15 Jan 2026 03:14:53 +0000</pubDate>
-    <description>On Smallest Effect Size of Interest: Its Development and a Simplified Procedure</description>
   </item>
 </channel>
 </rss>
