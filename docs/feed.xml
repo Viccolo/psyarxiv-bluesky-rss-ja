@@ -6,14 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>類似トラウマ後の侵入頻度と苦痛の時間的動態：ミニメタアナリシス</title>
+    <title>類似外傷後の侵入頻度と苦痛の時間的動態に関するミニメタ分析</title>
     <link>https://osf.io/pv9m6</link>
     <guid isPermaLink="false">https://osf.io/pv9m6#ja</guid>
     <pubDate>Sun, 18 Jan 2026 20:42:21 +0000</pubDate>
     <description>The Temporal Dynamics between Intrusion Frequency and Distress following Analog Trauma: A Mini Meta-Analysis</description>
   </item>
   <item>
-    <title>地球規模の無作為抽出法：第一歩として</title>
+    <title>地球規模の無作為抽出方法：第一歩として</title>
     <link>https://osf.io/chqvu</link>
     <guid isPermaLink="false">https://osf.io/chqvu#ja</guid>
     <pubDate>Sun, 18 Jan 2026 20:18:16 +0000</pubDate>
@@ -34,7 +34,7 @@
     <description>Nuancing “Knowledge” as a Target for Behavior Change Interventions: Implications for Effective Intervention Design</description>
   </item>
   <item>
-    <title>BackTranslationLLM：心理測定ツールの内容翻訳と検証のためのエージェンシーAIアーキテクチャ</title>
+    <title>BackTranslationLLM：心理計測ツールの内容翻訳と検証のためのエージェント型AIアーキテクチャ</title>
     <link>https://osf.io/fq5yd</link>
     <guid isPermaLink="false">https://osf.io/fq5yd#ja</guid>
     <pubDate>Sat, 17 Jan 2026 16:18:39 +0000</pubDate>
@@ -48,7 +48,7 @@
     <description>Desequilibrio Esfuerzo-Recompensa en Logística: Cuando la Autonomía no es Suficiente</description>
   </item>
   <item>
-    <title>PRISM：高校生の文章作成におけるAI利用、創造性、および著作権のプロファイル分析</title>
+    <title>PRISM：高校生の文章作成におけるAI利用、創造性、著作権のプロファイル分析</title>
     <link>https://osf.io/dx4bf</link>
     <guid isPermaLink="false">https://osf.io/dx4bf#ja</guid>
     <pubDate>Sat, 17 Jan 2026 16:18:38 +0000</pubDate>
@@ -62,7 +62,7 @@
     <description>A large-scale analysis of metonymy across languages</description>
   </item>
   <item>
-    <title>狂気の天才神話の解体：感情不安定性が専門的アーティストの主観的幸福感を低下させ、創造的自己信念を損なうメカニズム</title>
+    <title>天才の狂気神話の解体：感情不安定性が専門的芸術家の創造的自己信念を主観的幸福感の低下を通じて損なう</title>
     <link>https://osf.io/n57zk</link>
     <guid isPermaLink="false">https://osf.io/n57zk#ja</guid>
     <pubDate>Sat, 17 Jan 2026 12:32:37 +0000</pubDate>
@@ -83,7 +83,7 @@
     <description>Mapping mental ill-health and health within a large, representative UK school-based sample of adolescents</description>
   </item>
   <item>
-    <title>TrAIngles：生涯にわたる心の理論評価のための大規模言語モデル（LLM）ベース自動採点ツール</title>
+    <title>TrAIngles：生涯にわたる心の理論評価のための大規模言語モデル（LLM）基盤自動採点ツール</title>
     <link>https://osf.io/sb9gz</link>
     <guid isPermaLink="false">https://osf.io/sb9gz#ja</guid>
     <pubDate>Sat, 17 Jan 2026 11:36:46 +0000</pubDate>
@@ -97,7 +97,7 @@
     <description>Comparing Attitudes toward Online and Traditional Learning across  Age Groups</description>
   </item>
   <item>
-    <title>意味的委譲：他者の助けを借りて概念を理解する心理学的考察</title>
+    <title>意味的委譲：他者の助けを借りた概念理解のメカニズム</title>
     <link>https://osf.io/epq2v</link>
     <guid isPermaLink="false">https://osf.io/epq2v#ja</guid>
     <pubDate>Sat, 17 Jan 2026 11:13:42 +0000</pubDate>
@@ -132,7 +132,7 @@
     <description>Conceptualizing Science as Explanatory  Predicts Elementary-School Children&#x27;s Science Learning</description>
   </item>
   <item>
-    <title>慎重なプロンプト設計が示す条件依存性に対するChatGPTのルールベースの鈍感さ</title>
+    <title>慎重なプロンプト設定がもたらすChatGPTの条件依存性に対するルールベースの鈍感さ</title>
     <link>https://osf.io/gbx2w</link>
     <guid isPermaLink="false">https://osf.io/gbx2w#ja</guid>
     <pubDate>Sat, 17 Jan 2026 10:42:19 +0000</pubDate>
@@ -146,7 +146,7 @@
     <description>Finding our ROLE: How and why to reframe essentialist approaches to language</description>
   </item>
   <item>
-    <title>人生の明るい側面―若年者および高齢者の日常生活における昼間の光曝露とウェルビーイング</title>
+    <title>人生の明るい側面－若年者および高齢者の日常生活における昼間の光曝露とウェルビーイングの関係</title>
     <link>https://osf.io/rgjpu</link>
     <guid isPermaLink="false">https://osf.io/rgjpu#ja</guid>
     <pubDate>Fri, 16 Jan 2026 20:18:17 +0000</pubDate>
@@ -167,28 +167,28 @@
     <description>Re. The influence of personality on the risk of myocardial infarction in UK Biobank cohort</description>
   </item>
   <item>
-    <title>楽観主義の社会的伝達メカニズム</title>
+    <title>楽観主義の社会的伝達</title>
     <link>https://osf.io/k93w5</link>
     <guid isPermaLink="false">https://osf.io/k93w5#ja</guid>
     <pubDate>Fri, 16 Jan 2026 19:36:23 +0000</pubDate>
     <description>The social transmission of optimism</description>
   </item>
   <item>
-    <title>加齢におけるナビゲーションのメタ認知：符号化戦略と空間表象</title>
+    <title>加齢におけるナビゲーショナルメタ認知：符号化戦略と空間表象</title>
     <link>https://osf.io/8gky2</link>
     <guid isPermaLink="false">https://osf.io/8gky2#ja</guid>
     <pubDate>Fri, 16 Jan 2026 19:17:44 +0000</pubDate>
     <description>Navigational Metacognition in Aging: Encoding Strategies and Spatial Representation</description>
   </item>
   <item>
-    <title>文脈再現が示す正常加齢における文脈記憶の特異性の維持</title>
+    <title>文脈再現により明らかになる正常加齢における文脈記憶の特異性保持</title>
     <link>https://osf.io/924uf</link>
     <guid isPermaLink="false">https://osf.io/924uf#ja</guid>
     <pubDate>Fri, 16 Jan 2026 18:54:57 +0000</pubDate>
     <description>Context reinstatement reveals preserved context memory specificity in normal aging</description>
   </item>
   <item>
-    <title>空間記憶に関する階層ベイズモデル</title>
+    <title>空間記憶に関する階層的ベイズモデル</title>
     <link>https://osf.io/yt7jm</link>
     <guid isPermaLink="false">https://osf.io/yt7jm#ja</guid>
     <pubDate>Fri, 16 Jan 2026 18:26:37 +0000</pubDate>
@@ -202,7 +202,7 @@
     <description>Evaluating Data-Driven Methods to Capture Anxious Arousal with Movie fMRI</description>
   </item>
   <item>
-    <title>UPPS-P衝動性、瞬間的感情、およびギャンブル：経験サンプリング法による検討</title>
+    <title>UPPS-P衝動性、瞬間的情動、およびギャンブル：経験サンプリング法による検討</title>
     <link>https://osf.io/sghqb</link>
     <guid isPermaLink="false">https://osf.io/sghqb#ja</guid>
     <pubDate>Fri, 16 Jan 2026 18:26:37 +0000</pubDate>
@@ -216,14 +216,14 @@
     <description>Post-Error Slowing is Modulated by Emotional Words</description>
   </item>
   <item>
-    <title>COVID-19パンデミック以降における女性および少女のデジタル親密者間暴力支援への関与：系統的レビューと理論的統合</title>
+    <title>COVID-19パンデミック以降における女性および少女のデジタル親密なパートナー暴力支援への関与：系統的レビューと理論的統合</title>
     <link>https://osf.io/3rjxp</link>
     <guid isPermaLink="false">https://osf.io/3rjxp#ja</guid>
     <pubDate>Fri, 16 Jan 2026 18:26:36 +0000</pubDate>
     <description>Women and Girls’ Engagement with Digital Intimate Partner Violence Support Since the start of the COVID-19 pandemic: A Systematic Review and Theoretical Synthesis</description>
   </item>
   <item>
-    <title>健康な成人における馴染みのある音楽への感情反応の検討：系統的レビュー</title>
+    <title>健康成人における馴染みのある音楽への感情反応の検討：系統的レビュー</title>
     <link>https://osf.io/z9s85</link>
     <guid isPermaLink="false">https://osf.io/z9s85#ja</guid>
     <pubDate>Fri, 16 Jan 2026 12:36:25 +0000</pubDate>
@@ -244,14 +244,14 @@
     <description>Enhancing Replicability and Reproducibility in Observational Coding Research: A Tutorial in R</description>
   </item>
   <item>
-    <title>自然な三者会話における眼球運動と方向付け行動：騒音、聴覚障害、および座席位置の影響</title>
+    <title>自然な三者会話における眼球運動と方向付け行動：騒音、聴覚障害および座席位置の影響</title>
     <link>https://osf.io/vga2d</link>
     <guid isPermaLink="false">https://osf.io/vga2d#ja</guid>
     <pubDate>Fri, 16 Jan 2026 10:19:14 +0000</pubDate>
     <description>Eye Movement and Orientation Behaviour during Natural Triadic Conversations: Effects of Noise, Hearing Impairment, and Seating Position</description>
   </item>
   <item>
-    <title>オンライン環境下における確率学習課題での幼児の遂行能力低下</title>
+    <title>オンライン環境下における確率学習課題での幼児のパフォーマンス低下</title>
     <link>https://osf.io/75chx</link>
     <guid isPermaLink="false">https://osf.io/75chx#ja</guid>
     <pubDate>Fri, 16 Jan 2026 09:47:12 +0000</pubDate>
@@ -272,7 +272,7 @@
     <description>Mapping Content-Specific Emotional Effects of Social Media</description>
   </item>
   <item>
-    <title>中国語における発達性書字障害：神経認知メカニズム、分類、および評価のレビュー</title>
+    <title>中国語における発達性書字障害：神経認知メカニズム、分類、および評価の総説</title>
     <link>https://osf.io/v23sk</link>
     <guid isPermaLink="false">https://osf.io/v23sk#ja</guid>
     <pubDate>Fri, 16 Jan 2026 09:47:10 +0000</pubDate>
@@ -293,7 +293,7 @@
     <description>How cognitive salience and cue frequency shape grammar: evidence from animacy</description>
   </item>
   <item>
-    <title>反応の価値は常に期待効用を反映するか、それとも過去の結果との単なる共起によって影響を受けるか？</title>
+    <title>反応の価値は常に期待効用を反映するか―過去の結果との単なる共起によって影響を受ける可能性はあるか</title>
     <link>https://osf.io/escb5</link>
     <guid isPermaLink="false">https://osf.io/escb5#ja</guid>
     <pubDate>Fri, 16 Jan 2026 08:24:35 +0000</pubDate>
@@ -314,7 +314,7 @@
     <description>How does increased worry affect worries about unrelated issues?</description>
   </item>
   <item>
-    <title>制御の喪失時における学習性無力感と報酬不確実性下での認知的柔軟性の時間的動態</title>
+    <title>制御喪失の瞬間：報酬不確実性下における学習性無力感と認知的柔軟性の時間的動態</title>
     <link>https://osf.io/qj2av</link>
     <guid isPermaLink="false">https://osf.io/qj2av#ja</guid>
     <pubDate>Fri, 16 Jan 2026 07:43:40 +0000</pubDate>
@@ -335,7 +335,7 @@
     <description>BE CAREFUL HOW YOU TEST ME: HOW RETRIEVAL DESIGN AFFECTS THE MECHANISM OF UNITIZATION</description>
   </item>
   <item>
-    <title>顔から汚職可能な政治家を推測することは白人に限られる</title>
+    <title>顔から汚職可能な政治家を推測することは、白人に限られる</title>
     <link>https://osf.io/hbprf</link>
     <guid isPermaLink="false">https://osf.io/hbprf#ja</guid>
     <pubDate>Fri, 16 Jan 2026 07:25:16 +0000</pubDate>
