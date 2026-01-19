@@ -6,6 +6,62 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>地域青少年の電子タバコ予防施策に関する横断的調査および内容分析</title>
+    <link>https://osf.io/pb6yc</link>
+    <guid isPermaLink="false">https://osf.io/pb6yc#ja</guid>
+    <pubDate>Mon, 19 Jan 2026 15:48:13 +0000</pubDate>
+    <description>A Cross‑Sectional Survey and Content Analysis of Local Youth Vaping Prevention Initiatives</description>
+  </item>
+  <item>
+    <title>形態・実質・本質：変容の現象学に向けて</title>
+    <link>https://osf.io/tc32r</link>
+    <guid isPermaLink="false">https://osf.io/tc32r#ja</guid>
+    <pubDate>Mon, 19 Jan 2026 15:48:13 +0000</pubDate>
+    <description>Form, Substance, Essence: Towards a Phenomenology of Transformation</description>
+  </item>
+  <item>
+    <title>感情動態か反応バイアスか？日常生活評価における極端な応答様式の検討</title>
+    <link>https://osf.io/3hjmt</link>
+    <guid isPermaLink="false">https://osf.io/3hjmt#ja</guid>
+    <pubDate>Mon, 19 Jan 2026 15:48:13 +0000</pubDate>
+    <description>Affect dynamics or response bias? Extreme response style in daily-life assessments</description>
+  </item>
+  <item>
+    <title>音楽の概念的境界：異文化間における音響分類の行動研究</title>
+    <link>https://osf.io/huzpx</link>
+    <guid isPermaLink="false">https://osf.io/huzpx#ja</guid>
+    <pubDate>Mon, 19 Jan 2026 15:48:12 +0000</pubDate>
+    <description>Conceptual Boundaries of Music:  A Behavioral Study of Cross-Cultural Sound Classification</description>
+  </item>
+  <item>
+    <title>t検定におけるデータ除外が統計結果の頑健性に及ぼす影響</title>
+    <link>https://osf.io/uyfsj</link>
+    <guid isPermaLink="false">https://osf.io/uyfsj#ja</guid>
+    <pubDate>Mon, 19 Jan 2026 15:48:12 +0000</pubDate>
+    <description>On the Robustness of Statistical Results to Data Exclusion in t-Tests</description>
+  </item>
+  <item>
+    <title>気候変動に対応する身体活動専門職の実感ニーズ：課題、能力、および教育戦略</title>
+    <link>https://osf.io/f43n2</link>
+    <guid isPermaLink="false">https://osf.io/f43n2#ja</guid>
+    <pubDate>Mon, 19 Jan 2026 15:48:11 +0000</pubDate>
+    <description>Felt Needs of Physical Activity Professionals in Response to Climate Change: Challenges, Competencies, and Educational Strategies</description>
+  </item>
+  <item>
+    <title>逆境を経験する若年層のレジリエンス促進：エビデンスのスコーピングレビュー</title>
+    <link>https://osf.io/p6wqs</link>
+    <guid isPermaLink="false">https://osf.io/p6wqs#ja</guid>
+    <pubDate>Mon, 19 Jan 2026 15:48:11 +0000</pubDate>
+    <description>Promoting resilience among young people experiencing adverse life effects: A scoping review of evidence</description>
+  </item>
+  <item>
+    <title>煙と大規模言語モデルの鏡像：精神保健ケアにおける生成型AIの使用に反対して</title>
+    <link>https://osf.io/fpaq9</link>
+    <guid isPermaLink="false">https://osf.io/fpaq9#ja</guid>
+    <pubDate>Mon, 19 Jan 2026 15:48:10 +0000</pubDate>
+    <description>Smoke and LLMirrors: Against the Use of Generative AI in Mental Health Care</description>
+  </item>
+  <item>
     <title>「For You」ページ問題：ショートフォーム動画プラットフォームにおける露骨なコンテンツ曝露と精神健康への影響</title>
     <link>https://osf.io/8rbhq</link>
     <guid isPermaLink="false">https://osf.io/8rbhq#ja</guid>
@@ -20,7 +76,7 @@
     <description>Beyond WEIRD humans and STRANGE dogs: Using big team science to improve generalizability and reproducibility in comparative psychology</description>
   </item>
   <item>
-    <title>分析的堅牢性か理論的保存か？TengとBushman（2026）によるLackoら（2024）の再分析への応答</title>
+    <title>分析の堅牢性か理論の保持か？TengとBushman（2026）によるLackoら（2024）の再分析への応答</title>
     <link>https://osf.io/c389n</link>
     <guid isPermaLink="false">https://osf.io/c389n#ja</guid>
     <pubDate>Mon, 19 Jan 2026 10:23:30 +0000</pubDate>
@@ -34,21 +90,21 @@
     <description>Possibility Mindset: A Theory of Motivation Under Constraint, with Neurodivergence as a Revealing Interpretive Case</description>
   </item>
   <item>
-    <title>進展の予測：知的謙虚性と世界福祉予測の正確性</title>
+    <title>進展の予測：知的謙虚さと世界福祉予測の正確性</title>
     <link>https://osf.io/c5kx4</link>
     <guid isPermaLink="false">https://osf.io/c5kx4#ja</guid>
     <pubDate>Mon, 19 Jan 2026 10:23:29 +0000</pubDate>
     <description>Predicting progress: Intellectual humility and accuracy in forecasts of global welfare</description>
   </item>
   <item>
-    <title>一般的に報告される統計量からコーエンのdzを算出する方法：対応のある標本平均差のメタ分析の実践ガイド</title>
+    <title>共分散のある標本平均差のメタ分析における一般的統計量からのコーエンのdz算出法：実践的ガイド</title>
     <link>https://osf.io/7gnj6</link>
     <guid isPermaLink="false">https://osf.io/7gnj6#ja</guid>
     <pubDate>Mon, 19 Jan 2026 10:23:29 +0000</pubDate>
     <description>Computing Cohen’s dz from commonly reported statistics: a practical guide for the meta-analysis of paired samples mean differences</description>
   </item>
   <item>
-    <title>類似トラウマ後の侵入頻度と苦痛の時間的動態に関するミニメタアナリシス</title>
+    <title>類似トラウマ後の侵入頻度と苦痛の時間的動態に関するミニメタ分析</title>
     <link>https://osf.io/pv9m6</link>
     <guid isPermaLink="false">https://osf.io/pv9m6#ja</guid>
     <pubDate>Sun, 18 Jan 2026 20:42:21 +0000</pubDate>
@@ -76,7 +132,7 @@
     <description>Nuancing “Knowledge” as a Target for Behavior Change Interventions: Implications for Effective Intervention Design</description>
   </item>
   <item>
-    <title>BackTranslationLLM：心理計測ツールの内容翻訳と検証のためのエージェンシーAIアーキテクチャ</title>
+    <title>BackTranslationLLM：心理計測ツールの内容翻訳と検証のためのエージェント型AIアーキテクチャ</title>
     <link>https://osf.io/fq5yd</link>
     <guid isPermaLink="false">https://osf.io/fq5yd#ja</guid>
     <pubDate>Sat, 17 Jan 2026 16:18:39 +0000</pubDate>
@@ -90,7 +146,7 @@
     <description>Desequilibrio Esfuerzo-Recompensa en Logística: Cuando la Autonomía no es Suficiente</description>
   </item>
   <item>
-    <title>PRISM：高校生の作文におけるAI利用、創造性、および著作権のプロファイル分析</title>
+    <title>PRISM：高校生の文章作成におけるAI利用、創造性、著作権意識のプロファイル分析</title>
     <link>https://osf.io/dx4bf</link>
     <guid isPermaLink="false">https://osf.io/dx4bf#ja</guid>
     <pubDate>Sat, 17 Jan 2026 16:18:38 +0000</pubDate>
@@ -118,14 +174,14 @@
     <description>Humans neglect complexity in predictive model selection</description>
   </item>
   <item>
-    <title>英国の代表的な学校ベースの青年サンプルにおける精神的健康障害と健康のマッピング</title>
+    <title>英国の代表的な学校ベースの青年期サンプルにおける精神的健康障害と健康のマッピング</title>
     <link>https://osf.io/ax8u5</link>
     <guid isPermaLink="false">https://osf.io/ax8u5#ja</guid>
     <pubDate>Sat, 17 Jan 2026 11:36:47 +0000</pubDate>
     <description>Mapping mental ill-health and health within a large, representative UK school-based sample of adolescents</description>
   </item>
   <item>
-    <title>TrAIngles：生涯にわたる心の理論評価のための大規模言語モデル基盤自動採点ツール</title>
+    <title>TrAIngles：生涯にわたる心の理論評価のための大規模言語モデル（LLM）を用いた自動採点ツール</title>
     <link>https://osf.io/sb9gz</link>
     <guid isPermaLink="false">https://osf.io/sb9gz#ja</guid>
     <pubDate>Sat, 17 Jan 2026 11:36:46 +0000</pubDate>
@@ -146,21 +202,21 @@
     <description>Semantic Delegation: Understanding Concepts with a Little Help from our Friends</description>
   </item>
   <item>
-    <title>前景および背景における傾斜および回転する妨害刺激を伴う直立知覚の研究</title>
+    <title>前景および背景における傾斜および回転する妨害刺激が及ぼす直立知覚への影響</title>
     <link>https://osf.io/x2aq4</link>
     <guid isPermaLink="false">https://osf.io/x2aq4#ja</guid>
     <pubDate>Sat, 17 Jan 2026 11:13:41 +0000</pubDate>
     <description>Perception of the upright with tilted and rotating distractors  in the fore- and background</description>
   </item>
   <item>
-    <title>インターネットベースの評価によって明らかにされた異なるリズム能力</title>
+    <title>インターネットを用いた評価によって明らかになった異なるリズム能力</title>
     <link>https://osf.io/wx6ut</link>
     <guid isPermaLink="false">https://osf.io/wx6ut#ja</guid>
     <pubDate>Sat, 17 Jan 2026 11:13:41 +0000</pubDate>
     <description>Distinct rhythmic competencies identified via internet-based assessment</description>
   </item>
   <item>
-    <title>感情が情報探索意思決定に及ぼす影響の説明における目標関連プロセスの役割の解明</title>
+    <title>感情が情報探索行動に及ぼす影響の説明における目標関連プロセスの役割の解明</title>
     <link>https://osf.io/d6fvq</link>
     <guid isPermaLink="false">https://osf.io/d6fvq#ja</guid>
     <pubDate>Sat, 17 Jan 2026 11:13:41 +0000</pubDate>
@@ -174,21 +230,21 @@
     <description>Conceptualizing Science as Explanatory  Predicts Elementary-School Children&#x27;s Science Learning</description>
   </item>
   <item>
-    <title>慎重なプロンプト設計がもたらすChatGPTの条件依存性に対する規則ベースの鈍感さ</title>
+    <title>慎重なプロンプト設計が求められる：ChatGPTの条件依存性に対するルールベースの鈍感性</title>
     <link>https://osf.io/gbx2w</link>
     <guid isPermaLink="false">https://osf.io/gbx2w#ja</guid>
     <pubDate>Sat, 17 Jan 2026 10:42:19 +0000</pubDate>
     <description>Prompt Carefully! ChatGPT Displays Rule-Based Insensitivity to Contingencies</description>
   </item>
   <item>
-    <title>私たちの役割を見出す：言語に対する本質主義的アプローチを再構築する方法とその意義</title>
+    <title>私たちの役割を見つける：言語に対する本質主義的アプローチを再構築する方法とその意義</title>
     <link>https://osf.io/7h2fb</link>
     <guid isPermaLink="false">https://osf.io/7h2fb#ja</guid>
     <pubDate>Sat, 17 Jan 2026 10:17:01 +0000</pubDate>
     <description>Finding our ROLE: How and why to reframe essentialist approaches to language</description>
   </item>
   <item>
-    <title>人生の明るい側面－若年層および高齢者の日常生活における昼間の光曝露とウェルビーイングの関係</title>
+    <title>人生の明るい側面－若年者と高齢者の日常生活における昼間の光曝露とウェルビーイングの関係</title>
     <link>https://osf.io/rgjpu</link>
     <guid isPermaLink="false">https://osf.io/rgjpu#ja</guid>
     <pubDate>Fri, 16 Jan 2026 20:18:17 +0000</pubDate>
@@ -230,7 +286,7 @@
     <description>Context reinstatement reveals preserved context memory specificity in normal aging</description>
   </item>
   <item>
-    <title>空間記憶に関する階層ベイズモデル</title>
+    <title>空間記憶に関する階層的ベイズモデル</title>
     <link>https://osf.io/yt7jm</link>
     <guid isPermaLink="false">https://osf.io/yt7jm#ja</guid>
     <pubDate>Fri, 16 Jan 2026 18:26:37 +0000</pubDate>
@@ -244,35 +300,35 @@
     <description>Evaluating Data-Driven Methods to Capture Anxious Arousal with Movie fMRI</description>
   </item>
   <item>
-    <title>UPPS-P衝動性、瞬間的情動、およびギャンブル：経験サンプリング法による検討</title>
+    <title>UPPS-P衝動性、瞬間的感情、およびギャンブル：経験サンプリング法による検討</title>
     <link>https://osf.io/sghqb</link>
     <guid isPermaLink="false">https://osf.io/sghqb#ja</guid>
     <pubDate>Fri, 16 Jan 2026 18:26:37 +0000</pubDate>
     <description>UPPS-P Impulsivity, Momentary Affect, and Gambling: An Experience Sampling Method Study</description>
   </item>
   <item>
-    <title>誤り後の反応遅延は感情語によって変調される</title>
+    <title>誤り後の反応遅延は感情語によって調節される</title>
     <link>https://osf.io/6xkn7</link>
     <guid isPermaLink="false">https://osf.io/6xkn7#ja</guid>
     <pubDate>Fri, 16 Jan 2026 18:26:37 +0000</pubDate>
     <description>Post-Error Slowing is Modulated by Emotional Words</description>
   </item>
   <item>
-    <title>COVID-19パンデミック以降における女性と少女のデジタル親密者間暴力支援への関与：系統的レビューと理論的統合</title>
+    <title>COVID-19パンデミック以降における女性および少女のデジタル親密者間暴力支援への関与：体系的レビューと理論的総合</title>
     <link>https://osf.io/3rjxp</link>
     <guid isPermaLink="false">https://osf.io/3rjxp#ja</guid>
     <pubDate>Fri, 16 Jan 2026 18:26:36 +0000</pubDate>
     <description>Women and Girls’ Engagement with Digital Intimate Partner Violence Support Since the start of the COVID-19 pandemic: A Systematic Review and Theoretical Synthesis</description>
   </item>
   <item>
-    <title>健康成人における馴染みのある音楽への感情反応の検討：系統的レビュー</title>
+    <title>健康な成人における馴染みのある音楽への感情反応の検討：系統的レビュー</title>
     <link>https://osf.io/z9s85</link>
     <guid isPermaLink="false">https://osf.io/z9s85#ja</guid>
     <pubDate>Fri, 16 Jan 2026 12:36:25 +0000</pubDate>
     <description>Exploring Emotional Responses to Familiar Music in Healthy Adults: A Systematic Review</description>
   </item>
   <item>
-    <title>安全なAGI構築のための設計制約としての道徳的指針：人間工学的原則の検討</title>
+    <title>安全なAGI構築のためのエルゴノミクス原理としての道徳的指針</title>
     <link>https://osf.io/fd3kn</link>
     <guid isPermaLink="false">https://osf.io/fd3kn#ja</guid>
     <pubDate>Fri, 16 Jan 2026 12:36:24 +0000</pubDate>
@@ -293,67 +349,11 @@
     <description>Eye Movement and Orientation Behaviour during Natural Triadic Conversations: Effects of Noise, Hearing Impairment, and Seating Position</description>
   </item>
   <item>
-    <title>オンライン環境下における確率学習課題での幼児の遂行能力低下</title>
+    <title>オンライン環境下における確率学習課題での幼児の成績低下</title>
     <link>https://osf.io/75chx</link>
     <guid isPermaLink="false">https://osf.io/75chx#ja</guid>
     <pubDate>Fri, 16 Jan 2026 09:47:12 +0000</pubDate>
     <description>Young Children’s Performance Decreases in a Probability Learning Task When Tested Online</description>
-  </item>
-  <item>
-    <title>マインドフルネストレーニングが運転パフォーマンスに及ぼす影響：前向き対照縦断研究</title>
-    <link>https://osf.io/f9u8n</link>
-    <guid isPermaLink="false">https://osf.io/f9u8n#ja</guid>
-    <pubDate>Fri, 16 Jan 2026 09:47:11 +0000</pubDate>
-    <description>The Impact of Mindfulness Training on Driving Performance: A Prospective Controlled Longitudinal Study</description>
-  </item>
-  <item>
-    <title>ソーシャルメディアにおける内容特異的感情効果のマッピング</title>
-    <link>https://osf.io/d9ynk</link>
-    <guid isPermaLink="false">https://osf.io/d9ynk#ja</guid>
-    <pubDate>Fri, 16 Jan 2026 09:47:11 +0000</pubDate>
-    <description>Mapping Content-Specific Emotional Effects of Social Media</description>
-  </item>
-  <item>
-    <title>中国語における発達性書字障害：神経認知メカニズム、分類、および評価のレビュー</title>
-    <link>https://osf.io/v23sk</link>
-    <guid isPermaLink="false">https://osf.io/v23sk#ja</guid>
-    <pubDate>Fri, 16 Jan 2026 09:47:10 +0000</pubDate>
-    <description>Developmental Dysgraphia in Chinese: A Review of Neurocognitive Mechanisms, Classification, and Assessment</description>
-  </item>
-  <item>
-    <title>葛藤課題における感情制御：一致性連鎖効果に関するメタ分析</title>
-    <link>https://osf.io/u5jc3</link>
-    <guid isPermaLink="false">https://osf.io/u5jc3#ja</guid>
-    <pubDate>Fri, 16 Jan 2026 08:24:35 +0000</pubDate>
-    <description>Affective Control in Conflict Tasks: A Meta-Analysis on the Congruency Sequence Effect</description>
-  </item>
-  <item>
-    <title>認知的顕著性と手がかり頻度が文法形成に与える影響：生物性を手がかりとした証拠</title>
-    <link>https://osf.io/gmxwr</link>
-    <guid isPermaLink="false">https://osf.io/gmxwr#ja</guid>
-    <pubDate>Fri, 16 Jan 2026 08:24:35 +0000</pubDate>
-    <description>How cognitive salience and cue frequency shape grammar: evidence from animacy</description>
-  </item>
-  <item>
-    <title>反応の価値は常に期待効用を反映するか―過去の結果との単なる共起によって影響を受ける可能性はあるか</title>
-    <link>https://osf.io/escb5</link>
-    <guid isPermaLink="false">https://osf.io/escb5#ja</guid>
-    <pubDate>Fri, 16 Jan 2026 08:24:35 +0000</pubDate>
-    <description>Does the Value of a Response Always Reflect its Expected Utility or Can it be Influenced by Mere Co-occurrences with Past Outcomes?</description>
-  </item>
-  <item>
-    <title>AI時代における共感の再考</title>
-    <link>https://osf.io/yj5n3</link>
-    <guid isPermaLink="false">https://osf.io/yj5n3#ja</guid>
-    <pubDate>Fri, 16 Jan 2026 08:24:34 +0000</pubDate>
-    <description>Rethinking empathy in the age of AI</description>
-  </item>
-  <item>
-    <title>増大した不安は無関係な問題への心配にどのように影響するか？</title>
-    <link>https://osf.io/ysdvg</link>
-    <guid isPermaLink="false">https://osf.io/ysdvg#ja</guid>
-    <pubDate>Fri, 16 Jan 2026 07:43:41 +0000</pubDate>
-    <description>How does increased worry affect worries about unrelated issues?</description>
   </item>
 </channel>
 </rss>
