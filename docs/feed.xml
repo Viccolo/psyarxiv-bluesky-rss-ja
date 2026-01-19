@@ -6,14 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>認知制御を要する運転引継ぎ：部分自動化と認知負荷が都市道路における運転者主導の交通危険対応に及ぼす影響</title>
+    <title>認知制御が求められる運転操作：部分的自動化と認知負荷が都市道路における運転者主導の交通危険対応に与える影響</title>
     <link>https://osf.io/zr59h</link>
     <guid isPermaLink="false">https://osf.io/zr59h#ja</guid>
     <pubDate>Mon, 19 Jan 2026 16:23:45 +0000</pubDate>
     <description>When Takeovers Require Cognitive Control: Effects of Partial Automation and Cognitive Load on Driver-Initiated Responses to Traffic Hazards on Urban Roads</description>
   </item>
   <item>
-    <title>孤立からエンパワーメントへ：ピア設計による回復志向型境界性パーソナリティ障害オンライン支援グループのプロセスと初期知見</title>
+    <title>孤立からエンパワーメントへ：ピア主導の回復志向型境界性パーソナリティ障害オンライン支援グループにおける過程と初期の知見</title>
     <link>https://osf.io/5zcfr</link>
     <guid isPermaLink="false">https://osf.io/5zcfr#ja</guid>
     <pubDate>Mon, 19 Jan 2026 16:23:45 +0000</pubDate>
@@ -27,14 +27,14 @@
     <description>A Cross‑Sectional Survey and Content Analysis of Local Youth Vaping Prevention Initiatives</description>
   </item>
   <item>
-    <title>形態・実質・本質：変容の現象学に向けて</title>
+    <title>形態、実質、本質：変容の現象学に向けて</title>
     <link>https://osf.io/tc32r</link>
     <guid isPermaLink="false">https://osf.io/tc32r#ja</guid>
     <pubDate>Mon, 19 Jan 2026 15:48:13 +0000</pubDate>
     <description>Form, Substance, Essence: Towards a Phenomenology of Transformation</description>
   </item>
   <item>
-    <title>感情動態か応答バイアスか？日常生活評価における極端応答様式の検討</title>
+    <title>感情動態か反応バイアスか？日常生活評価における極端な応答様式の検討</title>
     <link>https://osf.io/3hjmt</link>
     <guid isPermaLink="false">https://osf.io/3hjmt#ja</guid>
     <pubDate>Mon, 19 Jan 2026 15:48:13 +0000</pubDate>
@@ -62,21 +62,21 @@
     <description>Felt Needs of Physical Activity Professionals in Response to Climate Change: Challenges, Competencies, and Educational Strategies</description>
   </item>
   <item>
-    <title>逆境を経験する若者のレジリエンス促進：エビデンスのスコーピングレビュー</title>
+    <title>逆境を経験する若年層のレジリエンス促進：エビデンスのスコーピングレビュー</title>
     <link>https://osf.io/p6wqs</link>
     <guid isPermaLink="false">https://osf.io/p6wqs#ja</guid>
     <pubDate>Mon, 19 Jan 2026 15:48:11 +0000</pubDate>
     <description>Promoting resilience among young people experiencing adverse life effects: A scoping review of evidence</description>
   </item>
   <item>
-    <title>煙と大規模言語モデルの鏡：メンタルヘルスケアにおける生成AIの使用に反対して</title>
+    <title>煙と大規模言語モデルの鏡像：精神保健ケアにおける生成AI利用への批判</title>
     <link>https://osf.io/fpaq9</link>
     <guid isPermaLink="false">https://osf.io/fpaq9#ja</guid>
     <pubDate>Mon, 19 Jan 2026 15:48:10 +0000</pubDate>
     <description>Smoke and LLMirrors: Against the Use of Generative AI in Mental Health Care</description>
   </item>
   <item>
-    <title>「For You」ページ問題：ショートフォーム動画プラットフォームにおける露骨なコンテンツ曝露と精神健康への影響</title>
+    <title>「For You」ページ問題：短尺動画プラットフォームにおける露骨なコンテンツ曝露と精神健康への影響</title>
     <link>https://osf.io/8rbhq</link>
     <guid isPermaLink="false">https://osf.io/8rbhq#ja</guid>
     <pubDate>Mon, 19 Jan 2026 11:18:22 +0000</pubDate>
@@ -90,7 +90,7 @@
     <description>Beyond WEIRD humans and STRANGE dogs: Using big team science to improve generalizability and reproducibility in comparative psychology</description>
   </item>
   <item>
-    <title>分析の堅牢性か理論の保持か？TengとBushman（2026）によるLackoら（2024）の再分析への応答</title>
+    <title>分析的堅牢性か理論的保存か？TengおよびBushman（2026）によるLackoら（2024）の再分析への応答</title>
     <link>https://osf.io/c389n</link>
     <guid isPermaLink="false">https://osf.io/c389n#ja</guid>
     <pubDate>Mon, 19 Jan 2026 10:23:30 +0000</pubDate>
@@ -111,7 +111,7 @@
     <description>Predicting progress: Intellectual humility and accuracy in forecasts of global welfare</description>
   </item>
   <item>
-    <title>対応のある標本平均差のメタアナリシスにおけるコーエンのdzの算出法：一般的に報告される統計量からの実践的ガイド</title>
+    <title>ペアサンプル平均差のメタ分析における一般的な統計量からのコーエンのdz算出法：実践的ガイド</title>
     <link>https://osf.io/7gnj6</link>
     <guid isPermaLink="false">https://osf.io/7gnj6#ja</guid>
     <pubDate>Mon, 19 Jan 2026 10:23:29 +0000</pubDate>
@@ -125,7 +125,7 @@
     <description>The Temporal Dynamics between Intrusion Frequency and Distress following Analog Trauma: A Mini Meta-Analysis</description>
   </item>
   <item>
-    <title>地球規模の無作為抽出法：第一歩</title>
+    <title>地球規模の無作為抽出法：第一歩として</title>
     <link>https://osf.io/chqvu</link>
     <guid isPermaLink="false">https://osf.io/chqvu#ja</guid>
     <pubDate>Sun, 18 Jan 2026 20:18:16 +0000</pubDate>
@@ -146,21 +146,21 @@
     <description>Nuancing “Knowledge” as a Target for Behavior Change Interventions: Implications for Effective Intervention Design</description>
   </item>
   <item>
-    <title>BackTranslationLLM：心理計測ツールの内容翻訳と検証のためのエージェント型AIアーキテクチャ</title>
+    <title>BackTranslationLLM：心理測定ツールの内容翻訳と検証のための主体的AIアーキテクチャ</title>
     <link>https://osf.io/fq5yd</link>
     <guid isPermaLink="false">https://osf.io/fq5yd#ja</guid>
     <pubDate>Sat, 17 Jan 2026 16:18:39 +0000</pubDate>
     <description>BackTranslationLLM: An Agentic AI Architecture for Translating and Validating the Content of Psychometric Instruments</description>
   </item>
   <item>
-    <title>物流における努力-報酬不均衡：自律性が十分でない場合の検討</title>
+    <title>物流における努力‐報酬の不均衡：自律性が十分でない場合の検討</title>
     <link>https://osf.io/8svmr</link>
     <guid isPermaLink="false">https://osf.io/8svmr#ja</guid>
     <pubDate>Sat, 17 Jan 2026 16:18:39 +0000</pubDate>
     <description>Desequilibrio Esfuerzo-Recompensa en Logística: Cuando la Autonomía no es Suficiente</description>
   </item>
   <item>
-    <title>PRISM：高校生の作文におけるAI利用、創造性、著作権のプロファイル分析</title>
+    <title>PRISM：高校生の文章作成におけるAI利用、創造性、著作権意識のプロファイリング</title>
     <link>https://osf.io/dx4bf</link>
     <guid isPermaLink="false">https://osf.io/dx4bf#ja</guid>
     <pubDate>Sat, 17 Jan 2026 16:18:38 +0000</pubDate>
@@ -174,7 +174,7 @@
     <description>A large-scale analysis of metonymy across languages</description>
   </item>
   <item>
-    <title>狂気の天才神話の解体：感情不安定性が専門的芸術家の創造的自己信念を主観的幸福感の低下を通じて損なう</title>
+    <title>狂気の天才神話の解体：感情不安定性が専門的芸術家の創造的自己信念を主観的幸福感の低下を通じて損なうメカニズム</title>
     <link>https://osf.io/n57zk</link>
     <guid isPermaLink="false">https://osf.io/n57zk#ja</guid>
     <pubDate>Sat, 17 Jan 2026 12:32:37 +0000</pubDate>
@@ -209,21 +209,21 @@
     <description>Comparing Attitudes toward Online and Traditional Learning across  Age Groups</description>
   </item>
   <item>
-    <title>意味的委譲：他者の助けを借りた概念理解のメカニズム</title>
+    <title>意味的委譲：他者の助けを借りて概念を理解する</title>
     <link>https://osf.io/epq2v</link>
     <guid isPermaLink="false">https://osf.io/epq2v#ja</guid>
     <pubDate>Sat, 17 Jan 2026 11:13:42 +0000</pubDate>
     <description>Semantic Delegation: Understanding Concepts with a Little Help from our Friends</description>
   </item>
   <item>
-    <title>前景および背景における傾斜および回転する妨害刺激を伴う直立知覚</title>
+    <title>前景および背景における傾斜および回転する妨害刺激を伴う直立認知の知覚</title>
     <link>https://osf.io/x2aq4</link>
     <guid isPermaLink="false">https://osf.io/x2aq4#ja</guid>
     <pubDate>Sat, 17 Jan 2026 11:13:41 +0000</pubDate>
     <description>Perception of the upright with tilted and rotating distractors  in the fore- and background</description>
   </item>
   <item>
-    <title>インターネットベースの評価による異なるリズム能力の同定</title>
+    <title>インターネットベースの評価によって明らかにされた異なるリズム能力</title>
     <link>https://osf.io/wx6ut</link>
     <guid isPermaLink="false">https://osf.io/wx6ut#ja</guid>
     <pubDate>Sat, 17 Jan 2026 11:13:41 +0000</pubDate>
@@ -237,14 +237,14 @@
     <description>Demystifying the role of goal-related processes in explaining the effects of emotion on information-seeking decisions</description>
   </item>
   <item>
-    <title>科学を説明的なものと捉えることが小学生の科学学習を予測する</title>
+    <title>科学を説明的なものと概念化することが小学生の科学学習を予測する</title>
     <link>https://osf.io/6jr4p</link>
     <guid isPermaLink="false">https://osf.io/6jr4p#ja</guid>
     <pubDate>Sat, 17 Jan 2026 11:13:40 +0000</pubDate>
     <description>Conceptualizing Science as Explanatory  Predicts Elementary-School Children&#x27;s Science Learning</description>
   </item>
   <item>
-    <title>慎重なプロンプト作成が重要：ChatGPTにおける条件依存性へのルールベースの鈍感さ</title>
+    <title>慎重なプロンプト設計がもたらす条件付けに対するChatGPTのルールベースの鈍感性</title>
     <link>https://osf.io/gbx2w</link>
     <guid isPermaLink="false">https://osf.io/gbx2w#ja</guid>
     <pubDate>Sat, 17 Jan 2026 10:42:19 +0000</pubDate>
@@ -258,7 +258,7 @@
     <description>Finding our ROLE: How and why to reframe essentialist approaches to language</description>
   </item>
   <item>
-    <title>人生の明るい側面―若年者および高齢者の日常生活における昼間の光曝露とウェルビーイング</title>
+    <title>人生の明るい側面－若年層および高齢者の日常生活における昼間の光曝露とウェルビーイング</title>
     <link>https://osf.io/rgjpu</link>
     <guid isPermaLink="false">https://osf.io/rgjpu#ja</guid>
     <pubDate>Fri, 16 Jan 2026 20:18:17 +0000</pubDate>
@@ -328,14 +328,14 @@
     <description>Post-Error Slowing is Modulated by Emotional Words</description>
   </item>
   <item>
-    <title>COVID-19パンデミック以降における女性および少女のデジタル親密者間暴力支援への関与：系統的レビューと理論的統合</title>
+    <title>COVID-19パンデミック以降における女性と少女のデジタル親密者間暴力支援への関与：系統的レビューと理論的統合</title>
     <link>https://osf.io/3rjxp</link>
     <guid isPermaLink="false">https://osf.io/3rjxp#ja</guid>
     <pubDate>Fri, 16 Jan 2026 18:26:36 +0000</pubDate>
     <description>Women and Girls’ Engagement with Digital Intimate Partner Violence Support Since the start of the COVID-19 pandemic: A Systematic Review and Theoretical Synthesis</description>
   </item>
   <item>
-    <title>健康な成人における馴染みのある音楽への感情反応の検討：系統的レビュー</title>
+    <title>健康成人における馴染みのある音楽への情動反応の検討：系統的レビュー</title>
     <link>https://osf.io/z9s85</link>
     <guid isPermaLink="false">https://osf.io/z9s85#ja</guid>
     <pubDate>Fri, 16 Jan 2026 12:36:25 +0000</pubDate>
