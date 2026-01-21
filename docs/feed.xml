@@ -6,7 +6,49 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>話題の想起が若年者および高齢者の談話の一貫性に及ぼす影響</title>
+    <title>ユーモアを用いた性差別への対抗がもたらす個人および社会的利益</title>
+    <link>https://osf.io/vf3ja</link>
+    <guid isPermaLink="false">https://osf.io/vf3ja#ja</guid>
+    <pubDate>Wed, 21 Jan 2026 22:51:08 +0000</pubDate>
+    <description>The Individual and Social Benefits of Confronting Sexism with Humor</description>
+  </item>
+  <item>
+    <title>感情研究におけるモバイルトラッキングの活用</title>
+    <link>https://osf.io/xzuc5</link>
+    <guid isPermaLink="false">https://osf.io/xzuc5#ja</guid>
+    <pubDate>Wed, 21 Jan 2026 22:51:08 +0000</pubDate>
+    <description>Mobile Tracking in Emotion Research</description>
+  </item>
+  <item>
+    <title>社会的相互作用における一般化不安と社会不安の識別可能な計算メカニズム</title>
+    <link>https://osf.io/sdfn8</link>
+    <guid isPermaLink="false">https://osf.io/sdfn8#ja</guid>
+    <pubDate>Wed, 21 Jan 2026 22:51:07 +0000</pubDate>
+    <description>Dissociable computational mechanisms of generalized and social anxiety in social interaction</description>
+  </item>
+  <item>
+    <title>イメージを用いた類推推論：変換とシミュレーションの役割</title>
+    <link>https://osf.io/3tfm4</link>
+    <guid isPermaLink="false">https://osf.io/3tfm4#ja</guid>
+    <pubDate>Wed, 21 Jan 2026 22:51:07 +0000</pubDate>
+    <description>Analogical Reasoning Via Imagery: The Role of Transformations and Simulations</description>
+  </item>
+  <item>
+    <title>知覚された精神的作業能力の予測因子：系統的レビュー</title>
+    <link>https://osf.io/vmrw7</link>
+    <guid isPermaLink="false">https://osf.io/vmrw7#ja</guid>
+    <pubDate>Wed, 21 Jan 2026 22:51:06 +0000</pubDate>
+    <description>Predictors of perceived mental work ability: a systematic review</description>
+  </item>
+  <item>
+    <title>他者に対する貨幣錯覚：消費者は他者よりも自身の貨幣錯覚の影響を過小評価している</title>
+    <link>https://osf.io/9t87v</link>
+    <guid isPermaLink="false">https://osf.io/9t87v#ja</guid>
+    <pubDate>Wed, 21 Jan 2026 22:51:04 +0000</pubDate>
+    <description>Money Illusion for Others: Consumers Are More Affected by Money Illusion than They Think Others Are</description>
+  </item>
+  <item>
+    <title>話題のリマインダーが若年者および高齢者の談話の一貫性に及ぼす影響</title>
     <link>https://osf.io/anf2k</link>
     <guid isPermaLink="false">https://osf.io/anf2k#ja</guid>
     <pubDate>Wed, 21 Jan 2026 20:54:37 +0000</pubDate>
@@ -20,28 +62,28 @@
     <description>Video Games, Prejudice, and Intercultural Competence:  A Systematic Review</description>
   </item>
   <item>
-    <title>現金給付はどのような違いをもたらすのか？マラウイおよびレソトの現金給付受給者とコミュニティからの影響とメカニズムの理解</title>
+    <title>現金給付はどのような違いをもたらすのか？マラウイおよびレソトの現金給付受給者とコミュニティにおける影響とメカニズムの理解</title>
     <link>https://osf.io/3fq7c</link>
     <guid isPermaLink="false">https://osf.io/3fq7c#ja</guid>
     <pubDate>Wed, 21 Jan 2026 20:54:37 +0000</pubDate>
     <description>What difference do cash transfers make? Understanding impacts and mechanisms from cash transfer recipients and communities in Malawi and Lesotho.</description>
   </item>
   <item>
-    <title>言葉より行動が物を言う：最終位置判断課題は言語的リハーサルではなく行動イメージを伴う</title>
+    <title>言葉より行動が雄弁に語る：最終位置判断課題は言語的リハーサルではなく行動イメージを伴う</title>
     <link>https://osf.io/4sw6h</link>
     <guid isPermaLink="false">https://osf.io/4sw6h#ja</guid>
     <pubDate>Wed, 21 Jan 2026 20:54:36 +0000</pubDate>
     <description>When actions speak louder than words: The Final Position Judgement Task involves action imagery rather than verbal rehearsal</description>
   </item>
   <item>
-    <title>若年介護者のメンタルヘルス：性別・民族・収入および仲間・学校・社会的支援による差異</title>
+    <title>若年介護者のメンタルヘルス：性別・民族・収入および仲間・学校・社会的支援による変動</title>
     <link>https://osf.io/zu2qk</link>
     <guid isPermaLink="false">https://osf.io/zu2qk#ja</guid>
     <pubDate>Wed, 21 Jan 2026 20:26:08 +0000</pubDate>
     <description>Young carers’ mental health: variation by gender, ethnicity, income and peer, school or social support</description>
   </item>
   <item>
-    <title>単一セッション対人精神療法トレーニングのためのマルチエージェントAIシミュレーター：事前・事後の概念実証研究</title>
+    <title>単一セッション対人心理療法トレーニングのためのマルチエージェントAIシミュレーター：事前・事後の概念実証研究</title>
     <link>https://osf.io/n3279</link>
     <guid isPermaLink="false">https://osf.io/n3279#ja</guid>
     <pubDate>Wed, 21 Jan 2026 20:26:07 +0000</pubDate>
@@ -55,14 +97,14 @@
     <description>Swearing as a catalyst of technological change (via language)</description>
   </item>
   <item>
-    <title>具現化された意味論と先行知識が抽象概念の学習を共同で支援する</title>
+    <title>身体化された意味論と先行知識が抽象概念の学習を共同で支援する</title>
     <link>https://osf.io/ecb6n</link>
     <guid isPermaLink="false">https://osf.io/ecb6n#ja</guid>
     <pubDate>Wed, 21 Jan 2026 20:26:07 +0000</pubDate>
     <description>Embodied Semantics and Prior Knowledge Jointly Support Learning of Abstract Concepts</description>
   </item>
   <item>
-    <title>過小評価されていると感じる16～24歳の若者のメンタルヘルスに関する経験理解：ナラティブ・インクワイアリー研究</title>
+    <title>過小評価されていると感じる16～24歳の若者のメンタルヘルスに関する体験理解：ナラティブ・インクワイアリー研究</title>
     <link>https://osf.io/h8ezv</link>
     <guid isPermaLink="false">https://osf.io/h8ezv#ja</guid>
     <pubDate>Wed, 21 Jan 2026 20:26:06 +0000</pubDate>
@@ -76,14 +118,14 @@
     <description>Exploring the phenomenology of autistic attention</description>
   </item>
   <item>
-    <title>食品廃棄物コミュニケーションにおける道徳的訴えの両義性</title>
+    <title>食品廃棄物コミュニケーションにおける道徳的訴求の両義性</title>
     <link>https://osf.io/hzy2j</link>
     <guid isPermaLink="false">https://osf.io/hzy2j#ja</guid>
     <pubDate>Wed, 21 Jan 2026 20:26:06 +0000</pubDate>
     <description>The Double-Edged Sword of Moral Appeals in Food Waste Communication</description>
   </item>
   <item>
-    <title>変動が安定性となるとき：一貫した変化が記憶の再活性化を抑制する</title>
+    <title>変動性が安定性に変わるとき：一貫した変化が記憶の再活性化を抑制する</title>
     <link>https://osf.io/vsa5e</link>
     <guid isPermaLink="false">https://osf.io/vsa5e#ja</guid>
     <pubDate>Wed, 21 Jan 2026 20:26:02 +0000</pubDate>
@@ -111,7 +153,7 @@
     <description>Meditation and Neurofeedback: A Systematic Scoping Review, Synthesis, and Future Directions</description>
   </item>
   <item>
-    <title>反射的情動調整の発達における内在化モデル</title>
+    <title>反射的情動調整の発達における内面化モデル</title>
     <link>https://osf.io/chxqn</link>
     <guid isPermaLink="false">https://osf.io/chxqn#ja</guid>
     <pubDate>Tue, 20 Jan 2026 12:41:10 +0000</pubDate>
@@ -125,7 +167,7 @@
     <description>Interpreting FMS and SSQ Cybersickness Ratings via User Tolerance in Virtual Reality</description>
   </item>
   <item>
-    <title>ケーキにはアイシングがあるものもあればチェリーがのっているものもある：英語とイタリア語の慣用句150対を対象とした言語横断的基準化研究</title>
+    <title>ケーキにはアイシングがあるものもあればチェリーがのっているものもある：英語とイタリア語の150対のイディオムに関する言語横断的規範化研究</title>
     <link>https://osf.io/bv6jw</link>
     <guid isPermaLink="false">https://osf.io/bv6jw#ja</guid>
     <pubDate>Tue, 20 Jan 2026 12:41:09 +0000</pubDate>
@@ -139,21 +181,21 @@
     <description>Ethical Considerations for Psychological Practice with Undocumented Immigrants in the United States</description>
   </item>
   <item>
-    <title>親の嘘の観察と子どもの嘘、内面化・外面化症状および冷淡・非情特性との将来的関連性</title>
+    <title>観察された親の嘘と子どもの嘘、内在化・外在化症状および冷淡・非情特性との将来的関連性</title>
     <link>https://osf.io/6z4dj</link>
     <guid isPermaLink="false">https://osf.io/6z4dj#ja</guid>
     <pubDate>Tue, 20 Jan 2026 10:23:11 +0000</pubDate>
     <description>Observed Parental Lying and Prospective Associations with Child Lying, Internalizing and Externalizing Symptoms and Callous-Unemotional Traits</description>
   </item>
   <item>
-    <title>教育心理学の未来：理想とディストピアの狭間で</title>
+    <title>教育心理学の未来：理想とディストピアの狭間にて</title>
     <link>https://osf.io/ewhky</link>
     <guid isPermaLink="false">https://osf.io/ewhky#ja</guid>
     <pubDate>Tue, 20 Jan 2026 10:23:11 +0000</pubDate>
     <description>The Future of Educational Psychology: Between Vision and Dystopia</description>
   </item>
   <item>
-    <title>オープンサイエンスが初期キャリア研究者および特別支援教育における多言語評価にもたらす利点</title>
+    <title>初期キャリア研究者および特別支援教育における多言語評価に対するオープンサイエンスの利点</title>
     <link>https://osf.io/dg9fa</link>
     <guid isPermaLink="false">https://osf.io/dg9fa#ja</guid>
     <pubDate>Tue, 20 Jan 2026 10:23:10 +0000</pubDate>
@@ -174,28 +216,28 @@
     <description>Hypnosis and Suggestion</description>
   </item>
   <item>
-    <title>アルコール使用障害の早期回復期における細胞間コミュニケーション感知による再発リスク予測の評価：縦断的観察研究</title>
+    <title>アルコール使用障害早期回復期における細胞間コミュニケーション感知を用いた再発リスク予測の評価：縦断的観察研究</title>
     <link>https://osf.io/5gtyw</link>
     <guid isPermaLink="false">https://osf.io/5gtyw#ja</guid>
     <pubDate>Mon, 19 Jan 2026 20:19:52 +0000</pubDate>
     <description>Evaluating Cellular Communication Sensing for Lapse Risk Prediction During Early Recovery from Alcohol Use Disorder: A Longitudinal Observational Study</description>
   </item>
   <item>
-    <title>誤情報・偽情報検出に対する心理的介入：高齢者を対象とした効果の体系的ナラティブレビュー</title>
+    <title>誤情報・偽情報検出に対する心理的介入：高齢者を対象とした効果の系統的・叙述的レビュー</title>
     <link>https://osf.io/k2h4f</link>
     <guid isPermaLink="false">https://osf.io/k2h4f#ja</guid>
     <pubDate>Mon, 19 Jan 2026 20:19:51 +0000</pubDate>
     <description>Psychological Interventions for Mis/Disinformation Detection: A Systematic–Narrative Review of Their Effectiveness for Older Adults</description>
   </item>
   <item>
-    <title>認知制御を要する運転引継ぎ：部分自動化と認知負荷が都市道路における運転者主導の交通危険対応に及ぼす影響</title>
+    <title>認知制御が必要な運転操作：部分的自動化と認知負荷が都市道路における運転者主導の交通危険対応に及ぼす影響</title>
     <link>https://osf.io/zr59h</link>
     <guid isPermaLink="false">https://osf.io/zr59h#ja</guid>
     <pubDate>Mon, 19 Jan 2026 16:23:45 +0000</pubDate>
     <description>When Takeovers Require Cognitive Control: Effects of Partial Automation and Cognitive Load on Driver-Initiated Responses to Traffic Hazards on Urban Roads</description>
   </item>
   <item>
-    <title>孤立からエンパワーメントへ：ピアデザインによる回復志向型境界性パーソナリティ障害オンライン支援グループの過程と初期の知見</title>
+    <title>孤立からエンパワーメントへ：ピア主導の回復志向型境界性パーソナリティ障害オンライン支援グループにおけるプロセスと初期の知見</title>
     <link>https://osf.io/5zcfr</link>
     <guid isPermaLink="false">https://osf.io/5zcfr#ja</guid>
     <pubDate>Mon, 19 Jan 2026 16:23:45 +0000</pubDate>
@@ -230,7 +272,7 @@
     <description>Conceptual Boundaries of Music:  A Behavioral Study of Cross-Cultural Sound Classification</description>
   </item>
   <item>
-    <title>t検定におけるデータ除外が統計結果の頑健性に与える影響</title>
+    <title>t検定におけるデータ除外が統計結果の頑健性に及ぼす影響</title>
     <link>https://osf.io/uyfsj</link>
     <guid isPermaLink="false">https://osf.io/uyfsj#ja</guid>
     <pubDate>Mon, 19 Jan 2026 15:48:12 +0000</pubDate>
@@ -244,21 +286,21 @@
     <description>Felt Needs of Physical Activity Professionals in Response to Climate Change: Challenges, Competencies, and Educational Strategies</description>
   </item>
   <item>
-    <title>逆境を経験する若者のレジリエンス促進：エビデンスのスコーピングレビュー</title>
+    <title>逆境を経験する若者のレジリエンス促進に関するエビデンスのスコーピングレビュー</title>
     <link>https://osf.io/p6wqs</link>
     <guid isPermaLink="false">https://osf.io/p6wqs#ja</guid>
     <pubDate>Mon, 19 Jan 2026 15:48:11 +0000</pubDate>
     <description>Promoting resilience among young people experiencing adverse life effects: A scoping review of evidence</description>
   </item>
   <item>
-    <title>煙と大規模言語モデルの鏡像：精神保健ケアにおける生成型AIの使用に反対して</title>
+    <title>煙と大規模言語モデルの鏡：メンタルヘルスケアにおける生成AIの使用に反対して</title>
     <link>https://osf.io/fpaq9</link>
     <guid isPermaLink="false">https://osf.io/fpaq9#ja</guid>
     <pubDate>Mon, 19 Jan 2026 15:48:10 +0000</pubDate>
     <description>Smoke and LLMirrors: Against the Use of Generative AI in Mental Health Care</description>
   </item>
   <item>
-    <title>「For You」ページ問題：ショートフォーム動画プラットフォームにおける露骨なコンテンツ曝露と精神健康への影響</title>
+    <title>「For You」ページ問題：短尺動画プラットフォームにおける露骨なコンテンツ曝露と精神健康への影響</title>
     <link>https://osf.io/8rbhq</link>
     <guid isPermaLink="false">https://osf.io/8rbhq#ja</guid>
     <pubDate>Mon, 19 Jan 2026 11:18:22 +0000</pubDate>
@@ -272,14 +314,14 @@
     <description>Beyond WEIRD humans and STRANGE dogs: Using big team science to improve generalizability and reproducibility in comparative psychology</description>
   </item>
   <item>
-    <title>分析の堅牢性か理論の保持か？TengとBushman（2026）によるLackoら（2024）の再解析への応答</title>
+    <title>分析的堅牢性か理論的保持か？TengとBushman（2026）によるLackoら（2024）の再分析への応答</title>
     <link>https://osf.io/c389n</link>
     <guid isPermaLink="false">https://osf.io/c389n#ja</guid>
     <pubDate>Mon, 19 Jan 2026 10:23:30 +0000</pubDate>
     <description>Analytical Robustness or Theoretical Preservation? A Response to Teng and Bushman’s (2026) Re-Analysis of Lacko et al. (2024)</description>
   </item>
   <item>
-    <title>可能性マインドセット：制約下の動機づけ理論と神経多様性を通じた解釈的検証</title>
+    <title>可能性マインドセット：制約下の動機づけ理論と神経多様性を解明する解釈的事例として</title>
     <link>https://osf.io/x7jru</link>
     <guid isPermaLink="false">https://osf.io/x7jru#ja</guid>
     <pubDate>Mon, 19 Jan 2026 10:23:30 +0000</pubDate>
@@ -293,7 +335,7 @@
     <description>Predicting progress: Intellectual humility and accuracy in forecasts of global welfare</description>
   </item>
   <item>
-    <title>よく報告される統計量からコーエンのdzを算出する方法：対応のある標本平均差のメタ分析の実践ガイド</title>
+    <title>ペアサンプル平均差のメタ分析における一般的な統計量からのコーエンのdz算出法：実践的ガイド</title>
     <link>https://osf.io/7gnj6</link>
     <guid isPermaLink="false">https://osf.io/7gnj6#ja</guid>
     <pubDate>Mon, 19 Jan 2026 10:23:29 +0000</pubDate>
@@ -307,53 +349,11 @@
     <description>The Temporal Dynamics between Intrusion Frequency and Distress following Analog Trauma: A Mini Meta-Analysis</description>
   </item>
   <item>
-    <title>地球規模の無作為抽出法：第一歩として</title>
+    <title>地球規模の無作為抽出方法の検討：第一歩</title>
     <link>https://osf.io/chqvu</link>
     <guid isPermaLink="false">https://osf.io/chqvu#ja</guid>
     <pubDate>Sun, 18 Jan 2026 20:18:16 +0000</pubDate>
     <description>How to Randomly Sample the Globe: A First Step</description>
-  </item>
-  <item>
-    <title>二元論とその関連概念を捨てる時：意識の難問の想像上の大きさについて</title>
-    <link>https://osf.io/54dup</link>
-    <guid isPermaLink="false">https://osf.io/54dup#ja</guid>
-    <pubDate>Sun, 18 Jan 2026 20:18:16 +0000</pubDate>
-    <description>Time to drop dualism and its associates: the imaginary magnitude of the hard problem of consciousness</description>
-  </item>
-  <item>
-    <title>行動変容介入の対象としての「知識」のニュアンス化：効果的な介入設計への示唆</title>
-    <link>https://osf.io/6gbpa</link>
-    <guid isPermaLink="false">https://osf.io/6gbpa#ja</guid>
-    <pubDate>Sun, 18 Jan 2026 17:14:27 +0000</pubDate>
-    <description>Nuancing “Knowledge” as a Target for Behavior Change Interventions: Implications for Effective Intervention Design</description>
-  </item>
-  <item>
-    <title>BackTranslationLLM：心理測定ツールの内容翻訳と検証のためのエージェント型AIアーキテクチャ</title>
-    <link>https://osf.io/fq5yd</link>
-    <guid isPermaLink="false">https://osf.io/fq5yd#ja</guid>
-    <pubDate>Sat, 17 Jan 2026 16:18:39 +0000</pubDate>
-    <description>BackTranslationLLM: An Agentic AI Architecture for Translating and Validating the Content of Psychometric Instruments</description>
-  </item>
-  <item>
-    <title>物流における努力‐報酬の不均衡：自律性が十分でない場合の検討</title>
-    <link>https://osf.io/8svmr</link>
-    <guid isPermaLink="false">https://osf.io/8svmr#ja</guid>
-    <pubDate>Sat, 17 Jan 2026 16:18:39 +0000</pubDate>
-    <description>Desequilibrio Esfuerzo-Recompensa en Logística: Cuando la Autonomía no es Suficiente</description>
-  </item>
-  <item>
-    <title>PRISM：高校生の作文におけるAI利用、創造性、著作権のプロファイル分析</title>
-    <link>https://osf.io/dx4bf</link>
-    <guid isPermaLink="false">https://osf.io/dx4bf#ja</guid>
-    <pubDate>Sat, 17 Jan 2026 16:18:38 +0000</pubDate>
-    <description>PRISM: Profiles of AI Use, Creativity, and Authorship in High School Writing</description>
-  </item>
-  <item>
-    <title>言語横断的メトニミーの大規模分析</title>
-    <link>https://osf.io/wezpv</link>
-    <guid isPermaLink="false">https://osf.io/wezpv#ja</guid>
-    <pubDate>Sat, 17 Jan 2026 16:18:37 +0000</pubDate>
-    <description>A large-scale analysis of metonymy across languages</description>
   </item>
 </channel>
 </rss>
