@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>マインドセットに基づく介入が高難度試験準備期の学業適応を促進する</title>
+    <title>マインドセットに基づく介入が高難度試験準備期における学業適応を促進する</title>
     <link>https://osf.io/rtne3</link>
     <guid isPermaLink="false">https://osf.io/rtne3#ja</guid>
     <pubDate>Fri, 23 Jan 2026 08:25:07 +0000</pubDate>
@@ -20,7 +20,7 @@
     <description>Deconstructing “Negative Emotions”:  A Paradigm Shift in Understanding Sadness</description>
   </item>
   <item>
-    <title>包摂性の追求：シスジェンダーおよびトランスジェンダーのアルコール使用障害治療における障壁を測定するジェンダー感受性ツールの検証</title>
+    <title>包摂性に向けて：シスジェンダーおよびトランスジェンダーのアルコール使用障害治療における障壁を測定するジェンダー感受性ツールの検証</title>
     <link>https://osf.io/bj485</link>
     <guid isPermaLink="false">https://osf.io/bj485#ja</guid>
     <pubDate>Fri, 23 Jan 2026 08:25:06 +0000</pubDate>
@@ -48,21 +48,21 @@
     <description>Who Benefits Most? A Randomized Controlled Trial for Parent-Implemented Social Communication Intervention for Chinese-Speaking Autistic Preschoolers</description>
   </item>
   <item>
-    <title>かつての先延ばし癖は永続するのか？若年成人期における先延ばし行動の安定性・変化および長期的関連要因の検討</title>
+    <title>かつての先延ばし傾向者は永遠の先延ばし傾向者か？若年成人期における先延ばしの安定性、変化および長期的関連要因の検討</title>
     <link>https://osf.io/543wf</link>
     <guid isPermaLink="false">https://osf.io/543wf#ja</guid>
     <pubDate>Fri, 23 Jan 2026 07:31:15 +0000</pubDate>
     <description>Once a Procrastinator, Always a Procrastinator?  Examining Stability, Change and Long-Term Correlates of Procrastination During Young Adulthood</description>
   </item>
   <item>
-    <title>パーソナライズドデジタル育児介入の短期的効果：ランダム化比較試験による親子関係および思春期のウェルビーイングへの影響</title>
+    <title>個別化デジタル育児介入の親子関係および思春期青少年の福祉に対する短期効果：ランダム化比較試験</title>
     <link>https://osf.io/62v8j</link>
     <guid isPermaLink="false">https://osf.io/62v8j#ja</guid>
     <pubDate>Fri, 23 Jan 2026 07:31:14 +0000</pubDate>
     <description>Short-Term Effects on Parenting and Adolescent Well-Being of a Personalized Digital Parenting Intervention. A Randomized Controlled Trial</description>
   </item>
   <item>
-    <title>「効果よりも安全性を重視する傾向：イングランドのプライマリケアにおける抗うつ薬処方と意思決定の質的研究」</title>
+    <title>「効果よりも安全性を重視する傾向：イングランドのプライマリケアにおける抗うつ薬処方と意思決定に関する質的研究」</title>
     <link>https://osf.io/6th75</link>
     <guid isPermaLink="false">https://osf.io/6th75#ja</guid>
     <pubDate>Fri, 23 Jan 2026 07:31:14 +0000</pubDate>
@@ -83,28 +83,28 @@
     <description>Explicit measures of sense of control are psychometrically robust: A systematic comparison of response scales</description>
   </item>
   <item>
-    <title>乳児の経験が果たす役割：乳児が発する言語の聴取に関する研究</title>
+    <title>乳児の経験が果たす役割：乳児が発する音声の聴取に関する研究</title>
     <link>https://osf.io/5hqse</link>
     <guid isPermaLink="false">https://osf.io/5hqse#ja</guid>
     <pubDate>Thu, 22 Jan 2026 23:17:27 +0000</pubDate>
     <description>Listening to child-produced speech: The role of infant experience</description>
   </item>
   <item>
-    <title>「自分に合った方法で望む人生を歩むために必要な支援とは―自閉症の若者が語る生活の質における重要な要素」</title>
+    <title>「自分に合った方法で望む人生を歩むために必要な支援とは―自閉症の若者が考える生活の質に重要な要素」</title>
     <link>https://osf.io/emgv4</link>
     <guid isPermaLink="false">https://osf.io/emgv4#ja</guid>
     <pubDate>Thu, 22 Jan 2026 23:17:26 +0000</pubDate>
     <description>“Support me to take the steps I need, to live the life I want, in ways that work for me”- Perspectives of Autistic young people on what is important for their quality of life.</description>
   </item>
   <item>
-    <title>スピタルらによる自殺リスク機械学習アルゴリズムのメタ分析における方法論的課題</title>
+    <title>スピタルらによる自殺リスク予測の機械学習アルゴリズムに関するメタ分析の方法論的課題</title>
     <link>https://osf.io/5jhfy</link>
     <guid isPermaLink="false">https://osf.io/5jhfy#ja</guid>
     <pubDate>Thu, 22 Jan 2026 23:17:26 +0000</pubDate>
     <description>Methodological Concerns in Spittal et al.’s Meta-Analysis of Machine Learning Algorithms for Suicide Risk</description>
   </item>
   <item>
-    <title>大規模言語モデルと意味：大規模言語モデルにおける現在の意味的課題が自然言語に示すもの</title>
+    <title>大規模言語モデルと意味：大規模言語モデルにおける現在の意味論的課題が自然言語に示す示唆</title>
     <link>https://osf.io/twnfp</link>
     <guid isPermaLink="false">https://osf.io/twnfp#ja</guid>
     <pubDate>Thu, 22 Jan 2026 23:17:26 +0000</pubDate>
@@ -146,14 +146,14 @@
     <description>When Despotic Leaders Prompt Cooperation: The Strategic Use of Communion Striving Amid Job Insecurity</description>
   </item>
   <item>
-    <title>ソーシャルメディアは若年層に対し、集団レベルでの変化を引き起こすほどの大規模な有害影響を及ぼしている</title>
+    <title>若年層に対するソーシャルメディアの影響：集団レベルでの変化を引き起こす規模の被害</title>
     <link>https://osf.io/w5qsm</link>
     <guid isPermaLink="false">https://osf.io/w5qsm#ja</guid>
     <pubDate>Thu, 22 Jan 2026 21:18:42 +0000</pubDate>
     <description>Social Media Is Harming Young People  at a Scale Large Enough to Cause Changes at the Population Level</description>
   </item>
   <item>
-    <title>大量データは全国代表サンプルと比較して一部のAI態度を誤推定する可能性がある</title>
+    <title>豊富なデータは全国代表サンプルと比較して一部のAI態度を誤推定する可能性がある</title>
     <link>https://osf.io/96y4j</link>
     <guid isPermaLink="false">https://osf.io/96y4j#ja</guid>
     <pubDate>Thu, 22 Jan 2026 21:18:41 +0000</pubDate>
@@ -167,28 +167,28 @@
     <description>Testing the Evolutionary and Social Roles of Gaming Through Experimental Design and Mathematical Model</description>
   </item>
   <item>
-    <title>ジェンダーマイノリティストレス理論の再検討：ネットワーク心理計測学の視点から</title>
+    <title>ジェンダー少数者ストレス理論の再検討：ネットワーク心理計量学の視点から</title>
     <link>https://osf.io/9j8b5</link>
     <guid isPermaLink="false">https://osf.io/9j8b5#ja</guid>
     <pubDate>Thu, 22 Jan 2026 21:18:41 +0000</pubDate>
     <description>Revising Gender Minority Stress Theory: A Network Psychometrics Perspective</description>
   </item>
   <item>
-    <title>人間と大規模言語モデルによる第二言語英語のアクセント評価</title>
+    <title>人間および大規模言語モデル（LLMs）による第二言語英語のアクセント評価</title>
     <link>https://osf.io/uyqxh</link>
     <guid isPermaLink="false">https://osf.io/uyqxh#ja</guid>
     <pubDate>Thu, 22 Jan 2026 21:18:40 +0000</pubDate>
     <description>Avaliação de Sotaque em Inglês L2 por Humanos e Modelos de Linguagem de Grande Escala (LLMs)</description>
   </item>
   <item>
-    <title>急性脳卒中患者における構音失行症：フランス語におけるペアワイズ変動指数の検討と有病率の推定</title>
+    <title>急性脳卒中患者における構音失行症：フランス語における対変動指数の検討と有病率の推定</title>
     <link>https://osf.io/fk72a</link>
     <guid isPermaLink="false">https://osf.io/fk72a#ja</guid>
     <pubDate>Thu, 22 Jan 2026 21:18:39 +0000</pubDate>
     <description>Apraxia of Speech in Acute Post-Stroke Patients: Exploring the Pairwise Variability Index in French and Estimating Prevalence</description>
   </item>
   <item>
-    <title>ユーモアを用いた性差別への対抗がもたらす個人および社会的利益</title>
+    <title>ユーモアを用いた性差別への対峙がもたらす個人および社会的利益</title>
     <link>https://osf.io/vf3ja</link>
     <guid isPermaLink="false">https://osf.io/vf3ja#ja</guid>
     <pubDate>Wed, 21 Jan 2026 22:51:08 +0000</pubDate>
@@ -202,7 +202,7 @@
     <description>Mobile Tracking in Emotion Research</description>
   </item>
   <item>
-    <title>社会的相互作用における一般化不安と社会不安の識別可能な計算メカニズム</title>
+    <title>社会的相互作用における全般性不安と社会不安の識別可能な計算メカニズム</title>
     <link>https://osf.io/sdfn8</link>
     <guid isPermaLink="false">https://osf.io/sdfn8#ja</guid>
     <pubDate>Wed, 21 Jan 2026 22:51:07 +0000</pubDate>
@@ -223,7 +223,7 @@
     <description>Predictors of perceived mental work ability: a systematic review</description>
   </item>
   <item>
-    <title>他者に対する貨幣錯覚：消費者は他者よりも自身が貨幣錯覚の影響を強く受けていると認識している</title>
+    <title>他者に対する貨幣錯覚：消費者は他者よりも自分の貨幣錯覚の影響を過小評価している</title>
     <link>https://osf.io/9t87v</link>
     <guid isPermaLink="false">https://osf.io/9t87v#ja</guid>
     <pubDate>Wed, 21 Jan 2026 22:51:04 +0000</pubDate>
@@ -244,28 +244,28 @@
     <description>Video Games, Prejudice, and Intercultural Competence:  A Systematic Review</description>
   </item>
   <item>
-    <title>現金給付はどのような違いをもたらすのか？マラウイおよびレソトの現金給付受給者と地域社会における影響とメカニズムの理解</title>
+    <title>現金給付はどのような違いをもたらすのか？マラウイおよびレソトの現金給付受給者と地域社会からみる影響とメカニズムの理解</title>
     <link>https://osf.io/3fq7c</link>
     <guid isPermaLink="false">https://osf.io/3fq7c#ja</guid>
     <pubDate>Wed, 21 Jan 2026 20:54:37 +0000</pubDate>
     <description>What difference do cash transfers make? Understanding impacts and mechanisms from cash transfer recipients and communities in Malawi and Lesotho.</description>
   </item>
   <item>
-    <title>言葉より行動が物を言う：最終位置判断課題は言語的リハーサルではなく行動イメージを伴う</title>
+    <title>言葉より行動が雄弁に語る：最終位置判断課題は言語的リハーサルではなく行動イメージを伴う</title>
     <link>https://osf.io/4sw6h</link>
     <guid isPermaLink="false">https://osf.io/4sw6h#ja</guid>
     <pubDate>Wed, 21 Jan 2026 20:54:36 +0000</pubDate>
     <description>When actions speak louder than words: The Final Position Judgement Task involves action imagery rather than verbal rehearsal</description>
   </item>
   <item>
-    <title>若年介護者のメンタルヘルス：性別、民族、収入および仲間・学校・社会的支援による変動</title>
+    <title>若年介護者のメンタルヘルス：性別・民族・収入および仲間・学校・社会的支援による差異</title>
     <link>https://osf.io/zu2qk</link>
     <guid isPermaLink="false">https://osf.io/zu2qk#ja</guid>
     <pubDate>Wed, 21 Jan 2026 20:26:08 +0000</pubDate>
     <description>Young carers’ mental health: variation by gender, ethnicity, income and peer, school or social support</description>
   </item>
   <item>
-    <title>単回セッション対人心理療法トレーニングのためのマルチエージェントAIシミュレーター：事前・事後の概念実証研究</title>
+    <title>単回セッション対人精神療法トレーニングのためのマルチエージェントAIシミュレーター：事前・事後の概念実証研究</title>
     <link>https://osf.io/n3279</link>
     <guid isPermaLink="false">https://osf.io/n3279#ja</guid>
     <pubDate>Wed, 21 Jan 2026 20:26:07 +0000</pubDate>
@@ -279,7 +279,7 @@
     <description>Swearing as a catalyst of technological change (via language)</description>
   </item>
   <item>
-    <title>身体化された意味論と先行知識が抽象概念の学習を共同で支援する</title>
+    <title>具現化された意味論と先行知識が抽象概念の学習を共同で支援する</title>
     <link>https://osf.io/ecb6n</link>
     <guid isPermaLink="false">https://osf.io/ecb6n#ja</guid>
     <pubDate>Wed, 21 Jan 2026 20:26:07 +0000</pubDate>
@@ -307,7 +307,7 @@
     <description>The Double-Edged Sword of Moral Appeals in Food Waste Communication</description>
   </item>
   <item>
-    <title>変動性が安定性に変わるとき：一貫した変化が記憶の再活性化を抑制する</title>
+    <title>変動が安定性に変わるとき：一貫した変化が記憶の再活性化を抑制する</title>
     <link>https://osf.io/vsa5e</link>
     <guid isPermaLink="false">https://osf.io/vsa5e#ja</guid>
     <pubDate>Wed, 21 Jan 2026 20:26:02 +0000</pubDate>
@@ -335,21 +335,21 @@
     <description>Meditation and Neurofeedback: A Systematic Scoping Review, Synthesis, and Future Directions</description>
   </item>
   <item>
-    <title>反射的情動調整の発達における内面化モデル</title>
+    <title>反射的感情調整の発達における内面化モデル</title>
     <link>https://osf.io/chxqn</link>
     <guid isPermaLink="false">https://osf.io/chxqn#ja</guid>
     <pubDate>Tue, 20 Jan 2026 12:41:10 +0000</pubDate>
     <description>The internalization model of the development of reflective emotion regulation</description>
   </item>
   <item>
-    <title>仮想現実におけるユーザー耐性を通じたFMSおよびSSQサイバーシックネス評価の解釈</title>
+    <title>ユーザー耐性に基づくFMSおよびSSQサイバーシックネス評価の仮想現実における解釈</title>
     <link>https://osf.io/p3xy4</link>
     <guid isPermaLink="false">https://osf.io/p3xy4#ja</guid>
     <pubDate>Tue, 20 Jan 2026 12:41:10 +0000</pubDate>
     <description>Interpreting FMS and SSQ Cybersickness Ratings via User Tolerance in Virtual Reality</description>
   </item>
   <item>
-    <title>アイシングのあるケーキとチェリーのあるケーキ：違いはあるか？英語とイタリア語の慣用句150対に関する横断言語的規範化研究</title>
+    <title>ケーキにはアイシングがあるものもあればチェリーがのっているものもある：違いはあるのか？英語とイタリア語の慣用句150対の言語横断的規範化研究</title>
     <link>https://osf.io/bv6jw</link>
     <guid isPermaLink="false">https://osf.io/bv6jw#ja</guid>
     <pubDate>Tue, 20 Jan 2026 12:41:09 +0000</pubDate>
