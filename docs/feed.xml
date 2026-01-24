@@ -6,21 +6,112 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>バイアスのある測定から心理構成概念を予測する：機械学習における非不変的ターゲットの影響</title>
+    <title>All of Usコホートにおける精神障害リスクに対する家族歴と社会的支援の相互作用</title>
+    <link>https://osf.io/4kqht</link>
+    <guid isPermaLink="false">https://osf.io/4kqht#ja</guid>
+    <pubDate>Sat, 24 Jan 2026 16:19:49 +0000</pubDate>
+    <description>The interplay between family history and social support in the risk for psychiatric disorders in the All of Us Cohort</description>
+  </item>
+  <item>
+    <title>非臨床女性サンプルにおける身体不満と低体重体型への注意バイアスの関連性の欠如：視線追跡研究</title>
+    <link>https://osf.io/znts6</link>
+    <guid isPermaLink="false">https://osf.io/znts6#ja</guid>
+    <pubDate>Sat, 24 Jan 2026 16:19:49 +0000</pubDate>
+    <description>No association between body dissatisfaction and attentional bias towards lower-weight bodies in non-clinical sample of women: an eye-tracking study.</description>
+  </item>
+  <item>
+    <title>生涯にわたる心的算術中の脳活動における発達的前頭頭頂葉シフトの不在：登録報告</title>
+    <link>https://osf.io/ka25s</link>
+    <guid isPermaLink="false">https://osf.io/ka25s#ja</guid>
+    <pubDate>Sat, 24 Jan 2026 16:19:49 +0000</pubDate>
+    <description>No developmental fronto-parietal shift in brain activation during mental arithmetic across the lifespan: A Registered Report</description>
+  </item>
+  <item>
+    <title>アイオワギャンブル課題における方法論的柔軟性が解釈可能性を損なう：メタメソッドレビュー</title>
+    <link>https://osf.io/4g3vr</link>
+    <guid isPermaLink="false">https://osf.io/4g3vr#ja</guid>
+    <pubDate>Sat, 24 Jan 2026 16:19:48 +0000</pubDate>
+    <description>Methodological Flexibility in the Iowa Gambling Task Undermines Interpretability: A Meta-method Review</description>
+  </item>
+  <item>
+    <title>意識の統一的枠組みとしての状態空間理論</title>
+    <link>https://osf.io/rpw4v</link>
+    <guid isPermaLink="false">https://osf.io/rpw4v#ja</guid>
+    <pubDate>Sat, 24 Jan 2026 16:19:48 +0000</pubDate>
+    <description>State Space Theory as a Unifying Framework for Consciousness</description>
+  </item>
+  <item>
+    <title>一貫性：心理学研究における因果推論の重要かつしばしば見落とされる要件</title>
+    <link>https://osf.io/3g9za</link>
+    <guid isPermaLink="false">https://osf.io/3g9za#ja</guid>
+    <pubDate>Sat, 24 Jan 2026 16:19:48 +0000</pubDate>
+    <description>Consistency: A Critical but Often Overlooked Requirement for Causal Inference in Psychological Research</description>
+  </item>
+  <item>
+    <title>音楽家における音楽への情熱の生涯発達的視点</title>
+    <link>https://osf.io/kgj7z</link>
+    <guid isPermaLink="false">https://osf.io/kgj7z#ja</guid>
+    <pubDate>Sat, 24 Jan 2026 16:19:47 +0000</pubDate>
+    <description>A Lifespan Perspective on Passion for Music in Musicians</description>
+  </item>
+  <item>
+    <title>思春期早期におけるアロスタティック・ロードの特徴づけ：測定方法と精神健康およびリスク・保護因子との関連性</title>
+    <link>https://osf.io/psrbw</link>
+    <guid isPermaLink="false">https://osf.io/psrbw#ja</guid>
+    <pubDate>Sat, 24 Jan 2026 16:19:47 +0000</pubDate>
+    <description>Characterizing Allostatic Load during Early Adolescence: Measurement Strategies and Associations with Mental Health and Risk and Protective Factors</description>
+  </item>
+  <item>
+    <title>視聴覚的一致性が存在感の有無に対する自信を促進する</title>
+    <link>https://osf.io/sqpmk</link>
+    <guid isPermaLink="false">https://osf.io/sqpmk#ja</guid>
+    <pubDate>Sat, 24 Jan 2026 16:19:47 +0000</pubDate>
+    <description>Audiovisual congruency drives confidence in presence and absence</description>
+  </item>
+  <item>
+    <title>すべてのBANG、小さなバックス：ニーズ関連経験とビデオゲーム領域における行動の弱い関連性</title>
+    <link>https://osf.io/wqr6u</link>
+    <guid isPermaLink="false">https://osf.io/wqr6u#ja</guid>
+    <pubDate>Sat, 24 Jan 2026 16:19:46 +0000</pubDate>
+    <description>All BANG, little buck: Need-related experiences are weakly linked with behavior in the video game domain</description>
+  </item>
+  <item>
+    <title>小児安静時脳波記録の収集、前処理および解析に関する系統的レビュー</title>
+    <link>https://osf.io/37psk</link>
+    <guid isPermaLink="false">https://osf.io/37psk#ja</guid>
+    <pubDate>Sat, 24 Jan 2026 16:19:46 +0000</pubDate>
+    <description>Pediatric resting EEG collection, preprocessing, and analysis: A systematic review</description>
+  </item>
+  <item>
+    <title>5～17歳の子ども・青少年を対象とした大規模母集団サンプルにおけるRCADS-25の心理測定特性</title>
+    <link>https://osf.io/58kd7</link>
+    <guid isPermaLink="false">https://osf.io/58kd7#ja</guid>
+    <pubDate>Sat, 24 Jan 2026 16:19:45 +0000</pubDate>
+    <description>Psychometric Properties of the RCADS-25 in a Large Population-Based Sample of Children and Youth Aged 5-17</description>
+  </item>
+  <item>
+    <title>潜在モデルを超えて：トリニダード・トバゴにおけるADHD態度のネットワーク分析</title>
+    <link>https://osf.io/ju9we</link>
+    <guid isPermaLink="false">https://osf.io/ju9we#ja</guid>
+    <pubDate>Sat, 24 Jan 2026 16:19:45 +0000</pubDate>
+    <description>Beyond Latent Models: Network Insights into ADHD Attitudes in Trinidad and Tobago</description>
+  </item>
+  <item>
+    <title>バイアスのかかった測定から心理構成概念を予測する：機械学習における非不変的ターゲットの影響</title>
     <link>https://osf.io/47fu3</link>
     <guid isPermaLink="false">https://osf.io/47fu3#ja</guid>
     <pubDate>Sat, 24 Jan 2026 15:40:00 +0000</pubDate>
     <description>Predicting psychological constructs from biased measurements: The impact of non-invariant targets in machine learning</description>
   </item>
   <item>
-    <title>Yari-RenaniおよびZari（2025）「うつ病治療の進展：多施設ランダム化比較試験における動的対人療法と認知行動療法および薬物療法の症状、睡眠、認知への効果に関する信頼性の問題」</title>
+    <title>Yari-RenaniおよびZari（2025）「うつ病治療の進展：多施設無作為化比較試験による動的対人療法と認知行動療法および薬物療法の症状、睡眠、認知への効果に関する信頼性の問題」</title>
     <link>https://osf.io/tr42m</link>
     <guid isPermaLink="false">https://osf.io/tr42m#ja</guid>
     <pubDate>Sat, 24 Jan 2026 15:40:00 +0000</pubDate>
     <description>Trustworthiness issues in Yari-Renani and Zari (2025) “Advancing depression treatment: a multi-center randomized controlled trial of dynamic interpersonal therapy versus CBT and pharmacotherapy on symptoms, sleep, and cognition”</description>
   </item>
   <item>
-    <title>不平等の逆説再考：なぜ経済的不平等の形態によって再分配支持が異なるのか</title>
+    <title>不平等パラドックスの再検討：なぜ経済的不平等の形態によって再分配支持が異なるのか</title>
     <link>https://osf.io/uemvp</link>
     <guid isPermaLink="false">https://osf.io/uemvp#ja</guid>
     <pubDate>Sat, 24 Jan 2026 15:39:59 +0000</pubDate>
@@ -41,7 +132,7 @@
     <description>Tiny brains, Major insights; A go, no go inhibitory task with minions predicts risk status in toddlers with and without a familial history of ADHD</description>
   </item>
   <item>
-    <title>信頼度と反応時間の線形弾道累積モデル</title>
+    <title>信頼度と反応時間の線形弾道蓄積モデル</title>
     <link>https://osf.io/jsqx5</link>
     <guid isPermaLink="false">https://osf.io/jsqx5#ja</guid>
     <pubDate>Sat, 24 Jan 2026 15:39:58 +0000</pubDate>
@@ -55,7 +146,7 @@
     <description>Dynamical System Modeling in Schizophrenia:  A Narrative Review of Computational Psychiatry Frameworks</description>
   </item>
   <item>
-    <title>メタンフェタミン誘発精神病に対する精神科的ハームリダクションとしての自己投与オランザピン「チルパック」：既存のエビデンスのナラティブレビュー</title>
+    <title>メタンフェタミン誘発精神病に対する精神科的ハームリダクションとしての自己投与型オランザピン「チルパック」：既存のエビデンスのナラティブレビュー</title>
     <link>https://osf.io/2thbj</link>
     <guid isPermaLink="false">https://osf.io/2thbj#ja</guid>
     <pubDate>Sat, 24 Jan 2026 15:16:12 +0000</pubDate>
@@ -83,7 +174,7 @@
     <description>Where You Look Is What You Get: Individual Fixation Height Predicts Biases in Face Perception</description>
   </item>
   <item>
-    <title>リマッピング、空間トポグラフィー、および視覚的安定性に基づく操作可能な自己符号化器</title>
+    <title>リマッピング、空間位相性、および視覚的安定性に基づく操作可能自己符号化器</title>
     <link>https://osf.io/5cku8</link>
     <guid isPermaLink="false">https://osf.io/5cku8#ja</guid>
     <pubDate>Fri, 23 Jan 2026 18:27:35 +0000</pubDate>
@@ -111,21 +202,21 @@
     <description>Semantic understanding underlies enhanced working memory for real-world objects</description>
   </item>
   <item>
-    <title>結合的に定義された標的の視覚探索における条件付き捕捉</title>
+    <title>結合的に定義された目標における視覚探索における条件付けられた捕捉</title>
     <link>https://osf.io/qt9az</link>
     <guid isPermaLink="false">https://osf.io/qt9az#ja</guid>
     <pubDate>Fri, 23 Jan 2026 16:55:36 +0000</pubDate>
     <description>Contingent Capture in Visual Search for Conjunctively Defined Targets</description>
   </item>
   <item>
-    <title>タッピング力の変動がリズムに合わせた指タッピングの時間的精度に及ぼす影響</title>
+    <title>タッピング力の変動がリズムに合わせた指タッピングの時間的精度に与える影響</title>
     <link>https://osf.io/cba28</link>
     <guid isPermaLink="false">https://osf.io/cba28#ja</guid>
     <pubDate>Fri, 23 Jan 2026 16:24:53 +0000</pubDate>
     <description>Tapping force variability influences temporal precision in paced finger tapping</description>
   </item>
   <item>
-    <title>生成過程の可視化が創造性評価に与える影響：テキストから画像生成AIにおける過程証拠と個人差の役割</title>
+    <title>制作過程の可視化：プロセス証拠と個人差がテキストから画像生成AIの創造性評価に与える影響</title>
     <link>https://osf.io/s4b8f</link>
     <guid isPermaLink="false">https://osf.io/s4b8f#ja</guid>
     <pubDate>Fri, 23 Jan 2026 14:51:05 +0000</pubDate>
@@ -146,7 +237,7 @@
     <description>When the Clock Lies: Intention Reports Can Be Biased by Authoritative Suggestion</description>
   </item>
   <item>
-    <title>群衆が失敗する時：言説手がかりによる集合知の失敗予測</title>
+    <title>群衆が失敗する時：言説手がかりによる集合的知恵の失敗予測</title>
     <link>https://osf.io/ybnpe</link>
     <guid isPermaLink="false">https://osf.io/ybnpe#ja</guid>
     <pubDate>Fri, 23 Jan 2026 14:51:01 +0000</pubDate>
@@ -167,14 +258,14 @@
     <description>The Nature and Consequences of Mind-Wandering to Secrets</description>
   </item>
   <item>
-    <title>自己報告とデジタルトレースデータの比較による情報探索行動に関するコミュニケーション研究と理論の深化</title>
+    <title>自己報告とデジタルトレースデータの比較による情報探索行動に関するコミュニケーション研究と理論の進展</title>
     <link>https://osf.io/5ywb4</link>
     <guid isPermaLink="false">https://osf.io/5ywb4#ja</guid>
     <pubDate>Fri, 23 Jan 2026 14:21:20 +0000</pubDate>
     <description>Advancing Communication Research and Theory on Information Seeking Behavior by Comparing Self-Reports and Digital Trace Data</description>
   </item>
   <item>
-    <title>アメリカにおけるラテン系およびアフリカ系新規移民集団の心理的苦痛の横断診断的評価に関する混合法的アプローチ</title>
+    <title>アメリカにおけるラテン系およびアフリカ系新規移民集団の心理的苦痛の横断診断的評価に関する混合法的研究</title>
     <link>https://osf.io/k3sde</link>
     <guid isPermaLink="false">https://osf.io/k3sde#ja</guid>
     <pubDate>Fri, 23 Jan 2026 14:21:19 +0000</pubDate>
@@ -188,21 +279,21 @@
     <description>Characterizing the hierarchical structure of eating disorders and related mental disorders in youths across multiple timepoints</description>
   </item>
   <item>
-    <title>マインドセットに基づく介入が高難度試験準備期の学業適応を促進する</title>
+    <title>マインドセットに基づく介入が高リスク試験準備期の学業適応を促進する</title>
     <link>https://osf.io/rtne3</link>
     <guid isPermaLink="false">https://osf.io/rtne3#ja</guid>
     <pubDate>Fri, 23 Jan 2026 08:25:07 +0000</pubDate>
     <description>A mindset-based intervention promotes academic adjustment during high-stakes examination preparation</description>
   </item>
   <item>
-    <title>「『ネガティブ感情』の解体：悲しみ理解におけるパラダイムシフト」</title>
+    <title>「ネガティブ感情」の解体：悲しみ理解におけるパラダイムシフト</title>
     <link>https://osf.io/d9wxm</link>
     <guid isPermaLink="false">https://osf.io/d9wxm#ja</guid>
     <pubDate>Fri, 23 Jan 2026 08:25:06 +0000</pubDate>
     <description>Deconstructing “Negative Emotions”:  A Paradigm Shift in Understanding Sadness</description>
   </item>
   <item>
-    <title>包摂性に向けて：シスジェンダーおよびトランスジェンダーのアルコール使用障害治療における障壁を測定するジェンダー感受性ツールの検証</title>
+    <title>包摂性に向けて：シスジェンダーおよびトランスジェンダーのアルコール使用障害治療への障壁を測定するジェンダー感受性ツールの検証</title>
     <link>https://osf.io/bj485</link>
     <guid isPermaLink="false">https://osf.io/bj485#ja</guid>
     <pubDate>Fri, 23 Jan 2026 08:25:06 +0000</pubDate>
@@ -223,28 +314,28 @@
     <description>Concise Comprehensive Assessment of Psychiatric Disorder Risks Using Machine Learning</description>
   </item>
   <item>
-    <title>誰が最も恩恵を受けるか？中国語圏自閉症幼児を対象とした親実施型社会的コミュニケーション介入のランダム化比較試験</title>
+    <title>誰が最も恩恵を受けるか？中国語を話す自閉症幼児を対象とした親実施型社会的コミュニケーション介入のランダム化比較試験</title>
     <link>https://osf.io/6t4bp</link>
     <guid isPermaLink="false">https://osf.io/6t4bp#ja</guid>
     <pubDate>Fri, 23 Jan 2026 07:31:15 +0000</pubDate>
     <description>Who Benefits Most? A Randomized Controlled Trial for Parent-Implemented Social Communication Intervention for Chinese-Speaking Autistic Preschoolers</description>
   </item>
   <item>
-    <title>かつての先延ばし傾向者は永遠の先延ばし傾向者か？若年成人期における先延ばし行動の安定性・変化および長期的関連要因の検討</title>
+    <title>かつての先延ばし傾向者は永遠の先延ばし傾向者か？若年成人期における先延ばし行動の安定性、変化および長期的関連要因の検討</title>
     <link>https://osf.io/543wf</link>
     <guid isPermaLink="false">https://osf.io/543wf#ja</guid>
     <pubDate>Fri, 23 Jan 2026 07:31:15 +0000</pubDate>
     <description>Once a Procrastinator, Always a Procrastinator?  Examining Stability, Change and Long-Term Correlates of Procrastination During Young Adulthood</description>
   </item>
   <item>
-    <title>パーソナライズドデジタル育児介入の短期的効果：ランダム化比較試験による育児および思春期のウェルビーイングへの影響</title>
+    <title>パーソナライズドデジタル育児介入の短期的効果：ランダム化比較試験による育児行動と思春期のウェルビーイングへの影響</title>
     <link>https://osf.io/62v8j</link>
     <guid isPermaLink="false">https://osf.io/62v8j#ja</guid>
     <pubDate>Fri, 23 Jan 2026 07:31:14 +0000</pubDate>
     <description>Short-Term Effects on Parenting and Adolescent Well-Being of a Personalized Digital Parenting Intervention. A Randomized Controlled Trial</description>
   </item>
   <item>
-    <title>「効果よりも安全性を重視する傾向：イングランドにおけるプライマリケアでの抗うつ薬処方と意思決定に関する質的研究」</title>
+    <title>「効果よりも安全性を重視する傾向：イングランドのプライマリケアにおける抗うつ薬処方と意思決定の質的研究」</title>
     <link>https://osf.io/6th75</link>
     <guid isPermaLink="false">https://osf.io/6th75#ja</guid>
     <pubDate>Fri, 23 Jan 2026 07:31:14 +0000</pubDate>
@@ -256,97 +347,6 @@
     <guid isPermaLink="false">https://osf.io/qxgme#ja</guid>
     <pubDate>Fri, 23 Jan 2026 06:59:06 +0000</pubDate>
     <description>Genome-wide association study of infant fussiness and crying in European and multi-ancestry cohorts</description>
-  </item>
-  <item>
-    <title>統制感の明示的測定は心理測定的に堅牢である：回答尺度の体系的比較</title>
-    <link>https://osf.io/kv9z3</link>
-    <guid isPermaLink="false">https://osf.io/kv9z3#ja</guid>
-    <pubDate>Thu, 22 Jan 2026 23:17:27 +0000</pubDate>
-    <description>Explicit measures of sense of control are psychometrically robust: A systematic comparison of response scales</description>
-  </item>
-  <item>
-    <title>乳児の経験が果たす役割：乳児が発する言語の聴取に関する研究</title>
-    <link>https://osf.io/5hqse</link>
-    <guid isPermaLink="false">https://osf.io/5hqse#ja</guid>
-    <pubDate>Thu, 22 Jan 2026 23:17:27 +0000</pubDate>
-    <description>Listening to child-produced speech: The role of infant experience</description>
-  </item>
-  <item>
-    <title>「自分に合った方法で望む人生を歩むために必要な支援とは―自閉症の若者が考える生活の質に重要な要素」</title>
-    <link>https://osf.io/emgv4</link>
-    <guid isPermaLink="false">https://osf.io/emgv4#ja</guid>
-    <pubDate>Thu, 22 Jan 2026 23:17:26 +0000</pubDate>
-    <description>“Support me to take the steps I need, to live the life I want, in ways that work for me”- Perspectives of Autistic young people on what is important for their quality of life.</description>
-  </item>
-  <item>
-    <title>スピタルらによる自殺リスク予測の機械学習アルゴリズムメタアナリシスにおける方法論的課題</title>
-    <link>https://osf.io/5jhfy</link>
-    <guid isPermaLink="false">https://osf.io/5jhfy#ja</guid>
-    <pubDate>Thu, 22 Jan 2026 23:17:26 +0000</pubDate>
-    <description>Methodological Concerns in Spittal et al.’s Meta-Analysis of Machine Learning Algorithms for Suicide Risk</description>
-  </item>
-  <item>
-    <title>大規模言語モデルと意味：大規模言語モデルにおける現在の意味的課題が示す自然言語の本質</title>
-    <link>https://osf.io/twnfp</link>
-    <guid isPermaLink="false">https://osf.io/twnfp#ja</guid>
-    <pubDate>Thu, 22 Jan 2026 23:17:26 +0000</pubDate>
-    <description>LLMs and Meaning: what the current semantic challenges in LLMs highlight about Natural Language</description>
-  </item>
-  <item>
-    <title>仮想現実を用いた新規物体のカテゴリー化における視覚より触覚優位の証拠</title>
-    <link>https://osf.io/rcna9</link>
-    <guid isPermaLink="false">https://osf.io/rcna9#ja</guid>
-    <pubDate>Thu, 22 Jan 2026 23:17:26 +0000</pubDate>
-    <description>Evidence for a Haptic Over Vision Bias in the Categorisation of Novel Objects using Virtual Reality</description>
-  </item>
-  <item>
-    <title>平均的ではない：漸進的身体努力課題における多様な退屈の動態</title>
-    <link>https://osf.io/79ezb</link>
-    <guid isPermaLink="false">https://osf.io/79ezb#ja</guid>
-    <pubDate>Thu, 22 Jan 2026 23:17:25 +0000</pubDate>
-    <description>Not so average: Heterogenous boredom dynamics during an incremental physical effort task</description>
-  </item>
-  <item>
-    <title>成人の読解力評価：テスト開発の経緯と検証</title>
-    <link>https://osf.io/dp9nc</link>
-    <guid isPermaLink="false">https://osf.io/dp9nc#ja</guid>
-    <pubDate>Thu, 22 Jan 2026 23:17:25 +0000</pubDate>
-    <description>Adult Reading Skills Assessment: The Development of the Test</description>
-  </item>
-  <item>
-    <title>なぜ混合が重要か―多剤使用のダイナミクスの探究</title>
-    <link>https://osf.io/96ebw</link>
-    <guid isPermaLink="false">https://osf.io/96ebw#ja</guid>
-    <pubDate>Thu, 22 Jan 2026 23:17:25 +0000</pubDate>
-    <description>Why the Mix Matters - Exploring the Dynamics of Polysubstance Use</description>
-  </item>
-  <item>
-    <title>専制的リーダーが協力を促すとき：職務不安の中での親和志向の戦略的活用</title>
-    <link>https://osf.io/d5u4g</link>
-    <guid isPermaLink="false">https://osf.io/d5u4g#ja</guid>
-    <pubDate>Thu, 22 Jan 2026 21:44:38 +0000</pubDate>
-    <description>When Despotic Leaders Prompt Cooperation: The Strategic Use of Communion Striving Amid Job Insecurity</description>
-  </item>
-  <item>
-    <title>ソーシャルメディアは若年層に対し、集団レベルでの変化を引き起こすほどの大規模な有害影響を及ぼしている</title>
-    <link>https://osf.io/w5qsm</link>
-    <guid isPermaLink="false">https://osf.io/w5qsm#ja</guid>
-    <pubDate>Thu, 22 Jan 2026 21:18:42 +0000</pubDate>
-    <description>Social Media Is Harming Young People  at a Scale Large Enough to Cause Changes at the Population Level</description>
-  </item>
-  <item>
-    <title>大量データは全国代表サンプルと比較して一部のAI態度を誤推定する可能性がある</title>
-    <link>https://osf.io/96y4j</link>
-    <guid isPermaLink="false">https://osf.io/96y4j#ja</guid>
-    <pubDate>Thu, 22 Jan 2026 21:18:41 +0000</pubDate>
-    <description>Prolific Data May Misestimate Some AI Attitudes Compared to a Nationally Representative Sample</description>
-  </item>
-  <item>
-    <title>実験デザインと数理モデルを用いたゲームの進化的および社会的役割の検証</title>
-    <link>https://osf.io/3w2pu</link>
-    <guid isPermaLink="false">https://osf.io/3w2pu#ja</guid>
-    <pubDate>Thu, 22 Jan 2026 21:18:41 +0000</pubDate>
-    <description>Testing the Evolutionary and Social Roles of Gaming Through Experimental Design and Mathematical Model</description>
   </item>
 </channel>
 </rss>
