@@ -6,6 +6,20 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>本当に信じていますか？不誠実さを考慮した陰謀論信念の普及率と予測因子の検討</title>
+    <link>https://osf.io/9ntf2</link>
+    <guid isPermaLink="false">https://osf.io/9ntf2#ja</guid>
+    <pubDate>Sat, 24 Jan 2026 16:46:31 +0000</pubDate>
+    <description>Do you really believe that? Examining the prevalence and predictors of belief in conspiracy theories when accounting for insincerity</description>
+  </item>
+  <item>
+    <title>モンテカルロシミュレーションによる機械学習のサンプルサイズ推定：学習曲線とべき乗則の解析</title>
+    <link>https://osf.io/6xrtu</link>
+    <guid isPermaLink="false">https://osf.io/6xrtu#ja</guid>
+    <pubDate>Sat, 24 Jan 2026 16:46:31 +0000</pubDate>
+    <description>Sample Size Estimation for Machine Learning via Monte Carlo Simulation: Learning Curves and Power Laws</description>
+  </item>
+  <item>
     <title>All of Usコホートにおける精神障害リスクに対する家族歴と社会的支援の相互作用</title>
     <link>https://osf.io/4kqht</link>
     <guid isPermaLink="false">https://osf.io/4kqht#ja</guid>
@@ -13,14 +27,14 @@
     <description>The interplay between family history and social support in the risk for psychiatric disorders in the All of Us Cohort</description>
   </item>
   <item>
-    <title>非臨床女性サンプルにおける身体不満と低体重体型への注意バイアスの関連性の欠如：視線追跡研究</title>
+    <title>非臨床女性サンプルにおける身体不満と低体重身体への注意バイアスの関連性の欠如：アイ・トラッキング研究</title>
     <link>https://osf.io/znts6</link>
     <guid isPermaLink="false">https://osf.io/znts6#ja</guid>
     <pubDate>Sat, 24 Jan 2026 16:19:49 +0000</pubDate>
     <description>No association between body dissatisfaction and attentional bias towards lower-weight bodies in non-clinical sample of women: an eye-tracking study.</description>
   </item>
   <item>
-    <title>生涯にわたる心的算術中の脳活動における発達的前頭頭頂葉シフトの不在：登録報告</title>
+    <title>生涯にわたる心的算術中の脳活動における前頭頭頂葉の発達的シフトの不在：登録報告</title>
     <link>https://osf.io/ka25s</link>
     <guid isPermaLink="false">https://osf.io/ka25s#ja</guid>
     <pubDate>Sat, 24 Jan 2026 16:19:49 +0000</pubDate>
@@ -41,7 +55,7 @@
     <description>State Space Theory as a Unifying Framework for Consciousness</description>
   </item>
   <item>
-    <title>一貫性：心理学研究における因果推論の重要かつしばしば見落とされる要件</title>
+    <title>一貫性：心理学研究における因果推論のための重要かつしばしば見落とされがちな要件</title>
     <link>https://osf.io/3g9za</link>
     <guid isPermaLink="false">https://osf.io/3g9za#ja</guid>
     <pubDate>Sat, 24 Jan 2026 16:19:48 +0000</pubDate>
@@ -55,7 +69,7 @@
     <description>A Lifespan Perspective on Passion for Music in Musicians</description>
   </item>
   <item>
-    <title>思春期早期におけるアロスタティック・ロードの特徴づけ：測定方法と精神健康およびリスク・保護因子との関連性</title>
+    <title>思春期早期におけるアロスタティックロードの特徴づけ：測定方法と精神健康およびリスク・保護因子との関連</title>
     <link>https://osf.io/psrbw</link>
     <guid isPermaLink="false">https://osf.io/psrbw#ja</guid>
     <pubDate>Sat, 24 Jan 2026 16:19:47 +0000</pubDate>
@@ -69,21 +83,21 @@
     <description>Audiovisual congruency drives confidence in presence and absence</description>
   </item>
   <item>
-    <title>すべてのBANG、小さなバックス：ニーズ関連経験とビデオゲーム領域における行動の弱い関連性</title>
+    <title>すべてのBANG、わずかなバックス：ニーズ関連経験とビデオゲーム領域における行動の弱い関連性</title>
     <link>https://osf.io/wqr6u</link>
     <guid isPermaLink="false">https://osf.io/wqr6u#ja</guid>
     <pubDate>Sat, 24 Jan 2026 16:19:46 +0000</pubDate>
     <description>All BANG, little buck: Need-related experiences are weakly linked with behavior in the video game domain</description>
   </item>
   <item>
-    <title>小児安静時脳波記録の収集、前処理および解析に関する系統的レビュー</title>
+    <title>小児安静時脳波の収集、前処理および解析に関する系統的レビュー</title>
     <link>https://osf.io/37psk</link>
     <guid isPermaLink="false">https://osf.io/37psk#ja</guid>
     <pubDate>Sat, 24 Jan 2026 16:19:46 +0000</pubDate>
     <description>Pediatric resting EEG collection, preprocessing, and analysis: A systematic review</description>
   </item>
   <item>
-    <title>5～17歳の子ども・青少年を対象とした大規模母集団サンプルにおけるRCADS-25の心理測定特性</title>
+    <title>5～17歳の子ども・青少年を対象とした大規模母集団サンプルにおけるRCADS-25の心理計測特性</title>
     <link>https://osf.io/58kd7</link>
     <guid isPermaLink="false">https://osf.io/58kd7#ja</guid>
     <pubDate>Sat, 24 Jan 2026 16:19:45 +0000</pubDate>
@@ -97,21 +111,21 @@
     <description>Beyond Latent Models: Network Insights into ADHD Attitudes in Trinidad and Tobago</description>
   </item>
   <item>
-    <title>バイアスのかかった測定から心理構成概念を予測する：機械学習における非不変的ターゲットの影響</title>
+    <title>バイアスのある測定から心理構成概念を予測する：機械学習における非不変的ターゲットの影響</title>
     <link>https://osf.io/47fu3</link>
     <guid isPermaLink="false">https://osf.io/47fu3#ja</guid>
     <pubDate>Sat, 24 Jan 2026 15:40:00 +0000</pubDate>
     <description>Predicting psychological constructs from biased measurements: The impact of non-invariant targets in machine learning</description>
   </item>
   <item>
-    <title>Yari-RenaniおよびZari（2025）「うつ病治療の進展：多施設無作為化比較試験による動的対人療法と認知行動療法および薬物療法の症状、睡眠、認知への効果に関する信頼性の問題」</title>
+    <title>Yari-RenaniおよびZari（2025）における信頼性の問題：「うつ病治療の進展：動的対人療法と認知行動療法および薬物療法の症状、睡眠、認知に対する多施設ランダム化比較試験」</title>
     <link>https://osf.io/tr42m</link>
     <guid isPermaLink="false">https://osf.io/tr42m#ja</guid>
     <pubDate>Sat, 24 Jan 2026 15:40:00 +0000</pubDate>
     <description>Trustworthiness issues in Yari-Renani and Zari (2025) “Advancing depression treatment: a multi-center randomized controlled trial of dynamic interpersonal therapy versus CBT and pharmacotherapy on symptoms, sleep, and cognition”</description>
   </item>
   <item>
-    <title>不平等パラドックスの再検討：なぜ経済的不平等の形態によって再分配支持が異なるのか</title>
+    <title>不平等の逆説再考：なぜ経済的不平等の形態によって再分配支持が異なるのか</title>
     <link>https://osf.io/uemvp</link>
     <guid isPermaLink="false">https://osf.io/uemvp#ja</guid>
     <pubDate>Sat, 24 Jan 2026 15:39:59 +0000</pubDate>
@@ -174,7 +188,7 @@
     <description>Where You Look Is What You Get: Individual Fixation Height Predicts Biases in Face Perception</description>
   </item>
   <item>
-    <title>リマッピング、空間位相性、および視覚的安定性に基づく操作可能自己符号化器</title>
+    <title>リマッピング、空間トポグラフィー、および視覚的安定性に基づく操作可能な自己符号化器</title>
     <link>https://osf.io/5cku8</link>
     <guid isPermaLink="false">https://osf.io/5cku8#ja</guid>
     <pubDate>Fri, 23 Jan 2026 18:27:35 +0000</pubDate>
@@ -195,28 +209,28 @@
     <description>The Generalized Price Equation: A Unified Approach to Behavioral Selection Theory</description>
   </item>
   <item>
-    <title>実世界の対象に対する作業記憶の向上は意味理解に基づく</title>
+    <title>意味理解が実世界物体の作業記憶向上の基盤となる</title>
     <link>https://osf.io/45qjn</link>
     <guid isPermaLink="false">https://osf.io/45qjn#ja</guid>
     <pubDate>Fri, 23 Jan 2026 16:55:37 +0000</pubDate>
     <description>Semantic understanding underlies enhanced working memory for real-world objects</description>
   </item>
   <item>
-    <title>結合的に定義された目標における視覚探索における条件付けられた捕捉</title>
+    <title>結合的に定義された標的の視覚探索における条件付き捕捉</title>
     <link>https://osf.io/qt9az</link>
     <guid isPermaLink="false">https://osf.io/qt9az#ja</guid>
     <pubDate>Fri, 23 Jan 2026 16:55:36 +0000</pubDate>
     <description>Contingent Capture in Visual Search for Conjunctively Defined Targets</description>
   </item>
   <item>
-    <title>タッピング力の変動がリズムに合わせた指タッピングの時間的精度に与える影響</title>
+    <title>タッピング力の変動がリズムに合わせた指タッピングの時間的精度に及ぼす影響</title>
     <link>https://osf.io/cba28</link>
     <guid isPermaLink="false">https://osf.io/cba28#ja</guid>
     <pubDate>Fri, 23 Jan 2026 16:24:53 +0000</pubDate>
     <description>Tapping force variability influences temporal precision in paced finger tapping</description>
   </item>
   <item>
-    <title>制作過程の可視化：プロセス証拠と個人差がテキストから画像生成AIの創造性評価に与える影響</title>
+    <title>創造の可視化：プロセス証拠と個人差がテキストから画像生成AIの創造性評価に与える影響</title>
     <link>https://osf.io/s4b8f</link>
     <guid isPermaLink="false">https://osf.io/s4b8f#ja</guid>
     <pubDate>Fri, 23 Jan 2026 14:51:05 +0000</pubDate>
@@ -251,21 +265,21 @@
     <description>Conflict adaptation in a confound-minimized face-word Stroop task: Exploration of parameter space for studying neural mechanisms</description>
   </item>
   <item>
-    <title>秘密への心のさまよいの性質とその結果</title>
+    <title>秘密への心のさまよいの本質とその影響</title>
     <link>https://osf.io/7u2rm</link>
     <guid isPermaLink="false">https://osf.io/7u2rm#ja</guid>
     <pubDate>Fri, 23 Jan 2026 14:21:20 +0000</pubDate>
     <description>The Nature and Consequences of Mind-Wandering to Secrets</description>
   </item>
   <item>
-    <title>自己報告とデジタルトレースデータの比較による情報探索行動に関するコミュニケーション研究と理論の進展</title>
+    <title>自己報告とデジタルトレースデータの比較による情報探索行動に関するコミュニケーション研究と理論の深化</title>
     <link>https://osf.io/5ywb4</link>
     <guid isPermaLink="false">https://osf.io/5ywb4#ja</guid>
     <pubDate>Fri, 23 Jan 2026 14:21:20 +0000</pubDate>
     <description>Advancing Communication Research and Theory on Information Seeking Behavior by Comparing Self-Reports and Digital Trace Data</description>
   </item>
   <item>
-    <title>アメリカにおけるラテン系およびアフリカ系新規移民集団の心理的苦痛の横断診断的評価に関する混合法的研究</title>
+    <title>アメリカにおけるラテン系およびアフリカ系新規移民集団の心理的苦痛の横断的評価に関する混合法的研究</title>
     <link>https://osf.io/k3sde</link>
     <guid isPermaLink="false">https://osf.io/k3sde#ja</guid>
     <pubDate>Fri, 23 Jan 2026 14:21:19 +0000</pubDate>
@@ -279,7 +293,7 @@
     <description>Characterizing the hierarchical structure of eating disorders and related mental disorders in youths across multiple timepoints</description>
   </item>
   <item>
-    <title>マインドセットに基づく介入が高リスク試験準備期の学業適応を促進する</title>
+    <title>マインドセットに基づく介入が高難度試験準備期における学業適応を促進する</title>
     <link>https://osf.io/rtne3</link>
     <guid isPermaLink="false">https://osf.io/rtne3#ja</guid>
     <pubDate>Fri, 23 Jan 2026 08:25:07 +0000</pubDate>
@@ -293,14 +307,14 @@
     <description>Deconstructing “Negative Emotions”:  A Paradigm Shift in Understanding Sadness</description>
   </item>
   <item>
-    <title>包摂性に向けて：シスジェンダーおよびトランスジェンダーのアルコール使用障害治療への障壁を測定するジェンダー感受性ツールの検証</title>
+    <title>包摂性に向けて：シスジェンダーおよびトランスジェンダーのアルコール使用障害治療における障壁を測定するジェンダー感受性ツールの検証</title>
     <link>https://osf.io/bj485</link>
     <guid isPermaLink="false">https://osf.io/bj485#ja</guid>
     <pubDate>Fri, 23 Jan 2026 08:25:06 +0000</pubDate>
     <description>Toward Inclusivity: Validation of A Gender-Sensitive Tool to Measure Barriers to Alcohol Use Disorder Treatment Among Cis- and Transgender People</description>
   </item>
   <item>
-    <title>若年ほど暗示に影響されやすい：子どもと成人の年齢差に関するメタ分析</title>
+    <title>若年ほど暗示に影響されやすい：子どもと大人の年齢差に関するメタ分析</title>
     <link>https://osf.io/2v5my</link>
     <guid isPermaLink="false">https://osf.io/2v5my#ja</guid>
     <pubDate>Fri, 23 Jan 2026 08:25:01 +0000</pubDate>
@@ -314,14 +328,14 @@
     <description>Concise Comprehensive Assessment of Psychiatric Disorder Risks Using Machine Learning</description>
   </item>
   <item>
-    <title>誰が最も恩恵を受けるか？中国語を話す自閉症幼児を対象とした親実施型社会的コミュニケーション介入のランダム化比較試験</title>
+    <title>誰が最も恩恵を受けるか？中国語話者の自閉症幼児を対象とした親実施型社会的コミュニケーション介入のランダム化比較試験</title>
     <link>https://osf.io/6t4bp</link>
     <guid isPermaLink="false">https://osf.io/6t4bp#ja</guid>
     <pubDate>Fri, 23 Jan 2026 07:31:15 +0000</pubDate>
     <description>Who Benefits Most? A Randomized Controlled Trial for Parent-Implemented Social Communication Intervention for Chinese-Speaking Autistic Preschoolers</description>
   </item>
   <item>
-    <title>かつての先延ばし傾向者は永遠の先延ばし傾向者か？若年成人期における先延ばし行動の安定性、変化および長期的関連要因の検討</title>
+    <title>かつての先延ばし者は永遠の先延ばし者か？若年成人期における先延ばし行動の安定性、変化および長期的関連要因の検討</title>
     <link>https://osf.io/543wf</link>
     <guid isPermaLink="false">https://osf.io/543wf#ja</guid>
     <pubDate>Fri, 23 Jan 2026 07:31:15 +0000</pubDate>
@@ -333,20 +347,6 @@
     <guid isPermaLink="false">https://osf.io/62v8j#ja</guid>
     <pubDate>Fri, 23 Jan 2026 07:31:14 +0000</pubDate>
     <description>Short-Term Effects on Parenting and Adolescent Well-Being of a Personalized Digital Parenting Intervention. A Randomized Controlled Trial</description>
-  </item>
-  <item>
-    <title>「効果よりも安全性を重視する傾向：イングランドのプライマリケアにおける抗うつ薬処方と意思決定の質的研究」</title>
-    <link>https://osf.io/6th75</link>
-    <guid isPermaLink="false">https://osf.io/6th75#ja</guid>
-    <pubDate>Fri, 23 Jan 2026 07:31:14 +0000</pubDate>
-    <description>‘I&#x27;d think more about safety rather than efficacy’: A Qualitative Study of Antidepressant Prescribing and Decision Making in Primary Care in England</description>
-  </item>
-  <item>
-    <title>ヨーロッパ系および多民族コホートにおける乳児の不機嫌および泣泣行動に関するゲノムワイド関連解析</title>
-    <link>https://osf.io/qxgme</link>
-    <guid isPermaLink="false">https://osf.io/qxgme#ja</guid>
-    <pubDate>Fri, 23 Jan 2026 06:59:06 +0000</pubDate>
-    <description>Genome-wide association study of infant fussiness and crying in European and multi-ancestry cohorts</description>
   </item>
 </channel>
 </rss>
