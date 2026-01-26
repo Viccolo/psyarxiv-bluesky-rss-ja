@@ -6,14 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>理論と介入の架け橋：健康心理学介入の発展に向けた原理検証ランダム化比較試験の必要性</title>
+    <title>理論と介入の架け橋：健康心理学介入の発展に向けた原理実証ランダム化比較試験の必要性</title>
     <link>https://osf.io/ex2hc</link>
     <guid isPermaLink="false">https://osf.io/ex2hc#ja</guid>
     <pubDate>Mon, 26 Jan 2026 15:51:16 +0000</pubDate>
     <description>Bridging Theory and Intervention: The Need for Proof-of-Principle RCTs to Advance Health Psychology Interventions</description>
   </item>
   <item>
-    <title>視線追跡と第一人称インタビューの統合による注視パターンと主観的意思決定構造の個人差の関連付け</title>
+    <title>視線追跡と第一人称インタビューの統合による視線パターンと主観的意思決定構造の個人差の関連付け</title>
     <link>https://osf.io/7wkd8</link>
     <guid isPermaLink="false">https://osf.io/7wkd8#ja</guid>
     <pubDate>Mon, 26 Jan 2026 15:51:16 +0000</pubDate>
@@ -34,21 +34,21 @@
     <description>Beyond Resistance: Understanding Trait Self-Control through Strategic Indulgence</description>
   </item>
   <item>
-    <title>仲間が養育者に似るとき：虐待経験の有無にかかわらず、心拍数の選択的減速が養育者表象の一般化を示す</title>
+    <title>仲間が養育者に似るとき：虐待経験の有無にかかわらず、選択的心拍減速が養育者表象の一般化を示す</title>
     <link>https://osf.io/zdb3v</link>
     <guid isPermaLink="false">https://osf.io/zdb3v#ja</guid>
     <pubDate>Mon, 26 Jan 2026 15:25:08 +0000</pubDate>
     <description>When peers resemble caregivers: Selective cardiac slowing tracks generalization of caregiver representations in maltreated and nonmaltreated youth</description>
   </item>
   <item>
-    <title>ポストジェノサイド状況における生存者と加害者の世代間にわたる感情的および非感情的神経変化</title>
+    <title>ポストジェノサイド環境における生存者と加害者の世代間にわたる感情性および非感情性神経変化</title>
     <link>https://osf.io/eu2dx</link>
     <guid isPermaLink="false">https://osf.io/eu2dx#ja</guid>
     <pubDate>Mon, 26 Jan 2026 15:25:08 +0000</pubDate>
     <description>Affective and non-affective neural alterations across generations in survivors and perpetrators in a post-genocide context</description>
   </item>
   <item>
-    <title>気候変動緩和行動尺度（CLIMBS）の開発と心理計量学的評価</title>
+    <title>気候変動緩和行動尺度（CLIMBS）の開発と心理測定学的評価</title>
     <link>https://osf.io/76mdg</link>
     <guid isPermaLink="false">https://osf.io/76mdg#ja</guid>
     <pubDate>Mon, 26 Jan 2026 15:25:07 +0000</pubDate>
@@ -62,28 +62,28 @@
     <description>Quantifying movement imagery ability: An open-source platform for behavioral assessments</description>
   </item>
   <item>
-    <title>自己超越から充足へ：定期的な瞑想者における非執着と幸福の育成におけるつながり感、非同一視、無常の役割</title>
+    <title>利他性から充足感へ：定期的な瞑想者における非執着と幸福の育成におけるつながり感、非同一視、無常性の役割</title>
     <link>https://osf.io/rpts8</link>
     <guid isPermaLink="false">https://osf.io/rpts8#ja</guid>
     <pubDate>Mon, 26 Jan 2026 15:25:07 +0000</pubDate>
     <description>From Selflessness to Fulfillment: The Role of Connectedness, Disidentification, and Impermanence in Cultivating Non-Attachment and Happiness in Regular Meditators</description>
   </item>
   <item>
-    <title>野外における言語プライミング：オンラインデータ収集のためのモバイルアプリの活用</title>
+    <title>野外における言語プライミング：モバイルアプリを用いたオンラインデータ収集の試み</title>
     <link>https://osf.io/phe5s</link>
     <guid isPermaLink="false">https://osf.io/phe5s#ja</guid>
     <pubDate>Mon, 26 Jan 2026 15:25:06 +0000</pubDate>
     <description>Language priming in the wild: Using a mobile-app for online data-collection</description>
   </item>
   <item>
-    <title>脳機能のデジタルバイオマーカーとしてのスマートフォン行動</title>
+    <title>スマートフォン行動を脳機能のデジタルバイオマーカーとして活用する研究</title>
     <link>https://osf.io/mypwa</link>
     <guid isPermaLink="false">https://osf.io/mypwa#ja</guid>
     <pubDate>Mon, 26 Jan 2026 15:25:06 +0000</pubDate>
     <description>Smartphone behavior as a digital biomarker of brain function</description>
   </item>
   <item>
-    <title>科学者の自動化？心理学研究における人工知能活用の方法論的視点</title>
+    <title>科学者の自動化？心理学研究における人工知能利用の方法論的視点</title>
     <link>https://osf.io/dqxsu</link>
     <guid isPermaLink="false">https://osf.io/dqxsu#ja</guid>
     <pubDate>Mon, 26 Jan 2026 15:25:06 +0000</pubDate>
@@ -97,7 +97,7 @@
     <description>Why don’t web survey monitors complete a survey? An analysis of response refusal and discontinuation</description>
   </item>
   <item>
-    <title>精神疾患の治療率増加と有病率の安定：疫学的疾患有病率と治療率の差異に関する理解の深化に向けて</title>
+    <title>精神保健治療の増加と有病率の安定：疫学的障害有病率と治療有病率の差異に関する理解の深化に向けて</title>
     <link>https://osf.io/g5pey</link>
     <guid isPermaLink="false">https://osf.io/g5pey#ja</guid>
     <pubDate>Mon, 26 Jan 2026 14:53:50 +0000</pubDate>
@@ -118,14 +118,14 @@
     <description>Barriers to Bridging Divides in the Real World: A Framework for Addressing Challenges in Affective Polarization Intervention Research</description>
   </item>
   <item>
-    <title>小児全般性不安障害におけるエスシタロプラムの有害性・利益比に関する検討：エビデンスと承認プロセスへの批判的視点</title>
+    <title>小児全般性不安障害におけるエスシタロプラムの有害性・利益比に関する検討：エビデンスおよび承認プロセスへの批判的視点</title>
     <link>https://osf.io/6fqk4</link>
     <guid isPermaLink="false">https://osf.io/6fqk4#ja</guid>
     <pubDate>Sun, 25 Jan 2026 12:34:53 +0000</pubDate>
     <description>Concerning harm/benefit ratio of escitalopram for pediatric generalized anxiety disorder. A critical viewpoint on the evidence and approval process</description>
   </item>
   <item>
-    <title>神経薬物手がかり反応性の症例対照比較が依存症に関して示すものとは何か？神経画像メタアナリシス</title>
+    <title>神経薬物手がかり反応性の症例対照比較が依存症について示すものとは何か？神経画像メタアナリシス</title>
     <link>https://osf.io/t382w</link>
     <guid isPermaLink="false">https://osf.io/t382w#ja</guid>
     <pubDate>Sun, 25 Jan 2026 12:34:53 +0000</pubDate>
@@ -139,7 +139,7 @@
     <description>AI-based Decision-Making: Not the Decision-Maker but the Outcome’s Favourability Determines the Perception of University Topic Allocations</description>
   </item>
   <item>
-    <title>デフォルトモード、情動および感覚運動ネットワークの機能的・構造的脳特徴の連結が反社会的人格特性を予測する：jICAおよびトランスフォーマーベース基盤モデルによるアプローチ</title>
+    <title>デフォルトモード、情動および感覚運動ネットワークの機能的・構造的結合特徴が反社会的人格特性を予測する：jICAおよびトランスフォーマーベースの基盤モデルアプローチ</title>
     <link>https://osf.io/v9u85</link>
     <guid isPermaLink="false">https://osf.io/v9u85#ja</guid>
     <pubDate>Sun, 25 Jan 2026 12:34:52 +0000</pubDate>
@@ -153,7 +153,7 @@
     <description>Hope and Fear in Times of Crisis: How Emotion and Optimism Shape Geopolitical Predictions</description>
   </item>
   <item>
-    <title>自信と質の不一致：断定的な言語が低品質ニュースを示唆する</title>
+    <title>自信と質の不一致：断定的な言語が低質なニュースを示唆する</title>
     <link>https://osf.io/a2fzj</link>
     <guid isPermaLink="false">https://osf.io/a2fzj#ja</guid>
     <pubDate>Sun, 25 Jan 2026 11:37:36 +0000</pubDate>
@@ -174,21 +174,21 @@
     <description>Predictive Formats and Informational Attenuation: A Unified Account of Autism Across Cognition, Phenomenology, and Social Interaction</description>
   </item>
   <item>
-    <title>簡略化か誤解か？ポストロー時代におけるアメリカ人の中絶態度測定の再考</title>
+    <title>簡略化か誤解か：ポストロー時代におけるアメリカ人の中絶態度測定の再考</title>
     <link>https://osf.io/bphrz</link>
     <guid isPermaLink="false">https://osf.io/bphrz#ja</guid>
     <pubDate>Sun, 25 Jan 2026 03:50:20 +0000</pubDate>
     <description>Simplified or Misunderstood? Rethinking How We Measure Americans’ Abortion Attitudes in the Post-Roe Era</description>
   </item>
   <item>
-    <title>個人的な過ち後の神との和解体験の時間的動態：米国キリスト教成人を対象とした事象基盤縦断研究</title>
+    <title>個人的過誤後の神との和解体験の時間的動態：米国キリスト教成人を対象とした事象基盤縦断研究</title>
     <link>https://osf.io/a968g</link>
     <guid isPermaLink="false">https://osf.io/a968g#ja</guid>
     <pubDate>Sun, 25 Jan 2026 03:50:19 +0000</pubDate>
     <description>Temporal Dynamics of Experiencing Reconciliation With God After Personal Wrongdoing: An Incident-Anchored Longitudinal Study of U.S. Christian Adults</description>
   </item>
   <item>
-    <title>肯定的価値は感情的意思決定における共通通貨として機能する</title>
+    <title>正の価値は感情的意思決定における共通通貨として機能する</title>
     <link>https://osf.io/yxs2p</link>
     <guid isPermaLink="false">https://osf.io/yxs2p#ja</guid>
     <pubDate>Sun, 25 Jan 2026 03:50:19 +0000</pubDate>
@@ -237,14 +237,14 @@
     <description>Predictors of Individual Persistence and Dyadic Participation in a Multi-part Study of University Undergraduates Experiencing Relationship Conflict</description>
   </item>
   <item>
-    <title>スマートウォッチを用いた気分のエコロジカル・モーメンタリー・アセスメントの実現可能性評価：スマートリングによる睡眠および身体活動の同時評価を伴って</title>
+    <title>スマートウォッチを用いた気分のエコロジカル・モーメンタリー・アセスメントの実現可能性評価：スマートリングによる睡眠および身体活動の同時評価を併用して</title>
     <link>https://osf.io/fdsqt</link>
     <guid isPermaLink="false">https://osf.io/fdsqt#ja</guid>
     <pubDate>Sat, 24 Jan 2026 18:24:41 +0000</pubDate>
     <description>Feasibility assessment of smartwatch based ecological momentary assessment of mood, with concurrent smart ring assessment of sleep and physical activity.</description>
   </item>
   <item>
-    <title>科学者の信頼性知覚に関する国際比較の脆弱性：68か国・地域における測定整合性の検証</title>
+    <title>科学者の信頼性認知に関する国際比較の脆弱性：68か国・地域における測定整合性の検証</title>
     <link>https://osf.io/xc6t7</link>
     <guid isPermaLink="false">https://osf.io/xc6t7#ja</guid>
     <pubDate>Sat, 24 Jan 2026 18:24:41 +0000</pubDate>
@@ -265,35 +265,35 @@
     <description>Defining Extremism: A Systematic Review of the Definitions of Extremism Preprint</description>
   </item>
   <item>
-    <title>自閉症スペクトラムの聴者に対する非自閉症話者の言語適応行動</title>
+    <title>聴き手が自閉症であると伝えられた際の非自閉症話者による言語的適応</title>
     <link>https://osf.io/98uej</link>
     <guid isPermaLink="false">https://osf.io/98uej#ja</guid>
     <pubDate>Sat, 24 Jan 2026 18:24:40 +0000</pubDate>
     <description>Linguistic Accommodation made by Non-autistic Speakers in Response to Being Told the Listener is Autistic</description>
   </item>
   <item>
-    <title>近隣住民への信頼感、社会経済的地位、および代謝症候群リスクの関連性</title>
+    <title>近隣住民への信頼感、社会経済的地位とメタボリックシンドロームリスクの関連性</title>
     <link>https://osf.io/j6myf</link>
     <guid isPermaLink="false">https://osf.io/j6myf#ja</guid>
     <pubDate>Sat, 24 Jan 2026 17:40:23 +0000</pubDate>
     <description>Trust in Neighbors, Socioeconomic Status, and Metabolic Syndrome Risk</description>
   </item>
   <item>
-    <title>多様な知覚特性に関わらず、文脈が実生活の笑い声と泣き声の感情知覚に与える影響</title>
+    <title>多様な知覚特性を持つ実生活の笑い声と泣き声の感情知覚における文脈の影響</title>
     <link>https://osf.io/qx9e3</link>
     <guid isPermaLink="false">https://osf.io/qx9e3#ja</guid>
     <pubDate>Sat, 24 Jan 2026 17:40:23 +0000</pubDate>
     <description>Context shapes emotion perception of real-life laughter and crying vocalizations regardless of their diverse perceptual properties</description>
   </item>
   <item>
-    <title>心理学における理論受容の追跡：記憶減衰理論の事例研究を用いた談話分析的アプローチ</title>
+    <title>心理学における理論受容の追跡：記憶減衰理論の事例研究を用いた談話分析アプローチ</title>
     <link>https://osf.io/4y2sp</link>
     <guid isPermaLink="false">https://osf.io/4y2sp#ja</guid>
     <pubDate>Sat, 24 Jan 2026 17:40:23 +0000</pubDate>
     <description>Tracking Theory Reception in Psychological Science: A Discourse-Based Approach with a Case Study of Memory-Decay Theory</description>
   </item>
   <item>
-    <title>ReLUに消極的な理由：訓練可能な興奮性・抑制性再帰型ニューラルネットワークにおける制御不能な結合剪定の解明</title>
+    <title>ReLUに消極的な理由：訓練可能な興奮性-抑制性再帰型ニューラルネットワークにおける制御不能な結合剪定の基盤</title>
     <link>https://osf.io/9uzhq</link>
     <guid isPermaLink="false">https://osf.io/9uzhq#ja</guid>
     <pubDate>Sat, 24 Jan 2026 17:40:22 +0000</pubDate>
@@ -307,7 +307,7 @@
     <description>AI Consciousness Will Divide Society</description>
   </item>
   <item>
-    <title>戦争と強制移動の集団記憶が移民の（非）安全保障化に果たす役割</title>
+    <title>戦争と強制移動の集合的記憶が移民の（非）安全保障化に果たす役割</title>
     <link>https://osf.io/2wza4</link>
     <guid isPermaLink="false">https://osf.io/2wza4#ja</guid>
     <pubDate>Sat, 24 Jan 2026 17:40:21 +0000</pubDate>
@@ -342,7 +342,7 @@
     <description>No association between body dissatisfaction and attentional bias towards lower-weight bodies in non-clinical sample of women: an eye-tracking study.</description>
   </item>
   <item>
-    <title>生涯にわたる心的算術中の脳活動における前頭頭頂葉シフトの非存在：登録報告</title>
+    <title>生涯にわたる心的算術中の脳活動における前頭頭頂葉シフトの発達的変化の不在：登録報告</title>
     <link>https://osf.io/ka25s</link>
     <guid isPermaLink="false">https://osf.io/ka25s#ja</guid>
     <pubDate>Sat, 24 Jan 2026 16:19:49 +0000</pubDate>
