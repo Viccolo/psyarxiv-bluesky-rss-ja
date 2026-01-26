@@ -6,21 +6,21 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>医師助手および医師補助者のバーンアウト：系統的レビューとメタアナリシス</title>
+    <title>医師助手および医師アソシエイトのバーンアウト：システマティックレビューとメタアナリシス</title>
     <link>https://osf.io/xgc5s</link>
     <guid isPermaLink="false">https://osf.io/xgc5s#ja</guid>
     <pubDate>Sun, 25 Jan 2026 20:43:49 +0000</pubDate>
     <description>Burnout among physician assistants and physician associates: A systematic review and meta-analysis</description>
   </item>
   <item>
-    <title>現実世界における分断克服の障壁：感情的分極介入研究における課題への対応枠組み</title>
+    <title>現実世界における分断克服の障壁：感情的分極介入研究の課題に対処するための枠組み</title>
     <link>https://osf.io/dpyj4</link>
     <guid isPermaLink="false">https://osf.io/dpyj4#ja</guid>
     <pubDate>Sun, 25 Jan 2026 12:34:53 +0000</pubDate>
     <description>Barriers to Bridging Divides in the Real World: A Framework for Addressing Challenges in Affective Polarization Intervention Research</description>
   </item>
   <item>
-    <title>小児全般性不安障害におけるエスシタロプラムの有害性・利益比に関する検討：エビデンスおよび承認プロセスへの批判的視点</title>
+    <title>小児全般性不安障害におけるエスシタロプラムの有害性・利益比に関する検討：エビデンスと承認プロセスへの批判的視点</title>
     <link>https://osf.io/6fqk4</link>
     <guid isPermaLink="false">https://osf.io/6fqk4#ja</guid>
     <pubDate>Sun, 25 Jan 2026 12:34:53 +0000</pubDate>
@@ -55,14 +55,14 @@
     <description>Hope and Fear in Times of Crisis: How Emotion and Optimism Shape Geopolitical Predictions</description>
   </item>
   <item>
-    <title>自信と質の不一致：断定的言語が低品質ニュースを示唆する</title>
+    <title>自信過剰と言語表現の不一致：断定的表現が示す低品質ニュースの指標</title>
     <link>https://osf.io/a2fzj</link>
     <guid isPermaLink="false">https://osf.io/a2fzj#ja</guid>
     <pubDate>Sun, 25 Jan 2026 11:37:36 +0000</pubDate>
     <description>The Confidence – Quality Mismatch:  Assertive Language Signals Lower-Quality News</description>
   </item>
   <item>
-    <title>万人向けではない：生成型人工知能における多様な身体言語感情認識に対する推論過程の選択的効果</title>
+    <title>万人に共通する解決策ではない：生成型AIにおける多様な身体言語感情認識に対する推論過程の選択的効果</title>
     <link>https://osf.io/cjtxd</link>
     <guid isPermaLink="false">https://osf.io/cjtxd#ja</guid>
     <pubDate>Sun, 25 Jan 2026 11:37:36 +0000</pubDate>
@@ -76,21 +76,21 @@
     <description>Predictive Formats and Informational Attenuation: A Unified Account of Autism Across Cognition, Phenomenology, and Social Interaction</description>
   </item>
   <item>
-    <title>単純化か誤解か？ポストロー時代におけるアメリカ人の中絶態度測定の再考</title>
+    <title>簡略化か誤解か？ポストロー時代におけるアメリカ人の中絶態度測定の再考</title>
     <link>https://osf.io/bphrz</link>
     <guid isPermaLink="false">https://osf.io/bphrz#ja</guid>
     <pubDate>Sun, 25 Jan 2026 03:50:20 +0000</pubDate>
     <description>Simplified or Misunderstood? Rethinking How We Measure Americans’ Abortion Attitudes in the Post-Roe Era</description>
   </item>
   <item>
-    <title>個人的な過ち後の神との和解体験の時間的動態：米国キリスト教成人を対象とした事象基盤縦断研究</title>
+    <title>個人的過誤後の神との和解体験の時間的動態：米国キリスト教成人を対象とした事象基盤縦断研究</title>
     <link>https://osf.io/a968g</link>
     <guid isPermaLink="false">https://osf.io/a968g#ja</guid>
     <pubDate>Sun, 25 Jan 2026 03:50:19 +0000</pubDate>
     <description>Temporal Dynamics of Experiencing Reconciliation With God After Personal Wrongdoing: An Incident-Anchored Longitudinal Study of U.S. Christian Adults</description>
   </item>
   <item>
-    <title>肯定的価値は感情的意思決定における共通通貨として機能する</title>
+    <title>正の価値は感情的意思決定における共通通貨として機能する</title>
     <link>https://osf.io/yxs2p</link>
     <guid isPermaLink="false">https://osf.io/yxs2p#ja</guid>
     <pubDate>Sun, 25 Jan 2026 03:50:19 +0000</pubDate>
@@ -104,7 +104,7 @@
     <description>The Perception of Visual Distortions in Virtual Reality and Their Association with Psychosis-Relevant Traits</description>
   </item>
   <item>
-    <title>自閉症児および非自閉症児に向けた即興的親語りの調整：探索的視線追跡研究</title>
+    <title>自閉症児および非自閉症児に向けた即興的親語りの調整：探索的眼球運動追跡研究</title>
     <link>https://osf.io/b23ap</link>
     <guid isPermaLink="false">https://osf.io/b23ap#ja</guid>
     <pubDate>Sat, 24 Jan 2026 18:51:13 +0000</pubDate>
@@ -118,7 +118,7 @@
     <description>Effects of emetophobia symptoms, disgust propensity, and disgust sensitivity on state disgust and behavioral avoidance of a vomit-like stimulus</description>
   </item>
   <item>
-    <title>複雑外傷を抱える児童・青年に対するEMDRトラウママネジメントプロトコルの有効性</title>
+    <title>複雑外傷を負った児童・青年の治療におけるEMDRトラウママネジメントプロトコルの有効性</title>
     <link>https://osf.io/rksmp</link>
     <guid isPermaLink="false">https://osf.io/rksmp#ja</guid>
     <pubDate>Sat, 24 Jan 2026 18:51:12 +0000</pubDate>
@@ -132,14 +132,14 @@
     <description>The Dual Nature of Syntactic Node Count: Facilitating and Inhibiting Sentence Comprehension</description>
   </item>
   <item>
-    <title>大学生の対人関係葛藤に関する多段階研究における個人の持続性および二者参加の予測因子</title>
+    <title>大学生の関係葛藤に関する多段階研究における個人の持続性および二者参加の予測因子</title>
     <link>https://osf.io/jz5ec</link>
     <guid isPermaLink="false">https://osf.io/jz5ec#ja</guid>
     <pubDate>Sat, 24 Jan 2026 18:24:42 +0000</pubDate>
     <description>Predictors of Individual Persistence and Dyadic Participation in a Multi-part Study of University Undergraduates Experiencing Relationship Conflict</description>
   </item>
   <item>
-    <title>スマートウォッチを用いた気分のエコロジカル・モーメンタリー・アセスメントの実現可能性評価：同時にスマートリングによる睡眠および身体活動の評価を併用して</title>
+    <title>スマートウォッチを用いた気分の生態学的瞬間評価の実現可能性検討：スマートリングによる睡眠および身体活動の同時評価を併用して</title>
     <link>https://osf.io/fdsqt</link>
     <guid isPermaLink="false">https://osf.io/fdsqt#ja</guid>
     <pubDate>Sat, 24 Jan 2026 18:24:41 +0000</pubDate>
@@ -153,7 +153,7 @@
     <description>The Fragility of Global Comparisons of Perceived Scientist Trustworthiness: Evidence from Measurement Alignment across 68 Countries/Regions</description>
   </item>
   <item>
-    <title>軽度認知障害における悲しみの顔表情認識と上頭頂皮質の皮質厚との関連性</title>
+    <title>軽度認知障害における悲しみの顔感情認識と上頭頂皮質の皮質厚との関連性</title>
     <link>https://osf.io/6uq4e</link>
     <guid isPermaLink="false">https://osf.io/6uq4e#ja</guid>
     <pubDate>Sat, 24 Jan 2026 18:24:41 +0000</pubDate>
@@ -167,35 +167,35 @@
     <description>Defining Extremism: A Systematic Review of the Definitions of Extremism Preprint</description>
   </item>
   <item>
-    <title>聴取者が自閉症であると知らされた際の非自閉症話者による言語的適応</title>
+    <title>自閉スペクトラム症者と知らされた際の非自閉スペクトラム症話者による言語的適応</title>
     <link>https://osf.io/98uej</link>
     <guid isPermaLink="false">https://osf.io/98uej#ja</guid>
     <pubDate>Sat, 24 Jan 2026 18:24:40 +0000</pubDate>
     <description>Linguistic Accommodation made by Non-autistic Speakers in Response to Being Told the Listener is Autistic</description>
   </item>
   <item>
-    <title>隣人への信頼感、社会経済的地位とメタボリックシンドロームリスクの関連性</title>
+    <title>近隣住民への信頼感、社会経済的地位とメタボリックシンドロームリスクの関連性</title>
     <link>https://osf.io/j6myf</link>
     <guid isPermaLink="false">https://osf.io/j6myf#ja</guid>
     <pubDate>Sat, 24 Jan 2026 17:40:23 +0000</pubDate>
     <description>Trust in Neighbors, Socioeconomic Status, and Metabolic Syndrome Risk</description>
   </item>
   <item>
-    <title>多様な知覚特性にかかわらず、文脈が実生活の笑い声と泣き声の感情知覚に与える影響</title>
+    <title>多様な知覚特性に関わらず、文脈が実生活の笑い声と泣き声の感情知覚に与える影響</title>
     <link>https://osf.io/qx9e3</link>
     <guid isPermaLink="false">https://osf.io/qx9e3#ja</guid>
     <pubDate>Sat, 24 Jan 2026 17:40:23 +0000</pubDate>
     <description>Context shapes emotion perception of real-life laughter and crying vocalizations regardless of their diverse perceptual properties</description>
   </item>
   <item>
-    <title>心理学における理論受容の追跡：記憶減衰理論の事例研究を用いた談話分析アプローチ</title>
+    <title>心理学における理論受容の追跡：記憶減衰理論の事例研究を用いた談話分析的アプローチ</title>
     <link>https://osf.io/4y2sp</link>
     <guid isPermaLink="false">https://osf.io/4y2sp#ja</guid>
     <pubDate>Sat, 24 Jan 2026 17:40:23 +0000</pubDate>
     <description>Tracking Theory Reception in Psychological Science: A Discourse-Based Approach with a Case Study of Memory-Decay Theory</description>
   </item>
   <item>
-    <title>ReLUに消極的な理由：訓練可能な興奮性-抑制性再帰型ニューラルネットワークにおける制御不能な結合剪定の解明</title>
+    <title>ReLUに消極的な理由：訓練可能な興奮性・抑制性再帰型ニューラルネットワークにおける制御不能な結合剪定の基盤</title>
     <link>https://osf.io/9uzhq</link>
     <guid isPermaLink="false">https://osf.io/9uzhq#ja</guid>
     <pubDate>Sat, 24 Jan 2026 17:40:22 +0000</pubDate>
@@ -223,7 +223,7 @@
     <description>Do you really believe that? Examining the prevalence and predictors of belief in conspiracy theories when accounting for insincerity</description>
   </item>
   <item>
-    <title>モンテカルロシミュレーションによる機械学習のサンプルサイズ推定：学習曲線とべき乗則の解析</title>
+    <title>モンテカルロシミュレーションによる機械学習のサンプルサイズ推定：学習曲線とべき乗則の検討</title>
     <link>https://osf.io/6xrtu</link>
     <guid isPermaLink="false">https://osf.io/6xrtu#ja</guid>
     <pubDate>Sat, 24 Jan 2026 16:46:31 +0000</pubDate>
@@ -237,14 +237,14 @@
     <description>The interplay between family history and social support in the risk for psychiatric disorders in the All of Us Cohort</description>
   </item>
   <item>
-    <title>非臨床女性サンプルにおける身体不満と低体重身体への注意バイアスの関連性の欠如：視線追跡研究</title>
+    <title>非臨床女性サンプルにおける身体不満と低体重身体への注意バイアスの関連性の欠如：アイ・トラッキング研究</title>
     <link>https://osf.io/znts6</link>
     <guid isPermaLink="false">https://osf.io/znts6#ja</guid>
     <pubDate>Sat, 24 Jan 2026 16:19:49 +0000</pubDate>
     <description>No association between body dissatisfaction and attentional bias towards lower-weight bodies in non-clinical sample of women: an eye-tracking study.</description>
   </item>
   <item>
-    <title>生涯にわたる心的算術中の脳活動における前頭頭頂葉シフトの非存在：登録報告</title>
+    <title>生涯にわたる心的算術課題中の脳活動における前頭頭頂葉シフトの発達的変化の不在：登録報告</title>
     <link>https://osf.io/ka25s</link>
     <guid isPermaLink="false">https://osf.io/ka25s#ja</guid>
     <pubDate>Sat, 24 Jan 2026 16:19:49 +0000</pubDate>
@@ -265,7 +265,7 @@
     <description>State Space Theory as a Unifying Framework for Consciousness</description>
   </item>
   <item>
-    <title>一貫性：心理学研究における因果推論のための重要かつしばしば見過ごされる要件</title>
+    <title>一貫性：心理学研究における因果推論の重要かつしばしば見過ごされる要件</title>
     <link>https://osf.io/3g9za</link>
     <guid isPermaLink="false">https://osf.io/3g9za#ja</guid>
     <pubDate>Sat, 24 Jan 2026 16:19:48 +0000</pubDate>
@@ -286,35 +286,35 @@
     <description>Characterizing Allostatic Load during Early Adolescence: Measurement Strategies and Associations with Mental Health and Risk and Protective Factors</description>
   </item>
   <item>
-    <title>視聴覚的一致性が存在感の有無に対する確信を促進する</title>
+    <title>視聴覚的一致性が存在感の有無に対する自信を促進する</title>
     <link>https://osf.io/sqpmk</link>
     <guid isPermaLink="false">https://osf.io/sqpmk#ja</guid>
     <pubDate>Sat, 24 Jan 2026 16:19:47 +0000</pubDate>
     <description>Audiovisual congruency drives confidence in presence and absence</description>
   </item>
   <item>
-    <title>すべてのBANG、小さなバックス：ニーズ関連体験とビデオゲーム領域における行動の弱い関連性</title>
+    <title>すべてのBANG、小さなバックス：ニーズ関連経験とビデオゲーム領域における行動の弱い関連性</title>
     <link>https://osf.io/wqr6u</link>
     <guid isPermaLink="false">https://osf.io/wqr6u#ja</guid>
     <pubDate>Sat, 24 Jan 2026 16:19:46 +0000</pubDate>
     <description>All BANG, little buck: Need-related experiences are weakly linked with behavior in the video game domain</description>
   </item>
   <item>
-    <title>小児安静時脳波の収集・前処理・解析に関する体系的レビュー</title>
+    <title>小児安静時脳波の収集、前処理および解析に関する体系的レビュー</title>
     <link>https://osf.io/37psk</link>
     <guid isPermaLink="false">https://osf.io/37psk#ja</guid>
     <pubDate>Sat, 24 Jan 2026 16:19:46 +0000</pubDate>
     <description>Pediatric resting EEG collection, preprocessing, and analysis: A systematic review</description>
   </item>
   <item>
-    <title>5～17歳の子ども・青少年を対象とした大規模母集団サンプルにおけるRCADS-25の心理測定特性</title>
+    <title>5～17歳の子ども・青少年を対象とした大規模母集団サンプルにおけるRCADS-25の心理計測特性</title>
     <link>https://osf.io/58kd7</link>
     <guid isPermaLink="false">https://osf.io/58kd7#ja</guid>
     <pubDate>Sat, 24 Jan 2026 16:19:45 +0000</pubDate>
     <description>Psychometric Properties of the RCADS-25 in a Large Population-Based Sample of Children and Youth Aged 5-17</description>
   </item>
   <item>
-    <title>潜在モデルを超えて：トリニダード・トバゴにおけるADHD態度のネットワーク分析による洞察</title>
+    <title>潜在モデルを超えて：トリニダード・トバゴにおけるADHD態度のネットワーク分析</title>
     <link>https://osf.io/ju9we</link>
     <guid isPermaLink="false">https://osf.io/ju9we#ja</guid>
     <pubDate>Sat, 24 Jan 2026 16:19:45 +0000</pubDate>
@@ -328,14 +328,14 @@
     <description>Predicting psychological constructs from biased measurements: The impact of non-invariant targets in machine learning</description>
   </item>
   <item>
-    <title>Yari-RenaniおよびZari（2025）における信頼性の問題：「うつ病治療の進展：動的対人療法と認知行動療法および薬物療法の症状、睡眠、認知に対する多施設ランダム化比較試験」</title>
+    <title>Yari-RenaniおよびZari（2025）による「うつ病治療の進展：多施設ランダム化比較試験における動的対人療法と認知行動療法および薬物療法の症状、睡眠、認知への効果に関する信頼性の問題」</title>
     <link>https://osf.io/tr42m</link>
     <guid isPermaLink="false">https://osf.io/tr42m#ja</guid>
     <pubDate>Sat, 24 Jan 2026 15:40:00 +0000</pubDate>
     <description>Trustworthiness issues in Yari-Renani and Zari (2025) “Advancing depression treatment: a multi-center randomized controlled trial of dynamic interpersonal therapy versus CBT and pharmacotherapy on symptoms, sleep, and cognition”</description>
   </item>
   <item>
-    <title>不平等の逆説再考：なぜ経済的不平等の形態によって再分配支持が異なるのか</title>
+    <title>不平等のパラドックス再考：なぜ経済的不平等の形態によって再分配支持が異なるのか</title>
     <link>https://osf.io/uemvp</link>
     <guid isPermaLink="false">https://osf.io/uemvp#ja</guid>
     <pubDate>Sat, 24 Jan 2026 15:39:59 +0000</pubDate>
