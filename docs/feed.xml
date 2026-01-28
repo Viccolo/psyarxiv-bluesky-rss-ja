@@ -6,21 +6,42 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>ウェブカメラ技術を用いた自然環境下での心拍監視を促進する遠隔光電容積脈波法（rPPG）の進展</title>
+    <title>スマートフォン利用は一様ではない：利用目的が心理的幸福感に及ぼす異なる影響</title>
+    <link>https://osf.io/4tbhw</link>
+    <guid isPermaLink="false">https://osf.io/4tbhw#ja</guid>
+    <pubDate>Wed, 28 Jan 2026 19:49:43 +0000</pubDate>
+    <description>Not All Smartphone Use is Equal: Differential Effects of Smartphone Use Purposes on Psychological Well-Being</description>
+  </item>
+  <item>
+    <title>状況特異的期待価値理論における個人要因と状況要因の相互作用：数学領域における学生の状況特異的動機づけの交差分類分析</title>
+    <link>https://osf.io/47ysz</link>
+    <guid isPermaLink="false">https://osf.io/47ysz#ja</guid>
+    <pubDate>Wed, 28 Jan 2026 19:49:43 +0000</pubDate>
+    <description>The Interplay of Personal and Situational Factors in Situated Expectancy-Value Theory: Cross-Classified Analyses of Students’ Situation-Specific Motivations in the Math Domain</description>
+  </item>
+  <item>
+    <title>報酬系機能は肯定的情動の安定化を通じてレジリエンスを促進する</title>
+    <link>https://osf.io/zg27s</link>
+    <guid isPermaLink="false">https://osf.io/zg27s#ja</guid>
+    <pubDate>Wed, 28 Jan 2026 19:49:43 +0000</pubDate>
+    <description>Reward system function stabilizes positive affect to foster resilience</description>
+  </item>
+  <item>
+    <title>ウェブカメラ技術を用いた自然環境下での心拍監視を促進する遠隔光電容積脈波計（rPPG）の進展</title>
     <link>https://osf.io/mgd7k</link>
     <guid isPermaLink="false">https://osf.io/mgd7k#ja</guid>
     <pubDate>Wed, 28 Jan 2026 18:38:35 +0000</pubDate>
     <description>Advancing Remote Photoplethysmography (rPPG) to Facilitate Cardiac Monitoring in Naturalistic Settings Using Webcam Technology</description>
   </item>
   <item>
-    <title>レクリエーションスポーツと職務満足度の共通分散およびメンタルタフネスの役割：相互先行要因か媒介変数か？</title>
+    <title>レクリエーションスポーツと仕事の満足度における共通分散とメンタルタフネスの役割：相互の先行要因か媒介変数か？</title>
     <link>https://osf.io/a3tbv</link>
     <guid isPermaLink="false">https://osf.io/a3tbv#ja</guid>
     <pubDate>Wed, 28 Jan 2026 18:38:35 +0000</pubDate>
     <description>Common Variance of Satisfaction in Recreational Sport and Job and the Role of Mental Toughness: Mutual Antecedent or Mediator?</description>
   </item>
   <item>
-    <title>過眠症状と複雑性心的外傷後ストレス障害の関連性に関する症例シリーズの検討</title>
+    <title>過眠症と複雑性心的外傷後ストレス障害の関連性に関する症例シリーズの検討</title>
     <link>https://osf.io/kqv9w</link>
     <guid isPermaLink="false">https://osf.io/kqv9w#ja</guid>
     <pubDate>Wed, 28 Jan 2026 17:57:09 +0000</pubDate>
@@ -41,7 +62,7 @@
     <description>Participatory Systems Mapping to Explore Underserved Autistic People&#x27;s Journey through Primary Healthcare</description>
   </item>
   <item>
-    <title>理論に基づくメッセージによる大腸がん検診未受診者、無応答者および既受診者の検診受診率向上に関する原理実証ランダム化比較試験</title>
+    <title>理論に基づくメッセージによる大腸がん検診未受診者、無応答者および過去受診者の検診受診率向上に関する原理実証ランダム化比較試験</title>
     <link>https://osf.io/udv6a</link>
     <guid isPermaLink="false">https://osf.io/udv6a#ja</guid>
     <pubDate>Wed, 28 Jan 2026 17:57:08 +0000</pubDate>
@@ -69,21 +90,21 @@
     <description>Can you feel meaning? Spirituality involves stronger sensorimotor grounding of abstract concepts</description>
   </item>
   <item>
-    <title>科学者のように：類似性が科学者に対する肯定的認知と信頼を促進する</title>
+    <title>科学者のように：類似性が科学者への肯定的認知と信頼を促進する</title>
     <link>https://osf.io/wqj2b</link>
     <guid isPermaLink="false">https://osf.io/wqj2b#ja</guid>
     <pubDate>Wed, 28 Jan 2026 17:57:07 +0000</pubDate>
     <description>Like a scientist: Similarity promotes positive perceptions and fosters trust in scientists</description>
   </item>
   <item>
-    <title>心理的形成のための計算的枠組みの構築に向けて：概念的原理</title>
+    <title>心理学的構成のための計算的枠組みの構築に向けて：概念的原理</title>
     <link>https://osf.io/9jxfg</link>
     <guid isPermaLink="false">https://osf.io/9jxfg#ja</guid>
     <pubDate>Wed, 28 Jan 2026 17:57:07 +0000</pubDate>
     <description>Towards a Computational Framework for Psychological Formulation: Conceptual Principles</description>
   </item>
   <item>
-    <title>妥当性は正当性を伴うか？境界性パーソナリティ障害の診断的擁護の再考：ラファロ（2026）への応答</title>
+    <title>妥当性は正当性なきか？境界性パーソナリティ障害の診断的擁護の再考：ラファロ（2026）への応答</title>
     <link>https://osf.io/fjvde</link>
     <guid isPermaLink="false">https://osf.io/fjvde#ja</guid>
     <pubDate>Wed, 28 Jan 2026 17:57:06 +0000</pubDate>
@@ -132,7 +153,7 @@
     <description>Effect of Artificial Intelligence on Learning: A Meta-Meta-Analysis</description>
   </item>
   <item>
-    <title>単語―非単語連合学習課題の開発と検証：宣言的記憶評価のためのイタリア語ウェブベース並行形式ツール</title>
+    <title>単語―擬似単語連合学習課題の開発と検証：宣言的記憶評価のためのイタリア語ウェブベース並行形式ツール</title>
     <link>https://osf.io/hdm8s</link>
     <guid isPermaLink="false">https://osf.io/hdm8s#ja</guid>
     <pubDate>Wed, 28 Jan 2026 17:28:53 +0000</pubDate>
@@ -160,14 +181,14 @@
     <description>Bidirectional links between covert attention and value-guided choice</description>
   </item>
   <item>
-    <title>多元的無知の原因：共有された社会的誤認識の要因に関するスコーピングレビューと三分割枠組み</title>
+    <title>多元的無知の原因：社会的誤認共有の三分割枠組みとスコーピングレビュー</title>
     <link>https://osf.io/r825f</link>
     <guid isPermaLink="false">https://osf.io/r825f#ja</guid>
     <pubDate>Wed, 28 Jan 2026 14:25:26 +0000</pubDate>
     <description>Sources of Pluralistic Ignorance: A Scoping Review and Tripartite Framework for Causes of Shared Social Misperceptions</description>
   </item>
   <item>
-    <title>実行機能の個人差が青年期の環境配慮的日常行動に及ぼす影響</title>
+    <title>実行機能の個人差が青年期の環境配慮的日常行動に与える影響</title>
     <link>https://osf.io/f2aer</link>
     <guid isPermaLink="false">https://osf.io/f2aer#ja</guid>
     <pubDate>Wed, 28 Jan 2026 09:36:53 +0000</pubDate>
@@ -181,7 +202,7 @@
     <description>Drinking for a reason: how drinking motives shape alcohol use across the lifespan</description>
   </item>
   <item>
-    <title>ドイツにおける現代的人種差別の解明：ドイツ版現代的人種差別尺度の心理計測学的検討</title>
+    <title>ドイツにおける現代的人種差別の解明：ドイツ現代的人種差別尺度の心理計測学的検討</title>
     <link>https://osf.io/9keb6</link>
     <guid isPermaLink="false">https://osf.io/9keb6#ja</guid>
     <pubDate>Wed, 28 Jan 2026 01:23:39 +0000</pubDate>
@@ -202,14 +223,14 @@
     <description>The Temporal Trajectories of Stress and Affect Around Eating Events in Daily Life</description>
   </item>
   <item>
-    <title>学習動機－状況的期待価値理論に基づく質問票の検証と基準値設定</title>
+    <title>学習動機－状況的期待価値理論に基づく質問票の妥当性検証と基準値設定</title>
     <link>https://osf.io/w64us</link>
     <guid isPermaLink="false">https://osf.io/w64us#ja</guid>
     <pubDate>Wed, 28 Jan 2026 01:23:38 +0000</pubDate>
-    <description>Motivation to Study – Validation and Normative Values of a Questionnaire Based on the Situated Expectancy-Value Theory</description>
+    <description>Motivation to Study - Validation and Normative Values of a Questionnaire Based on the Situated Expectancy-Value Theory</description>
   </item>
   <item>
-    <title>二項判断の分析：錯誤真実効果における分散分析、信号検出理論、および一般化線形混合モデルの比較</title>
+    <title>二項判断の分析：錯覚的真実効果における分散分析、信号検出理論、および一般化線形混合モデルの比較</title>
     <link>https://osf.io/xn397</link>
     <guid isPermaLink="false">https://osf.io/xn397#ja</guid>
     <pubDate>Wed, 28 Jan 2026 01:23:37 +0000</pubDate>
@@ -265,28 +286,28 @@
     <description>Evaluating measurement (non)-invariance of the Secure Flourishing Index: A Bayesian moderated factor analysis approach</description>
   </item>
   <item>
-    <title>顔の外見に顕著な差異を持つ個人に対する社会的偏見を変容させるための介入に関する系統的レビュー</title>
+    <title>顔の外見に明瞭な差異を持つ個人に対する社会的偏見を変容させるための介入に関する系統的レビュー</title>
     <link>https://osf.io/tk5qj</link>
     <guid isPermaLink="false">https://osf.io/tk5qj#ja</guid>
     <pubDate>Mon, 26 Jan 2026 20:21:33 +0000</pubDate>
     <description>A Systematic Review of Interventions Designed to Change Social Bias Towards Individuals with Visible Facial Differences.</description>
   </item>
   <item>
-    <title>融合の混乱：マインドフルネス、神経症傾向、認知的融合が示す共通の物語</title>
+    <title>融合の混乱：マインドフルネス、神経症傾向、および認知的融合の共通性</title>
     <link>https://osf.io/u6k5w</link>
     <guid isPermaLink="false">https://osf.io/u6k5w#ja</guid>
     <pubDate>Mon, 26 Jan 2026 20:21:33 +0000</pubDate>
     <description>The Fusion Confusion: Mindfulness, Neuroticism, and Cognitive Fusion Tell the Same Story</description>
   </item>
   <item>
-    <title>オランダにおけるCOVID-19パンデミック中の強制的および自発的行動変容の解明</title>
+    <title>オランダにおけるCOVID-19パンデミック中の強制的および自主的行動変容の解明</title>
     <link>https://osf.io/yge3f</link>
     <guid isPermaLink="false">https://osf.io/yge3f#ja</guid>
     <pubDate>Mon, 26 Jan 2026 20:21:32 +0000</pubDate>
     <description>Disentangling Enforced and Voluntary Behaviour Change During the COVID-19 Pandemic in the Netherlands</description>
   </item>
   <item>
-    <title>イランにおける全国的アロスタティック負荷：構造的ストレスと集団の精神健康の関連性</title>
+    <title>イランにおける国家全体のアロスタティック負荷：構造的ストレスと集団の精神健康の関連性</title>
     <link>https://osf.io/84nxb</link>
     <guid isPermaLink="false">https://osf.io/84nxb#ja</guid>
     <pubDate>Mon, 26 Jan 2026 20:21:32 +0000</pubDate>
@@ -326,27 +347,6 @@
     <guid isPermaLink="false">https://osf.io/ex2hc#ja</guid>
     <pubDate>Mon, 26 Jan 2026 15:51:16 +0000</pubDate>
     <description>Bridging Theory and Intervention: The Need for Proof-of-Principle RCTs to Advance Health Psychology Interventions</description>
-  </item>
-  <item>
-    <title>視線追跡と一人称インタビューの統合による視線パターンと主観的意思決定構造の個人差の関連付け</title>
-    <link>https://osf.io/7wkd8</link>
-    <guid isPermaLink="false">https://osf.io/7wkd8#ja</guid>
-    <pubDate>Mon, 26 Jan 2026 15:51:16 +0000</pubDate>
-    <description>Integrating eye-tracking and first-person interviews to link individual differences in gaze and subjective decision structure</description>
-  </item>
-  <item>
-    <title>構造的人種差別に関する信念が人種間経済的不平等の認知に与える影響</title>
-    <link>https://osf.io/p3gtj</link>
-    <guid isPermaLink="false">https://osf.io/p3gtj#ja</guid>
-    <pubDate>Mon, 26 Jan 2026 15:51:16 +0000</pubDate>
-    <description>Beliefs about Structural Racism Shape Perceptions of Racial Economic Inequality</description>
-  </item>
-  <item>
-    <title>抵抗を超えて：戦略的享楽を通じた特性自己制御の理解</title>
-    <link>https://osf.io/4f6yz</link>
-    <guid isPermaLink="false">https://osf.io/4f6yz#ja</guid>
-    <pubDate>Mon, 26 Jan 2026 15:25:08 +0000</pubDate>
-    <description>Beyond Resistance: Understanding Trait Self-Control through Strategic Indulgence</description>
   </item>
 </channel>
 </rss>
