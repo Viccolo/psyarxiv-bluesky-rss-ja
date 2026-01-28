@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>実行機能の個人差が青年期の環境配慮的日常行動に及ぼす影響</title>
+    <title>実行機能の個人差が青年期の環境配慮的日常行動に与える影響</title>
     <link>https://osf.io/f2aer</link>
     <guid isPermaLink="false">https://osf.io/f2aer#ja</guid>
     <pubDate>Wed, 28 Jan 2026 09:36:53 +0000</pubDate>
@@ -34,14 +34,14 @@
     <description>EFA-Boosting: An Iterative Optimization Algorithm for Exploratory Factor Analysis</description>
   </item>
   <item>
-    <title>日常生活における摂食行動前後のストレスと情動の時間的推移</title>
+    <title>日常生活における摂食行動前後のストレスおよび感情の時間的推移</title>
     <link>https://osf.io/n2k86</link>
     <guid isPermaLink="false">https://osf.io/n2k86#ja</guid>
     <pubDate>Wed, 28 Jan 2026 01:23:38 +0000</pubDate>
     <description>The Temporal Trajectories of Stress and Affect Around Eating Events in Daily Life</description>
   </item>
   <item>
-    <title>学習動機－状況的期待価値理論に基づく質問票の検証と基準値設定</title>
+    <title>学習動機－状況的期待価値理論に基づく質問票の妥当性検証と基準値設定</title>
     <link>https://osf.io/w64us</link>
     <guid isPermaLink="false">https://osf.io/w64us#ja</guid>
     <pubDate>Wed, 28 Jan 2026 01:23:38 +0000</pubDate>
@@ -97,42 +97,42 @@
     <description>Event Tagging: A Novel Intervention to Remediate Age Differences in Episodic Memory</description>
   </item>
   <item>
-    <title>Secure Flourishing Indexの測定（非）不変性の評価：ベイズ調整因子分析アプローチによる検討</title>
+    <title>Secure Flourishing Indexの測定（非）不変性の評価：ベイズ調整因子分析アプローチ</title>
     <link>https://osf.io/y83zn</link>
     <guid isPermaLink="false">https://osf.io/y83zn#ja</guid>
     <pubDate>Tue, 27 Jan 2026 10:53:50 +0000</pubDate>
     <description>Evaluating measurement (non)-invariance of the Secure Flourishing Index: A Bayesian moderated factor analysis approach</description>
   </item>
   <item>
-    <title>顔の外見に明らかな差異を持つ個人に対する社会的偏見を変容させるための介入に関する系統的レビュー</title>
+    <title>顔の外見に明らかな差異を持つ個人に対する社会的偏見を変えることを目的とした介入の体系的レビュー</title>
     <link>https://osf.io/tk5qj</link>
     <guid isPermaLink="false">https://osf.io/tk5qj#ja</guid>
     <pubDate>Mon, 26 Jan 2026 20:21:33 +0000</pubDate>
     <description>A Systematic Review of Interventions Designed to Change Social Bias Towards Individuals with Visible Facial Differences.</description>
   </item>
   <item>
-    <title>融合の混乱：マインドフルネス、神経症傾向、認知的融合が示す共通の物語</title>
+    <title>融合の混乱：マインドフルネス、神経症傾向、認知的融合の共通する心理的メカニズム</title>
     <link>https://osf.io/u6k5w</link>
     <guid isPermaLink="false">https://osf.io/u6k5w#ja</guid>
     <pubDate>Mon, 26 Jan 2026 20:21:33 +0000</pubDate>
     <description>The Fusion Confusion: Mindfulness, Neuroticism, and Cognitive Fusion Tell the Same Story</description>
   </item>
   <item>
-    <title>オランダにおけるCOVID-19パンデミック中の強制的および自主的行動変容の解明</title>
+    <title>オランダにおけるCOVID-19パンデミック時の強制的および自主的行動変容の解明</title>
     <link>https://osf.io/yge3f</link>
     <guid isPermaLink="false">https://osf.io/yge3f#ja</guid>
     <pubDate>Mon, 26 Jan 2026 20:21:32 +0000</pubDate>
     <description>Disentangling Enforced and Voluntary Behaviour Change During the COVID-19 Pandemic in the Netherlands</description>
   </item>
   <item>
-    <title>イランにおける全国的アロスタティック負荷：構造的ストレスと集団の精神健康の関連性</title>
+    <title>イランにおける全国的アロスタティック・ロード：構造的ストレスと集団の精神健康の関連性</title>
     <link>https://osf.io/84nxb</link>
     <guid isPermaLink="false">https://osf.io/84nxb#ja</guid>
     <pubDate>Mon, 26 Jan 2026 20:21:32 +0000</pubDate>
     <description>National allostatic load in Iran: linking structural stress to population mental health</description>
   </item>
   <item>
-    <title>文化適応型弁証法的行動療法単回セッション介入の開発：柔軟なコントロールの促進</title>
+    <title>文化適応型弁証法的行動療法単回セッション介入の開発：柔軟な自己制御の促進</title>
     <link>https://osf.io/up8dn</link>
     <guid isPermaLink="false">https://osf.io/up8dn#ja</guid>
     <pubDate>Mon, 26 Jan 2026 20:21:32 +0000</pubDate>
@@ -160,14 +160,14 @@
     <description>From traits to states: An adaptation of the Selflessness/Self-centeredness Inventory to daily experiences</description>
   </item>
   <item>
-    <title>理論と介入の架け橋：健康心理学的介入の発展に向けた原理検証ランダム化比較試験の必要性</title>
+    <title>理論と介入の架け橋：健康心理学介入の発展に向けた原理検証ランダム化比較試験の必要性</title>
     <link>https://osf.io/ex2hc</link>
     <guid isPermaLink="false">https://osf.io/ex2hc#ja</guid>
     <pubDate>Mon, 26 Jan 2026 15:51:16 +0000</pubDate>
     <description>Bridging Theory and Intervention: The Need for Proof-of-Principle RCTs to Advance Health Psychology Interventions</description>
   </item>
   <item>
-    <title>視線追跡と第一人称インタビューの統合による注視パターンと主観的意思決定構造の個人差の関連付け</title>
+    <title>視線追跡と第一人称インタビューの統合による視線パターンと主観的意思決定構造の個人差の関連付け</title>
     <link>https://osf.io/7wkd8</link>
     <guid isPermaLink="false">https://osf.io/7wkd8#ja</guid>
     <pubDate>Mon, 26 Jan 2026 15:51:16 +0000</pubDate>
@@ -188,14 +188,14 @@
     <description>Beyond Resistance: Understanding Trait Self-Control through Strategic Indulgence</description>
   </item>
   <item>
-    <title>仲間が養育者に似るとき：虐待経験の有無にかかわらず、心拍数の選択的減速が養育者表象の一般化を示す</title>
+    <title>仲間が養育者に似ているとき：虐待経験の有無にかかわらず、心拍数の選択的減速が養育者表象の一般化を示す</title>
     <link>https://osf.io/zdb3v</link>
     <guid isPermaLink="false">https://osf.io/zdb3v#ja</guid>
     <pubDate>Mon, 26 Jan 2026 15:25:08 +0000</pubDate>
     <description>When peers resemble caregivers: Selective cardiac slowing tracks generalization of caregiver representations in maltreated and nonmaltreated youth</description>
   </item>
   <item>
-    <title>ポストジェノサイド環境における生存者および加害者の世代間にわたる感情性および非感情性神経変化</title>
+    <title>ジェノサイド後の文脈における生存者および加害者の世代間にわたる感情性および非感情性の神経変化</title>
     <link>https://osf.io/eu2dx</link>
     <guid isPermaLink="false">https://osf.io/eu2dx#ja</guid>
     <pubDate>Mon, 26 Jan 2026 15:25:08 +0000</pubDate>
@@ -223,14 +223,14 @@
     <description>From Selflessness to Fulfillment: The Role of Connectedness, Disidentification, and Impermanence in Cultivating Non-Attachment and Happiness in Regular Meditators</description>
   </item>
   <item>
-    <title>自然環境における言語プライミング：モバイルアプリを用いたオンラインデータ収集の試み</title>
+    <title>野外における言語プライミング：モバイルアプリを用いたオンラインデータ収集の試み</title>
     <link>https://osf.io/phe5s</link>
     <guid isPermaLink="false">https://osf.io/phe5s#ja</guid>
     <pubDate>Mon, 26 Jan 2026 15:25:06 +0000</pubDate>
     <description>Language priming in the wild: Using a mobile-app for online data-collection</description>
   </item>
   <item>
-    <title>スマートフォン行動を脳機能のデジタルバイオマーカーとして活用する研究</title>
+    <title>脳機能のデジタルバイオマーカーとしてのスマートフォン行動</title>
     <link>https://osf.io/mypwa</link>
     <guid isPermaLink="false">https://osf.io/mypwa#ja</guid>
     <pubDate>Mon, 26 Jan 2026 15:25:06 +0000</pubDate>
@@ -272,21 +272,21 @@
     <description>Barriers to Bridging Divides in the Real World: A Framework for Addressing Challenges in Affective Polarization Intervention Research</description>
   </item>
   <item>
-    <title>小児全般性不安障害におけるエスシタロプラムの有害性・利益比率に関する検討：エビデンスと承認プロセスへの批判的視点</title>
+    <title>小児全般性不安障害におけるエスシタロプラムの有害性・利益比に関する検討：エビデンスと承認プロセスへの批判的考察</title>
     <link>https://osf.io/6fqk4</link>
     <guid isPermaLink="false">https://osf.io/6fqk4#ja</guid>
     <pubDate>Sun, 25 Jan 2026 12:34:53 +0000</pubDate>
     <description>Concerning harm/benefit ratio of escitalopram for pediatric generalized anxiety disorder. A critical viewpoint on the evidence and approval process</description>
   </item>
   <item>
-    <title>依存症に関する神経薬物手がかり反応の症例対照比較が示すもの：神経画像メタアナリシス</title>
+    <title>神経薬物キュー反応の症例対照比較は依存症について何を示すか？神経画像メタアナリシス</title>
     <link>https://osf.io/t382w</link>
     <guid isPermaLink="false">https://osf.io/t382w#ja</guid>
     <pubDate>Sun, 25 Jan 2026 12:34:53 +0000</pubDate>
     <description>What can case-control comparisons of neural drug cue reactivity tell us about addiction? A neuroimaging meta-analysis</description>
   </item>
   <item>
-    <title>AIによる意思決定：意思決定者ではなく結果の好ましさが大学の課題配分の認知に影響する</title>
+    <title>AIによる意思決定：意思決定者ではなく結果の好ましさが大学のテーマ配分の認知に影響する</title>
     <link>https://osf.io/pkaw6</link>
     <guid isPermaLink="false">https://osf.io/pkaw6#ja</guid>
     <pubDate>Sun, 25 Jan 2026 12:34:52 +0000</pubDate>
@@ -307,14 +307,14 @@
     <description>Hope and Fear in Times of Crisis: How Emotion and Optimism Shape Geopolitical Predictions</description>
   </item>
   <item>
-    <title>自信過剰と情報質の不一致：断定的表現が低品質ニュースを示唆する</title>
+    <title>自信と質の不一致：断定的な言語が低質なニュースを示唆する</title>
     <link>https://osf.io/a2fzj</link>
     <guid isPermaLink="false">https://osf.io/a2fzj#ja</guid>
     <pubDate>Sun, 25 Jan 2026 11:37:36 +0000</pubDate>
     <description>The Confidence – Quality Mismatch:  Assertive Language Signals Lower-Quality News</description>
   </item>
   <item>
-    <title>万人向けではない：生成型人工知能における多様な身体言語感情認識に対する推論過程の選択的効果</title>
+    <title>万人向けではない：生成型AIにおける多様な身体言語感情認識に対する推論過程の選択的効果</title>
     <link>https://osf.io/cjtxd</link>
     <guid isPermaLink="false">https://osf.io/cjtxd#ja</guid>
     <pubDate>Sun, 25 Jan 2026 11:37:36 +0000</pubDate>
