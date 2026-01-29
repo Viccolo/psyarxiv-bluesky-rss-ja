@@ -6,6 +6,13 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>ライプツィヒの青少年における生活満足度の性差拡大の要因分析</title>
+    <link>https://osf.io/7ydcm</link>
+    <guid isPermaLink="false">https://osf.io/7ydcm#ja</guid>
+    <pubDate>Thu, 29 Jan 2026 14:37:17 +0000</pubDate>
+    <description>Why Has the Gender Gap in Life Satisfaction Grown Among Adolescents in Leipzig?</description>
+  </item>
+  <item>
     <title>大学生における完璧主義の予測因子：精神病質・自己愛性と完璧主義の関係におけるマキャヴェリズムおよび退屈感の媒介効果</title>
     <link>https://osf.io/m49wd</link>
     <guid isPermaLink="false">https://osf.io/m49wd#ja</guid>
@@ -20,7 +27,7 @@
     <description>A Machine Learning Pipeline to Classify the Type and Severity of Misspecifications in Latent Measurement Models</description>
   </item>
   <item>
-    <title>臨床心理学における虚偽記憶と混同症：理論的視点と臨床的意義の検討</title>
+    <title>臨床心理学における混同記憶と虚偽記憶：理論的視点と臨床的意義のレビュー</title>
     <link>https://osf.io/h68bc</link>
     <guid isPermaLink="false">https://osf.io/h68bc#ja</guid>
     <pubDate>Thu, 29 Jan 2026 09:37:44 +0000</pubDate>
@@ -34,14 +41,14 @@
     <description>M4 - SOS Therapies in Athletes’ Mental Wellness: Case Study of an Olympian Gymnast</description>
   </item>
   <item>
-    <title>受動的および能動的自殺念慮の個別パターンの解明：個人特異的ネットワークモデリングによる検討</title>
+    <title>受動的および能動的自殺念慮の個別パターンの解明：個人特異的ネットワークモデリングによる探究</title>
     <link>https://osf.io/j3k6u</link>
     <guid isPermaLink="false">https://osf.io/j3k6u#ja</guid>
     <pubDate>Thu, 29 Jan 2026 05:27:00 +0000</pubDate>
     <description>Unraveling individual patterns of passive and active suicidal ideation: A person-specific network modeling exploration</description>
   </item>
   <item>
-    <title>リオプラテンセ・スペイン語版著者認知テスト</title>
+    <title>リオプラテンセ・スペイン語における著者認知テスト</title>
     <link>https://osf.io/p4x73</link>
     <guid isPermaLink="false">https://osf.io/p4x73#ja</guid>
     <pubDate>Thu, 29 Jan 2026 05:27:00 +0000</pubDate>
@@ -55,7 +62,7 @@
     <description>Nonhuman Animals as Relational Others: An Existential Metatheoretical Reframing of the Being-in-the-World Model</description>
   </item>
   <item>
-    <title>ピークパフォーマンスの潜在心理的要因に関するノンパラメトリック探索的因子分析的検討</title>
+    <title>ピークパフォーマンスの潜在心理的決定要因に関するノンパラメトリック探索的因子分析研究</title>
     <link>https://osf.io/bz3cr</link>
     <guid isPermaLink="false">https://osf.io/bz3cr#ja</guid>
     <pubDate>Thu, 29 Jan 2026 05:26:59 +0000</pubDate>
@@ -69,21 +76,21 @@
     <description>Object Recognition from Dynamic Cues: Examining the Inversion Eﬀect</description>
   </item>
   <item>
-    <title>一冊の本、二つの心：兄弟間における物語語り中の母親の心的状態表現の違いの理解</title>
+    <title>一冊の本、二つの心：兄弟間における物語語り中の母親の心的状態言及の違いの理解</title>
     <link>https://osf.io/jkr3y</link>
     <guid isPermaLink="false">https://osf.io/jkr3y#ja</guid>
     <pubDate>Thu, 29 Jan 2026 05:26:58 +0000</pubDate>
     <description>One book, two minds: Understanding differences in maternal mental state talk during storytelling across siblings</description>
   </item>
   <item>
-    <title>困難にある他者を支援する際の信念：社会的調整支援の提供とその後の幸福感への影響</title>
+    <title>困難にある他者を支援することに関する信念：社会的調整支援の提供とその後の幸福感への影響</title>
     <link>https://osf.io/qz5bu</link>
     <guid isPermaLink="false">https://osf.io/qz5bu#ja</guid>
     <pubDate>Thu, 29 Jan 2026 05:26:58 +0000</pubDate>
     <description>What we believe about supporting others in distress: Implications for providing social regulatory support and subsequent well-being</description>
   </item>
   <item>
-    <title>一つの手法に全ては適合しない：二世代の構造方程式モデリング推定フレームワークの検証</title>
+    <title>一つの手法がすべてに適用できるわけではない：二世代の構造方程式モデリング推定フレームワークの検証</title>
     <link>https://osf.io/c98rj</link>
     <guid isPermaLink="false">https://osf.io/c98rj#ja</guid>
     <pubDate>Thu, 29 Jan 2026 05:26:58 +0000</pubDate>
@@ -97,35 +104,35 @@
     <description>AI conversation partners exceed expectations and elicit less anticipatory anxiety than human partners</description>
   </item>
   <item>
-    <title>アルツハイマー病における音楽の記憶性の要因：音楽・感情・記憶の関係における情動価依存性</title>
+    <title>アルツハイマー病における音楽の記憶性要因：音楽・感情・記憶の関係における情動価依存性</title>
     <link>https://osf.io/6eskx</link>
     <guid isPermaLink="false">https://osf.io/6eskx#ja</guid>
     <pubDate>Thu, 29 Jan 2026 05:26:57 +0000</pubDate>
     <description>What makes music memorable in Alzheimer’s disease? Valence dependency in relationships between music, emotions and memory</description>
   </item>
   <item>
-    <title>対話する心：幼児教育における集団の性別構成と教育者の心的状態言語の使用</title>
+    <title>対話する心：幼児教育における集団の性別構成と教育者の心的状態言語の関係</title>
     <link>https://osf.io/ngpw8</link>
     <guid isPermaLink="false">https://osf.io/ngpw8#ja</guid>
     <pubDate>Thu, 29 Jan 2026 04:04:18 +0000</pubDate>
     <description>Talking Minds: Group Gender Composition and Educators’ Mental State Language in Early Childhood Education and Care</description>
   </item>
   <item>
-    <title>「『私』によるリーダーシップと『私たち』によるリーダーシップ：リーダーの動機と行動におけるリーダーアイデンティティとチームアイデンティティの役割」</title>
+    <title>「『私』としてのリーダーシップと『私たち』としてのリーダーシップ：リーダーアイデンティティとチームアイデンティティに基づくリーダーの動機と行動」</title>
     <link>https://osf.io/n72bc</link>
     <guid isPermaLink="false">https://osf.io/n72bc#ja</guid>
     <pubDate>Thu, 29 Jan 2026 04:04:17 +0000</pubDate>
     <description>Leading through ‘I’ versus ‘we’:  Leader motivation and behaviour rooted in leader identity and team identity</description>
   </item>
   <item>
-    <title>スマートフォン利用は一様ではない：利用目的が心理的幸福感に及ぼす異なる影響</title>
+    <title>スマートフォン利用は一様ではない：利用目的別の心理的ウェルビーイングへの異なる影響</title>
     <link>https://osf.io/4tbhw</link>
     <guid isPermaLink="false">https://osf.io/4tbhw#ja</guid>
     <pubDate>Wed, 28 Jan 2026 19:49:43 +0000</pubDate>
     <description>Not All Smartphone Use is Equal: Differential Effects of Smartphone Use Purposes on Psychological Well-Being</description>
   </item>
   <item>
-    <title>状況特異的期待価値理論における個人要因と状況要因の相互作用：数学領域における学生の状況別動機づけの交差分類分析</title>
+    <title>状況特異的期待価値理論における個人要因と状況要因の相互作用：数学領域における学生の状況特異的動機づけの交差分類分析</title>
     <link>https://osf.io/47ysz</link>
     <guid isPermaLink="false">https://osf.io/47ysz#ja</guid>
     <pubDate>Wed, 28 Jan 2026 19:49:43 +0000</pubDate>
@@ -146,21 +153,21 @@
     <description>Advancing Remote Photoplethysmography (rPPG) to Facilitate Cardiac Monitoring in Naturalistic Settings Using Webcam Technology</description>
   </item>
   <item>
-    <title>レクリエーションスポーツと職務満足度の共通分散およびメンタルタフネスの役割：相互の先行要因か媒介変数か？</title>
+    <title>レクリエーションスポーツと仕事における満足感の共通分散とメンタルタフネスの役割：相互の先行要因か媒介変数か？</title>
     <link>https://osf.io/a3tbv</link>
     <guid isPermaLink="false">https://osf.io/a3tbv#ja</guid>
     <pubDate>Wed, 28 Jan 2026 18:38:35 +0000</pubDate>
     <description>Common Variance of Satisfaction in Recreational Sport and Job and the Role of Mental Toughness: Mutual Antecedent or Mediator?</description>
   </item>
   <item>
-    <title>過眠症と複雑性心的外傷後ストレス障害の関連性に関する症例シリーズの検討</title>
+    <title>過眠症状と複雑性心的外傷後ストレス障害の関連性に関する症例シリーズの検討</title>
     <link>https://osf.io/kqv9w</link>
     <guid isPermaLink="false">https://osf.io/kqv9w#ja</guid>
     <pubDate>Wed, 28 Jan 2026 17:57:09 +0000</pubDate>
     <description>Exploring the Link Between Hypersomnolence and Complex Post-Traumatic Stress Disorder: A Case Series.</description>
   </item>
   <item>
-    <title>感情によるリスク認知の修正：運転状況における恐怖訴求映像介入の実験的検討</title>
+    <title>感情を介したリスク認知の修正：運転状況における恐怖訴求映像介入の実験的検討</title>
     <link>https://osf.io/be45p</link>
     <guid isPermaLink="false">https://osf.io/be45p#ja</guid>
     <pubDate>Wed, 28 Jan 2026 17:57:09 +0000</pubDate>
@@ -174,7 +181,7 @@
     <description>Participatory Systems Mapping to Explore Underserved Autistic People&#x27;s Journey through Primary Healthcare</description>
   </item>
   <item>
-    <title>理論に基づくメッセージによる大腸がん検診未受検者、非応答者および既受検者の検診受診率向上に関する原理検証ランダム化比較試験</title>
+    <title>理論に基づくメッセージを用いた大腸がん検診未受診者、無反応者および過去受診者に対するスクリーニング促進のための原理検証ランダム化比較試験</title>
     <link>https://osf.io/udv6a</link>
     <guid isPermaLink="false">https://osf.io/udv6a#ja</guid>
     <pubDate>Wed, 28 Jan 2026 17:57:08 +0000</pubDate>
@@ -195,7 +202,7 @@
     <description>Internalizing and externalizing aggression: a daily diary study</description>
   </item>
   <item>
-    <title>意味を感じられるか？精神性は抽象概念の感覚運動的基盤を強化する</title>
+    <title>意味を感じられますか？精神性は抽象概念の感覚運動的基盤を強化する</title>
     <link>https://osf.io/4fthr</link>
     <guid isPermaLink="false">https://osf.io/4fthr#ja</guid>
     <pubDate>Wed, 28 Jan 2026 17:57:07 +0000</pubDate>
@@ -244,7 +251,7 @@
     <description>Personality Differences in Environmental Attitude-Intention-Behavior Patterns: A Person-Centered Approach</description>
   </item>
   <item>
-    <title>融合の混乱：マインドフルネス、神経症傾向、および認知的融合の共通性</title>
+    <title>融合の混乱：マインドフルネス、神経症傾向、および認知的融合が示す共通の物語</title>
     <link>https://osf.io/psk49</link>
     <guid isPermaLink="false">https://osf.io/psk49#ja</guid>
     <pubDate>Wed, 28 Jan 2026 17:57:05 +0000</pubDate>
@@ -293,7 +300,7 @@
     <description>Bidirectional links between covert attention and value-guided choice</description>
   </item>
   <item>
-    <title>多元的無知の原因：社会的誤認共有の要因に関するスコーピングレビューと三分割枠組み</title>
+    <title>多元的無知の原因：社会的誤認共有の原因に関するスコーピングレビューと三分割枠組み</title>
     <link>https://osf.io/r825f</link>
     <guid isPermaLink="false">https://osf.io/r825f#ja</guid>
     <pubDate>Wed, 28 Jan 2026 14:25:26 +0000</pubDate>
@@ -314,7 +321,7 @@
     <description>Drinking for a reason: how drinking motives shape alcohol use across the lifespan</description>
   </item>
   <item>
-    <title>ドイツにおける現代的人種差別の解明：ドイツ現代的人種差別尺度の心理計測学的検討</title>
+    <title>ドイツにおける現代的人種差別の解明：ドイツ版現代的人種差別尺度の心理計測学的検討</title>
     <link>https://osf.io/9keb6</link>
     <guid isPermaLink="false">https://osf.io/9keb6#ja</guid>
     <pubDate>Wed, 28 Jan 2026 01:23:39 +0000</pubDate>
@@ -342,18 +349,11 @@
     <description>Motivation to Study – Validation and Normative Values of a Questionnaire Based on the Situated Expectancy-Value Theory</description>
   </item>
   <item>
-    <title>二項判断の分析：錯誤真実効果における分散分析、信号検出理論、および一般化線形混合モデルの比較</title>
+    <title>二項判断の分析：錯覚的真実効果における分散分析、信号検出理論、および一般化線形混合モデルの比較</title>
     <link>https://osf.io/xn397</link>
     <guid isPermaLink="false">https://osf.io/xn397#ja</guid>
     <pubDate>Wed, 28 Jan 2026 01:23:37 +0000</pubDate>
     <description>Analyzing Binary Judgments: A Comparison of ANOVA, Signal Detection Theory, and Generalized Linear Mixed Models in the Context of the Illusory Truth Effect</description>
-  </item>
-  <item>
-    <title>不確実性許容度は感覚追求と衝動性を分離する</title>
-    <link>https://osf.io/yq8ce</link>
-    <guid isPermaLink="false">https://osf.io/yq8ce#ja</guid>
-    <pubDate>Wed, 28 Jan 2026 01:23:37 +0000</pubDate>
-    <description>Uncertainty Tolerance Dissociates Sensation Seeking and Impulsivity</description>
   </item>
 </channel>
 </rss>
