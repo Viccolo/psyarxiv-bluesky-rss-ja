@@ -6,21 +6,21 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>対話する心：幼児教育における集団の性別構成と教育者の心的状態言語の使用</title>
+    <title>対話する心：幼児教育における集団の性別構成と教育者の心的状態言語の関係</title>
     <link>https://osf.io/ngpw8</link>
     <guid isPermaLink="false">https://osf.io/ngpw8#ja</guid>
     <pubDate>Thu, 29 Jan 2026 04:04:18 +0000</pubDate>
     <description>Talking Minds: Group Gender Composition and Educators’ Mental State Language in Early Childhood Education and Care</description>
   </item>
   <item>
-    <title>「『私』としてのリーダーシップと『私たち』としてのリーダーシップ：リーダーアイデンティティおよびチームアイデンティティに基づくリーダーの動機と行動」</title>
+    <title>「『私』によるリーダーシップと『私たち』によるリーダーシップ：リーダーアイデンティティとチームアイデンティティに基づくリーダーの動機と行動」</title>
     <link>https://osf.io/n72bc</link>
     <guid isPermaLink="false">https://osf.io/n72bc#ja</guid>
     <pubDate>Thu, 29 Jan 2026 04:04:17 +0000</pubDate>
     <description>Leading through ‘I’ versus ‘we’:  Leader motivation and behaviour rooted in leader identity and team identity</description>
   </item>
   <item>
-    <title>スマートフォン利用は一様ではない：利用目的が心理的幸福感に及ぼす異なる影響</title>
+    <title>スマートフォン利用は一様ではない：利用目的の違いが心理的幸福感に及ぼす影響の差異</title>
     <link>https://osf.io/4tbhw</link>
     <guid isPermaLink="false">https://osf.io/4tbhw#ja</guid>
     <pubDate>Wed, 28 Jan 2026 19:49:43 +0000</pubDate>
@@ -41,7 +41,7 @@
     <description>Reward system function stabilizes positive affect to foster resilience</description>
   </item>
   <item>
-    <title>ウェブカメラ技術を用いた自然環境下での心拍監視を促進する遠隔光電容積脈波法（rPPG）の進展</title>
+    <title>ウェブカメラ技術を用いた自然環境下での心拍モニタリング促進のための遠隔光電容積脈波法（rPPG）の進展</title>
     <link>https://osf.io/mgd7k</link>
     <guid isPermaLink="false">https://osf.io/mgd7k#ja</guid>
     <pubDate>Wed, 28 Jan 2026 18:38:35 +0000</pubDate>
@@ -55,7 +55,7 @@
     <description>Common Variance of Satisfaction in Recreational Sport and Job and the Role of Mental Toughness: Mutual Antecedent or Mediator?</description>
   </item>
   <item>
-    <title>過眠症と複雑性心的外傷後ストレス障害の関連性の検討：症例シリーズによる分析</title>
+    <title>過眠症と複雑性心的外傷後ストレス障害の関連性に関する症例シリーズの検討</title>
     <link>https://osf.io/kqv9w</link>
     <guid isPermaLink="false">https://osf.io/kqv9w#ja</guid>
     <pubDate>Wed, 28 Jan 2026 17:57:09 +0000</pubDate>
@@ -111,7 +111,7 @@
     <description>Like a scientist: Similarity promotes positive perceptions and fosters trust in scientists</description>
   </item>
   <item>
-    <title>心理的定式化のための計算的枠組みの構築に向けて：概念的原理</title>
+    <title>心理学的構成のための計算的枠組みの構築に向けて：概念的原理</title>
     <link>https://osf.io/9jxfg</link>
     <guid isPermaLink="false">https://osf.io/9jxfg#ja</guid>
     <pubDate>Wed, 28 Jan 2026 17:57:07 +0000</pubDate>
@@ -132,7 +132,7 @@
     <description>Prevalence and Predictors of Complex Post-Traumatic stress disorder in a Community Cohort of Criminal-Justice-Involved Women in the UK</description>
   </item>
   <item>
-    <title>作業記憶における長期記憶の寄与：対側遅延活動の検討</title>
+    <title>作業記憶における長期記憶の寄与：対側遅延活動を用いた研究</title>
     <link>https://osf.io/3j47p</link>
     <guid isPermaLink="false">https://osf.io/3j47p#ja</guid>
     <pubDate>Wed, 28 Jan 2026 17:57:06 +0000</pubDate>
@@ -146,7 +146,7 @@
     <description>Personality Differences in Environmental Attitude-Intention-Behavior Patterns: A Person-Centered Approach</description>
   </item>
   <item>
-    <title>融合の混乱：マインドフルネス、神経症傾向、認知的融合の共通する物語</title>
+    <title>融合の混乱：マインドフルネス、神経症傾向、および認知的融合が示す共通の物語</title>
     <link>https://osf.io/psk49</link>
     <guid isPermaLink="false">https://osf.io/psk49#ja</guid>
     <pubDate>Wed, 28 Jan 2026 17:57:05 +0000</pubDate>
@@ -167,14 +167,14 @@
     <description>Effect of Artificial Intelligence on Learning: A Meta-Meta-Analysis</description>
   </item>
   <item>
-    <title>単語―非単語連合学習課題の開発と検証：イタリア語ウェブベース並行形式による宣言的記憶評価ツール</title>
+    <title>単語―非単語連合学習課題の開発と検証：宣言的記憶評価のためのイタリア語ウェブベース並行形式ツール</title>
     <link>https://osf.io/hdm8s</link>
     <guid isPermaLink="false">https://osf.io/hdm8s#ja</guid>
     <pubDate>Wed, 28 Jan 2026 17:28:53 +0000</pubDate>
     <description>Development and Validation of the Word-Pseudoword Associative Learning task: an Italian web-based parallel-forms tool for declarative memory assessment</description>
   </item>
   <item>
-    <title>記憶と実験者要求を超えて：科学的コンセンサスメッセージによる誤認識の是正</title>
+    <title>記憶と実験者要求を超えて：科学的コンセンサスメッセージが誤認識を修正する</title>
     <link>https://osf.io/a9nvg</link>
     <guid isPermaLink="false">https://osf.io/a9nvg#ja</guid>
     <pubDate>Wed, 28 Jan 2026 17:28:53 +0000</pubDate>
@@ -202,7 +202,7 @@
     <description>Sources of Pluralistic Ignorance: A Scoping Review and Tripartite Framework for Causes of Shared Social Misperceptions</description>
   </item>
   <item>
-    <title>実行機能の個人差が青少年の日常的な環境保護行動に与える影響</title>
+    <title>実行機能の個人差が青年期の環境配慮的日常行動に及ぼす影響</title>
     <link>https://osf.io/f2aer</link>
     <guid isPermaLink="false">https://osf.io/f2aer#ja</guid>
     <pubDate>Wed, 28 Jan 2026 09:36:53 +0000</pubDate>
@@ -230,7 +230,7 @@
     <description>EFA-Boosting: An Iterative Optimization Algorithm for Exploratory Factor Analysis</description>
   </item>
   <item>
-    <title>日常生活における摂食行動前後のストレスおよび感情の時間的推移</title>
+    <title>日常生活における摂食行動前後のストレスと感情の時間的推移</title>
     <link>https://osf.io/n2k86</link>
     <guid isPermaLink="false">https://osf.io/n2k86#ja</guid>
     <pubDate>Wed, 28 Jan 2026 01:23:38 +0000</pubDate>
@@ -300,14 +300,14 @@
     <description>Evaluating measurement (non)-invariance of the Secure Flourishing Index: A Bayesian moderated factor analysis approach</description>
   </item>
   <item>
-    <title>顔に目立つ違いを持つ個人に対する社会的偏見を変えることを目的とした介入の体系的レビュー</title>
+    <title>顔の外見に顕著な差異を持つ個人に対する社会的偏見を変容させるための介入に関する系統的レビュー</title>
     <link>https://osf.io/tk5qj</link>
     <guid isPermaLink="false">https://osf.io/tk5qj#ja</guid>
     <pubDate>Mon, 26 Jan 2026 20:21:33 +0000</pubDate>
     <description>A Systematic Review of Interventions Designed to Change Social Bias Towards Individuals with Visible Facial Differences.</description>
   </item>
   <item>
-    <title>融合の混乱：マインドフルネス、神経症傾向、および認知的融合が示す共通の物語</title>
+    <title>融合の混乱：マインドフルネス、神経症傾向、認知的融合が示す共通の物語</title>
     <link>https://osf.io/u6k5w</link>
     <guid isPermaLink="false">https://osf.io/u6k5w#ja</guid>
     <pubDate>Mon, 26 Jan 2026 20:21:33 +0000</pubDate>
@@ -328,7 +328,7 @@
     <description>National allostatic load in Iran: linking structural stress to population mental health</description>
   </item>
   <item>
-    <title>文化適応型弁証法的行動療法単回セッション介入の開発：柔軟なコントロールの促進</title>
+    <title>文化適応型弁証法的行動療法単回セッション介入の開発：柔軟な自己制御の促進</title>
     <link>https://osf.io/up8dn</link>
     <guid isPermaLink="false">https://osf.io/up8dn#ja</guid>
     <pubDate>Mon, 26 Jan 2026 20:21:32 +0000</pubDate>
