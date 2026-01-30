@@ -6,6 +6,13 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>循環データの取り扱い：認知・行動研究のためのチュートリアル</title>
+    <link>https://osf.io/5n64t</link>
+    <guid isPermaLink="false">https://osf.io/5n64t#ja</guid>
+    <pubDate>Fri, 30 Jan 2026 07:12:58 +0000</pubDate>
+    <description>Working with Circular Data: A Tutorial for Cognitive and Behavioral Research</description>
+  </item>
+  <item>
     <title>気候変動コミュニケーションにおける負の感情と正の感情の喚起が擁護行動を促進するメカニズム</title>
     <link>https://osf.io/24jpe</link>
     <guid isPermaLink="false">https://osf.io/24jpe#ja</guid>
@@ -27,7 +34,7 @@
     <description>Word Meaning</description>
   </item>
   <item>
-    <title>親密な対人関係における逆境的幼少期経験（ACEs）：意義あるエビデンスに基づく二者役割の区別の探求</title>
+    <title>親密な関係における逆境的児童期経験（ACEs）：意義あるエビデンスに基づく二者役割の区別の探求</title>
     <link>https://osf.io/m8zgb</link>
     <guid isPermaLink="false">https://osf.io/m8zgb#ja</guid>
     <pubDate>Thu, 29 Jan 2026 20:52:46 +0000</pubDate>
@@ -55,7 +62,7 @@
     <description>Surrounded by genes: Parental genetic effects on children’s mental health</description>
   </item>
   <item>
-    <title>ウルフパック対安全な群れ：性別、環境、および女性ファシズム論争</title>
+    <title>オオカミの群れと安全な群れ：性別、環境、そして女性ファシズム論争</title>
     <link>https://osf.io/j4t2p</link>
     <guid isPermaLink="false">https://osf.io/j4t2p#ja</guid>
     <pubDate>Thu, 29 Jan 2026 17:34:11 +0000</pubDate>
@@ -69,35 +76,35 @@
     <description>Modulating factors of the episodic–semantic continuum in autobiographical memory</description>
   </item>
   <item>
-    <title>AI時代における心理評価の完全性：批判的考察</title>
+    <title>AI時代における心理評価の完全性：批判的検討</title>
     <link>https://osf.io/jas7e</link>
     <guid isPermaLink="false">https://osf.io/jas7e#ja</guid>
     <pubDate>Thu, 29 Jan 2026 17:34:10 +0000</pubDate>
     <description>The Integrity of Psychology Assessments in the AI Age: A Critical Examination</description>
   </item>
   <item>
-    <title>無心的内的処理への窓としての心的無画像症</title>
+    <title>無心的内的処理への窓としての心的映像欠如症</title>
     <link>https://osf.io/rc9y7</link>
     <guid isPermaLink="false">https://osf.io/rc9y7#ja</guid>
     <pubDate>Thu, 29 Jan 2026 17:34:10 +0000</pubDate>
     <description>Aphantasia as a window into unconscious internal processing</description>
   </item>
   <item>
-    <title>ライプツィヒの青少年における生活満足度のジェンダーギャップ拡大の要因分析</title>
+    <title>ライプツィヒにおける青少年の生活満足度における性差拡大の要因分析</title>
     <link>https://osf.io/7ydcm</link>
     <guid isPermaLink="false">https://osf.io/7ydcm#ja</guid>
     <pubDate>Thu, 29 Jan 2026 14:37:17 +0000</pubDate>
     <description>Why Has the Gender Gap in Life Satisfaction Grown Among Adolescents in Leipzig?</description>
   </item>
   <item>
-    <title>大学生の完璧主義の予測因子：精神病質、自己愛性人格障害と完璧主義の関係におけるマキャヴェリズムと退屈感の媒介効果</title>
+    <title>大学生における完璧主義の予測因子：サイコパシー・ナルシシズムと完璧主義の関係におけるマキャヴェリズムおよび退屈感の媒介効果</title>
     <link>https://osf.io/m49wd</link>
     <guid isPermaLink="false">https://osf.io/m49wd#ja</guid>
     <pubDate>Thu, 29 Jan 2026 09:37:45 +0000</pubDate>
     <description>Predictors of perfectionism in college students: Machiavellianism and Boredom as mediators in the relationship between Psychopathy, Narcissism, and Perfectionism</description>
   </item>
   <item>
-    <title>潜在測定モデルの誤特定の種類と重症度を分類する機械学習パイプライン</title>
+    <title>潜在測定モデルにおける誤特定の種類と重症度を分類する機械学習パイプライン</title>
     <link>https://osf.io/84ftk</link>
     <guid isPermaLink="false">https://osf.io/84ftk#ja</guid>
     <pubDate>Thu, 29 Jan 2026 09:37:45 +0000</pubDate>
@@ -139,7 +146,7 @@
     <description>Nonhuman Animals as Relational Others: An Existential Metatheoretical Reframing of the Being-in-the-World Model</description>
   </item>
   <item>
-    <title>ピークパフォーマンスの潜在心理的決定要因に関する非パラメトリック探索的因子分析的検討</title>
+    <title>ピークパフォーマンスの潜在心理的要因に関するノンパラメトリック探索的因子分析的検討</title>
     <link>https://osf.io/bz3cr</link>
     <guid isPermaLink="false">https://osf.io/bz3cr#ja</guid>
     <pubDate>Thu, 29 Jan 2026 05:26:59 +0000</pubDate>
@@ -167,42 +174,42 @@
     <description>What we believe about supporting others in distress: Implications for providing social regulatory support and subsequent well-being</description>
   </item>
   <item>
-    <title>一つの手法に全ては適さない：二世代の構造方程式モデリング推定フレームワークの検証</title>
+    <title>一つの手法がすべてに適用できるわけではない：二世代の構造方程式モデリング推定フレームワークの検証</title>
     <link>https://osf.io/c98rj</link>
     <guid isPermaLink="false">https://osf.io/c98rj#ja</guid>
     <pubDate>Thu, 29 Jan 2026 05:26:58 +0000</pubDate>
     <description>No Single Approach Fits All: Testing Two Generations of Structural Equation Modeling Estimation Frameworks</description>
   </item>
   <item>
-    <title>AI会話相手は期待を上回り、人間の相手よりも予期不安を軽減する</title>
+    <title>AI会話相手は期待を上回り、人間の相手よりも予期不安を低減する</title>
     <link>https://osf.io/4wesj</link>
     <guid isPermaLink="false">https://osf.io/4wesj#ja</guid>
     <pubDate>Thu, 29 Jan 2026 05:26:57 +0000</pubDate>
     <description>AI conversation partners exceed expectations and elicit less anticipatory anxiety than human partners</description>
   </item>
   <item>
-    <title>アルツハイマー病における音楽の記憶性の要因：音楽、感情、記憶の関係における情動価依存性</title>
+    <title>アルツハイマー病における音楽の記憶性要因：音楽・感情・記憶の関係における情動価依存性</title>
     <link>https://osf.io/6eskx</link>
     <guid isPermaLink="false">https://osf.io/6eskx#ja</guid>
     <pubDate>Thu, 29 Jan 2026 05:26:57 +0000</pubDate>
     <description>What makes music memorable in Alzheimer’s disease? Valence dependency in relationships between music, emotions and memory</description>
   </item>
   <item>
-    <title>対話する心：幼児教育における集団の性別構成と教育者の心的状態言語の使用</title>
+    <title>話す心：幼児教育における集団の性別構成と教育者の心的状態言語の使用</title>
     <link>https://osf.io/ngpw8</link>
     <guid isPermaLink="false">https://osf.io/ngpw8#ja</guid>
     <pubDate>Thu, 29 Jan 2026 04:04:18 +0000</pubDate>
     <description>Talking Minds: Group Gender Composition and Educators’ Mental State Language in Early Childhood Education and Care</description>
   </item>
   <item>
-    <title>「『私』によるリーダーシップと『私たち』によるリーダーシップ：リーダーアイデンティティとチームアイデンティティに基づくリーダーの動機と行動」</title>
+    <title>「『私』としてのリーダーシップと『私たち』としてのリーダーシップ：リーダーアイデンティティとチームアイデンティティに基づくリーダーの動機と行動」</title>
     <link>https://osf.io/n72bc</link>
     <guid isPermaLink="false">https://osf.io/n72bc#ja</guid>
     <pubDate>Thu, 29 Jan 2026 04:04:17 +0000</pubDate>
     <description>Leading through ‘I’ versus ‘we’:  Leader motivation and behaviour rooted in leader identity and team identity</description>
   </item>
   <item>
-    <title>スマートフォン利用は一様ではない：利用目的の違いが心理的幸福感に及ぼす影響の差異</title>
+    <title>スマートフォン使用は一様ではない：使用目的が心理的幸福感に及ぼす異なる影響</title>
     <link>https://osf.io/4tbhw</link>
     <guid isPermaLink="false">https://osf.io/4tbhw#ja</guid>
     <pubDate>Wed, 28 Jan 2026 19:49:43 +0000</pubDate>
@@ -237,7 +244,7 @@
     <description>Common Variance of Satisfaction in Recreational Sport and Job and the Role of Mental Toughness: Mutual Antecedent or Mediator?</description>
   </item>
   <item>
-    <title>過眠症状と複雑性心的外傷後ストレス障害の関連性に関する症例シリーズの検討</title>
+    <title>過眠症と複雑性心的外傷後ストレス障害の関連性に関する症例シリーズの検討</title>
     <link>https://osf.io/kqv9w</link>
     <guid isPermaLink="false">https://osf.io/kqv9w#ja</guid>
     <pubDate>Wed, 28 Jan 2026 17:57:09 +0000</pubDate>
@@ -251,21 +258,21 @@
     <description>Modifying Risk Perception Through Emotion: An Experimental Study Using a Fear Appeal Video Intervention in a Driving Context</description>
   </item>
   <item>
-    <title>参加型システムマッピングによる支援が不足している自閉症者のプライマリーヘルスケア利用過程の探究</title>
+    <title>参加型システムマッピングによる支援が不十分な自閉症者のプライマリーヘルスケア利用過程の探究</title>
     <link>https://osf.io/8pcgu</link>
     <guid isPermaLink="false">https://osf.io/8pcgu#ja</guid>
     <pubDate>Wed, 28 Jan 2026 17:57:08 +0000</pubDate>
     <description>Participatory Systems Mapping to Explore Underserved Autistic People&#x27;s Journey through Primary Healthcare</description>
   </item>
   <item>
-    <title>理論に基づくメッセージによる大腸がん検診未受診者、無応答者および過去受診者の検診率向上に関する原理実証ランダム化比較試験</title>
+    <title>理論に基づくメッセージを用いた大腸がん検診未受検者、無応答者および過去受検者に対するスクリーニング促進のための原理検証ランダム化比較試験</title>
     <link>https://osf.io/udv6a</link>
     <guid isPermaLink="false">https://osf.io/udv6a#ja</guid>
     <pubDate>Wed, 28 Jan 2026 17:57:08 +0000</pubDate>
     <description>Proof of principle randomised controlled trial of theory-based messages to increase colorectal cancer screening in never-testers, non-responders, and prior-testers</description>
   </item>
   <item>
-    <title>三者課題による複雑な信念構造の評価：課題設計の効率性と分析レベルの検討</title>
+    <title>三項課題による複雑な信念構造の評価：課題設計の効率性と分析レベルの検討</title>
     <link>https://osf.io/ubc85</link>
     <guid isPermaLink="false">https://osf.io/ubc85#ja</guid>
     <pubDate>Wed, 28 Jan 2026 17:57:08 +0000</pubDate>
@@ -293,14 +300,14 @@
     <description>Like a scientist: Similarity promotes positive perceptions and fosters trust in scientists</description>
   </item>
   <item>
-    <title>心理的構成のための計算的枠組みの構築に向けて：概念的原理</title>
+    <title>心理的定式化のための計算的枠組みの構築に向けて：概念的原理</title>
     <link>https://osf.io/9jxfg</link>
     <guid isPermaLink="false">https://osf.io/9jxfg#ja</guid>
     <pubDate>Wed, 28 Jan 2026 17:57:07 +0000</pubDate>
     <description>Towards a Computational Framework for Psychological Formulation: Conceptual Principles</description>
   </item>
   <item>
-    <title>妥当性は正当性に優るか？境界性パーソナリティ障害の診断的擁護の再考：ラファロ（2026）への応答</title>
+    <title>妥当性は正当性なきか？境界性パーソナリティ障害の診断的擁護の再考：ラファロ（2026）への応答</title>
     <link>https://osf.io/fjvde</link>
     <guid isPermaLink="false">https://osf.io/fjvde#ja</guid>
     <pubDate>Wed, 28 Jan 2026 17:57:06 +0000</pubDate>
@@ -328,7 +335,7 @@
     <description>Personality Differences in Environmental Attitude-Intention-Behavior Patterns: A Person-Centered Approach</description>
   </item>
   <item>
-    <title>融合の混乱：マインドフルネス、神経症傾向、および認知的融合が示す共通の物語</title>
+    <title>融合の混乱：マインドフルネス、神経症傾向、認知的融合が示す共通の物語</title>
     <link>https://osf.io/psk49</link>
     <guid isPermaLink="false">https://osf.io/psk49#ja</guid>
     <pubDate>Wed, 28 Jan 2026 17:57:05 +0000</pubDate>
@@ -347,13 +354,6 @@
     <guid isPermaLink="false">https://osf.io/h529e#ja</guid>
     <pubDate>Wed, 28 Jan 2026 17:28:53 +0000</pubDate>
     <description>Effect of Artificial Intelligence on Learning: A Meta-Meta-Analysis</description>
-  </item>
-  <item>
-    <title>単語―擬似単語連合学習課題の開発と検証：宣言的記憶評価のためのイタリア語ウェブベース並行形式ツール</title>
-    <link>https://osf.io/hdm8s</link>
-    <guid isPermaLink="false">https://osf.io/hdm8s#ja</guid>
-    <pubDate>Wed, 28 Jan 2026 17:28:53 +0000</pubDate>
-    <description>Development and Validation of the Word-Pseudoword Associative Learning task: an Italian web-based parallel-forms tool for declarative memory assessment</description>
   </item>
 </channel>
 </rss>
