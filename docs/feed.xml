@@ -6,6 +6,27 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>脳の道徳的カスケード：規範に基づく意思決定時の大規模脳ネットワーク動態</title>
+    <link>https://osf.io/qa73z</link>
+    <guid isPermaLink="false">https://osf.io/qa73z#ja</guid>
+    <pubDate>Fri, 30 Jan 2026 21:47:49 +0000</pubDate>
+    <description>The brain’s moral cascade: Large-scale brain networks dynamics during norm-guided decision</description>
+  </item>
+  <item>
+    <title>スコアボードを超えて：アメリカンフットボールファンの日常における言語行動とアイデンティティ構築</title>
+    <link>https://osf.io/heu68</link>
+    <guid isPermaLink="false">https://osf.io/heu68#ja</guid>
+    <pubDate>Fri, 30 Jan 2026 21:47:49 +0000</pubDate>
+    <description>Beyond the Scoreboard: Verbal Behavior and Identity Construction for American Football Fans in Daily Life</description>
+  </item>
+  <item>
+    <title>所属感の欠如を伴う存在感：自閉症における孤独の概念分析</title>
+    <link>https://osf.io/rjeus</link>
+    <guid isPermaLink="false">https://osf.io/rjeus#ja</guid>
+    <pubDate>Fri, 30 Jan 2026 21:47:48 +0000</pubDate>
+    <description>Presence without Belonging: A Conceptual Analysis of Loneliness in Autism</description>
+  </item>
+  <item>
     <title>感情調整の個別的動的システムとしての日常生活における目標志向的調整成功の個人差</title>
     <link>https://osf.io/dhauc</link>
     <guid isPermaLink="false">https://osf.io/dhauc#ja</guid>
@@ -13,21 +34,21 @@
     <description>Emotion regulation as an idiographic dynamic system: Individual differences in success of goal-directed regulation in daily life</description>
   </item>
   <item>
-    <title>簡報：拒絶感受性と助言探索が感情調整の使用と効果に及ぼす影響</title>
+    <title>簡易報告：拒絶感受性と助言探索が情動調整の使用および効果に与える影響</title>
     <link>https://osf.io/3bjx9</link>
     <guid isPermaLink="false">https://osf.io/3bjx9#ja</guid>
     <pubDate>Fri, 30 Jan 2026 16:51:29 +0000</pubDate>
     <description>Brief Report: How rejection sensitivity and advice seeking influence emotion regulation use and effectiveness</description>
   </item>
   <item>
-    <title>競合注意課題を用いた小児ADHDにおける注意と覚醒過程の解離</title>
+    <title>競争的注意課題を用いた小児ADHDにおける注意と覚醒過程の解離</title>
     <link>https://osf.io/h7fw5</link>
     <guid isPermaLink="false">https://osf.io/h7fw5#ja</guid>
     <pubDate>Fri, 30 Jan 2026 16:51:29 +0000</pubDate>
     <description>Dissociating attention and arousal processes in pediatric ADHD  using the Competitive Attention Test</description>
   </item>
   <item>
-    <title>精神障害リスク増大者における日常生活の生態学的瞬間介入（ALERT）を用いたメンタルヘルス支援：マイクロランダム化試験</title>
+    <title>精神障害リスク増大者における生活場面即時介入（ALERT）を用いたメンタルヘルス支援：マイクロランダム化試験</title>
     <link>https://osf.io/p2z8b</link>
     <guid isPermaLink="false">https://osf.io/p2z8b#ja</guid>
     <pubDate>Fri, 30 Jan 2026 16:51:28 +0000</pubDate>
@@ -41,7 +62,7 @@
     <description>Investigating Measurement Invariance Across Situations in Intensive Longitudinal Data</description>
   </item>
   <item>
-    <title>「Stravaが私にさせた」：アスリート向けソーシャルネットワークにおける社会的比較と（自己）監視の心理的影響</title>
+    <title>「Stravaが私を動かした」：アスリート向けソーシャルネットワークにおける社会的比較と（自己）監視の心理的影響</title>
     <link>https://osf.io/4gajv</link>
     <guid isPermaLink="false">https://osf.io/4gajv#ja</guid>
     <pubDate>Fri, 30 Jan 2026 16:51:28 +0000</pubDate>
@@ -55,14 +76,14 @@
     <description>Religious disparities in mental health: a systematic review and conceptual framework</description>
   </item>
   <item>
-    <title>多層神経心理デジタルツインに基づく実行機能およびメタ認知の生涯神経心理評価の自動化パイプライン</title>
+    <title>多層ニューロサイコロジカルデジタルツインに基づく実行機能およびメタ認知の生涯神経心理評価の自動化パイプライン</title>
     <link>https://osf.io/xu9j8</link>
     <guid isPermaLink="false">https://osf.io/xu9j8#ja</guid>
     <pubDate>Fri, 30 Jan 2026 16:51:27 +0000</pubDate>
     <description>An automated pipeline for lifespan neuropsychological assessment of executive functions and metacognition based on multi-layer neuropsychological digital twins</description>
   </item>
   <item>
-    <title>社会的脅威に直面した際の接近・回避意思決定における速度-精度トレードオフの運動学的符号化</title>
+    <title>社会的脅威に直面した際の接近・回避意思決定における速度-正確性トレードオフの運動学的符号化</title>
     <link>https://osf.io/dwgb5</link>
     <guid isPermaLink="false">https://osf.io/dwgb5#ja</guid>
     <pubDate>Fri, 30 Jan 2026 12:44:25 +0000</pubDate>
@@ -83,21 +104,21 @@
     <description>Reducing Load, Fostering Curiosity: Empirical Validation of the IMCLM-XR</description>
   </item>
   <item>
-    <title>孤立閉鎖極限環境（ICE）における心理的対策：2021年から2026年までの系統的レビュー</title>
+    <title>孤立閉鎖極限環境（ICE）における心理的対策：2021年から2026年の系統的レビュー</title>
     <link>https://osf.io/k6awq</link>
     <guid isPermaLink="false">https://osf.io/k6awq#ja</guid>
     <pubDate>Fri, 30 Jan 2026 11:02:59 +0000</pubDate>
     <description>Psychological countermeasures in Isolated Confined and Extreme (ICE) Environment: A Systematic Review (2021-2026)</description>
   </item>
   <item>
-    <title>日常生活におけるゆっくりとした呼吸の即時的な知覚的および生理的ストレス軽減効果</title>
+    <title>日常生活におけるゆっくりとした呼吸法の即時的な知覚的および生理的ストレス軽減効果</title>
     <link>https://osf.io/b9e3g</link>
     <guid isPermaLink="false">https://osf.io/b9e3g#ja</guid>
     <pubDate>Fri, 30 Jan 2026 11:02:58 +0000</pubDate>
     <description>The Immediate Perceived and Physiological Stress-Lowering Effect of Slow-Paced Breathing in Daily Life</description>
   </item>
   <item>
-    <title>単回セッションデザインを用いたデジタルHIVケア拡大のための適応型介入マッピングアプローチ</title>
+    <title>単回セッションデザインによるデジタルHIVケア拡大のための適応型介入マッピング手法</title>
     <link>https://osf.io/a3hk9</link>
     <guid isPermaLink="false">https://osf.io/a3hk9#ja</guid>
     <pubDate>Fri, 30 Jan 2026 08:45:13 +0000</pubDate>
@@ -111,7 +132,7 @@
     <description>Effects of episodic future thinking on time discounting across adulthood</description>
   </item>
   <item>
-    <title>身体的リテラシーの解明：青少年の身体活動理解に向けた心理学的ネットワークアプローチ</title>
+    <title>身体的リテラシーの解明：若年層の身体活動理解に向けた心理学的ネットワークアプローチ</title>
     <link>https://osf.io/d2wby</link>
     <guid isPermaLink="false">https://osf.io/d2wby#ja</guid>
     <pubDate>Fri, 30 Jan 2026 07:58:24 +0000</pubDate>
@@ -139,7 +160,7 @@
     <description>Climate Communications Evoking both Negative and Positive Emotions Drive Advocacy</description>
   </item>
   <item>
-    <title>サッケードは視覚的作業記憶における注意フィルタリングを一時的に阻害する</title>
+    <title>サッカードは視覚的作業記憶の注意フィルタリングを一時的に阻害する</title>
     <link>https://osf.io/ec4ku</link>
     <guid isPermaLink="false">https://osf.io/ec4ku#ja</guid>
     <pubDate>Thu, 29 Jan 2026 21:49:58 +0000</pubDate>
@@ -153,7 +174,7 @@
     <description>Word Meaning</description>
   </item>
   <item>
-    <title>親密な対人関係における逆境的幼少期経験（ACEs）：意義ある実証的二者役割区別の探求</title>
+    <title>親密な関係における逆境的幼少期経験（ACEs）：有意義なエビデンスに基づく二者役割の区別の探求</title>
     <link>https://osf.io/m8zgb</link>
     <guid isPermaLink="false">https://osf.io/m8zgb#ja</guid>
     <pubDate>Thu, 29 Jan 2026 20:52:46 +0000</pubDate>
@@ -181,7 +202,7 @@
     <description>Surrounded by genes: Parental genetic effects on children’s mental health</description>
   </item>
   <item>
-    <title>ウルフパック対安全な群れ：性別、環境、そして女性ファシズム論争</title>
+    <title>ウルフパック対安全な群れ：性別、環境、および女性ファシズム論争</title>
     <link>https://osf.io/j4t2p</link>
     <guid isPermaLink="false">https://osf.io/j4t2p#ja</guid>
     <pubDate>Thu, 29 Jan 2026 17:34:11 +0000</pubDate>
@@ -216,7 +237,7 @@
     <description>Why Has the Gender Gap in Life Satisfaction Grown Among Adolescents in Leipzig?</description>
   </item>
   <item>
-    <title>大学生における完璧主義の予測因子：サイコパシー・ナルシシズムと完璧主義の関係におけるマキャヴェリズムおよび退屈感の媒介効果</title>
+    <title>大学生における完璧主義の予測因子：精神病質・自己愛性と完璧主義の関係におけるマキャヴェリズムおよび退屈感の媒介効果</title>
     <link>https://osf.io/m49wd</link>
     <guid isPermaLink="false">https://osf.io/m49wd#ja</guid>
     <pubDate>Thu, 29 Jan 2026 09:37:45 +0000</pubDate>
@@ -230,14 +251,14 @@
     <description>A Machine Learning Pipeline to Classify the Type and Severity of Misspecifications in Latent Measurement Models</description>
   </item>
   <item>
-    <title>臨床心理学における混同記憶と虚偽記憶：理論的視点と臨床的意義の検討</title>
+    <title>臨床心理学における混同記憶と虚偽記憶：理論的視点と臨床的意義のレビュー</title>
     <link>https://osf.io/h68bc</link>
     <guid isPermaLink="false">https://osf.io/h68bc#ja</guid>
     <pubDate>Thu, 29 Jan 2026 09:37:44 +0000</pubDate>
     <description>Confabulation and False Memory in Clinical Psychology: A Review of Theoretical Perspectives and Clinical Implications</description>
   </item>
   <item>
-    <title>M4 - アスリートのメンタルウェルネスにおけるSOS療法：オリンピック体操選手のケーススタディ</title>
+    <title>M4 - アスリートのメンタルウェルネスにおけるSOS療法：オリンピック体操選手の事例研究</title>
     <link>https://osf.io/ug7sy</link>
     <guid isPermaLink="false">https://osf.io/ug7sy#ja</guid>
     <pubDate>Thu, 29 Jan 2026 09:37:44 +0000</pubDate>
@@ -265,7 +286,7 @@
     <description>Nonhuman Animals as Relational Others: An Existential Metatheoretical Reframing of the Being-in-the-World Model</description>
   </item>
   <item>
-    <title>ピークパフォーマンスの潜在心理的決定要因に関する非パラメトリック探索的因子分析的検討</title>
+    <title>ピークパフォーマンスの潜在心理的決定要因に関するノンパラメトリック探索的因子分析的検討</title>
     <link>https://osf.io/bz3cr</link>
     <guid isPermaLink="false">https://osf.io/bz3cr#ja</guid>
     <pubDate>Thu, 29 Jan 2026 05:26:59 +0000</pubDate>
@@ -279,81 +300,60 @@
     <description>Object Recognition from Dynamic Cues: Examining the Inversion Eﬀect</description>
   </item>
   <item>
-    <title>一冊の絵本、二つの心：兄弟間における物語語り中の母親の心的状態表現の違いの理解</title>
+    <title>一冊の本、二つの心：兄弟間における物語語り中の母親の心的状態言及の違いの理解</title>
     <link>https://osf.io/jkr3y</link>
     <guid isPermaLink="false">https://osf.io/jkr3y#ja</guid>
     <pubDate>Thu, 29 Jan 2026 05:26:58 +0000</pubDate>
     <description>One book, two minds: Understanding differences in maternal mental state talk during storytelling across siblings</description>
   </item>
   <item>
-    <title>困難にある他者を支援することに関する信念：社会的調整支援の提供とその後のウェルビーイングへの影響</title>
+    <title>困難にある他者を支援することに関する信念：社会的調整支援の提供とその後の幸福感への影響</title>
     <link>https://osf.io/qz5bu</link>
     <guid isPermaLink="false">https://osf.io/qz5bu#ja</guid>
     <pubDate>Thu, 29 Jan 2026 05:26:58 +0000</pubDate>
     <description>What we believe about supporting others in distress: Implications for providing social regulatory support and subsequent well-being</description>
   </item>
   <item>
-    <title>一つの手法がすべてに適合するわけではない：二世代の構造方程式モデリング推定フレームワークの検証</title>
+    <title>一つの方法ですべてに対応できない：二世代の構造方程式モデリング推定フレームワークの検証</title>
     <link>https://osf.io/c98rj</link>
     <guid isPermaLink="false">https://osf.io/c98rj#ja</guid>
     <pubDate>Thu, 29 Jan 2026 05:26:58 +0000</pubDate>
     <description>No Single Approach Fits All: Testing Two Generations of Structural Equation Modeling Estimation Frameworks</description>
   </item>
   <item>
-    <title>AI会話相手は期待を上回り、人間の相手よりも予期不安を低減する</title>
+    <title>AI対話相手は期待を上回り、人間の対話相手よりも予期不安を低減する</title>
     <link>https://osf.io/4wesj</link>
     <guid isPermaLink="false">https://osf.io/4wesj#ja</guid>
     <pubDate>Thu, 29 Jan 2026 05:26:57 +0000</pubDate>
     <description>AI conversation partners exceed expectations and elicit less anticipatory anxiety than human partners</description>
   </item>
   <item>
-    <title>アルツハイマー病における音楽の記憶性の要因：音楽・感情・記憶の関係における情動価依存性</title>
+    <title>アルツハイマー病における音楽の記憶性の要因：音楽・感情・記憶の関係における情動価の依存性</title>
     <link>https://osf.io/6eskx</link>
     <guid isPermaLink="false">https://osf.io/6eskx#ja</guid>
     <pubDate>Thu, 29 Jan 2026 05:26:57 +0000</pubDate>
     <description>What makes music memorable in Alzheimer’s disease? Valence dependency in relationships between music, emotions and memory</description>
   </item>
   <item>
-    <title>対話する心：幼児教育における集団の性別構成と教育者の心的状態言語の使用</title>
+    <title>対話する心：幼児教育における集団の性別構成と教育者の心的状態言語の関係</title>
     <link>https://osf.io/ngpw8</link>
     <guid isPermaLink="false">https://osf.io/ngpw8#ja</guid>
     <pubDate>Thu, 29 Jan 2026 04:04:18 +0000</pubDate>
-    <description>Talking Minds: Group Gender Composition and Educators&#x27; Mental State Language in Early Childhood Education and Care</description>
+    <description>Talking Minds: Group Gender Composition and Educators’ Mental State Language in Early Childhood Education and Care</description>
   </item>
   <item>
-    <title>「『私』としてのリーダーシップと『私たち』としてのリーダーシップ：リーダーアイデンティティとチームアイデンティティに基づくリーダーの動機と行動」</title>
+    <title>「『私』としてのリーダーシップと『私たち』としてのリーダーシップ：リーダーの動機づけと行動におけるリーダーアイデンティティとチームアイデンティティの役割」</title>
     <link>https://osf.io/n72bc</link>
     <guid isPermaLink="false">https://osf.io/n72bc#ja</guid>
     <pubDate>Thu, 29 Jan 2026 04:04:17 +0000</pubDate>
     <description>Leading through ‘I’ versus ‘we’:  Leader motivation and behaviour rooted in leader identity and team identity</description>
   </item>
   <item>
-    <title>スマートフォン利用は一様ではない：利用目的が心理的幸福感に及ぼす異なる影響</title>
+    <title>スマートフォン使用は一様ではない：使用目的が心理的幸福感に及ぼす異なる影響</title>
     <link>https://osf.io/4tbhw</link>
     <guid isPermaLink="false">https://osf.io/4tbhw#ja</guid>
     <pubDate>Wed, 28 Jan 2026 19:49:43 +0000</pubDate>
     <description>Not All Smartphone Use is Equal: Differential Effects of Smartphone Use Purposes on Psychological Well-Being</description>
-  </item>
-  <item>
-    <title>状況特異的期待価値理論における個人要因と状況要因の相互作用：数学領域における学生の状況特異的動機づけの交差分類分析</title>
-    <link>https://osf.io/47ysz</link>
-    <guid isPermaLink="false">https://osf.io/47ysz#ja</guid>
-    <pubDate>Wed, 28 Jan 2026 19:49:43 +0000</pubDate>
-    <description>The Interplay of Personal and Situational Factors in Situated Expectancy-Value Theory: Cross-Classified Analyses of Students’ Situation-Specific Motivations in the Math Domain</description>
-  </item>
-  <item>
-    <title>報酬系機能は肯定的情動の安定化を通じてレジリエンスを促進する</title>
-    <link>https://osf.io/zg27s</link>
-    <guid isPermaLink="false">https://osf.io/zg27s#ja</guid>
-    <pubDate>Wed, 28 Jan 2026 19:49:43 +0000</pubDate>
-    <description>Reward system function stabilizes positive affect to foster resilience</description>
-  </item>
-  <item>
-    <title>ウェブカメラ技術を用いた自然環境下での心拍監視を促進する遠隔光電容積脈波計測（rPPG）の進展</title>
-    <link>https://osf.io/mgd7k</link>
-    <guid isPermaLink="false">https://osf.io/mgd7k#ja</guid>
-    <pubDate>Wed, 28 Jan 2026 18:38:35 +0000</pubDate>
-    <description>Advancing Remote Photoplethysmography (rPPG) to Facilitate Cardiac Monitoring in Naturalistic Settings Using Webcam Technology</description>
   </item>
 </channel>
 </rss>
