@@ -6,7 +6,21 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>性的暴行時の周辺反応：暴行の特性および精神健康との関連性</title>
+    <title>模擬政治候補者に対する接種介入の印象形成への影響</title>
+    <link>https://osf.io/asg5k</link>
+    <guid isPermaLink="false">https://osf.io/asg5k#ja</guid>
+    <pubDate>Fri, 30 Jan 2026 22:51:50 +0000</pubDate>
+    <description>Effects of inoculation interventions on impressions of mock political candidates</description>
+  </item>
+  <item>
+    <title>一般化された政治的態度における二者間ダイナミクス：類似性、関係満足度、および収束</title>
+    <link>https://osf.io/eub46</link>
+    <guid isPermaLink="false">https://osf.io/eub46#ja</guid>
+    <pubDate>Fri, 30 Jan 2026 22:51:49 +0000</pubDate>
+    <description>Dyadic Dynamic in Generalized Political Attitudes: Homophily, Relationship Satisfaction, and Convergence</description>
+  </item>
+  <item>
+    <title>性的暴行時の周辺反応：暴行の特徴および精神健康との関連性</title>
     <link>https://osf.io/anvec</link>
     <guid isPermaLink="false">https://osf.io/anvec#ja</guid>
     <pubDate>Fri, 30 Jan 2026 22:20:49 +0000</pubDate>
@@ -62,7 +76,7 @@
     <description>Dissociating attention and arousal processes in pediatric ADHD  using the Competitive Attention Test</description>
   </item>
   <item>
-    <title>精神障害リスク増大者における日常生活の生態学的瞬間介入（ALERT）を用いたメンタルヘルス支援：マイクロランダム化試験</title>
+    <title>精神障害リスク増大者における生活場面即時介入（ALERT）を用いたメンタルヘルス支援：マイクロランダム化試験</title>
     <link>https://osf.io/p2z8b</link>
     <guid isPermaLink="false">https://osf.io/p2z8b#ja</guid>
     <pubDate>Fri, 30 Jan 2026 16:51:28 +0000</pubDate>
@@ -83,14 +97,14 @@
     <description>“Strava made me do it”: Psychological effects of social comparison and (self-)surveillance on a social network for athletes</description>
   </item>
   <item>
-    <title>精神健康における宗教的格差：体系的レビューと概念的枠組み</title>
+    <title>精神健康における宗教的格差：系統的レビューと概念的枠組み</title>
     <link>https://osf.io/bzkep</link>
     <guid isPermaLink="false">https://osf.io/bzkep#ja</guid>
     <pubDate>Fri, 30 Jan 2026 16:51:27 +0000</pubDate>
     <description>Religious disparities in mental health: a systematic review and conceptual framework</description>
   </item>
   <item>
-    <title>多層ニューロサイコロジカルデジタルツインに基づく実行機能およびメタ認知の生涯神経心理評価の自動化パイプライン</title>
+    <title>多層神経心理デジタルツインに基づく実行機能およびメタ認知の生涯神経心理評価の自動化パイプライン</title>
     <link>https://osf.io/xu9j8</link>
     <guid isPermaLink="false">https://osf.io/xu9j8#ja</guid>
     <pubDate>Fri, 30 Jan 2026 16:51:27 +0000</pubDate>
@@ -104,7 +118,7 @@
     <description>Kinematic encoding of the speed-accuracy trade-off in approach/avoidance decisions when facing social threats</description>
   </item>
   <item>
-    <title>自己愛的養育、境界性パーソナリティ特性および自律神経系機能異常の収束的混合法的検討</title>
+    <title>自己愛的養育、境界性パーソナリティ特性および自律神経系機能異常の収束的混合方法研究</title>
     <link>https://osf.io/6prbg</link>
     <guid isPermaLink="false">https://osf.io/6prbg#ja</guid>
     <pubDate>Fri, 30 Jan 2026 11:48:57 +0000</pubDate>
@@ -125,14 +139,14 @@
     <description>Psychological countermeasures in Isolated Confined and Extreme (ICE) Environment: A Systematic Review (2021-2026)</description>
   </item>
   <item>
-    <title>日常生活におけるゆっくりとした呼吸の即時的な知覚的および生理的ストレス低減効果</title>
+    <title>日常生活におけるゆっくり呼吸の即時的な知覚的および生理的ストレス軽減効果</title>
     <link>https://osf.io/b9e3g</link>
     <guid isPermaLink="false">https://osf.io/b9e3g#ja</guid>
     <pubDate>Fri, 30 Jan 2026 11:02:58 +0000</pubDate>
     <description>The Immediate Perceived and Physiological Stress-Lowering Effect of Slow-Paced Breathing in Daily Life</description>
   </item>
   <item>
-    <title>単回セッションデザインを用いたデジタルHIVケアの拡大に向けた適応型介入マッピング手法</title>
+    <title>単回セッションデザインによるデジタルHIVケア拡大のための適応型介入マッピングアプローチ</title>
     <link>https://osf.io/a3hk9</link>
     <guid isPermaLink="false">https://osf.io/a3hk9#ja</guid>
     <pubDate>Fri, 30 Jan 2026 08:45:13 +0000</pubDate>
@@ -153,7 +167,7 @@
     <description>Unraveling Physical Literacy: A Psychological Network Approach to Understanding Youth Physical Activity</description>
   </item>
   <item>
-    <title>人は非協力的ルールを受け入れるか</title>
+    <title>人々は非協力的ルールを選択する心理メカニズム</title>
     <link>https://osf.io/8f35u</link>
     <guid isPermaLink="false">https://osf.io/8f35u#ja</guid>
     <pubDate>Fri, 30 Jan 2026 07:58:24 +0000</pubDate>
@@ -181,14 +195,14 @@
     <description>Saccades temporarily disrupt attentional filtering for visual working memory</description>
   </item>
   <item>
-    <title>単語の意味</title>
+    <title>語の意味</title>
     <link>https://osf.io/2xeun</link>
     <guid isPermaLink="false">https://osf.io/2xeun#ja</guid>
     <pubDate>Thu, 29 Jan 2026 21:49:58 +0000</pubDate>
     <description>Word Meaning</description>
   </item>
   <item>
-    <title>親密な関係における逆境的幼少期経験（ACEs）：意義あるエビデンスに基づく二者役割の区別の探求</title>
+    <title>親密な関係における逆境的幼少期経験（ACEs）：意義ある証拠に基づく二者役割の区別の探求</title>
     <link>https://osf.io/m8zgb</link>
     <guid isPermaLink="false">https://osf.io/m8zgb#ja</guid>
     <pubDate>Thu, 29 Jan 2026 20:52:46 +0000</pubDate>
@@ -223,7 +237,7 @@
     <description>Wolf Packs vs. Safe Herds: Sex, Milieu, and the Gynofascism Debate</description>
   </item>
   <item>
-    <title>自伝的記憶におけるエピソード記憶–意味記憶連続体の調節因子</title>
+    <title>自伝的記憶におけるエピソード記憶－意味記憶連続体の調節因子</title>
     <link>https://osf.io/nzp5m</link>
     <guid isPermaLink="false">https://osf.io/nzp5m#ja</guid>
     <pubDate>Thu, 29 Jan 2026 17:34:10 +0000</pubDate>
@@ -244,14 +258,14 @@
     <description>Aphantasia as a window into unconscious internal processing</description>
   </item>
   <item>
-    <title>ライプツィヒの青少年における生活満足度の性差拡大の要因分析</title>
+    <title>ライプツィヒにおける青少年の生活満足度における性差拡大の要因分析</title>
     <link>https://osf.io/7ydcm</link>
     <guid isPermaLink="false">https://osf.io/7ydcm#ja</guid>
     <pubDate>Thu, 29 Jan 2026 14:37:17 +0000</pubDate>
     <description>Why Has the Gender Gap in Life Satisfaction Grown Among Adolescents in Leipzig?</description>
   </item>
   <item>
-    <title>大学生の完璧主義の予測因子：サイコパシー・ナルシシズムと完璧主義の関係におけるマキャヴェリズムおよび退屈感の媒介効果</title>
+    <title>大学生の完璧主義の予測因子：精神病質、自己愛性パーソナリティと完璧主義の関係におけるマキャヴェリズムと退屈感の媒介効果</title>
     <link>https://osf.io/m49wd</link>
     <guid isPermaLink="false">https://osf.io/m49wd#ja</guid>
     <pubDate>Thu, 29 Jan 2026 09:37:45 +0000</pubDate>
@@ -265,7 +279,7 @@
     <description>A Machine Learning Pipeline to Classify the Type and Severity of Misspecifications in Latent Measurement Models</description>
   </item>
   <item>
-    <title>臨床心理学における混同記憶と虚偽記憶：理論的視点と臨床的意義のレビュー</title>
+    <title>臨床心理学における混同記憶と虚偽記憶：理論的視点と臨床的意義の検討</title>
     <link>https://osf.io/h68bc</link>
     <guid isPermaLink="false">https://osf.io/h68bc#ja</guid>
     <pubDate>Thu, 29 Jan 2026 09:37:44 +0000</pubDate>
@@ -279,7 +293,7 @@
     <description>M4 - SOS Therapies in Athletes’ Mental Wellness: Case Study of an Olympian Gymnast</description>
   </item>
   <item>
-    <title>受動的および能動的自殺念慮の個別パターンの解明：個人特異的ネットワークモデリングによる探究</title>
+    <title>受動的および能動的自殺念慮の個別パターンの解明：個人特異的ネットワークモデリングによる検討</title>
     <link>https://osf.io/j3k6u</link>
     <guid isPermaLink="false">https://osf.io/j3k6u#ja</guid>
     <pubDate>Thu, 29 Jan 2026 05:27:00 +0000</pubDate>
@@ -300,7 +314,7 @@
     <description>Nonhuman Animals as Relational Others: An Existential Metatheoretical Reframing of the Being-in-the-World Model</description>
   </item>
   <item>
-    <title>ピークパフォーマンスの潜在心理的要因に関するノンパラメトリック探索的因子分析的検討</title>
+    <title>ピークパフォーマンスの潜在心理的決定要因に関するノンパラメトリック探索的因子分析研究</title>
     <link>https://osf.io/bz3cr</link>
     <guid isPermaLink="false">https://osf.io/bz3cr#ja</guid>
     <pubDate>Thu, 29 Jan 2026 05:26:59 +0000</pubDate>
@@ -314,7 +328,7 @@
     <description>Object Recognition from Dynamic Cues: Examining the Inversion Eﬀect</description>
   </item>
   <item>
-    <title>一冊の絵本、二つの心：兄弟姉妹間における物語語り中の母親の心的状態言及の違いの理解</title>
+    <title>一冊の本、二つの心：兄弟間における物語語り中の母親の心的状態言及の違いの理解</title>
     <link>https://osf.io/jkr3y</link>
     <guid isPermaLink="false">https://osf.io/jkr3y#ja</guid>
     <pubDate>Thu, 29 Jan 2026 05:26:58 +0000</pubDate>
@@ -328,32 +342,18 @@
     <description>What we believe about supporting others in distress: Implications for providing social regulatory support and subsequent well-being</description>
   </item>
   <item>
-    <title>一つの手法に全ては適さない：二世代の構造方程式モデリング推定フレームワークの検証</title>
+    <title>一つの手法がすべてに適用できるわけではない：二世代の構造方程式モデリング推定フレームワークの検証</title>
     <link>https://osf.io/c98rj</link>
     <guid isPermaLink="false">https://osf.io/c98rj#ja</guid>
     <pubDate>Thu, 29 Jan 2026 05:26:58 +0000</pubDate>
     <description>No Single Approach Fits All: Testing Two Generations of Structural Equation Modeling Estimation Frameworks</description>
   </item>
   <item>
-    <title>AI会話パートナーは期待を上回り、人間のパートナーよりも予期不安を低減する</title>
+    <title>AI会話パートナーは期待を上回り、人間のパートナーよりも予期不安を軽減する</title>
     <link>https://osf.io/4wesj</link>
     <guid isPermaLink="false">https://osf.io/4wesj#ja</guid>
     <pubDate>Thu, 29 Jan 2026 05:26:57 +0000</pubDate>
     <description>AI conversation partners exceed expectations and elicit less anticipatory anxiety than human partners</description>
-  </item>
-  <item>
-    <title>アルツハイマー病における音楽の記憶性の要因：音楽・感情・記憶の関係における情動価依存性</title>
-    <link>https://osf.io/6eskx</link>
-    <guid isPermaLink="false">https://osf.io/6eskx#ja</guid>
-    <pubDate>Thu, 29 Jan 2026 05:26:57 +0000</pubDate>
-    <description>What makes music memorable in Alzheimer’s disease? Valence dependency in relationships between music, emotions and memory</description>
-  </item>
-  <item>
-    <title>対話する心：幼児教育における集団の性別構成と教育者の心的状態言語の使用</title>
-    <link>https://osf.io/ngpw8</link>
-    <guid isPermaLink="false">https://osf.io/ngpw8#ja</guid>
-    <pubDate>Thu, 29 Jan 2026 04:04:18 +0000</pubDate>
-    <description>Talking Minds: Group Gender Composition and Educators’ Mental State Language in Early Childhood Education and Care</description>
   </item>
 </channel>
 </rss>
