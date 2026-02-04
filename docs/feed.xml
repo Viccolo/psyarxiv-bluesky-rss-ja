@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>オンラインにおける人間行動クラウドソーシングのための10原則</title>
+    <title>オンラインにおける人間行動クラウドソーシングのための10の原則</title>
     <link>https://osf.io/nhtu2</link>
     <guid isPermaLink="false">https://osf.io/nhtu2#ja</guid>
     <pubDate>Tue, 03 Feb 2026 23:50:30 +0000</pubDate>
@@ -27,28 +27,28 @@
     <description>Stress and Outdoor Activity in Early Adolescence: Examining Prospective, Directional Associations Over One Year</description>
   </item>
   <item>
-    <title>バイアス・バリアンストレードオフが人間の戦略選択に与える影響</title>
+    <title>バイアス・バリアンスのトレードオフが人間の戦略選択に与える影響</title>
     <link>https://osf.io/cegxd</link>
     <guid isPermaLink="false">https://osf.io/cegxd#ja</guid>
     <pubDate>Tue, 03 Feb 2026 16:10:41 +0000</pubDate>
     <description>How The Bias-Variance Tradeoff Shapes Human Strategy Selection</description>
   </item>
   <item>
-    <title>音楽による情動エピソード測定尺度（MEEM）の開発と心理測定学的評価</title>
+    <title>音楽による感情エピソードの測定（MEEM）：モジュール式評価ツールの開発と心理計量学的検証</title>
     <link>https://osf.io/h43ac</link>
     <guid isPermaLink="false">https://osf.io/h43ac#ja</guid>
     <pubDate>Tue, 03 Feb 2026 16:10:41 +0000</pubDate>
     <description>Measure of Emotional Episodes with Music (MEEM): development and psychometric evaluation of a modular instrument</description>
   </item>
   <item>
-    <title>数唱訓練が深層ニューラルネットワークにおける数の偏った表象を形成する</title>
+    <title>数唱訓練が深層ニューラルネットワークにおける数値バイアス表象を形成する</title>
     <link>https://osf.io/356xd</link>
     <guid isPermaLink="false">https://osf.io/356xd#ja</guid>
     <pubDate>Tue, 03 Feb 2026 14:01:27 +0000</pubDate>
     <description>Counting Training Creates Number-Biased Representations in Deep Neural Networks</description>
   </item>
   <item>
-    <title>世界における権威主義と陰謀論傾向の心理学的検討</title>
+    <title>世界における権威主義と陰謀論傾向の心理学的考察</title>
     <link>https://osf.io/ke49h</link>
     <guid isPermaLink="false">https://osf.io/ke49h#ja</guid>
     <pubDate>Tue, 03 Feb 2026 14:01:26 +0000</pubDate>
@@ -62,7 +62,7 @@
     <description>Variation in the acoustic dynamics of /s/: Patterns within and across 32 languages</description>
   </item>
   <item>
-    <title>リスキリングは万能ではない：労働市場との整合性が失われる前に産業・組織心理学者が取るべき対応</title>
+    <title>リスキリングは万能ではない：労働市場と連携しなければ産業・組織心理学者の影響力は失われる理由</title>
     <link>https://osf.io/xq6t8</link>
     <guid isPermaLink="false">https://osf.io/xq6t8#ja</guid>
     <pubDate>Tue, 03 Feb 2026 14:01:25 +0000</pubDate>
@@ -118,7 +118,7 @@
     <description>Facilitatory Effects of Visual Perspective Taking Level 2 For Human and Robotic Avatars</description>
   </item>
   <item>
-    <title>心的対象表象における個人差のモデリング・測定・マッピング</title>
+    <title>心的対象表象における個人差のモデリング、測定、およびマッピング</title>
     <link>https://osf.io/pxt9a</link>
     <guid isPermaLink="false">https://osf.io/pxt9a#ja</guid>
     <pubDate>Mon, 02 Feb 2026 23:24:06 +0000</pubDate>
@@ -132,28 +132,28 @@
     <description>Busybody, Hunter, and Dancer: Curious (social) practices in creativity</description>
   </item>
   <item>
-    <title>女性の自閉症特性評価における現行自己報告尺度の妥当性：自閉症女性および専門家による修正版デルファイ法研究からの知見</title>
+    <title>現行の自己報告尺度は女性の自閉症特性評価に適しているか？自閉症女性および専門家による修正デルファイ法研究からの知見</title>
     <link>https://osf.io/wkf97</link>
     <guid isPermaLink="false">https://osf.io/wkf97#ja</guid>
     <pubDate>Mon, 02 Feb 2026 23:24:01 +0000</pubDate>
     <description>Are items from current self-report measures adequate for assessing autistic traits in women? Insights from a modified Delphi study with autistic women and professional experts.</description>
   </item>
   <item>
-    <title>制度的信頼の動的変容：大統領への信頼が科学者、メディア、公共機関へ波及する影響</title>
+    <title>制度的信頼の動的変遷：大統領への信頼が科学者、メディア、公共機関へ波及する影響</title>
     <link>https://osf.io/b54jr</link>
     <guid isPermaLink="false">https://osf.io/b54jr#ja</guid>
     <pubDate>Mon, 02 Feb 2026 23:24:01 +0000</pubDate>
     <description>Dynamic Landscape of Institutional Trust: Trust in Presidency Spills Over to Scientists, Media, and Public Institutions</description>
   </item>
   <item>
-    <title>間隔、報酬、個人の習慣：オンライン縦断研究における継続参加の要因分析</title>
+    <title>間隔、報酬、個人の習慣：オンライン縦断研究における継続率の決定要因</title>
     <link>https://osf.io/gchd7</link>
     <guid isPermaLink="false">https://osf.io/gchd7#ja</guid>
     <pubDate>Mon, 02 Feb 2026 23:24:01 +0000</pubDate>
     <description>Intervals, Incentives, and Individual Habits: What Drives Retention in Online Longitudinal Studies?</description>
   </item>
   <item>
-    <title>主観的時間の最小生成メカニズムとしての代謝・注意動態</title>
+    <title>主観的時間の最小生成メカニズムとしての代謝-注意動態</title>
     <link>https://osf.io/xurt6</link>
     <guid isPermaLink="false">https://osf.io/xurt6#ja</guid>
     <pubDate>Mon, 02 Feb 2026 06:58:06 +0000</pubDate>
@@ -167,7 +167,7 @@
     <description>Fonologia corporificada: uma agenda de pesquisa ancorada em fundamentos da cognição não cartesiana</description>
   </item>
   <item>
-    <title>地球保護における真の不屈性：長期目標への情熱と粘り強さが環境配慮の意図と行動のギャップを調整する</title>
+    <title>地球保護における真の不屈心：長期目標への情熱と粘り強さが環境配慮行動の意図と実行のギャップを調整する</title>
     <link>https://osf.io/bzad7</link>
     <guid isPermaLink="false">https://osf.io/bzad7#ja</guid>
     <pubDate>Sun, 01 Feb 2026 17:48:55 +0000</pubDate>
@@ -202,14 +202,14 @@
     <description>Social Diversity is Associated with Diversified Visual Attention in Infancy</description>
   </item>
   <item>
-    <title>インスタグラム研究は依然として重要か？若者が自己について語りたがることと語りたがらないこと</title>
+    <title>インスタグラム研究の現状と意義：若年層が自己表現において語ることと語らないこと</title>
     <link>https://osf.io/6kme4</link>
     <guid isPermaLink="false">https://osf.io/6kme4#ja</guid>
     <pubDate>Sun, 01 Feb 2026 17:48:53 +0000</pubDate>
     <description>Is the study of Instagram still relevant? What young people (don’t) want to tell us about themselves?</description>
   </item>
   <item>
-    <title>英国ミレニアムコホート研究における短縮版気分・感情質問票の妥当性および青年期の性別・民族間の測定不変性</title>
+    <title>英国ミレニアムコホート研究における短縮版気分・感情質問票の妥当性および青年期の性別・民族間での測定不変性</title>
     <link>https://osf.io/fwn4m</link>
     <guid isPermaLink="false">https://osf.io/fwn4m#ja</guid>
     <pubDate>Sun, 01 Feb 2026 17:48:53 +0000</pubDate>
@@ -251,7 +251,7 @@
     <description>Optimistic and pessimistic assumptions in Piray’s power analysis for computational model selection</description>
   </item>
   <item>
-    <title>聴覚障害者における手話と言語神経認知領域：ナラティブレビュー</title>
+    <title>ろう者における手話と言語神経認知領域：ナラティブレビュー</title>
     <link>https://osf.io/6rz8a</link>
     <guid isPermaLink="false">https://osf.io/6rz8a#ja</guid>
     <pubDate>Sun, 01 Feb 2026 17:20:57 +0000</pubDate>
@@ -272,7 +272,7 @@
     <description>Diversity, Openness, and Generality in Practice: An analysis of Psychological Science publications from 2019-2024</description>
   </item>
   <item>
-    <title>翻訳前の喪失：AI間コミュニケーションにおける社会的情報伝達と生存戦略</title>
+    <title>翻訳以前の喪失：AI間コミュニケーションにおける社会的情報伝達と生存</title>
     <link>https://osf.io/u64gc</link>
     <guid isPermaLink="false">https://osf.io/u64gc#ja</guid>
     <pubDate>Sun, 01 Feb 2026 13:39:57 +0000</pubDate>
@@ -286,7 +286,7 @@
     <description>Cognitive behavioural therapy is not universally evidence-based: implications for eating disorders</description>
   </item>
   <item>
-    <title>人間の原始的記号能力の頑健性に関する疑問：連合的対称性の検討</title>
+    <title>人間の原始的記号能力の堅牢性に疑問を呈する：連合的対称性の検討</title>
     <link>https://osf.io/32ybu</link>
     <guid isPermaLink="false">https://osf.io/32ybu#ja</guid>
     <pubDate>Sat, 31 Jan 2026 13:38:25 +0000</pubDate>
@@ -307,14 +307,14 @@
     <description>Conceptual Nativism: The origins of language are in the structure of thought</description>
   </item>
   <item>
-    <title>社会不安障害とうつ病の併存における報酬欠損：快楽減退、退屈感、孤独感およびCOVID-19による社会的制限の役割</title>
+    <title>社会不安障害と抑うつの併存における報酬欠損：快楽減退、退屈感、孤独感およびCOVID-19による社会的制限の役割</title>
     <link>https://osf.io/he2pf</link>
     <guid isPermaLink="false">https://osf.io/he2pf#ja</guid>
     <pubDate>Sat, 31 Jan 2026 12:38:35 +0000</pubDate>
     <description>Reward Deficits in Comorbid Social Anxiety and Depression: The Roles of Anhedonia, Boredom, Loneliness, and COVID-19 Social Restriction</description>
   </item>
   <item>
-    <title>取り扱い後および新規検査状況への曝露後の遅延がダンゴムシの行動に及ぼす影響</title>
+    <title>新規検査状況への曝露および取り扱い後の遅延がダンゴムシの行動に及ぼす影響</title>
     <link>https://osf.io/c42bg</link>
     <guid isPermaLink="false">https://osf.io/c42bg#ja</guid>
     <pubDate>Sat, 31 Jan 2026 11:17:13 +0000</pubDate>
@@ -335,7 +335,7 @@
     <description>Effects of inoculation interventions on impressions of mock political candidates</description>
   </item>
   <item>
-    <title>一般化された政治的態度における二者間ダイナミクス：類似性、関係満足度、および収束</title>
+    <title>一般化された政治的態度における二者間の動態：類似性、関係満足度、および収束</title>
     <link>https://osf.io/eub46</link>
     <guid isPermaLink="false">https://osf.io/eub46#ja</guid>
     <pubDate>Fri, 30 Jan 2026 22:51:49 +0000</pubDate>
