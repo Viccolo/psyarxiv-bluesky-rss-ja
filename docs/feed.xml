@@ -6,7 +6,21 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>顔の目立つ違いに対する社会的偏見に取り組むエンターテインメント教育動画の開発と検証：健康および歯科教育への応用可能性</title>
+    <title>1年生の初期リテラシーおよび読解力支援：GraphoLearnと教師主導のフォニックス介入によるランダム化比較試験の結果</title>
+    <link>https://osf.io/9j4az</link>
+    <guid isPermaLink="false">https://osf.io/9j4az#ja</guid>
+    <pubDate>Wed, 04 Feb 2026 21:52:33 +0000</pubDate>
+    <description>Supporting Early Literacy and Reading Skills in Grade 1: Findings from a Randomised  Control Trial with GraphoLearn and Teacher-Led Phonics Intervention</description>
+  </item>
+  <item>
+    <title>青年期の感情の日々の変動が携帯電話使用を予測する（逆は成り立たず）</title>
+    <link>https://osf.io/5d67p</link>
+    <guid isPermaLink="false">https://osf.io/5d67p#ja</guid>
+    <pubDate>Wed, 04 Feb 2026 21:52:33 +0000</pubDate>
+    <description>Adolescents’ Daily Affect Predicts Their Mobile Phone Use (Not the Other Way Around)</description>
+  </item>
+  <item>
+    <title>顔の目立つ違いに対する社会的偏見を扱うエンターテインメント教育動画の開発と検証：健康および歯科教育への応用可能性</title>
     <link>https://osf.io/dn432</link>
     <guid isPermaLink="false">https://osf.io/dn432#ja</guid>
     <pubDate>Wed, 04 Feb 2026 21:01:30 +0000</pubDate>
@@ -34,7 +48,7 @@
     <description>Missing Data in Intensive Longitudinal Suicide Research: A Monte Carlo simulation study</description>
   </item>
   <item>
-    <title>幼少期の過酷さと不確実性がリスク選好および曖昧性選好に及ぼす相関関係</title>
+    <title>幼少期の過酷さと不確実性がリスクおよび曖昧性選好に及ぼす相関関係</title>
     <link>https://osf.io/cfvsq</link>
     <guid isPermaLink="false">https://osf.io/cfvsq#ja</guid>
     <pubDate>Wed, 04 Feb 2026 20:29:57 +0000</pubDate>
@@ -55,28 +69,28 @@
     <description>When working memory works:  Selective engagement as a tradeoff between cost and flexibility</description>
   </item>
   <item>
-    <title>オペラント触覚トレーニングにおけるtDCSおよびtACSの効果：神経調節効果の個人差の検討</title>
+    <title>経頭蓋直流刺激および交流刺激がオペラント触覚訓練に及ぼす影響：神経調節効果の個人差の検討</title>
     <link>https://osf.io/rp9mc</link>
     <guid isPermaLink="false">https://osf.io/rp9mc#ja</guid>
     <pubDate>Wed, 04 Feb 2026 11:05:30 +0000</pubDate>
     <description>Effects of tDCS and tACS on Operant Tactile Training:  Investigating Individual Differences in Neuromodulation Efficacy</description>
   </item>
   <item>
-    <title>剥奪感と特権感の葛藤：多数派集団内における認知された（不）利益の異なるプロファイルの解明</title>
+    <title>欠乏感と特権感の葛藤？多数派集団内における認知された（不）利益の異なるプロファイルの解明</title>
     <link>https://osf.io/bkt2a</link>
     <guid isPermaLink="false">https://osf.io/bkt2a#ja</guid>
     <pubDate>Wed, 04 Feb 2026 11:05:29 +0000</pubDate>
     <description>Frustrated by Deprivation or Privilege? Revealing Divergent Profiles of Perceived (Dis)advantage within Majority Groups</description>
   </item>
   <item>
-    <title>心身統一の計算的枠組み：健康の具現化モデルの形式化</title>
+    <title>心身統一の計算的枠組み：健康の身体化モデルの形式化</title>
     <link>https://osf.io/uq934</link>
     <guid isPermaLink="false">https://osf.io/uq934#ja</guid>
     <pubDate>Wed, 04 Feb 2026 11:05:29 +0000</pubDate>
     <description>A Computational Framework of Mind-Body Unity: Formalizing Embodied Models of Health</description>
   </item>
   <item>
-    <title>犯罪被害者および加害者の描写に関する真実の犯罪メディアの認知</title>
+    <title>犯罪被害者および加害者の描写に関する真実の犯罪メディアの知覚</title>
     <link>https://osf.io/j9u3g</link>
     <guid isPermaLink="false">https://osf.io/j9u3g#ja</guid>
     <pubDate>Wed, 04 Feb 2026 11:05:29 +0000</pubDate>
@@ -111,7 +125,7 @@
     <description>Towards a Behavioural Systems Map of the University System in Relation to Student Physical Activity and Sedentary Behaviour</description>
   </item>
   <item>
-    <title>オンラインにおける人間行動クラウドソーシングのための10の原則</title>
+    <title>オンラインにおける人間行動クラウドソーシングのための10原則</title>
     <link>https://osf.io/nhtu2</link>
     <guid isPermaLink="false">https://osf.io/nhtu2#ja</guid>
     <pubDate>Tue, 03 Feb 2026 23:50:30 +0000</pubDate>
@@ -125,14 +139,14 @@
     <description>A scoping review of children’s play with GenAI toys in the early years</description>
   </item>
   <item>
-    <title>思春期初期におけるストレスと屋外活動：1年間の前向きかつ方向性のある関連性の検討</title>
+    <title>初期思春期におけるストレスと屋外活動：1年間の前向きかつ方向性のある関連性の検討</title>
     <link>https://osf.io/mdfvu</link>
     <guid isPermaLink="false">https://osf.io/mdfvu#ja</guid>
     <pubDate>Tue, 03 Feb 2026 17:26:31 +0000</pubDate>
     <description>Stress and Outdoor Activity in Early Adolescence: Examining Prospective, Directional Associations Over One Year</description>
   </item>
   <item>
-    <title>バイアス・バリアンストレードオフが人間の戦略選択に与える影響</title>
+    <title>バイアス・バリアンスのトレードオフが人間の戦略選択に与える影響</title>
     <link>https://osf.io/cegxd</link>
     <guid isPermaLink="false">https://osf.io/cegxd#ja</guid>
     <pubDate>Tue, 03 Feb 2026 16:10:41 +0000</pubDate>
@@ -146,7 +160,7 @@
     <description>Measure of Emotional Episodes with Music (MEEM): development and psychometric evaluation of a modular instrument</description>
   </item>
   <item>
-    <title>カウントトレーニングが深層ニューラルネットワークにおける数に偏った表象を形成する</title>
+    <title>数唱訓練が深層ニューラルネットワークにおける数の偏った表象を形成する</title>
     <link>https://osf.io/356xd</link>
     <guid isPermaLink="false">https://osf.io/356xd#ja</guid>
     <pubDate>Tue, 03 Feb 2026 14:01:27 +0000</pubDate>
@@ -167,7 +181,7 @@
     <description>Variation in the acoustic dynamics of /s/: Patterns within and across 32 languages</description>
   </item>
   <item>
-    <title>リスキリングは必ずしも解決策ではない：労働市場と連携しなければ産業・組織心理学者の影響力は失われる理由</title>
+    <title>リスキリングは万能ではない：労働市場との整合性が失われる前に産業・組織心理学者が取るべき対応</title>
     <link>https://osf.io/xq6t8</link>
     <guid isPermaLink="false">https://osf.io/xq6t8#ja</guid>
     <pubDate>Tue, 03 Feb 2026 14:01:25 +0000</pubDate>
@@ -202,7 +216,7 @@
     <description>Design and Analysis of Single-Observation vs. Comparison-Group Experiments</description>
   </item>
   <item>
-    <title>悪循環の断絶：身体運動による統合失調症の陰性症状の再配線</title>
+    <title>悪循環の断絶：統合失調症における陰性症状の身体運動による再配線</title>
     <link>https://osf.io/htuwr</link>
     <guid isPermaLink="false">https://osf.io/htuwr#ja</guid>
     <pubDate>Mon, 02 Feb 2026 23:24:07 +0000</pubDate>
@@ -216,28 +230,28 @@
     <description>ChatGPT Making our Minds Dull? The Cognitive Impact of Using ChatGPT in the Writing Process</description>
   </item>
   <item>
-    <title>人間およびロボットアバターに対する視覚的視点取得レベル2の促進効果</title>
+    <title>人間およびロボットアバターにおける視覚的視点取得レベル2の促進効果</title>
     <link>https://osf.io/zqtvb</link>
     <guid isPermaLink="false">https://osf.io/zqtvb#ja</guid>
     <pubDate>Mon, 02 Feb 2026 23:24:06 +0000</pubDate>
     <description>Facilitatory Effects of Visual Perspective Taking Level 2 For Human and Robotic Avatars</description>
   </item>
   <item>
-    <title>心的対象表象における個人差のモデリング、測定、およびマッピング</title>
+    <title>心的対象表象における個人差のモデル化・測定・マッピング</title>
     <link>https://osf.io/pxt9a</link>
     <guid isPermaLink="false">https://osf.io/pxt9a#ja</guid>
     <pubDate>Mon, 02 Feb 2026 23:24:06 +0000</pubDate>
     <description>Modeling, Measuring, and Mapping Individual Differences in Mental Object Representations</description>
   </item>
   <item>
-    <title>詮索好き、探求者、舞踏者：創造性における好奇心（社会的実践）の探究</title>
+    <title>詮索者、探求者、舞踏者：創造性における好奇心（社会的実践）の考察</title>
     <link>https://osf.io/p3wvk</link>
     <guid isPermaLink="false">https://osf.io/p3wvk#ja</guid>
     <pubDate>Mon, 02 Feb 2026 23:24:05 +0000</pubDate>
     <description>Busybody, Hunter, and Dancer: Curious (social) practices in creativity</description>
   </item>
   <item>
-    <title>女性の自閉症特性評価における現行自己報告尺度の妥当性：自閉症女性および専門家による修正デルファイ法研究からの知見</title>
+    <title>現行の自己報告尺度は女性の自閉症特性評価に適切か？自閉症女性と専門家による修正デルファイ法研究からの知見</title>
     <link>https://osf.io/wkf97</link>
     <guid isPermaLink="false">https://osf.io/wkf97#ja</guid>
     <pubDate>Mon, 02 Feb 2026 23:24:01 +0000</pubDate>
@@ -258,7 +272,7 @@
     <description>Intervals, Incentives, and Individual Habits: What Drives Retention in Online Longitudinal Studies?</description>
   </item>
   <item>
-    <title>主観的時間の最小生成メカニズムとしての代謝-注意動態</title>
+    <title>主観的時間の最小生成メカニズムとしての代謝・注意動態</title>
     <link>https://osf.io/xurt6</link>
     <guid isPermaLink="false">https://osf.io/xurt6#ja</guid>
     <pubDate>Mon, 02 Feb 2026 06:58:06 +0000</pubDate>
@@ -272,7 +286,7 @@
     <description>Fonologia corporificada: uma agenda de pesquisa ancorada em fundamentos da cognição não cartesiana</description>
   </item>
   <item>
-    <title>地球保護における真の不屈心：長期目標に対する情熱と粘り強さが環境配慮行動の意図と実行のギャップを調整する</title>
+    <title>地球保護における真の根気強さ：長期目標に対する情熱と忍耐が環境配慮行動の意図と実行のギャップを調整する</title>
     <link>https://osf.io/bzad7</link>
     <guid isPermaLink="false">https://osf.io/bzad7#ja</guid>
     <pubDate>Sun, 01 Feb 2026 17:48:55 +0000</pubDate>
@@ -307,14 +321,14 @@
     <description>Social Diversity is Associated with Diversified Visual Attention in Infancy</description>
   </item>
   <item>
-    <title>インスタグラム研究の現状と意義：若者が自己について語ることと語らないこと</title>
+    <title>インスタグラム研究の意義はまだあるか？若者が自己について語りたがることと語りたがらないこと</title>
     <link>https://osf.io/6kme4</link>
     <guid isPermaLink="false">https://osf.io/6kme4#ja</guid>
     <pubDate>Sun, 01 Feb 2026 17:48:53 +0000</pubDate>
     <description>Is the study of Instagram still relevant? What young people (don’t) want to tell us about themselves?</description>
   </item>
   <item>
-    <title>英国ミレニアムコホート研究における短縮版気分・感情質問票の妥当性および青年期の性別・民族間での計測不変性</title>
+    <title>英国ミレニアムコホート研究における短縮版気分・感情質問票の妥当性および青年期の性別・民族間での測定不変性</title>
     <link>https://osf.io/fwn4m</link>
     <guid isPermaLink="false">https://osf.io/fwn4m#ja</guid>
     <pubDate>Sun, 01 Feb 2026 17:48:53 +0000</pubDate>
@@ -335,25 +349,11 @@
     <description>Optimizing Generative Artificial Intelligence Prompts to Engage Urges for Physical Activity in Middle-Aged and Older Adults</description>
   </item>
   <item>
-    <title>ルーピング効果と認知的認識的不正義の源泉：シミュレーション研究</title>
+    <title>ループ効果と認知的認識的不正義の源泉：シミュレーション研究</title>
     <link>https://osf.io/na4pg</link>
     <guid isPermaLink="false">https://osf.io/na4pg#ja</guid>
     <pubDate>Sun, 01 Feb 2026 17:48:52 +0000</pubDate>
     <description>Looping effects and the cognitive source of epistemic injustices: A simulation study</description>
-  </item>
-  <item>
-    <title>エネルギー正義の生態学的枠組みによるクリーンエネルギー転換における不平等の理解</title>
-    <link>https://osf.io/b92mt</link>
-    <guid isPermaLink="false">https://osf.io/b92mt#ja</guid>
-    <pubDate>Sun, 01 Feb 2026 17:48:51 +0000</pubDate>
-    <description>Understanding Inequities in the Clean Energy Transition Through an Ecological Framework of Energy Justice</description>
-  </item>
-  <item>
-    <title>Pirayの計算モデル選択における楽観的および悲観的仮定の検討</title>
-    <link>https://osf.io/bqkr2</link>
-    <guid isPermaLink="false">https://osf.io/bqkr2#ja</guid>
-    <pubDate>Sun, 01 Feb 2026 17:48:51 +0000</pubDate>
-    <description>Optimistic and pessimistic assumptions in Piray’s power analysis for computational model selection</description>
   </item>
 </channel>
 </rss>
