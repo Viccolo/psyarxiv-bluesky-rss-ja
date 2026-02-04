@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>マルチバースは心理学において何の役に立つのか？</title>
+    <title>マルチバース理論は心理学に何をもたらすのか？</title>
     <link>https://osf.io/37g29</link>
     <guid isPermaLink="false">https://osf.io/37g29#ja</guid>
     <pubDate>Wed, 04 Feb 2026 11:52:47 +0000</pubDate>
@@ -41,7 +41,7 @@
     <description>A Computational Framework of Mind-Body Unity: Formalizing Embodied Models of Health</description>
   </item>
   <item>
-    <title>犯罪被害者および加害者の描写に対する真実の犯罪メディアの認知</title>
+    <title>犯罪被害者と加害者の描写に関する真実犯罪メディアの知覚</title>
     <link>https://osf.io/j9u3g</link>
     <guid isPermaLink="false">https://osf.io/j9u3g#ja</guid>
     <pubDate>Wed, 04 Feb 2026 11:05:29 +0000</pubDate>
@@ -111,7 +111,7 @@
     <description>Measure of Emotional Episodes with Music (MEEM): development and psychometric evaluation of a modular instrument</description>
   </item>
   <item>
-    <title>カウント訓練が深層ニューラルネットワークにおける数的バイアス表象を形成する</title>
+    <title>数唱訓練が深層ニューラルネットワークにおける数のバイアス表象を形成する</title>
     <link>https://osf.io/356xd</link>
     <guid isPermaLink="false">https://osf.io/356xd#ja</guid>
     <pubDate>Tue, 03 Feb 2026 14:01:27 +0000</pubDate>
@@ -132,7 +132,7 @@
     <description>Variation in the acoustic dynamics of /s/: Patterns within and across 32 languages</description>
   </item>
   <item>
-    <title>再スキル習得が万能解ではない：労働市場との整合性が失われる前に産業・組織心理学者が取るべき対応</title>
+    <title>リスキリングは万能ではない：労働市場との整合が失われる前に産業・組織心理学者が取るべき対応</title>
     <link>https://osf.io/xq6t8</link>
     <guid isPermaLink="false">https://osf.io/xq6t8#ja</guid>
     <pubDate>Tue, 03 Feb 2026 14:01:25 +0000</pubDate>
@@ -146,14 +146,14 @@
     <description>Optimal use of limited cognitive resources produces bias and noise in medical decisions</description>
   </item>
   <item>
-    <title>言語的手がかりは空間–数的連合に影響を与えるか？中国語–英語バイリンガルにおけるSNARC効果とMARC効果の検証</title>
+    <title>言語的手がかりは空間－数的連合に影響を与えるか？中国語－英語バイリンガルにおけるSNARC効果とMARC効果の検証</title>
     <link>https://osf.io/hf28n</link>
     <guid isPermaLink="false">https://osf.io/hf28n#ja</guid>
     <pubDate>Mon, 02 Feb 2026 23:24:08 +0000</pubDate>
     <description>Do Language Cues Shape Spatial–Numerical Associations? A Test of SNARC and MARC in Chinese–English Bilinguals</description>
   </item>
   <item>
-    <title>制約下最適化における解決策クラスとしての注意</title>
+    <title>制約下最適化における解決策クラスとしての注意機構</title>
     <link>https://osf.io/nhef6</link>
     <guid isPermaLink="false">https://osf.io/nhef6#ja</guid>
     <pubDate>Mon, 02 Feb 2026 23:24:07 +0000</pubDate>
@@ -195,14 +195,14 @@
     <description>Modeling, Measuring, and Mapping Individual Differences in Mental Object Representations</description>
   </item>
   <item>
-    <title>詮索者、狩人、踊り手：創造性における好奇心（社会的実践）の探究</title>
+    <title>詮索好き、狩人、ダンサー：創造性における好奇心（社会的実践）の探究</title>
     <link>https://osf.io/p3wvk</link>
     <guid isPermaLink="false">https://osf.io/p3wvk#ja</guid>
     <pubDate>Mon, 02 Feb 2026 23:24:05 +0000</pubDate>
     <description>Busybody, Hunter, and Dancer: Curious (social) practices in creativity</description>
   </item>
   <item>
-    <title>女性の自閉症特性評価における現行自己報告尺度の妥当性：自閉症女性および専門家による修正版デルファイ法研究からの知見</title>
+    <title>女性の自閉症特性評価における現行自己報告尺度の妥当性：自閉症女性および専門家による修正デルファイ法研究からの知見</title>
     <link>https://osf.io/wkf97</link>
     <guid isPermaLink="false">https://osf.io/wkf97#ja</guid>
     <pubDate>Mon, 02 Feb 2026 23:24:01 +0000</pubDate>
@@ -216,7 +216,7 @@
     <description>Dynamic Landscape of Institutional Trust: Trust in Presidency Spills Over to Scientists, Media, and Public Institutions</description>
   </item>
   <item>
-    <title>間隔、報酬、個人の習慣：オンライン縦断研究における継続参加の要因分析</title>
+    <title>間隔、報酬、個人の習慣：オンライン縦断研究における継続参加を促進する要因とは何か？</title>
     <link>https://osf.io/gchd7</link>
     <guid isPermaLink="false">https://osf.io/gchd7#ja</guid>
     <pubDate>Mon, 02 Feb 2026 23:24:01 +0000</pubDate>
@@ -237,14 +237,14 @@
     <description>Fonologia corporificada: uma agenda de pesquisa ancorada em fundamentos da cognição não cartesiana</description>
   </item>
   <item>
-    <title>地球保護における真の不屈心：長期目標に対する情熱と忍耐力が環境配慮行動の意図と実際のギャップを調整する</title>
+    <title>地球保護における真の不屈性：長期目標に対する情熱と粘り強さが環境配慮行動の意図と実際の行動のギャップを調整する</title>
     <link>https://osf.io/bzad7</link>
     <guid isPermaLink="false">https://osf.io/bzad7#ja</guid>
     <pubDate>Sun, 01 Feb 2026 17:48:55 +0000</pubDate>
     <description>True grit in protecting our planet: Passion and perseverance for long-term goals moderate the pro-environmental intention-behavior gap</description>
   </item>
   <item>
-    <title>親のパーソナリティは子どもの気質と共発達するか？メキシコ系家族の縦断研究からの知見</title>
+    <title>親のパーソナリティは子どもの気質と共発達するか？メキシコ系家族を対象とした縦断研究の知見</title>
     <link>https://osf.io/d7zr8</link>
     <guid isPermaLink="false">https://osf.io/d7zr8#ja</guid>
     <pubDate>Sun, 01 Feb 2026 17:48:55 +0000</pubDate>
@@ -265,21 +265,21 @@
     <description>A flexible control theory of SEB skills</description>
   </item>
   <item>
-    <title>社会的多様性は乳児期における視覚的注意の多様化と関連する</title>
+    <title>社会的多様性と乳児期における視覚的注意の多様化との関連性</title>
     <link>https://osf.io/2cjza</link>
     <guid isPermaLink="false">https://osf.io/2cjza#ja</guid>
     <pubDate>Sun, 01 Feb 2026 17:48:54 +0000</pubDate>
     <description>Social Diversity is Associated with Diversified Visual Attention in Infancy</description>
   </item>
   <item>
-    <title>インスタグラム研究の現状と意義：若年層が自己について語ること・語らないこと</title>
+    <title>インスタグラム研究の現状と意義：若者が自己について語ること・語らないこと</title>
     <link>https://osf.io/6kme4</link>
     <guid isPermaLink="false">https://osf.io/6kme4#ja</guid>
     <pubDate>Sun, 01 Feb 2026 17:48:53 +0000</pubDate>
     <description>Is the study of Instagram still relevant? What young people (don’t) want to tell us about themselves?</description>
   </item>
   <item>
-    <title>英国ミレニアムコホート研究における短縮版気分・感情質問票の妥当性および青年期の性別・民族間での測定不変性</title>
+    <title>英国ミレニアムコホート研究における短縮版気分・感情質問票の妥当性および青年期の性別・民族間の測定不変性</title>
     <link>https://osf.io/fwn4m</link>
     <guid isPermaLink="false">https://osf.io/fwn4m#ja</guid>
     <pubDate>Sun, 01 Feb 2026 17:48:53 +0000</pubDate>
@@ -300,7 +300,7 @@
     <description>Optimizing Generative Artificial Intelligence Prompts to Engage Urges for Physical Activity in Middle-Aged and Older Adults</description>
   </item>
   <item>
-    <title>ループ効果と認知的認識的不正義の源泉：シミュレーション研究</title>
+    <title>ルーピング効果と認知的要因に基づく認識的不正義の生成：シミュレーション研究</title>
     <link>https://osf.io/na4pg</link>
     <guid isPermaLink="false">https://osf.io/na4pg#ja</guid>
     <pubDate>Sun, 01 Feb 2026 17:48:52 +0000</pubDate>
@@ -342,7 +342,7 @@
     <description>Diversity, Openness, and Generality in Practice: An analysis of Psychological Science publications from 2019-2024</description>
   </item>
   <item>
-    <title>翻訳前の喪失：AI間コミュニケーションにおける社会的情報伝達と生存戦略</title>
+    <title>翻訳前の喪失：AI間コミュニケーションにおける社会的情報伝達と生存</title>
     <link>https://osf.io/u64gc</link>
     <guid isPermaLink="false">https://osf.io/u64gc#ja</guid>
     <pubDate>Sun, 01 Feb 2026 13:39:57 +0000</pubDate>
