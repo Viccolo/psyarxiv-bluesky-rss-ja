@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>作業記憶と語彙知識が文理解における比喩の文字通りの意味の活性化を維持する</title>
+    <title>作業記憶と語彙知識が文理解における隠喩の文字通りの意味の活性化を維持する</title>
     <link>https://osf.io/dqanh</link>
     <guid isPermaLink="false">https://osf.io/dqanh#ja</guid>
     <pubDate>Thu, 05 Feb 2026 09:39:26 +0000</pubDate>
@@ -20,14 +20,14 @@
     <description>De la communication médiatisée par l’IA à l’usurpation d’authenticité : quels risques pour la confiance épistémique dans les relations intimes et thérapeutiques ?</description>
   </item>
   <item>
-    <title>1年生の初期リテラシーおよび読解力支援：GraphoLearnと教師主導のフォニックス介入を用いたランダム化比較試験の結果</title>
+    <title>1年生の初期リテラシーおよび読解力支援：GraphoLearnと教師主導のフォニックス介入を用いたランダム化比較試験の成果</title>
     <link>https://osf.io/9j4az</link>
     <guid isPermaLink="false">https://osf.io/9j4az#ja</guid>
     <pubDate>Wed, 04 Feb 2026 21:52:33 +0000</pubDate>
     <description>Supporting Early Literacy and Reading Skills in Grade 1: Findings from a Randomised  Control Trial with GraphoLearn and Teacher-Led Phonics Intervention</description>
   </item>
   <item>
-    <title>青年期の感情の日々の変動が携帯電話使用を予測する（携帯電話使用は感情を予測しない）</title>
+    <title>青年期の感情の日々の変動が携帯電話使用を予測する（逆は成り立たず）</title>
     <link>https://osf.io/5d67p</link>
     <guid isPermaLink="false">https://osf.io/5d67p#ja</guid>
     <pubDate>Wed, 04 Feb 2026 21:52:33 +0000</pubDate>
@@ -41,7 +41,7 @@
     <description>Development and Validation of Entertainment-Education Videos Addressing Social Bias Toward Visible Facial Differences: Relevance for Health and Dental Education</description>
   </item>
   <item>
-    <title>PTSDにおけるEEGニューロフィードバックの無作為化対照試験の縦断的マッピング：初期症状の安定化と補助的治療可能性への示唆</title>
+    <title>PTSDにおけるEEGニューロフィードバックの無作為化比較試験の縦断的マッピング：早期症状安定化と補助的治療可能性の示唆</title>
     <link>https://osf.io/34tn2</link>
     <guid isPermaLink="false">https://osf.io/34tn2#ja</guid>
     <pubDate>Wed, 04 Feb 2026 21:01:30 +0000</pubDate>
@@ -62,28 +62,28 @@
     <description>Missing Data in Intensive Longitudinal Suicide Research: A Monte Carlo simulation study</description>
   </item>
   <item>
-    <title>幼少期の過酷さと不確実性がリスク選好および曖昧性選好に及ぼす相関関係</title>
+    <title>幼少期の過酷さと予測不可能性がリスクおよび曖昧性選好に及ぼす相関関係</title>
     <link>https://osf.io/cfvsq</link>
     <guid isPermaLink="false">https://osf.io/cfvsq#ja</guid>
     <pubDate>Wed, 04 Feb 2026 20:29:57 +0000</pubDate>
     <description>The correlations of early life harshness and unpredictability with risk and ambiguity preferences</description>
   </item>
   <item>
-    <title>マルチバース理論は心理学に何をもたらすのか？</title>
+    <title>マルチバースは心理学に何をもたらすのか？</title>
     <link>https://osf.io/37g29</link>
     <guid isPermaLink="false">https://osf.io/37g29#ja</guid>
     <pubDate>Wed, 04 Feb 2026 11:52:47 +0000</pubDate>
     <description>What’s a multiverse good for anyway?</description>
   </item>
   <item>
-    <title>作業記憶の機能発現：コストと柔軟性のトレードオフとしての選択的関与</title>
+    <title>作業記憶の機能発揮：コストと柔軟性のトレードオフとしての選択的関与</title>
     <link>https://osf.io/64b9q</link>
     <guid isPermaLink="false">https://osf.io/64b9q#ja</guid>
     <pubDate>Wed, 04 Feb 2026 11:05:30 +0000</pubDate>
     <description>When working memory works:  Selective engagement as a tradeoff between cost and flexibility</description>
   </item>
   <item>
-    <title>オペラント触覚訓練におけるtDCSおよびtACSの効果：神経調節効果の個人差の検討</title>
+    <title>オペラント触覚トレーニングにおけるtDCSおよびtACSの効果：神経調節効力の個人差の検討</title>
     <link>https://osf.io/rp9mc</link>
     <guid isPermaLink="false">https://osf.io/rp9mc#ja</guid>
     <pubDate>Wed, 04 Feb 2026 11:05:30 +0000</pubDate>
@@ -97,14 +97,14 @@
     <description>Frustrated by Deprivation or Privilege? Revealing Divergent Profiles of Perceived (Dis)advantage within Majority Groups</description>
   </item>
   <item>
-    <title>心身統一の計算的枠組み：健康の具現化モデルの形式化</title>
+    <title>心身統一の計算的枠組み：健康の身体化モデルの形式化</title>
     <link>https://osf.io/uq934</link>
     <guid isPermaLink="false">https://osf.io/uq934#ja</guid>
     <pubDate>Wed, 04 Feb 2026 11:05:29 +0000</pubDate>
     <description>A Computational Framework of Mind-Body Unity: Formalizing Embodied Models of Health</description>
   </item>
   <item>
-    <title>犯罪者と被害者の描写に関する真実の犯罪メディアの知覚</title>
+    <title>真実の犯罪メディアにおける加害者および被害者の描写に対する認知</title>
     <link>https://osf.io/j9u3g</link>
     <guid isPermaLink="false">https://osf.io/j9u3g#ja</guid>
     <pubDate>Wed, 04 Feb 2026 11:05:29 +0000</pubDate>
@@ -139,7 +139,7 @@
     <description>Towards a Behavioural Systems Map of the University System in Relation to Student Physical Activity and Sedentary Behaviour</description>
   </item>
   <item>
-    <title>オンラインにおける人間行動クラウドソーシングのための10の原則</title>
+    <title>オンラインにおける人間行動クラウドソーシングのための10原則</title>
     <link>https://osf.io/nhtu2</link>
     <guid isPermaLink="false">https://osf.io/nhtu2#ja</guid>
     <pubDate>Tue, 03 Feb 2026 23:50:30 +0000</pubDate>
@@ -153,14 +153,14 @@
     <description>A scoping review of children’s play with GenAI toys in the early years</description>
   </item>
   <item>
-    <title>思春期初期におけるストレスと屋外活動：1年間の前向きかつ方向性のある関連性の検討</title>
+    <title>初期思春期におけるストレスと屋外活動：1年間の前向きかつ方向性のある関連性の検討</title>
     <link>https://osf.io/mdfvu</link>
     <guid isPermaLink="false">https://osf.io/mdfvu#ja</guid>
     <pubDate>Tue, 03 Feb 2026 17:26:31 +0000</pubDate>
     <description>Stress and Outdoor Activity in Early Adolescence: Examining Prospective, Directional Associations Over One Year</description>
   </item>
   <item>
-    <title>バイアス・バリアンストレードオフが人間の戦略選択に与える影響</title>
+    <title>バイアス・バリアンスのトレードオフが人間の戦略選択に与える影響</title>
     <link>https://osf.io/cegxd</link>
     <guid isPermaLink="false">https://osf.io/cegxd#ja</guid>
     <pubDate>Tue, 03 Feb 2026 16:10:41 +0000</pubDate>
@@ -174,14 +174,14 @@
     <description>Measure of Emotional Episodes with Music (MEEM): development and psychometric evaluation of a modular instrument</description>
   </item>
   <item>
-    <title>数唱訓練が深層ニューラルネットワークにおける数の偏った表象を形成する</title>
+    <title>数唱訓練が深層ニューラルネットワークにおける数に偏った表象を形成する</title>
     <link>https://osf.io/356xd</link>
     <guid isPermaLink="false">https://osf.io/356xd#ja</guid>
     <pubDate>Tue, 03 Feb 2026 14:01:27 +0000</pubDate>
     <description>Counting Training Creates Number-Biased Representations in Deep Neural Networks</description>
   </item>
   <item>
-    <title>世界における権威主義と陰謀論傾向の心理学的考察</title>
+    <title>世界における権威主義と陰謀論傾向の心理学的検討</title>
     <link>https://osf.io/ke49h</link>
     <guid isPermaLink="false">https://osf.io/ke49h#ja</guid>
     <pubDate>Tue, 03 Feb 2026 14:01:26 +0000</pubDate>
@@ -195,7 +195,7 @@
     <description>Variation in the acoustic dynamics of /s/: Patterns within and across 32 languages</description>
   </item>
   <item>
-    <title>再スキル習得が万能解ではない：労働市場との整合性が失われる前に産業・組織心理学者が果たすべき役割</title>
+    <title>リスキリングは万能ではない：労働市場と連携しなければ産業・組織心理学者の影響力は失われる理由</title>
     <link>https://osf.io/xq6t8</link>
     <guid isPermaLink="false">https://osf.io/xq6t8#ja</guid>
     <pubDate>Tue, 03 Feb 2026 14:01:25 +0000</pubDate>
@@ -209,7 +209,7 @@
     <description>Optimal use of limited cognitive resources produces bias and noise in medical decisions</description>
   </item>
   <item>
-    <title>言語的手がかりは空間－数的連合に影響を与えるか？中国語－英語バイリンガルにおけるSNARC効果とMARC効果の検証</title>
+    <title>言語的手がかりは空間–数的連合に影響を与えるか？中国語–英語バイリンガルにおけるSNARC効果とMARC効果の検証</title>
     <link>https://osf.io/hf28n</link>
     <guid isPermaLink="false">https://osf.io/hf28n#ja</guid>
     <pubDate>Mon, 02 Feb 2026 23:24:08 +0000</pubDate>
@@ -230,14 +230,14 @@
     <description>Design and Analysis of Single-Observation vs. Comparison-Group Experiments</description>
   </item>
   <item>
-    <title>悪循環の断絶：統合失調症における身体運動を通じた陰性症状の再配線</title>
+    <title>悪循環の断絶：身体運動による統合失調症の陰性症状の再配線</title>
     <link>https://osf.io/htuwr</link>
     <guid isPermaLink="false">https://osf.io/htuwr#ja</guid>
     <pubDate>Mon, 02 Feb 2026 23:24:07 +0000</pubDate>
     <description>Breaking the Cycle: Rewiring Negative Symptoms in Schizophrenia Through Physical Exercise</description>
   </item>
   <item>
-    <title>ChatGPTの使用は思考力を鈍らせるか？執筆過程におけるChatGPT利用の認知的影響</title>
+    <title>ChatGPTの使用は認知機能を鈍化させるか？執筆過程におけるChatGPT利用の認知的影響</title>
     <link>https://osf.io/j2u4y</link>
     <guid isPermaLink="false">https://osf.io/j2u4y#ja</guid>
     <pubDate>Mon, 02 Feb 2026 23:24:06 +0000</pubDate>
@@ -251,7 +251,7 @@
     <description>Facilitatory Effects of Visual Perspective Taking Level 2 For Human and Robotic Avatars</description>
   </item>
   <item>
-    <title>心的対象表象における個人差のモデリング・測定・マッピング</title>
+    <title>心的対象表象における個人差のモデル化・測定・マッピング</title>
     <link>https://osf.io/pxt9a</link>
     <guid isPermaLink="false">https://osf.io/pxt9a#ja</guid>
     <pubDate>Mon, 02 Feb 2026 23:24:06 +0000</pubDate>
@@ -265,7 +265,7 @@
     <description>Busybody, Hunter, and Dancer: Curious (social) practices in creativity</description>
   </item>
   <item>
-    <title>女性の自閉症特性評価における現行自己報告尺度の妥当性―自閉症女性および専門家による修正デルファイ法からの知見</title>
+    <title>女性の自閉症特性評価における現行自己報告尺度の妥当性―自閉症女性および専門家による修正版デルファイ法研究からの知見</title>
     <link>https://osf.io/wkf97</link>
     <guid isPermaLink="false">https://osf.io/wkf97#ja</guid>
     <pubDate>Mon, 02 Feb 2026 23:24:01 +0000</pubDate>
@@ -279,14 +279,14 @@
     <description>Dynamic Landscape of Institutional Trust: Trust in Presidency Spills Over to Scientists, Media, and Public Institutions</description>
   </item>
   <item>
-    <title>間隔、報酬、個人の習慣：オンライン縦断研究における継続参加を促進する要因とは何か？</title>
+    <title>間隔、報酬、個人の習慣：オンライン縦断研究における継続率を左右する要因とは</title>
     <link>https://osf.io/gchd7</link>
     <guid isPermaLink="false">https://osf.io/gchd7#ja</guid>
     <pubDate>Mon, 02 Feb 2026 23:24:01 +0000</pubDate>
     <description>Intervals, Incentives, and Individual Habits: What Drives Retention in Online Longitudinal Studies?</description>
   </item>
   <item>
-    <title>主観的時間の最小生成メカニズムとしての代謝・注意ダイナミクス</title>
+    <title>主観的時間の最小生成機構としての代謝・注意動態</title>
     <link>https://osf.io/xurt6</link>
     <guid isPermaLink="false">https://osf.io/xurt6#ja</guid>
     <pubDate>Mon, 02 Feb 2026 06:58:06 +0000</pubDate>
@@ -300,7 +300,7 @@
     <description>Fonologia corporificada: uma agenda de pesquisa ancorada em fundamentos da cognição não cartesiana</description>
   </item>
   <item>
-    <title>地球保護における真の不屈の精神：長期目標への情熱と粘り強さが環境配慮行動意図と実行のギャップを調整する</title>
+    <title>地球保護における真の不屈の精神：長期目標に対する情熱と粘り強さが環境配慮行動の意図と実行のギャップを調整する</title>
     <link>https://osf.io/bzad7</link>
     <guid isPermaLink="false">https://osf.io/bzad7#ja</guid>
     <pubDate>Sun, 01 Feb 2026 17:48:55 +0000</pubDate>
@@ -335,7 +335,7 @@
     <description>Social Diversity is Associated with Diversified Visual Attention in Infancy</description>
   </item>
   <item>
-    <title>インスタグラム研究の現状と意義：若者が自己について語りたがること・語りたがらないこと</title>
+    <title>インスタグラム研究の意義はまだ有効か？若者が自己について語りたがることと語りたがらないこと</title>
     <link>https://osf.io/6kme4</link>
     <guid isPermaLink="false">https://osf.io/6kme4#ja</guid>
     <pubDate>Sun, 01 Feb 2026 17:48:53 +0000</pubDate>
