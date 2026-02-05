@@ -6,6 +6,27 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>読者は新しい中国語複合語の曖昧な構成要素をどのように解釈するか？</title>
+    <link>https://osf.io/jd2rg</link>
+    <guid isPermaLink="false">https://osf.io/jd2rg#ja</guid>
+    <pubDate>Thu, 05 Feb 2026 20:28:33 +0000</pubDate>
+    <description>How do readers interpret ambiguous constituents in novel Chinese compound words?</description>
+  </item>
+  <item>
+    <title>生成AI時代における開発者の生産性：心理学的視点からの考察</title>
+    <link>https://osf.io/7gwx2</link>
+    <guid isPermaLink="false">https://osf.io/7gwx2#ja</guid>
+    <pubDate>Thu, 05 Feb 2026 20:28:33 +0000</pubDate>
+    <description>Developer Productivity in the Age of Generative AI: A Psychological Perspective</description>
+  </item>
+  <item>
+    <title>報酬学習が広範な印象形成と社会的選択に及ぼす肯定的バイアス効果</title>
+    <link>https://osf.io/arjft</link>
+    <guid isPermaLink="false">https://osf.io/arjft#ja</guid>
+    <pubDate>Thu, 05 Feb 2026 20:28:33 +0000</pubDate>
+    <description>Reward Learning Positively Biases Widespread Impressions and Social Choice</description>
+  </item>
+  <item>
     <title>感情の概念的知識は意味的に共有され社会的情報を提供する</title>
     <link>https://osf.io/swhgq</link>
     <guid isPermaLink="false">https://osf.io/swhgq#ja</guid>
@@ -13,14 +34,14 @@
     <description>Conceptual Knowledge of Emotions is Semantically Shared and Socially Informative</description>
   </item>
   <item>
-    <title>読解力発達の理解：初等学年における流暢性、読書意欲、読書不安の相互作用</title>
+    <title>読解力発達の理解：初等学年における流暢さ、読書意欲、読書不安の相互作用</title>
     <link>https://osf.io/evnct</link>
     <guid isPermaLink="false">https://osf.io/evnct#ja</guid>
     <pubDate>Thu, 05 Feb 2026 18:09:10 +0000</pubDate>
     <description>Understanding Reading Development: The Interplay of Fluency, Engagement, and Reading Anxiety in Early  Grades</description>
   </item>
   <item>
-    <title>RDoCに基づく説明可能なAIを用いた多層的アルツハイマー病診断および進行予測のパラダイム：系統的レビュー</title>
+    <title>RDoCに基づく説明可能なAIによる多層的アルツハイマー病診断および進行予測のパラダイム：系統的レビュー</title>
     <link>https://osf.io/z5xtj</link>
     <guid isPermaLink="false">https://osf.io/z5xtj#ja</guid>
     <pubDate>Thu, 05 Feb 2026 18:09:10 +0000</pubDate>
@@ -34,14 +55,14 @@
     <description>Leadership Development as an Enabler of Employee Job Crafting and Well-Being: Evidence From a Cluster-Randomized Field Experiment</description>
   </item>
   <item>
-    <title>顔認識能力を超えて：スーパー・レコグナイザーの認知的強み</title>
+    <title>顔認識能力を超えて：スーパ認識者の認知的強み</title>
     <link>https://osf.io/6a592</link>
     <guid isPermaLink="false">https://osf.io/6a592#ja</guid>
     <pubDate>Thu, 05 Feb 2026 18:09:10 +0000</pubDate>
     <description>Beyond face memory: The cognitive strengths of super recognizers</description>
   </item>
   <item>
-    <title>ソーシャルメディアにおける自殺および自傷行為予防：介入策とユーザー主導の実践に関する体系的レビュー（2014–2025年）</title>
+    <title>ソーシャルメディアにおける自殺および自傷行為予防：介入策と利用者主導の実践に関する体系的レビュー（2014–2025年）</title>
     <link>https://osf.io/cj6ed</link>
     <guid isPermaLink="false">https://osf.io/cj6ed#ja</guid>
     <pubDate>Thu, 05 Feb 2026 18:09:09 +0000</pubDate>
@@ -55,7 +76,7 @@
     <description>Organisational Readiness and Preparedness for Trauma-Informed Practice Across UK Frontline Services: A Mixed-Methods Study</description>
   </item>
   <item>
-    <title>中国における中高年層のデジタル排除：2011年から2022年の三つの全国調査による年齢・期間・コホート分析</title>
+    <title>中国における中高年層のデジタル排除：2011年から2022年の三つの全国調査による年齢・時期・コホート効果の検証</title>
     <link>https://osf.io/hpv68</link>
     <guid isPermaLink="false">https://osf.io/hpv68#ja</guid>
     <pubDate>Thu, 05 Feb 2026 18:09:09 +0000</pubDate>
@@ -69,7 +90,7 @@
     <description>Aesthetic Response and Aesthetic Inference in Patients with Schizophrenia</description>
   </item>
   <item>
-    <title>早産児の若年思春期におけるメンタルヘルスの結果が示す早期スクリーニングの必要性</title>
+    <title>早産児として生まれた若年思春期におけるメンタルヘルスの結果が示す早期スクリーニングの必要性</title>
     <link>https://osf.io/hv3xs</link>
     <guid isPermaLink="false">https://osf.io/hv3xs#ja</guid>
     <pubDate>Thu, 05 Feb 2026 17:13:59 +0000</pubDate>
@@ -83,7 +104,7 @@
     <description>Incident cognitive impairment in young and middle-aged adults suffering from obesity: a systematic literature review</description>
   </item>
   <item>
-    <title>16～19歳における教職への関心の社会認知的探究</title>
+    <title>16～19歳の若者における教職への関心に関する社会認知的探究</title>
     <link>https://osf.io/gtbcz</link>
     <guid isPermaLink="false">https://osf.io/gtbcz#ja</guid>
     <pubDate>Thu, 05 Feb 2026 17:13:58 +0000</pubDate>
@@ -104,7 +125,7 @@
     <description>The French Grit-O Scale: Psychometric Properties and Associations with Engagement, Performance, and Well-Being</description>
   </item>
   <item>
-    <title>若年成人期における行動依存症とその後の自殺念慮：スイス若年男性の人口ベースコホート研究からの証拠</title>
+    <title>若年成人期における行動嗜癖とその後の自殺念慮：スイス若年男性の人口ベースコホート研究からの証拠</title>
     <link>https://osf.io/cth93</link>
     <guid isPermaLink="false">https://osf.io/cth93#ja</guid>
     <pubDate>Thu, 05 Feb 2026 17:13:57 +0000</pubDate>
@@ -139,21 +160,21 @@
     <description>Longitudinal event‑sampling dataset of football fans across five countries during the 2024 European championship</description>
   </item>
   <item>
-    <title>原発性進行性失語症の治療研究における民族・人種および言語的多様性：系統的レビュー</title>
+    <title>原発性進行性失語症の治療研究における民族・言語的多様性：系統的レビュー</title>
     <link>https://osf.io/6sz7h</link>
     <guid isPermaLink="false">https://osf.io/6sz7h#ja</guid>
     <pubDate>Thu, 05 Feb 2026 17:13:56 +0000</pubDate>
     <description>Ethnoracial and Linguistic Diversity in Treatment Research for Primary Progressive Aphasia: A Systematic Review</description>
   </item>
   <item>
-    <title>オランダの大規模コホート研究二件における健康的な食事パターン、食品および栄養素と高い抑うつ症状発症率との関連</title>
+    <title>オランダの大規模コホート研究2件における健康的な食事パターン、食品および栄養素と高い抑うつ症状発症の関連性</title>
     <link>https://osf.io/p3c97</link>
     <guid isPermaLink="false">https://osf.io/p3c97#ja</guid>
     <pubDate>Thu, 05 Feb 2026 17:13:56 +0000</pubDate>
     <description>Associations of a healthy dietary pattern, foods, and nutrients with the incidence of high depressive symptoms in two large cohort studies in the Netherlands</description>
   </item>
   <item>
-    <title>適切な場所・適切な時間：移動中の睡眠覚醒サイクル、身体活動、姿勢における心拍数および心拍変動の消費者向けウェアラブルデバイスの検証</title>
+    <title>適切な場所・適切な時間：外来環境における睡眠覚醒サイクル、身体活動、姿勢を通じた消費者向けウェアラブル心拍数および心拍変動の検証</title>
     <link>https://osf.io/qc2b3</link>
     <guid isPermaLink="false">https://osf.io/qc2b3#ja</guid>
     <pubDate>Thu, 05 Feb 2026 17:13:55 +0000</pubDate>
@@ -195,7 +216,7 @@
     <description>Coping for Climate Resilience: Climate Emotions, Empathy, and Nature Connectedness Predict Patterns of Pro-Environmental Behavior and Impairment in Adolescents</description>
   </item>
   <item>
-    <title>機能性神経症状障害における解離の瞬間的予測因子：エコロジカルモーメンタリーアセスメントを用いた研究</title>
+    <title>機能性神経症における解離の瞬間的予測因子：エコロジカルモーメントアセスメントを用いた研究</title>
     <link>https://osf.io/6ax3u</link>
     <guid isPermaLink="false">https://osf.io/6ax3u#ja</guid>
     <pubDate>Thu, 05 Feb 2026 17:13:53 +0000</pubDate>
@@ -209,7 +230,7 @@
     <description>Reporting Practices, Open Science Practices, and Trustworthiness of Simulation Studies in Psychology: A Questionnaire Study</description>
   </item>
   <item>
-    <title>作業記憶と語彙知識が比喩の文字通りの意味の活性化を文章理解中に維持する役割</title>
+    <title>作業記憶と語彙知識が文理解における比喩の文字通りの意味の活性化を維持する</title>
     <link>https://osf.io/dqanh</link>
     <guid isPermaLink="false">https://osf.io/dqanh#ja</guid>
     <pubDate>Thu, 05 Feb 2026 09:39:26 +0000</pubDate>
@@ -223,14 +244,14 @@
     <description>De la communication médiatisée par l’IA à l’usurpation d’authenticité : quels risques pour la confiance épistémique dans les relations intimes et thérapeutiques ?</description>
   </item>
   <item>
-    <title>1年生の初期識字能力と読解力支援：GraphoLearnおよび教師主導のフォニックス介入によるランダム化比較試験の成果</title>
+    <title>1年生の初期リテラシーおよび読解力支援：GraphoLearnと教師主導のフォニックス介入を用いたランダム化比較試験の結果</title>
     <link>https://osf.io/9j4az</link>
     <guid isPermaLink="false">https://osf.io/9j4az#ja</guid>
     <pubDate>Wed, 04 Feb 2026 21:52:33 +0000</pubDate>
     <description>Supporting Early Literacy and Reading Skills in Grade 1: Findings from a Randomised  Control Trial with GraphoLearn and Teacher-Led Phonics Intervention</description>
   </item>
   <item>
-    <title>青年期の情動が日々の携帯電話使用を予測する（逆は成り立たず）</title>
+    <title>青年期の感情の日々の変動が携帯電話使用を予測する（逆は成立せず）</title>
     <link>https://osf.io/5d67p</link>
     <guid isPermaLink="false">https://osf.io/5d67p#ja</guid>
     <pubDate>Wed, 04 Feb 2026 21:52:33 +0000</pubDate>
@@ -265,7 +286,7 @@
     <description>Missing Data in Intensive Longitudinal Suicide Research: A Monte Carlo simulation study</description>
   </item>
   <item>
-    <title>幼少期の過酷さと予測不可能性がリスクおよび曖昧性選好に及ぼす相関関係</title>
+    <title>幼少期の過酷さと不確実性がリスク選好および曖昧性選好に及ぼす相関関係</title>
     <link>https://osf.io/cfvsq</link>
     <guid isPermaLink="false">https://osf.io/cfvsq#ja</guid>
     <pubDate>Wed, 04 Feb 2026 20:29:57 +0000</pubDate>
@@ -279,35 +300,35 @@
     <description>What’s a multiverse good for anyway?</description>
   </item>
   <item>
-    <title>作業記憶の機能発揮：コストと柔軟性のトレードオフとしての選択的関与</title>
+    <title>作業記憶の機能発現：コストと柔軟性のトレードオフとしての選択的関与</title>
     <link>https://osf.io/64b9q</link>
     <guid isPermaLink="false">https://osf.io/64b9q#ja</guid>
     <pubDate>Wed, 04 Feb 2026 11:05:30 +0000</pubDate>
     <description>When working memory works:  Selective engagement as a tradeoff between cost and flexibility</description>
   </item>
   <item>
-    <title>オペラント触覚トレーニングにおけるtDCSおよびtACSの効果：神経調節効力の個人差の検討</title>
+    <title>経頭蓋直流刺激および交流刺激がオペラント触覚訓練に及ぼす影響：神経調節効果の個人差の検討</title>
     <link>https://osf.io/rp9mc</link>
     <guid isPermaLink="false">https://osf.io/rp9mc#ja</guid>
     <pubDate>Wed, 04 Feb 2026 11:05:30 +0000</pubDate>
     <description>Effects of tDCS and tACS on Operant Tactile Training:  Investigating Individual Differences in Neuromodulation Efficacy</description>
   </item>
   <item>
-    <title>欠乏感と特権感のどちらに苛立つか？多数派集団内における認知された（不）利益の異なるプロファイルの解明</title>
+    <title>欠乏感と特権感に挫折するか？多数派集団内における認知された（不）利益の異なるプロファイルの解明</title>
     <link>https://osf.io/bkt2a</link>
     <guid isPermaLink="false">https://osf.io/bkt2a#ja</guid>
     <pubDate>Wed, 04 Feb 2026 11:05:29 +0000</pubDate>
     <description>Frustrated by Deprivation or Privilege? Revealing Divergent Profiles of Perceived (Dis)advantage within Majority Groups</description>
   </item>
   <item>
-    <title>心身一元論の計算的枠組み：健康の身体化モデルの形式化</title>
+    <title>心身統一の計算的枠組み：健康の具現化モデルの形式化</title>
     <link>https://osf.io/uq934</link>
     <guid isPermaLink="false">https://osf.io/uq934#ja</guid>
     <pubDate>Wed, 04 Feb 2026 11:05:29 +0000</pubDate>
     <description>A Computational Framework of Mind-Body Unity: Formalizing Embodied Models of Health</description>
   </item>
   <item>
-    <title>犯罪被害者および加害者の描写に関する真実の犯罪メディア認知</title>
+    <title>犯罪被害者および加害者の描写に関する真実の犯罪メディアの知覚</title>
     <link>https://osf.io/j9u3g</link>
     <guid isPermaLink="false">https://osf.io/j9u3g#ja</guid>
     <pubDate>Wed, 04 Feb 2026 11:05:29 +0000</pubDate>
@@ -333,27 +354,6 @@
     <guid isPermaLink="false">https://osf.io/wkfmq#ja</guid>
     <pubDate>Wed, 04 Feb 2026 10:06:41 +0000</pubDate>
     <description>Future directions in the science and practice of parental monitoring</description>
-  </item>
-  <item>
-    <title>学生の身体活動および座位行動に関連する大学システムの行動システムマップの構築に向けて</title>
-    <link>https://osf.io/zrf5c</link>
-    <guid isPermaLink="false">https://osf.io/zrf5c#ja</guid>
-    <pubDate>Wed, 04 Feb 2026 10:06:41 +0000</pubDate>
-    <description>Towards a Behavioural Systems Map of the University System in Relation to Student Physical Activity and Sedentary Behaviour</description>
-  </item>
-  <item>
-    <title>オンラインにおける人間行動クラウドソーシングのための10の原則</title>
-    <link>https://osf.io/nhtu2</link>
-    <guid isPermaLink="false">https://osf.io/nhtu2#ja</guid>
-    <pubDate>Tue, 03 Feb 2026 23:50:30 +0000</pubDate>
-    <description>Ten Principles for Crowdsourcing Human Behavior Online</description>
-  </item>
-  <item>
-    <title>幼児期における生成AI玩具を用いた子どもの遊びに関するスコーピングレビュー</title>
-    <link>https://osf.io/aj5hs</link>
-    <guid isPermaLink="false">https://osf.io/aj5hs#ja</guid>
-    <pubDate>Tue, 03 Feb 2026 18:10:41 +0000</pubDate>
-    <description>A scoping review of children’s play with GenAI toys in the early years</description>
   </item>
 </channel>
 </rss>
