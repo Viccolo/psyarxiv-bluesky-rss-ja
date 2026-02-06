@@ -6,6 +6,48 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>アメリカ成人全国調査におけるカンナビノイド過敏症候群と薬物使用、精神健康問題、反社会的行動およびパーソナリティの関連性</title>
+    <link>https://osf.io/4mbku</link>
+    <guid isPermaLink="false">https://osf.io/4mbku#ja</guid>
+    <pubDate>Fri, 06 Feb 2026 19:11:43 +0000</pubDate>
+    <description>Links between Cannabinoid Hyperemesis Syndrome and drug use, mental health problems, antisocial behavior, and personality in a national survey of adults in the United States</description>
+  </item>
+  <item>
+    <title>断たれた幼少期：メキシコとアメリカにおける心理社会的トラウマと子どもの生活の質</title>
+    <link>https://osf.io/q8tav</link>
+    <guid isPermaLink="false">https://osf.io/q8tav#ja</guid>
+    <pubDate>Fri, 06 Feb 2026 19:11:43 +0000</pubDate>
+    <description>Fractured Childhoods: Psychosocial Trauma and Child Quality of Life in Mexico and the United States</description>
+  </item>
+  <item>
+    <title>ダンス可能性の付与：参加者選択音楽に合わせて動きたいという第一人称および第三人称の記述</title>
+    <link>https://osf.io/wm9za</link>
+    <guid isPermaLink="false">https://osf.io/wm9za#ja</guid>
+    <pubDate>Fri, 06 Feb 2026 19:11:43 +0000</pubDate>
+    <description>Affording Danceability: First- and Third-person Accounts of Wanting to Move to Participant-Selected Music</description>
+  </item>
+  <item>
+    <title>AI専用ソーシャルメディア（AOSM）概念への曝露は、特にAIの多用者においてAIを実存的脅威と認識する傾向を高める</title>
+    <link>https://osf.io/hnzv3</link>
+    <guid isPermaLink="false">https://osf.io/hnzv3#ja</guid>
+    <pubDate>Fri, 06 Feb 2026 19:11:42 +0000</pubDate>
+    <description>Exposure to the Concept of AI-Only Social Media (AOSM) Concept Increases Perception of AI as an Existential Threat, Especially Among Heavy AI Users</description>
+  </item>
+  <item>
+    <title>価値表象が変化する目標下での学習に与える影響</title>
+    <link>https://osf.io/7bnkp</link>
+    <guid isPermaLink="false">https://osf.io/7bnkp#ja</guid>
+    <pubDate>Fri, 06 Feb 2026 19:11:42 +0000</pubDate>
+    <description>Value Representations Shape Learning Under Changing Goals</description>
+  </item>
+  <item>
+    <title>依存症における時間経験：調節障害から回復へ 統一的概念枠組みの構築に向けて</title>
+    <link>https://osf.io/rnbfa</link>
+    <guid isPermaLink="false">https://osf.io/rnbfa#ja</guid>
+    <pubDate>Fri, 06 Feb 2026 19:11:42 +0000</pubDate>
+    <description>Temporal Experience in Addiction from Dysregulation to Recovery.  Toward a Unified Conceptual Framework</description>
+  </item>
+  <item>
     <title>第二言語音声知覚の注意理論に向けて：手がかり生態学からの証拠</title>
     <link>https://osf.io/4y3rm</link>
     <guid isPermaLink="false">https://osf.io/4y3rm#ja</guid>
@@ -13,7 +55,7 @@
     <description>Towards an Attentional Theory of Second-Language Speech Perception: Evidence from Cue Ecology</description>
   </item>
   <item>
-    <title>バイリンガリズムは認知機能低下を防ぐか？多民族高齢者における横断的および縦断的証拠</title>
+    <title>バイリンガリズムは認知機能低下を防ぐか？多民族高齢者を対象とした横断的および縦断的研究</title>
     <link>https://osf.io/72rd4</link>
     <guid isPermaLink="false">https://osf.io/72rd4#ja</guid>
     <pubDate>Fri, 06 Feb 2026 18:04:09 +0000</pubDate>
@@ -41,7 +83,7 @@
     <description>General and domain-specific genetic signals shape educational outcomes in children and adults</description>
   </item>
   <item>
-    <title>非党派的かつ情報源に基づくAI有権者ガイドは信頼性が高く認識され、投票意図に影響を与える</title>
+    <title>非党派の情報源に基づくAI有権者ガイドは信頼性が高く認識され、投票意図に影響を与える</title>
     <link>https://osf.io/whsm8</link>
     <guid isPermaLink="false">https://osf.io/whsm8#ja</guid>
     <pubDate>Fri, 06 Feb 2026 15:06:11 +0000</pubDate>
@@ -55,7 +97,7 @@
     <description>Walking the Neurotic Treadmill</description>
   </item>
   <item>
-    <title>毛髪コルチゾールは性的・性別少数者ストレスがうつ病および不安に及ぼす影響を媒介するか？構造方程式モデリングによる検討</title>
+    <title>毛髪コルチゾールは性的・性別マイノリティのストレスがうつ病および不安に与える影響を媒介するか？構造方程式モデリングによる検討</title>
     <link>https://osf.io/anzey</link>
     <guid isPermaLink="false">https://osf.io/anzey#ja</guid>
     <pubDate>Fri, 06 Feb 2026 11:29:56 +0000</pubDate>
@@ -76,7 +118,7 @@
     <description>Cognitive Behavioral Assessment Toolbox (CBAT): An Open-Source Platform Supporting Experiments in Computational Psychiatry</description>
   </item>
   <item>
-    <title>鎮静効果と乳児-母親関係：乳児の苦痛に対する現実世界における生態学的妥当な母親の反応の個人差</title>
+    <title>安心感と乳児-母親関係：乳児の苦痛に対する実世界における生態学的妥当な母親の反応の個人差</title>
     <link>https://osf.io/vuker</link>
     <guid isPermaLink="false">https://osf.io/vuker#ja</guid>
     <pubDate>Fri, 06 Feb 2026 11:29:55 +0000</pubDate>
@@ -132,7 +174,7 @@
     <description>On explanatory theories of speech categorization</description>
   </item>
   <item>
-    <title>真実の基準は誰のものか？ラベル選択が機械学習モデルに及ぼす影響</title>
+    <title>真実の基準は誰のものか？：機械学習モデルにおけるラベル選択の影響</title>
     <link>https://osf.io/6u8je</link>
     <guid isPermaLink="false">https://osf.io/6u8je#ja</guid>
     <pubDate>Thu, 05 Feb 2026 22:22:08 +0000</pubDate>
@@ -153,7 +195,7 @@
     <description>Workslop: Examining the prevalence, antecedents and consequences of low-quality AI-generated content at work</description>
   </item>
   <item>
-    <title>階層的選択における非対称的多様性追求行動</title>
+    <title>階層的選択における非対称的多様性追求</title>
     <link>https://osf.io/vc78h</link>
     <guid isPermaLink="false">https://osf.io/vc78h#ja</guid>
     <pubDate>Thu, 05 Feb 2026 22:22:07 +0000</pubDate>
@@ -167,7 +209,7 @@
     <description>Evidence on the validity, reliability and usability of active and passive sensing of cognition for use in ambulatory studies: A systematic scoping review</description>
   </item>
   <item>
-    <title>「『親友ならAIはあまり監視しない』：子どものAI安全性に関する知識と誤解」</title>
+    <title>「親しい友人ならAIはあまり監視しない」：子どものAI安全性に関する知識と誤解</title>
     <link>https://osf.io/jva7z</link>
     <guid isPermaLink="false">https://osf.io/jva7z#ja</guid>
     <pubDate>Thu, 05 Feb 2026 21:37:17 +0000</pubDate>
@@ -202,7 +244,7 @@
     <description>Hard to Classify: Toward an Inclusive Framework of Racial Ambiguity</description>
   </item>
   <item>
-    <title>共有時間：時間知覚における暗黙の合意の形成</title>
+    <title>共有された時間：時間知覚における暗黙の合意の形成</title>
     <link>https://osf.io/h5b93</link>
     <guid isPermaLink="false">https://osf.io/h5b93#ja</guid>
     <pubDate>Thu, 05 Feb 2026 21:37:15 +0000</pubDate>
@@ -216,35 +258,35 @@
     <description>Processes of change in cognitive-behavioral psychotherapy for procrastination: moderation and longitudinal mediation analyses of randomized controlled trial data</description>
   </item>
   <item>
-    <title>日常生活における養育者と子どもの接近度の測定：TotTagウェアラブルセンサーの実用性と受容性の検討</title>
+    <title>日常生活における養育者と子どもの近接性の測定：TotTagウェアラブルセンサーの実現可能性と受容性</title>
     <link>https://osf.io/tejdg</link>
     <guid isPermaLink="false">https://osf.io/tejdg#ja</guid>
     <pubDate>Thu, 05 Feb 2026 21:37:14 +0000</pubDate>
     <description>Measuring Caregiver–Child Proximity in Daily Life: Feasibility and Acceptability of the TotTag Wearable Sensor</description>
   </item>
   <item>
-    <title>痩身志向か健康志向か？高カロリー健康食品と高カロリー不健康食品に対する好意と接近バイアスの違いが神経性無食欲症とオルトレキシア神経症を識別する</title>
+    <title>痩身志向か健康志向か？高カロリー健康食品と高カロリー不健康食品に対する好意と接近バイアスの違いが示す神経性無食欲症とオルトレキシア神経症の識別</title>
     <link>https://osf.io/c5v4e</link>
     <guid isPermaLink="false">https://osf.io/c5v4e#ja</guid>
     <pubDate>Thu, 05 Feb 2026 20:59:36 +0000</pubDate>
     <description>Restrict for Thinness or for Health? Liking but Not Approach Bias Differentiates Anorexia from Orthorexia Nervosa in Responses to High-Caloric Healthy vs. High-Caloric Unhealthy Foods</description>
   </item>
   <item>
-    <title>アフガニスタンにおける5歳未満児の栄養失調および発育阻害：ニーズと資源の評価研究</title>
+    <title>アフガニスタンにおける5歳未満児の栄養失調と発育遅滞：ニーズと資源の評価研究</title>
     <link>https://osf.io/53jpr</link>
     <guid isPermaLink="false">https://osf.io/53jpr#ja</guid>
     <pubDate>Thu, 05 Feb 2026 20:59:35 +0000</pubDate>
     <description>Wasting and Stunting in Children Under Five in Afghanistan: A Needs and Assets Assessment Study</description>
   </item>
   <item>
-    <title>大規模学生調査における機関間比較の最適化：ラッセルグループ機関における全国学生調査（NSS）を事例として</title>
+    <title>大規模学生調査における機関間比較の最適化：ラッセルグループ機関における全国学生調査（NSS）を用いた事例検討</title>
     <link>https://osf.io/yxkur</link>
     <guid isPermaLink="false">https://osf.io/yxkur#ja</guid>
     <pubDate>Thu, 05 Feb 2026 20:59:35 +0000</pubDate>
     <description>Optimising Cross-Institutional Comparisons in Large-Scale Student Surveys: An Illustration with the National Student Survey (NSS) in Russell Group Institutions</description>
   </item>
   <item>
-    <title>基礎的視覚処理と高次社会認知の関連性：社会機能障害を有する横断的サンプルにおける眼差し知覚のメカニズム的架け橋としての役割</title>
+    <title>基礎的視覚処理と高次社会認知の関連性：社会機能障害を含む横断的サンプルにおける眼差し知覚のメカニズム的架け橋としての役割</title>
     <link>https://osf.io/r8fpw</link>
     <guid isPermaLink="false">https://osf.io/r8fpw#ja</guid>
     <pubDate>Thu, 05 Feb 2026 20:59:34 +0000</pubDate>
@@ -272,88 +314,46 @@
     <description>Reward Learning Positively Biases Widespread Impressions and Social Choice</description>
   </item>
   <item>
-    <title>感情の概念的知識は意味的に共有され社会的情報を提供する</title>
+    <title>感情の概念的知識は意味的に共有され社会的に情報を提供する</title>
     <link>https://osf.io/swhgq</link>
     <guid isPermaLink="false">https://osf.io/swhgq#ja</guid>
     <pubDate>Thu, 05 Feb 2026 18:09:11 +0000</pubDate>
     <description>Conceptual Knowledge of Emotions is Semantically Shared and Socially Informative</description>
   </item>
   <item>
-    <title>読解発達の理解：初等学年における流暢性、読書への関与、不安の相互作用</title>
+    <title>読書発達の理解：初等学年における流暢性、関与、および読書不安の相互作用</title>
     <link>https://osf.io/evnct</link>
     <guid isPermaLink="false">https://osf.io/evnct#ja</guid>
     <pubDate>Thu, 05 Feb 2026 18:09:10 +0000</pubDate>
     <description>Understanding Reading Development: The Interplay of Fluency, Engagement, and Reading Anxiety in Early  Grades</description>
   </item>
   <item>
-    <title>RDoCに基づく説明可能なAIによる多層的アルツハイマー病診断および進行予測のパラダイム：系統的レビュー</title>
+    <title>RDoCに基づく説明可能なAIを用いた多層的アルツハイマー病診断および進行予測のパラダイム：系統的レビュー</title>
     <link>https://osf.io/z5xtj</link>
     <guid isPermaLink="false">https://osf.io/z5xtj#ja</guid>
     <pubDate>Thu, 05 Feb 2026 18:09:10 +0000</pubDate>
     <description>RDoC-Informed Explainable AI as a Paradigm for Multilevel Alzheimer’s Disease Diagnosis and Progression Prediction: a Systematic Review</description>
   </item>
   <item>
-    <title>従業員のジョブクラフティングとウェルビーイングを促進するリーダーシップ開発：クラスター無作為化フィールド実験による検証</title>
+    <title>リーダーシップ開発が従業員のジョブクラフティングとウェルビーイングに及ぼす影響：クラスター無作為化フィールド実験による検証</title>
     <link>https://osf.io/hjn38</link>
     <guid isPermaLink="false">https://osf.io/hjn38#ja</guid>
     <pubDate>Thu, 05 Feb 2026 18:09:10 +0000</pubDate>
     <description>Leadership Development as an Enabler of Employee Job Crafting and Well-Being: Evidence From a Cluster-Randomized Field Experiment</description>
   </item>
   <item>
-    <title>顔認識能力を超えて：スーパー・レコグナイザーの認知的強み</title>
+    <title>顔認識を超えて：スーパ認識者の認知的強み</title>
     <link>https://osf.io/6a592</link>
     <guid isPermaLink="false">https://osf.io/6a592#ja</guid>
     <pubDate>Thu, 05 Feb 2026 18:09:10 +0000</pubDate>
     <description>Beyond face memory: The cognitive strengths of super recognizers</description>
   </item>
   <item>
-    <title>ソーシャルメディアにおける自殺および自傷予防：介入策とユーザー主導の実践に関する体系的レビュー（2014–2025年）</title>
+    <title>ソーシャルメディアにおける自殺および自傷行為予防：介入策とユーザー主導の実践に関する体系的レビュー（2014–2025年）</title>
     <link>https://osf.io/cj6ed</link>
     <guid isPermaLink="false">https://osf.io/cj6ed#ja</guid>
     <pubDate>Thu, 05 Feb 2026 18:09:09 +0000</pubDate>
     <description>Suicide and Self-Harm Prevention on Social Media: A Systematic Review of Interventions and User-Led Practices (2014–2025)</description>
-  </item>
-  <item>
-    <title>英国の最前線サービスにおけるトラウマインフォームド実践への組織的準備性と対応力：混合方法研究</title>
-    <link>https://osf.io/wcys3</link>
-    <guid isPermaLink="false">https://osf.io/wcys3#ja</guid>
-    <pubDate>Thu, 05 Feb 2026 18:09:09 +0000</pubDate>
-    <description>Organisational Readiness and Preparedness for Trauma-Informed Practice Across UK Frontline Services: A Mixed-Methods Study</description>
-  </item>
-  <item>
-    <title>中国における中高年層のデジタル排除：2011年から2022年の3つの全国調査による年齢・期間・コホート分析</title>
-    <link>https://osf.io/hpv68</link>
-    <guid isPermaLink="false">https://osf.io/hpv68#ja</guid>
-    <pubDate>Thu, 05 Feb 2026 18:09:09 +0000</pubDate>
-    <description>Digital exclusion among middle-aged and older adults in China: age–period–cohort evidence from three national surveys, 2011–2022</description>
-  </item>
-  <item>
-    <title>統合失調症患者における美的反応と美的推論</title>
-    <link>https://osf.io/xq9ek</link>
-    <guid isPermaLink="false">https://osf.io/xq9ek#ja</guid>
-    <pubDate>Thu, 05 Feb 2026 17:13:59 +0000</pubDate>
-    <description>Aesthetic Response and Aesthetic Inference in Patients with Schizophrenia</description>
-  </item>
-  <item>
-    <title>早産児として生まれた若年思春期者の精神健康アウトカムは、より早期のスクリーニングの必要性を示す</title>
-    <link>https://osf.io/hv3xs</link>
-    <guid isPermaLink="false">https://osf.io/hv3xs#ja</guid>
-    <pubDate>Thu, 05 Feb 2026 17:13:59 +0000</pubDate>
-    <description>Mental health outcomes in young adolescents born preterm reveal the need for earlier screening</description>
-  </item>
-  <item>
-    <title>肥満を有する若年・中年成人における新規認知機能障害：系統的文献レビュー</title>
-    <link>https://osf.io/pyg2n</link>
-    <guid isPermaLink="false">https://osf.io/pyg2n#ja</guid>
-    <pubDate>Thu, 05 Feb 2026 17:13:59 +0000</pubDate>
-    <description>Incident cognitive impairment in young and middle-aged adults suffering from obesity: a systematic literature review</description>
-  </item>
-  <item>
-    <title>16～19歳における教職への関心に関する社会認知的探究</title>
-    <link>https://osf.io/gtbcz</link>
-    <guid isPermaLink="false">https://osf.io/gtbcz#ja</guid>
-    <pubDate>Thu, 05 Feb 2026 17:13:58 +0000</pubDate>
-    <description>A Social–Cognitive Exploration of Interest in Teaching Among 16-19-Year-Olds</description>
   </item>
 </channel>
 </rss>
