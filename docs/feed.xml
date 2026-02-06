@@ -6,6 +6,20 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>第二言語音声知覚の注意理論に向けて：手がかり生態学からの証拠</title>
+    <link>https://osf.io/4y3rm</link>
+    <guid isPermaLink="false">https://osf.io/4y3rm#ja</guid>
+    <pubDate>Fri, 06 Feb 2026 18:04:09 +0000</pubDate>
+    <description>Towards an Attentional Theory of Second-Language Speech Perception: Evidence from Cue Ecology</description>
+  </item>
+  <item>
+    <title>バイリンガリズムは認知機能低下を防ぐか？多民族高齢者における横断的および縦断的証拠</title>
+    <link>https://osf.io/72rd4</link>
+    <guid isPermaLink="false">https://osf.io/72rd4#ja</guid>
+    <pubDate>Fri, 06 Feb 2026 18:04:09 +0000</pubDate>
+    <description>Does Bilingualism Protect against Cognitive Decline? Cross-sectional and Longitudinal Evidence from Ethnically Diverse Older Adults</description>
+  </item>
+  <item>
     <title>親が思春期のスクリーンタイムに与える影響：デンマークとアイルランドの調査結果</title>
     <link>https://osf.io/6n4fc</link>
     <guid isPermaLink="false">https://osf.io/6n4fc#ja</guid>
@@ -41,7 +55,7 @@
     <description>Walking the Neurotic Treadmill</description>
   </item>
   <item>
-    <title>毛髪コルチゾールは性的・性別マイノリティストレスがうつ病および不安に及ぼす影響を媒介するか？構造方程式モデリングによる検討</title>
+    <title>毛髪コルチゾールは性的・性別少数者ストレスがうつ病および不安に及ぼす影響を媒介するか？構造方程式モデリングによる検討</title>
     <link>https://osf.io/anzey</link>
     <guid isPermaLink="false">https://osf.io/anzey#ja</guid>
     <pubDate>Fri, 06 Feb 2026 11:29:56 +0000</pubDate>
@@ -62,21 +76,21 @@
     <description>Cognitive Behavioral Assessment Toolbox (CBAT): An Open-Source Platform Supporting Experiments in Computational Psychiatry</description>
   </item>
   <item>
-    <title>安心感と乳児-母親関係：乳児の苦痛に対する実世界かつ生態学的妥当性のある母親の個人差応答</title>
+    <title>鎮静効果と乳児-母親関係：乳児の苦痛に対する現実世界における生態学的妥当な母親の反応の個人差</title>
     <link>https://osf.io/vuker</link>
     <guid isPermaLink="false">https://osf.io/vuker#ja</guid>
     <pubDate>Fri, 06 Feb 2026 11:29:55 +0000</pubDate>
     <description>Soothing and Infant-Mother Relationship: Individual Differences in Real World, Ecologically Valid Maternal Response to Infant Distress</description>
   </item>
   <item>
-    <title>オープンサイエンスとデータ標準化に関する研究</title>
+    <title>オープンサイエンスとデータ標準化</title>
     <link>https://osf.io/m4etb</link>
     <guid isPermaLink="false">https://osf.io/m4etb#ja</guid>
     <pubDate>Thu, 05 Feb 2026 22:54:07 +0000</pubDate>
     <description>Open research and data standards</description>
   </item>
   <item>
-    <title>創造性におけるバイリンガル優位性の検証：資源制約ではなく容量制約に基づく認知構造の証拠</title>
+    <title>創造性におけるバイリンガル優位性の検証：資源基盤ではなく容量制限型認知構造の証拠</title>
     <link>https://osf.io/y5qsf</link>
     <guid isPermaLink="false">https://osf.io/y5qsf#ja</guid>
     <pubDate>Thu, 05 Feb 2026 22:54:07 +0000</pubDate>
@@ -118,7 +132,7 @@
     <description>On explanatory theories of speech categorization</description>
   </item>
   <item>
-    <title>真実とは誰のものか：ラベル選択が機械学習モデルに及ぼす影響</title>
+    <title>真実の基準は誰のものか？ラベル選択が機械学習モデルに及ぼす影響</title>
     <link>https://osf.io/6u8je</link>
     <guid isPermaLink="false">https://osf.io/6u8je#ja</guid>
     <pubDate>Thu, 05 Feb 2026 22:22:08 +0000</pubDate>
@@ -139,28 +153,28 @@
     <description>Workslop: Examining the prevalence, antecedents and consequences of low-quality AI-generated content at work</description>
   </item>
   <item>
-    <title>階層的選択における非対称的多様性追求</title>
+    <title>階層的選択における非対称的多様性追求行動</title>
     <link>https://osf.io/vc78h</link>
     <guid isPermaLink="false">https://osf.io/vc78h#ja</guid>
     <pubDate>Thu, 05 Feb 2026 22:22:07 +0000</pubDate>
     <description>Asymmetric Variety Seeking in Hierarchical Choices</description>
   </item>
   <item>
-    <title>認知の能動的および受動的センシングの妥当性・信頼性・実用性に関する証拠：移動中研究への応用を目指した系統的スコーピングレビュー</title>
+    <title>移動中研究における認知の能動的および受動的センシングの妥当性、信頼性および実用性に関する証拠：系統的スコーピングレビュー</title>
     <link>https://osf.io/4r3jm</link>
     <guid isPermaLink="false">https://osf.io/4r3jm#ja</guid>
     <pubDate>Thu, 05 Feb 2026 22:22:06 +0000</pubDate>
     <description>Evidence on the validity, reliability and usability of active and passive sensing of cognition for use in ambulatory studies: A systematic scoping review</description>
   </item>
   <item>
-    <title>「『親しい友達ならAIはあまり監視しない』：子どものAI安全性に関する知識と誤解」</title>
+    <title>「『親友ならAIはあまり監視しない』：子どものAI安全性に関する知識と誤解」</title>
     <link>https://osf.io/jva7z</link>
     <guid isPermaLink="false">https://osf.io/jva7z#ja</guid>
     <pubDate>Thu, 05 Feb 2026 21:37:17 +0000</pubDate>
     <description>“If we are good friends, AI doesn&#x27;t spy so much”: Children’s knowledge and misconceptions of AI safety</description>
   </item>
   <item>
-    <title>非臨床的解離体験と精神病様体験の比較：現実モニタリングおよび「速思考」バイアスの認知的関連性の検討</title>
+    <title>非臨床的解離体験と精神病様体験の比較：現実モニタリングと「速思考」バイアスの認知的関連性の検討</title>
     <link>https://osf.io/dt39r</link>
     <guid isPermaLink="false">https://osf.io/dt39r#ja</guid>
     <pubDate>Thu, 05 Feb 2026 21:37:17 +0000</pubDate>
@@ -202,28 +216,28 @@
     <description>Processes of change in cognitive-behavioral psychotherapy for procrastination: moderation and longitudinal mediation analyses of randomized controlled trial data</description>
   </item>
   <item>
-    <title>日常生活における養育者と子どもの近接性の測定：TotTagウェアラブルセンサーの実現可能性と受容性</title>
+    <title>日常生活における養育者と子どもの接近度の測定：TotTagウェアラブルセンサーの実用性と受容性の検討</title>
     <link>https://osf.io/tejdg</link>
     <guid isPermaLink="false">https://osf.io/tejdg#ja</guid>
     <pubDate>Thu, 05 Feb 2026 21:37:14 +0000</pubDate>
     <description>Measuring Caregiver–Child Proximity in Daily Life: Feasibility and Acceptability of the TotTag Wearable Sensor</description>
   </item>
   <item>
-    <title>痩身志向か健康志向か？高カロリー健康食品と高カロリー不健康食品に対する好意度と接近バイアスの違いが示す神経性無食欲症とオルトレキシア神経症の識別</title>
+    <title>痩身志向か健康志向か？高カロリー健康食品と高カロリー不健康食品に対する好意と接近バイアスの違いが神経性無食欲症とオルトレキシア神経症を識別する</title>
     <link>https://osf.io/c5v4e</link>
     <guid isPermaLink="false">https://osf.io/c5v4e#ja</guid>
     <pubDate>Thu, 05 Feb 2026 20:59:36 +0000</pubDate>
     <description>Restrict for Thinness or for Health? Liking but Not Approach Bias Differentiates Anorexia from Orthorexia Nervosa in Responses to High-Caloric Healthy vs. High-Caloric Unhealthy Foods</description>
   </item>
   <item>
-    <title>アフガニスタンにおける5歳未満児の栄養失調および発育遅滞：ニーズと資源の評価研究</title>
+    <title>アフガニスタンにおける5歳未満児の栄養失調および発育阻害：ニーズと資源の評価研究</title>
     <link>https://osf.io/53jpr</link>
     <guid isPermaLink="false">https://osf.io/53jpr#ja</guid>
     <pubDate>Thu, 05 Feb 2026 20:59:35 +0000</pubDate>
     <description>Wasting and Stunting in Children Under Five in Afghanistan: A Needs and Assets Assessment Study</description>
   </item>
   <item>
-    <title>大規模学生調査における機関間比較の最適化：ラッセルグループ機関における全国学生調査（NSS）を用いた事例検討</title>
+    <title>大規模学生調査における機関間比較の最適化：ラッセルグループ機関における全国学生調査（NSS）を事例として</title>
     <link>https://osf.io/yxkur</link>
     <guid isPermaLink="false">https://osf.io/yxkur#ja</guid>
     <pubDate>Thu, 05 Feb 2026 20:59:35 +0000</pubDate>
@@ -258,21 +272,21 @@
     <description>Reward Learning Positively Biases Widespread Impressions and Social Choice</description>
   </item>
   <item>
-    <title>感情の概念的知識は意味的に共有され社会的に情報を提供する</title>
+    <title>感情の概念的知識は意味的に共有され社会的情報を提供する</title>
     <link>https://osf.io/swhgq</link>
     <guid isPermaLink="false">https://osf.io/swhgq#ja</guid>
     <pubDate>Thu, 05 Feb 2026 18:09:11 +0000</pubDate>
     <description>Conceptual Knowledge of Emotions is Semantically Shared and Socially Informative</description>
   </item>
   <item>
-    <title>読解発達の理解：初等学年における流暢性、読書意欲、読書不安の相互作用</title>
+    <title>読解発達の理解：初等学年における流暢性、読書への関与、不安の相互作用</title>
     <link>https://osf.io/evnct</link>
     <guid isPermaLink="false">https://osf.io/evnct#ja</guid>
     <pubDate>Thu, 05 Feb 2026 18:09:10 +0000</pubDate>
     <description>Understanding Reading Development: The Interplay of Fluency, Engagement, and Reading Anxiety in Early  Grades</description>
   </item>
   <item>
-    <title>RDoCに基づく説明可能なAIによる多層的アルツハイマー病診断および進行予測のパラダイム：体系的レビュー</title>
+    <title>RDoCに基づく説明可能なAIによる多層的アルツハイマー病診断および進行予測のパラダイム：系統的レビュー</title>
     <link>https://osf.io/z5xtj</link>
     <guid isPermaLink="false">https://osf.io/z5xtj#ja</guid>
     <pubDate>Thu, 05 Feb 2026 18:09:10 +0000</pubDate>
@@ -286,28 +300,28 @@
     <description>Leadership Development as an Enabler of Employee Job Crafting and Well-Being: Evidence From a Cluster-Randomized Field Experiment</description>
   </item>
   <item>
-    <title>顔認識能力を超えて：スーパーレコグナイザーの認知的強み</title>
+    <title>顔認識能力を超えて：スーパー・レコグナイザーの認知的強み</title>
     <link>https://osf.io/6a592</link>
     <guid isPermaLink="false">https://osf.io/6a592#ja</guid>
     <pubDate>Thu, 05 Feb 2026 18:09:10 +0000</pubDate>
     <description>Beyond face memory: The cognitive strengths of super recognizers</description>
   </item>
   <item>
-    <title>ソーシャルメディアにおける自殺および自傷行為予防：介入策と利用者主導の実践に関する体系的レビュー（2014–2025年）</title>
+    <title>ソーシャルメディアにおける自殺および自傷予防：介入策とユーザー主導の実践に関する体系的レビュー（2014–2025年）</title>
     <link>https://osf.io/cj6ed</link>
     <guid isPermaLink="false">https://osf.io/cj6ed#ja</guid>
     <pubDate>Thu, 05 Feb 2026 18:09:09 +0000</pubDate>
     <description>Suicide and Self-Harm Prevention on Social Media: A Systematic Review of Interventions and User-Led Practices (2014–2025)</description>
   </item>
   <item>
-    <title>英国の最前線サービスにおけるトラウマインフォームド実践への組織的準備性と備え：混合方法研究</title>
+    <title>英国の最前線サービスにおけるトラウマインフォームド実践への組織的準備性と対応力：混合方法研究</title>
     <link>https://osf.io/wcys3</link>
     <guid isPermaLink="false">https://osf.io/wcys3#ja</guid>
     <pubDate>Thu, 05 Feb 2026 18:09:09 +0000</pubDate>
     <description>Organisational Readiness and Preparedness for Trauma-Informed Practice Across UK Frontline Services: A Mixed-Methods Study</description>
   </item>
   <item>
-    <title>中国における中高年層のデジタル排除：2011年から2022年の3つの全国調査による年齢・時期・コホート効果の検証</title>
+    <title>中国における中高年層のデジタル排除：2011年から2022年の3つの全国調査による年齢・期間・コホート分析</title>
     <link>https://osf.io/hpv68</link>
     <guid isPermaLink="false">https://osf.io/hpv68#ja</guid>
     <pubDate>Thu, 05 Feb 2026 18:09:09 +0000</pubDate>
@@ -321,7 +335,7 @@
     <description>Aesthetic Response and Aesthetic Inference in Patients with Schizophrenia</description>
   </item>
   <item>
-    <title>早産児として生まれた若年思春期におけるメンタルヘルスの結果は、早期スクリーニングの必要性を示す</title>
+    <title>早産児として生まれた若年思春期者の精神健康アウトカムは、より早期のスクリーニングの必要性を示す</title>
     <link>https://osf.io/hv3xs</link>
     <guid isPermaLink="false">https://osf.io/hv3xs#ja</guid>
     <pubDate>Thu, 05 Feb 2026 17:13:59 +0000</pubDate>
@@ -340,20 +354,6 @@
     <guid isPermaLink="false">https://osf.io/gtbcz#ja</guid>
     <pubDate>Thu, 05 Feb 2026 17:13:58 +0000</pubDate>
     <description>A Social–Cognitive Exploration of Interest in Teaching Among 16-19-Year-Olds</description>
-  </item>
-  <item>
-    <title>ノイズボコーディングされたクローン音声と人間音声における知覚適応と学習の転移</title>
-    <link>https://osf.io/kqzmr</link>
-    <guid isPermaLink="false">https://osf.io/kqzmr#ja</guid>
-    <pubDate>Thu, 05 Feb 2026 17:13:58 +0000</pubDate>
-    <description>Perceptual adaptation and transfer of learning for noise‑vocoded cloned and human voice</description>
-  </item>
-  <item>
-    <title>フレンチ版Grit-O尺度の心理測定特性およびエンゲージメント、パフォーマンス、ウェルビーイングとの関連性</title>
-    <link>https://osf.io/kubyv</link>
-    <guid isPermaLink="false">https://osf.io/kubyv#ja</guid>
-    <pubDate>Thu, 05 Feb 2026 17:13:58 +0000</pubDate>
-    <description>The French Grit-O Scale: Psychometric Properties and Associations with Engagement, Performance, and Well-Being</description>
   </item>
 </channel>
 </rss>
