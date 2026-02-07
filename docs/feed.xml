@@ -6,14 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>海馬、類推、および意味認知：意味の抽象化と一般化のためのHippoSemAフレームワーク</title>
+    <title>海馬、類推、意味認知：意味の抽象化と一般化のためのHippoSemAフレームワーク</title>
     <link>https://osf.io/wqhds</link>
     <guid isPermaLink="false">https://osf.io/wqhds#ja</guid>
     <pubDate>Sat, 07 Feb 2026 21:47:58 +0000</pubDate>
     <description>Hippocampus, analogy, and semantic cognition: The HippoSemA framework for semantic abstraction and generalization</description>
   </item>
   <item>
-    <title>ARES-SI：自殺念慮に対する適応的強化学習強化サンプリング法</title>
+    <title>ARES-SI：自殺念慮のための適応的強化学習強化サンプリング法</title>
     <link>https://osf.io/f9mwd</link>
     <guid isPermaLink="false">https://osf.io/f9mwd#ja</guid>
     <pubDate>Sat, 07 Feb 2026 21:47:58 +0000</pubDate>
@@ -27,14 +27,14 @@
     <description>Heuristics for Healthier Food Selection</description>
   </item>
   <item>
-    <title>個人内集合知の設計原理としての時間的多様性</title>
+    <title>個人内集団知能の設計原理としての時間的多様性</title>
     <link>https://osf.io/qpzrg</link>
     <guid isPermaLink="false">https://osf.io/qpzrg#ja</guid>
     <pubDate>Sat, 07 Feb 2026 21:21:03 +0000</pubDate>
     <description>Temporal Diversity as a design principle for within-person collective intelligence</description>
   </item>
   <item>
-    <title>複数の臨床環境における自殺未遂予測の機械学習モデルにおける人種・民族および性別によるアルゴリズムバイアスの検証</title>
+    <title>複数の臨床環境における人種・民族および性別別の自殺未遂予測における機械学習モデルのアルゴリズムバイアスの検討</title>
     <link>https://osf.io/yq983</link>
     <guid isPermaLink="false">https://osf.io/yq983#ja</guid>
     <pubDate>Sat, 07 Feb 2026 20:50:00 +0000</pubDate>
@@ -55,14 +55,14 @@
     <description>Fractured Childhoods: Psychosocial Trauma and Child Quality of Life in Mexico and the United States</description>
   </item>
   <item>
-    <title>ダンス可能性の提供：参加者選択音楽に合わせて動きたいという第一人称および第三人称の記述</title>
+    <title>ダンス可能性の付与：参加者選択音楽に合わせて動きたいという第一人称および第三人称の記述</title>
     <link>https://osf.io/wm9za</link>
     <guid isPermaLink="false">https://osf.io/wm9za#ja</guid>
     <pubDate>Fri, 06 Feb 2026 19:11:43 +0000</pubDate>
     <description>Affording Danceability: First- and Third-person Accounts of Wanting to Move to Participant-Selected Music</description>
   </item>
   <item>
-    <title>AI専用ソーシャルメディア（AOSM）概念への曝露がAIを実存的脅威と認識する度合いを増加させる―特にAIの多用者において</title>
+    <title>AI専用ソーシャルメディア（AOSM）概念への曝露は、特にAIの多用者においてAIを実存的脅威と認識する傾向を高める</title>
     <link>https://osf.io/hnzv3</link>
     <guid isPermaLink="false">https://osf.io/hnzv3#ja</guid>
     <pubDate>Fri, 06 Feb 2026 19:11:42 +0000</pubDate>
@@ -76,7 +76,7 @@
     <description>Value Representations Shape Learning Under Changing Goals</description>
   </item>
   <item>
-    <title>依存症における時間経験：調節障害から回復へ 統合的概念枠組みの構築に向けて</title>
+    <title>依存症における時間経験：調節障害から回復へ 統一的概念枠組みの構築に向けて</title>
     <link>https://osf.io/rnbfa</link>
     <guid isPermaLink="false">https://osf.io/rnbfa#ja</guid>
     <pubDate>Fri, 06 Feb 2026 19:11:42 +0000</pubDate>
@@ -90,7 +90,7 @@
     <description>Towards an Attentional Theory of Second-Language Speech Perception: Evidence from Cue Ecology</description>
   </item>
   <item>
-    <title>バイリンガリズムは認知機能低下を防ぐか？多民族高齢者を対象とした横断的および縦断的研究</title>
+    <title>バイリンガリズムは認知機能低下を防ぐか？多民族高齢者における横断的および縦断的証拠</title>
     <link>https://osf.io/72rd4</link>
     <guid isPermaLink="false">https://osf.io/72rd4#ja</guid>
     <pubDate>Fri, 06 Feb 2026 18:04:09 +0000</pubDate>
@@ -118,7 +118,7 @@
     <description>General and domain-specific genetic signals shape educational outcomes in children and adults</description>
   </item>
   <item>
-    <title>非党派的かつ情報源に基づくAI有権者ガイドは信頼性が高く認識され、投票意図に影響を与える</title>
+    <title>非党派的かつ情報源に基づくAI有権者ガイドは信頼性が高いと認識され、投票意図に影響を与える</title>
     <link>https://osf.io/whsm8</link>
     <guid isPermaLink="false">https://osf.io/whsm8#ja</guid>
     <pubDate>Fri, 06 Feb 2026 15:06:11 +0000</pubDate>
@@ -132,7 +132,7 @@
     <description>Walking the Neurotic Treadmill</description>
   </item>
   <item>
-    <title>毛髪コルチゾールは性的・性別少数者ストレスがうつ病および不安に及ぼす影響を媒介するか？構造方程式モデリングによる検討</title>
+    <title>毛髪コルチゾールは性的・性別マイノリティのストレスがうつ病および不安に及ぼす影響を媒介するか？構造方程式モデリングによる検討</title>
     <link>https://osf.io/anzey</link>
     <guid isPermaLink="false">https://osf.io/anzey#ja</guid>
     <pubDate>Fri, 06 Feb 2026 11:29:56 +0000</pubDate>
@@ -153,7 +153,7 @@
     <description>Cognitive Behavioral Assessment Toolbox (CBAT): An Open-Source Platform Supporting Experiments in Computational Psychiatry</description>
   </item>
   <item>
-    <title>安心感の形成と乳児-母親関係：乳児の苦痛に対する実世界における生態学的妥当な母親の応答の個人差</title>
+    <title>安心感と乳児-母親関係：乳児の苦痛に対する現実世界における生態学的妥当な母親の反応の個人差</title>
     <link>https://osf.io/vuker</link>
     <guid isPermaLink="false">https://osf.io/vuker#ja</guid>
     <pubDate>Fri, 06 Feb 2026 11:29:55 +0000</pubDate>
@@ -237,7 +237,7 @@
     <description>Asymmetric Variety Seeking in Hierarchical Choices</description>
   </item>
   <item>
-    <title>移動中研究における認知の能動的および受動的センシングの妥当性・信頼性・実用性に関する証拠：系統的スコーピングレビュー</title>
+    <title>移動中研究における認知の能動的および受動的センシングの妥当性・信頼性・実用性に関するエビデンス：系統的スコーピングレビュー</title>
     <link>https://osf.io/4r3jm</link>
     <guid isPermaLink="false">https://osf.io/4r3jm#ja</guid>
     <pubDate>Thu, 05 Feb 2026 22:22:06 +0000</pubDate>
@@ -258,7 +258,7 @@
     <description>Comparing non-clinical dissociative and psychotic-like experiences: reality monitoring and ‘fast thinking’ bias as possible cognitive correlates</description>
   </item>
   <item>
-    <title>拡張現実を用いた味覚知覚における異感覚間効果の検討</title>
+    <title>拡張現実を用いた味覚知覚における異感覚間効果</title>
     <link>https://osf.io/6ha5e</link>
     <guid isPermaLink="false">https://osf.io/6ha5e#ja</guid>
     <pubDate>Thu, 05 Feb 2026 21:37:17 +0000</pubDate>
@@ -293,35 +293,35 @@
     <description>Processes of change in cognitive-behavioral psychotherapy for procrastination: moderation and longitudinal mediation analyses of randomized controlled trial data</description>
   </item>
   <item>
-    <title>日常生活における養育者と子どもの接近度の測定：TotTagウェアラブルセンサーの実用性と受容性の検討</title>
+    <title>日常生活における養育者と子どもの接近度の測定：TotTagウェアラブルセンサーの実現可能性と受容性</title>
     <link>https://osf.io/tejdg</link>
     <guid isPermaLink="false">https://osf.io/tejdg#ja</guid>
     <pubDate>Thu, 05 Feb 2026 21:37:14 +0000</pubDate>
     <description>Measuring Caregiver–Child Proximity in Daily Life: Feasibility and Acceptability of the TotTag Wearable Sensor</description>
   </item>
   <item>
-    <title>痩身志向か健康志向か？高カロリー健康食品と高カロリー不健康食品に対する好意と接近バイアスの違いが示す神経性無食欲症とオルトレキシア神経症の識別</title>
+    <title>痩身志向か健康志向か？高カロリー健康食品と高カロリー不健康食品に対する好意と接近バイアスの違いが示す拒食症とオルトレキシア神経症の識別</title>
     <link>https://osf.io/c5v4e</link>
     <guid isPermaLink="false">https://osf.io/c5v4e#ja</guid>
     <pubDate>Thu, 05 Feb 2026 20:59:36 +0000</pubDate>
     <description>Restrict for Thinness or for Health? Liking but Not Approach Bias Differentiates Anorexia from Orthorexia Nervosa in Responses to High-Caloric Healthy vs. High-Caloric Unhealthy Foods</description>
   </item>
   <item>
-    <title>アフガニスタンにおける5歳未満児の発育阻害および発育遅延：ニーズと資源の評価研究</title>
+    <title>アフガニスタンにおける5歳未満児の発育遅滞および栄養不足：ニーズと資源の評価研究</title>
     <link>https://osf.io/53jpr</link>
     <guid isPermaLink="false">https://osf.io/53jpr#ja</guid>
     <pubDate>Thu, 05 Feb 2026 20:59:35 +0000</pubDate>
     <description>Wasting and Stunting in Children Under Five in Afghanistan: A Needs and Assets Assessment Study</description>
   </item>
   <item>
-    <title>大規模学生調査における機関間比較の最適化：ラッセルグループ機関における全国学生調査（NSS）を用いた事例検討</title>
+    <title>大規模学生調査における機関間比較の最適化：ラッセルグループ機関における全国学生調査（NSS）を事例として</title>
     <link>https://osf.io/yxkur</link>
     <guid isPermaLink="false">https://osf.io/yxkur#ja</guid>
     <pubDate>Thu, 05 Feb 2026 20:59:35 +0000</pubDate>
     <description>Optimising Cross-Institutional Comparisons in Large-Scale Student Surveys: An Illustration with the National Student Survey (NSS) in Russell Group Institutions</description>
   </item>
   <item>
-    <title>基礎的視覚処理と高次社会認知の関連性：社会機能障害を有する横断的サンプルにおける眼差し知覚のメカニズム的架け橋としての役割</title>
+    <title>基礎的視覚処理と高次社会認知の関連性：社会機能障害を含む横断的診断群における眼差し知覚のメカニズム的架け橋としての役割</title>
     <link>https://osf.io/r8fpw</link>
     <guid isPermaLink="false">https://osf.io/r8fpw#ja</guid>
     <pubDate>Thu, 05 Feb 2026 20:59:34 +0000</pubDate>
