@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>海馬、類推、および意味認知：意味の抽象化と一般化のためのHippoSemAフレームワーク</title>
+    <title>海馬、類推、および意味認知：意味抽象化と一般化のためのHippoSemAフレームワーク</title>
     <link>https://osf.io/wqhds</link>
     <guid isPermaLink="false">https://osf.io/wqhds#ja</guid>
     <pubDate>Sat, 07 Feb 2026 21:47:58 +0000</pubDate>
@@ -27,14 +27,14 @@
     <description>Heuristics for Healthier Food Selection</description>
   </item>
   <item>
-    <title>個人内集合知の設計原理としての時間的多様性</title>
+    <title>個人内集団知能の設計原理としての時間的多様性</title>
     <link>https://osf.io/qpzrg</link>
     <guid isPermaLink="false">https://osf.io/qpzrg#ja</guid>
     <pubDate>Sat, 07 Feb 2026 21:21:03 +0000</pubDate>
     <description>Temporal Diversity as a design principle for within-person collective intelligence</description>
   </item>
   <item>
-    <title>複数の臨床環境における自殺未遂予測機械学習モデルの人種・民族および性別によるアルゴリズムバイアスの検証</title>
+    <title>複数の臨床環境における自殺未遂予測機械学習モデルの人種・民族および性別によるアルゴリズムバイアスの検討</title>
     <link>https://osf.io/yq983</link>
     <guid isPermaLink="false">https://osf.io/yq983#ja</guid>
     <pubDate>Sat, 07 Feb 2026 20:50:00 +0000</pubDate>
@@ -48,21 +48,21 @@
     <description>Links between Cannabinoid Hyperemesis Syndrome and drug use, mental health problems, antisocial behavior, and personality in a national survey of adults in the United States</description>
   </item>
   <item>
-    <title>断片化された幼少期：メキシコとアメリカにおける心理社会的トラウマと子どもの生活の質</title>
+    <title>断たれた幼少期：メキシコとアメリカにおける心理社会的トラウマと子どもの生活の質</title>
     <link>https://osf.io/q8tav</link>
     <guid isPermaLink="false">https://osf.io/q8tav#ja</guid>
     <pubDate>Fri, 06 Feb 2026 19:11:43 +0000</pubDate>
     <description>Fractured Childhoods: Psychosocial Trauma and Child Quality of Life in Mexico and the United States</description>
   </item>
   <item>
-    <title>ダンス可能性の提供：参加者選択音楽に合わせて動きたいという第一人称および第三人称の記述</title>
+    <title>ダンス可能性の付与：参加者選択音楽に合わせて動きたいという第一人称および第三人称の記述</title>
     <link>https://osf.io/wm9za</link>
     <guid isPermaLink="false">https://osf.io/wm9za#ja</guid>
     <pubDate>Fri, 06 Feb 2026 19:11:43 +0000</pubDate>
     <description>Affording Danceability: First- and Third-person Accounts of Wanting to Move to Participant-Selected Music</description>
   </item>
   <item>
-    <title>AI専用ソーシャルメディア（AOSM）概念への曝露がAIを実存的脅威と認識する傾向を高める―特にAI多用者において</title>
+    <title>AI専用ソーシャルメディア（AOSM）概念への曝露がAIを存在的脅威と認識する度合いを高める―特にAI多用者において</title>
     <link>https://osf.io/hnzv3</link>
     <guid isPermaLink="false">https://osf.io/hnzv3#ja</guid>
     <pubDate>Fri, 06 Feb 2026 19:11:42 +0000</pubDate>
@@ -104,7 +104,7 @@
     <description>How Parents Shape Adolescent Screen Time: Findings from Denmark and Ireland</description>
   </item>
   <item>
-    <title>コミュニティ参加型アプローチを用いた人間とAIの恋愛関係の研究</title>
+    <title>地域参加型アプローチを用いた人間とAIの恋愛関係の研究</title>
     <link>https://osf.io/jxvcq</link>
     <guid isPermaLink="false">https://osf.io/jxvcq#ja</guid>
     <pubDate>Fri, 06 Feb 2026 17:09:54 +0000</pubDate>
@@ -118,7 +118,7 @@
     <description>General and domain-specific genetic signals shape educational outcomes in children and adults</description>
   </item>
   <item>
-    <title>非党派的かつ情報源に基づくAI有権者ガイドは信頼性が高く認識され、投票意図に影響を与える</title>
+    <title>非党派的かつ情報源に基づくAI有権者ガイドは信頼性が高いと認識され、投票意図に影響を与える</title>
     <link>https://osf.io/whsm8</link>
     <guid isPermaLink="false">https://osf.io/whsm8#ja</guid>
     <pubDate>Fri, 06 Feb 2026 15:06:11 +0000</pubDate>
@@ -132,7 +132,7 @@
     <description>Walking the Neurotic Treadmill</description>
   </item>
   <item>
-    <title>毛髪コルチゾールは性的・性別マイノリティストレスがうつ病および不安に与える影響を媒介するか？構造方程式モデリングによる検討</title>
+    <title>毛髪コルチゾールは性的・性別少数者ストレスがうつ病および不安に与える影響を媒介するか？構造方程式モデリングによる検討</title>
     <link>https://osf.io/anzey</link>
     <guid isPermaLink="false">https://osf.io/anzey#ja</guid>
     <pubDate>Fri, 06 Feb 2026 11:29:56 +0000</pubDate>
@@ -153,7 +153,7 @@
     <description>Cognitive Behavioral Assessment Toolbox (CBAT): An Open-Source Platform Supporting Experiments in Computational Psychiatry</description>
   </item>
   <item>
-    <title>鎮静効果と乳児-母親関係：乳児の苦痛に対する現実世界における生態学的妥当な母親の個人差反応</title>
+    <title>安心感の提供と乳児-母親関係：乳児の苦痛に対する現実世界における生態学的妥当な母親の個人差反応</title>
     <link>https://osf.io/vuker</link>
     <guid isPermaLink="false">https://osf.io/vuker#ja</guid>
     <pubDate>Fri, 06 Feb 2026 11:29:55 +0000</pubDate>
@@ -174,14 +174,14 @@
     <description>A Search for Bilingual Advantages in Creativity: Evidence for Capacity- Limited, Not Resource-Based, Cognitive Architecture</description>
   </item>
   <item>
-    <title>DALL-E-2による乳幼児のAI生成画像は実際の写真と識別可能である</title>
+    <title>DALL-E-2による乳幼児のAI生成画像は実写真と識別可能である</title>
     <link>https://osf.io/j47c8</link>
     <guid isPermaLink="false">https://osf.io/j47c8#ja</guid>
     <pubDate>Thu, 05 Feb 2026 22:54:07 +0000</pubDate>
     <description>DALL-E-2 AI-Generated Images of Infants and Toddlers are Distinguishable from Real Photos</description>
   </item>
   <item>
-    <title>制度の質が気候変動緩和に対する市民の責任帰属に及ぼす影響</title>
+    <title>制度の質が気候変動緩和に対する市民の責任帰属に与える影響</title>
     <link>https://osf.io/d932t</link>
     <guid isPermaLink="false">https://osf.io/d932t#ja</guid>
     <pubDate>Thu, 05 Feb 2026 22:54:06 +0000</pubDate>
@@ -202,7 +202,7 @@
     <description>Flexibility in Abstract Thought: Context-Dependent Representations of Integer Magnitude</description>
   </item>
   <item>
-    <title>音声カテゴリー化の説明理論に関する考察</title>
+    <title>音声カテゴリー化の説明理論に関する研究</title>
     <link>https://osf.io/38ysv</link>
     <guid isPermaLink="false">https://osf.io/38ysv#ja</guid>
     <pubDate>Thu, 05 Feb 2026 22:54:03 +0000</pubDate>
@@ -223,14 +223,14 @@
     <description>“The significance of context”: Fit, friction and function in the work lives of early-career academics with ADHD.</description>
   </item>
   <item>
-    <title>職場における低品質AI生成コンテンツの普及率、先行要因および結果の検討</title>
+    <title>職場における低品質なAI生成コンテンツの普及率、先行要因および結果の検討</title>
     <link>https://osf.io/5f78h</link>
     <guid isPermaLink="false">https://osf.io/5f78h#ja</guid>
     <pubDate>Thu, 05 Feb 2026 22:22:07 +0000</pubDate>
     <description>Workslop: Examining the prevalence, antecedents and consequences of low-quality AI-generated content at work</description>
   </item>
   <item>
-    <title>階層的選択における非対称的多様性追求行動</title>
+    <title>階層的選択における非対称的多様性追求</title>
     <link>https://osf.io/vc78h</link>
     <guid isPermaLink="false">https://osf.io/vc78h#ja</guid>
     <pubDate>Thu, 05 Feb 2026 22:22:07 +0000</pubDate>
@@ -244,7 +244,7 @@
     <description>Evidence on the validity, reliability and usability of active and passive sensing of cognition for use in ambulatory studies: A systematic scoping review</description>
   </item>
   <item>
-    <title>「『親しい友達ならAIはあまり監視しない』：子どものAI安全性に関する知識と誤解」</title>
+    <title>「親しい友人であればAIはあまり監視しない」：子どものAI安全性に関する知識と誤解</title>
     <link>https://osf.io/jva7z</link>
     <guid isPermaLink="false">https://osf.io/jva7z#ja</guid>
     <pubDate>Thu, 05 Feb 2026 21:37:17 +0000</pubDate>
@@ -265,7 +265,7 @@
     <description>Cross-sensory Effects on Taste Perception using Extended Reality</description>
   </item>
   <item>
-    <title>特徴ベースおよび空間的非随意内的注意が行動志向型作業記憶選択に及ぼす異なる影響</title>
+    <title>特徴ベースおよび空間的非随意内的注意が行動志向の作業記憶選択に及ぼす異なる影響</title>
     <link>https://osf.io/hu6bg</link>
     <guid isPermaLink="false">https://osf.io/hu6bg#ja</guid>
     <pubDate>Thu, 05 Feb 2026 21:37:16 +0000</pubDate>
@@ -293,21 +293,21 @@
     <description>Processes of change in cognitive-behavioral psychotherapy for procrastination: moderation and longitudinal mediation analyses of randomized controlled trial data</description>
   </item>
   <item>
-    <title>日常生活における養育者と子どもの接近度の測定：TotTagウェアラブルセンサーの実現可能性と受容性</title>
+    <title>日常生活における養育者と子どもの近接性の測定：TotTagウェアラブルセンサーの実用性と受容性の検討</title>
     <link>https://osf.io/tejdg</link>
     <guid isPermaLink="false">https://osf.io/tejdg#ja</guid>
     <pubDate>Thu, 05 Feb 2026 21:37:14 +0000</pubDate>
     <description>Measuring Caregiver–Child Proximity in Daily Life: Feasibility and Acceptability of the TotTag Wearable Sensor</description>
   </item>
   <item>
-    <title>痩身志向か健康志向か？高カロリー健康食品と高カロリー不健康食品に対する好意と接近バイアスの違いが示す拒食症とオルトレキシア神経症の識別</title>
+    <title>痩身志向か健康志向か？高カロリー健康食品と高カロリー不健康食品に対する好意と接近バイアスの違いが神経性無食欲症とオルトレキシア神経症を識別する</title>
     <link>https://osf.io/c5v4e</link>
     <guid isPermaLink="false">https://osf.io/c5v4e#ja</guid>
     <pubDate>Thu, 05 Feb 2026 20:59:36 +0000</pubDate>
     <description>Restrict for Thinness or for Health? Liking but Not Approach Bias Differentiates Anorexia from Orthorexia Nervosa in Responses to High-Caloric Healthy vs. High-Caloric Unhealthy Foods</description>
   </item>
   <item>
-    <title>アフガニスタンにおける5歳未満児の栄養失調と発育遅延：ニーズと資源の評価研究</title>
+    <title>アフガニスタンにおける5歳未満児の発育阻害および栄養失調：ニーズと資源の評価研究</title>
     <link>https://osf.io/53jpr</link>
     <guid isPermaLink="false">https://osf.io/53jpr#ja</guid>
     <pubDate>Thu, 05 Feb 2026 20:59:35 +0000</pubDate>
@@ -321,21 +321,21 @@
     <description>Optimising Cross-Institutional Comparisons in Large-Scale Student Surveys: An Illustration with the National Student Survey (NSS) in Russell Group Institutions</description>
   </item>
   <item>
-    <title>基礎的視覚処理と高次社会認知の関連性：社会機能障害を含む横断的サンプルにおける眼差し知覚のメカニズム的架け橋としての役割</title>
+    <title>基礎的視覚処理と高次社会認知の関連性：社会機能障害を有する横断的サンプルにおける眼差し知覚のメカニズム的架け橋としての役割</title>
     <link>https://osf.io/r8fpw</link>
     <guid isPermaLink="false">https://osf.io/r8fpw#ja</guid>
     <pubDate>Thu, 05 Feb 2026 20:59:34 +0000</pubDate>
     <description>The link between basic visual processing and higher-level social cognition: Eye gaze perception as a mechanistic bridge in a transdiagnostic sample enriched with social dysfunction.</description>
   </item>
   <item>
-    <title>読者は新出の中国語複合語における曖昧な構成要素をどのように解釈するか？</title>
+    <title>読者は新しい中国語複合語の曖昧な構成要素をどのように解釈するか？</title>
     <link>https://osf.io/jd2rg</link>
     <guid isPermaLink="false">https://osf.io/jd2rg#ja</guid>
     <pubDate>Thu, 05 Feb 2026 20:28:33 +0000</pubDate>
     <description>How do readers interpret ambiguous constituents in novel Chinese compound words?</description>
   </item>
   <item>
-    <title>生成AI時代における開発者の生産性：心理学的視点からの考察</title>
+    <title>生成AI時代における開発者の生産性：心理学的視点から</title>
     <link>https://osf.io/7gwx2</link>
     <guid isPermaLink="false">https://osf.io/7gwx2#ja</guid>
     <pubDate>Thu, 05 Feb 2026 20:28:33 +0000</pubDate>
