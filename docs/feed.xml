@@ -6,6 +6,13 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>ダッカの大学生におけるメンタルヘルスリテラシー：調査研究</title>
+    <link>https://osf.io/wb8yq</link>
+    <guid isPermaLink="false">https://osf.io/wb8yq#ja</guid>
+    <pubDate>Sun, 08 Feb 2026 18:30:52 +0000</pubDate>
+    <description>Mental Health Literacy Among College Students in Dhaka: A Survey-Based Study</description>
+  </item>
+  <item>
     <title>迫害から忍耐へ：カラチのシーア派コミュニティにおける逆境と適応的対処の研究</title>
     <link>https://osf.io/x7jqb</link>
     <guid isPermaLink="false">https://osf.io/x7jqb#ja</guid>
@@ -13,7 +20,7 @@
     <description>From Persecution to Perseverance: A Study of Adversity and Adaptive Coping in Karachi’s Shia Community</description>
   </item>
   <item>
-    <title>熟練数学者における時間経過に伴う多様感覚性幻覚の発現</title>
+    <title>熟練数学者における時間経過に伴う多様感覚的幻覚の発現</title>
     <link>https://osf.io/ucfbx</link>
     <guid isPermaLink="false">https://osf.io/ucfbx#ja</guid>
     <pubDate>Sun, 08 Feb 2026 14:23:37 +0000</pubDate>
@@ -34,7 +41,7 @@
     <description>The Dispositional Basis of Selective Prosociality</description>
   </item>
   <item>
-    <title>自尊感情と内面化症状の前向き関連に関する不確定な結果：Solbergら（2025）へのコメント</title>
+    <title>自尊感情と内在化症状の前向き関連に関する不確定な結果：Solbergら（2025）へのコメント</title>
     <link>https://osf.io/d5u4f</link>
     <guid isPermaLink="false">https://osf.io/d5u4f#ja</guid>
     <pubDate>Sun, 08 Feb 2026 13:41:39 +0000</pubDate>
@@ -55,14 +62,14 @@
     <description>Assessing the Development of Intellectual Humility across Childhood</description>
   </item>
   <item>
-    <title>成人における意識変容の八次元とそれらの幼児期意識との収束</title>
+    <title>成人における意識変容の八次元と幼児期意識との収束</title>
     <link>https://osf.io/zjt8n</link>
     <guid isPermaLink="false">https://osf.io/zjt8n#ja</guid>
     <pubDate>Sun, 08 Feb 2026 13:41:38 +0000</pubDate>
     <description>The Eight Dimensions of Altered States of Consciousness in Adults and their Convergence with Childhood Consciousness</description>
   </item>
   <item>
-    <title>普遍化の普遍性：世界各地における規範違反に対する普遍化の使用の検討</title>
+    <title>普遍化の普遍性とは何か？世界各地における規範違反に対する普遍化の使用の検討</title>
     <link>https://osf.io/g5st4</link>
     <guid isPermaLink="false">https://osf.io/g5st4#ja</guid>
     <pubDate>Sun, 08 Feb 2026 13:41:38 +0000</pubDate>
@@ -76,14 +83,14 @@
     <description>Utilizing generative AI to promote high school students’ personal relevance to math and interest in the math class: An intervention</description>
   </item>
   <item>
-    <title>瞑想とサイケデリックスの接点の探求：経験豊富な実践者によるサイケデリック準備に関する質的分析</title>
+    <title>瞑想とサイケデリックスの接点の探究：経験豊富な実践者によるサイケデリック準備に関する質的分析</title>
     <link>https://osf.io/p2qcb</link>
     <guid isPermaLink="false">https://osf.io/p2qcb#ja</guid>
     <pubDate>Sun, 08 Feb 2026 13:41:36 +0000</pubDate>
     <description>Exploring the Interface of Meditation and Psychedelics: A Qualitative Analysis of Experienced Practitioners’ Perspectives on Psychedelic Preparation</description>
   </item>
   <item>
-    <title>パーソナリティ病理に対する進化システム療法</title>
+    <title>人格病理に対する進化的システム療法</title>
     <link>https://osf.io/rmp52</link>
     <guid isPermaLink="false">https://osf.io/rmp52#ja</guid>
     <pubDate>Sun, 08 Feb 2026 12:40:01 +0000</pubDate>
@@ -97,14 +104,14 @@
     <description>A psychotherapist’s look into the social brain</description>
   </item>
   <item>
-    <title>世代間緊張、脅威、およびエイジズム：高齢者が若年世代に与える脅威の構造分析</title>
+    <title>世代間緊張、脅威感、エイジズム：高齢者が若年世代に与える脅威の構造分析</title>
     <link>https://osf.io/pre5d</link>
     <guid isPermaLink="false">https://osf.io/pre5d#ja</guid>
     <pubDate>Sun, 08 Feb 2026 12:40:01 +0000</pubDate>
     <description>Intergenerational tensions, threat, and ageism. How is the threat posed by older people to younger generations structured?</description>
   </item>
   <item>
-    <title>ウェルビーイングにおける社会的プロセス（SoWell）：調査および生態学的瞬間評価を用いた双生児研究</title>
+    <title>ウェルビーイングにおける社会的プロセス（SoWell）：調査およびエコロジカルモーメンタリーアセスメントを用いた双生児研究</title>
     <link>https://osf.io/5qdpn</link>
     <guid isPermaLink="false">https://osf.io/5qdpn#ja</guid>
     <pubDate>Sun, 08 Feb 2026 12:40:00 +0000</pubDate>
@@ -146,7 +153,7 @@
     <description>Hippocampus, analogy, and semantic cognition: The HippoSemA framework for semantic abstraction and generalization</description>
   </item>
   <item>
-    <title>ARES-SI：自殺念慮のための適応的強化学習強化サンプリング法</title>
+    <title>ARES-SI：自殺念慮検出のための適応的強化学習強化サンプリング法</title>
     <link>https://osf.io/f9mwd</link>
     <guid isPermaLink="false">https://osf.io/f9mwd#ja</guid>
     <pubDate>Sat, 07 Feb 2026 21:47:58 +0000</pubDate>
@@ -167,7 +174,7 @@
     <description>Temporal Diversity as a design principle for within-person collective intelligence</description>
   </item>
   <item>
-    <title>複数の臨床環境における人種・民族および性別別の自殺未遂予測機械学習モデルにおけるアルゴリズムバイアスの検証</title>
+    <title>複数の臨床環境における自殺未遂予測機械学習モデルの人種・民族および性別によるアルゴリズムバイアスの検討</title>
     <link>https://osf.io/yq983</link>
     <guid isPermaLink="false">https://osf.io/yq983#ja</guid>
     <pubDate>Sat, 07 Feb 2026 20:50:00 +0000</pubDate>
@@ -181,14 +188,14 @@
     <description>Links between Cannabinoid Hyperemesis Syndrome and drug use, mental health problems, antisocial behavior, and personality in a national survey of adults in the United States</description>
   </item>
   <item>
-    <title>断たれた幼少期：メキシコとアメリカにおける心理社会的トラウマと子どもの生活の質</title>
+    <title>断片化された幼少期：メキシコとアメリカにおける心理社会的トラウマと子どもの生活の質</title>
     <link>https://osf.io/q8tav</link>
     <guid isPermaLink="false">https://osf.io/q8tav#ja</guid>
     <pubDate>Fri, 06 Feb 2026 19:11:43 +0000</pubDate>
     <description>Fractured Childhoods: Psychosocial Trauma and Child Quality of Life in Mexico and the United States</description>
   </item>
   <item>
-    <title>ダンス可能性の付与：参加者選択音楽に合わせて動きたいという第一人称および第三人称の記述</title>
+    <title>ダンス可能性の提供：参加者選択音楽に合わせて動きたいという第一人称および第三人称の記述</title>
     <link>https://osf.io/wm9za</link>
     <guid isPermaLink="false">https://osf.io/wm9za#ja</guid>
     <pubDate>Fri, 06 Feb 2026 19:11:43 +0000</pubDate>
@@ -209,7 +216,7 @@
     <description>Value Representations Shape Learning Under Changing Goals</description>
   </item>
   <item>
-    <title>依存症における時間経験：調節障害から回復へ 統合的概念枠組みの構築に向けて</title>
+    <title>依存症における時間経験：調節障害から回復へ 統一的概念枠組みの構築に向けて</title>
     <link>https://osf.io/rnbfa</link>
     <guid isPermaLink="false">https://osf.io/rnbfa#ja</guid>
     <pubDate>Fri, 06 Feb 2026 19:11:42 +0000</pubDate>
@@ -223,7 +230,7 @@
     <description>Towards an Attentional Theory of Second-Language Speech Perception: Evidence from Cue Ecology</description>
   </item>
   <item>
-    <title>バイリンガリズムは認知機能低下を防ぐか？多民族高齢者を対象とした横断的および縦断的証拠</title>
+    <title>バイリンガリズムは認知機能低下を防ぐか？多民族高齢者における横断的および縦断的証拠</title>
     <link>https://osf.io/72rd4</link>
     <guid isPermaLink="false">https://osf.io/72rd4#ja</guid>
     <pubDate>Fri, 06 Feb 2026 18:04:09 +0000</pubDate>
@@ -265,7 +272,7 @@
     <description>Walking the Neurotic Treadmill</description>
   </item>
   <item>
-    <title>毛髪コルチゾールは性的・性別マイノリティのストレスがうつ病および不安に及ぼす影響を媒介するか？構造方程式モデリングによる検討</title>
+    <title>毛髪コルチゾールは性的・性別少数者ストレスがうつ病および不安に与える影響を媒介するか？構造方程式モデリングによる検討</title>
     <link>https://osf.io/anzey</link>
     <guid isPermaLink="false">https://osf.io/anzey#ja</guid>
     <pubDate>Fri, 06 Feb 2026 11:29:56 +0000</pubDate>
@@ -286,7 +293,7 @@
     <description>Cognitive Behavioral Assessment Toolbox (CBAT): An Open-Source Platform Supporting Experiments in Computational Psychiatry</description>
   </item>
   <item>
-    <title>鎮静効果と乳児-母親関係：乳児の苦痛に対する現実世界における生態学的妥当な母親の個人差反応</title>
+    <title>安心感と乳児-母親関係：乳児の苦痛に対する現実世界における生態学的妥当な母親の個人差反応</title>
     <link>https://osf.io/vuker</link>
     <guid isPermaLink="false">https://osf.io/vuker#ja</guid>
     <pubDate>Fri, 06 Feb 2026 11:29:55 +0000</pubDate>
@@ -347,13 +354,6 @@
     <guid isPermaLink="false">https://osf.io/6u8je#ja</guid>
     <pubDate>Thu, 05 Feb 2026 22:22:08 +0000</pubDate>
     <description>Whose Truth Is Ground Truth?: Consequences of Label Choice on ML Models</description>
-  </item>
-  <item>
-    <title>「文脈の重要性」：ADHDを持つ初期キャリア学者の職業生活における適合、摩擦、機能</title>
-    <link>https://osf.io/9s2tb</link>
-    <guid isPermaLink="false">https://osf.io/9s2tb#ja</guid>
-    <pubDate>Thu, 05 Feb 2026 22:22:07 +0000</pubDate>
-    <description>“The significance of context”: Fit, friction and function in the work lives of early-career academics with ADHD.</description>
   </item>
 </channel>
 </rss>
