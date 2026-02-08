@@ -6,7 +6,70 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>人格病理に対する進化システム療法</title>
+    <title>ストループ課題における直接的な視線の干渉効果</title>
+    <link>https://osf.io/rg7hd</link>
+    <guid isPermaLink="false">https://osf.io/rg7hd#ja</guid>
+    <pubDate>Sun, 08 Feb 2026 13:41:40 +0000</pubDate>
+    <description>The Interference Effect of Direct Eye Gaze in The Stroop Paradigm</description>
+  </item>
+  <item>
+    <title>選択的親社会性の性格的基盤</title>
+    <link>https://osf.io/ety7d</link>
+    <guid isPermaLink="false">https://osf.io/ety7d#ja</guid>
+    <pubDate>Sun, 08 Feb 2026 13:41:40 +0000</pubDate>
+    <description>The Dispositional Basis of Selective Prosociality</description>
+  </item>
+  <item>
+    <title>自尊感情と内在化症状の前向き関連に関する結論の不確かさ：Solbergら（2025）へのコメント</title>
+    <link>https://osf.io/d5u4f</link>
+    <guid isPermaLink="false">https://osf.io/d5u4f#ja</guid>
+    <pubDate>Sun, 08 Feb 2026 13:41:39 +0000</pubDate>
+    <description>Inconclusive prospective associations between self-esteem and internalizing symptoms: A comment on Solberg et al. (2025)</description>
+  </item>
+  <item>
+    <title>ストループ課題における異なる葛藤タイプの電気生理学的証拠</title>
+    <link>https://osf.io/7jnkr</link>
+    <guid isPermaLink="false">https://osf.io/7jnkr#ja</guid>
+    <pubDate>Sun, 08 Feb 2026 13:41:39 +0000</pubDate>
+    <description>Electrophysiological Evidence for Different Conflict Types in the Stroop Task</description>
+  </item>
+  <item>
+    <title>子どもの発達における知的謙虚性の評価</title>
+    <link>https://osf.io/yd9ce</link>
+    <guid isPermaLink="false">https://osf.io/yd9ce#ja</guid>
+    <pubDate>Sun, 08 Feb 2026 13:41:39 +0000</pubDate>
+    <description>Assessing the Development of Intellectual Humility across Childhood</description>
+  </item>
+  <item>
+    <title>成人における意識変容の八次元とそれらの幼児期意識との収束</title>
+    <link>https://osf.io/zjt8n</link>
+    <guid isPermaLink="false">https://osf.io/zjt8n#ja</guid>
+    <pubDate>Sun, 08 Feb 2026 13:41:38 +0000</pubDate>
+    <description>The Eight Dimensions of Altered States of Consciousness in Adults and their Convergence with Childhood Consciousness</description>
+  </item>
+  <item>
+    <title>普遍化の普遍性とは何か？世界各地における規範違反に対する普遍化の使用の検討</title>
+    <link>https://osf.io/g5st4</link>
+    <guid isPermaLink="false">https://osf.io/g5st4#ja</guid>
+    <pubDate>Sun, 08 Feb 2026 13:41:38 +0000</pubDate>
+    <description>How universal is universalization? Exploring the use of universalization in norm violation across the globe</description>
+  </item>
+  <item>
+    <title>生成AIを活用した高校生の数学への個人的関連性と数学授業への興味促進に関する介入研究</title>
+    <link>https://osf.io/srxga</link>
+    <guid isPermaLink="false">https://osf.io/srxga#ja</guid>
+    <pubDate>Sun, 08 Feb 2026 13:41:37 +0000</pubDate>
+    <description>Utilizing generative AI to promote high school students’ personal relevance to math and interest in the math class: An intervention</description>
+  </item>
+  <item>
+    <title>瞑想とサイケデリックスの接点の探究：経験豊富な実践者によるサイケデリック準備に関する質的分析</title>
+    <link>https://osf.io/p2qcb</link>
+    <guid isPermaLink="false">https://osf.io/p2qcb#ja</guid>
+    <pubDate>Sun, 08 Feb 2026 13:41:36 +0000</pubDate>
+    <description>Exploring the Interface of Meditation and Psychedelics: A Qualitative Analysis of Experienced Practitioners’ Perspectives on Psychedelic Preparation</description>
+  </item>
+  <item>
+    <title>パーソナリティ病理に対する進化システム療法</title>
     <link>https://osf.io/rmp52</link>
     <guid isPermaLink="false">https://osf.io/rmp52#ja</guid>
     <pubDate>Sun, 08 Feb 2026 12:40:01 +0000</pubDate>
@@ -20,14 +83,14 @@
     <description>A psychotherapist’s look into the social brain</description>
   </item>
   <item>
-    <title>世代間緊張、脅威、およびエイジズム：高齢者が若年世代に与える脅威の構造分析</title>
+    <title>世代間緊張、脅威感、エイジズム：高齢者が若年世代に与える脅威の構造分析</title>
     <link>https://osf.io/pre5d</link>
     <guid isPermaLink="false">https://osf.io/pre5d#ja</guid>
     <pubDate>Sun, 08 Feb 2026 12:40:01 +0000</pubDate>
     <description>Intergenerational tensions, threat, and ageism. How is the threat posed by older people to younger generations structured?</description>
   </item>
   <item>
-    <title>ウェルビーイングにおける社会的プロセス（SoWell）：調査および生態学的瞬間評価を用いた双生児研究</title>
+    <title>ウェルビーイングにおける社会的プロセス（SoWell）：調査およびエコロジカルモーメンタリーアセスメントを用いた双生児研究</title>
     <link>https://osf.io/5qdpn</link>
     <guid isPermaLink="false">https://osf.io/5qdpn#ja</guid>
     <pubDate>Sun, 08 Feb 2026 12:40:00 +0000</pubDate>
@@ -76,35 +139,35 @@
     <description>ARES-SI: Adaptive Reinforcement-Enhanced Sampling for Suicidal Ideation</description>
   </item>
   <item>
-    <title>より健康的な食品選択のためのヒューリスティクス</title>
+    <title>より健康的な食品選択のためのヒューリスティックス</title>
     <link>https://osf.io/vdaup</link>
     <guid isPermaLink="false">https://osf.io/vdaup#ja</guid>
     <pubDate>Sat, 07 Feb 2026 21:47:57 +0000</pubDate>
     <description>Heuristics for Healthier Food Selection</description>
   </item>
   <item>
-    <title>個人内集団知能の設計原理としての時間的多様性</title>
+    <title>個人内集合知の設計原理としての時間的多様性</title>
     <link>https://osf.io/qpzrg</link>
     <guid isPermaLink="false">https://osf.io/qpzrg#ja</guid>
     <pubDate>Sat, 07 Feb 2026 21:21:03 +0000</pubDate>
     <description>Temporal Diversity as a design principle for within-person collective intelligence</description>
   </item>
   <item>
-    <title>複数の臨床環境における自殺未遂予測の機械学習モデルにおける人種・民族および性別によるアルゴリズムバイアスの検討</title>
+    <title>複数の臨床環境における自殺未遂予測の機械学習モデルにおける人種・民族および性別によるアルゴリズムバイアスの検証</title>
     <link>https://osf.io/yq983</link>
     <guid isPermaLink="false">https://osf.io/yq983#ja</guid>
     <pubDate>Sat, 07 Feb 2026 20:50:00 +0000</pubDate>
     <description>Investigating Algorithmic Bias in Machine Learning Prediction Models of Suicide Attempts in Multiple Clinical Settings by Race/Ethnicity and Gender</description>
   </item>
   <item>
-    <title>アメリカ成人全国調査におけるカンナビノイド過敏症候群と薬物使用、精神健康問題、反社会的行動および人格との関連性</title>
+    <title>アメリカ成人全国調査におけるカンナビノイド過敏症候群と薬物使用、精神健康問題、反社会的行動および人格特性との関連性</title>
     <link>https://osf.io/4mbku</link>
     <guid isPermaLink="false">https://osf.io/4mbku#ja</guid>
     <pubDate>Fri, 06 Feb 2026 19:11:43 +0000</pubDate>
     <description>Links between Cannabinoid Hyperemesis Syndrome and drug use, mental health problems, antisocial behavior, and personality in a national survey of adults in the United States</description>
   </item>
   <item>
-    <title>断片化された幼少期：メキシコとアメリカにおける心理社会的トラウマと子どもの生活の質</title>
+    <title>断たれた幼少期：メキシコとアメリカにおける心理社会的トラウマと子どもの生活の質</title>
     <link>https://osf.io/q8tav</link>
     <guid isPermaLink="false">https://osf.io/q8tav#ja</guid>
     <pubDate>Fri, 06 Feb 2026 19:11:43 +0000</pubDate>
@@ -118,7 +181,7 @@
     <description>Affording Danceability: First- and Third-person Accounts of Wanting to Move to Participant-Selected Music</description>
   </item>
   <item>
-    <title>AI専用ソーシャルメディア（AOSM）概念への曝露がAIを実存的脅威と認識する傾向を増加させる―特にAI多用者において</title>
+    <title>AI専用ソーシャルメディア（AOSM）概念への曝露は、特にAIの多用者においてAIを実存的脅威と認識する傾向を高める</title>
     <link>https://osf.io/hnzv3</link>
     <guid isPermaLink="false">https://osf.io/hnzv3#ja</guid>
     <pubDate>Fri, 06 Feb 2026 19:11:42 +0000</pubDate>
@@ -153,7 +216,7 @@
     <description>Does Bilingualism Protect against Cognitive Decline? Cross-sectional and Longitudinal Evidence from Ethnically Diverse Older Adults</description>
   </item>
   <item>
-    <title>親が形成する思春期のスクリーンタイム：デンマークとアイルランドの調査結果</title>
+    <title>親が思春期のスクリーンタイムに与える影響：デンマークとアイルランドの調査結果</title>
     <link>https://osf.io/6n4fc</link>
     <guid isPermaLink="false">https://osf.io/6n4fc#ja</guid>
     <pubDate>Fri, 06 Feb 2026 17:09:54 +0000</pubDate>
@@ -174,21 +237,21 @@
     <description>General and domain-specific genetic signals shape educational outcomes in children and adults</description>
   </item>
   <item>
-    <title>非党派的かつ情報源に基づくAI有権者ガイドは信頼性が高く認識され、投票意図に影響を与える</title>
+    <title>非党派的かつ情報源に基づくAI有権者ガイドは信頼性が高いと認識され、投票意図に影響を与える</title>
     <link>https://osf.io/whsm8</link>
     <guid isPermaLink="false">https://osf.io/whsm8#ja</guid>
     <pubDate>Fri, 06 Feb 2026 15:06:11 +0000</pubDate>
     <description>A nonpartisan source-grounded AI voter guide is perceived as trustworthy and affects voting intentions</description>
   </item>
   <item>
-    <title>神経症的トレッドミルの心理学的考察</title>
+    <title>神経症的トレッドミルを歩む心理過程</title>
     <link>https://osf.io/9dpqu</link>
     <guid isPermaLink="false">https://osf.io/9dpqu#ja</guid>
     <pubDate>Fri, 06 Feb 2026 12:57:28 +0000</pubDate>
     <description>Walking the Neurotic Treadmill</description>
   </item>
   <item>
-    <title>毛髪コルチゾールは性的・性別少数者ストレスがうつ病および不安に及ぼす影響を媒介するか？構造方程式モデリングによる検討</title>
+    <title>毛髪コルチゾールは性的・性別マイノリティのストレスがうつ病および不安に与える影響を媒介するか？構造方程式モデリングによる検討</title>
     <link>https://osf.io/anzey</link>
     <guid isPermaLink="false">https://osf.io/anzey#ja</guid>
     <pubDate>Fri, 06 Feb 2026 11:29:56 +0000</pubDate>
@@ -291,69 +354,6 @@
     <guid isPermaLink="false">https://osf.io/vc78h#ja</guid>
     <pubDate>Thu, 05 Feb 2026 22:22:07 +0000</pubDate>
     <description>Asymmetric Variety Seeking in Hierarchical Choices</description>
-  </item>
-  <item>
-    <title>移動中研究における認知の能動的および受動的センシングの妥当性、信頼性および実用性に関するエビデンス：系統的スコーピングレビュー</title>
-    <link>https://osf.io/4r3jm</link>
-    <guid isPermaLink="false">https://osf.io/4r3jm#ja</guid>
-    <pubDate>Thu, 05 Feb 2026 22:22:06 +0000</pubDate>
-    <description>Evidence on the validity, reliability and usability of active and passive sensing of cognition for use in ambulatory studies: A systematic scoping review</description>
-  </item>
-  <item>
-    <title>「『親しい友達ならAIはあまり監視しない』：子どものAI安全性に関する知識と誤解」</title>
-    <link>https://osf.io/jva7z</link>
-    <guid isPermaLink="false">https://osf.io/jva7z#ja</guid>
-    <pubDate>Thu, 05 Feb 2026 21:37:17 +0000</pubDate>
-    <description>“If we are good friends, AI doesn&#x27;t spy so much”: Children’s knowledge and misconceptions of AI safety</description>
-  </item>
-  <item>
-    <title>非臨床的解離体験と精神病様体験の比較：現実モニタリングと「速思考」バイアスの認知的関連性の検討</title>
-    <link>https://osf.io/dt39r</link>
-    <guid isPermaLink="false">https://osf.io/dt39r#ja</guid>
-    <pubDate>Thu, 05 Feb 2026 21:37:17 +0000</pubDate>
-    <description>Comparing non-clinical dissociative and psychotic-like experiences: reality monitoring and ‘fast thinking’ bias as possible cognitive correlates</description>
-  </item>
-  <item>
-    <title>拡張現実を用いた味覚知覚における異感覚間効果</title>
-    <link>https://osf.io/6ha5e</link>
-    <guid isPermaLink="false">https://osf.io/6ha5e#ja</guid>
-    <pubDate>Thu, 05 Feb 2026 21:37:17 +0000</pubDate>
-    <description>Cross-sensory Effects on Taste Perception using Extended Reality</description>
-  </item>
-  <item>
-    <title>特徴ベースおよび空間的非随意内的注意が行動志向の作業記憶選択に及ぼす異なる影響</title>
-    <link>https://osf.io/hu6bg</link>
-    <guid isPermaLink="false">https://osf.io/hu6bg#ja</guid>
-    <pubDate>Thu, 05 Feb 2026 21:37:16 +0000</pubDate>
-    <description>Feature-Based and Spatial Involuntary Internal Attention Differentially Shape Action-Oriented Working Memory Selection</description>
-  </item>
-  <item>
-    <title>分類困難：人種曖昧性の包括的枠組みの構築に向けて</title>
-    <link>https://osf.io/z4m37</link>
-    <guid isPermaLink="false">https://osf.io/z4m37#ja</guid>
-    <pubDate>Thu, 05 Feb 2026 21:37:16 +0000</pubDate>
-    <description>Hard to Classify: Toward an Inclusive Framework of Racial Ambiguity</description>
-  </item>
-  <item>
-    <title>共有された時間：時間知覚における暗黙の合意の形成</title>
-    <link>https://osf.io/h5b93</link>
-    <guid isPermaLink="false">https://osf.io/h5b93#ja</guid>
-    <pubDate>Thu, 05 Feb 2026 21:37:15 +0000</pubDate>
-    <description>Shared time: Implicitly emerging consensus on time perception</description>
-  </item>
-  <item>
-    <title>先延ばしに対する認知行動療法における変化過程：ランダム化比較試験データを用いた調整効果および縦断的媒介分析</title>
-    <link>https://osf.io/78uev</link>
-    <guid isPermaLink="false">https://osf.io/78uev#ja</guid>
-    <pubDate>Thu, 05 Feb 2026 21:37:15 +0000</pubDate>
-    <description>Processes of change in cognitive-behavioral psychotherapy for procrastination: moderation and longitudinal mediation analyses of randomized controlled trial data</description>
-  </item>
-  <item>
-    <title>日常生活における養育者と子どもの接近度の測定：TotTagウェアラブルセンサーの実用性と受容性の検討</title>
-    <link>https://osf.io/tejdg</link>
-    <guid isPermaLink="false">https://osf.io/tejdg#ja</guid>
-    <pubDate>Thu, 05 Feb 2026 21:37:14 +0000</pubDate>
-    <description>Measuring Caregiver–Child Proximity in Daily Life: Feasibility and Acceptability of the TotTag Wearable Sensor</description>
   </item>
 </channel>
 </rss>
