@@ -6,6 +6,41 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>サッカークラブのアイデンティティリーダーシップと観戦者の試合中の安全感</title>
+    <link>https://osf.io/esa3p</link>
+    <guid isPermaLink="false">https://osf.io/esa3p#ja</guid>
+    <pubDate>Mon, 09 Feb 2026 16:32:52 +0000</pubDate>
+    <description>Football club identity leadership and supporters’ feelings of safety at matches</description>
+  </item>
+  <item>
+    <title>ウィリアムズ症候群およびダウン症候群の人々における抑制過程</title>
+    <link>https://osf.io/8zqk4</link>
+    <guid isPermaLink="false">https://osf.io/8zqk4#ja</guid>
+    <pubDate>Mon, 09 Feb 2026 16:32:51 +0000</pubDate>
+    <description>Inhibitory processes in people with Williams syndrome and Down syndrome</description>
+  </item>
+  <item>
+    <title>心的イメージの内受容起源：進化的視点からの考察</title>
+    <link>https://osf.io/zeh8x</link>
+    <guid isPermaLink="false">https://osf.io/zeh8x#ja</guid>
+    <pubDate>Mon, 09 Feb 2026 16:32:51 +0000</pubDate>
+    <description>The Interoceptive Origins of Mental Imagery: An Evolutionary Account</description>
+  </item>
+  <item>
+    <title>ガーナ西部地域における職業別非医療用トラマドール使用の要因分析：職人、鉱夫、農民を対象とした二次データ解析の拡張研究</title>
+    <link>https://osf.io/dqg35</link>
+    <guid isPermaLink="false">https://osf.io/dqg35#ja</guid>
+    <pubDate>Mon, 09 Feb 2026 16:32:51 +0000</pubDate>
+    <description>Occupational Drivers of Non-Medical Tramadol Use among Artisans, Miners, and Farmers in the Western Region of Ghana: A Secondary Data–Led Analytical Expansion</description>
+  </item>
+  <item>
+    <title>AI生成の誤情報に対する能動的免疫形成</title>
+    <link>https://osf.io/23ebq</link>
+    <guid isPermaLink="false">https://osf.io/23ebq#ja</guid>
+    <pubDate>Mon, 09 Feb 2026 16:32:50 +0000</pubDate>
+    <description>Active Inoculation Against AI-Generated Misinformation</description>
+  </item>
+  <item>
     <title>新たな最初の傾聴者：日中想起スタイルと自己慈悲がADHDの有無により異なる青年期のAIへの自己開示を予測する</title>
     <link>https://osf.io/q73h6</link>
     <guid isPermaLink="false">https://osf.io/q73h6#ja</guid>
@@ -13,28 +48,28 @@
     <description>The New First Listener: Daydreaming Styles and Self-Compassion Predict Adolescent Disclosure to AI, Differently in ADHD</description>
   </item>
   <item>
-    <title>検証不可能なデータの危機：オンライン調査研究におけるデータの完全性確保に向けたIP解析の重要性</title>
+    <title>検証不可能なデータの危機：オンライン調査研究におけるデータの完全性確保に向けたIP分析の重要性</title>
     <link>https://osf.io/r69hk</link>
     <guid isPermaLink="false">https://osf.io/r69hk#ja</guid>
     <pubDate>Mon, 09 Feb 2026 12:59:47 +0000</pubDate>
     <description>A Crisis of Unverifiable Data: IP Analyses May Be Key to Ensuring Data Integrity in Online Survey Research</description>
   </item>
   <item>
-    <title>多発性硬化症患者におけるPROMIS v2.0簡易版ジェンダーインクルーシブ性機能領域の心理計測評価</title>
+    <title>多発性硬化症におけるPROMIS v2.0簡易版ジェンダーインクルーシブ性機能領域の心理計測評価</title>
     <link>https://osf.io/yjgxe</link>
     <guid isPermaLink="false">https://osf.io/yjgxe#ja</guid>
     <pubDate>Mon, 09 Feb 2026 12:59:47 +0000</pubDate>
     <description>Psychometric Evaluation of The PROMIS v2.0 Brief Profile Gender-inclusive Sexual Function Domains in Multiple Sclerosis</description>
   </item>
   <item>
-    <title>空間的近接性と場面文法：自然環境における記憶誘導行動のための空間表象の形成</title>
+    <title>空間的近接性とシーングラマー：自然環境における記憶誘導行動のための空間表象の形成</title>
     <link>https://osf.io/5sjpt</link>
     <guid isPermaLink="false">https://osf.io/5sjpt#ja</guid>
     <pubDate>Mon, 09 Feb 2026 12:59:47 +0000</pubDate>
     <description>Spatial proximity and scene grammar: Shaping spatial representations for memory-guided actions in naturalistic environments</description>
   </item>
   <item>
-    <title>Poliscience：ドイツにおける多義的な警察検問状況下でのADHD患者向け標準化麻薬所持許可証の効果に関する無作為化実験研究</title>
+    <title>ポリサイエンス：ドイツにおけるADHD患者のための標準化された麻薬所持許可証が曖昧な警察検問状況に及ぼす効果に関するランダム化実験的検討</title>
     <link>https://osf.io/5kwjt</link>
     <guid isPermaLink="false">https://osf.io/5kwjt#ja</guid>
     <pubDate>Mon, 09 Feb 2026 12:59:46 +0000</pubDate>
@@ -62,7 +97,7 @@
     <description>From Persecution to Perseverance: A Study of Adversity and Adaptive Coping in Karachi’s Shia Community</description>
   </item>
   <item>
-    <title>熟練数学者における時間経過とともに発展する多感覚的幻覚の体験</title>
+    <title>熟練数学者における時間経過に伴う多様感覚的幻覚の発現</title>
     <link>https://osf.io/ucfbx</link>
     <guid isPermaLink="false">https://osf.io/ucfbx#ja</guid>
     <pubDate>Sun, 08 Feb 2026 14:23:37 +0000</pubDate>
@@ -118,21 +153,21 @@
     <description>How universal is universalization? Exploring the use of universalization in norm violation across the globe</description>
   </item>
   <item>
-    <title>生成AIを活用した高校生の数学への個人的関連性と数学授業への興味促進に関する介入研究</title>
+    <title>生成AIを活用した高校生の数学への個人的関連性および数学授業への興味促進に関する介入研究</title>
     <link>https://osf.io/srxga</link>
     <guid isPermaLink="false">https://osf.io/srxga#ja</guid>
     <pubDate>Sun, 08 Feb 2026 13:41:37 +0000</pubDate>
     <description>Utilizing generative AI to promote high school students’ personal relevance to math and interest in the math class: An intervention</description>
   </item>
   <item>
-    <title>瞑想とサイケデリックスの接点の探求：経験豊富な実践者によるサイケデリック準備に関する質的分析</title>
+    <title>瞑想とサイケデリックスの接点の探究：経験豊富な実践者によるサイケデリック準備に関する質的分析</title>
     <link>https://osf.io/p2qcb</link>
     <guid isPermaLink="false">https://osf.io/p2qcb#ja</guid>
     <pubDate>Sun, 08 Feb 2026 13:41:36 +0000</pubDate>
     <description>Exploring the Interface of Meditation and Psychedelics: A Qualitative Analysis of Experienced Practitioners’ Perspectives on Psychedelic Preparation</description>
   </item>
   <item>
-    <title>パーソナリティ病理に対する進化的システム療法</title>
+    <title>パーソナリティ病理に対する進化システム療法</title>
     <link>https://osf.io/rmp52</link>
     <guid isPermaLink="false">https://osf.io/rmp52#ja</guid>
     <pubDate>Sun, 08 Feb 2026 12:40:01 +0000</pubDate>
@@ -146,7 +181,7 @@
     <description>A psychotherapist’s look into the social brain</description>
   </item>
   <item>
-    <title>世代間緊張、脅威、及び年齢差別：高齢者が若年世代に与える脅威の構造分析</title>
+    <title>世代間緊張、脅威、およびエイジズム：高齢者が若年世代に与える脅威の構造分析</title>
     <link>https://osf.io/pre5d</link>
     <guid isPermaLink="false">https://osf.io/pre5d#ja</guid>
     <pubDate>Sun, 08 Feb 2026 12:40:01 +0000</pubDate>
@@ -195,14 +230,14 @@
     <description>Hippocampus, analogy, and semantic cognition: The HippoSemA framework for semantic abstraction and generalization</description>
   </item>
   <item>
-    <title>ARES-SI：自殺念慮に対する適応的強化学習強化サンプリング法</title>
+    <title>ARES-SI：自殺念慮のための適応的強化学習強化サンプリング法</title>
     <link>https://osf.io/f9mwd</link>
     <guid isPermaLink="false">https://osf.io/f9mwd#ja</guid>
     <pubDate>Sat, 07 Feb 2026 21:47:58 +0000</pubDate>
     <description>ARES-SI: Adaptive Reinforcement-Enhanced Sampling for Suicidal Ideation</description>
   </item>
   <item>
-    <title>より健康的な食品選択のためのヒューリスティックス</title>
+    <title>より健康的な食品選択のためのヒューリスティクス</title>
     <link>https://osf.io/vdaup</link>
     <guid isPermaLink="false">https://osf.io/vdaup#ja</guid>
     <pubDate>Sat, 07 Feb 2026 21:47:57 +0000</pubDate>
@@ -216,7 +251,7 @@
     <description>Temporal Diversity as a design principle for within-person collective intelligence</description>
   </item>
   <item>
-    <title>複数の臨床環境における自殺未遂予測の機械学習モデルにおける人種・民族および性別によるアルゴリズムバイアスの検討</title>
+    <title>複数の臨床環境における人種・民族および性別別の自殺未遂予測機械学習モデルにおけるアルゴリズムバイアスの検討</title>
     <link>https://osf.io/yq983</link>
     <guid isPermaLink="false">https://osf.io/yq983#ja</guid>
     <pubDate>Sat, 07 Feb 2026 20:50:00 +0000</pubDate>
@@ -237,7 +272,7 @@
     <description>Fractured Childhoods: Psychosocial Trauma and Child Quality of Life in Mexico and the United States</description>
   </item>
   <item>
-    <title>ダンス可能性の提供：参加者選択音楽に合わせて動きたいという第一人称および第三人称の記述</title>
+    <title>ダンス可能性の付与：参加者選択音楽に合わせて動きたいという第一人称および第三人称の記述</title>
     <link>https://osf.io/wm9za</link>
     <guid isPermaLink="false">https://osf.io/wm9za#ja</guid>
     <pubDate>Fri, 06 Feb 2026 19:11:43 +0000</pubDate>
@@ -258,7 +293,7 @@
     <description>Value Representations Shape Learning Under Changing Goals</description>
   </item>
   <item>
-    <title>依存症における時間経験：調節障害から回復へ 統一的概念枠組みの構築に向けて</title>
+    <title>依存症における時間経験：調節障害から回復へ 統合的概念枠組みの構築に向けて</title>
     <link>https://osf.io/rnbfa</link>
     <guid isPermaLink="false">https://osf.io/rnbfa#ja</guid>
     <pubDate>Fri, 06 Feb 2026 19:11:42 +0000</pubDate>
@@ -272,14 +307,14 @@
     <description>Towards an Attentional Theory of Second-Language Speech Perception: Evidence from Cue Ecology</description>
   </item>
   <item>
-    <title>バイリンガリズムは認知機能低下を防ぐか？多民族高齢者を対象とした横断的および縦断的研究</title>
+    <title>バイリンガリズムは認知機能低下を防ぐか？多民族高齢者における横断的および縦断的証拠</title>
     <link>https://osf.io/72rd4</link>
     <guid isPermaLink="false">https://osf.io/72rd4#ja</guid>
     <pubDate>Fri, 06 Feb 2026 18:04:09 +0000</pubDate>
     <description>Does Bilingualism Protect against Cognitive Decline? Cross-sectional and Longitudinal Evidence from Ethnically Diverse Older Adults</description>
   </item>
   <item>
-    <title>親が形成する思春期のスクリーンタイム：デンマークとアイルランドの調査結果</title>
+    <title>親が思春期のスクリーンタイムに与える影響：デンマークとアイルランドの調査結果</title>
     <link>https://osf.io/6n4fc</link>
     <guid isPermaLink="false">https://osf.io/6n4fc#ja</guid>
     <pubDate>Fri, 06 Feb 2026 17:09:54 +0000</pubDate>
@@ -293,14 +328,14 @@
     <description>Using a Community-Based Participatory Approach to Study Human-AI Romantic Relationships</description>
   </item>
   <item>
-    <title>一般的および領域特異的な遺伝的シグナルが子どもと成人の教育成果に与える影響</title>
+    <title>一般的および領域特異的な遺伝的シグナルが子供と成人の教育成果に与える影響</title>
     <link>https://osf.io/tpgva</link>
     <guid isPermaLink="false">https://osf.io/tpgva#ja</guid>
     <pubDate>Fri, 06 Feb 2026 15:06:11 +0000</pubDate>
     <description>General and domain-specific genetic signals shape educational outcomes in children and adults</description>
   </item>
   <item>
-    <title>非党派的かつ情報源に基づくAI有権者ガイドは信頼性が高いと認識され、投票意図に影響を与える</title>
+    <title>非党派的かつ情報源に基づくAI有権者ガイドの信頼性認知と投票意図への影響</title>
     <link>https://osf.io/whsm8</link>
     <guid isPermaLink="false">https://osf.io/whsm8#ja</guid>
     <pubDate>Fri, 06 Feb 2026 15:06:11 +0000</pubDate>
@@ -314,46 +349,11 @@
     <description>Walking the Neurotic Treadmill</description>
   </item>
   <item>
-    <title>毛髪コルチゾールは性的・性別マイノリティストレスがうつ病および不安に与える影響を媒介するか？構造方程式モデリングによる検討</title>
+    <title>毛髪コルチゾールは性的・性別マイノリティのストレスがうつ病および不安に及ぼす影響を媒介するか？構造方程式モデリングによる検討</title>
     <link>https://osf.io/anzey</link>
     <guid isPermaLink="false">https://osf.io/anzey#ja</guid>
     <pubDate>Fri, 06 Feb 2026 11:29:56 +0000</pubDate>
     <description>Does hair cortisol mediate the effects of sexual and gender minority stress on depression and anxiety? A structural equation modelling approach</description>
-  </item>
-  <item>
-    <title>生存者の声に基づくトラウマ・暴力対応実践モデルの提案</title>
-    <link>https://osf.io/h4bfw</link>
-    <guid isPermaLink="false">https://osf.io/h4bfw#ja</guid>
-    <pubDate>Fri, 06 Feb 2026 11:29:56 +0000</pubDate>
-    <description>Introducing a Trauma and Violence-informed Practice Model informed by survivor voices</description>
-  </item>
-  <item>
-    <title>認知行動評価ツールボックス（CBAT）：計算精神医学実験を支援するオープンソースプラットフォーム</title>
-    <link>https://osf.io/xhvyw</link>
-    <guid isPermaLink="false">https://osf.io/xhvyw#ja</guid>
-    <pubDate>Fri, 06 Feb 2026 11:29:55 +0000</pubDate>
-    <description>Cognitive Behavioral Assessment Toolbox (CBAT): An Open-Source Platform Supporting Experiments in Computational Psychiatry</description>
-  </item>
-  <item>
-    <title>鎮静効果と乳児-母親関係：乳児の苦痛に対する現実世界における生態学的妥当な母親の反応の個人差</title>
-    <link>https://osf.io/vuker</link>
-    <guid isPermaLink="false">https://osf.io/vuker#ja</guid>
-    <pubDate>Fri, 06 Feb 2026 11:29:55 +0000</pubDate>
-    <description>Soothing and Infant-Mother Relationship: Individual Differences in Real World, Ecologically Valid Maternal Response to Infant Distress</description>
-  </item>
-  <item>
-    <title>オープンサイエンスとデータ標準化</title>
-    <link>https://osf.io/m4etb</link>
-    <guid isPermaLink="false">https://osf.io/m4etb#ja</guid>
-    <pubDate>Thu, 05 Feb 2026 22:54:07 +0000</pubDate>
-    <description>Open research and data standards</description>
-  </item>
-  <item>
-    <title>創造性におけるバイリンガル優位性の検証：資源基盤ではなく容量制限型認知構造の証拠</title>
-    <link>https://osf.io/y5qsf</link>
-    <guid isPermaLink="false">https://osf.io/y5qsf#ja</guid>
-    <pubDate>Thu, 05 Feb 2026 22:54:07 +0000</pubDate>
-    <description>A Search for Bilingual Advantages in Creativity: Evidence for Capacity- Limited, Not Resource-Based, Cognitive Architecture</description>
   </item>
 </channel>
 </rss>
