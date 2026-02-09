@@ -6,14 +6,35 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>宗教性と非合理的信念の関係性の理解：思考様式と解離の役割</title>
+    <title>誤りの重要性と誤り関連陰性電位の関連性の再検討：複数研究室による直接再現研究</title>
+    <link>https://osf.io/2d4mf</link>
+    <guid isPermaLink="false">https://osf.io/2d4mf#ja</guid>
+    <pubDate>Mon, 09 Feb 2026 19:59:41 +0000</pubDate>
+    <description>Revisiting the link between error significance and the error-related negativity: A multi-lab direct replication</description>
+  </item>
+  <item>
+    <title>性的搾取の実際および潜在的な被害を受ける思春期女性に対する統合ケアプログラム「Asja」の効果</title>
+    <link>https://osf.io/8uyte</link>
+    <guid isPermaLink="false">https://osf.io/8uyte#ja</guid>
+    <pubDate>Mon, 09 Feb 2026 19:59:41 +0000</pubDate>
+    <description>Effects of the Integrated Care Program &#x27;Asja&#x27; for Actual and Potential Adolescent Female Victims of Sexual Exploitation</description>
+  </item>
+  <item>
+    <title>サッカークラブのコミュニケーションとアイデンティティ・リーダーシップ：フレームワーク分析</title>
+    <link>https://osf.io/ap47q</link>
+    <guid isPermaLink="false">https://osf.io/ap47q#ja</guid>
+    <pubDate>Mon, 09 Feb 2026 19:59:40 +0000</pubDate>
+    <description>Football club communications and identity leadership: A framework analysis</description>
+  </item>
+  <item>
+    <title>宗教性と非合理的信念の関係理解：思考様式と解離の役割</title>
     <link>https://osf.io/ncexw</link>
     <guid isPermaLink="false">https://osf.io/ncexw#ja</guid>
     <pubDate>Mon, 09 Feb 2026 17:47:44 +0000</pubDate>
     <description>Understanding the relationship between religiosity and irrational beliefs: The role of thinking styles and disintegration</description>
   </item>
   <item>
-    <title>サッカークラブのアイデンティティリーダーシップと観戦時のサポーターの安全感</title>
+    <title>サッカークラブのアイデンティティリーダーシップと観戦者の試合中の安全感</title>
     <link>https://osf.io/esa3p</link>
     <guid isPermaLink="false">https://osf.io/esa3p#ja</guid>
     <pubDate>Mon, 09 Feb 2026 16:32:52 +0000</pubDate>
@@ -48,42 +69,42 @@
     <description>Active Inoculation Against AI-Generated Misinformation</description>
   </item>
   <item>
-    <title>新たな最初の傾聴者：日中想像スタイルと自己慈悲がADHDの有無で異なる青年期のAIへの自己開示を予測する</title>
+    <title>新たな最初の傾聴者：日中想像スタイルと自己慈悲がADHDの有無により異なる青年期のAIへの自己開示を予測する</title>
     <link>https://osf.io/q73h6</link>
     <guid isPermaLink="false">https://osf.io/q73h6#ja</guid>
     <pubDate>Mon, 09 Feb 2026 12:59:47 +0000</pubDate>
     <description>The New First Listener: Daydreaming Styles and Self-Compassion Predict Adolescent Disclosure to AI, Differently in ADHD</description>
   </item>
   <item>
-    <title>検証不能なデータの危機：オンライン調査研究におけるデータの完全性確保に向けたIP分析の重要性</title>
+    <title>検証不可能なデータの危機：オンライン調査研究におけるデータの完全性確保に向けたIP解析の重要性</title>
     <link>https://osf.io/r69hk</link>
     <guid isPermaLink="false">https://osf.io/r69hk#ja</guid>
     <pubDate>Mon, 09 Feb 2026 12:59:47 +0000</pubDate>
     <description>A Crisis of Unverifiable Data: IP Analyses May Be Key to Ensuring Data Integrity in Online Survey Research</description>
   </item>
   <item>
-    <title>多発性硬化症におけるPROMIS v2.0簡易版ジェンダーインクルーシブ性機能領域の心理計量学的評価</title>
+    <title>多発性硬化症におけるPROMIS v2.0簡易版ジェンダーインクルーシブ性機能領域の心理測定学的評価</title>
     <link>https://osf.io/yjgxe</link>
     <guid isPermaLink="false">https://osf.io/yjgxe#ja</guid>
     <pubDate>Mon, 09 Feb 2026 12:59:47 +0000</pubDate>
     <description>Psychometric Evaluation of The PROMIS v2.0 Brief Profile Gender-inclusive Sexual Function Domains in Multiple Sclerosis</description>
   </item>
   <item>
-    <title>空間的近接性と場面文法：自然環境における記憶誘導行動のための空間表象の形成</title>
+    <title>空間的近接性とシーングラマー：自然環境における記憶誘導行動のための空間表象の形成</title>
     <link>https://osf.io/5sjpt</link>
     <guid isPermaLink="false">https://osf.io/5sjpt#ja</guid>
     <pubDate>Mon, 09 Feb 2026 12:59:47 +0000</pubDate>
     <description>Spatial proximity and scene grammar: Shaping spatial representations for memory-guided actions in naturalistic environments</description>
   </item>
   <item>
-    <title>ポリサイエンス：ドイツにおける多義的な警察検問状況下でのADHD患者向け標準化麻薬所持許可証の効果に関するランダム化実験研究</title>
+    <title>ポリサイエンス：ドイツにおけるADHD患者のための標準化された麻薬所持許可証が曖昧な警察検問状況に及ぼす効果に関するランダム化実験研究</title>
     <link>https://osf.io/5kwjt</link>
     <guid isPermaLink="false">https://osf.io/5kwjt#ja</guid>
     <pubDate>Mon, 09 Feb 2026 12:59:46 +0000</pubDate>
     <description>Poliscience: Eine randomisierte experimentelle Untersuchung zu den Effekten eines standardisierten Betäubungsmittelausweises für ADHS-Patienten in mehrdeutigen polizeilichen Kontrollsituationen in Deutschland</description>
   </item>
   <item>
-    <title>（指示的）関係的応答は一般集団における自閉症特性と関連しない</title>
+    <title>（指示的）関係的応答性は一般集団における自閉症特性と関連しない</title>
     <link>https://osf.io/nk5w3</link>
     <guid isPermaLink="false">https://osf.io/nk5w3#ja</guid>
     <pubDate>Mon, 09 Feb 2026 09:01:45 +0000</pubDate>
@@ -104,7 +125,7 @@
     <description>From Persecution to Perseverance: A Study of Adversity and Adaptive Coping in Karachi’s Shia Community</description>
   </item>
   <item>
-    <title>熟練数学者における時間経過に伴う多様感覚的幻覚の発現</title>
+    <title>熟練数学者における時間経過とともに発展する多感覚的幻覚の体験</title>
     <link>https://osf.io/ucfbx</link>
     <guid isPermaLink="false">https://osf.io/ucfbx#ja</guid>
     <pubDate>Sun, 08 Feb 2026 14:23:37 +0000</pubDate>
@@ -160,14 +181,14 @@
     <description>How universal is universalization? Exploring the use of universalization in norm violation across the globe</description>
   </item>
   <item>
-    <title>生成AIを活用した高校生の数学への個人的関連性と数学授業への興味促進に関する介入研究</title>
+    <title>生成AIを活用した高校生の数学への個人的関連性および数学授業への興味促進に関する介入研究</title>
     <link>https://osf.io/srxga</link>
     <guid isPermaLink="false">https://osf.io/srxga#ja</guid>
     <pubDate>Sun, 08 Feb 2026 13:41:37 +0000</pubDate>
     <description>Utilizing generative AI to promote high school students’ personal relevance to math and interest in the math class: An intervention</description>
   </item>
   <item>
-    <title>瞑想とサイケデリックスの接点の探求：経験豊富な実践者によるサイケデリック準備に関する質的分析</title>
+    <title>瞑想とサイケデリックスの接点の探究：経験豊富な実践者のサイケデリック準備に関する質的分析</title>
     <link>https://osf.io/p2qcb</link>
     <guid isPermaLink="false">https://osf.io/p2qcb#ja</guid>
     <pubDate>Sun, 08 Feb 2026 13:41:36 +0000</pubDate>
@@ -188,14 +209,14 @@
     <description>A psychotherapist’s look into the social brain</description>
   </item>
   <item>
-    <title>世代間緊張、脅威、およびエイジズム：高齢者が若年世代に与える脅威の構造分析</title>
+    <title>世代間緊張、脅威、およびエイジズム：高齢者が若年世代に与える脅威の構造とは何か</title>
     <link>https://osf.io/pre5d</link>
     <guid isPermaLink="false">https://osf.io/pre5d#ja</guid>
     <pubDate>Sun, 08 Feb 2026 12:40:01 +0000</pubDate>
     <description>Intergenerational tensions, threat, and ageism. How is the threat posed by older people to younger generations structured?</description>
   </item>
   <item>
-    <title>ウェルビーイングにおける社会的プロセス（SoWell）：調査および生態学的モーメント評価を用いた双生児研究</title>
+    <title>ウェルビーイングにおける社会的プロセス（SoWell）：調査およびエコロジカルモーメンタリーアセスメントを用いた双生児研究</title>
     <link>https://osf.io/5qdpn</link>
     <guid isPermaLink="false">https://osf.io/5qdpn#ja</guid>
     <pubDate>Sun, 08 Feb 2026 12:40:00 +0000</pubDate>
@@ -237,14 +258,14 @@
     <description>Hippocampus, analogy, and semantic cognition: The HippoSemA framework for semantic abstraction and generalization</description>
   </item>
   <item>
-    <title>ARES-SI：自殺念慮のための適応的強化学習強化サンプリング法</title>
+    <title>ARES-SI：自殺念慮検出のための適応的強化学習強化サンプリング法</title>
     <link>https://osf.io/f9mwd</link>
     <guid isPermaLink="false">https://osf.io/f9mwd#ja</guid>
     <pubDate>Sat, 07 Feb 2026 21:47:58 +0000</pubDate>
     <description>ARES-SI: Adaptive Reinforcement-Enhanced Sampling for Suicidal Ideation</description>
   </item>
   <item>
-    <title>より健康的な食品選択のためのヒューリスティックス</title>
+    <title>より健康的な食品選択のためのヒューリスティクス</title>
     <link>https://osf.io/vdaup</link>
     <guid isPermaLink="false">https://osf.io/vdaup#ja</guid>
     <pubDate>Sat, 07 Feb 2026 21:47:57 +0000</pubDate>
@@ -258,7 +279,7 @@
     <description>Temporal Diversity as a design principle for within-person collective intelligence</description>
   </item>
   <item>
-    <title>複数の臨床環境における自殺未遂予測機械学習モデルの人種・民族および性別によるアルゴリズムバイアスの検討</title>
+    <title>複数の臨床環境における自殺未遂予測の機械学習モデルにおける人種・民族および性別によるアルゴリズムバイアスの検証</title>
     <link>https://osf.io/yq983</link>
     <guid isPermaLink="false">https://osf.io/yq983#ja</guid>
     <pubDate>Sat, 07 Feb 2026 20:50:00 +0000</pubDate>
@@ -272,21 +293,21 @@
     <description>Links between Cannabinoid Hyperemesis Syndrome and drug use, mental health problems, antisocial behavior, and personality in a national survey of adults in the United States</description>
   </item>
   <item>
-    <title>分断された幼少期：メキシコとアメリカにおける心理社会的トラウマと子どもの生活の質</title>
+    <title>断たれた幼少期：メキシコとアメリカにおける心理社会的トラウマと子どもの生活の質</title>
     <link>https://osf.io/q8tav</link>
     <guid isPermaLink="false">https://osf.io/q8tav#ja</guid>
     <pubDate>Fri, 06 Feb 2026 19:11:43 +0000</pubDate>
     <description>Fractured Childhoods: Psychosocial Trauma and Child Quality of Life in Mexico and the United States</description>
   </item>
   <item>
-    <title>ダンス可能性の提供：参加者選択音楽に合わせて動きたいという第一人称および第三人称の記述</title>
+    <title>ダンス可能性の付与：参加者選択音楽に合わせて動きたいという第一人称および第三人称の記述</title>
     <link>https://osf.io/wm9za</link>
     <guid isPermaLink="false">https://osf.io/wm9za#ja</guid>
     <pubDate>Fri, 06 Feb 2026 19:11:43 +0000</pubDate>
     <description>Affording Danceability: First- and Third-person Accounts of Wanting to Move to Participant-Selected Music</description>
   </item>
   <item>
-    <title>AI専用ソーシャルメディア（AOSM）概念への曝露がAIを実存的脅威と認識する傾向を増加させる―特にAI多用者において</title>
+    <title>AI専用ソーシャルメディア（AOSM）概念への曝露は、特にAIの多用者においてAIを実存的脅威と認識する傾向を高める</title>
     <link>https://osf.io/hnzv3</link>
     <guid isPermaLink="false">https://osf.io/hnzv3#ja</guid>
     <pubDate>Fri, 06 Feb 2026 19:11:42 +0000</pubDate>
@@ -333,27 +354,6 @@
     <guid isPermaLink="false">https://osf.io/jxvcq#ja</guid>
     <pubDate>Fri, 06 Feb 2026 17:09:54 +0000</pubDate>
     <description>Using a Community-Based Participatory Approach to Study Human-AI Romantic Relationships</description>
-  </item>
-  <item>
-    <title>一般的および領域特異的な遺伝的シグナルが子どもと成人の教育成果に与える影響</title>
-    <link>https://osf.io/tpgva</link>
-    <guid isPermaLink="false">https://osf.io/tpgva#ja</guid>
-    <pubDate>Fri, 06 Feb 2026 15:06:11 +0000</pubDate>
-    <description>General and domain-specific genetic signals shape educational outcomes in children and adults</description>
-  </item>
-  <item>
-    <title>非党派的かつ情報源に基づくAI有権者ガイドは信頼性が高く認識され、投票意図に影響を与える</title>
-    <link>https://osf.io/whsm8</link>
-    <guid isPermaLink="false">https://osf.io/whsm8#ja</guid>
-    <pubDate>Fri, 06 Feb 2026 15:06:11 +0000</pubDate>
-    <description>A nonpartisan source-grounded AI voter guide is perceived as trustworthy and affects voting intentions</description>
-  </item>
-  <item>
-    <title>神経症的トレッドミルの心理動態</title>
-    <link>https://osf.io/9dpqu</link>
-    <guid isPermaLink="false">https://osf.io/9dpqu#ja</guid>
-    <pubDate>Fri, 06 Feb 2026 12:57:28 +0000</pubDate>
-    <description>Walking the Neurotic Treadmill</description>
   </item>
 </channel>
 </rss>
