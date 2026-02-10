@@ -6,14 +6,77 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>学習生態系における持続的注意力：バヤカ狩猟採集民の子どもと非狩猟バントゥー隣人の比較研究</title>
+    <title>道徳的判断における注意のボトルネック：比較文脈が識別認知を歪めるメカニズム</title>
+    <link>https://osf.io/pnurb</link>
+    <guid isPermaLink="false">https://osf.io/pnurb#ja</guid>
+    <pubDate>Tue, 10 Feb 2026 13:04:08 +0000</pubDate>
+    <description>Attention as a Bottleneck in Moral Judgment: How Comparative Context Distorts Discrimination Recognition</description>
+  </item>
+  <item>
+    <title>対象群への効果的な言及方法</title>
+    <link>https://osf.io/nbqsz</link>
+    <guid isPermaLink="false">https://osf.io/nbqsz#ja</guid>
+    <pubDate>Tue, 10 Feb 2026 13:04:08 +0000</pubDate>
+    <description>Referring Effectively to a Group of Objects</description>
+  </item>
+  <item>
+    <title>リーダーの天職感と従業員の天職感の関係における信頼の調整効果</title>
+    <link>https://osf.io/djuc8</link>
+    <guid isPermaLink="false">https://osf.io/djuc8#ja</guid>
+    <pubDate>Tue, 10 Feb 2026 13:04:08 +0000</pubDate>
+    <description>The Moderating Role of Trust on the Relation Between a Leader’s Calling and an Employee’s Calling</description>
+  </item>
+  <item>
+    <title>TRACKPixx3アイ・トラッカーの包括的評価</title>
+    <link>https://osf.io/vucg3</link>
+    <guid isPermaLink="false">https://osf.io/vucg3#ja</guid>
+    <pubDate>Tue, 10 Feb 2026 13:04:07 +0000</pubDate>
+    <description>A Comprehensive Evaluation of the TRACKPixx3 Eye-Tracker</description>
+  </item>
+  <item>
+    <title>児童期逆境の測定：心理計量学的課題とセルビア全国代表調査に基づく新たなスコアリング提案</title>
+    <link>https://osf.io/5zdbf</link>
+    <guid isPermaLink="false">https://osf.io/5zdbf#ja</guid>
+    <pubDate>Tue, 10 Feb 2026 13:04:07 +0000</pubDate>
+    <description>Measuring Childhood Adversity: Psychometric Challenges and a Novel Scoring Proposal based on a Nationally Representative Study in Serbia</description>
+  </item>
+  <item>
+    <title>留まるべきか去るべきか：脅威感情知覚後の自発的姿勢行動の検討</title>
+    <link>https://osf.io/9r2zf</link>
+    <guid isPermaLink="false">https://osf.io/9r2zf#ja</guid>
+    <pubDate>Tue, 10 Feb 2026 13:04:07 +0000</pubDate>
+    <description>Should I Stay or Should I go: An Exploration of Spontaneous Postural Behaviours Following Threatening Emotion Perception</description>
+  </item>
+  <item>
+    <title>精神病脆弱性を有する者における差次的恐怖条件付けパラダイムを用いた脳波研究：精神病発症における恐怖学習の役割</title>
+    <link>https://osf.io/dfx9k</link>
+    <guid isPermaLink="false">https://osf.io/dfx9k#ja</guid>
+    <pubDate>Tue, 10 Feb 2026 13:04:07 +0000</pubDate>
+    <description>The role of fear learning in the development of psychosis: An EEG study utilizing a differential fear conditioning paradigm in people with psychotic vulnerability.</description>
+  </item>
+  <item>
+    <title>不安・ストレス症状は9.11以降の退役軍人における否定的な全般的メタ認知バイアスを独自に予測する</title>
+    <link>https://osf.io/sjv8u</link>
+    <guid isPermaLink="false">https://osf.io/sjv8u#ja</guid>
+    <pubDate>Tue, 10 Feb 2026 13:04:06 +0000</pubDate>
+    <description>Anxiety/stress symptoms uniquely predict greater negative global metacognitive bias in post-9/11 veterans</description>
+  </item>
+  <item>
+    <title>BASC-3 TRSの内部構造：多次元項目反応理論が明らかにするもの</title>
+    <link>https://osf.io/jpsa2</link>
+    <guid isPermaLink="false">https://osf.io/jpsa2#ja</guid>
+    <pubDate>Tue, 10 Feb 2026 13:04:06 +0000</pubDate>
+    <description>Inside the BASC-3 TRS: What Multidimensional IRT Reveals</description>
+  </item>
+  <item>
+    <title>学習生態系における持続的注意力：バヤカ狩猟採集民の子どもと非採集バントゥー隣人の比較研究</title>
     <link>https://osf.io/rpt3e</link>
     <guid isPermaLink="false">https://osf.io/rpt3e#ja</guid>
     <pubDate>Tue, 10 Feb 2026 09:57:07 +0000</pubDate>
     <description>Sustained Attention Across Learning Ecologies; Evidence from BaYaka hunter-gatherer children and their non-forager Bantu neighbours</description>
   </item>
   <item>
-    <title>他者を悲しませる選択と喜ばせる選択：子どもの対人後悔と安堵感</title>
+    <title>他者を悲しませる選択と喜ばせる選択：子どもの対人的後悔と安堵感</title>
     <link>https://osf.io/j6rga</link>
     <guid isPermaLink="false">https://osf.io/j6rga#ja</guid>
     <pubDate>Tue, 10 Feb 2026 09:57:07 +0000</pubDate>
@@ -62,7 +125,7 @@
     <description>An intervention to improve students’ knowledge of open science practices in an undergraduate psychology course</description>
   </item>
   <item>
-    <title>正確な情報は共和党支持者の選挙の公正性に対する信念を大幅かつ持続的に高めることができる</title>
+    <title>正確な情報は共和党支持者の選挙公正性信念を大幅かつ持続的に高めることができる</title>
     <link>https://osf.io/42pum</link>
     <guid isPermaLink="false">https://osf.io/42pum#ja</guid>
     <pubDate>Tue, 10 Feb 2026 09:57:01 +0000</pubDate>
@@ -90,14 +153,14 @@
     <description>Football club communications and identity leadership: A framework analysis</description>
   </item>
   <item>
-    <title>宗教性と非合理的信念の関係理解：思考様式と解離の役割</title>
+    <title>宗教性と非合理的信念の関係性の理解：思考様式と解離の役割</title>
     <link>https://osf.io/ncexw</link>
     <guid isPermaLink="false">https://osf.io/ncexw#ja</guid>
     <pubDate>Mon, 09 Feb 2026 17:47:44 +0000</pubDate>
     <description>Understanding the relationship between religiosity and irrational beliefs: The role of thinking styles and disintegration</description>
   </item>
   <item>
-    <title>サッカークラブのアイデンティティリーダーシップと観戦者の試合中の安全感</title>
+    <title>サッカークラブのアイデンティティ・リーダーシップと試合におけるサポーターの安全感</title>
     <link>https://osf.io/esa3p</link>
     <guid isPermaLink="false">https://osf.io/esa3p#ja</guid>
     <pubDate>Mon, 09 Feb 2026 16:32:52 +0000</pubDate>
@@ -132,7 +195,7 @@
     <description>Active Inoculation Against AI-Generated Misinformation</description>
   </item>
   <item>
-    <title>新たな最初の傾聴者：日中想像スタイルと自己慈悲がADHDの有無により異なる青年期のAIへの自己開示を予測する</title>
+    <title>新たな最初の傾聴者：日中想起スタイルと自己慈悲がADHDの有無により異なる思春期のAIへの自己開示を予測する</title>
     <link>https://osf.io/q73h6</link>
     <guid isPermaLink="false">https://osf.io/q73h6#ja</guid>
     <pubDate>Mon, 09 Feb 2026 12:59:47 +0000</pubDate>
@@ -153,7 +216,7 @@
     <description>Psychometric Evaluation of The PROMIS v2.0 Brief Profile Gender-inclusive Sexual Function Domains in Multiple Sclerosis</description>
   </item>
   <item>
-    <title>空間的近接性と場面文法：自然環境における記憶誘導行動のための空間表象の形成</title>
+    <title>空間的近接性とシーングラマー：自然環境における記憶誘導行動のための空間表象の形成</title>
     <link>https://osf.io/5sjpt</link>
     <guid isPermaLink="false">https://osf.io/5sjpt#ja</guid>
     <pubDate>Mon, 09 Feb 2026 12:59:47 +0000</pubDate>
@@ -167,7 +230,7 @@
     <description>Poliscience: Eine randomisierte experimentelle Untersuchung zu den Effekten eines standardisierten Betäubungsmittelausweises für ADHS-Patienten in mehrdeutigen polizeilichen Kontrollsituationen in Deutschland</description>
   </item>
   <item>
-    <title>（指示的）関係的応答は一般集団における自閉症特性と関連しない</title>
+    <title>（指示的）関係的応答性は一般集団における自閉症特性と関連しない</title>
     <link>https://osf.io/nk5w3</link>
     <guid isPermaLink="false">https://osf.io/nk5w3#ja</guid>
     <pubDate>Mon, 09 Feb 2026 09:01:45 +0000</pubDate>
@@ -188,7 +251,7 @@
     <description>From Persecution to Perseverance: A Study of Adversity and Adaptive Coping in Karachi’s Shia Community</description>
   </item>
   <item>
-    <title>熟練数学者における時間経過に伴う多感覚的幻覚の発現</title>
+    <title>熟練数学者における時間経過に伴う多様感覚的幻覚の発現</title>
     <link>https://osf.io/ucfbx</link>
     <guid isPermaLink="false">https://osf.io/ucfbx#ja</guid>
     <pubDate>Sun, 08 Feb 2026 14:23:37 +0000</pubDate>
@@ -209,7 +272,7 @@
     <description>The Dispositional Basis of Selective Prosociality</description>
   </item>
   <item>
-    <title>自尊感情と内在化症状の前向き関連に関する結論の不確かさ：Solbergら（2025）へのコメント</title>
+    <title>自尊感情と内在化症状の前向き関連に関する不確定な結果：Solbergら（2025）へのコメント</title>
     <link>https://osf.io/d5u4f</link>
     <guid isPermaLink="false">https://osf.io/d5u4f#ja</guid>
     <pubDate>Sun, 08 Feb 2026 13:41:39 +0000</pubDate>
@@ -230,14 +293,14 @@
     <description>Assessing the Development of Intellectual Humility across Childhood</description>
   </item>
   <item>
-    <title>成人における変容意識状態の八次元と幼児期意識との収束</title>
+    <title>成人における意識変容の八次元とそれらの幼児期意識との収束</title>
     <link>https://osf.io/zjt8n</link>
     <guid isPermaLink="false">https://osf.io/zjt8n#ja</guid>
     <pubDate>Sun, 08 Feb 2026 13:41:38 +0000</pubDate>
     <description>The Eight Dimensions of Altered States of Consciousness in Adults and their Convergence with Childhood Consciousness</description>
   </item>
   <item>
-    <title>普遍化の普遍性とは何か？世界各地における規範違反に対する普遍化の使用の検討</title>
+    <title>普遍化の普遍性：世界各地における規範違反に対する普遍化の使用の検討</title>
     <link>https://osf.io/g5st4</link>
     <guid isPermaLink="false">https://osf.io/g5st4#ja</guid>
     <pubDate>Sun, 08 Feb 2026 13:41:38 +0000</pubDate>
@@ -258,21 +321,21 @@
     <description>Exploring the Interface of Meditation and Psychedelics: A Qualitative Analysis of Experienced Practitioners’ Perspectives on Psychedelic Preparation</description>
   </item>
   <item>
-    <title>人格病理に対する進化的システム療法</title>
+    <title>パーソナリティ病理に対する進化システム療法</title>
     <link>https://osf.io/rmp52</link>
     <guid isPermaLink="false">https://osf.io/rmp52#ja</guid>
     <pubDate>Sun, 08 Feb 2026 12:40:01 +0000</pubDate>
     <description>Evolutionary Systems Therapy for Personality Pathology</description>
   </item>
   <item>
-    <title>心理療法士による社会的脳の考察</title>
+    <title>精神療法士による社会的脳の考察</title>
     <link>https://osf.io/h5t3z</link>
     <guid isPermaLink="false">https://osf.io/h5t3z#ja</guid>
     <pubDate>Sun, 08 Feb 2026 12:40:01 +0000</pubDate>
     <description>A psychotherapist’s look into the social brain</description>
   </item>
   <item>
-    <title>世代間緊張、脅威、及びエイジズム：高齢者が若年世代に与える脅威の構造分析</title>
+    <title>世代間緊張、脅威、およびエイジズム：高齢者が若年世代に与える脅威の構造分析</title>
     <link>https://osf.io/pre5d</link>
     <guid isPermaLink="false">https://osf.io/pre5d#ja</guid>
     <pubDate>Sun, 08 Feb 2026 12:40:01 +0000</pubDate>
@@ -291,69 +354,6 @@
     <guid isPermaLink="false">https://osf.io/wf43q#ja</guid>
     <pubDate>Sun, 08 Feb 2026 12:40:00 +0000</pubDate>
     <description>Semantic Structure and Normative Ratings of Gender-Inclusive Role Nouns: The First Italian Database (GIRN-I)</description>
-  </item>
-  <item>
-    <title>RCualiText：質的分析のためのオープンソースR/Shinyウェブアプリケーション</title>
-    <link>https://osf.io/46zgx</link>
-    <guid isPermaLink="false">https://osf.io/46zgx#ja</guid>
-    <pubDate>Sun, 08 Feb 2026 12:40:00 +0000</pubDate>
-    <description>RCualiText: An Open-Source R/ShinyWeb Application for Qualitative Analysis</description>
-  </item>
-  <item>
-    <title>数学とは何か？アメリカ成人の認識と評価</title>
-    <link>https://osf.io/j93uh</link>
-    <guid isPermaLink="false">https://osf.io/j93uh#ja</guid>
-    <pubDate>Sun, 08 Feb 2026 12:39:59 +0000</pubDate>
-    <description>What counts as mathematics? Adults in the United States weigh in.</description>
-  </item>
-  <item>
-    <title>社会的スキルと精神病理の関係における実行機能の媒介効果：自閉症診断の調整役割</title>
-    <link>https://osf.io/st7xh</link>
-    <guid isPermaLink="false">https://osf.io/st7xh#ja</guid>
-    <pubDate>Sun, 08 Feb 2026 12:39:59 +0000</pubDate>
-    <description>Executive Functioning as a Mediator Between Social Skills and Psychopathology: The Moderating Role of Autism Diagnosis</description>
-  </item>
-  <item>
-    <title>海馬、類推、および意味認知：意味抽象化と一般化のためのHippoSemAフレームワーク</title>
-    <link>https://osf.io/wqhds</link>
-    <guid isPermaLink="false">https://osf.io/wqhds#ja</guid>
-    <pubDate>Sat, 07 Feb 2026 21:47:58 +0000</pubDate>
-    <description>Hippocampus, analogy, and semantic cognition: The HippoSemA framework for semantic abstraction and generalization</description>
-  </item>
-  <item>
-    <title>ARES-SI：自殺念慮に対する適応的強化学習強化サンプリング法</title>
-    <link>https://osf.io/f9mwd</link>
-    <guid isPermaLink="false">https://osf.io/f9mwd#ja</guid>
-    <pubDate>Sat, 07 Feb 2026 21:47:58 +0000</pubDate>
-    <description>ARES-SI: Adaptive Reinforcement-Enhanced Sampling for Suicidal Ideation</description>
-  </item>
-  <item>
-    <title>より健康的な食品選択のためのヒューリスティクス</title>
-    <link>https://osf.io/vdaup</link>
-    <guid isPermaLink="false">https://osf.io/vdaup#ja</guid>
-    <pubDate>Sat, 07 Feb 2026 21:47:57 +0000</pubDate>
-    <description>Heuristics for Healthier Food Selection</description>
-  </item>
-  <item>
-    <title>個人内集合知の設計原理としての時間的多様性</title>
-    <link>https://osf.io/qpzrg</link>
-    <guid isPermaLink="false">https://osf.io/qpzrg#ja</guid>
-    <pubDate>Sat, 07 Feb 2026 21:21:03 +0000</pubDate>
-    <description>Temporal Diversity as a design principle for within-person collective intelligence</description>
-  </item>
-  <item>
-    <title>複数の臨床環境における自殺未遂予測の機械学習モデルにおける人種・民族および性別によるアルゴリズムバイアスの検討</title>
-    <link>https://osf.io/yq983</link>
-    <guid isPermaLink="false">https://osf.io/yq983#ja</guid>
-    <pubDate>Sat, 07 Feb 2026 20:50:00 +0000</pubDate>
-    <description>Investigating Algorithmic Bias in Machine Learning Prediction Models of Suicide Attempts in Multiple Clinical Settings by Race/Ethnicity and Gender</description>
-  </item>
-  <item>
-    <title>アメリカ成人全国調査におけるカンナビノイド過敏症候群と薬物使用、精神健康問題、反社会的行動およびパーソナリティの関連性</title>
-    <link>https://osf.io/4mbku</link>
-    <guid isPermaLink="false">https://osf.io/4mbku#ja</guid>
-    <pubDate>Fri, 06 Feb 2026 19:11:43 +0000</pubDate>
-    <description>Links between Cannabinoid Hyperemesis Syndrome and drug use, mental health problems, antisocial behavior, and personality in a national survey of adults in the United States</description>
   </item>
 </channel>
 </rss>
