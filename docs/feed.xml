@@ -6,6 +6,34 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>目的と意味の56の健康および幸福結果との関連：グローバルフローリッシング研究における23か国・地域の証拠</title>
+    <link>https://osf.io/a5mc2</link>
+    <guid isPermaLink="false">https://osf.io/a5mc2#ja</guid>
+    <pubDate>Wed, 11 Feb 2026 00:00:29 +0000</pubDate>
+    <description>Purpose and Meaning’s Association with 56 Health and Well-Being Outcomes: Evidence from 23 Countries/Territories in the Global Flourishing Study</description>
+  </item>
+  <item>
+    <title>米国成人における極端な熱に関するメッセージの影響を軽減する熱波の肯定的イメージ</title>
+    <link>https://osf.io/56hf8</link>
+    <guid isPermaLink="false">https://osf.io/56hf8#ja</guid>
+    <pubDate>Wed, 11 Feb 2026 00:00:28 +0000</pubDate>
+    <description>Positive images of heat waves reduce the effects of messages about extreme heat among U.S. adults</description>
+  </item>
+  <item>
+    <title>成人期における記憶が消費者選択に及ぼす影響</title>
+    <link>https://osf.io/jxf4a</link>
+    <guid isPermaLink="false">https://osf.io/jxf4a#ja</guid>
+    <pubDate>Wed, 11 Feb 2026 00:00:28 +0000</pubDate>
+    <description>Effects of Memory on Consumer Choice Across Adulthood</description>
+  </item>
+  <item>
+    <title>合意に基づく非一夫一婦制に対するスティグマの検討：一夫一婦制との精神病理、ウェルビーイング、愛着およびその他の心理的特性の比較</title>
+    <link>https://osf.io/g9avj</link>
+    <guid isPermaLink="false">https://osf.io/g9avj#ja</guid>
+    <pubDate>Wed, 11 Feb 2026 00:00:28 +0000</pubDate>
+    <description>Diving into the stigma around consensual non-monogamies: Comparing psychopathology, well-being, attachment, and other psychological characteristics with monogamous counterparts</description>
+  </item>
+  <item>
     <title>持続可能性と公平性の理解が高い子どもは教育用ロボットにより多くを求める</title>
     <link>https://osf.io/xzubd</link>
     <guid isPermaLink="false">https://osf.io/xzubd#ja</guid>
@@ -27,7 +55,7 @@
     <description>Cross-modal adaptation to self-motion stimuli despite diverted attention</description>
   </item>
   <item>
-    <title>CONNECT調査の妥当性検証：小児プライマリケアにおける介護者と臨床医の関係性を測定する簡易ツール</title>
+    <title>CONNECT調査の検証：小児プライマリケアにおける介護者と臨床医の関係性を測定する簡易ツール</title>
     <link>https://osf.io/qg2vf</link>
     <guid isPermaLink="false">https://osf.io/qg2vf#ja</guid>
     <pubDate>Tue, 10 Feb 2026 22:04:42 +0000</pubDate>
@@ -55,21 +83,21 @@
     <description>Time-Based Cognition and Working Memory Explain Changes in Delay Discounting Through Adolescence</description>
   </item>
   <item>
-    <title>56の健康および幸福アウトカムにおける自己統制感の関連性：23か国・地域からの証拠</title>
+    <title>56の健康およびウェルビーイング指標における自己効力感の関連性：23か国・地域からの証拠</title>
     <link>https://osf.io/fxh83</link>
     <guid isPermaLink="false">https://osf.io/fxh83#ja</guid>
     <pubDate>Tue, 10 Feb 2026 21:07:30 +0000</pubDate>
     <description>Sense of Mastery’s Association with 56 Health and Well-Being Outcomes: Evidence from 23 Countries/Territories</description>
   </item>
   <item>
-    <title>簡報：乳児の規則学習における安定性の検討</title>
+    <title>速報：乳児の規則学習における安定性の検討</title>
     <link>https://osf.io/aw4db</link>
     <guid isPermaLink="false">https://osf.io/aw4db#ja</guid>
     <pubDate>Tue, 10 Feb 2026 21:07:30 +0000</pubDate>
     <description>Brief Report: Stability in Infant Rule-Learning?</description>
   </item>
   <item>
-    <title>誇張された変動性信念が被害妄想における社会的幻覚を引き起こす</title>
+    <title>誇張された変動性信念が偏執症における社会的幻覚を促進する</title>
     <link>https://osf.io/8cext</link>
     <guid isPermaLink="false">https://osf.io/8cext#ja</guid>
     <pubDate>Tue, 10 Feb 2026 21:07:29 +0000</pubDate>
@@ -104,7 +132,7 @@
     <description>Psychological correlates of inceldom: An exploratory study</description>
   </item>
   <item>
-    <title>うつ病および不安に対する個別化単回セッション認知行動療法介入の実施成果と効果検証</title>
+    <title>うつ病および不安に対する個別化単回セッション認知行動療法介入の実施結果と有効性</title>
     <link>https://osf.io/dsg4x</link>
     <guid isPermaLink="false">https://osf.io/dsg4x#ja</guid>
     <pubDate>Tue, 10 Feb 2026 18:59:53 +0000</pubDate>
@@ -153,7 +181,7 @@
     <description>Schema Dictionaries: Quantifying Schematic Content in Narratives with Natural Language Processing</description>
   </item>
   <item>
-    <title>週労働時間の長さに関するfMRIバイオマーカー：UKバイオバンク研究</title>
+    <title>週労働時間のfMRIバイオマーカー：英国バイオバンク研究</title>
     <link>https://osf.io/aek6g</link>
     <guid isPermaLink="false">https://osf.io/aek6g#ja</guid>
     <pubDate>Tue, 10 Feb 2026 16:02:57 +0000</pubDate>
@@ -167,7 +195,7 @@
     <description>Measuring Predictors and Prevalence of Benevolent Childhood Experiences in English Adolescents: Evidence from the #BeeWell Study</description>
   </item>
   <item>
-    <title>発達における戦略発見を説明する合理的連鎖過程：初期加算法の事例研究</title>
+    <title>発達における戦略発見を説明する合理的連鎖過程：初期加算の場合</title>
     <link>https://osf.io/snzm9</link>
     <guid isPermaLink="false">https://osf.io/snzm9#ja</guid>
     <pubDate>Tue, 10 Feb 2026 16:02:56 +0000</pubDate>
@@ -181,14 +209,14 @@
     <description>Children do not endorse a “male = brilliance” stereotype when reasoning about novel occupations</description>
   </item>
   <item>
-    <title>「すべてのクライアントシナリオを想定することは不可能」：アイルランドにおける共同設計された禁煙促進のための金銭的インセンティブ介入の認知された促進要因と障壁―質的研究</title>
+    <title>「すべてのクライアントシナリオを想定することは不可能」―アイルランドにおける共同設計型禁煙促進のための金銭的インセンティブ介入の認知された促進要因と障壁：質的研究</title>
     <link>https://osf.io/6vrmt</link>
     <guid isPermaLink="false">https://osf.io/6vrmt#ja</guid>
     <pubDate>Tue, 10 Feb 2026 14:40:49 +0000</pubDate>
     <description>“You’ll never account for every client scenario” Perceived Facilitators and Barriers of a Co-designed Financial Incentive Intervention for Smoking Cessation in Ireland: A Qualitative Investigation</description>
   </item>
   <item>
-    <title>援助要請行動の対人・情動的説明：概念的提案</title>
+    <title>援助要請行動の対人感情的説明：概念的提案</title>
     <link>https://osf.io/d6ycx</link>
     <guid isPermaLink="false">https://osf.io/d6ycx#ja</guid>
     <pubDate>Tue, 10 Feb 2026 14:40:49 +0000</pubDate>
@@ -230,21 +258,21 @@
     <description>Measuring Childhood Adversity: Psychometric Challenges and a Novel Scoring Proposal based on a Nationally Representative Study in Serbia</description>
   </item>
   <item>
-    <title>留まるべきか去るべきか：脅威的感情知覚後の自発的姿勢行動の検討</title>
+    <title>留まるべきか去るべきか：脅威的感情知覚後の自発的姿勢行動の探究</title>
     <link>https://osf.io/9r2zf</link>
     <guid isPermaLink="false">https://osf.io/9r2zf#ja</guid>
     <pubDate>Tue, 10 Feb 2026 13:04:07 +0000</pubDate>
     <description>Should I Stay or Should I go: An Exploration of Spontaneous Postural Behaviours Following Threatening Emotion Perception</description>
   </item>
   <item>
-    <title>精神病脆弱性を有する者における差次的恐怖条件付けパラダイムを用いた脳波研究：精神病発症における恐怖学習の役割</title>
+    <title>精神病脆弱性を有する者における差次的恐怖条件付けパラダイムを用いたEEG研究：精神病発症における恐怖学習の役割</title>
     <link>https://osf.io/dfx9k</link>
     <guid isPermaLink="false">https://osf.io/dfx9k#ja</guid>
     <pubDate>Tue, 10 Feb 2026 13:04:07 +0000</pubDate>
     <description>The role of fear learning in the development of psychosis: An EEG study utilizing a differential fear conditioning paradigm in people with psychotic vulnerability.</description>
   </item>
   <item>
-    <title>9.11以降の退役軍人における不安・ストレス症状が特異的に予測する否定的な全般的メタ認知バイアスの増大</title>
+    <title>不安・ストレス症状は9.11以降の退役軍人における否定的な全般的メタ認知バイアスの増大を独自に予測する</title>
     <link>https://osf.io/sjv8u</link>
     <guid isPermaLink="false">https://osf.io/sjv8u#ja</guid>
     <pubDate>Tue, 10 Feb 2026 13:04:06 +0000</pubDate>
@@ -258,7 +286,7 @@
     <description>Inside the BASC-3 TRS: What Multidimensional IRT Reveals</description>
   </item>
   <item>
-    <title>学習生態系における持続的注意：バヤカ狩猟採集民の子どもと非採集バントゥ隣人の比較研究</title>
+    <title>学習生態系における持続的注意：バヤカ狩猟採集民の子どもと非採集バントゥー隣人の比較研究</title>
     <link>https://osf.io/rpt3e</link>
     <guid isPermaLink="false">https://osf.io/rpt3e#ja</guid>
     <pubDate>Tue, 10 Feb 2026 09:57:07 +0000</pubDate>
@@ -279,7 +307,7 @@
     <description>Preschoolers can coordinate with each other to communicate about novel referents</description>
   </item>
   <item>
-    <title>共感と自己の狭間で：ナルシシストは感情知能が低く認識されるのか？</title>
+    <title>共感と自己の狭間で：自己愛性人格障害者は感情知能が低く認識されるか？</title>
     <link>https://osf.io/kgeaj</link>
     <guid isPermaLink="false">https://osf.io/kgeaj#ja</guid>
     <pubDate>Tue, 10 Feb 2026 09:57:06 +0000</pubDate>
@@ -314,39 +342,11 @@
     <description>An intervention to improve students’ knowledge of open science practices in an undergraduate psychology course</description>
   </item>
   <item>
-    <title>正確な情報は共和党支持者の選挙の公正性に対する信念を大幅かつ持続的に高めることができる</title>
+    <title>正確な情報は共和党支持者の選挙公正性信念を大幅かつ持続的に向上させる</title>
     <link>https://osf.io/42pum</link>
     <guid isPermaLink="false">https://osf.io/42pum#ja</guid>
     <pubDate>Tue, 10 Feb 2026 09:57:01 +0000</pubDate>
     <description>Accurate Information Can Substantially and Durably Increase Republicans’ Beliefs in Election Integrity</description>
-  </item>
-  <item>
-    <title>誤りの重要性と誤り関連陰性電位の関連性の再検討：複数研究室による直接再現研究</title>
-    <link>https://osf.io/2d4mf</link>
-    <guid isPermaLink="false">https://osf.io/2d4mf#ja</guid>
-    <pubDate>Mon, 09 Feb 2026 19:59:41 +0000</pubDate>
-    <description>Revisiting the link between error significance and the error-related negativity: A multi-lab direct replication</description>
-  </item>
-  <item>
-    <title>性的搾取の実際および潜在的な被害を受ける思春期女性に対する統合ケアプログラム「Asja」の効果</title>
-    <link>https://osf.io/8uyte</link>
-    <guid isPermaLink="false">https://osf.io/8uyte#ja</guid>
-    <pubDate>Mon, 09 Feb 2026 19:59:41 +0000</pubDate>
-    <description>Effects of the Integrated Care Program &#x27;Asja&#x27; for Actual and Potential Adolescent Female Victims of Sexual Exploitation</description>
-  </item>
-  <item>
-    <title>サッカークラブのコミュニケーションとアイデンティティ・リーダーシップ：フレームワーク分析</title>
-    <link>https://osf.io/ap47q</link>
-    <guid isPermaLink="false">https://osf.io/ap47q#ja</guid>
-    <pubDate>Mon, 09 Feb 2026 19:59:40 +0000</pubDate>
-    <description>Football club communications and identity leadership: A framework analysis</description>
-  </item>
-  <item>
-    <title>宗教性と非合理的信念の関係理解：思考様式と解離の役割</title>
-    <link>https://osf.io/ncexw</link>
-    <guid isPermaLink="false">https://osf.io/ncexw#ja</guid>
-    <pubDate>Mon, 09 Feb 2026 17:47:44 +0000</pubDate>
-    <description>Understanding the relationship between religiosity and irrational beliefs: The role of thinking styles and disintegration</description>
   </item>
 </channel>
 </rss>
