@@ -6,7 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>オランダの小学校における無料日焼け止めディスペンサーの利用状況：観察的および質的研究</title>
+    <title>リビングライブラリー介入による短時間の実体験接触を通じた偏見の持続的軽減</title>
+    <link>https://osf.io/9nh5u</link>
+    <guid isPermaLink="false">https://osf.io/9nh5u#ja</guid>
+    <pubDate>Thu, 12 Feb 2026 21:56:21 +0000</pubDate>
+    <description>Sustainably Reducing Prejudice through Brief Real-life Contact with the Living Library Intervention</description>
+  </item>
+  <item>
+    <title>オランダの小学校における無料日焼け止めディスペンサーの利用状況：観察および質的研究</title>
     <link>https://osf.io/hbgu5</link>
     <guid isPermaLink="false">https://osf.io/hbgu5#ja</guid>
     <pubDate>Thu, 12 Feb 2026 21:00:45 +0000</pubDate>
@@ -55,7 +62,7 @@
     <description>Toward Agent-based Educational Science:  Rethinking Educational Research in the Age of AI</description>
   </item>
   <item>
-    <title>パーソナライズ化は感情的整合性を高めるが、大規模言語モデルにおける認知的独立性には役割依存的な影響を及ぼす</title>
+    <title>パーソナライゼーションは感情的整合性を高めるが、大規模言語モデルにおける認知的独立性には役割依存的な影響を及ぼす</title>
     <link>https://osf.io/ez7cu</link>
     <guid isPermaLink="false">https://osf.io/ez7cu#ja</guid>
     <pubDate>Thu, 12 Feb 2026 20:30:15 +0000</pubDate>
@@ -76,7 +83,7 @@
     <description>(Tracked) From Thought to Senses: Assessing the Relationship Between the Generation Effect and Multisensory Facilitation</description>
   </item>
   <item>
-    <title>比較可能性の誤測定：異文化心理学における非不変性と規範的妥当性—草野ら（2025）へのコメント</title>
+    <title>比較可能性の誤測定：文化横断心理学における非不変性と規範的妥当性—草野ら（2025）へのコメント</title>
     <link>https://osf.io/pnu8w</link>
     <guid isPermaLink="false">https://osf.io/pnu8w#ja</guid>
     <pubDate>Thu, 12 Feb 2026 19:49:17 +0000</pubDate>
@@ -90,28 +97,28 @@
     <description>What episodic memory reveals about the default mode network</description>
   </item>
   <item>
-    <title>正当化される陰謀論信念が正当化される場合：陰謀心性と正当化される陰謀論および正当化されない陰謀論の信念</title>
+    <title>正当化される陰謀論への信念が正当化される場合：陰謀心性と正当化された陰謀論および正当化されない陰謀論への信念</title>
     <link>https://osf.io/9wrgc</link>
     <guid isPermaLink="false">https://osf.io/9wrgc#ja</guid>
     <pubDate>Thu, 12 Feb 2026 19:49:16 +0000</pubDate>
     <description>When Belief in Warranted Conspiracy Theories is Warranted: Conspiracy Mentality and Belief in Warranted and Unwarranted Conspiracy Theories</description>
   </item>
   <item>
-    <title>道徳的重みづけ学習の計算論的理論</title>
+    <title>道徳的価値の学習に関する計算論的理論</title>
     <link>https://osf.io/rehta</link>
     <guid isPermaLink="false">https://osf.io/rehta#ja</guid>
     <pubDate>Thu, 12 Feb 2026 19:49:16 +0000</pubDate>
     <description>A computational theory of learning moral weights</description>
   </item>
   <item>
-    <title>うつ病評価のための大規模言語モデル：MADRS実施における患者と臨床医のシミュレーション</title>
+    <title>うつ病評価のための大規模言語モデル：MADRS実施における患者および臨床医のシミュレーション</title>
     <link>https://osf.io/7h6ud</link>
     <guid isPermaLink="false">https://osf.io/7h6ud#ja</guid>
     <pubDate>Thu, 12 Feb 2026 19:49:15 +0000</pubDate>
     <description>Large Language Models for Depression Assessment: Simulating Patients and Clinicians in MADRS Administration</description>
   </item>
   <item>
-    <title>遺伝によるナルシシズムの家族内伝播：拡張双生児家族分析</title>
+    <title>遺伝的要因による自己愛性パーソナリティの家族内伝播：拡張双生児家族分析</title>
     <link>https://osf.io/mpxth</link>
     <guid isPermaLink="false">https://osf.io/mpxth#ja</guid>
     <pubDate>Thu, 12 Feb 2026 19:49:15 +0000</pubDate>
@@ -174,14 +181,14 @@
     <description>The Burden of Gambling Harms on Health‐Related Quality of Life in Great Britain.</description>
   </item>
   <item>
-    <title>環境感受性に基づく一般化と探索戦略</title>
+    <title>環境依存的な一般化と探索戦略</title>
     <link>https://osf.io/35gvn</link>
     <guid isPermaLink="false">https://osf.io/35gvn#ja</guid>
     <pubDate>Wed, 11 Feb 2026 18:13:15 +0000</pubDate>
     <description>Environment-sensitive generalization and exploration strategies</description>
   </item>
   <item>
-    <title>発話リズム生成の動的モデルに基づく吃音分析用コーパスの構築</title>
+    <title>発話リズム生成の動的モデルに基づく吃音分析コーパスの構築</title>
     <link>https://osf.io/5cfyq</link>
     <guid isPermaLink="false">https://osf.io/5cfyq#ja</guid>
     <pubDate>Wed, 11 Feb 2026 18:13:15 +0000</pubDate>
@@ -195,21 +202,21 @@
     <description>A data-driven approach to the issue of ”catching up with monolinguals”</description>
   </item>
   <item>
-    <title>小学生の読みと算数における誤り後の反応遅延：縦断的および横断的視点からの検討</title>
+    <title>小学生の誤り後遅延に関する縦断的および横断的視点：読解と算数の比較研究</title>
     <link>https://osf.io/9hkn4</link>
     <guid isPermaLink="false">https://osf.io/9hkn4#ja</guid>
     <pubDate>Wed, 11 Feb 2026 18:13:14 +0000</pubDate>
     <description>Longitudinal and cross-sectional perspectives on elementary school children&#x27;s post-error slowing in reading and arithmetic</description>
   </item>
   <item>
-    <title>融合する子音体系からの知覚獲得：D1重慶官話、D2標準中国語、及びL2英語の比較研究</title>
+    <title>融合する子音体系からの知覚獲得：D1重慶官話、D2標準官話、およびL2英語の比較研究</title>
     <link>https://osf.io/kdf4e</link>
     <guid isPermaLink="false">https://osf.io/kdf4e#ja</guid>
     <pubDate>Wed, 11 Feb 2026 18:13:14 +0000</pubDate>
     <description>Perceptual acquisition from a merging consonant system: D1 Chongqing Mandarin, D2 Standard Mandarin, and L2 English</description>
   </item>
   <item>
-    <title>母親の感情表出性と子どもの冷淡・非情特性との前向き関連性に関する不確定な結果：Huら（2026年）の再解析と考察</title>
+    <title>母親の感情表出性と子どもの冷淡・非情特性との前向き関連に関する結論の出ない検討：Huら（2026）への再分析とコメント</title>
     <link>https://osf.io/28zvd</link>
     <guid isPermaLink="false">https://osf.io/28zvd#ja</guid>
     <pubDate>Wed, 11 Feb 2026 18:13:13 +0000</pubDate>
@@ -223,7 +230,7 @@
     <description>Dyslexia Eye Tracking COrpus (DECO): First- and Second Language Book Reading in Adults with Dyslexia</description>
   </item>
   <item>
-    <title>社会的支配志向と性差別認知：公平性判断の不一致に関する検討</title>
+    <title>社会的優越志向と性差別認知：公平性判断における不一致の説明</title>
     <link>https://osf.io/5cnsp</link>
     <guid isPermaLink="false">https://osf.io/5cnsp#ja</guid>
     <pubDate>Wed, 11 Feb 2026 18:13:13 +0000</pubDate>
@@ -237,14 +244,14 @@
     <description>Reaction to near misses and full losses in individuals experiencing gambling problems</description>
   </item>
   <item>
-    <title>発話開始と吃音に関する「引き込み盆地」理論</title>
+    <title>発話開始と吃音に関する「アトラクション盆地」理論</title>
     <link>https://osf.io/jf9eu</link>
     <guid isPermaLink="false">https://osf.io/jf9eu#ja</guid>
     <pubDate>Wed, 11 Feb 2026 18:13:12 +0000</pubDate>
     <description>A ‘Basin of Attraction’ Theory of Speech Initiation and Stuttering</description>
   </item>
   <item>
-    <title>異議を唱える大規模言語モデルとの対話が人々の誤った予測を改善する</title>
+    <title>異議を唱える大規模言語モデルとの対話が人々の不正確な予測を改善する</title>
     <link>https://osf.io/rzyqs</link>
     <guid isPermaLink="false">https://osf.io/rzyqs#ja</guid>
     <pubDate>Wed, 11 Feb 2026 18:13:11 +0000</pubDate>
@@ -265,14 +272,14 @@
     <description>Recovery as a Viability Kernel: A Recursive Framework for Addiction Recovery</description>
   </item>
   <item>
-    <title>介入効果の減衰メカニズムに関するメタ分析的検討：リスク学生の学業成績を対象とした介入研究のレビュー</title>
+    <title>介入効果の消失メカニズムに関するメタ分析的検討：リスクのある学生の学業成績を対象とした介入研究の総合的レビュー</title>
     <link>https://osf.io/2eg67</link>
     <guid isPermaLink="false">https://osf.io/2eg67#ja</guid>
     <pubDate>Wed, 11 Feb 2026 17:00:48 +0000</pubDate>
     <description>On the Mechanisms of Intervention Effect Fade-Out: A Meta-Analytic Review of Interventions Targeting At-Risk Students’ Achievement</description>
   </item>
   <item>
-    <title>心理学における理論の現状と位置づけ</title>
+    <title>心理学における理論の現状と地位</title>
     <link>https://osf.io/2fjx4</link>
     <guid isPermaLink="false">https://osf.io/2fjx4#ja</guid>
     <pubDate>Wed, 11 Feb 2026 17:00:48 +0000</pubDate>
@@ -286,21 +293,21 @@
     <description>Residual Romantic Attachments influence Decisions under Uncertainty</description>
   </item>
   <item>
-    <title>「『候補事象危機』を超えて：25の生活イベントが人格軌跡に及ぼす複合効果の推定」</title>
+    <title>「候補事象危機」を超えて：25の生活イベントが人格軌跡に及ぼす複合効果の推定</title>
     <link>https://osf.io/9wxnu</link>
     <guid isPermaLink="false">https://osf.io/9wxnu#ja</guid>
     <pubDate>Wed, 11 Feb 2026 17:00:47 +0000</pubDate>
     <description>Moving Beyond the “Candidate Event Crisis”: Estimating the Combined Effects of 25 Life Events on Personality Trajectories</description>
   </item>
   <item>
-    <title>心理科学における中国人参加者のプロファイリング：非WEIRD集団であるが代表性を欠く</title>
+    <title>心理科学における中国人参加者のプロファイリング：非WEIRDだが代表的ではない</title>
     <link>https://osf.io/j8xgf</link>
     <guid isPermaLink="false">https://osf.io/j8xgf#ja</guid>
     <pubDate>Wed, 11 Feb 2026 17:00:47 +0000</pubDate>
     <description>Profiling the Chinese Participants in Psychological Science: Non-WEIRD but Not Representative</description>
   </item>
   <item>
-    <title>ドメイン一般的な対象符号化能力が知覚因子と記憶因子間の共有分散を説明する</title>
+    <title>領域一般的な物体符号化能力が知覚因子と記憶因子の共通分散を説明する</title>
     <link>https://osf.io/yh324</link>
     <guid isPermaLink="false">https://osf.io/yh324#ja</guid>
     <pubDate>Wed, 11 Feb 2026 17:00:46 +0000</pubDate>
@@ -321,21 +328,21 @@
     <description>Mystical but Not Challenging Experiences Predict Symptom Improvement After Psilocybin for Treatment-Resistant OCD</description>
   </item>
   <item>
-    <title>目に見えない標的を過剰に迅速に発見する：3600万試行における連続探索課題の異常現象の分析</title>
+    <title>目に見えないターゲットを過剰に迅速に発見する：3600万試行における逐次探索課題の異常現象の分析</title>
     <link>https://osf.io/hbtqd</link>
     <guid isPermaLink="false">https://osf.io/hbtqd#ja</guid>
     <pubDate>Wed, 11 Feb 2026 17:00:45 +0000</pubDate>
     <description>Finding an Invisible Target Too Quickly: Analysis of a Sequential Search Task Anomaly in 36 Million Trials</description>
   </item>
   <item>
-    <title>都市スウェーデン高齢者コホートにおける精密住宅緑地と認知症発症率：16年間の追跡調査および都市環境曝露と個人要因の評価</title>
+    <title>都市スウェーデン高齢者コホートにおける精密住宅緑地と認知症発症率の関連：16年間の追跡調査および都市環境曝露と個人要因の評価</title>
     <link>https://osf.io/gq864</link>
     <guid isPermaLink="false">https://osf.io/gq864#ja</guid>
     <pubDate>Wed, 11 Feb 2026 17:00:45 +0000</pubDate>
     <description>Precision residential greenspace and dementia incidence in an urban Swedish cohort of older adults with 16 years follow-up and assessment of urban environment exposures and individual factors</description>
   </item>
   <item>
-    <title>メタ認知のドメイン一般性は本質的特性ではなく創発的特性である</title>
+    <title>メタ認知の領域一般性は固有の特性ではなく、創発的特性である</title>
     <link>https://osf.io/34vrb</link>
     <guid isPermaLink="false">https://osf.io/34vrb#ja</guid>
     <pubDate>Wed, 11 Feb 2026 17:00:45 +0000</pubDate>
@@ -347,13 +354,6 @@
     <guid isPermaLink="false">https://osf.io/8pk7z#ja</guid>
     <pubDate>Wed, 11 Feb 2026 17:00:44 +0000</pubDate>
     <description>The partisan penalty: The effect of partisanship on evaluating reasons for political belief</description>
-  </item>
-  <item>
-    <title>文化的多様性サンプルにおける年齢に基づく模倣バイアスに対する反証</title>
-    <link>https://osf.io/yxfve</link>
-    <guid isPermaLink="false">https://osf.io/yxfve#ja</guid>
-    <pubDate>Wed, 11 Feb 2026 17:00:44 +0000</pubDate>
-    <description>Evidence against the age-based imitation bias in a culturally diverse sample</description>
   </item>
 </channel>
 </rss>
