@@ -6,28 +6,28 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>自閉症児を対象としたインクルーシブ教育実践における教員能力の構築：自己効力感、研修、態度、学校環境の混合研究</title>
+    <title>自閉症児を含むインクルーシブ教育実践に向けた教員能力の構築：自己効力感、研修、態度、学校環境の混合研究</title>
     <link>https://osf.io/hfr57</link>
     <guid isPermaLink="false">https://osf.io/hfr57#ja</guid>
     <pubDate>Fri, 13 Feb 2026 18:41:20 +0000</pubDate>
     <description>Building Teacher Capacity for Inclusive Practice with Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context</description>
   </item>
   <item>
-    <title>大衆映画を通じて理解するメンタルヘルス</title>
+    <title>大衆映画を通じて理解するメンタルヘルスの心理学</title>
     <link>https://osf.io/mhv3f</link>
     <guid isPermaLink="false">https://osf.io/mhv3f#ja</guid>
     <pubDate>Fri, 13 Feb 2026 18:41:19 +0000</pubDate>
     <description>Mental Health on the Big Screen: Using Popular Films to Understand Mental Health</description>
   </item>
   <item>
-    <title>研究提案：自閉症女性およびジェンダー多様な個人における心身療法が心的外傷後ストレス障害に与える影響の検討</title>
+    <title>研究提案：自閉症女性およびジェンダー多様性個人における心身療法の外傷後ストレス障害への効果検討</title>
     <link>https://osf.io/urpnv</link>
     <guid isPermaLink="false">https://osf.io/urpnv#ja</guid>
     <pubDate>Fri, 13 Feb 2026 18:41:19 +0000</pubDate>
     <description>Research Proposal: Exploring Mind-Body Therapies for Post-Traumatic Stress Disorder in Autistic Women and Gender-Diverse Individuals</description>
   </item>
   <item>
-    <title>学術界のウェルビーイング危機に応える：学会にケアを注入する試み</title>
+    <title>学術界のウェルビーイング危機への対応：学会にケアを取り入れる試み</title>
     <link>https://osf.io/7s5gj</link>
     <guid isPermaLink="false">https://osf.io/7s5gj#ja</guid>
     <pubDate>Fri, 13 Feb 2026 16:40:07 +0000</pubDate>
@@ -48,21 +48,21 @@
     <description>Negligible associations between cognitive control of negative information and daily emotion regulation in borderline personality disorder and major depression</description>
   </item>
   <item>
-    <title>意味制御の喪失：左下前頭回への陽極刺激が比喩理解度を低下させる</title>
+    <title>意味制御の喪失：左下前頭回への陽極刺激が隠喩理解度を低下させる</title>
     <link>https://osf.io/f6vbm</link>
     <guid isPermaLink="false">https://osf.io/f6vbm#ja</guid>
     <pubDate>Fri, 13 Feb 2026 16:40:06 +0000</pubDate>
     <description>Losing Semantic Control: Anodal Stimulation of the Left-Inferior Frontal Gyrus Reduces Metaphor Comprehensibility</description>
   </item>
   <item>
-    <title>専門的支援センターを保護的ミクロシステムとして：主流中学校における自閉症生徒の経験に関する質的比較事例研究</title>
+    <title>専門的支援センターを保護的ミクロシステムとして：主流の中学校における自閉症生徒の経験に関する質的比較事例研究</title>
     <link>https://osf.io/h8zgq</link>
     <guid isPermaLink="false">https://osf.io/h8zgq#ja</guid>
     <pubDate>Fri, 13 Feb 2026 16:40:05 +0000</pubDate>
     <description>Specialist Resource Centres as Protective Microsystems: A Qualitative Comparative Case Study of Autistic Pupils’ Experiences in Mainstream Secondary Schools</description>
   </item>
   <item>
-    <title>カリキュラム学習は認知地図形成にどのように影響するか？</title>
+    <title>カリキュラム学習は認知地図形成にどのような影響を与えるか？</title>
     <link>https://osf.io/t6kde</link>
     <guid isPermaLink="false">https://osf.io/t6kde#ja</guid>
     <pubDate>Fri, 13 Feb 2026 16:40:05 +0000</pubDate>
@@ -83,14 +83,14 @@
     <description>Barriers and Facilitators to Youth Participation in Digital Youth Mental Health Interventions: An Umbrella Review Protocol</description>
   </item>
   <item>
-    <title>矢印方向と数の大きさの共同処理が空間-数的連合を強化する：修正フランカー課題による検証</title>
+    <title>矢印方向と数の大きさの共同処理が空間-数認知連合を強化する：修正フランカー課題による検証</title>
     <link>https://osf.io/94nza</link>
     <guid isPermaLink="false">https://osf.io/94nza#ja</guid>
     <pubDate>Fri, 13 Feb 2026 11:54:28 +0000</pubDate>
     <description>Joint Processing of Arrow Direction and Number Magnitude Strengthens Spatial-Numerical Associations: Evidence from a Modified Flanker Task</description>
   </item>
   <item>
-    <title>子どもの声による学校のウェルビーイング評価（CV-SWB）：幼児期および小学校教育向け混合方法論的測定ツール</title>
+    <title>子どもの声による学校のウェルビーイング評価（CV-SWB）：幼児期および小学校教育向け混合方法論的評価ツール</title>
     <link>https://osf.io/2vwpu</link>
     <guid isPermaLink="false">https://osf.io/2vwpu#ja</guid>
     <pubDate>Fri, 13 Feb 2026 11:54:28 +0000</pubDate>
@@ -111,7 +111,7 @@
     <description>Fleeting Attention While Scrolling: Dwell Time and Exposure in Social Media Feeds</description>
   </item>
   <item>
-    <title>フィールドでのカミングアウト：LGB+アスリートに対する他者の否定的態度とその認知</title>
+    <title>フィールドでのカミングアウト：LGB+アスリートに対する否定的態度と他者の態度認知</title>
     <link>https://osf.io/cu4fw</link>
     <guid isPermaLink="false">https://osf.io/cu4fw#ja</guid>
     <pubDate>Fri, 13 Feb 2026 11:54:27 +0000</pubDate>
@@ -153,14 +153,14 @@
     <description>Use of free sunscreen dispensers: an observational and qualitative study at primary schools in the Netherlands</description>
   </item>
   <item>
-    <title>信頼性のある音響シグナル：若年バヤカ狩猟採集民における音色の音楽認知に果たす役割</title>
+    <title>音響による信頼性のあるシグナリング―若年バヤカ狩猟採集民における音色の音楽認知に果たす役割</title>
     <link>https://osf.io/2p7ex</link>
     <guid isPermaLink="false">https://osf.io/2p7ex#ja</guid>
     <pubDate>Thu, 12 Feb 2026 20:30:17 +0000</pubDate>
     <description>Credible Signaling through Sound – the Role of Timbre in Music Recognition in Young BaYaka Foragers</description>
   </item>
   <item>
-    <title>二重利用から妥当な推論へ：重回帰分析における事後選択推論手法の教育的かつ包括的レビュー</title>
+    <title>二重利用から妥当な推論へ：重回帰分析における事後選択推論法の教育的かつ包括的レビュー</title>
     <link>https://osf.io/rbxsy</link>
     <guid isPermaLink="false">https://osf.io/rbxsy#ja</guid>
     <pubDate>Thu, 12 Feb 2026 20:30:17 +0000</pubDate>
@@ -202,7 +202,7 @@
     <description>Personalization Increases Affective Alignment but Has Role-Dependent Effects on Epistemic Independence in LLMs</description>
   </item>
   <item>
-    <title>聴覚的対象列挙―並列的聴覚サブティジングの予備的証拠</title>
+    <title>聴覚的対象数認識―並列的聴覚サブタイジングの予備的証拠</title>
     <link>https://osf.io/2rwja</link>
     <guid isPermaLink="false">https://osf.io/2rwja#ja</guid>
     <pubDate>Thu, 12 Feb 2026 20:30:14 +0000</pubDate>
@@ -216,7 +216,7 @@
     <description>(Tracked) From Thought to Senses: Assessing the Relationship Between the Generation Effect and Multisensory Facilitation</description>
   </item>
   <item>
-    <title>比較可能性の誤測定：異文化心理学における非不変性と規範的妥当性—草野ら（2025）へのコメント</title>
+    <title>比較可能性の誤測定：文化間心理学における非不変性と規範的妥当性—草野ら（2025）へのコメント</title>
     <link>https://osf.io/pnu8w</link>
     <guid isPermaLink="false">https://osf.io/pnu8w#ja</guid>
     <pubDate>Thu, 12 Feb 2026 19:49:17 +0000</pubDate>
@@ -237,49 +237,49 @@
     <description>When Belief in Warranted Conspiracy Theories is Warranted: Conspiracy Mentality and Belief in Warranted and Unwarranted Conspiracy Theories</description>
   </item>
   <item>
-    <title>道徳的重みづけ学習の計算論的理論</title>
+    <title>道徳的重みづけの学習に関する計算論的理論</title>
     <link>https://osf.io/rehta</link>
     <guid isPermaLink="false">https://osf.io/rehta#ja</guid>
     <pubDate>Thu, 12 Feb 2026 19:49:16 +0000</pubDate>
     <description>A computational theory of learning moral weights</description>
   </item>
   <item>
-    <title>うつ病評価のための大規模言語モデル：MADRS実施における患者と臨床医のシミュレーション</title>
+    <title>うつ病評価のための大規模言語モデル：MADRS実施における患者および臨床医のシミュレーション</title>
     <link>https://osf.io/7h6ud</link>
     <guid isPermaLink="false">https://osf.io/7h6ud#ja</guid>
     <pubDate>Thu, 12 Feb 2026 19:49:15 +0000</pubDate>
     <description>Large Language Models for Depression Assessment: Simulating Patients and Clinicians in MADRS Administration</description>
   </item>
   <item>
-    <title>遺伝的要因によるナルシシズムの家族内伝播：拡張双生児家族分析</title>
+    <title>遺伝的要因による自己愛性パーソナリティの家族内伝播：拡張双生児家族分析</title>
     <link>https://osf.io/mpxth</link>
     <guid isPermaLink="false">https://osf.io/mpxth#ja</guid>
     <pubDate>Thu, 12 Feb 2026 19:49:15 +0000</pubDate>
     <description>Narcissism Runs in Families due to Genetics: An Extended Twin Family Analysis</description>
   </item>
   <item>
-    <title>読解力と接尾辞の親しみやすさが青年期における形態素処理を予測する</title>
+    <title>読解力と接尾辞の親しみやすさが青年期の形態処理に及ぼす影響</title>
     <link>https://osf.io/hzyf5</link>
     <guid isPermaLink="false">https://osf.io/hzyf5#ja</guid>
     <pubDate>Thu, 12 Feb 2026 18:57:27 +0000</pubDate>
     <description>Reading ability and suffix familiarity predict morphological processing in adolescents</description>
   </item>
   <item>
-    <title>個人の気候行動は集団行動および政策支持を阻害するか？縦断研究による検証</title>
+    <title>個人の気候行動は集団行動および政策支持を排除するか？縦断的研究による検証</title>
     <link>https://osf.io/udqxn</link>
     <guid isPermaLink="false">https://osf.io/udqxn#ja</guid>
     <pubDate>Thu, 12 Feb 2026 18:57:27 +0000</pubDate>
     <description>Do personal climate actions crowd out collective action and policy support? Evidence from a longitudinal study</description>
   </item>
   <item>
-    <title>生理的同期の心理的意義の理解に向けて</title>
+    <title>生理的同期の心理的意義に関する理解に向けて</title>
     <link>https://osf.io/48tzw</link>
     <guid isPermaLink="false">https://osf.io/48tzw#ja</guid>
     <pubDate>Thu, 12 Feb 2026 17:34:49 +0000</pubDate>
     <description>Toward an Understanding of the Psychological Meaning of Physiological Synchrony</description>
   </item>
   <item>
-    <title>社会的相互作用が抽象概念に与える影響</title>
+    <title>抽象概念に対する社会的相互作用の影響</title>
     <link>https://osf.io/j7hcy</link>
     <guid isPermaLink="false">https://osf.io/j7hcy#ja</guid>
     <pubDate>Wed, 11 Feb 2026 20:34:22 +0000</pubDate>
@@ -307,7 +307,7 @@
     <description>Exposure to (AI-Generated) Untrustworthy Websites in the 2024 U.S. Presidential Election</description>
   </item>
   <item>
-    <title>イギリスにおけるギャンブル被害が健康関連生活の質に及ぼす負担</title>
+    <title>英国におけるギャンブル被害が健康関連生活の質に及ぼす負担</title>
     <link>https://osf.io/6fqv8</link>
     <guid isPermaLink="false">https://osf.io/6fqv8#ja</guid>
     <pubDate>Wed, 11 Feb 2026 19:32:22 +0000</pubDate>
@@ -342,14 +342,14 @@
     <description>Longitudinal and cross-sectional perspectives on elementary school children&#x27;s post-error slowing in reading and arithmetic</description>
   </item>
   <item>
-    <title>融合する子音体系からの知覚獲得：D1重慶官話、D2標準官話、およびL2英語における検討</title>
+    <title>融合する子音体系からの知覚獲得：D1重慶官話、D2標準官話、およびL2英語の比較研究</title>
     <link>https://osf.io/kdf4e</link>
     <guid isPermaLink="false">https://osf.io/kdf4e#ja</guid>
     <pubDate>Wed, 11 Feb 2026 18:13:14 +0000</pubDate>
     <description>Perceptual acquisition from a merging consonant system: D1 Chongqing Mandarin, D2 Standard Mandarin, and L2 English</description>
   </item>
   <item>
-    <title>母親の情動表出性と子どもの冷淡・非情特性との前向き関連に関する不確定な結果：Huら（2026年）の再解析と考察</title>
+    <title>母親の感情表出性と子どもの冷淡・非情特性との前向き関連に関する不確定な結果：Huら（2026年）の再解析と考察</title>
     <link>https://osf.io/28zvd</link>
     <guid isPermaLink="false">https://osf.io/28zvd#ja</guid>
     <pubDate>Wed, 11 Feb 2026 18:13:13 +0000</pubDate>
