@@ -6,7 +6,21 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>相対的剥奪経験と陰謀論信念を結ぶ感情的経路：ミニメタアナリシス</title>
+    <title>協働的デジタル行動科学の構築：ビデオゲーム研究に基づく異分野連携の課題</title>
+    <link>https://osf.io/w3pyn</link>
+    <guid isPermaLink="false">https://osf.io/w3pyn#ja</guid>
+    <pubDate>Tue, 17 Feb 2026 12:54:34 +0000</pubDate>
+    <description>Building collaborative digital behavioural science: A cross-sector agenda from video games research</description>
+  </item>
+  <item>
+    <title>人々はChatGPTを意識を持つ存在と考えているか？大規模ポーランド人サンプルによる検証</title>
+    <link>https://osf.io/fktqc</link>
+    <guid isPermaLink="false">https://osf.io/fktqc#ja</guid>
+    <pubDate>Tue, 17 Feb 2026 12:54:34 +0000</pubDate>
+    <description>Do People Think ChatGPT Is Conscious? Evidence from a Large Polish Sample</description>
+  </item>
+  <item>
+    <title>相対的剥奪経験と陰謀論信念を結ぶ感情的経路：ミニメタ分析</title>
     <link>https://osf.io/nrz5a</link>
     <guid isPermaLink="false">https://osf.io/nrz5a#ja</guid>
     <pubDate>Tue, 17 Feb 2026 11:36:20 +0000</pubDate>
@@ -27,7 +41,7 @@
     <description>Learning with pedagogical agents in extended reality: A conceptual research-based frame-work of agent-centered learning in immersive media environments (ACLIME)</description>
   </item>
   <item>
-    <title>「私の死の報告は大げさに誇張されている」：人工文法学習課題における無意識の二連符知識の抽出能力</title>
+    <title>「私の死の報告は大げさに誇張されている」：人工文法学習課題における無意識の二連字知識の抽出能力</title>
     <link>https://osf.io/fj5nd</link>
     <guid isPermaLink="false">https://osf.io/fj5nd#ja</guid>
     <pubDate>Tue, 17 Feb 2026 11:36:19 +0000</pubDate>
@@ -55,42 +69,42 @@
     <description>Metaphor is a Key to Abstraction: Modelling Figurative Abstraction with Distributional Semantics</description>
   </item>
   <item>
-    <title>リズム知覚が読字発達に及ぼす初期制約：媒介的かつ熟達度依存的経路の検討</title>
+    <title>リズム知覚が読み発達に及ぼす初期制約：媒介的かつ熟達度依存的経路</title>
     <link>https://osf.io/wfgny</link>
     <guid isPermaLink="false">https://osf.io/wfgny#ja</guid>
     <pubDate>Tue, 17 Feb 2026 01:49:24 +0000</pubDate>
     <description>Rhythm Perception as an Early Constraint on Reading Development: A Mediated and Proficiency-Dependent Pathway</description>
   </item>
   <item>
-    <title>偶発的な感情内容と感情能力がバルーン類似リスク課題（BART）におけるリスク志向性に及ぼす影響</title>
+    <title>偶発的な感情内容と感情能力がバルーン類似リスク課題（BART）におけるリスク選好傾向に及ぼす影響</title>
     <link>https://osf.io/vcxrf</link>
     <guid isPermaLink="false">https://osf.io/vcxrf#ja</guid>
     <pubDate>Tue, 17 Feb 2026 01:49:23 +0000</pubDate>
     <description>Influence of incidental emotional content and emotional abilities on risk-taking propensity in the balloon analogue risk task (BART)</description>
   </item>
   <item>
-    <title>機会損失をなくすために：労働組合と連携する次世代産業・組織心理学者の育成の意義と方法</title>
+    <title>機械労働組合と協働する次世代産業・組織心理学者の育成における利点と教育方法の検討</title>
     <link>https://osf.io/dnyb5</link>
     <guid isPermaLink="false">https://osf.io/dnyb5#ja</guid>
     <pubDate>Tue, 17 Feb 2026 01:49:23 +0000</pubDate>
     <description>No More Missed Opportunities: Benefits and Methods of Educating the Next Generation of I-O Psychologists to Work with Labor Unions</description>
   </item>
   <item>
-    <title>「Snakemakeワークフローマネージャーを用いた神経画像データ処理の統合管理」</title>
+    <title>「Snakemake」ワークフローマネージャーを用いた神経画像データ処理の統合管理</title>
     <link>https://osf.io/fmdvn</link>
     <guid isPermaLink="false">https://osf.io/fmdvn#ja</guid>
     <pubDate>Tue, 17 Feb 2026 01:49:23 +0000</pubDate>
     <description>Orchestrating neuroimaging data processing using the &#x27;Snakemake&#x27; workflow manager</description>
   </item>
   <item>
-    <title>無意識的処理の研究に関する合意が解答であるならば、その問いとは何か？</title>
+    <title>無意識的処理の研究に関する合意が答えであるならば、その問いとは何か？</title>
     <link>https://osf.io/ubdmv</link>
     <guid isPermaLink="false">https://osf.io/ubdmv#ja</guid>
     <pubDate>Tue, 17 Feb 2026 01:49:22 +0000</pubDate>
     <description>If consensus on studying unconscious processing is the answer, what is the question?</description>
   </item>
   <item>
-    <title>青年期メンタルヘルスマップ：機械学習と共同開発を統合した青年期の横断的精神健康次元評価のための簡潔で信頼性の高い自己報告ツールの開発</title>
+    <title>青年期メンタルヘルスマップ：機械学習と共創による青年期メンタルヘルスの横断的次元を評価する簡潔で信頼性の高い自己報告ツールの開発</title>
     <link>https://osf.io/x5js4</link>
     <guid isPermaLink="false">https://osf.io/x5js4#ja</guid>
     <pubDate>Tue, 17 Feb 2026 01:49:22 +0000</pubDate>
@@ -104,7 +118,7 @@
     <description>Color preferences in dogs: A replication study</description>
   </item>
   <item>
-    <title>時に少ない方が効果的：成功した再評価における評価の変動性</title>
+    <title>時には少ない方が効果的：成功した再評価における評価の変動性</title>
     <link>https://osf.io/7bhar</link>
     <guid isPermaLink="false">https://osf.io/7bhar#ja</guid>
     <pubDate>Mon, 16 Feb 2026 20:54:48 +0000</pubDate>
@@ -125,7 +139,7 @@
     <description>“She’s loved me at all sizes”: The role of the human-animal bond in eating disorder experiences and treatment</description>
   </item>
   <item>
-    <title>言語モデルによる精神病関連の語義探索障害の物語的想起における解明とシミュレーション</title>
+    <title>言語モデルによる精神病関連の語義探索障害の再現と物語的想起におけるシミュレーション</title>
     <link>https://osf.io/yfh2u</link>
     <guid isPermaLink="false">https://osf.io/yfh2u#ja</guid>
     <pubDate>Mon, 16 Feb 2026 20:54:47 +0000</pubDate>
@@ -146,21 +160,21 @@
     <description>From Exemplars to Categories: Generalization of Action-Effect Learning in a Free-choice Task</description>
   </item>
   <item>
-    <title>スペイン語における変動的一致構文：知覚様式と概念的前景化の関係性</title>
+    <title>スペイン語における変動的一致構文：知覚モダリティと概念的前景化の関係性</title>
     <link>https://osf.io/wgj2f</link>
     <guid isPermaLink="false">https://osf.io/wgj2f#ja</guid>
     <pubDate>Mon, 16 Feb 2026 16:03:04 +0000</pubDate>
     <description>Variable agreement constructions in Spanish: between perception modalities and conceptual foregrounding</description>
   </item>
   <item>
-    <title>文単位と単語単位の二言語制御に関する登録報告</title>
+    <title>文単位と言語単位におけるバイリンガル言語制御の比較－登録報告</title>
     <link>https://osf.io/k7uvf</link>
     <guid isPermaLink="false">https://osf.io/k7uvf#ja</guid>
     <pubDate>Mon, 16 Feb 2026 15:07:11 +0000</pubDate>
     <description>Bilingual language control during sentence vs. single word production – A Registered Report</description>
   </item>
   <item>
-    <title>チューニングイン：内受容感覚が思春期初期の身体イメージ形成に与える影響</title>
+    <title>チューニングイン：内受容感覚が思春期初期の身体イメージに与える影響</title>
     <link>https://osf.io/gzsbw</link>
     <guid isPermaLink="false">https://osf.io/gzsbw#ja</guid>
     <pubDate>Mon, 16 Feb 2026 15:07:10 +0000</pubDate>
@@ -188,7 +202,7 @@
     <description>Approximate Bayes Factors Are Approximate E-Processes</description>
   </item>
   <item>
-    <title>政治感情の処方：怒りと恐怖の切り替えが政治行動に与える影響</title>
+    <title>政治的感情の処方：怒りと恐怖の切り替えが政治行動に与える影響</title>
     <link>https://osf.io/fxams</link>
     <guid isPermaLink="false">https://osf.io/fxams#ja</guid>
     <pubDate>Mon, 16 Feb 2026 15:07:09 +0000</pubDate>
@@ -209,7 +223,7 @@
     <description>The Benefits of and Motivations Behind Large-Team Coordination in Psychology</description>
   </item>
   <item>
-    <title>訓練時の文脈的明瞭性は学習の転移を妨げるが課題切り替えは阻害しない</title>
+    <title>訓練中の文脈的明瞭性は学習の転移を妨げるが課題切り替えは阻害しない</title>
     <link>https://osf.io/znh47</link>
     <guid isPermaLink="false">https://osf.io/znh47#ja</guid>
     <pubDate>Mon, 16 Feb 2026 15:07:08 +0000</pubDate>
@@ -230,7 +244,7 @@
     <description>Influence of Spatial Hearing on Auditory Subitizing Efficiency</description>
   </item>
   <item>
-    <title>マカクザルは拍に同期しないことを示すデータ</title>
+    <title>マカクザルはビートに同期しないことを示すデータ</title>
     <link>https://osf.io/y3rth</link>
     <guid isPermaLink="false">https://osf.io/y3rth#ja</guid>
     <pubDate>Mon, 16 Feb 2026 14:03:20 +0000</pubDate>
@@ -251,7 +265,7 @@
     <description>Transmission in meditation: From classical Indian texts to Heartfulness practice</description>
   </item>
   <item>
-    <title>視覚的作業記憶モデルにおけるセットサイズのスケーリング効果が検索時のデコーディング規則を特定する</title>
+    <title>視覚的作業記憶モデルにおけるセットサイズのスケーリング効果が検索時の復号規則を特定する</title>
     <link>https://osf.io/6wk73</link>
     <guid isPermaLink="false">https://osf.io/6wk73#ja</guid>
     <pubDate>Mon, 16 Feb 2026 14:03:19 +0000</pubDate>
@@ -293,7 +307,7 @@
     <description>What the carpentered world does to visual perception – a fresh look</description>
   </item>
   <item>
-    <title>いじめと青年期の不安および抑うつ症状：調整されたネットワーク分析</title>
+    <title>いじめと青年期の不安・抑うつ症状：調整されたネットワーク分析</title>
     <link>https://osf.io/f4ezb</link>
     <guid isPermaLink="false">https://osf.io/f4ezb#ja</guid>
     <pubDate>Sun, 15 Feb 2026 19:45:01 +0000</pubDate>
@@ -307,7 +321,7 @@
     <description>What Pilot Studies Can (and Cannot) Do for Validity in Psychological Research</description>
   </item>
   <item>
-    <title>ドイツ語圏二サンプルにおける精神病理階層分類体系簡易版（HiTOP-BR）の妥当性検証</title>
+    <title>ドイツ語圏二標本における精神病理階層分類体系簡易版（HiTOP-BR）の妥当性検証</title>
     <link>https://osf.io/ykdmg</link>
     <guid isPermaLink="false">https://osf.io/ykdmg#ja</guid>
     <pubDate>Sun, 15 Feb 2026 19:45:00 +0000</pubDate>
@@ -335,25 +349,11 @@
     <description>Just Antagonism? Little Support for a Dark Triad or Tetrad Personality Trait Structure</description>
   </item>
   <item>
-    <title>オーストラリアの自閉症大学生の日常的感覚体験：エクスペリエンスサンプリング法による検討</title>
+    <title>オーストラリアの自閉症大学生の日常的感覚体験：経験サンプリング法による検討</title>
     <link>https://osf.io/8dk5q</link>
     <guid isPermaLink="false">https://osf.io/8dk5q#ja</guid>
     <pubDate>Sun, 15 Feb 2026 09:36:28 +0000</pubDate>
     <description>Everyday Sensory Experiences of Autistic University Students in Australia: An Experience Sampling Approach</description>
-  </item>
-  <item>
-    <title>課題負荷と作業記憶容量に基づく内因性シータ波：シータ-ガンマ結合における低周波数の役割の再検討</title>
-    <link>https://osf.io/u8cxe</link>
-    <guid isPermaLink="false">https://osf.io/u8cxe#ja</guid>
-    <pubDate>Sun, 15 Feb 2026 08:28:06 +0000</pubDate>
-    <description>Endogenous Theta as a Function of Task Load and Working Memory Capacity: Revisiting the Role of  Slower Frequencies in Theta-Gamma Coupling</description>
-  </item>
-  <item>
-    <title>つながりの構成要素：独身者およびパートナーのいるコミュニティサンプルにおけるロマンティックケミストリー（RoCh）尺度の開発と検証</title>
-    <link>https://osf.io/6cxdn</link>
-    <guid isPermaLink="false">https://osf.io/6cxdn#ja</guid>
-    <pubDate>Sun, 15 Feb 2026 08:28:06 +0000</pubDate>
-    <description>Components of Connection: Development and Validation of the Romantic Chemistry (RoCh) Scale in Single and Partnered Community Samples</description>
   </item>
 </channel>
 </rss>
