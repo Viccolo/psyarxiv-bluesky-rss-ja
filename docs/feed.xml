@@ -6,21 +6,21 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>協働的デジタル行動科学の構築：ビデオゲーム研究に基づく異分野連携の課題</title>
+    <title>協働的デジタル行動科学の構築：ビデオゲーム研究に基づく異業種連携の課題</title>
     <link>https://osf.io/w3pyn</link>
     <guid isPermaLink="false">https://osf.io/w3pyn#ja</guid>
     <pubDate>Tue, 17 Feb 2026 12:54:34 +0000</pubDate>
     <description>Building collaborative digital behavioural science: A cross-sector agenda from video games research</description>
   </item>
   <item>
-    <title>人々はChatGPTを意識的存在とみなすか？大規模ポーランドサンプルによる検証</title>
+    <title>人々はChatGPTを意識を持つ存在と考えるか？ポーランド大規模サンプルによる検証</title>
     <link>https://osf.io/fktqc</link>
     <guid isPermaLink="false">https://osf.io/fktqc#ja</guid>
     <pubDate>Tue, 17 Feb 2026 12:54:34 +0000</pubDate>
     <description>Do People Think ChatGPT Is Conscious? Evidence from a Large Polish Sample</description>
   </item>
   <item>
-    <title>相対的剥奪経験と陰謀論信念を結ぶ感情的経路：ミニメタ分析</title>
+    <title>相対的剥奪経験と陰謀論信念を結ぶ感情的経路：ミニメタアナリシス</title>
     <link>https://osf.io/nrz5a</link>
     <guid isPermaLink="false">https://osf.io/nrz5a#ja</guid>
     <pubDate>Tue, 17 Feb 2026 11:36:20 +0000</pubDate>
@@ -48,14 +48,14 @@
     <description>“The Reports of My Death Are Greatly Exaggerated”: Humans Can Extract Unconscious Bigram Knowledge in the Artificial Grammar Learning Task</description>
   </item>
   <item>
-    <title>宗教的文脈が内的言語パターンの聴覚的外在化バイアスへの影響に及ぼす役割</title>
+    <title>宗教的文脈が内的言語パターンの聴覚的外在化バイアスへの影響を形成する</title>
     <link>https://osf.io/c9pxm</link>
     <guid isPermaLink="false">https://osf.io/c9pxm#ja</guid>
     <pubDate>Tue, 17 Feb 2026 11:36:19 +0000</pubDate>
     <description>Religious context shapes how inner speech patterns influence auditory externalising bias</description>
   </item>
   <item>
-    <title>筆記障害の有無によるチェコ語児童のマルチモーダルオンライン手書きおよび認知データ</title>
+    <title>筆記障害の有無にかかわらずチェコの子どもたちから収集した多モーダルオンライン手書きおよび認知データ</title>
     <link>https://osf.io/8t35e</link>
     <guid isPermaLink="false">https://osf.io/8t35e#ja</guid>
     <pubDate>Tue, 17 Feb 2026 10:40:36 +0000</pubDate>
@@ -69,42 +69,42 @@
     <description>Metaphor is a Key to Abstraction: Modelling Figurative Abstraction with Distributional Semantics</description>
   </item>
   <item>
-    <title>リズム知覚が読字発達に及ぼす初期制約：媒介的かつ習熟度依存的な経路</title>
+    <title>リズム知覚が読み発達に及ぼす初期制約：媒介的かつ習熟度依存的な経路</title>
     <link>https://osf.io/wfgny</link>
     <guid isPermaLink="false">https://osf.io/wfgny#ja</guid>
     <pubDate>Tue, 17 Feb 2026 01:49:24 +0000</pubDate>
     <description>Rhythm Perception as an Early Constraint on Reading Development: A Mediated and Proficiency-Dependent Pathway</description>
   </item>
   <item>
-    <title>偶発的な感情内容と感情能力がバルーン類似リスク課題（BART）におけるリスク志向性に及ぼす影響</title>
+    <title>バルーン類似リスク課題（BART）における偶発的感情内容と感情能力がリスク選好傾向に及ぼす影響</title>
     <link>https://osf.io/vcxrf</link>
     <guid isPermaLink="false">https://osf.io/vcxrf#ja</guid>
     <pubDate>Tue, 17 Feb 2026 01:49:23 +0000</pubDate>
     <description>Influence of incidental emotional content and emotional abilities on risk-taking propensity in the balloon analogue risk task (BART)</description>
   </item>
   <item>
-    <title>機会損失をなくすために：労働組合と連携する次世代産業・組織心理学者の育成の意義と方法</title>
+    <title>機械労働組合と協働する次世代産業・組織心理学者の育成における利点と教育方法の検討</title>
     <link>https://osf.io/dnyb5</link>
     <guid isPermaLink="false">https://osf.io/dnyb5#ja</guid>
     <pubDate>Tue, 17 Feb 2026 01:49:23 +0000</pubDate>
     <description>No More Missed Opportunities: Benefits and Methods of Educating the Next Generation of I-O Psychologists to Work with Labor Unions</description>
   </item>
   <item>
-    <title>「Snakemake」ワークフローマネージャーを用いた神経画像データ処理の統合管理</title>
+    <title>「Snakemakeワークフローマネージャーを用いた神経画像データ処理の統合管理」</title>
     <link>https://osf.io/fmdvn</link>
     <guid isPermaLink="false">https://osf.io/fmdvn#ja</guid>
     <pubDate>Tue, 17 Feb 2026 01:49:23 +0000</pubDate>
     <description>Orchestrating neuroimaging data processing using the &#x27;Snakemake&#x27; workflow manager</description>
   </item>
   <item>
-    <title>無意識処理の研究における合意形成が解決策であるならば、その問いとは何か？</title>
+    <title>無意識処理の研究に関する合意が答えであるならば、その問いとは何か？</title>
     <link>https://osf.io/ubdmv</link>
     <guid isPermaLink="false">https://osf.io/ubdmv#ja</guid>
     <pubDate>Tue, 17 Feb 2026 01:49:22 +0000</pubDate>
     <description>If consensus on studying unconscious processing is the answer, what is the question?</description>
   </item>
   <item>
-    <title>青年のメンタルヘルスマップ：機械学習と共同開発を統合した青年期の横断的精神健康次元評価のための簡便で信頼性の高い自己報告ツールの開発</title>
+    <title>青年期メンタルヘルスマップ：機械学習と共同開発を統合した青年期メンタルヘルスの横断的次元を評価する簡便で信頼性の高い自己報告ツールの開発</title>
     <link>https://osf.io/x5js4</link>
     <guid isPermaLink="false">https://osf.io/x5js4#ja</guid>
     <pubDate>Tue, 17 Feb 2026 01:49:22 +0000</pubDate>
@@ -118,7 +118,7 @@
     <description>Color preferences in dogs: A replication study</description>
   </item>
   <item>
-    <title>時には少ない方が効果的：成功した再評価における評価の変動性</title>
+    <title>時に少ない方が効果的：成功した再評価における評価変動性の検討</title>
     <link>https://osf.io/7bhar</link>
     <guid isPermaLink="false">https://osf.io/7bhar#ja</guid>
     <pubDate>Mon, 16 Feb 2026 20:54:48 +0000</pubDate>
@@ -139,35 +139,35 @@
     <description>“She’s loved me at all sizes”: The role of the human-animal bond in eating disorder experiences and treatment</description>
   </item>
   <item>
-    <title>言語モデルによる精神病関連の語義探索障害の再現と物語的想起におけるシミュレーション</title>
+    <title>言語モデルによる精神病関連の語義探索障害の物語的想起における解明とシミュレーション</title>
     <link>https://osf.io/yfh2u</link>
     <guid isPermaLink="false">https://osf.io/yfh2u#ja</guid>
     <pubDate>Mon, 16 Feb 2026 20:54:47 +0000</pubDate>
     <description>Language models reveal and simulate psychosis-associated disruptions to semantic foraging in narrative recollections</description>
   </item>
   <item>
-    <title>知能モデルに動機づけを含める必要性：再帰的枠組みの提案</title>
+    <title>知能モデルに動機付けを含める必要性：再帰的枠組みの提案</title>
     <link>https://osf.io/kctvg</link>
     <guid isPermaLink="false">https://osf.io/kctvg#ja</guid>
     <pubDate>Mon, 16 Feb 2026 20:54:47 +0000</pubDate>
     <description>Why Intelligence Models Must Include Motivation: A Recursive Framework</description>
   </item>
   <item>
-    <title>事例からカテゴリーへ：自由選択課題における行動-効果学習の一般化</title>
+    <title>事例からカテゴリーへ：自由選択課題における行動-結果学習の一般化</title>
     <link>https://osf.io/rk9g8</link>
     <guid isPermaLink="false">https://osf.io/rk9g8#ja</guid>
     <pubDate>Mon, 16 Feb 2026 20:54:47 +0000</pubDate>
     <description>From Exemplars to Categories: Generalization of Action-Effect Learning in a Free-choice Task</description>
   </item>
   <item>
-    <title>スペイン語における変動的一致構文：知覚モダリティと概念的前景化の間で</title>
+    <title>スペイン語における変動的一致構文：知覚様式と概念的前景化の関係性</title>
     <link>https://osf.io/wgj2f</link>
     <guid isPermaLink="false">https://osf.io/wgj2f#ja</guid>
     <pubDate>Mon, 16 Feb 2026 16:03:04 +0000</pubDate>
     <description>Variable agreement constructions in Spanish: between perception modalities and conceptual foregrounding</description>
   </item>
   <item>
-    <title>文単位と単語単位の産出におけるバイリンガル言語制御の比較―登録報告</title>
+    <title>文単位と単語単位の二言語制御に関する登録報告</title>
     <link>https://osf.io/k7uvf</link>
     <guid isPermaLink="false">https://osf.io/k7uvf#ja</guid>
     <pubDate>Mon, 16 Feb 2026 15:07:11 +0000</pubDate>
@@ -209,7 +209,7 @@
     <description>Prescribing political emotions: how shifting between anger and fear changes political behavior</description>
   </item>
   <item>
-    <title>身体リズムが行動と知覚の連結を制御するメカニズム</title>
+    <title>身体リズムが行動と知覚の連結を制御する</title>
     <link>https://osf.io/zj23s</link>
     <guid isPermaLink="false">https://osf.io/zj23s#ja</guid>
     <pubDate>Mon, 16 Feb 2026 15:07:09 +0000</pubDate>
@@ -223,7 +223,7 @@
     <description>The Benefits of and Motivations Behind Large-Team Coordination in Psychology</description>
   </item>
   <item>
-    <title>訓練中の文脈的明瞭性は学習の転移を阻害するが課題切り替えは阻害しない</title>
+    <title>訓練中の文脈的明確性は学習の転移を妨げるが課題切り替えは阻害しない</title>
     <link>https://osf.io/znh47</link>
     <guid isPermaLink="false">https://osf.io/znh47#ja</guid>
     <pubDate>Mon, 16 Feb 2026 15:07:08 +0000</pubDate>
@@ -237,7 +237,7 @@
     <description>Emulation vs. Envy: Jewish Managerial Stereotypes in China</description>
   </item>
   <item>
-    <title>空間聴覚が聴覚的サブティジング効率に及ぼす影響</title>
+    <title>空間聴覚が聴覚的サブタイジング効率に及ぼす影響</title>
     <link>https://osf.io/pwtm6</link>
     <guid isPermaLink="false">https://osf.io/pwtm6#ja</guid>
     <pubDate>Mon, 16 Feb 2026 14:03:20 +0000</pubDate>
@@ -251,7 +251,7 @@
     <description>Data show that macaques do not synchronize to a beat</description>
   </item>
   <item>
-    <title>瞑想の多次元的効果：代謝、概日リズムおよびエピジェネティック機構の統合的検討による内観神経科学の展開</title>
+    <title>瞑想の多次元的効果：代謝、概日リズムおよびエピジェネティック機構の統合的検討による瞑想神経科学の展開</title>
     <link>https://osf.io/4xprk</link>
     <guid isPermaLink="false">https://osf.io/4xprk#ja</guid>
     <pubDate>Mon, 16 Feb 2026 14:03:20 +0000</pubDate>
@@ -265,14 +265,14 @@
     <description>Transmission in meditation: From classical Indian texts to Heartfulness practice</description>
   </item>
   <item>
-    <title>視覚的作業記憶モデルにおけるセットサイズのスケーリング効果が想起時の復号規則を特定する</title>
+    <title>視覚的作業記憶モデルにおけるセットサイズのスケーリング効果が検索時の復号規則を特定する</title>
     <link>https://osf.io/6wk73</link>
     <guid isPermaLink="false">https://osf.io/6wk73#ja</guid>
     <pubDate>Mon, 16 Feb 2026 14:03:19 +0000</pubDate>
     <description>Set-Size Scaling Effects in Visual Working Memory Models Identify the Decoding Rule Used in Retrieval</description>
   </item>
   <item>
-    <title>65歳以上アフリカ系アメリカ人高齢者における健康高齢者および健忘性軽度認知障害者を対象としたNIHツールボックス嗅覚識別検査の評価</title>
+    <title>65歳以上アフリカ系アメリカ人成人における健康高齢者および健忘性軽度認知障害者を対象としたNIHツールボックス嗅覚識別検査の評価</title>
     <link>https://osf.io/983gh</link>
     <guid isPermaLink="false">https://osf.io/983gh#ja</guid>
     <pubDate>Mon, 16 Feb 2026 14:03:19 +0000</pubDate>
@@ -293,14 +293,14 @@
     <description>The Psychology of Offensive and Defensive Intergroup Violence: Preregistered Insights from 58 countries</description>
   </item>
   <item>
-    <title>文脈におけるストレス：オーストリア代表サンプルにおける社会的決定要因、対処行動、および政策的示唆</title>
+    <title>文脈におけるストレス：オーストリア代表サンプルにおける社会的決定要因、対処行動、および政策的含意</title>
     <link>https://osf.io/6tnk5</link>
     <guid isPermaLink="false">https://osf.io/6tnk5#ja</guid>
     <pubDate>Sun, 15 Feb 2026 19:45:05 +0000</pubDate>
     <description>Stress in Context: Social Determinants, Coping, and Policy Implications in a Representative Austrian Sample</description>
   </item>
   <item>
-    <title>カーペンター世界が視覚知覚に及ぼす影響－新たな視点からの考察</title>
+    <title>カーペンター世界が視覚知覚に及ぼす影響 ― 新たな視点からの考察</title>
     <link>https://osf.io/m8enp</link>
     <guid isPermaLink="false">https://osf.io/m8enp#ja</guid>
     <pubDate>Sun, 15 Feb 2026 19:45:05 +0000</pubDate>
@@ -314,14 +314,14 @@
     <description>Bullying and symptoms of anxiety and depression in adolescents: A moderated network analysis</description>
   </item>
   <item>
-    <title>心理学研究における妥当性に対する予備調査の可能性と限界</title>
+    <title>心理学研究における妥当性に対する予備調査の役割と限界</title>
     <link>https://osf.io/t968e</link>
     <guid isPermaLink="false">https://osf.io/t968e#ja</guid>
     <pubDate>Sun, 15 Feb 2026 19:45:00 +0000</pubDate>
     <description>What Pilot Studies Can (and Cannot) Do for Validity in Psychological Research</description>
   </item>
   <item>
-    <title>ドイツ語圏二標本における精神病理学階層的分類体系簡易版（HiTOP-BR）の検証</title>
+    <title>ドイツ語圏二標本における精神病理階層分類体系簡易版（HiTOP-BR）の妥当性検証</title>
     <link>https://osf.io/ykdmg</link>
     <guid isPermaLink="false">https://osf.io/ykdmg#ja</guid>
     <pubDate>Sun, 15 Feb 2026 19:45:00 +0000</pubDate>
@@ -349,7 +349,7 @@
     <description>Just Antagonism? Little Support for a Dark Triad or Tetrad Personality Trait Structure</description>
   </item>
   <item>
-    <title>オーストラリアの自閉症大学生の日常的感覚体験：経験サンプリング法による検討</title>
+    <title>オーストラリアの自閉症大学生の日常的感覚体験：エクスペリエンスサンプリング法による検討</title>
     <link>https://osf.io/8dk5q</link>
     <guid isPermaLink="false">https://osf.io/8dk5q#ja</guid>
     <pubDate>Sun, 15 Feb 2026 09:36:28 +0000</pubDate>
