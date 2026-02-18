@@ -6,14 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>再挑戦するか？インテリジェントチュータリングシステムにおける持続性を支援するスキャフォールドの大規模ランダム化比較試験</title>
+    <title>再挑戦する意欲は持続するか？インテリジェント・チュータリング・システムにおける持続支援スキャフォールドの大規模ランダム化比較試験</title>
     <link>https://osf.io/bf287</link>
     <guid isPermaLink="false">https://osf.io/bf287#ja</guid>
     <pubDate>Tue, 17 Feb 2026 23:31:27 +0000</pubDate>
     <description>Will They Try Again? A Large-Scale RCT on Scaffolds that Support Persistence in an Intelligent Tutoring System</description>
   </item>
   <item>
-    <title>表象的リテラシーと手続き的リテラシーが音声語認識に及ぼす影響の検討：心理計量ネットワーク分析と構造方程式モデリングによる証拠</title>
+    <title>表象的リテラシーと手続き的リテラシーが音声語認識に与える影響の検討：心理計量ネットワーク分析と構造方程式モデリングによる証拠</title>
     <link>https://osf.io/xvukf</link>
     <guid isPermaLink="false">https://osf.io/xvukf#ja</guid>
     <pubDate>Tue, 17 Feb 2026 23:31:27 +0000</pubDate>
@@ -27,7 +27,7 @@
     <description>Toward an Integrative Theoretical Framework of Status Anxiety</description>
   </item>
   <item>
-    <title>運動と認知に関する50年の研究の再評価の必要性</title>
+    <title>運動と認知に関する50年の研究に対する批判的再評価の必要性</title>
     <link>https://osf.io/4j69r</link>
     <guid isPermaLink="false">https://osf.io/4j69r#ja</guid>
     <pubDate>Tue, 17 Feb 2026 23:31:27 +0000</pubDate>
@@ -41,21 +41,21 @@
     <description>Features of Successful Behavioral Interventions: A Data Driven Analysis of Megastudy Effects</description>
   </item>
   <item>
-    <title>仮想現実における心理計測的構成概念としてのプレゼンスと没入感の効果評価</title>
+    <title>仮想現実における存在感と没入感の心理測定的構成概念としての効果評価</title>
     <link>https://osf.io/5mcxn</link>
     <guid isPermaLink="false">https://osf.io/5mcxn#ja</guid>
     <pubDate>Tue, 17 Feb 2026 22:57:49 +0000</pubDate>
     <description>Assessment of the Effect of Presence and Immersion as Psychometric Constructs in Virtual Reality</description>
   </item>
   <item>
-    <title>課題の難易度、連続順序効果、および子どもの作業記憶における誤答パターン：大規模データセットからの知見</title>
+    <title>課題の難易度、連続順序効果、および児童の作業記憶における誤答パターン：大規模データセットからの知見</title>
     <link>https://osf.io/z3bjn</link>
     <guid isPermaLink="false">https://osf.io/z3bjn#ja</guid>
     <pubDate>Tue, 17 Feb 2026 22:57:49 +0000</pubDate>
     <description>Task Difficulty, Serial Order Effects, and Error Patterns in Children’s Working Memory: Insights from a Large-Scale Dataset</description>
   </item>
   <item>
-    <title>遠い過去の性的虐待記憶：法的文脈における亜型と裏付け検証</title>
+    <title>遠い過去の性的虐待記憶：法的文脈におけるサブタイプと裏付け検証</title>
     <link>https://osf.io/gcd4n</link>
     <guid isPermaLink="false">https://osf.io/gcd4n#ja</guid>
     <pubDate>Tue, 17 Feb 2026 22:57:48 +0000</pubDate>
@@ -69,7 +69,7 @@
     <description>Doomscrolling Among the Polish Population: Validity of Measurement and Relationships with Social Media Addiction, War Anxiety, and Persistent Thinking About War</description>
   </item>
   <item>
-    <title>行動公共政策の評価において人々の主観的幸福感を重視すべき理由とその方法</title>
+    <title>行動公共政策を評価するために人々の主観的幸福感を重視すべき理由とその測定方法</title>
     <link>https://osf.io/746ey</link>
     <guid isPermaLink="false">https://osf.io/746ey#ja</guid>
     <pubDate>Tue, 17 Feb 2026 22:57:48 +0000</pubDate>
@@ -104,7 +104,7 @@
     <description>Building collaborative digital behavioural science: A cross-sector agenda from video games research</description>
   </item>
   <item>
-    <title>人々はChatGPTを意識を持つ存在と考えているか？大規模ポーランド人サンプルによる検証</title>
+    <title>人々はChatGPTを意識的存在とみなすか？大規模ポーランドサンプルによる検証</title>
     <link>https://osf.io/fktqc</link>
     <guid isPermaLink="false">https://osf.io/fktqc#ja</guid>
     <pubDate>Tue, 17 Feb 2026 12:54:34 +0000</pubDate>
@@ -146,7 +146,7 @@
     <description>Religious context shapes how inner speech patterns influence auditory externalising bias</description>
   </item>
   <item>
-    <title>筆記障害の有無にかかわらずチェコの子どもたちから収集したマルチモーダルオンライン手書きおよび認知データ</title>
+    <title>筆記障害の有無によるチェコ語児童の多モーダルオンライン手書きおよび認知データ</title>
     <link>https://osf.io/8t35e</link>
     <guid isPermaLink="false">https://osf.io/8t35e#ja</guid>
     <pubDate>Tue, 17 Feb 2026 10:40:36 +0000</pubDate>
@@ -160,7 +160,7 @@
     <description>Metaphor is a Key to Abstraction: Modelling Figurative Abstraction with Distributional Semantics</description>
   </item>
   <item>
-    <title>リズム知覚が読み発達に及ぼす初期制約：媒介的かつ熟達度依存的な経路</title>
+    <title>リズム知覚が読み発達に及ぼす初期の制約：媒介的かつ熟達度依存的な経路</title>
     <link>https://osf.io/wfgny</link>
     <guid isPermaLink="false">https://osf.io/wfgny#ja</guid>
     <pubDate>Tue, 17 Feb 2026 01:49:24 +0000</pubDate>
@@ -174,28 +174,28 @@
     <description>Influence of incidental emotional content and emotional abilities on risk-taking propensity in the balloon analogue risk task (BART)</description>
   </item>
   <item>
-    <title>機会損失をなくすために：次世代産業・組織心理学者が労働組合と協働するための教育の意義と方法</title>
+    <title>機会損失をなくすために：労働組合と連携する次世代産業・組織心理学者の育成の意義と方法</title>
     <link>https://osf.io/dnyb5</link>
     <guid isPermaLink="false">https://osf.io/dnyb5#ja</guid>
     <pubDate>Tue, 17 Feb 2026 01:49:23 +0000</pubDate>
     <description>No More Missed Opportunities: Benefits and Methods of Educating the Next Generation of I-O Psychologists to Work with Labor Unions</description>
   </item>
   <item>
-    <title>「Snakemake」ワークフローマネージャーを用いた神経画像データ処理の統合管理</title>
+    <title>「Snakemakeワークフローマネージャーを用いた神経画像データ処理の統合管理」</title>
     <link>https://osf.io/fmdvn</link>
     <guid isPermaLink="false">https://osf.io/fmdvn#ja</guid>
     <pubDate>Tue, 17 Feb 2026 01:49:23 +0000</pubDate>
     <description>Orchestrating neuroimaging data processing using the &#x27;Snakemake&#x27; workflow manager</description>
   </item>
   <item>
-    <title>無意識的処理の研究に関する合意が答えであるならば、その問いとは何か？</title>
+    <title>無意識処理の研究に関する合意が答えであるならば、その問いとは何か？</title>
     <link>https://osf.io/ubdmv</link>
     <guid isPermaLink="false">https://osf.io/ubdmv#ja</guid>
     <pubDate>Tue, 17 Feb 2026 01:49:22 +0000</pubDate>
     <description>If consensus on studying unconscious processing is the answer, what is the question?</description>
   </item>
   <item>
-    <title>青年期メンタルヘルスマップ：機械学習と共同開発を統合した青年期メンタルヘルスの横断的次元を評価する簡便かつ信頼性の高い自己報告ツールの開発</title>
+    <title>青年期メンタルヘルスマップ：機械学習と共創を統合した青年期メンタルヘルスの横断的次元を評価する簡便かつ信頼性の高い自己報告ツールの開発</title>
     <link>https://osf.io/x5js4</link>
     <guid isPermaLink="false">https://osf.io/x5js4#ja</guid>
     <pubDate>Tue, 17 Feb 2026 01:49:22 +0000</pubDate>
@@ -209,7 +209,7 @@
     <description>Color preferences in dogs: A replication study</description>
   </item>
   <item>
-    <title>時には少ない方が効果的：成功した再評価における評価の変動性</title>
+    <title>時に少ない方が効果的：成功する再評価における評価の変動性</title>
     <link>https://osf.io/7bhar</link>
     <guid isPermaLink="false">https://osf.io/7bhar#ja</guid>
     <pubDate>Mon, 16 Feb 2026 20:54:48 +0000</pubDate>
@@ -230,7 +230,7 @@
     <description>“She’s loved me at all sizes”: The role of the human-animal bond in eating disorder experiences and treatment</description>
   </item>
   <item>
-    <title>言語モデルによる精神病関連の語義探索障害の物語的想起における解明とシミュレーション</title>
+    <title>言語モデルによる精神病関連の語義探索障害の検出と物語想起におけるシミュレーション</title>
     <link>https://osf.io/yfh2u</link>
     <guid isPermaLink="false">https://osf.io/yfh2u#ja</guid>
     <pubDate>Mon, 16 Feb 2026 20:54:47 +0000</pubDate>
@@ -244,7 +244,7 @@
     <description>Why Intelligence Models Must Include Motivation: A Recursive Framework</description>
   </item>
   <item>
-    <title>事例からカテゴリーへ：自由選択課題における行動-効果学習の一般化</title>
+    <title>典型例からカテゴリーへ：自由選択課題における行動-効果学習の一般化</title>
     <link>https://osf.io/rk9g8</link>
     <guid isPermaLink="false">https://osf.io/rk9g8#ja</guid>
     <pubDate>Mon, 16 Feb 2026 20:54:47 +0000</pubDate>
@@ -293,14 +293,14 @@
     <description>Approximate Bayes Factors Are Approximate E-Processes</description>
   </item>
   <item>
-    <title>政治感情の処方：怒りと恐怖の切り替えが政治行動に与える影響</title>
+    <title>政治感情の処方：怒りと恐怖の切り替えが政治行動に及ぼす影響</title>
     <link>https://osf.io/fxams</link>
     <guid isPermaLink="false">https://osf.io/fxams#ja</guid>
     <pubDate>Mon, 16 Feb 2026 15:07:09 +0000</pubDate>
     <description>Prescribing political emotions: how shifting between anger and fear changes political behavior</description>
   </item>
   <item>
-    <title>身体リズムが行動と知覚の連結を制御するメカニズム</title>
+    <title>身体リズムが行動と知覚の連結を制御する</title>
     <link>https://osf.io/zj23s</link>
     <guid isPermaLink="false">https://osf.io/zj23s#ja</guid>
     <pubDate>Mon, 16 Feb 2026 15:07:09 +0000</pubDate>
@@ -314,21 +314,21 @@
     <description>The Benefits of and Motivations Behind Large-Team Coordination in Psychology</description>
   </item>
   <item>
-    <title>訓練中の文脈的明瞭性は学習の転移を妨げるが課題切り替えは阻害しない</title>
+    <title>訓練時の文脈的明瞭性は学習転移を妨げるが課題切り替えには影響しない</title>
     <link>https://osf.io/znh47</link>
     <guid isPermaLink="false">https://osf.io/znh47#ja</guid>
     <pubDate>Mon, 16 Feb 2026 15:07:08 +0000</pubDate>
     <description>Contextual clarity during training hinders learning transfer but spares task-switching</description>
   </item>
   <item>
-    <title>模倣と嫉妬：中国におけるユダヤ人管理職のステレオタイプ</title>
+    <title>模倣と嫉妬：中国におけるユダヤ人管理職ステレオタイプの心理学的検討</title>
     <link>https://osf.io/g397p</link>
     <guid isPermaLink="false">https://osf.io/g397p#ja</guid>
     <pubDate>Mon, 16 Feb 2026 14:03:21 +0000</pubDate>
     <description>Emulation vs. Envy: Jewish Managerial Stereotypes in China</description>
   </item>
   <item>
-    <title>聴覚的サブタイジング効率に及ぼす空間聴覚の影響</title>
+    <title>空間聴覚が聴覚的サブティジング効率に及ぼす影響</title>
     <link>https://osf.io/pwtm6</link>
     <guid isPermaLink="false">https://osf.io/pwtm6#ja</guid>
     <pubDate>Mon, 16 Feb 2026 14:03:20 +0000</pubDate>
@@ -342,14 +342,14 @@
     <description>Data show that macaques do not synchronize to a beat</description>
   </item>
   <item>
-    <title>瞑想の多次元的効果：代謝、概日リズムおよびエピジェネティック機構の統合的検討による瞑想神経科学</title>
+    <title>瞑想の多次元的効果：代謝、概日リズムおよびエピジェネティック機構の統合的検討による内観神経科学の展開</title>
     <link>https://osf.io/4xprk</link>
     <guid isPermaLink="false">https://osf.io/4xprk#ja</guid>
     <pubDate>Mon, 16 Feb 2026 14:03:20 +0000</pubDate>
     <description>Effect of meditation across scales: Integrating metabolism, circadian rhythm and epigenetic mechanisms in contemplative neuroscience</description>
   </item>
   <item>
-    <title>瞑想における伝承：古典インド文献からハートフルネス実践へ</title>
+    <title>瞑想における伝承：古典インド文献からハートフルネス実践への展開</title>
     <link>https://osf.io/nkz2f</link>
     <guid isPermaLink="false">https://osf.io/nkz2f#ja</guid>
     <pubDate>Mon, 16 Feb 2026 14:03:19 +0000</pubDate>
