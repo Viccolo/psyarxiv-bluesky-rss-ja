@@ -6,7 +6,21 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>文化的差異か文化的一様性か？中国系ドイツ人の異なる集団における自発的特性推論</title>
+    <title>若年層を対象としたエビデンスに基づくデジタルメディア介入に関する研究のスコーピングレビュー</title>
+    <link>https://osf.io/xq6eh</link>
+    <guid isPermaLink="false">https://osf.io/xq6eh#ja</guid>
+    <pubDate>Thu, 19 Feb 2026 22:27:05 +0000</pubDate>
+    <description>Scoping review of research on evidence-based digital media interventions    for youth</description>
+  </item>
+  <item>
+    <title>未知への対峙：新興技術に関する認知の質的インタビュー研究</title>
+    <link>https://osf.io/ra7bc</link>
+    <guid isPermaLink="false">https://osf.io/ra7bc#ja</guid>
+    <pubDate>Thu, 19 Feb 2026 22:27:03 +0000</pubDate>
+    <description>Facing the Unknown: A Qualitative Interview Study on Perceptions of Emerging Technologies</description>
+  </item>
+  <item>
+    <title>文化的差異か文化的一様性か？中国系ドイツ人の異なる集団における自発的特性推論の比較</title>
     <link>https://osf.io/n85ed</link>
     <guid isPermaLink="false">https://osf.io/n85ed#ja</guid>
     <pubDate>Thu, 19 Feb 2026 21:37:46 +0000</pubDate>
@@ -55,7 +69,7 @@
     <description>Inconclusive longitudinal associations between violence exposure and adolescent conduct problems: A comment on Swingler et al. (2026)</description>
   </item>
   <item>
-    <title>治療空間におけるメタファー使用とPTSD：現象学および実践的認知との対話</title>
+    <title>治療空間における比喩の使用とPTSD：現象学および実践的認知との対話</title>
     <link>https://osf.io/xpbwu</link>
     <guid isPermaLink="false">https://osf.io/xpbwu#ja</guid>
     <pubDate>Thu, 19 Feb 2026 10:38:25 +0000</pubDate>
@@ -76,7 +90,7 @@
     <description>A systematic review on the role of self-efficacy as an outcome, predictor or mediator variable in cognitive behavioral therapy for anxiety in adults, children and adolescents</description>
   </item>
   <item>
-    <title>限界内の多元主義：複数の神経相関基盤（NCC）概念を有用にする方法</title>
+    <title>限界内の多元主義：複数の神経相関基盤（NCC）概念を有効活用する方法</title>
     <link>https://osf.io/9mx8r</link>
     <guid isPermaLink="false">https://osf.io/9mx8r#ja</guid>
     <pubDate>Wed, 18 Feb 2026 17:35:07 +0000</pubDate>
@@ -97,7 +111,7 @@
     <description>Types of knowledge and instructional choices: The importance of procedural memory for learning concepts</description>
   </item>
   <item>
-    <title>主観的心理的幸福感尺度による女性の産後精神健康測定の有効性</title>
+    <title>主観的心理的幸福感尺度による女性の産後メンタルヘルス評価の有効性検証</title>
     <link>https://osf.io/r2y9b</link>
     <guid isPermaLink="false">https://osf.io/r2y9b#ja</guid>
     <pubDate>Wed, 18 Feb 2026 17:35:06 +0000</pubDate>
@@ -118,28 +132,28 @@
     <description>AI-Mediated Mental Health Support: The Role of Attachment Orientation and Psychological Distress</description>
   </item>
   <item>
-    <title>過激主義の時代における分極化研究の課題</title>
+    <title>極端主義の時代における分極化研究の課題</title>
     <link>https://osf.io/y89gn</link>
     <guid isPermaLink="false">https://osf.io/y89gn#ja</guid>
     <pubDate>Wed, 18 Feb 2026 17:35:05 +0000</pubDate>
     <description>The Problem with Polarization Research in an Age of Extremism</description>
   </item>
   <item>
-    <title>持続的注意の向上による課題経験が先行干渉を軽減する</title>
+    <title>持続的注意の増加による課題経験が先行干渉を軽減する</title>
     <link>https://osf.io/w4zr8</link>
     <guid isPermaLink="false">https://osf.io/w4zr8#ja</guid>
     <pubDate>Wed, 18 Feb 2026 17:35:05 +0000</pubDate>
     <description>Task Experience Diminishes Proactive Interference by Increasing Sustained Attention</description>
   </item>
   <item>
-    <title>紛争への神経認知的素因：脅威知覚と戦争支持を結ぶメカニズム</title>
+    <title>紛争への神経認知的素因：脅威知覚と戦争支持の関連メカニズム</title>
     <link>https://osf.io/42y9z</link>
     <guid isPermaLink="false">https://osf.io/42y9z#ja</guid>
     <pubDate>Wed, 18 Feb 2026 17:35:04 +0000</pubDate>
     <description>Wired for Conflict? Neurocognitive Mechanisms Linking Threat Perception and Support for War</description>
   </item>
   <item>
-    <title>精神健康におけるAIと人間の反応：二つの実験研究における共感、有用性、期待の検討</title>
+    <title>メンタルヘルスにおけるAIと人間の反応：二つの実験研究における共感、実用性、期待の検討</title>
     <link>https://osf.io/v7ur3</link>
     <guid isPermaLink="false">https://osf.io/v7ur3#ja</guid>
     <pubDate>Wed, 18 Feb 2026 16:30:07 +0000</pubDate>
@@ -153,7 +167,7 @@
     <description>Unraveling the Connection Between Psychopathy Traits and Risk Behavior Tendencies</description>
   </item>
   <item>
-    <title>青少年の繁栄：学校および仲間の支援、社会的脳の発達、ポジティブ感情に関する縦断的研究</title>
+    <title>青少年の繁栄：学校および仲間の支援、社会的脳の発達、肯定的情動に関する縦断的研究</title>
     <link>https://osf.io/hmzvb</link>
     <guid isPermaLink="false">https://osf.io/hmzvb#ja</guid>
     <pubDate>Wed, 18 Feb 2026 16:30:01 +0000</pubDate>
@@ -174,7 +188,7 @@
     <description>Infants’ Motor Synchronization to Speech</description>
   </item>
   <item>
-    <title>混沌の中の秩序：ユーモアの進化的謎に対する一つの解答</title>
+    <title>混沌の中の秩序：ユーモアの進化的謎に対する一つの解明</title>
     <link>https://osf.io/fp5ch</link>
     <guid isPermaLink="false">https://osf.io/fp5ch#ja</guid>
     <pubDate>Wed, 18 Feb 2026 10:39:49 +0000</pubDate>
@@ -195,21 +209,21 @@
     <description>Novel Social Identities Shape Belief in True and False Information</description>
   </item>
   <item>
-    <title>単一応答および複数応答課題におけるシミュレーションベースの証拠蓄積モデル：eamパッケージの紹介</title>
+    <title>単一応答および多重応答課題におけるシミュレーションベースの証拠蓄積モデル：eamパッケージの紹介</title>
     <link>https://osf.io/dg7c2</link>
     <guid isPermaLink="false">https://osf.io/dg7c2#ja</guid>
     <pubDate>Wed, 18 Feb 2026 10:39:48 +0000</pubDate>
     <description>Simulation-Based Evidence Accumulation Modeling for Single- and Multi-Response Tasks: The eam Package</description>
   </item>
   <item>
-    <title>ワーキングペーパー：ジェンダーに基づく暴力研究における女性研究者の経験に関する質的分析</title>
+    <title>作業報告書－ジェンダーに基づく暴力研究における女性研究者の経験に関する質的分析</title>
     <link>https://osf.io/5db9s</link>
     <guid isPermaLink="false">https://osf.io/5db9s#ja</guid>
     <pubDate>Wed, 18 Feb 2026 10:39:48 +0000</pubDate>
     <description>Working Paper- A Qualitative Analysis of Women Researchers’ Experiences within Gender-Based Violence Research</description>
   </item>
   <item>
-    <title>人格病理における顔の感情認識、低次顔処理および結晶性知能：多方法アプローチによる研究</title>
+    <title>人格病理における顔の感情認識、低次顔処理および結晶性知能：多方法アプローチによる検討</title>
     <link>https://osf.io/hyx9a</link>
     <guid isPermaLink="false">https://osf.io/hyx9a#ja</guid>
     <pubDate>Wed, 18 Feb 2026 10:39:47 +0000</pubDate>
@@ -223,28 +237,28 @@
     <description>Development and Psychometric Validation of the Perceived Deterritorialization Scale (PDS) in Workplace Settings</description>
   </item>
   <item>
-    <title>術後の言語産出結果に関連する白質経路の形状特徴</title>
+    <title>術後の発話産出結果に関連する白質路の形状特徴</title>
     <link>https://osf.io/qnu3b</link>
     <guid isPermaLink="false">https://osf.io/qnu3b#ja</guid>
     <pubDate>Wed, 18 Feb 2026 09:41:50 +0000</pubDate>
     <description>Shape features of white matter tracts associated with post-surgical speech production outcomes</description>
   </item>
   <item>
-    <title>信頼性評価に必要な情報の不足：集計データの可視化は個別データの可視化よりも信頼性が低く評価される</title>
+    <title>信頼性評価に必要な情報不足：集計データの可視化は個別データの可視化よりも信頼性が低く評価される</title>
     <link>https://osf.io/gmy4s</link>
     <guid isPermaLink="false">https://osf.io/gmy4s#ja</guid>
     <pubDate>Wed, 18 Feb 2026 09:41:50 +0000</pubDate>
     <description>Insufficient Information To Assess Trustworthiness: Visualizations of Aggregates Rated Less Trustworthy than Visualizations of Individual Data</description>
   </item>
   <item>
-    <title>再挑戦するか？知能チュータリングシステムにおける持続性を支援するスキャフォールドの効果に関する大規模ランダム化比較試験</title>
+    <title>再挑戦する意欲は持続するか？インテリジェント・チュータリング・システムにおける持続支援スキャフォールドの大規模ランダム化比較試験</title>
     <link>https://osf.io/bf287</link>
     <guid isPermaLink="false">https://osf.io/bf287#ja</guid>
     <pubDate>Tue, 17 Feb 2026 23:31:27 +0000</pubDate>
     <description>Will They Try Again? A Large-Scale RCT on Scaffolds that Support Persistence in an Intelligent Tutoring System</description>
   </item>
   <item>
-    <title>表象的リテラシーと手続き的リテラシーが口語単語認識に与える影響の検討：心理計量ネットワーク分析および構造方程式モデリングによる証拠</title>
+    <title>表象的リテラシーと手続き的リテラシーが音声語認識に及ぼす影響の検討：心理計量ネットワーク分析と構造方程式モデリングによる証拠</title>
     <link>https://osf.io/xvukf</link>
     <guid isPermaLink="false">https://osf.io/xvukf#ja</guid>
     <pubDate>Tue, 17 Feb 2026 23:31:27 +0000</pubDate>
@@ -272,28 +286,28 @@
     <description>Features of Successful Behavioral Interventions: A Data Driven Analysis of Megastudy Effects</description>
   </item>
   <item>
-    <title>仮想現実における存在感と没入感の心理測定的構成概念としての効果評価</title>
+    <title>バーチャルリアリティにおける心理測定的構成概念としてのプレゼンスと没入感の効果評価</title>
     <link>https://osf.io/5mcxn</link>
     <guid isPermaLink="false">https://osf.io/5mcxn#ja</guid>
     <pubDate>Tue, 17 Feb 2026 22:57:49 +0000</pubDate>
     <description>Assessment of the Effect of Presence and Immersion as Psychometric Constructs in Virtual Reality</description>
   </item>
   <item>
-    <title>課題の難易度、連続順序効果、および児童の作業記憶における誤答パターン：大規模データセットからの知見</title>
+    <title>課題難易度、連続順序効果、および子どもの作業記憶における誤答パターン：大規模データセットからの知見</title>
     <link>https://osf.io/z3bjn</link>
     <guid isPermaLink="false">https://osf.io/z3bjn#ja</guid>
     <pubDate>Tue, 17 Feb 2026 22:57:49 +0000</pubDate>
     <description>Task Difficulty, Serial Order Effects, and Error Patterns in Children’s Working Memory: Insights from a Large-Scale Dataset</description>
   </item>
   <item>
-    <title>遠い過去の性的虐待記憶：法的文脈におけるサブタイプと裏付け検証</title>
+    <title>遠い過去の性的虐待記憶：法的文脈における亜型と裏付け検証</title>
     <link>https://osf.io/gcd4n</link>
     <guid isPermaLink="false">https://osf.io/gcd4n#ja</guid>
     <pubDate>Tue, 17 Feb 2026 22:57:48 +0000</pubDate>
     <description>Memories of Sexual Abuse in the Distant Past: Subtypes and Corroboration in a Legal Context</description>
   </item>
   <item>
-    <title>ポーランド人口におけるドゥームスクローリング：測定の妥当性およびソーシャルメディア依存、戦争不安、戦争に関する持続的思考との関連性</title>
+    <title>ポーランド人口におけるドゥームスクローリング：測定の妥当性とソーシャルメディア依存、戦争不安、戦争に関する持続的思考との関連性</title>
     <link>https://osf.io/rz6nw</link>
     <guid isPermaLink="false">https://osf.io/rz6nw#ja</guid>
     <pubDate>Tue, 17 Feb 2026 22:57:48 +0000</pubDate>
@@ -307,14 +321,14 @@
     <description>Why We Should Look at People&#x27;s Subjective Wellbeing  to Evaluate Behavioural Public Policies, and How to Do It</description>
   </item>
   <item>
-    <title>集団ベースの予防プログラムによるメンタルヘルスと身体活動の促進：セッションごとのメカニズムとプログラム前後の効果</title>
+    <title>集団ベースの予防プログラムによるメンタルヘルスと身体活動の促進：セッションレベルのメカニズムとプログラム前後の効果</title>
     <link>https://osf.io/a9kfz</link>
     <guid isPermaLink="false">https://osf.io/a9kfz#ja</guid>
     <pubDate>Tue, 17 Feb 2026 22:57:48 +0000</pubDate>
     <description>A group-based prevention program fostering mental health and physical activity: Session-level mechanisms and pre-to post-program outcomes</description>
   </item>
   <item>
-    <title>他人種効果の再構築：ネットワーク分析による集団間感情と民族・人種アイデンティティが他人種認知に及ぼす経路の解明</title>
+    <title>他人種効果の再構築：ネットワーク分析による集団間感情および民族・人種アイデンティティが他人種認知に及ぼす経路の解明</title>
     <link>https://osf.io/m72c3</link>
     <guid isPermaLink="false">https://osf.io/m72c3#ja</guid>
     <pubDate>Tue, 17 Feb 2026 22:57:47 +0000</pubDate>
@@ -335,25 +349,11 @@
     <description>Building collaborative digital behavioural science: A cross-sector agenda from video games research</description>
   </item>
   <item>
-    <title>人々はChatGPTを意識的存在とみなすか？大規模ポーランドサンプルによる検証</title>
+    <title>人々はChatGPTを意識的存在と考えるか？ポーランド大規模サンプルによる検証</title>
     <link>https://osf.io/fktqc</link>
     <guid isPermaLink="false">https://osf.io/fktqc#ja</guid>
     <pubDate>Tue, 17 Feb 2026 12:54:34 +0000</pubDate>
     <description>Do People Think ChatGPT Is Conscious? Evidence from a Large Polish Sample</description>
-  </item>
-  <item>
-    <title>相対的剥奪経験と陰謀論信念を結ぶ感情的経路：ミニメタ分析</title>
-    <link>https://osf.io/nrz5a</link>
-    <guid isPermaLink="false">https://osf.io/nrz5a#ja</guid>
-    <pubDate>Tue, 17 Feb 2026 11:36:20 +0000</pubDate>
-    <description>Emotional Pathways Linking Relative Deprivation Experiences to Conspiracy Beliefs: A Mini-Meta-Analysis</description>
-  </item>
-  <item>
-    <title>恋愛関係における摂食動機と肉類消費の関連性</title>
-    <link>https://osf.io/htqsv</link>
-    <guid isPermaLink="false">https://osf.io/htqsv#ja</guid>
-    <pubDate>Tue, 17 Feb 2026 11:36:20 +0000</pubDate>
-    <description>Eating Motives and Meat Consumption in Romantic Partners</description>
   </item>
 </channel>
 </rss>
