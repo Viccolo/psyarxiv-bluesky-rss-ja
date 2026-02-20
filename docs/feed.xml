@@ -6,14 +6,42 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>動機的一致性が物語への関心を予測し、人口統計的類似性は影響しない</title>
+    <title>STEMM教員の大規模クラス指導に関する認識</title>
+    <link>https://osf.io/e25c6</link>
+    <guid isPermaLink="false">https://osf.io/e25c6#ja</guid>
+    <pubDate>Fri, 20 Feb 2026 16:32:50 +0000</pubDate>
+    <description>STEMM Teachers’ Conceptions of Teaching Large Classes</description>
+  </item>
+  <item>
+    <title>感覚起源に基づく予測的時間知覚モデル</title>
+    <link>https://osf.io/2u5gb</link>
+    <guid isPermaLink="false">https://osf.io/2u5gb#ja</guid>
+    <pubDate>Fri, 20 Feb 2026 16:32:49 +0000</pubDate>
+    <description>A Sensory-Origin Model of Prospective Timing</description>
+  </item>
+  <item>
+    <title>陽気で活力に満ちたポジティブ感情が生活満足度と示す異なる縦断的関係性</title>
+    <link>https://osf.io/gszmv</link>
+    <guid isPermaLink="false">https://osf.io/gszmv#ja</guid>
+    <pubDate>Fri, 20 Feb 2026 16:32:49 +0000</pubDate>
+    <description>Jingle All the Way? Pleasant and Energized Positive Affect Show Differential Longitudinal Relationships with Life Satisfaction</description>
+  </item>
+  <item>
+    <title>アスリートの栄養に影響を与える心理的要因：青少年およびエリートスポーツにおける実践的示唆とコーチング指針</title>
+    <link>https://osf.io/uhykf</link>
+    <guid isPermaLink="false">https://osf.io/uhykf#ja</guid>
+    <pubDate>Fri, 20 Feb 2026 16:32:49 +0000</pubDate>
+    <description>Psychological factors influencing nutrition in athletes: practical implications and coaching guidelines for youth and elite sports</description>
+  </item>
+  <item>
+    <title>動機的一致性が物語への関心を予測し、人口統計的類似性は予測しない</title>
     <link>https://osf.io/28nrx</link>
     <guid isPermaLink="false">https://osf.io/28nrx#ja</guid>
     <pubDate>Fri, 20 Feb 2026 15:34:05 +0000</pubDate>
     <description>Motivational Alignment, Not Demographic Similarity, Predicts Narrative Interest</description>
   </item>
   <item>
-    <title>社会的望ましさの認知が異なる場合：偽装行動の多次元名義反応モデルへの示唆</title>
+    <title>社会的望ましさの認知が異なる場合：偽装の多次元名義反応モデルへの示唆</title>
     <link>https://osf.io/2cyja</link>
     <guid isPermaLink="false">https://osf.io/2cyja#ja</guid>
     <pubDate>Fri, 20 Feb 2026 15:34:05 +0000</pubDate>
@@ -27,21 +55,21 @@
     <description>Understanding, Affirmation, and Belonging: Autistic Pupils Conceptualisations of Inclusion in Mainstream Secondary Schools</description>
   </item>
   <item>
-    <title>メンタルヘルス専門職者による大規模言語モデルおよび人間同僚への業務委託に関する認識</title>
+    <title>メンタルヘルス専門職者の大規模言語モデルおよび人間同僚への業務委託に関する認識</title>
     <link>https://osf.io/eymz5</link>
     <guid isPermaLink="false">https://osf.io/eymz5#ja</guid>
     <pubDate>Fri, 20 Feb 2026 10:33:05 +0000</pubDate>
     <description>Mental Health Professionals´ Perceptions of Outsourcing Tasks to Large Language Models and Human Colleagues</description>
   </item>
   <item>
-    <title>日常生活ストレス測定法の概観レビュー</title>
+    <title>日常生活ストレス測定法の概観的レビュー</title>
     <link>https://osf.io/k2x56</link>
     <guid isPermaLink="false">https://osf.io/k2x56#ja</guid>
     <pubDate>Fri, 20 Feb 2026 10:33:05 +0000</pubDate>
     <description>Daily life stress measurement strategies: A scoping review</description>
   </item>
   <item>
-    <title>聴覚的数認知は方位角、仰角、距離にわたる非空間的要因によって駆動される</title>
+    <title>聴覚における数の判断は方位角、仰角、距離を超えた非空間的要因によって駆動される</title>
     <link>https://osf.io/b39dw</link>
     <guid isPermaLink="false">https://osf.io/b39dw#ja</guid>
     <pubDate>Fri, 20 Feb 2026 10:33:01 +0000</pubDate>
@@ -69,14 +97,14 @@
     <description>Scoping review of research on evidence-based digital media interventions    for youth</description>
   </item>
   <item>
-    <title>未知への対峙：新興技術に関する認知の質的インタビュー研究</title>
+    <title>未知への対峙：新興技術に対する認知に関する質的インタビュー研究</title>
     <link>https://osf.io/ra7bc</link>
     <guid isPermaLink="false">https://osf.io/ra7bc#ja</guid>
     <pubDate>Thu, 19 Feb 2026 22:27:03 +0000</pubDate>
     <description>Facing the Unknown: A Qualitative Interview Study on Perceptions of Emerging Technologies</description>
   </item>
   <item>
-    <title>文化的差異か文化的一様性か？中国系ドイツ人の異なる集団における自発的特性推論の比較</title>
+    <title>文化的多様性か文化的一様性か？中国系ドイツ人の異なる集団における自発的特性推論の比較</title>
     <link>https://osf.io/n85ed</link>
     <guid isPermaLink="false">https://osf.io/n85ed#ja</guid>
     <pubDate>Thu, 19 Feb 2026 21:37:46 +0000</pubDate>
@@ -125,7 +153,7 @@
     <description>Inconclusive longitudinal associations between violence exposure and adolescent conduct problems: A comment on Swingler et al. (2026)</description>
   </item>
   <item>
-    <title>治療空間における比喩の使用とPTSD：現象学および実践的認知との対話</title>
+    <title>治療空間におけるメタファーの使用とPTSD：現象学および具現化認知との対話</title>
     <link>https://osf.io/xpbwu</link>
     <guid isPermaLink="false">https://osf.io/xpbwu#ja</guid>
     <pubDate>Thu, 19 Feb 2026 10:38:25 +0000</pubDate>
@@ -153,28 +181,28 @@
     <description>Pluralism within limits: How to make the idea of multiple NCC kinds useful</description>
   </item>
   <item>
-    <title>大学におけるジェンダー関連暴力防止のための演劇を用いた傍観者介入の効果：インターセクショナリティの視点から</title>
+    <title>大学におけるジェンダー関連暴力防止を目的とした演劇ベースの傍観者介入の効果：インターセクショナリティの視点から</title>
     <link>https://osf.io/xkzg9</link>
     <guid isPermaLink="false">https://osf.io/xkzg9#ja</guid>
     <pubDate>Wed, 18 Feb 2026 17:35:07 +0000</pubDate>
     <description>Effects of a Theater-Based Bystander Intervention to Prevent Gender-Related Violence in Universities: An Intersectional Approach</description>
   </item>
   <item>
-    <title>知識の種類と指導の選択：概念学習における手続き記憶の重要性</title>
+    <title>知識の種類と指導選択：概念学習における手続き記憶の重要性</title>
     <link>https://osf.io/ezu73</link>
     <guid isPermaLink="false">https://osf.io/ezu73#ja</guid>
     <pubDate>Wed, 18 Feb 2026 17:35:07 +0000</pubDate>
     <description>Types of knowledge and instructional choices: The importance of procedural memory for learning concepts</description>
   </item>
   <item>
-    <title>主観的心理的幸福感尺度による女性の産後メンタルヘルス測定の有効性検証</title>
+    <title>主観的心理的幸福感尺度による女性の産後メンタルヘルス測定の有効性</title>
     <link>https://osf.io/r2y9b</link>
     <guid isPermaLink="false">https://osf.io/r2y9b#ja</guid>
     <pubDate>Wed, 18 Feb 2026 17:35:06 +0000</pubDate>
     <description>Effectiveness of Measuring Women&#x27;s Postpartum Mental Health With a Subjective Psychological Well-Being Scale</description>
   </item>
   <item>
-    <title>聞き手は話者の語用的能力に動的に適応する</title>
+    <title>聞き手は話者の語用能力に動的に適応する</title>
     <link>https://osf.io/jce38</link>
     <guid isPermaLink="false">https://osf.io/jce38#ja</guid>
     <pubDate>Wed, 18 Feb 2026 17:35:06 +0000</pubDate>
@@ -188,21 +216,21 @@
     <description>AI-Mediated Mental Health Support: The Role of Attachment Orientation and Psychological Distress</description>
   </item>
   <item>
-    <title>極端主義の時代における分極化研究の課題</title>
+    <title>過激主義の時代における分極化研究の課題</title>
     <link>https://osf.io/y89gn</link>
     <guid isPermaLink="false">https://osf.io/y89gn#ja</guid>
     <pubDate>Wed, 18 Feb 2026 17:35:05 +0000</pubDate>
     <description>The Problem with Polarization Research in an Age of Extremism</description>
   </item>
   <item>
-    <title>持続的注意の向上による課題経験が先行干渉を軽減する</title>
+    <title>持続的注意の増加による課題経験が先行干渉を軽減する効果</title>
     <link>https://osf.io/w4zr8</link>
     <guid isPermaLink="false">https://osf.io/w4zr8#ja</guid>
     <pubDate>Wed, 18 Feb 2026 17:35:05 +0000</pubDate>
     <description>Task Experience Diminishes Proactive Interference by Increasing Sustained Attention</description>
   </item>
   <item>
-    <title>紛争に適応した脳？脅威知覚と戦争支持を結ぶ神経認知メカニズム</title>
+    <title>紛争への神経認知的素因：脅威知覚と戦争支持の関連メカニズム</title>
     <link>https://osf.io/42y9z</link>
     <guid isPermaLink="false">https://osf.io/42y9z#ja</guid>
     <pubDate>Wed, 18 Feb 2026 17:35:04 +0000</pubDate>
@@ -223,7 +251,7 @@
     <description>Unraveling the Connection Between Psychopathy Traits and Risk Behavior Tendencies</description>
   </item>
   <item>
-    <title>青少年の繁栄：学校および仲間の支援、社会的脳の発達、ポジティブ感情に関する縦断的研究</title>
+    <title>青少年の繁栄：学校・仲間の支援、社会的脳の発達、及びポジティブ感情の縦断的研究</title>
     <link>https://osf.io/hmzvb</link>
     <guid isPermaLink="false">https://osf.io/hmzvb#ja</guid>
     <pubDate>Wed, 18 Feb 2026 16:30:01 +0000</pubDate>
@@ -244,7 +272,7 @@
     <description>Infants’ Motor Synchronization to Speech</description>
   </item>
   <item>
-    <title>混沌の中の秩序：ユーモアの進化的謎に対する解明</title>
+    <title>混沌の中の秩序：ユーモアの進化的謎に対する一つの解答</title>
     <link>https://osf.io/fp5ch</link>
     <guid isPermaLink="false">https://osf.io/fp5ch#ja</guid>
     <pubDate>Wed, 18 Feb 2026 10:39:49 +0000</pubDate>
@@ -258,14 +286,14 @@
     <description>Reproductive Health Self-Care in Ghana: A Qualitative Analysis of Factors Influencing Practice</description>
   </item>
   <item>
-    <title>新しい社会的アイデンティティが真偽情報の信念形成に与える影響</title>
+    <title>新たな社会的アイデンティティが真偽情報の信念形成に与える影響</title>
     <link>https://osf.io/s5t6c</link>
     <guid isPermaLink="false">https://osf.io/s5t6c#ja</guid>
     <pubDate>Wed, 18 Feb 2026 10:39:48 +0000</pubDate>
     <description>Novel Social Identities Shape Belief in True and False Information</description>
   </item>
   <item>
-    <title>単一応答および多重応答課題におけるシミュレーションベースの証拠蓄積モデル：eamパッケージの紹介</title>
+    <title>単一および複数応答課題におけるシミュレーションベースの証拠蓄積モデル：eamパッケージの紹介</title>
     <link>https://osf.io/dg7c2</link>
     <guid isPermaLink="false">https://osf.io/dg7c2#ja</guid>
     <pubDate>Wed, 18 Feb 2026 10:39:48 +0000</pubDate>
@@ -279,14 +307,14 @@
     <description>Working Paper- A Qualitative Analysis of Women Researchers’ Experiences within Gender-Based Violence Research</description>
   </item>
   <item>
-    <title>人格病理における顔の感情認識、低次顔処理および結晶性知能：多方法アプローチによる研究</title>
+    <title>人格病理における顔の感情認識、下位顔処理および結晶性知能：多方法アプローチによる研究</title>
     <link>https://osf.io/hyx9a</link>
     <guid isPermaLink="false">https://osf.io/hyx9a#ja</guid>
     <pubDate>Wed, 18 Feb 2026 10:39:47 +0000</pubDate>
     <description>Facial Emotion Recognition, Lower-Order Face Processing and Crystallized Intelligence in Personality Pathology: A Multimethod Study</description>
   </item>
   <item>
-    <title>職場環境における知覚された脱領域化尺度（PDS）の開発と心理計量的検証</title>
+    <title>職場環境における知覚された脱領域化尺度（PDS）の開発と心理計量学的検証</title>
     <link>https://osf.io/s8xjy</link>
     <guid isPermaLink="false">https://osf.io/s8xjy#ja</guid>
     <pubDate>Wed, 18 Feb 2026 09:41:50 +0000</pubDate>
@@ -300,21 +328,21 @@
     <description>Shape features of white matter tracts associated with post-surgical speech production outcomes</description>
   </item>
   <item>
-    <title>信頼性評価に必要な情報の不足：集計データの可視化は個別データの可視化よりも信頼性が低く評価される</title>
+    <title>信頼性評価に必要な情報不足：集計データの可視化は個別データの可視化よりも信頼性が低く評価される</title>
     <link>https://osf.io/gmy4s</link>
     <guid isPermaLink="false">https://osf.io/gmy4s#ja</guid>
     <pubDate>Wed, 18 Feb 2026 09:41:50 +0000</pubDate>
     <description>Insufficient Information To Assess Trustworthiness: Visualizations of Aggregates Rated Less Trustworthy than Visualizations of Individual Data</description>
   </item>
   <item>
-    <title>再挑戦する意欲は持続するか？インテリジェント・チュータリング・システムにおける持続性支援スキャフォールドの大規模ランダム化比較試験</title>
+    <title>再挑戦するか？インテリジェント・チュータリング・システムにおける持続性を支援するスキャフォールドの大規模ランダム化比較試験</title>
     <link>https://osf.io/bf287</link>
     <guid isPermaLink="false">https://osf.io/bf287#ja</guid>
     <pubDate>Tue, 17 Feb 2026 23:31:27 +0000</pubDate>
     <description>Will They Try Again? A Large-Scale RCT on Scaffolds that Support Persistence in an Intelligent Tutoring System</description>
   </item>
   <item>
-    <title>表象的リテラシーと手続き的リテラシーが音声語認識に及ぼす影響の検討：心理計量ネットワーク分析と構造方程式モデリングによる証拠</title>
+    <title>表象的リテラシーと手続き的リテラシーが音声語認識に及ぼす影響の検討：心理計量ネットワーク分析および構造方程式モデリングによる証拠</title>
     <link>https://osf.io/xvukf</link>
     <guid isPermaLink="false">https://osf.io/xvukf#ja</guid>
     <pubDate>Tue, 17 Feb 2026 23:31:27 +0000</pubDate>
@@ -326,34 +354,6 @@
     <guid isPermaLink="false">https://osf.io/pdfbq#ja</guid>
     <pubDate>Tue, 17 Feb 2026 23:31:27 +0000</pubDate>
     <description>Toward an Integrative Theoretical Framework of Status Anxiety</description>
-  </item>
-  <item>
-    <title>運動と認知に関する50年の研究の再評価の必要性</title>
-    <link>https://osf.io/4j69r</link>
-    <guid isPermaLink="false">https://osf.io/4j69r#ja</guid>
-    <pubDate>Tue, 17 Feb 2026 23:31:27 +0000</pubDate>
-    <description>Five decades of research on exercise and cognition demand a critical reassessment</description>
-  </item>
-  <item>
-    <title>成功する行動介入の特徴：メガスタディ効果のデータ駆動型分析</title>
-    <link>https://osf.io/cq485</link>
-    <guid isPermaLink="false">https://osf.io/cq485#ja</guid>
-    <pubDate>Tue, 17 Feb 2026 23:31:26 +0000</pubDate>
-    <description>Features of Successful Behavioral Interventions: A Data Driven Analysis of Megastudy Effects</description>
-  </item>
-  <item>
-    <title>仮想現実における心理測定構成概念としてのプレゼンスと没入感の効果評価</title>
-    <link>https://osf.io/5mcxn</link>
-    <guid isPermaLink="false">https://osf.io/5mcxn#ja</guid>
-    <pubDate>Tue, 17 Feb 2026 22:57:49 +0000</pubDate>
-    <description>Assessment of the Effect of Presence and Immersion as Psychometric Constructs in Virtual Reality</description>
-  </item>
-  <item>
-    <title>課題難易度、連続順序効果、および子どもの作業記憶における誤答パターン：大規模データセットからの知見</title>
-    <link>https://osf.io/z3bjn</link>
-    <guid isPermaLink="false">https://osf.io/z3bjn#ja</guid>
-    <pubDate>Tue, 17 Feb 2026 22:57:49 +0000</pubDate>
-    <description>Task Difficulty, Serial Order Effects, and Error Patterns in Children’s Working Memory: Insights from a Large-Scale Dataset</description>
   </item>
 </channel>
 </rss>
