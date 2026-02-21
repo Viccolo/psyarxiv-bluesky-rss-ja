@@ -6,6 +6,27 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>自己強制的コミットメント：約束遵守の二重過程モデル</title>
+    <link>https://osf.io/ty9hv</link>
+    <guid isPermaLink="false">https://osf.io/ty9hv#ja</guid>
+    <pubDate>Sat, 21 Feb 2026 17:49:24 +0000</pubDate>
+    <description>Self-Enforcing Commitment: A Dual-Process Account of Promise-Keeping</description>
+  </item>
+  <item>
+    <title>言語を超えた音声知覚：話者間の類似性の低下と話者内の同一性の安定性</title>
+    <link>https://osf.io/w3jfc</link>
+    <guid isPermaLink="false">https://osf.io/w3jfc#ja</guid>
+    <pubDate>Sat, 21 Feb 2026 17:49:24 +0000</pubDate>
+    <description>Voice perception across languages: Reduced similarity between speakers, stable identity within speakers</description>
+  </item>
+  <item>
+    <title>エネルギー転換における次なる課題としてのグリーン・グリーン対立</title>
+    <link>https://osf.io/qzvdr</link>
+    <guid isPermaLink="false">https://osf.io/qzvdr#ja</guid>
+    <pubDate>Sat, 21 Feb 2026 17:49:23 +0000</pubDate>
+    <description>Green–green conflict as the next frontier in energy transition challenges</description>
+  </item>
+  <item>
     <title>インドのセラピストは実践において無条件の肯定的配慮を示しているか？予備的研究</title>
     <link>https://osf.io/df8rm</link>
     <guid isPermaLink="false">https://osf.io/df8rm#ja</guid>
@@ -20,14 +41,14 @@
     <description>The unique limitations of BOLD-fMRI in the study of response inhibition</description>
   </item>
   <item>
-    <title>言語的および非言語的指導行動が自然会話における成人学習に与える共同影響</title>
+    <title>言語的および非言語的指導行動が自然会話における成人学習に共同で影響を与える</title>
     <link>https://osf.io/cs2fp</link>
     <guid isPermaLink="false">https://osf.io/cs2fp#ja</guid>
     <pubDate>Sat, 21 Feb 2026 14:22:19 +0000</pubDate>
     <description>Verbal and non-verbal teaching behaviours jointly shape adult learning in naturalistic conversation</description>
   </item>
   <item>
-    <title>抽象的な事象表象を構築するために言語モデルは必要か？</title>
+    <title>抽象的な出来事表象を構築するために言語モデルは必要か？</title>
     <link>https://osf.io/kngh8</link>
     <guid isPermaLink="false">https://osf.io/kngh8#ja</guid>
     <pubDate>Sat, 21 Feb 2026 14:22:19 +0000</pubDate>
@@ -41,7 +62,7 @@
     <description>Cognitive Debt in AI-Augmented Research: Evidence from Neuroscience and Implications for Knowledge Production</description>
   </item>
   <item>
-    <title>スペイン語・英語二言語話者の児童における読字困難リスクの予測：幼稚園児の口頭言語能力と初期リテラシーによる分類精度</title>
+    <title>スペイン語・英語二言語話者の幼児における読字困難リスク予測：幼稚園時の口頭言語能力と初期識字能力の分類精度</title>
     <link>https://osf.io/x476w</link>
     <guid isPermaLink="false">https://osf.io/x476w#ja</guid>
     <pubDate>Fri, 20 Feb 2026 21:20:20 +0000</pubDate>
@@ -55,7 +76,7 @@
     <description>Cooperation investments: Building capacity and signaling intent</description>
   </item>
   <item>
-    <title>知覚された慢性ストレスは意思決定能力を本当に損なうのか？異なる計算負荷下での意思決定に関する証拠</title>
+    <title>知覚された慢性的ストレスは意思決定能力を本当に損なうのか？異なる計算負荷下での意思決定に関する証拠</title>
     <link>https://osf.io/up5wx</link>
     <guid isPermaLink="false">https://osf.io/up5wx#ja</guid>
     <pubDate>Fri, 20 Feb 2026 21:20:19 +0000</pubDate>
@@ -69,14 +90,14 @@
     <description>Race Against the Machine: Artificial Intelligence, Existential Risk, and Why We Should Pay Attention to the Warnings from Silicon Valley</description>
   </item>
   <item>
-    <title>成人期における異人種間接触の規範的傾向のマッピング：近接はするが親密ではない？</title>
+    <title>成人期における異人種間接触の規範的傾向のマッピング：近接せずに周辺を巡る関係</title>
     <link>https://osf.io/djesa</link>
     <guid isPermaLink="false">https://osf.io/djesa#ja</guid>
     <pubDate>Fri, 20 Feb 2026 21:20:18 +0000</pubDate>
     <description>Around but not close? Mapping normative trends in cross-race contact during adulthood</description>
   </item>
   <item>
-    <title>建築的移行における空間知覚：天井高の圧縮・拡張効果に関する心理計測学的研究</title>
+    <title>建築的移行における空間知覚：天井高の圧縮-拡張効果に関する心理計測学的研究</title>
     <link>https://osf.io/rn896</link>
     <guid isPermaLink="false">https://osf.io/rn896#ja</guid>
     <pubDate>Fri, 20 Feb 2026 21:20:18 +0000</pubDate>
@@ -90,7 +111,7 @@
     <description>The Physical and Mental Metaphors (PMM) task and its validation in schizophrenia: a tool for rapid assessment of figurative language comprehension, between pragmatics and symptoms</description>
   </item>
   <item>
-    <title>失読症および吃音における音韻障害の本質：音素、意味、デザイン流暢性課題からの証拠</title>
+    <title>失読症と言語障害における音韻障害の本質：音素、意味、デザイン流暢性課題からの証拠</title>
     <link>https://osf.io/r8et4</link>
     <guid isPermaLink="false">https://osf.io/r8et4#ja</guid>
     <pubDate>Fri, 20 Feb 2026 21:20:17 +0000</pubDate>
@@ -111,7 +132,7 @@
     <description>An emic way of examining morality based on Moral Foundations Theory: development and validation of the Moral Foundations Patterns Questionnaire in Japan</description>
   </item>
   <item>
-    <title>多層データにおける木構造機械学習法：予測変数の階層とクラスタリングが予測および推論に与える影響</title>
+    <title>多層データにおけるツリーベース機械学習手法：予測変数の階層とクラスタリングが予測および推論に与える影響</title>
     <link>https://osf.io/bjc3g</link>
     <guid isPermaLink="false">https://osf.io/bjc3g#ja</guid>
     <pubDate>Fri, 20 Feb 2026 17:33:56 +0000</pubDate>
@@ -139,7 +160,7 @@
     <description>Jingle All the Way? Pleasant and Energized Positive Affect Show Differential Longitudinal Relationships with Life Satisfaction</description>
   </item>
   <item>
-    <title>アスリートの栄養に影響を与える心理的要因：青少年およびエリートスポーツにおける実践的示唆とコーチング指針</title>
+    <title>アスリートの栄養に影響を与える心理的要因：青少年およびエリートスポーツにおける実践的意義とコーチング指針</title>
     <link>https://osf.io/uhykf</link>
     <guid isPermaLink="false">https://osf.io/uhykf#ja</guid>
     <pubDate>Fri, 20 Feb 2026 16:32:49 +0000</pubDate>
@@ -174,28 +195,28 @@
     <description>Mental Health Professionals´ Perceptions of Outsourcing Tasks to Large Language Models and Human Colleagues</description>
   </item>
   <item>
-    <title>日常生活ストレス測定法の概観レビュー</title>
+    <title>日常生活ストレス測定法の概観的レビュー</title>
     <link>https://osf.io/k2x56</link>
     <guid isPermaLink="false">https://osf.io/k2x56#ja</guid>
     <pubDate>Fri, 20 Feb 2026 10:33:05 +0000</pubDate>
     <description>Daily life stress measurement strategies: A scoping review</description>
   </item>
   <item>
-    <title>聴覚的数認知は方位角、高度、距離を超えた非空間的要因によって駆動される</title>
+    <title>聴覚的数認知は方位角、仰角、距離にわたる非空間的要因によって駆動される</title>
     <link>https://osf.io/b39dw</link>
     <guid isPermaLink="false">https://osf.io/b39dw#ja</guid>
     <pubDate>Fri, 20 Feb 2026 10:33:01 +0000</pubDate>
     <description>Auditory Numerosity Judgement is Driven by Non-Spatial Factors Across Azimuth, Elevation, and Distance</description>
   </item>
   <item>
-    <title>自傷行為を行う若年者の家族：経験とニーズに関する混合方法系統的レビュー</title>
+    <title>自傷行為を行う若年者の家族：経験とニーズに関する混合方法による系統的レビュー</title>
     <link>https://osf.io/s5avb</link>
     <guid isPermaLink="false">https://osf.io/s5avb#ja</guid>
     <pubDate>Fri, 20 Feb 2026 01:47:38 +0000</pubDate>
     <description>Families of young people who self-harm: A mixed-methods systematic review of their experiences and needs</description>
   </item>
   <item>
-    <title>「彼らは私たちのペットを食べている！」：嫌悪感と残酷さの知覚が偏見を増幅させるメカニズム</title>
+    <title>「彼らは私たちのペットを食べている！」：嫌悪感と残酷さの知覚が偏見を増幅させるとき</title>
     <link>https://osf.io/ry85k</link>
     <guid isPermaLink="false">https://osf.io/ry85k#ja</guid>
     <pubDate>Fri, 20 Feb 2026 01:47:38 +0000</pubDate>
@@ -230,7 +251,7 @@
     <description>The ambiguous conceptualization of stress: stressor, stress response, and health outcomes</description>
   </item>
   <item>
-    <title>もっと勝てたはず：大きな機会損失が暗号通貨クラッシュギャンブルにおけるその後のリスクテイクを増加させる</title>
+    <title>もっと勝てたはず：大きな取り逃がし勝利が暗号通貨クラッシュギャンブルにおけるその後のリスクテイクを増加させる</title>
     <link>https://osf.io/yr6b8</link>
     <guid isPermaLink="false">https://osf.io/yr6b8#ja</guid>
     <pubDate>Thu, 19 Feb 2026 21:37:46 +0000</pubDate>
@@ -244,7 +265,7 @@
     <description>Designing for Authentic Inclusion: A Child-Centred, Neurodiversity-Affirming Evaluation Framework for Educational Technologies</description>
   </item>
   <item>
-    <title>画像再現法による幾何学的視覚幻覚の定量的特徴付け</title>
+    <title>画像再現手法による幾何学的視覚幻覚の定量的特徴付け</title>
     <link>https://osf.io/2gtsy</link>
     <guid isPermaLink="false">https://osf.io/2gtsy#ja</guid>
     <pubDate>Thu, 19 Feb 2026 10:38:26 +0000</pubDate>
@@ -265,7 +286,7 @@
     <description>Inconclusive longitudinal associations between violence exposure and adolescent conduct problems: A comment on Swingler et al. (2026)</description>
   </item>
   <item>
-    <title>治療空間における比喩の使用とPTSD：現象学およびエナクティブ認知との対話</title>
+    <title>治療空間における比喩の使用とPTSD：現象学および実践的認知との対話</title>
     <link>https://osf.io/xpbwu</link>
     <guid isPermaLink="false">https://osf.io/xpbwu#ja</guid>
     <pubDate>Thu, 19 Feb 2026 10:38:25 +0000</pubDate>
@@ -307,7 +328,7 @@
     <description>Types of knowledge and instructional choices: The importance of procedural memory for learning concepts</description>
   </item>
   <item>
-    <title>主観的心理的幸福感尺度による女性の産後精神健康測定の有効性</title>
+    <title>主観的心理的幸福感尺度による女性の産後メンタルヘルス測定の有効性検証</title>
     <link>https://osf.io/r2y9b</link>
     <guid isPermaLink="false">https://osf.io/r2y9b#ja</guid>
     <pubDate>Wed, 18 Feb 2026 17:35:06 +0000</pubDate>
@@ -333,27 +354,6 @@
     <guid isPermaLink="false">https://osf.io/y89gn#ja</guid>
     <pubDate>Wed, 18 Feb 2026 17:35:05 +0000</pubDate>
     <description>The Problem with Polarization Research in an Age of Extremism</description>
-  </item>
-  <item>
-    <title>課題経験は持続的注意を高めることにより先行干渉を軽減する</title>
-    <link>https://osf.io/w4zr8</link>
-    <guid isPermaLink="false">https://osf.io/w4zr8#ja</guid>
-    <pubDate>Wed, 18 Feb 2026 17:35:05 +0000</pubDate>
-    <description>Task Experience Diminishes Proactive Interference by Increasing Sustained Attention</description>
-  </item>
-  <item>
-    <title>紛争への神経認知的素因：脅威知覚と戦争支持の関連メカニズム</title>
-    <link>https://osf.io/42y9z</link>
-    <guid isPermaLink="false">https://osf.io/42y9z#ja</guid>
-    <pubDate>Wed, 18 Feb 2026 17:35:04 +0000</pubDate>
-    <description>Wired for Conflict? Neurocognitive Mechanisms Linking Threat Perception and Support for War</description>
-  </item>
-  <item>
-    <title>メンタルヘルスにおけるAIと人間の反応：二つの実験研究における共感、実用性、期待の検討</title>
-    <link>https://osf.io/v7ur3</link>
-    <guid isPermaLink="false">https://osf.io/v7ur3#ja</guid>
-    <pubDate>Wed, 18 Feb 2026 16:30:07 +0000</pubDate>
-    <description>AI and Human Responses in Mental Health: Empathy, Utility, and Expectation in Two Experimental Studies</description>
   </item>
 </channel>
 </rss>
