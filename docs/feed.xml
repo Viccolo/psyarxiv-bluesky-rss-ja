@@ -6,6 +6,20 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>言語的および非言語的指導行動が自然会話における成人学習に共同で影響を与える</title>
+    <link>https://osf.io/cs2fp</link>
+    <guid isPermaLink="false">https://osf.io/cs2fp#ja</guid>
+    <pubDate>Sat, 21 Feb 2026 14:22:19 +0000</pubDate>
+    <description>Verbal and non-verbal teaching behaviours jointly shape adult learning in naturalistic conversation</description>
+  </item>
+  <item>
+    <title>抽象的事象表象の構築に言語モデルは必要か？</title>
+    <link>https://osf.io/kngh8</link>
+    <guid isPermaLink="false">https://osf.io/kngh8#ja</guid>
+    <pubDate>Sat, 21 Feb 2026 14:22:19 +0000</pubDate>
+    <description>Is a linguistic model needed to build abstract event representations?</description>
+  </item>
+  <item>
     <title>AI拡張研究における認知的負債：神経科学からの証拠と知識生産への示唆</title>
     <link>https://osf.io/8hbp9</link>
     <guid isPermaLink="false">https://osf.io/8hbp9#ja</guid>
@@ -13,21 +27,21 @@
     <description>Cognitive Debt in AI-Augmented Research: Evidence from Neuroscience and Implications for Knowledge Production</description>
   </item>
   <item>
-    <title>スペイン語・英語話者の幼児における読字困難リスクの予測：幼稚園児の口頭言語能力と初期リテラシーの分類精度</title>
+    <title>スペイン語・英語二言語話者の幼児における読字困難リスクの予測：幼稚園児の口頭言語能力と初期識字能力による分類精度の検証</title>
     <link>https://osf.io/x476w</link>
     <guid isPermaLink="false">https://osf.io/x476w#ja</guid>
     <pubDate>Fri, 20 Feb 2026 21:20:20 +0000</pubDate>
     <description>Predicting Risk for Reading Difficulty among Spanish-English Speaking Students: Classification Accuracy of Kindergarten Oral Language and Early Literacy</description>
   </item>
   <item>
-    <title>協力的投資：能力構築と意図のシグナリング</title>
+    <title>協力への投資：能力構築と意図のシグナリング</title>
     <link>https://osf.io/27tc4</link>
     <guid isPermaLink="false">https://osf.io/27tc4#ja</guid>
     <pubDate>Fri, 20 Feb 2026 21:20:19 +0000</pubDate>
     <description>Cooperation investments: Building capacity and signaling intent</description>
   </item>
   <item>
-    <title>知覚された慢性的ストレスは本当に意思決定能力を損なうのか？異なる計算負荷下での意思決定に関する証拠</title>
+    <title>知覚された慢性的ストレスは意思決定能力を本当に損なうのか？異なる計算負荷下での意思決定に関する証拠</title>
     <link>https://osf.io/up5wx</link>
     <guid isPermaLink="false">https://osf.io/up5wx#ja</guid>
     <pubDate>Fri, 20 Feb 2026 21:20:19 +0000</pubDate>
@@ -41,7 +55,7 @@
     <description>Race Against the Machine: Artificial Intelligence, Existential Risk, and Why We Should Pay Attention to the Warnings from Silicon Valley</description>
   </item>
   <item>
-    <title>成人期における異人種間接触の規範的傾向のマッピング：近接はするが親密ではない？</title>
+    <title>成人期における異人種接触の規範的傾向のマッピング：近接ではなく周辺に留まる関係</title>
     <link>https://osf.io/djesa</link>
     <guid isPermaLink="false">https://osf.io/djesa#ja</guid>
     <pubDate>Fri, 20 Feb 2026 21:20:18 +0000</pubDate>
@@ -55,7 +69,7 @@
     <description>Spatial Perception in Architectural Transitions: A psychometric study of the Compression-Expansion effect in ceiling-height</description>
   </item>
   <item>
-    <title>身体的・精神的隠喩課題（PMM）と統合失調症における妥当性検証：語用論と症状の間における比喩理解の迅速評価ツール</title>
+    <title>身体的・精神的隠喩（PMM）課題と統合失調症における検証：語用論と症状の間に位置する比喩理解の迅速評価ツール</title>
     <link>https://osf.io/r9m57</link>
     <guid isPermaLink="false">https://osf.io/r9m57#ja</guid>
     <pubDate>Fri, 20 Feb 2026 21:20:18 +0000</pubDate>
@@ -69,7 +83,7 @@
     <description>The Nature of Phonological Impairments in Dyslexia and Stuttering: Evidence from Phonemic, Semantic, and Design Fluency Tasks</description>
   </item>
   <item>
-    <title>がんに関する誤情報が科学界に侵入する時：学術文献の事例研究</title>
+    <title>がんに関する誤情報が科学界に侵入する時：学術文献のケーススタディ</title>
     <link>https://osf.io/hrmyw</link>
     <guid isPermaLink="false">https://osf.io/hrmyw#ja</guid>
     <pubDate>Fri, 20 Feb 2026 21:20:17 +0000</pubDate>
@@ -83,14 +97,14 @@
     <description>An emic way of examining morality based on Moral Foundations Theory: development and validation of the Moral Foundations Patterns Questionnaire in Japan</description>
   </item>
   <item>
-    <title>多層データにおける木構造機械学習法：予測変数の階層およびクラスタリングが予測と推論に与える影響</title>
+    <title>多層データにおける木構造機械学習手法：予測変数の階層およびクラスタリングが予測と推論に与える影響</title>
     <link>https://osf.io/bjc3g</link>
     <guid isPermaLink="false">https://osf.io/bjc3g#ja</guid>
     <pubDate>Fri, 20 Feb 2026 17:33:56 +0000</pubDate>
     <description>Tree-based machine learning methods for multilevel data:  The impact of predictor levels and clustering on prediction and inference</description>
   </item>
   <item>
-    <title>STEMM教員の大規模クラス指導に関する認識</title>
+    <title>STEMM教員の大規模授業に対する教授観</title>
     <link>https://osf.io/e25c6</link>
     <guid isPermaLink="false">https://osf.io/e25c6#ja</guid>
     <pubDate>Fri, 20 Feb 2026 16:32:50 +0000</pubDate>
@@ -125,7 +139,7 @@
     <description>Motivational Alignment, Not Demographic Similarity, Predicts Narrative Interest</description>
   </item>
   <item>
-    <title>社会的望ましさの認知が異なる場合：多次元名義反応モデルにおける偽装の示唆</title>
+    <title>社会的望ましさの知覚が異なる場合：偽装行動の多次元名義反応モデルへの示唆</title>
     <link>https://osf.io/2cyja</link>
     <guid isPermaLink="false">https://osf.io/2cyja#ja</guid>
     <pubDate>Fri, 20 Feb 2026 15:34:05 +0000</pubDate>
@@ -139,14 +153,14 @@
     <description>Understanding, Affirmation, and Belonging: Autistic Pupils Conceptualisations of Inclusion in Mainstream Secondary Schools</description>
   </item>
   <item>
-    <title>メンタルヘルス専門職者による大規模言語モデルおよび人間同僚への業務委託に関する認識</title>
+    <title>メンタルヘルス専門職者の大規模言語モデルおよび人間同僚への業務委託に関する認識</title>
     <link>https://osf.io/eymz5</link>
     <guid isPermaLink="false">https://osf.io/eymz5#ja</guid>
     <pubDate>Fri, 20 Feb 2026 10:33:05 +0000</pubDate>
     <description>Mental Health Professionals´ Perceptions of Outsourcing Tasks to Large Language Models and Human Colleagues</description>
   </item>
   <item>
-    <title>日常生活ストレス測定法の概観レビュー</title>
+    <title>日常生活ストレス測定法の概観的レビュー</title>
     <link>https://osf.io/k2x56</link>
     <guid isPermaLink="false">https://osf.io/k2x56#ja</guid>
     <pubDate>Fri, 20 Feb 2026 10:33:05 +0000</pubDate>
@@ -160,7 +174,7 @@
     <description>Auditory Numerosity Judgement is Driven by Non-Spatial Factors Across Azimuth, Elevation, and Distance</description>
   </item>
   <item>
-    <title>自傷行為を行う若年者の家族：経験とニーズに関する混合研究法による系統的レビュー</title>
+    <title>自傷行為を行う若者の家族：経験とニーズに関する混合方法系統的レビュー</title>
     <link>https://osf.io/s5avb</link>
     <guid isPermaLink="false">https://osf.io/s5avb#ja</guid>
     <pubDate>Fri, 20 Feb 2026 01:47:38 +0000</pubDate>
@@ -174,7 +188,7 @@
     <description>“They’re Eating Our Pets!”:  When Disgust and Perceived Cruelty Combine to Heighten Prejudice</description>
   </item>
   <item>
-    <title>若年層を対象としたエビデンスに基づくデジタルメディア介入の研究に関するスコーピングレビュー</title>
+    <title>若年層を対象としたエビデンスに基づくデジタルメディア介入に関する研究のスコーピングレビュー</title>
     <link>https://osf.io/xq6eh</link>
     <guid isPermaLink="false">https://osf.io/xq6eh#ja</guid>
     <pubDate>Thu, 19 Feb 2026 22:27:05 +0000</pubDate>
@@ -237,7 +251,7 @@
     <description>Inconclusive longitudinal associations between violence exposure and adolescent conduct problems: A comment on Swingler et al. (2026)</description>
   </item>
   <item>
-    <title>治療空間における隠喩の使用とPTSD：現象学および実践的認知との対話</title>
+    <title>治療空間における比喩の使用とPTSD：現象学および具現化認知との対話</title>
     <link>https://osf.io/xpbwu</link>
     <guid isPermaLink="false">https://osf.io/xpbwu#ja</guid>
     <pubDate>Thu, 19 Feb 2026 10:38:25 +0000</pubDate>
@@ -265,7 +279,7 @@
     <description>Pluralism within limits: How to make the idea of multiple NCC kinds useful</description>
   </item>
   <item>
-    <title>大学におけるジェンダー関連暴力防止のための演劇ベース傍観者介入の効果：インターセクショナリティの視点から</title>
+    <title>大学におけるジェンダー関連暴力防止のための演劇を用いた傍観者介入の効果：インターセクショナリティの視点から</title>
     <link>https://osf.io/xkzg9</link>
     <guid isPermaLink="false">https://osf.io/xkzg9#ja</guid>
     <pubDate>Wed, 18 Feb 2026 17:35:07 +0000</pubDate>
@@ -286,28 +300,28 @@
     <description>Effectiveness of Measuring Women&#x27;s Postpartum Mental Health With a Subjective Psychological Well-Being Scale</description>
   </item>
   <item>
-    <title>聞き手は話者の語用的能力に動的に適応する</title>
+    <title>聞き手は話者の語用能力に動的に適応する</title>
     <link>https://osf.io/jce38</link>
     <guid isPermaLink="false">https://osf.io/jce38#ja</guid>
     <pubDate>Wed, 18 Feb 2026 17:35:06 +0000</pubDate>
     <description>Listeners Adapt Dynamically to Speakers&#x27; Pragmatic Competence</description>
   </item>
   <item>
-    <title>AIを活用したメンタルヘルス支援：愛着スタイルと心理的苦痛の役割</title>
+    <title>AIを介したメンタルヘルス支援：愛着スタイルと心理的苦痛の役割</title>
     <link>https://osf.io/vfz2s</link>
     <guid isPermaLink="false">https://osf.io/vfz2s#ja</guid>
     <pubDate>Wed, 18 Feb 2026 17:35:06 +0000</pubDate>
     <description>AI-Mediated Mental Health Support: The Role of Attachment Orientation and Psychological Distress</description>
   </item>
   <item>
-    <title>過激主義の時代における分極化研究の課題</title>
+    <title>極端主義の時代における分極化研究の課題</title>
     <link>https://osf.io/y89gn</link>
     <guid isPermaLink="false">https://osf.io/y89gn#ja</guid>
     <pubDate>Wed, 18 Feb 2026 17:35:05 +0000</pubDate>
     <description>The Problem with Polarization Research in an Age of Extremism</description>
   </item>
   <item>
-    <title>課題経験は持続的注意を高めることにより先行干渉を軽減する</title>
+    <title>持続的注意の向上による課題経験が先行干渉を軽減する</title>
     <link>https://osf.io/w4zr8</link>
     <guid isPermaLink="false">https://osf.io/w4zr8#ja</guid>
     <pubDate>Wed, 18 Feb 2026 17:35:05 +0000</pubDate>
@@ -335,25 +349,11 @@
     <description>Unraveling the Connection Between Psychopathy Traits and Risk Behavior Tendencies</description>
   </item>
   <item>
-    <title>青少年の繁栄：学校および仲間の支援、社会的脳の発達、ポジティブ感情に関する縦断的研究</title>
+    <title>青少年の繁栄：学校・仲間の支援、社会的脳の発達、及びポジティブ感情の縦断的研究</title>
     <link>https://osf.io/hmzvb</link>
     <guid isPermaLink="false">https://osf.io/hmzvb#ja</guid>
     <pubDate>Wed, 18 Feb 2026 16:30:01 +0000</pubDate>
     <description>Flourishing Adolescents: A Longitudinal Study of School and Peer Support, Social Brain Development, and Positive Affect</description>
-  </item>
-  <item>
-    <title>自己決定理論に基づく教師の動機付け言語のフレーズベース符号化フレームワーク</title>
-    <link>https://osf.io/kmqyu</link>
-    <guid isPermaLink="false">https://osf.io/kmqyu#ja</guid>
-    <pubDate>Wed, 18 Feb 2026 16:30:01 +0000</pubDate>
-    <description>Phrase-based Coding Framework for Teachers’ Motivational Language Based On Self-Determination Theory</description>
-  </item>
-  <item>
-    <title>乳児の言語に対する運動同期性</title>
-    <link>https://osf.io/w9eg5</link>
-    <guid isPermaLink="false">https://osf.io/w9eg5#ja</guid>
-    <pubDate>Wed, 18 Feb 2026 16:30:00 +0000</pubDate>
-    <description>Infants’ Motor Synchronization to Speech</description>
   </item>
 </channel>
 </rss>
