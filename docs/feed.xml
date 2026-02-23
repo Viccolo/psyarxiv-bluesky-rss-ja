@@ -6,6 +6,27 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>縦断データを用いた中国青少年の摂食障害予測：従来の機械学習と最新の深層学習手法の比較</title>
+    <link>https://osf.io/hrp37</link>
+    <guid isPermaLink="false">https://osf.io/hrp37#ja</guid>
+    <pubDate>Mon, 23 Feb 2026 17:35:57 +0000</pubDate>
+    <description>Predicting probable eating disorders in Chinese adolescents using longitudinal data: A comparison between traditional machine learning and modern deep learning approaches</description>
+  </item>
+  <item>
+    <title>機械的誘発による腰痛を有する健康者の恐怖回避および運動パターンのセンサー測定：実験的非介入研究のプロトコル</title>
+    <link>https://osf.io/32vps</link>
+    <guid isPermaLink="false">https://osf.io/32vps#ja</guid>
+    <pubDate>Mon, 23 Feb 2026 17:35:56 +0000</pubDate>
+    <description>Sensor-based measurement of fear avoidance and movement patterns of healthy individuals with mechanically induced lower back pain during movement tasks: study protocol for an experimental non-interventional study</description>
+  </item>
+  <item>
+    <title>エチオピア系イスラエル若年成人におけるマインドフルネスストレス低減法：ストレス、排除感、人種差別への対処</title>
+    <link>https://osf.io/9qj4g</link>
+    <guid isPermaLink="false">https://osf.io/9qj4g#ja</guid>
+    <pubDate>Mon, 23 Feb 2026 17:35:56 +0000</pubDate>
+    <description>Mindfulness-Based Stress Reduction for Ethiopian-Israeli Young Adults: Coping with Stress, Exclusion, and Racism</description>
+  </item>
+  <item>
     <title>覚醒を超えて：瞳孔変動、神経活動、および行動の関連性</title>
     <link>https://osf.io/mkdgc</link>
     <guid isPermaLink="false">https://osf.io/mkdgc#ja</guid>
@@ -27,21 +48,21 @@
     <description>The Fault in Our STARS: International Evidence that the Statistics Anxiety Rating Scale and the Revised Mathematics Anxiety Rating Scale Overlap</description>
   </item>
   <item>
-    <title>共有読書における語彙学習時の足場づくりと関与の連動性</title>
+    <title>共有読書における語彙学習の瞬間におけるスキャフォールディングと関与の連動性</title>
     <link>https://osf.io/5vt2a</link>
     <guid isPermaLink="false">https://osf.io/5vt2a#ja</guid>
     <pubDate>Sun, 22 Feb 2026 20:21:31 +0000</pubDate>
     <description>Scaffolding and engagement are coupled during shared book reading’s word-learning moments</description>
   </item>
   <item>
-    <title>判断の影に潜む：体系的レビューによる人間とAIの意思決定の全体像の把握</title>
+    <title>判断の影に潜む：体系的レビューによる人間とAIの意思決定の全体像の解明</title>
     <link>https://osf.io/7a9rh</link>
     <guid isPermaLink="false">https://osf.io/7a9rh#ja</guid>
     <pubDate>Sun, 22 Feb 2026 20:21:30 +0000</pubDate>
     <description>In the Shadow of Judgment: Mapping Out the Landscape of Human-AI Decision-Making Through a Systematic Review</description>
   </item>
   <item>
-    <title>性別ステレオタイプと従業員の仕事満足度</title>
+    <title>性別ステレオタイプと従業員の職務満足度</title>
     <link>https://osf.io/pvm7k</link>
     <guid isPermaLink="false">https://osf.io/pvm7k#ja</guid>
     <pubDate>Sun, 22 Feb 2026 11:43:40 +0000</pubDate>
@@ -55,28 +76,28 @@
     <description>Artificial intelligence applications supporting women’s career development: a scoping review</description>
   </item>
   <item>
-    <title>顧客フィードバックキオスクとアンケートを用いた同一演劇公演20回の観客体験測定</title>
+    <title>顧客フィードバックキオスクとアンケートを用いた同一演劇公演20回上演における観客体験の測定</title>
     <link>https://osf.io/d45nk</link>
     <guid isPermaLink="false">https://osf.io/d45nk#ja</guid>
     <pubDate>Sun, 22 Feb 2026 11:18:09 +0000</pubDate>
     <description>Measuring audience experience across 20 showings of the same theatre performance using customer feedback kiosks and a questionnaire</description>
   </item>
   <item>
-    <title>状況とモバイルセンシング手法の融合：個人－状況関係研究の展望</title>
+    <title>状況とモバイルセンシング手法の融合：個人-状況関係研究の展望</title>
     <link>https://osf.io/e4ksp</link>
     <guid isPermaLink="false">https://osf.io/e4ksp#ja</guid>
     <pubDate>Sun, 22 Feb 2026 11:18:09 +0000</pubDate>
     <description>Situations Meet Mobile Sensing Methods: Prospects for Research on Person-Situation Relations</description>
   </item>
   <item>
-    <title>効果の減衰、統計的アーティファクト、およびメタ分析における逆説</title>
+    <title>効果減衰、統計的アーティファクト、およびメタ分析の逆説</title>
     <link>https://osf.io/sb9e4</link>
     <guid isPermaLink="false">https://osf.io/sb9e4#ja</guid>
     <pubDate>Sun, 22 Feb 2026 11:18:08 +0000</pubDate>
     <description>Decline effects, statistical artifacts, and a meta-analytic paradox</description>
   </item>
   <item>
-    <title>楽観主義の部分的制御の危険性：パーソナリティと健康との関連性</title>
+    <title>楽観主義の部分的除去の危険性：パーソナリティと健康との関連性</title>
     <link>https://osf.io/dzs59</link>
     <guid isPermaLink="false">https://osf.io/dzs59#ja</guid>
     <pubDate>Sat, 21 Feb 2026 20:19:37 +0000</pubDate>
@@ -90,14 +111,14 @@
     <description>Go Cry to GPT: People Offload Empathy to AI</description>
   </item>
   <item>
-    <title>話し言葉認識の基盤となる次元性：学童期を通じた連続的発達</title>
+    <title>話し言葉認識の基底次元性：学童期を通じた連続的発達</title>
     <link>https://osf.io/u6y7j</link>
     <guid isPermaLink="false">https://osf.io/u6y7j#ja</guid>
     <pubDate>Sat, 21 Feb 2026 19:44:07 +0000</pubDate>
     <description>The Underlying Dimensionality of Spoken Word Recognition: Continuous development through the school-age years</description>
   </item>
   <item>
-    <title>欠落した要素：Nバック課題難易度プロトコルによる作業記憶適応的疲労の検証と能動的認知疲労誘発</title>
+    <title>欠落した要素：Nバック課題難易度プロトコルによる作業記憶適応性疲労の検証と能動的認知疲労誘発</title>
     <link>https://osf.io/h4n2w</link>
     <guid isPermaLink="false">https://osf.io/h4n2w#ja</guid>
     <pubDate>Sat, 21 Feb 2026 19:44:07 +0000</pubDate>
@@ -125,21 +146,21 @@
     <description>The Reading Brain from Womb to Classroom:  Typical and Atypical Development and Implications for a Preventative Educational Model</description>
   </item>
   <item>
-    <title>直接的な肯定的性的同意の障壁：ジェンダーの懸念と仲間およびパートナーの期待</title>
+    <title>直接的な肯定的性的同意の障壁：ジェンダーの問題と仲間およびパートナーの期待</title>
     <link>https://osf.io/w7exd</link>
     <guid isPermaLink="false">https://osf.io/w7exd#ja</guid>
     <pubDate>Sat, 21 Feb 2026 19:44:06 +0000</pubDate>
     <description>Barriers to Direct Affirmative Sexual Consent:  Gender Concerns and Peer and Partner Expectations</description>
   </item>
   <item>
-    <title>分散型廃水処理および再利用に対する嫌悪感、健康リスク認知、受容の社会技術的決定要因：インド・バンガロールにおける実験的研究</title>
+    <title>インド・バンガロールにおける分散型廃水処理および再利用の嫌悪感知覚、健康リスク認知、受容に関する社会技術的要因の実験的研究</title>
     <link>https://osf.io/6kcnj</link>
     <guid isPermaLink="false">https://osf.io/6kcnj#ja</guid>
     <pubDate>Sat, 21 Feb 2026 19:44:03 +0000</pubDate>
     <description>Socio-technical determinants of perceived disgust, health risk, and acceptance of decentralised wastewater treatment and reuse: An experimental study in Bengaluru, India.</description>
   </item>
   <item>
-    <title>人類進化における大脳発達前の長期的幼児期発達</title>
+    <title>幼児期優先：人類進化における大脳発達前の長期的発達期間</title>
     <link>https://osf.io/58v9b</link>
     <guid isPermaLink="false">https://osf.io/58v9b#ja</guid>
     <pubDate>Sat, 21 Feb 2026 18:28:53 +0000</pubDate>
@@ -160,14 +181,14 @@
     <description>Voice perception across languages: Reduced similarity between speakers, stable identity within speakers</description>
   </item>
   <item>
-    <title>エネルギー転換における次なる課題としてのグリーングリーンコンフリクト</title>
+    <title>エネルギー転換における次なる課題としてのグリーン・グリーン・コンフリクト</title>
     <link>https://osf.io/qzvdr</link>
     <guid isPermaLink="false">https://osf.io/qzvdr#ja</guid>
     <pubDate>Sat, 21 Feb 2026 17:49:23 +0000</pubDate>
     <description>Green–green conflict as the next frontier in energy transition challenges</description>
   </item>
   <item>
-    <title>インドのセラピストは実践において無条件の肯定的配慮を示しているか？パイロット研究</title>
+    <title>インドのセラピストは実践において無条件の肯定的配慮を示しているか？予備的研究</title>
     <link>https://osf.io/df8rm</link>
     <guid isPermaLink="false">https://osf.io/df8rm#ja</guid>
     <pubDate>Sat, 21 Feb 2026 14:51:00 +0000</pubDate>
@@ -181,7 +202,7 @@
     <description>The unique limitations of BOLD-fMRI in the study of response inhibition</description>
   </item>
   <item>
-    <title>言語的および非言語的教授行動が自然会話における成人学習に共同で影響を与える</title>
+    <title>言語的および非言語的指導行動が自然会話における成人学習に与える共同影響</title>
     <link>https://osf.io/cs2fp</link>
     <guid isPermaLink="false">https://osf.io/cs2fp#ja</guid>
     <pubDate>Sat, 21 Feb 2026 14:22:19 +0000</pubDate>
@@ -195,7 +216,7 @@
     <description>Is a linguistic model needed to build abstract event representations?</description>
   </item>
   <item>
-    <title>AI支援研究における認知的負債：神経科学からの証拠と知識創出への示唆</title>
+    <title>AI拡張研究における認知的負債：神経科学からの証拠と知識生産への示唆</title>
     <link>https://osf.io/8hbp9</link>
     <guid isPermaLink="false">https://osf.io/8hbp9#ja</guid>
     <pubDate>Fri, 20 Feb 2026 21:48:24 +0000</pubDate>
@@ -230,14 +251,14 @@
     <description>Race Against the Machine: Artificial Intelligence, Existential Risk, and Why We Should Pay Attention to the Warnings from Silicon Valley</description>
   </item>
   <item>
-    <title>成人期における異人種間接触の規範的傾向のマッピング：近接ではなく周辺に留まるか</title>
+    <title>成人期における異人種間接触の規範的傾向のマッピング：近接は避けられるのか</title>
     <link>https://osf.io/djesa</link>
     <guid isPermaLink="false">https://osf.io/djesa#ja</guid>
     <pubDate>Fri, 20 Feb 2026 21:20:18 +0000</pubDate>
     <description>Around but not close? Mapping normative trends in cross-race contact during adulthood</description>
   </item>
   <item>
-    <title>建築的移行における空間知覚：天井高の圧縮・拡張効果に関する心理計測的研究</title>
+    <title>建築的移行における空間知覚：天井高の圧縮・拡張効果に関する心理計測学的研究</title>
     <link>https://osf.io/rn896</link>
     <guid isPermaLink="false">https://osf.io/rn896#ja</guid>
     <pubDate>Fri, 20 Feb 2026 21:20:18 +0000</pubDate>
@@ -286,7 +307,7 @@
     <description>STEMM Teachers’ Conceptions of Teaching Large Classes</description>
   </item>
   <item>
-    <title>感覚起源に基づく予測的時間認知モデル</title>
+    <title>感覚起源に基づく予測的時間知覚モデル</title>
     <link>https://osf.io/2u5gb</link>
     <guid isPermaLink="false">https://osf.io/2u5gb#ja</guid>
     <pubDate>Fri, 20 Feb 2026 16:32:49 +0000</pubDate>
@@ -314,46 +335,25 @@
     <description>Motivational Alignment, Not Demographic Similarity, Predicts Narrative Interest</description>
   </item>
   <item>
-    <title>社会的望ましさの知覚が異なる場合：偽装の多次元名義反応モデルへの示唆</title>
+    <title>社会的望ましさの認知が異なる場合：偽装行動の多次元名義反応モデルへの示唆</title>
     <link>https://osf.io/2cyja</link>
     <guid isPermaLink="false">https://osf.io/2cyja#ja</guid>
     <pubDate>Fri, 20 Feb 2026 15:34:05 +0000</pubDate>
     <description>When Perceptions of Social Desirability Differ: Implications for the Multidimensional Nominal Response Model of Faking</description>
   </item>
   <item>
-    <title>理解、肯定、帰属感：自閉症の中学生における主流中学校でのインクルージョンの概念化</title>
+    <title>理解、肯定、帰属感：自閉症の中学生が捉える主流中学校におけるインクルージョンの概念</title>
     <link>https://osf.io/aw8xk</link>
     <guid isPermaLink="false">https://osf.io/aw8xk#ja</guid>
     <pubDate>Fri, 20 Feb 2026 15:34:02 +0000</pubDate>
     <description>Understanding, Affirmation, and Belonging: Autistic Pupils Conceptualisations of Inclusion in Mainstream Secondary Schools</description>
   </item>
   <item>
-    <title>メンタルヘルス専門職者による大規模言語モデルおよび人間の同僚への業務委託に関する認識</title>
+    <title>メンタルヘルス専門職者による大規模言語モデルおよび人間同僚への業務委託に関する認識</title>
     <link>https://osf.io/eymz5</link>
     <guid isPermaLink="false">https://osf.io/eymz5#ja</guid>
     <pubDate>Fri, 20 Feb 2026 10:33:05 +0000</pubDate>
     <description>Mental Health Professionals´ Perceptions of Outsourcing Tasks to Large Language Models and Human Colleagues</description>
-  </item>
-  <item>
-    <title>日常生活ストレス測定法の概観レビュー</title>
-    <link>https://osf.io/k2x56</link>
-    <guid isPermaLink="false">https://osf.io/k2x56#ja</guid>
-    <pubDate>Fri, 20 Feb 2026 10:33:05 +0000</pubDate>
-    <description>Daily life stress measurement strategies: A scoping review</description>
-  </item>
-  <item>
-    <title>聴覚的数認知は方位角、高度、距離にわたる非空間的要因によって駆動される</title>
-    <link>https://osf.io/b39dw</link>
-    <guid isPermaLink="false">https://osf.io/b39dw#ja</guid>
-    <pubDate>Fri, 20 Feb 2026 10:33:01 +0000</pubDate>
-    <description>Auditory Numerosity Judgement is Driven by Non-Spatial Factors Across Azimuth, Elevation, and Distance</description>
-  </item>
-  <item>
-    <title>自傷行為を行う若年者の家族：経験とニーズに関する混合法的系統的レビュー</title>
-    <link>https://osf.io/s5avb</link>
-    <guid isPermaLink="false">https://osf.io/s5avb#ja</guid>
-    <pubDate>Fri, 20 Feb 2026 01:47:38 +0000</pubDate>
-    <description>Families of young people who self-harm: A mixed-methods systematic review of their experiences and needs</description>
   </item>
 </channel>
 </rss>
