@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>共有読書における語彙学習の瞬間における足場づくりと関与の連動性</title>
+    <title>共有読書における語彙学習の瞬間におけるスキャフォールディングと関与の連動性</title>
     <link>https://osf.io/5vt2a</link>
     <guid isPermaLink="false">https://osf.io/5vt2a#ja</guid>
     <pubDate>Sun, 22 Feb 2026 20:21:31 +0000</pubDate>
@@ -27,28 +27,28 @@
     <description>Gender Stereotypes and Employees&#x27; Job Satisfaction</description>
   </item>
   <item>
-    <title>女性のキャリア発展を支援する人工知能応用：スコーピングレビュー</title>
+    <title>女性のキャリア開発を支援する人工知能応用：スコーピングレビュー</title>
     <link>https://osf.io/ef7q5</link>
     <guid isPermaLink="false">https://osf.io/ef7q5#ja</guid>
     <pubDate>Sun, 22 Feb 2026 11:18:09 +0000</pubDate>
     <description>Artificial intelligence applications supporting women’s career development: a scoping review</description>
   </item>
   <item>
-    <title>顧客フィードバックキオスクとアンケートを用いた同一演劇公演20回上演における観客体験の測定</title>
+    <title>顧客フィードバックキオスクと質問票を用いた同一演劇公演20回上演における観客体験の測定</title>
     <link>https://osf.io/d45nk</link>
     <guid isPermaLink="false">https://osf.io/d45nk#ja</guid>
     <pubDate>Sun, 22 Feb 2026 11:18:09 +0000</pubDate>
     <description>Measuring audience experience across 20 showings of the same theatre performance using customer feedback kiosks and a questionnaire</description>
   </item>
   <item>
-    <title>状況とモバイルセンシング手法の融合：個人－状況関係研究の展望</title>
+    <title>状況とモバイルセンシング手法の融合：個人―状況関係研究の展望</title>
     <link>https://osf.io/e4ksp</link>
     <guid isPermaLink="false">https://osf.io/e4ksp#ja</guid>
     <pubDate>Sun, 22 Feb 2026 11:18:09 +0000</pubDate>
     <description>Situations Meet Mobile Sensing Methods: Prospects for Research on Person-Situation Relations</description>
   </item>
   <item>
-    <title>減少効果、統計的アーティファクト、およびメタ分析の逆説</title>
+    <title>減衰効果、統計的アーティファクト、およびメタ分析における逆説</title>
     <link>https://osf.io/sb9e4</link>
     <guid isPermaLink="false">https://osf.io/sb9e4#ja</guid>
     <pubDate>Sun, 22 Feb 2026 11:18:08 +0000</pubDate>
@@ -76,14 +76,14 @@
     <description>The Underlying Dimensionality of Spoken Word Recognition: Continuous development through the school-age years</description>
   </item>
   <item>
-    <title>欠落した連結点：Nバック課題難易度プロトコルによる作業記憶適応的疲労の検証と能動的認知疲労誘発</title>
+    <title>欠落した連結点：Nバック課題難易度プロトコルを用いた作業記憶適応性疲労の検証による能動的認知疲労誘発</title>
     <link>https://osf.io/h4n2w</link>
     <guid isPermaLink="false">https://osf.io/h4n2w#ja</guid>
     <pubDate>Sat, 21 Feb 2026 19:44:07 +0000</pubDate>
     <description>The Missing Link: Validating the Working Memory Adaptive Fatigue with N-Back Difficulty Protocol for Active Cognitive Fatigue Induction</description>
   </item>
   <item>
-    <title>自閉症特性の高低による対人調整がコミュニケーション課題に及ぼす影響</title>
+    <title>自閉症特性の高低による対人調整がコミュニケーション課題に与える影響の検討</title>
     <link>https://osf.io/dmb4g</link>
     <guid isPermaLink="false">https://osf.io/dmb4g#ja</guid>
     <pubDate>Sat, 21 Feb 2026 19:44:07 +0000</pubDate>
@@ -104,7 +104,7 @@
     <description>The Reading Brain from Womb to Classroom:  Typical and Atypical Development and Implications for a Preventative Educational Model</description>
   </item>
   <item>
-    <title>直接的な肯定的性的同意の障壁：ジェンダーの問題と仲間およびパートナーの期待</title>
+    <title>直接的な肯定的性的同意の障壁：ジェンダーの懸念と仲間およびパートナーの期待</title>
     <link>https://osf.io/w7exd</link>
     <guid isPermaLink="false">https://osf.io/w7exd#ja</guid>
     <pubDate>Sat, 21 Feb 2026 19:44:06 +0000</pubDate>
@@ -118,7 +118,7 @@
     <description>Socio-technical determinants of perceived disgust, health risk, and acceptance of decentralised wastewater treatment and reuse: An experimental study in Bengaluru, India.</description>
   </item>
   <item>
-    <title>幼児期優先：人類進化における大脳発達前の長期的発達期間</title>
+    <title>人類進化における大脳発達前の長期的幼児期発達</title>
     <link>https://osf.io/58v9b</link>
     <guid isPermaLink="false">https://osf.io/58v9b#ja</guid>
     <pubDate>Sat, 21 Feb 2026 18:28:53 +0000</pubDate>
@@ -139,7 +139,7 @@
     <description>Voice perception across languages: Reduced similarity between speakers, stable identity within speakers</description>
   </item>
   <item>
-    <title>エネルギー転換における次なる課題としてのグリーングリーン対立</title>
+    <title>エネルギー転換における次なる課題としてのグリーン・グリーン・コンフリクト</title>
     <link>https://osf.io/qzvdr</link>
     <guid isPermaLink="false">https://osf.io/qzvdr#ja</guid>
     <pubDate>Sat, 21 Feb 2026 17:49:23 +0000</pubDate>
@@ -153,21 +153,21 @@
     <description>Do therapists in India express unconditional positive regard in their practice? A pilot study</description>
   </item>
   <item>
-    <title>反応抑制研究におけるBOLD-fMRIの独自の制約</title>
+    <title>反応抑制研究におけるBOLD-fMRIの特有の制約</title>
     <link>https://osf.io/64t3n</link>
     <guid isPermaLink="false">https://osf.io/64t3n#ja</guid>
     <pubDate>Sat, 21 Feb 2026 14:51:00 +0000</pubDate>
     <description>The unique limitations of BOLD-fMRI in the study of response inhibition</description>
   </item>
   <item>
-    <title>言語的および非言語的指導行動が自然会話における成人学習に共同で影響を与える</title>
+    <title>言語的および非言語的教授行動が自然会話における成人学習に及ぼす共同影響</title>
     <link>https://osf.io/cs2fp</link>
     <guid isPermaLink="false">https://osf.io/cs2fp#ja</guid>
     <pubDate>Sat, 21 Feb 2026 14:22:19 +0000</pubDate>
     <description>Verbal and non-verbal teaching behaviours jointly shape adult learning in naturalistic conversation</description>
   </item>
   <item>
-    <title>抽象的な出来事表象を構築するために言語モデルは必要か？</title>
+    <title>抽象的事象表象の構築に言語モデルは必要か？</title>
     <link>https://osf.io/kngh8</link>
     <guid isPermaLink="false">https://osf.io/kngh8#ja</guid>
     <pubDate>Sat, 21 Feb 2026 14:22:19 +0000</pubDate>
@@ -181,14 +181,14 @@
     <description>Cognitive Debt in AI-Augmented Research: Evidence from Neuroscience and Implications for Knowledge Production</description>
   </item>
   <item>
-    <title>スペイン語・英語二言語話者の幼児における読字困難リスクの予測：幼稚園児の口頭言語能力と初期識字能力による分類精度</title>
+    <title>スペイン語・英語二言語話者の児童における読字困難リスクの予測：幼稚園児の口頭言語能力と初期リテラシーの分類精度</title>
     <link>https://osf.io/x476w</link>
     <guid isPermaLink="false">https://osf.io/x476w#ja</guid>
     <pubDate>Fri, 20 Feb 2026 21:20:20 +0000</pubDate>
     <description>Predicting Risk for Reading Difficulty among Spanish-English Speaking Students: Classification Accuracy of Kindergarten Oral Language and Early Literacy</description>
   </item>
   <item>
-    <title>協力投資：能力構築と意図のシグナリング</title>
+    <title>協力への投資：能力構築と意図のシグナリング</title>
     <link>https://osf.io/27tc4</link>
     <guid isPermaLink="false">https://osf.io/27tc4#ja</guid>
     <pubDate>Fri, 20 Feb 2026 21:20:19 +0000</pubDate>
@@ -209,7 +209,7 @@
     <description>Race Against the Machine: Artificial Intelligence, Existential Risk, and Why We Should Pay Attention to the Warnings from Silicon Valley</description>
   </item>
   <item>
-    <title>成人期における異人種間接触の規範的傾向のマッピング：近接ではなく周辺に留まる関係</title>
+    <title>成人期における異人種間接触の規範的傾向のマッピング：近接はするが親密ではない？</title>
     <link>https://osf.io/djesa</link>
     <guid isPermaLink="false">https://osf.io/djesa#ja</guid>
     <pubDate>Fri, 20 Feb 2026 21:20:18 +0000</pubDate>
@@ -223,7 +223,7 @@
     <description>Spatial Perception in Architectural Transitions: A psychometric study of the Compression-Expansion effect in ceiling-height</description>
   </item>
   <item>
-    <title>身体的・精神的メタファー（PMM）課題と統合失調症における検証：語用論と症状の間に位置する比喩理解の迅速評価ツール</title>
+    <title>身体的・精神的メタファー課題（PMM）と統合失調症における検証：語用論と症状の間に位置する比喩理解の迅速評価ツール</title>
     <link>https://osf.io/r9m57</link>
     <guid isPermaLink="false">https://osf.io/r9m57#ja</guid>
     <pubDate>Fri, 20 Feb 2026 21:20:18 +0000</pubDate>
@@ -237,7 +237,7 @@
     <description>The Nature of Phonological Impairments in Dyslexia and Stuttering: Evidence from Phonemic, Semantic, and Design Fluency Tasks</description>
   </item>
   <item>
-    <title>がんに関する誤情報が科学界に侵入する時：学術文献の事例研究</title>
+    <title>がんに関する誤情報が科学界に侵入する際の検討：学術文献の事例研究</title>
     <link>https://osf.io/hrmyw</link>
     <guid isPermaLink="false">https://osf.io/hrmyw#ja</guid>
     <pubDate>Fri, 20 Feb 2026 21:20:17 +0000</pubDate>
@@ -279,14 +279,14 @@
     <description>Jingle All the Way? Pleasant and Energized Positive Affect Show Differential Longitudinal Relationships with Life Satisfaction</description>
   </item>
   <item>
-    <title>アスリートの栄養に影響を与える心理的要因：青少年およびエリートスポーツにおける実践的意義とコーチング指針</title>
+    <title>アスリートの栄養に影響を与える心理的要因：青少年およびエリートスポーツにおける実践的示唆とコーチング指針</title>
     <link>https://osf.io/uhykf</link>
     <guid isPermaLink="false">https://osf.io/uhykf#ja</guid>
     <pubDate>Fri, 20 Feb 2026 16:32:49 +0000</pubDate>
     <description>Psychological factors influencing nutrition in athletes: practical implications and coaching guidelines for youth and elite sports</description>
   </item>
   <item>
-    <title>動機的一致性が物語への関心を予測し、人口統計的類似性は予測しない</title>
+    <title>動機的一致性が物語への関心を予測し、人口統計的類似性は影響しない</title>
     <link>https://osf.io/28nrx</link>
     <guid isPermaLink="false">https://osf.io/28nrx#ja</guid>
     <pubDate>Fri, 20 Feb 2026 15:34:05 +0000</pubDate>
@@ -314,7 +314,7 @@
     <description>Mental Health Professionals´ Perceptions of Outsourcing Tasks to Large Language Models and Human Colleagues</description>
   </item>
   <item>
-    <title>日常生活ストレス測定戦略の概観レビュー</title>
+    <title>日常生活ストレス測定法の概観的レビュー</title>
     <link>https://osf.io/k2x56</link>
     <guid isPermaLink="false">https://osf.io/k2x56#ja</guid>
     <pubDate>Fri, 20 Feb 2026 10:33:05 +0000</pubDate>
@@ -328,7 +328,7 @@
     <description>Auditory Numerosity Judgement is Driven by Non-Spatial Factors Across Azimuth, Elevation, and Distance</description>
   </item>
   <item>
-    <title>自傷行為を行う若者の家族：経験とニーズに関する混合方法による体系的レビュー</title>
+    <title>自傷行為を行う若年者の家族：経験とニーズに関する混合方法系統的レビュー</title>
     <link>https://osf.io/s5avb</link>
     <guid isPermaLink="false">https://osf.io/s5avb#ja</guid>
     <pubDate>Fri, 20 Feb 2026 01:47:38 +0000</pubDate>
@@ -349,7 +349,7 @@
     <description>Scoping review of research on evidence-based digital media interventions    for youth</description>
   </item>
   <item>
-    <title>未知への対峙：新興技術に関する認知の質的面接研究</title>
+    <title>未知への対峙：新興技術に関する認知の質的インタビュー研究</title>
     <link>https://osf.io/ra7bc</link>
     <guid isPermaLink="false">https://osf.io/ra7bc#ja</guid>
     <pubDate>Thu, 19 Feb 2026 22:27:03 +0000</pubDate>
