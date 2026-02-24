@@ -6,14 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>自己批判的バイアスがメタ認知に及ぼす影響と潜在的な友人への接近行動の歪み</title>
+    <title>潜在的な友人への接近における自己批判的バイアスがメタ認知に与える歪み</title>
     <link>https://osf.io/fzqdp</link>
     <guid isPermaLink="false">https://osf.io/fzqdp#ja</guid>
     <pubDate>Tue, 24 Feb 2026 01:48:56 +0000</pubDate>
     <description>Self-Critical Biases in Meta-Perceptions Distort How People Approach Potential Friends</description>
   </item>
   <item>
-    <title>自己批判的バイアスがメタ認知に及ぼす影響と対人接近行動の歪み</title>
+    <title>潜在的な友人への接近における自己批判的バイアスがメタ認知に及ぼす歪み</title>
     <link>https://osf.io/fzqdp</link>
     <guid isPermaLink="false">https://osf.io/fzqdp#ja</guid>
     <pubDate>Mon, 23 Feb 2026 23:31:08 +0000</pubDate>
@@ -41,7 +41,7 @@
     <description>The influence of experiential learning with digital flashcards on study strategies in secondary schools</description>
   </item>
   <item>
-    <title>話者特有のジェスチャーと言語の時間的連携の知覚学習が単語認識に及ぼす影響</title>
+    <title>話者特有のジェスチャーと言語の時間的連携に関する知覚学習：単語認識への影響</title>
     <link>https://osf.io/bauf6</link>
     <guid isPermaLink="false">https://osf.io/bauf6#ja</guid>
     <pubDate>Mon, 23 Feb 2026 21:40:12 +0000</pubDate>
@@ -55,7 +55,7 @@
     <description>Between the Spectrum and Mental Health: A Narrative Review of the Relationship between Autism Spectrum Disorder and Neuropsychiatric Comorbidities</description>
   </item>
   <item>
-    <title>pハッキングは誤差統計的アプローチにおいて第一種過誤率を増大させるが、形式的推論アプローチでは増大させない</title>
+    <title>pハッキングは誤差統計的アプローチにおける第I種過誤率を増大させるが、形式的推論アプローチでは増大させない</title>
     <link>https://osf.io/qr685</link>
     <guid isPermaLink="false">https://osf.io/qr685#ja</guid>
     <pubDate>Mon, 23 Feb 2026 21:40:11 +0000</pubDate>
@@ -69,7 +69,7 @@
     <description>Effectiveness and Mechanisms of Intensive Short-Term Dynamic Psychotherapy for Treatment-Resistant Depression: A Reanalysis of a Randomized Controlled Trial</description>
   </item>
   <item>
-    <title>スマートフォン「アプリ利用経路」とメンタルヘルスの関連性：新規ネットワーク分析アプローチ</title>
+    <title>スマートフォン「アプリ利用経路」とメンタルヘルスの関連性：新規ネットワーク分析手法の提案</title>
     <link>https://osf.io/uytfr</link>
     <guid isPermaLink="false">https://osf.io/uytfr#ja</guid>
     <pubDate>Mon, 23 Feb 2026 21:40:10 +0000</pubDate>
@@ -83,7 +83,7 @@
     <description>Graphs of averages exaggerate and sow disagreement</description>
   </item>
   <item>
-    <title>潜在的な友人への接近における自己批判的バイアスがメタ認知に与える歪み</title>
+    <title>潜在的な友人への接近における自己批判的バイアスがメタ認知に及ぼす歪み</title>
     <link>https://osf.io/fzqdp</link>
     <guid isPermaLink="false">https://osf.io/fzqdp#ja</guid>
     <pubDate>Mon, 23 Feb 2026 21:40:10 +0000</pubDate>
@@ -97,14 +97,14 @@
     <description>Hardship and Obesity: A Cross-Sectional Ecological Analysis in Chicagoland Adults</description>
   </item>
   <item>
-    <title>ツール登場前の段階における共同設計の活用：若年層の社会的処方におけるデジタル経路の正当性の検証</title>
+    <title>ツール以前の段階：若者の社会的処方におけるデジタル経路の正当性を検証する初期共同設計の活用</title>
     <link>https://osf.io/hq4cz</link>
     <guid isPermaLink="false">https://osf.io/hq4cz#ja</guid>
     <pubDate>Mon, 23 Feb 2026 21:40:09 +0000</pubDate>
     <description>Before There Is a Tool: Using Early-Stage Co-Design to Examine the Legitimacy of Digital Pathways for Youth Social Prescribing</description>
   </item>
   <item>
-    <title>いつやめるか：うつ病における自発的持続性の調整と自殺未遂</title>
+    <title>いつやめるか：うつ病における自発的持続の調整と自殺未遂</title>
     <link>https://osf.io/x4yg2</link>
     <guid isPermaLink="false">https://osf.io/x4yg2#ja</guid>
     <pubDate>Mon, 23 Feb 2026 21:40:09 +0000</pubDate>
@@ -125,28 +125,28 @@
     <description>Evaluating Local Structural-After-Measurement (LSAM) and Traditional Approaches for the Estimation of Complex Nonlinear Effects Among Latent Variables</description>
   </item>
   <item>
-    <title>縦断データを用いた中国人青年の摂食障害予測：従来の機械学習と最新の深層学習手法の比較</title>
+    <title>縦断データを用いた中国青少年の摂食障害予測：従来の機械学習と最新の深層学習手法の比較</title>
     <link>https://osf.io/hrp37</link>
     <guid isPermaLink="false">https://osf.io/hrp37#ja</guid>
     <pubDate>Mon, 23 Feb 2026 17:35:57 +0000</pubDate>
     <description>Predicting probable eating disorders in Chinese adolescents using longitudinal data: A comparison between traditional machine learning and modern deep learning approaches</description>
   </item>
   <item>
-    <title>動作課題中の機械的誘発腰痛を有する健康者の恐怖回避および動作パターンのセンサーによる計測：実験的非介入研究のプロトコル</title>
+    <title>機械的誘発による腰痛を有する健康者の恐怖回避および運動パターンのセンサー測定：実験的非介入研究のプロトコル</title>
     <link>https://osf.io/32vps</link>
     <guid isPermaLink="false">https://osf.io/32vps#ja</guid>
     <pubDate>Mon, 23 Feb 2026 17:35:56 +0000</pubDate>
     <description>Sensor-based measurement of fear avoidance and movement patterns of healthy individuals with mechanically induced lower back pain during movement tasks: study protocol for an experimental non-interventional study</description>
   </item>
   <item>
-    <title>エチオピア系イスラエル人若年成人に対するマインドフルネスストレス低減法：ストレス、排除感、人種差別への対処</title>
+    <title>エチオピア系イスラエル人若年成人を対象としたマインドフルネスストレス低減法：ストレス、排除、そして人種差別への対処</title>
     <link>https://osf.io/9qj4g</link>
     <guid isPermaLink="false">https://osf.io/9qj4g#ja</guid>
     <pubDate>Mon, 23 Feb 2026 17:35:56 +0000</pubDate>
     <description>Mindfulness-Based Stress Reduction for Ethiopian-Israeli Young Adults: Coping with Stress, Exclusion, and Racism</description>
   </item>
   <item>
-    <title>覚醒を超えて：瞳孔変動、神経活動、そして行動の関連性</title>
+    <title>覚醒を超えて：瞳孔変動、神経活動、および行動の関連性</title>
     <link>https://osf.io/mkdgc</link>
     <guid isPermaLink="false">https://osf.io/mkdgc#ja</guid>
     <pubDate>Mon, 23 Feb 2026 15:12:35 +0000</pubDate>
@@ -160,14 +160,14 @@
     <description>Romantic Love and Sexual Frequency</description>
   </item>
   <item>
-    <title>私たちの星の誤り：統計不安評価尺度と改訂数学不安評価尺度の重複に関する国際的証拠</title>
+    <title>私たちの星の欠陥：統計不安評価尺度と改訂数学不安評価尺度の重複に関する国際的証拠</title>
     <link>https://osf.io/gzucd</link>
     <guid isPermaLink="false">https://osf.io/gzucd#ja</guid>
     <pubDate>Mon, 23 Feb 2026 09:50:53 +0000</pubDate>
     <description>The Fault in Our STARS: International Evidence that the Statistics Anxiety Rating Scale and the Revised Mathematics Anxiety Rating Scale Overlap</description>
   </item>
   <item>
-    <title>共有読書における語彙学習時の足場づくりと関与の連動性</title>
+    <title>共有読書における語彙学習の瞬間における足場づくりと関与の連動</title>
     <link>https://osf.io/5vt2a</link>
     <guid isPermaLink="false">https://osf.io/5vt2a#ja</guid>
     <pubDate>Sun, 22 Feb 2026 20:21:31 +0000</pubDate>
@@ -209,35 +209,35 @@
     <description>Situations Meet Mobile Sensing Methods: Prospects for Research on Person-Situation Relations</description>
   </item>
   <item>
-    <title>効果減衰、統計的アーティファクト、およびメタ分析の逆説</title>
+    <title>効果の減衰、統計的アーティファクト、およびメタ分析における逆説</title>
     <link>https://osf.io/sb9e4</link>
     <guid isPermaLink="false">https://osf.io/sb9e4#ja</guid>
     <pubDate>Sun, 22 Feb 2026 11:18:08 +0000</pubDate>
     <description>Decline effects, statistical artifacts, and a meta-analytic paradox</description>
   </item>
   <item>
-    <title>楽観主義の部分的制御の危険性：パーソナリティと健康との関連性</title>
+    <title>楽観主義の部分的除去の危険性：パーソナリティと健康との関係</title>
     <link>https://osf.io/dzs59</link>
     <guid isPermaLink="false">https://osf.io/dzs59#ja</guid>
     <pubDate>Sat, 21 Feb 2026 20:19:37 +0000</pubDate>
     <description>The Perils of Partialing Optimism: Relationships with Personality and Health</description>
   </item>
   <item>
-    <title>GPTに泣きつく：人々が共感をAIに委ねる心理メカニズム</title>
+    <title>GPTに泣きつく：人々が共感をAIに委ねる心理</title>
     <link>https://osf.io/bsj9f</link>
     <guid isPermaLink="false">https://osf.io/bsj9f#ja</guid>
     <pubDate>Sat, 21 Feb 2026 19:44:07 +0000</pubDate>
     <description>Go Cry to GPT: People Offload Empathy to AI</description>
   </item>
   <item>
-    <title>話し言葉の単語認識における基底次元性：学童期を通じた連続的発達</title>
+    <title>話し言葉認識の基盤となる次元性：学童期を通じた連続的発達</title>
     <link>https://osf.io/u6y7j</link>
     <guid isPermaLink="false">https://osf.io/u6y7j#ja</guid>
     <pubDate>Sat, 21 Feb 2026 19:44:07 +0000</pubDate>
     <description>The Underlying Dimensionality of Spoken Word Recognition: Continuous development through the school-age years</description>
   </item>
   <item>
-    <title>欠落した連結点：Nバック課題難易度プロトコルによる作業記憶適応性疲労の検証と能動的認知疲労誘発</title>
+    <title>欠落した連結点：Nバック課題難易度プロトコルによる作業記憶適応的疲労の検証と能動的認知疲労誘発</title>
     <link>https://osf.io/h4n2w</link>
     <guid isPermaLink="false">https://osf.io/h4n2w#ja</guid>
     <pubDate>Sat, 21 Feb 2026 19:44:07 +0000</pubDate>
@@ -272,14 +272,14 @@
     <description>Barriers to Direct Affirmative Sexual Consent:  Gender Concerns and Peer and Partner Expectations</description>
   </item>
   <item>
-    <title>インド・バンガロールにおける分散型廃水処理および再利用の認知された嫌悪感、健康リスク、受容に関する社会技術的決定要因：実験的研究</title>
+    <title>インド・バンガロールにおける分散型廃水処理および再利用の嫌悪感知覚、健康リスク認知、受容に関する社会技術的決定要因：実験的研究</title>
     <link>https://osf.io/6kcnj</link>
     <guid isPermaLink="false">https://osf.io/6kcnj#ja</guid>
     <pubDate>Sat, 21 Feb 2026 19:44:03 +0000</pubDate>
     <description>Socio-technical determinants of perceived disgust, health risk, and acceptance of decentralised wastewater treatment and reuse: An experimental study in Bengaluru, India.</description>
   </item>
   <item>
-    <title>幼児期優先：ヒト進化における大脳発達前の長期的発達過程</title>
+    <title>幼児期優先：人類進化における大脳発達前の長期的発達過程</title>
     <link>https://osf.io/58v9b</link>
     <guid isPermaLink="false">https://osf.io/58v9b#ja</guid>
     <pubDate>Sat, 21 Feb 2026 18:28:53 +0000</pubDate>
@@ -293,21 +293,21 @@
     <description>Self-Enforcing Commitment: A Dual-Process Account of Promise-Keeping</description>
   </item>
   <item>
-    <title>言語を超えた音声知覚：話者間の類似性の低下と話者内のアイデンティティの安定性</title>
+    <title>言語を超えた音声知覚：話者間の類似性の低下と話者内の同一性の安定性</title>
     <link>https://osf.io/w3jfc</link>
     <guid isPermaLink="false">https://osf.io/w3jfc#ja</guid>
     <pubDate>Sat, 21 Feb 2026 17:49:24 +0000</pubDate>
     <description>Voice perception across languages: Reduced similarity between speakers, stable identity within speakers</description>
   </item>
   <item>
-    <title>エネルギー転換における次なる課題としてのグリーングリーン対立</title>
+    <title>エネルギー転換における次なる課題としてのグリーン・グリーン対立</title>
     <link>https://osf.io/qzvdr</link>
     <guid isPermaLink="false">https://osf.io/qzvdr#ja</guid>
     <pubDate>Sat, 21 Feb 2026 17:49:23 +0000</pubDate>
     <description>Green–green conflict as the next frontier in energy transition challenges</description>
   </item>
   <item>
-    <title>インドのセラピストは実践において無条件の肯定的配慮を示しているか？パイロット研究</title>
+    <title>インドのセラピストは実践において無条件の肯定的配慮を示しているか？予備的研究</title>
     <link>https://osf.io/df8rm</link>
     <guid isPermaLink="false">https://osf.io/df8rm#ja</guid>
     <pubDate>Sat, 21 Feb 2026 14:51:00 +0000</pubDate>
@@ -321,14 +321,14 @@
     <description>The unique limitations of BOLD-fMRI in the study of response inhibition</description>
   </item>
   <item>
-    <title>言語的および非言語的教授行動が自然会話における成人学習に与える共同影響</title>
+    <title>言語的および非言語的指導行動が自然会話における成人学習に与える共同影響</title>
     <link>https://osf.io/cs2fp</link>
     <guid isPermaLink="false">https://osf.io/cs2fp#ja</guid>
     <pubDate>Sat, 21 Feb 2026 14:22:19 +0000</pubDate>
     <description>Verbal and non-verbal teaching behaviours jointly shape adult learning in naturalistic conversation</description>
   </item>
   <item>
-    <title>抽象的な事象表象を構築するために言語モデルは必要か？</title>
+    <title>抽象的事象表象構築に言語モデルは必要か？</title>
     <link>https://osf.io/kngh8</link>
     <guid isPermaLink="false">https://osf.io/kngh8#ja</guid>
     <pubDate>Sat, 21 Feb 2026 14:22:19 +0000</pubDate>
@@ -342,7 +342,7 @@
     <description>Cognitive Debt in AI-Augmented Research: Evidence from Neuroscience and Implications for Knowledge Production</description>
   </item>
   <item>
-    <title>スペイン語・英語二言語話者の児童における読字困難リスクの予測：幼稚園児の口頭言語能力と初期識字能力による分類精度の検証</title>
+    <title>スペイン語・英語話者の児童における読字困難リスクの予測：幼稚園段階の口頭言語能力と初期リテラシーの分類精度</title>
     <link>https://osf.io/x476w</link>
     <guid isPermaLink="false">https://osf.io/x476w#ja</guid>
     <pubDate>Fri, 20 Feb 2026 21:20:20 +0000</pubDate>
