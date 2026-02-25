@@ -6,6 +6,55 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>民族的マイノリティ青少年における人種的トラウマ研究の今後の展望</title>
+    <link>https://osf.io/d4eav</link>
+    <guid isPermaLink="false">https://osf.io/d4eav#ja</guid>
+    <pubDate>Wed, 25 Feb 2026 09:50:29 +0000</pubDate>
+    <description>Future Directions in Racial Trauma Research Among Ethnoracially Minoritized Youth</description>
+  </item>
+  <item>
+    <title>「結果を共有しますか？」ブラックおよびラティーノコミュニティにおける生物社会的研究参加に関する視点</title>
+    <link>https://osf.io/yqnat</link>
+    <guid isPermaLink="false">https://osf.io/yqnat#ja</guid>
+    <pubDate>Wed, 25 Feb 2026 09:50:29 +0000</pubDate>
+    <description>Will you share the results?” Perspectives on biosocial research participation within Black and Latinx communities</description>
+  </item>
+  <item>
+    <title>コードネームにおける戦略と構造：人間とGPT-4のゲームプレイ比較</title>
+    <link>https://osf.io/6gfy9</link>
+    <guid isPermaLink="false">https://osf.io/6gfy9#ja</guid>
+    <pubDate>Wed, 25 Feb 2026 09:50:29 +0000</pubDate>
+    <description>Strategy and structure in Codenames: Comparing human and GPT-4 gameplay</description>
+  </item>
+  <item>
+    <title>韓国乳児の視線データに対するiCatcher+のクロスドメイン評価および微調整適応</title>
+    <link>https://osf.io/8t5qp</link>
+    <guid isPermaLink="false">https://osf.io/8t5qp#ja</guid>
+    <pubDate>Wed, 25 Feb 2026 09:50:28 +0000</pubDate>
+    <description>Cross-Domain Evaluation and Fine-Tuned Adaptation of iCatcher+ for Korean Infant Gaze Data</description>
+  </item>
+  <item>
+    <title>子どもの感情特異的言語と感情調整：メタアナリシスによる総合的検討</title>
+    <link>https://osf.io/m386a</link>
+    <guid isPermaLink="false">https://osf.io/m386a#ja</guid>
+    <pubDate>Wed, 25 Feb 2026 09:50:28 +0000</pubDate>
+    <description>Child Emotion-Specific Language and Emotion Regulation: A Meta-Analytic Review</description>
+  </item>
+  <item>
+    <title>YFAS 2.0トルコ語版の検証および短縮版作成のための項目レベル分析</title>
+    <link>https://osf.io/v3cxp</link>
+    <guid isPermaLink="false">https://osf.io/v3cxp#ja</guid>
+    <pubDate>Wed, 25 Feb 2026 09:50:28 +0000</pubDate>
+    <description>Validation of the Turkish Version of the YFAS 2.0 and Item-Level Insights for Short-Form Development</description>
+  </item>
+  <item>
+    <title>SocialPulse：スマートウォッチの多モーダルセンシングを用いた自然環境下での社会的相互作用のデバイス内検出</title>
+    <link>https://osf.io/s8drh</link>
+    <guid isPermaLink="false">https://osf.io/s8drh#ja</guid>
+    <pubDate>Wed, 25 Feb 2026 09:50:27 +0000</pubDate>
+    <description>SocialPulse: On-Device Detection of Social Interactions in Naturalistic Settings Using Smartwatch Multimodal Sensing</description>
+  </item>
+  <item>
     <title>確証的因子分析における潜在相関の幾何学的構造と脆弱性</title>
     <link>https://osf.io/95enc</link>
     <guid isPermaLink="false">https://osf.io/95enc#ja</guid>
@@ -20,7 +69,7 @@
     <description>Moved by the lightest touch of meaning: Even minimal significance matters for motivation from childhood</description>
   </item>
   <item>
-    <title>「友達か、それともロボットか？幼児向け生成AI玩具に関する初期教育現場の視点」</title>
+    <title>「友達か、それともロボットか？」幼児向け生成AI玩具に関する初期教育現場の視点</title>
     <link>https://osf.io/bfmqw</link>
     <guid isPermaLink="false">https://osf.io/bfmqw#ja</guid>
     <pubDate>Wed, 25 Feb 2026 01:53:53 +0000</pubDate>
@@ -41,7 +90,7 @@
     <description>Rethinking Reciprocity</description>
   </item>
   <item>
-    <title>知識と気候変動行動準備性の関連性：気候変動知識尺度の開発と検証</title>
+    <title>気候変動知識尺度の開発と検証：知識と気候行動準備性の関連性</title>
     <link>https://osf.io/k64pr</link>
     <guid isPermaLink="false">https://osf.io/k64pr#ja</guid>
     <pubDate>Wed, 25 Feb 2026 01:53:52 +0000</pubDate>
@@ -55,14 +104,14 @@
     <description>Asymmetric Moral Metaperceptions: Consequences for Political Polarization and Paths to Correction</description>
   </item>
   <item>
-    <title>逆境的な子ども時代の経験と若年層における精神病様体験の持続性の縦断的関連：ALSPAC出生コホートからの証拠</title>
+    <title>逆境的な子ども時代の経験と若年層における精神病様体験の持続性との縦断的関連：ALSPAC出生コホートからの証拠</title>
     <link>https://osf.io/9muhs</link>
     <guid isPermaLink="false">https://osf.io/9muhs#ja</guid>
     <pubDate>Tue, 24 Feb 2026 23:27:19 +0000</pubDate>
     <description>The longitudinal association between adverse childhood experiences and persistence of psychotic-like experiences in young people: evidence from the ALSPAC birth cohort</description>
   </item>
   <item>
-    <title>アルコール強化刺激がアルコール使用障害患者および健常者における目標志向的制御を減弱させる</title>
+    <title>アルコール強化刺激がアルコール使用障害患者および健常者の目標志向的制御を減弱させる</title>
     <link>https://osf.io/vnzqu</link>
     <guid isPermaLink="false">https://osf.io/vnzqu#ja</guid>
     <pubDate>Tue, 24 Feb 2026 23:27:18 +0000</pubDate>
@@ -97,7 +146,7 @@
     <description>Applications of Emerging Digital Technologies to Address Health Needs of People with Intellectual Disability: A Scoping Review of the Past Decade</description>
   </item>
   <item>
-    <title>フィードバックは社会的学習の動態を変化させることにより非言語的疼痛評価を改善する</title>
+    <title>フィードバックが社会的学習の動態を変化させることによる非言語的疼痛評価の改善</title>
     <link>https://osf.io/tajb6</link>
     <guid isPermaLink="false">https://osf.io/tajb6#ja</guid>
     <pubDate>Tue, 24 Feb 2026 14:10:49 +0000</pubDate>
@@ -111,7 +160,7 @@
     <description>Attentional Dynamics Reveal Cognitive Motivation and Effort Allocation</description>
   </item>
   <item>
-    <title>熟考の禁忌</title>
+    <title>熟慮の禁忌</title>
     <link>https://osf.io/ryzqd</link>
     <guid isPermaLink="false">https://osf.io/ryzqd#ja</guid>
     <pubDate>Tue, 24 Feb 2026 14:10:49 +0000</pubDate>
@@ -132,35 +181,35 @@
     <description>Self-Critical Biases in Meta-Perceptions Distort How People Approach Potential Friends</description>
   </item>
   <item>
-    <title>潜在的友人への接近における自己批判的バイアスがメタ認知に与える歪み</title>
+    <title>自己批判的バイアスがメタ認知に及ぼす影響と潜在的友人への接近行動の歪み</title>
     <link>https://osf.io/fzqdp</link>
     <guid isPermaLink="false">https://osf.io/fzqdp#ja</guid>
     <pubDate>Mon, 23 Feb 2026 23:31:08 +0000</pubDate>
     <description>Self-Critical Biases in Meta-Perceptions Distort How People Approach Potential Friends</description>
   </item>
   <item>
-    <title>胎児期から教室までの読書脳：典型的および非典型的発達と予防的教育モデルへの示唆</title>
+    <title>子宮内から教室までの読書脳：典型的および非典型的発達と予防的教育モデルへの示唆</title>
     <link>https://osf.io/y7ue3</link>
     <guid isPermaLink="false">https://osf.io/y7ue3#ja</guid>
     <pubDate>Mon, 23 Feb 2026 21:40:13 +0000</pubDate>
     <description>The Reading Brain from Womb to Classroom:  Typical and Atypical Development and Implications for a Preventative Education Model</description>
   </item>
   <item>
-    <title>ブラジルの青少年における児童期トラウマ質問票（CTQ-SF）の尺度特性の検討</title>
+    <title>ブラジルの青少年における児童期トラウマ質問票（CTQ-SF）の尺度特性の評価</title>
     <link>https://osf.io/e2j9v</link>
     <guid isPermaLink="false">https://osf.io/e2j9v#ja</guid>
     <pubDate>Mon, 23 Feb 2026 21:40:12 +0000</pubDate>
     <description>Assessing the Scaling Properties of the Childhood Trauma Questionnaire (CTQ-SF) among Brazilian Adolescents</description>
   </item>
   <item>
-    <title>デジタル単語カードを用いた体験学習が中等教育における学習戦略に及ぼす影響</title>
+    <title>デジタル単語カードを用いた体験的学習が中等教育における学習戦略に与える影響</title>
     <link>https://osf.io/xdtn5</link>
     <guid isPermaLink="false">https://osf.io/xdtn5#ja</guid>
     <pubDate>Mon, 23 Feb 2026 21:40:12 +0000</pubDate>
     <description>The influence of experiential learning with digital flashcards on study strategies in secondary schools</description>
   </item>
   <item>
-    <title>話者特有のジェスチャーと言語の時間的連携に関する知覚学習：単語認識への影響</title>
+    <title>話者特有のジェスチャーと言語の時間的連携の知覚学習が単語認識に及ぼす影響</title>
     <link>https://osf.io/bauf6</link>
     <guid isPermaLink="false">https://osf.io/bauf6#ja</guid>
     <pubDate>Mon, 23 Feb 2026 21:40:12 +0000</pubDate>
@@ -188,7 +237,7 @@
     <description>Effectiveness and Mechanisms of Intensive Short-Term Dynamic Psychotherapy for Treatment-Resistant Depression: A Reanalysis of a Randomized Controlled Trial</description>
   </item>
   <item>
-    <title>スマートフォン「アプリ・ジャーニー」とメンタルヘルスの関連性：新規ネットワーク分析手法の提案</title>
+    <title>スマートフォン「アプリ利用経路」とメンタルヘルスの関連性：新規ネットワーク分析手法の提案</title>
     <link>https://osf.io/uytfr</link>
     <guid isPermaLink="false">https://osf.io/uytfr#ja</guid>
     <pubDate>Mon, 23 Feb 2026 21:40:10 +0000</pubDate>
@@ -202,7 +251,7 @@
     <description>Graphs of averages exaggerate and sow disagreement</description>
   </item>
   <item>
-    <title>自己批判的バイアスがメタ認知に及ぼす影響と対人関係形成への歪み</title>
+    <title>潜在的友人への接近における自己批判的バイアスがメタ認知に及ぼす歪み</title>
     <link>https://osf.io/fzqdp</link>
     <guid isPermaLink="false">https://osf.io/fzqdp#ja</guid>
     <pubDate>Mon, 23 Feb 2026 21:40:10 +0000</pubDate>
@@ -216,7 +265,7 @@
     <description>Hardship and Obesity: A Cross-Sectional Ecological Analysis in Chicagoland Adults</description>
   </item>
   <item>
-    <title>ツール以前の段階：若者の社会的処方におけるデジタル経路の正当性を検証する初期共同設計の活用</title>
+    <title>ツール登場前の段階における共同設計の活用：若年層の社会的処方におけるデジタル経路の正当性の検証</title>
     <link>https://osf.io/hq4cz</link>
     <guid isPermaLink="false">https://osf.io/hq4cz#ja</guid>
     <pubDate>Mon, 23 Feb 2026 21:40:09 +0000</pubDate>
@@ -251,21 +300,21 @@
     <description>Predicting probable eating disorders in Chinese adolescents using longitudinal data: A comparison between traditional machine learning and modern deep learning approaches</description>
   </item>
   <item>
-    <title>機械的誘発による腰痛を有する健康者の恐怖回避および運動パターンのセンサーによる測定：実験的非介入研究のプロトコル</title>
+    <title>動作課題中の機械的誘発腰痛を有する健康者の恐怖回避および動作パターンのセンサーによる計測：実験的非介入研究のプロトコル</title>
     <link>https://osf.io/32vps</link>
     <guid isPermaLink="false">https://osf.io/32vps#ja</guid>
     <pubDate>Mon, 23 Feb 2026 17:35:56 +0000</pubDate>
     <description>Sensor-based measurement of fear avoidance and movement patterns of healthy individuals with mechanically induced lower back pain during movement tasks: study protocol for an experimental non-interventional study</description>
   </item>
   <item>
-    <title>エチオピア系イスラエル人若年成人におけるマインドフルネスストレス低減法：ストレス、排除感、そして人種差別への対処</title>
+    <title>エチオピア系イスラエル若年成人におけるマインドフルネスストレス低減法：ストレス、排除感、人種差別への対処</title>
     <link>https://osf.io/9qj4g</link>
     <guid isPermaLink="false">https://osf.io/9qj4g#ja</guid>
     <pubDate>Mon, 23 Feb 2026 17:35:56 +0000</pubDate>
     <description>Mindfulness-Based Stress Reduction for Ethiopian-Israeli Young Adults: Coping with Stress, Exclusion, and Racism</description>
   </item>
   <item>
-    <title>覚醒を超えて：瞳孔変動、神経活動、そして行動の関連性</title>
+    <title>覚醒を超えて：瞳孔変動、神経活動、および行動の関連性</title>
     <link>https://osf.io/mkdgc</link>
     <guid isPermaLink="false">https://osf.io/mkdgc#ja</guid>
     <pubDate>Mon, 23 Feb 2026 15:12:35 +0000</pubDate>
@@ -286,7 +335,7 @@
     <description>The Fault in Our STARS: International Evidence that the Statistics Anxiety Rating Scale and the Revised Mathematics Anxiety Rating Scale Overlap</description>
   </item>
   <item>
-    <title>共有読書における語彙学習の瞬間におけるスキャフォールディングと関与の連動性</title>
+    <title>共有読書における語彙学習の瞬間における足場づくりと関与の連動性</title>
     <link>https://osf.io/5vt2a</link>
     <guid isPermaLink="false">https://osf.io/5vt2a#ja</guid>
     <pubDate>Sun, 22 Feb 2026 20:21:31 +0000</pubDate>
@@ -305,55 +354,6 @@
     <guid isPermaLink="false">https://osf.io/pvm7k#ja</guid>
     <pubDate>Sun, 22 Feb 2026 11:43:40 +0000</pubDate>
     <description>Gender Stereotypes and Employees&#x27; Job Satisfaction</description>
-  </item>
-  <item>
-    <title>女性のキャリア発展を支援する人工知能応用：スコーピングレビュー</title>
-    <link>https://osf.io/ef7q5</link>
-    <guid isPermaLink="false">https://osf.io/ef7q5#ja</guid>
-    <pubDate>Sun, 22 Feb 2026 11:18:09 +0000</pubDate>
-    <description>Artificial intelligence applications supporting women’s career development: a scoping review</description>
-  </item>
-  <item>
-    <title>顧客フィードバックキオスクとアンケートを用いた同一演劇公演20回にわたる観客体験の測定</title>
-    <link>https://osf.io/d45nk</link>
-    <guid isPermaLink="false">https://osf.io/d45nk#ja</guid>
-    <pubDate>Sun, 22 Feb 2026 11:18:09 +0000</pubDate>
-    <description>Measuring audience experience across 20 showings of the same theatre performance using customer feedback kiosks and a questionnaire</description>
-  </item>
-  <item>
-    <title>状況とモバイルセンシング手法の融合：個人－状況関係研究の展望</title>
-    <link>https://osf.io/e4ksp</link>
-    <guid isPermaLink="false">https://osf.io/e4ksp#ja</guid>
-    <pubDate>Sun, 22 Feb 2026 11:18:09 +0000</pubDate>
-    <description>Situations Meet Mobile Sensing Methods: Prospects for Research on Person-Situation Relations</description>
-  </item>
-  <item>
-    <title>効果の減衰、統計的アーティファクト、およびメタ分析における逆説</title>
-    <link>https://osf.io/sb9e4</link>
-    <guid isPermaLink="false">https://osf.io/sb9e4#ja</guid>
-    <pubDate>Sun, 22 Feb 2026 11:18:08 +0000</pubDate>
-    <description>Decline effects, statistical artifacts, and a meta-analytic paradox</description>
-  </item>
-  <item>
-    <title>楽観主義の部分的除去の危険性：パーソナリティと健康との関連性</title>
-    <link>https://osf.io/dzs59</link>
-    <guid isPermaLink="false">https://osf.io/dzs59#ja</guid>
-    <pubDate>Sat, 21 Feb 2026 20:19:37 +0000</pubDate>
-    <description>The Perils of Partialing Optimism: Relationships with Personality and Health</description>
-  </item>
-  <item>
-    <title>GPTに泣きつく：人々は共感をAIに委ねる</title>
-    <link>https://osf.io/bsj9f</link>
-    <guid isPermaLink="false">https://osf.io/bsj9f#ja</guid>
-    <pubDate>Sat, 21 Feb 2026 19:44:07 +0000</pubDate>
-    <description>Go Cry to GPT: People Offload Empathy to AI</description>
-  </item>
-  <item>
-    <title>話し言葉認識の基盤となる次元性：学童期を通じた連続的発達</title>
-    <link>https://osf.io/u6y7j</link>
-    <guid isPermaLink="false">https://osf.io/u6y7j#ja</guid>
-    <pubDate>Sat, 21 Feb 2026 19:44:07 +0000</pubDate>
-    <description>The Underlying Dimensionality of Spoken Word Recognition: Continuous development through the school-age years</description>
   </item>
 </channel>
 </rss>
