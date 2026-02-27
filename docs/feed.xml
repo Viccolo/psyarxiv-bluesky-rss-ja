@@ -6,6 +6,41 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>身体内外の空間：認知症前駆期における環境知識、内受容感覚および機能的身体表象の研究</title>
+    <link>https://osf.io/meus3</link>
+    <guid isPermaLink="false">https://osf.io/meus3#ja</guid>
+    <pubDate>Fri, 27 Feb 2026 23:44:59 +0000</pubDate>
+    <description>Inside and outside the body space: A study on environmental knowledge, interoceptive and functional body representations in the prodromal stage of dementia</description>
+  </item>
+  <item>
+    <title>愛着とADHD：両者の関連性と愛着の学習理論のADHDへの応用検討</title>
+    <link>https://osf.io/u5cwm</link>
+    <guid isPermaLink="false">https://osf.io/u5cwm#ja</guid>
+    <pubDate>Fri, 27 Feb 2026 23:44:58 +0000</pubDate>
+    <description>Attachment and ADHD: how are they related? Exploring the application of the Learning Theory of Attachment to ADHD</description>
+  </item>
+  <item>
+    <title>新生児脳の安静時機能的結合性：生後100日間における課題非依存的機能的結合の系統的レビュー</title>
+    <link>https://osf.io/uj3ps</link>
+    <guid isPermaLink="false">https://osf.io/uj3ps#ja</guid>
+    <pubDate>Fri, 27 Feb 2026 23:44:58 +0000</pubDate>
+    <description>The neonatal brain at rest: a systematic review of task-free functional connectivity in the first 100 days</description>
+  </item>
+  <item>
+    <title>数学不安と数学自己概念が数学成績に及ぼす影響は学習負荷によって異なる</title>
+    <link>https://osf.io/5jsmr</link>
+    <guid isPermaLink="false">https://osf.io/5jsmr#ja</guid>
+    <pubDate>Fri, 27 Feb 2026 23:44:58 +0000</pubDate>
+    <description>The relation between math anxiety and math self-concept to math performance varies across study math load</description>
+  </item>
+  <item>
+    <title>冷静な真実：被害者の酩酊状態と専門家証言が模擬陪審員の意思決定に与える影響</title>
+    <link>https://osf.io/8bdxw</link>
+    <guid isPermaLink="false">https://osf.io/8bdxw#ja</guid>
+    <pubDate>Fri, 27 Feb 2026 23:44:58 +0000</pubDate>
+    <description>Sobering truths: The influence of victim intoxication status and expert testimony on mock jury decision-making</description>
+  </item>
+  <item>
     <title>肉消費削減のための自己制御戦略：エコロジカルモーメンタリー介入の検討</title>
     <link>https://osf.io/k8fvq</link>
     <guid isPermaLink="false">https://osf.io/k8fvq#ja</guid>
@@ -20,7 +55,7 @@
     <description>Mediating Reconciliation With God: Exploring Divine Forgiveness Experiences During Confession Among Catholic Priests From Four Spanish-Speaking Countries</description>
   </item>
   <item>
-    <title>単一言語話者および二言語話者の小学生における単語読解学習パターンの類似点と相違点：横断的研究</title>
+    <title>単一言語話者および二言語話者の小学生における単語読み学習パターンの類似点と相違点：横断的研究</title>
     <link>https://osf.io/r8g2k</link>
     <guid isPermaLink="false">https://osf.io/r8g2k#ja</guid>
     <pubDate>Fri, 27 Feb 2026 23:20:12 +0000</pubDate>
@@ -34,7 +69,7 @@
     <description>Testing the dependency of metacognitive monitoring and executive functions in children: A cross-sectional and longitudinal study.</description>
   </item>
   <item>
-    <title>外的注意と内的注意における競合、同時発生、および協調のメカニズム</title>
+    <title>外的注意と内的注意の競合、競争および協調</title>
     <link>https://osf.io/ry94x</link>
     <guid isPermaLink="false">https://osf.io/ry94x#ja</guid>
     <pubDate>Fri, 27 Feb 2026 22:49:12 +0000</pubDate>
@@ -48,7 +83,7 @@
     <description>Decomposing subject retrieval: Diverging interference profiles for agreement and thematic dependencies in English</description>
   </item>
   <item>
-    <title>自由意志とリブレ・アルビトルに関する信念：言語を超えた選択、意志力、制約の役割</title>
+    <title>自由意志とリーブル・アルビトルに関する信念：言語を超えた選択、意志力、制約の役割</title>
     <link>https://osf.io/edth2</link>
     <guid isPermaLink="false">https://osf.io/edth2#ja</guid>
     <pubDate>Fri, 27 Feb 2026 22:18:47 +0000</pubDate>
@@ -69,7 +104,7 @@
     <description>Can the neurodiversity approach apply to ADHD?  Exploring the lived experience of ADHD as neurodivergence</description>
   </item>
   <item>
-    <title>社会情動的映画視聴の多様なモダリティ相関が子ども期から成人期にわたる内在化症状を説明する</title>
+    <title>社会情動的映画視聴の多様なモーダル相関が児童期から成人期にわたる内面化症状を説明する</title>
     <link>https://osf.io/8gcke</link>
     <guid isPermaLink="false">https://osf.io/8gcke#ja</guid>
     <pubDate>Fri, 27 Feb 2026 11:28:39 +0000</pubDate>
@@ -90,21 +125,21 @@
     <description>Neural Synchrony During Music-Listening: A Systematic Review  of EEG-Based Inter-Subject Correlation Studies</description>
   </item>
   <item>
-    <title>心理的拒絶期間によって明らかにされた意識アクセスの離散的エピソード</title>
+    <title>心理的抵抗期間によって明らかにされた意識アクセスの離散的エピソード</title>
     <link>https://osf.io/m23z8</link>
     <guid isPermaLink="false">https://osf.io/m23z8#ja</guid>
     <pubDate>Fri, 27 Feb 2026 09:36:07 +0000</pubDate>
     <description>Discrete episodes of conscious access revealed by the psychological refractory period</description>
   </item>
   <item>
-    <title>在宅型構造化運動プログラムに参加する高齢者における異なる動機プロファイル間で類似した運動継続および身体的健康成果の観察</title>
+    <title>在宅型構造化運動プログラムに参加する高齢者における異なる動機付けプロファイル間で類似した運動継続率と身体的健康成果が認められる</title>
     <link>https://osf.io/gk74p</link>
     <guid isPermaLink="false">https://osf.io/gk74p#ja</guid>
     <pubDate>Fri, 27 Feb 2026 09:36:07 +0000</pubDate>
     <description>Similar exercise adherence and physical fitness outcomes are observed across distinct motivation profiles in older adults participating in a home-based structured exercise programme</description>
   </item>
   <item>
-    <title>誰が誰と組むのか：米国政治連合の多次元認知マップ</title>
+    <title>誰が誰と組むのか：アメリカ政治連合の多次元認知マップ</title>
     <link>https://osf.io/hx97a</link>
     <guid isPermaLink="false">https://osf.io/hx97a#ja</guid>
     <pubDate>Fri, 27 Feb 2026 09:36:07 +0000</pubDate>
@@ -125,7 +160,7 @@
     <description>Day-to-day fluctuations in craving and the value of drugs and food in daily life</description>
   </item>
   <item>
-    <title>共同生活開始に関する主要な生活出来事の認知の類似性と恋愛関係満足度との関連性</title>
+    <title>恋愛カップルにおける主要な生活イベント認知の類似性と関係満足度：同棲を事例として</title>
     <link>https://osf.io/8h6yb</link>
     <guid isPermaLink="false">https://osf.io/8h6yb#ja</guid>
     <pubDate>Fri, 27 Feb 2026 09:36:06 +0000</pubDate>
@@ -139,28 +174,28 @@
     <description>Update of the Altered States Database (ASDB): 2025-12-31</description>
   </item>
   <item>
-    <title>米国若年層のAIチャットボット利用：自然発生的キーストロークデータに基づく会話パターンの解析</title>
+    <title>米国若年層のAIチャットボット利用：自然発生的キーストロークデータに基づく会話パターンの分析</title>
     <link>https://osf.io/z4mts</link>
     <guid isPermaLink="false">https://osf.io/z4mts#ja</guid>
     <pubDate>Fri, 27 Feb 2026 08:35:39 +0000</pubDate>
     <description>How US Youth Use AI Chatbots: Conversation Patterns from Naturalistic Keystroke Data</description>
   </item>
   <item>
-    <title>ミソジノワールと黒人女性の関係開始における影響</title>
+    <title>ミソジノワールと黒人女性の関係開始に関する研究</title>
     <link>https://osf.io/u5dp2</link>
     <guid isPermaLink="false">https://osf.io/u5dp2#ja</guid>
     <pubDate>Fri, 27 Feb 2026 08:35:39 +0000</pubDate>
     <description>Misogynoir and Black Women’s Relationship Initiation</description>
   </item>
   <item>
-    <title>臨床心理学におけるオープンサイエンスの普及状況、障壁および促進要因：ドイツ語圏諸国における探索的調査の結果</title>
+    <title>臨床心理学におけるオープンサイエンスの受容、障壁および促進要因：ドイツ語圏諸国における探索的調査の結果</title>
     <link>https://osf.io/cyfqv</link>
     <guid isPermaLink="false">https://osf.io/cyfqv#ja</guid>
     <pubDate>Fri, 27 Feb 2026 08:35:39 +0000</pubDate>
     <description>Uptake, Barriers, and Facilitators of Open Science in Clinical Psychology: Findings from an Exploratory Survey in German-speaking Countries</description>
   </item>
   <item>
-    <title>5,637語の日本語単語に対する身体-対象相互作用評価の収集</title>
+    <title>5,637語の日本語単語に対する身体–対象相互作用評価の収集</title>
     <link>https://osf.io/dfrac</link>
     <guid isPermaLink="false">https://osf.io/dfrac#ja</guid>
     <pubDate>Fri, 27 Feb 2026 08:35:38 +0000</pubDate>
@@ -174,7 +209,7 @@
     <description>Measuring the Content of Visual Hallucinations Induced by Psychedelics and Stroboscopic Light: The Six-Dimensional Visual Hallucination Questionnaire (6D-VHQ)</description>
   </item>
   <item>
-    <title>記述は処方か？進化心理学が生物学的本質主義およびレイプ帰属に与える影響に関する登録報告</title>
+    <title>処方としての記述か？進化心理学が生物学的本質主義および強姦帰属に与える影響に関する登録報告</title>
     <link>https://osf.io/85t3n</link>
     <guid isPermaLink="false">https://osf.io/85t3n#ja</guid>
     <pubDate>Fri, 27 Feb 2026 08:35:38 +0000</pubDate>
@@ -195,28 +230,28 @@
     <description>The effects on parent-child separation on cognition: a systematic review</description>
   </item>
   <item>
-    <title>社会的障壁に抗するギャンブラー：チリの自己除外制度に関するサバイバル分析</title>
+    <title>社会的障壁に抗するギャンブラー：チリの自己除外制度に関する生存分析</title>
     <link>https://osf.io/vw5dz</link>
     <guid isPermaLink="false">https://osf.io/vw5dz#ja</guid>
     <pubDate>Thu, 26 Feb 2026 22:30:21 +0000</pubDate>
     <description>Gamblers Against Social Barriers: A Survival Analysis of Chile&#x27;s Self-Exclusion System</description>
   </item>
   <item>
-    <title>期待が行動に与える影響：運動制御、意思決定、臨床神経科学の統合的検討</title>
+    <title>期待はどのように行動を形成するか？運動制御、意思決定、臨床神経科学の統合的検討</title>
     <link>https://osf.io/3ru8p</link>
     <guid isPermaLink="false">https://osf.io/3ru8p#ja</guid>
     <pubDate>Thu, 26 Feb 2026 22:30:21 +0000</pubDate>
     <description>How Do Expectations Shape Actions? Integrating Motor Control, Decision Making, and Clinical Neuroscience</description>
   </item>
   <item>
-    <title>ソーシャルメディア利用に伴うリスクの証拠を最小化する二つの一般的な行動様式</title>
+    <title>ソーシャルメディア利用に伴うリスクの証拠を最小化する二つの一般的手法</title>
     <link>https://osf.io/2re6w</link>
     <guid isPermaLink="false">https://osf.io/2re6w#ja</guid>
     <pubDate>Thu, 26 Feb 2026 22:30:20 +0000</pubDate>
     <description>Two common practices that minimize evidence of risks associated with the use of social media</description>
   </item>
   <item>
-    <title>マインドフルネストレーニングの神経動態：集中注意瞑想とオープンモニタリング瞑想における縦断的EEGネットワーク解析</title>
+    <title>マインドフルネストレーニングの神経動態：集中注意瞑想と開放的モニタリング瞑想における縦断的EEGネットワーク解析</title>
     <link>https://osf.io/pv6zm</link>
     <guid isPermaLink="false">https://osf.io/pv6zm#ja</guid>
     <pubDate>Thu, 26 Feb 2026 22:30:20 +0000</pubDate>
@@ -230,7 +265,7 @@
     <description>Psychological Symptoms and Syndromes in Namibia: Convergence and Divergence with Western Models</description>
   </item>
   <item>
-    <title>マキャヴェリアニズムとサイコパシーの（非）識別性：日常的動態の解明</title>
+    <title>マキャヴェリズムとサイコパシーの（非）識別性：日常的ダイナミクスの解明</title>
     <link>https://osf.io/c5rdx</link>
     <guid isPermaLink="false">https://osf.io/c5rdx#ja</guid>
     <pubDate>Thu, 26 Feb 2026 22:30:19 +0000</pubDate>
@@ -244,7 +279,7 @@
     <description>Joint Perception Biases Subjective Awareness Reports</description>
   </item>
   <item>
-    <title>自閉症における遊び中の親子心拍連動の非線形動態：社会行動的相関の多モーダル解析</title>
+    <title>自閉症児の遊び中における親子心拍同調の非線形動態：社会行動的相関の多モーダル解析</title>
     <link>https://osf.io/ph38y</link>
     <guid isPermaLink="false">https://osf.io/ph38y#ja</guid>
     <pubDate>Thu, 26 Feb 2026 22:30:19 +0000</pubDate>
@@ -258,14 +293,14 @@
     <description>SCEIMA: Social Coordination Evaluation through Integrated Model Analysis</description>
   </item>
   <item>
-    <title>健康バイアスに起因する非線形的栄養特性推定がカロリー摂取の食物選択に系統的誤差をもたらす</title>
+    <title>健康バイアスに起因する栄養特性の非線形推定がカロリー食品選択における体系的誤差をもたらす</title>
     <link>https://osf.io/ja3dh</link>
     <guid isPermaLink="false">https://osf.io/ja3dh#ja</guid>
     <pubDate>Thu, 26 Feb 2026 22:30:18 +0000</pubDate>
     <description>Non-linear estimates of nutritional properties, driven by health biases, lead to systematic errors in caloric food choice</description>
   </item>
   <item>
-    <title>気分調節におけるヤマブシタケの神経栄養メカニズムの評価：新たな知見と臨床応用の課題</title>
+    <title>気分調節におけるヤマブシタケの神経栄養機構の評価：新たな知見と翻訳的課題</title>
     <link>https://osf.io/uyz7s</link>
     <guid isPermaLink="false">https://osf.io/uyz7s#ja</guid>
     <pubDate>Thu, 26 Feb 2026 22:30:18 +0000</pubDate>
@@ -286,21 +321,21 @@
     <description>Beyond Symptom Reduction:  The Causal Effect of Cognitive Behavioral Therapy on Interpersonal Problems</description>
   </item>
   <item>
-    <title>教員養成における生成型AI準備性：教員志望者の能力、戦略、および支援ニーズに関する混合方法研究</title>
+    <title>教員養成における生成型AI準備性：教職志望者の能力、戦略、および支援ニーズに関する混合研究法的検討</title>
     <link>https://osf.io/2p8gb</link>
     <guid isPermaLink="false">https://osf.io/2p8gb#ja</guid>
     <pubDate>Thu, 26 Feb 2026 21:55:50 +0000</pubDate>
     <description>Generative AI Readiness in Teacher Education: A Mixed-Methods Study of Pre-Service Teachers’ Competencies, Strategies, and Support Needs</description>
   </item>
   <item>
-    <title>領域および年齢にわたる精神健康と不確実性不容忍：社会的不確実性不容忍の特別な役割</title>
+    <title>領域および年齢にわたる精神健康と不確実性不耐性：社会的不確実性不耐性の特別な役割</title>
     <link>https://osf.io/n2w7z</link>
     <guid isPermaLink="false">https://osf.io/n2w7z#ja</guid>
     <pubDate>Thu, 26 Feb 2026 21:55:50 +0000</pubDate>
     <description>Mental Health and Intolerance of Uncertainty across Domains and Age: A Special Role for Intolerance of Social Uncertainty</description>
   </item>
   <item>
-    <title>LENAを用いた子ども向け発話と共読の分類：言語特異的モデリングと時間解像度の影響</title>
+    <title>LENAを用いた子ども向け発話と共有読書の分類：言語特異的モデリングと時間分解能の影響</title>
     <link>https://osf.io/dbfsu</link>
     <guid isPermaLink="false">https://osf.io/dbfsu#ja</guid>
     <pubDate>Thu, 26 Feb 2026 21:55:49 +0000</pubDate>
@@ -314,46 +349,11 @@
     <description>From Temperament to Regulation: The Role of Cognitive Control and Flexibility in Emotion Regulation</description>
   </item>
   <item>
-    <title>AI支援型知識労働における神経多様性専門性：認知的負債、内省的スキャフォールディング、および再設計の必要性</title>
+    <title>AI支援型知識労働における神経多様性専門性：認知的負債、内省的足場づくり、再設計の必要性</title>
     <link>https://osf.io/yp4ru</link>
     <guid isPermaLink="false">https://osf.io/yp4ru#ja</guid>
     <pubDate>Thu, 26 Feb 2026 21:55:49 +0000</pubDate>
     <description>Neurodivergent Expertise in AI-Augmented Knowledge Work: Cognitive Debt, Reflective Scaffolding, and the Redesign Imperative</description>
-  </item>
-  <item>
-    <title>ソーシャルメディアはどのようにして青年の孤独感を生み出すのか？社会資本と社会的比較の個人内異質的媒介効果</title>
-    <link>https://osf.io/pkh69</link>
-    <guid isPermaLink="false">https://osf.io/pkh69#ja</guid>
-    <pubDate>Thu, 26 Feb 2026 21:55:48 +0000</pubDate>
-    <description>How Does Social Media Make Adolescents Lonely? Social Capital and Social Comparison as Heterogeneous Within-Person Mediators</description>
-  </item>
-  <item>
-    <title>健康な成人におけるグルコース摂取と心理社会的ストレスが食欲渇望に及ぼす影響</title>
-    <link>https://osf.io/gc5ue</link>
-    <guid isPermaLink="false">https://osf.io/gc5ue#ja</guid>
-    <pubDate>Thu, 26 Feb 2026 21:28:26 +0000</pubDate>
-    <description>The influence of glucose intake and psychosocial stress on food craving in healthy adults</description>
-  </item>
-  <item>
-    <title>カンナビノイド過敏症候群の症状を報告する成人における自殺念慮および行動の増加：米国成人の全国調査結果</title>
-    <link>https://osf.io/ez7mk</link>
-    <guid isPermaLink="false">https://osf.io/ez7mk#ja</guid>
-    <pubDate>Thu, 26 Feb 2026 21:28:26 +0000</pubDate>
-    <description>Elevated suicidal thoughts and behaviors among adults reporting symptoms of Cannabinoid Hyperemesis Syndrome: Results from a national survey of US adults</description>
-  </item>
-  <item>
-    <title>言語と精神病理の共進化：子ども時代における個人内および個人間効果の解析</title>
-    <link>https://osf.io/dxm7c</link>
-    <guid isPermaLink="false">https://osf.io/dxm7c#ja</guid>
-    <pubDate>Thu, 26 Feb 2026 21:28:25 +0000</pubDate>
-    <description>The co-evolution of language and psychopathology: parsing within and between person effects across childhood</description>
-  </item>
-  <item>
-    <title>AIを活用した個別化医師-患者コミュニケーション教育：医療教育における対人応答型バーチャル患者プロトタイプPerTRAIN</title>
-    <link>https://osf.io/dwn8b</link>
-    <guid isPermaLink="false">https://osf.io/dwn8b#ja</guid>
-    <pubDate>Thu, 26 Feb 2026 20:32:09 +0000</pubDate>
-    <description>Teaching Personalized Doctor-Patient Communication with AI: PerTRAIN – A Prototype for Interpersonally Responsive Virtual Patients in Medical Education</description>
   </item>
 </channel>
 </rss>
