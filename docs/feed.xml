@@ -6,21 +6,28 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>「どのように感じますか？」直接的な価数測定が心理的幸福感の強度ベース予測因子を上回る感情変動指標を可能にする</title>
+    <title>自己価値を超えて：サブサハラアフリカにおける主観的幸福感の基盤としての社会的価値</title>
+    <link>https://osf.io/k8hwg</link>
+    <guid isPermaLink="false">https://osf.io/k8hwg#ja</guid>
+    <pubDate>Sat, 28 Feb 2026 16:21:10 +0000</pubDate>
+    <description>Beyond Self Worth: Social Worth as a Foundation of Subjective Well-being in Sub-Saharan Africa</description>
+  </item>
+  <item>
+    <title>「あなたの気分はどうですか？」直接的な価数測定が心理的幸福感の強度ベース予測因子を上回る感情変動指標を可能にする</title>
     <link>https://osf.io/gmkc8</link>
     <guid isPermaLink="false">https://osf.io/gmkc8#ja</guid>
     <pubDate>Sat, 28 Feb 2026 13:33:30 +0000</pubDate>
     <description>“How Do You Feel?” Direct Valence Measurement Enables Affect Shift Metrics That Outperform Intensity-Based Predictors of Psychological Well-Being</description>
   </item>
   <item>
-    <title>見えないが影響力のある連想語：語の連想語の特性が語彙的および意味的処理に与える影響</title>
+    <title>見えないが影響力のある連想語：単語の連想語の特性が語彙的および意味的処理に及ぼす影響</title>
     <link>https://osf.io/na3cj</link>
     <guid isPermaLink="false">https://osf.io/na3cj#ja</guid>
     <pubDate>Sat, 28 Feb 2026 12:36:59 +0000</pubDate>
     <description>Unseen but influential associates:  Properties of words’ associates influence lexical and semantic processing</description>
   </item>
   <item>
-    <title>信頼の判断基準：教育評価におけるAI採点の信頼性向上に関する研究</title>
+    <title>信頼の判断基準：教育評価におけるAI採点の信頼性向上に向けて</title>
     <link>https://osf.io/26qf3</link>
     <guid isPermaLink="false">https://osf.io/26qf3#ja</guid>
     <pubDate>Sat, 28 Feb 2026 10:19:17 +0000</pubDate>
@@ -69,7 +76,7 @@
     <description>Online behavioral studies are safe for now: Unusual RTs do not imply bots (A reply to Van der Stigchel et al., 2026)</description>
   </item>
   <item>
-    <title>ブラジル乳がん女性における短縮版PANAS-VRPの異文化適応と心理計量学的検証</title>
+    <title>乳がん患者ブラジル女性における短縮版PANAS-VRPの異文化適応と心理計量学的検証</title>
     <link>https://osf.io/zfmn6</link>
     <guid isPermaLink="false">https://osf.io/zfmn6#ja</guid>
     <pubDate>Sat, 28 Feb 2026 10:19:14 +0000</pubDate>
@@ -90,14 +97,14 @@
     <description>Predictive Processing of A-Ha! Moments at the Edge-of-Chaos: Integrating Wallas’s Illumination and Openness into Neuroscience</description>
   </item>
   <item>
-    <title>行動変容の輪から世界的ギャップへ：高影響気候行動の決定要因に関する系統的レビュー</title>
+    <title>行動変容の輪から世界的ギャップへ：高影響気候行動の決定要因に関する体系的レビュー</title>
     <link>https://osf.io/9zmbv</link>
     <guid isPermaLink="false">https://osf.io/9zmbv#ja</guid>
     <pubDate>Sat, 28 Feb 2026 09:46:20 +0000</pubDate>
     <description>From Behaviour Change Wheel to Global Gaps: A Systematic Review of the Determinants of High-Impact Climate Action</description>
   </item>
   <item>
-    <title>中国における気候に優しい食生活選択を形成するビデオメッセージの言語的特徴の影響</title>
+    <title>中国における気候変動に配慮した食生活選択に影響を与えるビデオメッセージの言語的特徴の役割</title>
     <link>https://osf.io/mp9gy</link>
     <guid isPermaLink="false">https://osf.io/mp9gy#ja</guid>
     <pubDate>Sat, 28 Feb 2026 09:46:20 +0000</pubDate>
@@ -139,7 +146,7 @@
     <description>Phase and Task Dependent Effects of Theta HD-tACS Over the Frontal Aslant Tract on Speech Production</description>
   </item>
   <item>
-    <title>妊娠中および産後の有色人種における自己傷害的思考・行動の評価に関する考慮事項と課題</title>
+    <title>妊娠中および産後の有色人種における自己傷害的思考および行動の評価に関する考慮事項と課題</title>
     <link>https://osf.io/zuxca</link>
     <guid isPermaLink="false">https://osf.io/zuxca#ja</guid>
     <pubDate>Sat, 28 Feb 2026 08:50:31 +0000</pubDate>
@@ -153,7 +160,7 @@
     <description>The longitudinal relation between motor and language skills at two and four-to 4.5 years of age in a large Singaporean cohort</description>
   </item>
   <item>
-    <title>臨床的に異質なサンプルにおける受動的スマートフォンセンシングデータを用いた瞬間的感情の個別予測：機械学習および混合効果モデルの評価</title>
+    <title>臨床的に異質なサンプルにおけるパッシブスマートフォンセンシングデータを用いた瞬間的情動の個別予測：機械学習および混合効果モデルの評価</title>
     <link>https://osf.io/2g8dp</link>
     <guid isPermaLink="false">https://osf.io/2g8dp#ja</guid>
     <pubDate>Sat, 28 Feb 2026 08:50:31 +0000</pubDate>
@@ -188,14 +195,14 @@
     <description>Going Light: The Effects of Minimal Mobile Phone Adoption on Young Adults’ Well-Being Depend on Motivation</description>
   </item>
   <item>
-    <title>自分を騙してはいけない：ファインマン、神経多様性、そしてデジタルメンタルヘルスにおける誠実なAI</title>
+    <title>自己欺瞞を許さない：ファインマン、神経多様性、そしてデジタルメンタルヘルスにおける誠実なAIの探求</title>
     <link>https://osf.io/jv65x</link>
     <guid isPermaLink="false">https://osf.io/jv65x#ja</guid>
     <pubDate>Sat, 28 Feb 2026 08:23:24 +0000</pubDate>
     <description>You Must Not Fool Yourself: Feynman, Neurodiversity, and Honest AI in Digital Mental Health</description>
   </item>
   <item>
-    <title>化石化した有声歯茎接近音：ティクリティ方言話者の英語/r/における音響的硬直性とAI検出による定着化</title>
+    <title>化石化した有声歯茎接近音：ティクリトアラビア語話者の英語/r/における音響的硬直性とAI検出による定着現象</title>
     <link>https://osf.io/dt6yk</link>
     <guid isPermaLink="false">https://osf.io/dt6yk#ja</guid>
     <pubDate>Sat, 28 Feb 2026 01:27:22 +0000</pubDate>
@@ -216,14 +223,14 @@
     <description>Inside and outside the body space: A study on environmental knowledge, interoceptive and functional body representations in the prodromal stage of dementia</description>
   </item>
   <item>
-    <title>愛着とADHD：両者の関連性と愛着の学習理論のADHDへの応用可能性の検討</title>
+    <title>愛着とADHD：両者の関連性と愛着の学習理論のADHDへの応用検討</title>
     <link>https://osf.io/u5cwm</link>
     <guid isPermaLink="false">https://osf.io/u5cwm#ja</guid>
     <pubDate>Fri, 27 Feb 2026 23:44:58 +0000</pubDate>
     <description>Attachment and ADHD: how are they related? Exploring the application of the Learning Theory of Attachment to ADHD</description>
   </item>
   <item>
-    <title>新生児脳の安静時機能的結合性：生後100日間の課題非依存的機能的結合に関する系統的レビュー</title>
+    <title>新生児脳の安静時機能的結合性：生後100日間における課題非依存的機能的結合の系統的レビュー</title>
     <link>https://osf.io/uj3ps</link>
     <guid isPermaLink="false">https://osf.io/uj3ps#ja</guid>
     <pubDate>Fri, 27 Feb 2026 23:44:58 +0000</pubDate>
@@ -251,14 +258,14 @@
     <description>Self-Control Strategies to Reduce Meat Consumption: An Ecological Momentary Intervention</description>
   </item>
   <item>
-    <title>神との和解の媒介：スペイン語圏4カ国のカトリック司祭における告解時の神聖な赦し体験の探究</title>
+    <title>神との和解の媒介：スペイン語圏4カ国のカトリック司祭における告解時の神聖な許しの体験の探究</title>
     <link>https://osf.io/d4z7w</link>
     <guid isPermaLink="false">https://osf.io/d4z7w#ja</guid>
     <pubDate>Fri, 27 Feb 2026 23:20:12 +0000</pubDate>
     <description>Mediating Reconciliation With God: Exploring Divine Forgiveness Experiences During Confession Among Catholic Priests From Four Spanish-Speaking Countries</description>
   </item>
   <item>
-    <title>単一言語話者および二言語話者の小学生における単語読み学習パターンの類似点と相違点：横断的研究</title>
+    <title>単一言語話者および二言語話者の小学生における単語読解学習パターンの類似点と相違点：横断的研究</title>
     <link>https://osf.io/r8g2k</link>
     <guid isPermaLink="false">https://osf.io/r8g2k#ja</guid>
     <pubDate>Fri, 27 Feb 2026 23:20:12 +0000</pubDate>
@@ -272,7 +279,7 @@
     <description>Testing the dependency of metacognitive monitoring and executive functions in children: A cross-sectional and longitudinal study.</description>
   </item>
   <item>
-    <title>外的注意と内的注意の競合、競争および協調</title>
+    <title>外的注意と内的注意の競合、同時発生および協調メカニズム</title>
     <link>https://osf.io/ry94x</link>
     <guid isPermaLink="false">https://osf.io/ry94x#ja</guid>
     <pubDate>Fri, 27 Feb 2026 22:49:12 +0000</pubDate>
@@ -286,7 +293,7 @@
     <description>Decomposing subject retrieval: Diverging interference profiles for agreement and thematic dependencies in English</description>
   </item>
   <item>
-    <title>自由意志とリブレ・アルビトルに関する信念：言語を超えた選択、意志力、制約の役割</title>
+    <title>自由意志とリーブル・アルビトルに関する信念：言語を超えた選択、意志力、制約の役割</title>
     <link>https://osf.io/edth2</link>
     <guid isPermaLink="false">https://osf.io/edth2#ja</guid>
     <pubDate>Fri, 27 Feb 2026 22:18:47 +0000</pubDate>
@@ -307,7 +314,7 @@
     <description>Can the neurodiversity approach apply to ADHD?  Exploring the lived experience of ADHD as neurodivergence</description>
   </item>
   <item>
-    <title>社会情動的映画視聴の多様なモダリティ相関が子ども期から成人期にわたる内在化症状を説明する</title>
+    <title>社会情動的映画視聴の多モーダル相関が児童期から成人期にわたる内向的症状を説明する</title>
     <link>https://osf.io/8gcke</link>
     <guid isPermaLink="false">https://osf.io/8gcke#ja</guid>
     <pubDate>Fri, 27 Feb 2026 11:28:39 +0000</pubDate>
@@ -321,39 +328,32 @@
     <description>Belief in State Propaganda Narratives Is Associated with Russian Soldiers’ Combat Motivation</description>
   </item>
   <item>
-    <title>音楽聴取中の神経同期：脳波に基づく被験者間相関研究の系統的レビュー</title>
+    <title>音楽聴取中の神経同期：脳波（EEG）を用いた被験者間相関研究の系統的レビュー</title>
     <link>https://osf.io/yqsj5</link>
     <guid isPermaLink="false">https://osf.io/yqsj5#ja</guid>
     <pubDate>Fri, 27 Feb 2026 10:33:07 +0000</pubDate>
     <description>Neural Synchrony During Music-Listening: A Systematic Review  of EEG-Based Inter-Subject Correlation Studies</description>
   </item>
   <item>
-    <title>心理的抵抗期間により明らかにされた意識アクセスの離散的エピソード</title>
+    <title>心理的抵抗期間によって明らかにされた意識アクセスの離散的エピソード</title>
     <link>https://osf.io/m23z8</link>
     <guid isPermaLink="false">https://osf.io/m23z8#ja</guid>
     <pubDate>Fri, 27 Feb 2026 09:36:07 +0000</pubDate>
     <description>Discrete episodes of conscious access revealed by the psychological refractory period</description>
   </item>
   <item>
-    <title>在宅型構造化運動プログラムに参加する高齢者における異なる動機付けプロファイル間で認められる類似した運動継続と身体的健康成果</title>
+    <title>在宅型構造化運動プログラムに参加する高齢者における異なる動機プロファイル間で類似した運動継続および身体的健康成果の観察</title>
     <link>https://osf.io/gk74p</link>
     <guid isPermaLink="false">https://osf.io/gk74p#ja</guid>
     <pubDate>Fri, 27 Feb 2026 09:36:07 +0000</pubDate>
     <description>Similar exercise adherence and physical fitness outcomes are observed across distinct motivation profiles in older adults participating in a home-based structured exercise programme</description>
   </item>
   <item>
-    <title>誰が誰と組むのか：米国政治連合の多次元認知マップ</title>
+    <title>誰が誰と共に行くのか：アメリカ政治連合の多次元認知マップ</title>
     <link>https://osf.io/hx97a</link>
     <guid isPermaLink="false">https://osf.io/hx97a#ja</guid>
     <pubDate>Fri, 27 Feb 2026 09:36:07 +0000</pubDate>
     <description>Who goes with whom: The multidimensional cognitive map of U.S. political coalitions</description>
-  </item>
-  <item>
-    <title>未来自己連続性を強化する新手法：デイ・プリコンストラクション・メソッド</title>
-    <link>https://osf.io/6btk2</link>
-    <guid isPermaLink="false">https://osf.io/6btk2#ja</guid>
-    <pubDate>Fri, 27 Feb 2026 09:36:06 +0000</pubDate>
-    <description>The Day Preconstruction Method: A novel method to strengthen Future Self-Continuity</description>
   </item>
 </channel>
 </rss>
