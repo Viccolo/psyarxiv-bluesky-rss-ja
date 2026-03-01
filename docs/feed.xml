@@ -6,21 +6,21 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>空間認知トレーニングの比較：メンタルローテーションと視点取得およびそれらの数学能力との関連性</title>
+    <title>空間認知トレーニングの比較：メンタルローテーションと視点取得が数学能力に及ぼす影響</title>
     <link>https://osf.io/nkcdb</link>
     <guid isPermaLink="false">https://osf.io/nkcdb#ja</guid>
     <pubDate>Sun, 01 Mar 2026 15:18:39 +0000</pubDate>
     <description>Comparing Spatial Training Pathways: Mental Rotation, Perspective Taking, and Their Links to Mathematics</description>
   </item>
   <item>
-    <title>スライダー尺度とリッカート尺度の比較：モバイルアセスメントにおける心理測定特性の検討</title>
+    <title>スライダー尺度とリッカート尺度の比較：移動中評価における心理測定特性</title>
     <link>https://osf.io/y29xa</link>
     <guid isPermaLink="false">https://osf.io/y29xa#ja</guid>
     <pubDate>Sun, 01 Mar 2026 15:18:38 +0000</pubDate>
     <description>Slider vs. Likert Scales: Psychometric Properties in Ambulatory Assessment</description>
   </item>
   <item>
-    <title>I/Eモデルに「なぜ」を加える：失敗に対する能力帰属が社会的比較および次元的比較効果の媒介役として果たす役割</title>
+    <title>I/Eモデルへの「なぜ」の追加：失敗に対する能力帰属が社会的比較および次元的比較効果の媒介要因として果たす役割</title>
     <link>https://osf.io/uzwbr</link>
     <guid isPermaLink="false">https://osf.io/uzwbr#ja</guid>
     <pubDate>Sun, 01 Mar 2026 15:18:38 +0000</pubDate>
@@ -41,14 +41,14 @@
     <description>Event segmentation during speech listening: The relative contributions of thematic structure and prosody</description>
   </item>
   <item>
-    <title>長期追跡による心理的距離付け訓練は、配偶者を喪失した遺族の自己報告による負の感情、ストレス、悲嘆反芻、および全脳の負の感情パターンの表出を低減する</title>
+    <title>長期追跡による心理的距離付け訓練が遺族配偶者の自己報告による負の感情、ストレス、悲嘆反すうおよび全脳負の感情パターンの表出を低減する効果</title>
     <link>https://osf.io/ps54j</link>
     <guid isPermaLink="false">https://osf.io/ps54j#ja</guid>
     <pubDate>Sun, 01 Mar 2026 14:20:43 +0000</pubDate>
     <description>Longitudinal psychological distancing training in bereaved spouses reduces self-reported negative affect, stress, grief rumination, and whole-brain negative affect pattern expression</description>
   </item>
   <item>
-    <title>（政治的）性別闘争：14か国における性別関連態度の性別分極化</title>
+    <title>（政治的）性別闘争：14か国における性別関連態度のジェンダー分極化</title>
     <link>https://osf.io/uymfj</link>
     <guid isPermaLink="false">https://osf.io/uymfj#ja</guid>
     <pubDate>Sat, 28 Feb 2026 18:55:08 +0000</pubDate>
@@ -62,21 +62,21 @@
     <description>Mechanisms of entanglement: how a gendered world makes a gendered brain</description>
   </item>
   <item>
-    <title>交尾競争尺度の開発と検証：同性間競争の四因子測定法</title>
+    <title>交際競争尺度の開発と検証：同性愛者間競争の四因子測定法</title>
     <link>https://osf.io/4gz98</link>
     <guid isPermaLink="false">https://osf.io/4gz98#ja</guid>
     <pubDate>Sat, 28 Feb 2026 18:55:07 +0000</pubDate>
     <description>Development and Validation of the Mating Competition Scale:  A Four-Factor Measure of Intrasexual Competition</description>
   </item>
   <item>
-    <title>社会的相互作用における生体信号の共有が心理生理状態および知覚された対人親密感に与える影響</title>
+    <title>社会的相互作用における生体信号の共有が心理生理学的状態および知覚された対人親密感に及ぼす影響</title>
     <link>https://osf.io/ktqev</link>
     <guid isPermaLink="false">https://osf.io/ktqev#ja</guid>
     <pubDate>Sat, 28 Feb 2026 18:55:06 +0000</pubDate>
     <description>Sharing biosignals during social interaction modulates psychophysiological  states and perceived interpersonal closeness</description>
   </item>
   <item>
-    <title>中期児童期におけるADHD行動と愛着（不）安定性の双方向的関連：縦断的研究</title>
+    <title>中期児童期におけるADHD行動と愛着（不）安全性の双方向的関連：縦断的研究</title>
     <link>https://osf.io/xk49g</link>
     <guid isPermaLink="false">https://osf.io/xk49g#ja</guid>
     <pubDate>Sat, 28 Feb 2026 18:55:06 +0000</pubDate>
@@ -104,7 +104,7 @@
     <description>Beyond Self Worth: Social Worth as a Foundation of Subjective Well-being in Sub-Saharan Africa</description>
   </item>
   <item>
-    <title>「あなたの気分はどうですか？」直接的な価数測定が心理的幸福感の強度ベース予測因子を上回る感情変動指標を可能にする</title>
+    <title>「どのように感じますか？」直接的な価数測定が心理的幸福感の強度ベース予測因子を上回る感情変動指標を可能にする</title>
     <link>https://osf.io/gmkc8</link>
     <guid isPermaLink="false">https://osf.io/gmkc8#ja</guid>
     <pubDate>Sat, 28 Feb 2026 13:33:30 +0000</pubDate>
@@ -160,7 +160,7 @@
     <description>Belief in the reasonableness of others: stability and responsiveness to electoral shock</description>
   </item>
   <item>
-    <title>オンライン行動研究は現時点で安全である：異常な反応時間はボットを示唆しない（Van der Stigchelら2026年への応答）</title>
+    <title>オンライン行動研究は現時点で安全である：異常な反応時間はボットを意味しない（Van der Stigchelら2026年への応答）</title>
     <link>https://osf.io/gjw5u</link>
     <guid isPermaLink="false">https://osf.io/gjw5u#ja</guid>
     <pubDate>Sat, 28 Feb 2026 10:19:15 +0000</pubDate>
@@ -174,7 +174,7 @@
     <description>Cross-Cultural Adaptation and Psychometric Validation of the Short PANAS-VRP in Brazilian Women with Breast Cancer</description>
   </item>
   <item>
-    <title>犬が道筋について知っていること：隠喩、メカニズム、および領域横断的拡張の系統発生</title>
+    <title>犬が道筋について知っていること：比喩、メカニズム、および領域横断的拡張の系統発生</title>
     <link>https://osf.io/vuafy</link>
     <guid isPermaLink="false">https://osf.io/vuafy#ja</guid>
     <pubDate>Sat, 28 Feb 2026 09:46:21 +0000</pubDate>
@@ -195,7 +195,7 @@
     <description>From Behaviour Change Wheel to Global Gaps: A Systematic Review of the Determinants of High-Impact Climate Action</description>
   </item>
   <item>
-    <title>中国における気候に配慮した食生活選択に影響を与えるビデオメッセージの言語的特徴の役割</title>
+    <title>中国における気候変動対応型食生活選択に影響を与えるビデオメッセージの言語的特徴の役割</title>
     <link>https://osf.io/mp9gy</link>
     <guid isPermaLink="false">https://osf.io/mp9gy#ja</guid>
     <pubDate>Sat, 28 Feb 2026 09:46:20 +0000</pubDate>
@@ -209,7 +209,7 @@
     <description>Resting Magnetoencephalography Alterations in Severe Mental Illnesses: A Systematic Review</description>
   </item>
   <item>
-    <title>ベイズ因子を用いた任意停止の歪み効果は最小限である―Andersonら（2021）へのコメント</title>
+    <title>ベイズ因子を用いた任意停止の歪み効果は最小限である ― Andersonら（2021）へのコメント</title>
     <link>https://osf.io/9jmw6</link>
     <guid isPermaLink="false">https://osf.io/9jmw6#ja</guid>
     <pubDate>Sat, 28 Feb 2026 09:22:07 +0000</pubDate>
@@ -223,7 +223,7 @@
     <description>Trajectories of caregiver psychosocial stress and child psychiatric risk: The role of preterm birth and racial socioenvironmental inequity</description>
   </item>
   <item>
-    <title>新興する集団的アイデンティティと持続的抗議参加：2024–2025年セルビア学生抗議運動の事例研究</title>
+    <title>新興する集団的アイデンティティと持続的抗議参加：2024–2025年セルビア学生抗議運動の証拠</title>
     <link>https://osf.io/uysn6</link>
     <guid isPermaLink="false">https://osf.io/uysn6#ja</guid>
     <pubDate>Sat, 28 Feb 2026 09:22:06 +0000</pubDate>
@@ -244,21 +244,21 @@
     <description>Assessment Considerations and Challenges in Measuring Self-Injurious Thoughts and Behaviors in Pregnant and Postpartum People of Color</description>
   </item>
   <item>
-    <title>シンガポール大規模コホートにおける2歳および4〜4.5歳時の運動能力と言語能力の縦断的関連性</title>
+    <title>シンガポール大規模コホートにおける2歳および4～4.5歳時の運動能力と言語能力の縦断的関連性</title>
     <link>https://osf.io/ktzmq</link>
     <guid isPermaLink="false">https://osf.io/ktzmq#ja</guid>
     <pubDate>Sat, 28 Feb 2026 08:50:31 +0000</pubDate>
     <description>The longitudinal relation between motor and language skills at two and four-to 4.5 years of age in a large Singaporean cohort</description>
   </item>
   <item>
-    <title>臨床的に異質なサンプルにおける受動的スマートフォンセンシングデータを用いた瞬間的感情の個別予測：機械学習および混合効果モデルの評価</title>
+    <title>臨床的に異質なサンプルにおけるパッシブスマートフォンセンシングデータを用いた瞬間的感情の個別予測：機械学習および混合効果モデルの評価</title>
     <link>https://osf.io/2g8dp</link>
     <guid isPermaLink="false">https://osf.io/2g8dp#ja</guid>
     <pubDate>Sat, 28 Feb 2026 08:50:31 +0000</pubDate>
     <description>Personalized Prediction of Momentary Affect with Passive Smartphone Sensing Data in a Clinically Heterogeneous Sample: An evaluation of machine learning and mixed effects approaches</description>
   </item>
   <item>
-    <title>統計的学習における根本的論争の解決：プロセス分離法の有効性</title>
+    <title>統計学習における根本的論争の解決：プロセス分離法の有効性</title>
     <link>https://osf.io/uwa35</link>
     <guid isPermaLink="false">https://osf.io/uwa35#ja</guid>
     <pubDate>Sat, 28 Feb 2026 08:50:30 +0000</pubDate>
@@ -279,7 +279,7 @@
     <description>Infants’ Social Evaluations Revisited: An Updated Meta-Analysis</description>
   </item>
   <item>
-    <title>ライトユーザーの心理：若年成人のウェルビーイングに対する最小限の携帯電話利用の影響と動機の関係</title>
+    <title>ライトユーザー化：若年成人のウェルビーイングに対する最小限の携帯電話利用の影響は動機によって異なる</title>
     <link>https://osf.io/ubkeq</link>
     <guid isPermaLink="false">https://osf.io/ubkeq#ja</guid>
     <pubDate>Sat, 28 Feb 2026 08:23:24 +0000</pubDate>
@@ -314,14 +314,14 @@
     <description>Inside and outside the body space: A study on environmental knowledge, interoceptive and functional body representations in the prodromal stage of dementia</description>
   </item>
   <item>
-    <title>愛着とADHD：愛着の学習理論のADHDへの応用可能性の検討</title>
+    <title>愛着とADHD：両者の関連性と愛着の学習理論のADHDへの応用検討</title>
     <link>https://osf.io/u5cwm</link>
     <guid isPermaLink="false">https://osf.io/u5cwm#ja</guid>
     <pubDate>Fri, 27 Feb 2026 23:44:58 +0000</pubDate>
     <description>Attachment and ADHD: how are they related? Exploring the application of the Learning Theory of Attachment to ADHD</description>
   </item>
   <item>
-    <title>新生児期の安静時脳機能：生後100日以内の課題非依存的機能的結合性に関する系統的レビュー</title>
+    <title>新生児脳の安静時機能的結合性：生後100日間における課題非依存的機能的結合の系統的レビュー</title>
     <link>https://osf.io/uj3ps</link>
     <guid isPermaLink="false">https://osf.io/uj3ps#ja</guid>
     <pubDate>Fri, 27 Feb 2026 23:44:58 +0000</pubDate>
@@ -335,7 +335,7 @@
     <description>The relation between math anxiety and math self-concept to math performance varies across study math load</description>
   </item>
   <item>
-    <title>冷静な真実：被害者の酩酊状態と専門家証言が模擬陪審員の意思決定に与える影響</title>
+    <title>冷静な現実：被害者の酩酊状態と専門家証言が模擬陪審員の意思決定に与える影響</title>
     <link>https://osf.io/8bdxw</link>
     <guid isPermaLink="false">https://osf.io/8bdxw#ja</guid>
     <pubDate>Fri, 27 Feb 2026 23:44:58 +0000</pubDate>
