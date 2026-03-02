@@ -6,6 +6,27 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>表情認知には注意が必要か？Eimerら（2003）の多施設再現研究</title>
+    <link>https://osf.io/27atx</link>
+    <guid isPermaLink="false">https://osf.io/27atx#ja</guid>
+    <pubDate>Mon, 02 Mar 2026 19:34:05 +0000</pubDate>
+    <description>Does facial expression processing require attention? A multi-lab replication of Eimer et al. (2003)</description>
+  </item>
+  <item>
+    <title>語幹と接辞の位置符号化の解明：ERPによる形態素転置効果の証拠</title>
+    <link>https://osf.io/akfpu</link>
+    <guid isPermaLink="false">https://osf.io/akfpu#ja</guid>
+    <pubDate>Mon, 02 Mar 2026 19:34:05 +0000</pubDate>
+    <description>Windows into the Positional Encoding of Stems and Affixes: Evidence from Morpheme Transposition Effects via ERPs</description>
+  </item>
+  <item>
+    <title>臨床的高リスク若年者におけるミスマッチネガティビティと抗精神病薬治療反応の関係性</title>
+    <link>https://osf.io/c5b6j</link>
+    <guid isPermaLink="false">https://osf.io/c5b6j#ja</guid>
+    <pubDate>Mon, 02 Mar 2026 19:34:02 +0000</pubDate>
+    <description>Relationship between Mismatch Negativity and Antipsychotic Treatment Response in Young People at Clinical High Risk for Psychosis</description>
+  </item>
+  <item>
     <title>危機時における神経多様性サンプルのメンタルヘルスとケアアクセス：COVID-19から得られる教訓</title>
     <link>https://osf.io/unf5g</link>
     <guid isPermaLink="false">https://osf.io/unf5g#ja</guid>
@@ -13,14 +34,14 @@
     <description>Mental health and access to care for a neurodiverse sample during a time of crisis: What can we learn from COVID-19?</description>
   </item>
   <item>
-    <title>乳幼児における誤検出に関連する前頭部シータ波活動：家族の社会経済的地位の影響</title>
+    <title>幼児の誤検出に関連する前頭部シータ波活動：家族の社会経済的地位の影響</title>
     <link>https://osf.io/uenw6</link>
     <guid isPermaLink="false">https://osf.io/uenw6#ja</guid>
     <pubDate>Mon, 02 Mar 2026 18:39:47 +0000</pubDate>
     <description>Frontal theta activation associated with error detection in toddlers:  Influence of familial socio-economic status</description>
   </item>
   <item>
-    <title>乳幼児期および児童期における注意力と自己調整能力の発達</title>
+    <title>乳幼児期における注意力と自己調整能力の発達</title>
     <link>https://osf.io/y4puz</link>
     <guid isPermaLink="false">https://osf.io/y4puz#ja</guid>
     <pubDate>Mon, 02 Mar 2026 18:39:46 +0000</pubDate>
@@ -34,7 +55,7 @@
     <description>On Risks and Rewards: A Longitudinal Network Analysis of Defending and Popularity in Late Childhood</description>
   </item>
   <item>
-    <title>乳児の気質と家族の社会経済的地位が注意調節の発達に及ぼす影響</title>
+    <title>乳児の気質と家族の社会経済的地位が注意制御の発達に及ぼす影響</title>
     <link>https://osf.io/nsqdf</link>
     <guid isPermaLink="false">https://osf.io/nsqdf#ja</guid>
     <pubDate>Mon, 02 Mar 2026 09:42:53 +0000</pubDate>
@@ -48,7 +69,7 @@
     <description>Estimating the threat of AI-agent responding across online survey platforms</description>
   </item>
   <item>
-    <title>統合失調症および双極性障害・うつ病患者の成人における網膜層薄化の早期発達的起源：遺伝的高リスク児童・青年における網膜イメージング研究</title>
+    <title>統合失調症および双極性障害・うつ病患者における成人期の網膜層薄化の早期発達的起源：遺伝的高リスク児童・青年における網膜画像解析</title>
     <link>https://osf.io/cy3uj</link>
     <guid isPermaLink="false">https://osf.io/cy3uj#ja</guid>
     <pubDate>Mon, 02 Mar 2026 09:42:53 +0000</pubDate>
@@ -83,14 +104,14 @@
     <description>Slider vs. Likert Scales: Psychometric Properties in Ambulatory Assessment</description>
   </item>
   <item>
-    <title>I/Eモデルに「なぜ」を加える：失敗に対する能力帰属が社会的および次元的比較効果の媒介役として果たす役割</title>
+    <title>I/Eモデルに「なぜ」を加える：失敗に対する能力帰属が社会的比較および次元的比較効果の媒介要因として果たす役割</title>
     <link>https://osf.io/uzwbr</link>
     <guid isPermaLink="false">https://osf.io/uzwbr#ja</guid>
     <pubDate>Sun, 01 Mar 2026 15:18:38 +0000</pubDate>
     <description>Adding the “Why” to the I/E Model: Ability Attributions for Failure as Mediators of Social and Dimensional Comparison Effects</description>
   </item>
   <item>
-    <title>多発性硬化症における性的機能の心理性的モデル：身体イメージ不満、回避型愛着、性的自己効力感の役割</title>
+    <title>多発性硬化症における性的機能の心理性モデル：身体イメージ不満足、回避型愛着、性的自己効力感の役割</title>
     <link>https://osf.io/f23jk</link>
     <guid isPermaLink="false">https://osf.io/f23jk#ja</guid>
     <pubDate>Sun, 01 Mar 2026 14:47:28 +0000</pubDate>
@@ -104,14 +125,14 @@
     <description>Event segmentation during speech listening: The relative contributions of thematic structure and prosody</description>
   </item>
   <item>
-    <title>長期追跡による心理的距離付け訓練が、配偶者を喪失した遺族の自己報告による負の感情、ストレス、悲嘆反芻および全脳の負の感情パターン表出を低減する効果</title>
+    <title>長期的な心理的距離付けトレーニングが配偶者喪失者の自己報告による負の感情、ストレス、悲嘆反芻、および全脳の負の感情パターン表出を低減する効果</title>
     <link>https://osf.io/ps54j</link>
     <guid isPermaLink="false">https://osf.io/ps54j#ja</guid>
     <pubDate>Sun, 01 Mar 2026 14:20:43 +0000</pubDate>
     <description>Longitudinal psychological distancing training in bereaved spouses reduces self-reported negative affect, stress, grief rumination, and whole-brain negative affect pattern expression</description>
   </item>
   <item>
-    <title>（政治的）性別闘争：14か国における性別関連態度の性別分極化</title>
+    <title>（政治的）性別対立：14か国における性別関連態度の性別極性化</title>
     <link>https://osf.io/uymfj</link>
     <guid isPermaLink="false">https://osf.io/uymfj#ja</guid>
     <pubDate>Sat, 28 Feb 2026 18:55:08 +0000</pubDate>
@@ -132,7 +153,7 @@
     <description>Development and Validation of the Mating Competition Scale:  A Four-Factor Measure of Intrasexual Competition</description>
   </item>
   <item>
-    <title>社会的相互作用における生体信号の共有が心理生理学的状態および知覚された対人親密感に及ぼす影響</title>
+    <title>社会的相互作用における生体信号の共有が心理生理状態および知覚された対人親密感に及ぼす影響</title>
     <link>https://osf.io/ktqev</link>
     <guid isPermaLink="false">https://osf.io/ktqev#ja</guid>
     <pubDate>Sat, 28 Feb 2026 18:55:06 +0000</pubDate>
@@ -146,7 +167,7 @@
     <description>The bidirectional link between ADHD behavior and attachment (in)security in middle childhood: A longitudinal study</description>
   </item>
   <item>
-    <title>犯罪者におけるパーソナリティ機能、正常範囲特性、および不適応特性の識別</title>
+    <title>犯罪者におけるパーソナリティ機能、正常範囲の特性、および適応障害的特性の識別</title>
     <link>https://osf.io/8bwxc</link>
     <guid isPermaLink="false">https://osf.io/8bwxc#ja</guid>
     <pubDate>Sat, 28 Feb 2026 18:55:06 +0000</pubDate>
@@ -167,21 +188,21 @@
     <description>Beyond Self Worth: Social Worth as a Foundation of Subjective Well-being in Sub-Saharan Africa</description>
   </item>
   <item>
-    <title>「あなたの気分はどうですか？」直接的価数測定による感情変化指標は、心理的幸福感の強度ベース予測因子を上回る性能を示す</title>
+    <title>「どのように感じますか？」直接的価数測定による感情変動指標は、心理的幸福感の強度ベース予測因子を上回る性能を示す</title>
     <link>https://osf.io/gmkc8</link>
     <guid isPermaLink="false">https://osf.io/gmkc8#ja</guid>
     <pubDate>Sat, 28 Feb 2026 13:33:30 +0000</pubDate>
     <description>“How Do You Feel?” Direct Valence Measurement Enables Affect Shift Metrics That Outperform Intensity-Based Predictors of Psychological Well-Being</description>
   </item>
   <item>
-    <title>見えないが影響力のある連想語：語の連想語の特性が語彙的および意味的処理に与える影響</title>
+    <title>見えないが影響力のある連想語：単語の連想語の特性が語彙的および意味的処理に及ぼす影響</title>
     <link>https://osf.io/na3cj</link>
     <guid isPermaLink="false">https://osf.io/na3cj#ja</guid>
     <pubDate>Sat, 28 Feb 2026 12:36:59 +0000</pubDate>
     <description>Unseen but influential associates:  Properties of words’ associates influence lexical and semantic processing</description>
   </item>
   <item>
-    <title>信頼の判断基準：教育評価におけるAI採点の信頼性向上</title>
+    <title>信頼の判断基準：教育評価におけるAI採点の信頼性向上に向けて</title>
     <link>https://osf.io/26qf3</link>
     <guid isPermaLink="false">https://osf.io/26qf3#ja</guid>
     <pubDate>Sat, 28 Feb 2026 10:19:17 +0000</pubDate>
@@ -209,7 +230,7 @@
     <description>Psychedelic Therapy: A Primer for Primary Care Clinicians—Mescaline</description>
   </item>
   <item>
-    <title>思春期精神病理の発達における認知機能と親の精神病理学的影響</title>
+    <title>思春期精神病理の発達における認知機能と親の精神病理学的要因</title>
     <link>https://osf.io/txbwn</link>
     <guid isPermaLink="false">https://osf.io/txbwn#ja</guid>
     <pubDate>Sat, 28 Feb 2026 10:19:15 +0000</pubDate>
@@ -223,28 +244,28 @@
     <description>Belief in the reasonableness of others: stability and responsiveness to electoral shock</description>
   </item>
   <item>
-    <title>オンライン行動研究は現時点で安全である：異常な反応時間はボットを示唆しない（Van der Stigchelら2026年への応答）</title>
+    <title>オンライン行動研究は現時点で安全：異常な反応時間はボットを意味しない（Van der Stigchelら2026年への応答）</title>
     <link>https://osf.io/gjw5u</link>
     <guid isPermaLink="false">https://osf.io/gjw5u#ja</guid>
     <pubDate>Sat, 28 Feb 2026 10:19:15 +0000</pubDate>
     <description>Online behavioral studies are safe for now: Unusual RTs do not imply bots (A reply to Van der Stigchel et al., 2026)</description>
   </item>
   <item>
-    <title>ブラジル人乳がん女性における短縮版PANAS-VRPの異文化適応と心理計測学的検証</title>
+    <title>ブラジル人乳がん女性における短縮版PANAS-VRPの異文化適応および心理計量学的検証</title>
     <link>https://osf.io/zfmn6</link>
     <guid isPermaLink="false">https://osf.io/zfmn6#ja</guid>
     <pubDate>Sat, 28 Feb 2026 10:19:14 +0000</pubDate>
     <description>Cross-Cultural Adaptation and Psychometric Validation of the Short PANAS-VRP in Brazilian Women with Breast Cancer</description>
   </item>
   <item>
-    <title>犬が道筋について知っていること：隠喩、メカニズム、および領域横断的拡張の系統発生</title>
+    <title>犬が道筋について知っていること：比喩、メカニズム、および領域横断的拡張の系統発生</title>
     <link>https://osf.io/vuafy</link>
     <guid isPermaLink="false">https://osf.io/vuafy#ja</guid>
     <pubDate>Sat, 28 Feb 2026 09:46:21 +0000</pubDate>
     <description>What Dogs Know About Trails: Metaphor, Mechanisms, and the Phylogeny of Cross-Domain Extension</description>
   </item>
   <item>
-    <title>カオスの瀬戸際におけるアハ体験の予測処理：ウォラスの啓示と開放性の神経科学的統合</title>
+    <title>カオスの瀬戸際におけるアハ体験の予測処理：ウォラスの啓示段階と開放性の神経科学的統合</title>
     <link>https://osf.io/dx9mt</link>
     <guid isPermaLink="false">https://osf.io/dx9mt#ja</guid>
     <pubDate>Sat, 28 Feb 2026 09:46:21 +0000</pubDate>
@@ -258,7 +279,7 @@
     <description>From Behaviour Change Wheel to Global Gaps: A Systematic Review of the Determinants of High-Impact Climate Action</description>
   </item>
   <item>
-    <title>中国における気候に配慮した食生活選択に影響を与えるビデオメッセージの言語的特徴の役割</title>
+    <title>中国における気候変動対応型食生活選択に影響を与えるビデオメッセージの言語的特徴の役割</title>
     <link>https://osf.io/mp9gy</link>
     <guid isPermaLink="false">https://osf.io/mp9gy#ja</guid>
     <pubDate>Sat, 28 Feb 2026 09:46:20 +0000</pubDate>
@@ -279,14 +300,14 @@
     <description>Distorting Effects of Optional Stopping with Bayes Factors are Minimal - A Commentary to Anderson et al., 2021</description>
   </item>
   <item>
-    <title>養育者の心理社会的ストレスの軌跡と子どもの精神医学的リスク：早産および人種的社会環境的不平等の役割</title>
+    <title>養育者の心理社会的ストレスの軌跡と児童の精神医学的リスク：早産および人種的社会環境的不平等の役割</title>
     <link>https://osf.io/4mh7p</link>
     <guid isPermaLink="false">https://osf.io/4mh7p#ja</guid>
     <pubDate>Sat, 28 Feb 2026 09:22:07 +0000</pubDate>
     <description>Trajectories of caregiver psychosocial stress and child psychiatric risk: The role of preterm birth and racial socioenvironmental inequity</description>
   </item>
   <item>
-    <title>新興する集団的アイデンティティと持続的抗議参加：2024–2025年セルビア学生抗議運動の事例検証</title>
+    <title>新たに形成される集団的アイデンティティと持続的抗議参加：2024–2025年セルビア学生抗議運動の事例研究</title>
     <link>https://osf.io/uysn6</link>
     <guid isPermaLink="false">https://osf.io/uysn6#ja</guid>
     <pubDate>Sat, 28 Feb 2026 09:22:06 +0000</pubDate>
@@ -300,28 +321,28 @@
     <description>Phase and Task Dependent Effects of Theta HD-tACS Over the Frontal Aslant Tract on Speech Production</description>
   </item>
   <item>
-    <title>妊娠中および産後の有色人種における自己傷害的思考および行動の評価に関する考慮事項と課題</title>
+    <title>有色人種の妊娠中および産後の自己傷害的思考・行動の評価における考慮事項と課題</title>
     <link>https://osf.io/zuxca</link>
     <guid isPermaLink="false">https://osf.io/zuxca#ja</guid>
     <pubDate>Sat, 28 Feb 2026 08:50:31 +0000</pubDate>
     <description>Assessment Considerations and Challenges in Measuring Self-Injurious Thoughts and Behaviors in Pregnant and Postpartum People of Color</description>
   </item>
   <item>
-    <title>シンガポール大規模コホートにおける2歳および4～4.5歳時の運動技能と言語技能の縦断的関連性</title>
+    <title>シンガポール大規模コホートにおける2歳および4～4.5歳時の運動能力と言語能力の縦断的関連性</title>
     <link>https://osf.io/ktzmq</link>
     <guid isPermaLink="false">https://osf.io/ktzmq#ja</guid>
     <pubDate>Sat, 28 Feb 2026 08:50:31 +0000</pubDate>
     <description>The longitudinal relation between motor and language skills at two and four-to 4.5 years of age in a large Singaporean cohort</description>
   </item>
   <item>
-    <title>臨床的に異質なサンプルにおけるパッシブスマートフォンセンシングデータを用いた瞬間的情動の個別予測：機械学習および混合効果モデルの評価</title>
+    <title>臨床的に異質なサンプルにおけるパッシブスマートフォンセンシングデータを用いた瞬間的感情の個別予測：機械学習および混合効果モデルの評価</title>
     <link>https://osf.io/2g8dp</link>
     <guid isPermaLink="false">https://osf.io/2g8dp#ja</guid>
     <pubDate>Sat, 28 Feb 2026 08:50:31 +0000</pubDate>
     <description>Personalized Prediction of Momentary Affect with Passive Smartphone Sensing Data in a Clinically Heterogeneous Sample: An evaluation of machine learning and mixed effects approaches</description>
   </item>
   <item>
-    <title>統計学習における根本的論争の解決：プロセス分離法の有効性</title>
+    <title>統計的学習における根本的論争の解決：プロセス分離法の有効性</title>
     <link>https://osf.io/uwa35</link>
     <guid isPermaLink="false">https://osf.io/uwa35#ja</guid>
     <pubDate>Sat, 28 Feb 2026 08:50:30 +0000</pubDate>
@@ -333,27 +354,6 @@
     <guid isPermaLink="false">https://osf.io/sg96b#ja</guid>
     <pubDate>Sat, 28 Feb 2026 08:50:30 +0000</pubDate>
     <description>Negation causes NPI and NCI illusions in Czech</description>
-  </item>
-  <item>
-    <title>乳児の社会的評価の再検討：最新のメタアナリシス</title>
-    <link>https://osf.io/mw4dy</link>
-    <guid isPermaLink="false">https://osf.io/mw4dy#ja</guid>
-    <pubDate>Sat, 28 Feb 2026 08:23:24 +0000</pubDate>
-    <description>Infants’ Social Evaluations Revisited: An Updated Meta-Analysis</description>
-  </item>
-  <item>
-    <title>ライトユーザーの心理：若年成人のウェルビーイングにおける最小限の携帯電話利用の影響と動機の役割</title>
-    <link>https://osf.io/ubkeq</link>
-    <guid isPermaLink="false">https://osf.io/ubkeq#ja</guid>
-    <pubDate>Sat, 28 Feb 2026 08:23:24 +0000</pubDate>
-    <description>Going Light: The Effects of Minimal Mobile Phone Adoption on Young Adults’ Well-Being Depend on Motivation</description>
-  </item>
-  <item>
-    <title>自分を欺いてはならない：ファインマン、神経多様性、そしてデジタルメンタルヘルスにおける誠実なAI</title>
-    <link>https://osf.io/jv65x</link>
-    <guid isPermaLink="false">https://osf.io/jv65x#ja</guid>
-    <pubDate>Sat, 28 Feb 2026 08:23:24 +0000</pubDate>
-    <description>You Must Not Fool Yourself: Feynman, Neurodiversity, and Honest AI in Digital Mental Health</description>
   </item>
 </channel>
 </rss>
