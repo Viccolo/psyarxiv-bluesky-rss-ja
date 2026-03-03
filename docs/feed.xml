@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>変化する仮想環境における認知制御の文脈特異的適応</title>
+    <title>変化する仮想環境における認知制御の文脈依存的適応</title>
     <link>https://osf.io/9dpzh</link>
     <guid isPermaLink="false">https://osf.io/9dpzh#ja</guid>
     <pubDate>Tue, 03 Mar 2026 18:40:57 +0000</pubDate>
@@ -27,14 +27,14 @@
     <description>The Development of Play Face Mimicry: Comparative Insights from Human Infants, Adults, and Orangutans</description>
   </item>
   <item>
-    <title>ヴァーベットモンキー（Chlorocebus pygerythrus）の発声に関する音響的および発達的視点</title>
+    <title>クロロセブス・ピゲリスルスの発声に関する音響的および発達的視点からの再評価</title>
     <link>https://osf.io/t923x</link>
     <guid isPermaLink="false">https://osf.io/t923x#ja</guid>
     <pubDate>Tue, 03 Mar 2026 14:42:08 +0000</pubDate>
     <description>Vervet monkeys get a callback: Acoustic and developmental perspectives on their vocalisations (Chlorocebus pygerythrus)</description>
   </item>
   <item>
-    <title>対面交流とビデオ通話における帰属意識の比較：行動および脳機能への影響</title>
+    <title>自宅と職場における対面交流とビデオ通話の所属感：行動および脳機能への影響</title>
     <link>https://osf.io/afe5b</link>
     <guid isPermaLink="false">https://osf.io/afe5b#ja</guid>
     <pubDate>Tue, 03 Mar 2026 13:56:51 +0000</pubDate>
@@ -48,7 +48,7 @@
     <description>The brain predicts visual speech units during naturalistic audiovisual speech listening</description>
   </item>
   <item>
-    <title>スクールサイコロジーにおける性的・性別マイノリティ研究のスコーピングレビュー</title>
+    <title>学校心理学における性的・性別マイノリティ研究のスコーピングレビュー</title>
     <link>https://osf.io/dhf74</link>
     <guid isPermaLink="false">https://osf.io/dhf74#ja</guid>
     <pubDate>Tue, 03 Mar 2026 13:56:50 +0000</pubDate>
@@ -69,7 +69,7 @@
     <description>Incorporating Individual Differences into a Mechanistic Embodied Cognitive Neuroscience</description>
   </item>
   <item>
-    <title>データ駆動型治療個別化のための個別指向的方法論の進展：ARIMAX、ネットワーク、およびツリー構造アプローチの比較</title>
+    <title>データ駆動型治療個別化のための個別事例法の進展：ARIMAX、ネットワーク、およびツリー型アプローチの比較</title>
     <link>https://osf.io/7mxn3</link>
     <guid isPermaLink="false">https://osf.io/7mxn3#ja</guid>
     <pubDate>Tue, 03 Mar 2026 13:56:49 +0000</pubDate>
@@ -90,14 +90,14 @@
     <description>No evidence for meaningful stereotype threat effects in tournament chess players</description>
   </item>
   <item>
-    <title>健康高齢者のバランス、移動能力および歩行改善を目的とした行動シミュレーション介入のスコーピングレビュー</title>
+    <title>健康高齢者のバランス・移動能力・歩行改善を目的とした行動シミュレーション介入のスコーピングレビュー</title>
     <link>https://osf.io/rt4jw</link>
     <guid isPermaLink="false">https://osf.io/rt4jw#ja</guid>
     <pubDate>Mon, 02 Mar 2026 22:28:07 +0000</pubDate>
     <description>Action Simulation as an Intervention to Improve Balance, Mobility and Gait in Healthy Older Adults: A Scoping Review</description>
   </item>
   <item>
-    <title>評価条件付けにおける多項モデルを用いた連合記憶の分解：USの価値情報は記憶されるがUSの同一性は記憶されないのか？</title>
+    <title>評価条件付けにおける連合記憶の分解：多項モデルを用いたUS価値記憶とUS同一性記憶の関係</title>
     <link>https://osf.io/twuh4</link>
     <guid isPermaLink="false">https://osf.io/twuh4#ja</guid>
     <pubDate>Mon, 02 Mar 2026 22:28:06 +0000</pubDate>
@@ -132,7 +132,7 @@
     <description>Age-related changes in implicit causality and consequentiality pronoun biases</description>
   </item>
   <item>
-    <title>現在に望ましい変化を具現化する：チリ2019年社会爆発における予示的集団行動の解明</title>
+    <title>現在における望ましい変化の実現：チリ2019年社会爆発における予示的集団行動の解明</title>
     <link>https://osf.io/ywj7f</link>
     <guid isPermaLink="false">https://osf.io/ywj7f#ja</guid>
     <pubDate>Mon, 02 Mar 2026 21:57:24 +0000</pubDate>
@@ -146,7 +146,7 @@
     <description>The Working Memory Classroom Screener: identifying children with working memory difficulties</description>
   </item>
   <item>
-    <title>教義的で非苦痛的な儀式が日本の職場におけるアイデンティティ融合を促進する可能性</title>
+    <title>教義的だが不快感を伴わない儀式が日本の職場におけるアイデンティティ融合を促進する</title>
     <link>https://osf.io/9r57k</link>
     <guid isPermaLink="false">https://osf.io/9r57k#ja</guid>
     <pubDate>Mon, 02 Mar 2026 21:57:24 +0000</pubDate>
@@ -160,7 +160,7 @@
     <description>Moderation of compound parameters: New opportunities for testing group- and individual-level heterogeneity</description>
   </item>
   <item>
-    <title>スマートフォンを用いた食事エコロジカルモーメンタリーアセスメントにおける測定反応性</title>
+    <title>スマートフォンを用いた食事の生態学的瞬間評価における測定反応性</title>
     <link>https://osf.io/uw2gk</link>
     <guid isPermaLink="false">https://osf.io/uw2gk#ja</guid>
     <pubDate>Mon, 02 Mar 2026 21:57:23 +0000</pubDate>
@@ -188,7 +188,7 @@
     <description>Absent While Present? Parental Smartphone Use and Children’s Emotional Well-Being in Everyday Family Life</description>
   </item>
   <item>
-    <title>新聞テキストおよびデータ可視化における数値情報の学習と想起：一致条件と不一致条件の比較</title>
+    <title>新聞記事テキストおよびデータ可視化における数値情報の学習と想起：一致条件と不一致条件の比較</title>
     <link>https://osf.io/h7aqt</link>
     <guid isPermaLink="false">https://osf.io/h7aqt#ja</guid>
     <pubDate>Mon, 02 Mar 2026 21:57:22 +0000</pubDate>
@@ -202,7 +202,7 @@
     <description>Class Composition Effects in Achievement and Interest and the Role of the Learning Environment Revisited: A Conceptual Replication and Extension of Lavrijsen et al. (2022)</description>
   </item>
   <item>
-    <title>「本当に意味があるのか？」：成人自閉症診断に関する女性の疑念とインポスター症候群の経験</title>
+    <title>「本当に意味があるのか？」：成人期の自閉スペクトラム症診断に関する女性の疑念とインポスター症候群の経験</title>
     <link>https://osf.io/93duc</link>
     <guid isPermaLink="false">https://osf.io/93duc#ja</guid>
     <pubDate>Mon, 02 Mar 2026 21:28:28 +0000</pubDate>
@@ -230,7 +230,7 @@
     <description>An online randomised controlled trial to evaluate the effectiveness of an online intervention for parents/guardians of children aged 4-7 years old who are concerned about their children’s emotional and behavioural development: EMERGENT study.</description>
   </item>
   <item>
-    <title>セキュリティ・プライバシー研究における心理測定の（非）精度：アルファ報告を超えた信頼性の検討</title>
+    <title>セキュリティおよびプライバシー研究における心理測定の（非）精度：アルファ報告を超えた信頼性の検討</title>
     <link>https://osf.io/87qmx</link>
     <guid isPermaLink="false">https://osf.io/87qmx#ja</guid>
     <pubDate>Mon, 02 Mar 2026 21:28:27 +0000</pubDate>
@@ -251,7 +251,7 @@
     <description>Enhancing TVA with Bayesian Methods: A Tutorial and New Insights into Computational Modeling of Visual Attention using RStanTVA</description>
   </item>
   <item>
-    <title>食料不安、自尊感情および抑うつ症状の前向き関連に関する結論の出ない検討：BaekとYoon（2026）へのコメント</title>
+    <title>食料不安、自尊感情および抑うつ症状の前向き関連に関する結論の不確かさ：BaekとYoon（2026）へのコメント</title>
     <link>https://osf.io/nz6h9</link>
     <guid isPermaLink="false">https://osf.io/nz6h9#ja</guid>
     <pubDate>Mon, 02 Mar 2026 21:28:26 +0000</pubDate>
@@ -265,7 +265,7 @@
     <description>Interpersonal neural synchrony as a potential neural bridge between co- and self-regulation: A Narrative Review</description>
   </item>
   <item>
-    <title>安定した世界観か文脈依存的システムか？二つの社会政治的文脈における認識的に疑わしい信念の発達に関する縦断的証拠</title>
+    <title>安定した世界観か文脈依存的システムか？二つの社会政治的文脈における認知的に疑わしい信念の発達に関する縦断的証拠</title>
     <link>https://osf.io/h72rb</link>
     <guid isPermaLink="false">https://osf.io/h72rb#ja</guid>
     <pubDate>Mon, 02 Mar 2026 21:28:25 +0000</pubDate>
@@ -300,14 +300,14 @@
     <description>Windows into the Positional Encoding of Stems and Affixes: Evidence from Morpheme Transposition Effects via ERPs</description>
   </item>
   <item>
-    <title>臨床的高リスク若年者におけるミスマッチネガティビティと抗精神病薬治療反応の関係</title>
+    <title>臨床的ハイリスク若年者におけるミスマッチネガティビティと抗精神病薬治療反応の関係</title>
     <link>https://osf.io/c5b6j</link>
     <guid isPermaLink="false">https://osf.io/c5b6j#ja</guid>
     <pubDate>Mon, 02 Mar 2026 19:34:02 +0000</pubDate>
     <description>Relationship between Mismatch Negativity and Antipsychotic Treatment Response in Young People at Clinical High Risk for Psychosis</description>
   </item>
   <item>
-    <title>危機時における神経多様性サンプルのメンタルヘルスとケアアクセス：COVID-19から何を学べるか</title>
+    <title>危機時における神経多様性サンプルのメンタルヘルスとケアアクセス：COVID-19から得られる教訓</title>
     <link>https://osf.io/unf5g</link>
     <guid isPermaLink="false">https://osf.io/unf5g#ja</guid>
     <pubDate>Mon, 02 Mar 2026 18:39:47 +0000</pubDate>
@@ -321,14 +321,14 @@
     <description>Frontal theta activation associated with error detection in toddlers:  Influence of familial socio-economic status</description>
   </item>
   <item>
-    <title>乳幼児期における注意力と自己調整能力の発達</title>
+    <title>乳児期および児童期における注意力と自己調整能力の発達</title>
     <link>https://osf.io/y4puz</link>
     <guid isPermaLink="false">https://osf.io/y4puz#ja</guid>
     <pubDate>Mon, 02 Mar 2026 18:39:46 +0000</pubDate>
     <description>Developing Attention and Self-Regulation in Infancy and Childhood</description>
   </item>
   <item>
-    <title>リスクと報酬に関する研究：後期児童期における擁護行動と人気の縦断的ネットワーク分析</title>
+    <title>リスクと報酬に関する縦断的ネットワーク分析：後期児童期における防衛行動と人気の関連性</title>
     <link>https://osf.io/hfxza</link>
     <guid isPermaLink="false">https://osf.io/hfxza#ja</guid>
     <pubDate>Mon, 02 Mar 2026 18:39:46 +0000</pubDate>
