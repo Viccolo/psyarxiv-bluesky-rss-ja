@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>変化する仮想環境における認知制御の文脈特異的適応</title>
+    <title>変化する仮想環境における文脈依存的認知制御の適応</title>
     <link>https://osf.io/9dpzh</link>
     <guid isPermaLink="false">https://osf.io/9dpzh#ja</guid>
     <pubDate>Tue, 03 Mar 2026 18:40:57 +0000</pubDate>
@@ -27,7 +27,7 @@
     <description>The Development of Play Face Mimicry: Comparative Insights from Human Infants, Adults, and Orangutans</description>
   </item>
   <item>
-    <title>ヴァーヴェットモンキーの呼び声再考：音響的および発達的視点からの声帯発声の検討（Chlorocebus pygerythrus）</title>
+    <title>ヴァーベットモンキー（Chlorocebus pygerythrus）の発声に関する音響的および発達的視点</title>
     <link>https://osf.io/t923x</link>
     <guid isPermaLink="false">https://osf.io/t923x#ja</guid>
     <pubDate>Tue, 03 Mar 2026 14:42:08 +0000</pubDate>
@@ -41,49 +41,49 @@
     <description>At Home or at the Office? Affiliation in Face-to-Face Interactions and Video Calls: Behavioral and Brain Effects</description>
   </item>
   <item>
-    <title>自然な視聴覚言語聴取中における脳の視覚的言語単位予測機構</title>
+    <title>自然な視聴覚言語聴取中における脳の視覚的音声単位予測機構</title>
     <link>https://osf.io/gm4f8</link>
     <guid isPermaLink="false">https://osf.io/gm4f8#ja</guid>
     <pubDate>Tue, 03 Mar 2026 13:56:51 +0000</pubDate>
     <description>The brain predicts visual speech units during naturalistic audiovisual speech listening</description>
   </item>
   <item>
-    <title>学校心理学における性的・性別マイノリティ研究のスコーピングレビュー</title>
+    <title>スクールサイコロジーにおける性的・性別マイノリティ研究のスコーピングレビュー</title>
     <link>https://osf.io/dhf74</link>
     <guid isPermaLink="false">https://osf.io/dhf74#ja</guid>
     <pubDate>Tue, 03 Mar 2026 13:56:50 +0000</pubDate>
     <description>Sexual and Gender Minority Research in School Psychology: A Scoping Review</description>
   </item>
   <item>
-    <title>価値観と感情が高影響気候行動に与える影響：中国とニュージーランドにおける国際比較研究</title>
+    <title>価値観と感情が高影響気候行動に及ぼす影響：中国とニュージーランドにおける国際比較研究</title>
     <link>https://osf.io/sv7kt</link>
     <guid isPermaLink="false">https://osf.io/sv7kt#ja</guid>
     <pubDate>Tue, 03 Mar 2026 13:56:50 +0000</pubDate>
     <description>Linking Values and Emotions to High-Impact Climate Action: A Cross-National Comparison in China and New Zealand</description>
   </item>
   <item>
-    <title>個人差を組み込んだ機械論的具現化認知神経科学</title>
+    <title>個人差を取り入れた機械論的具現化認知神経科学</title>
     <link>https://osf.io/uyfdn</link>
     <guid isPermaLink="false">https://osf.io/uyfdn#ja</guid>
     <pubDate>Tue, 03 Mar 2026 13:56:50 +0000</pubDate>
     <description>Incorporating Individual Differences into a Mechanistic Embodied Cognitive Neuroscience</description>
   </item>
   <item>
-    <title>データ駆動型治療パーソナライズのための個別化方法論の進展：ARIMAX、ネットワーク、およびツリー型アプローチの比較</title>
+    <title>データ駆動型治療個別化のための個別事例法の進展：ARIMAX、ネットワーク、ツリー構造アプローチの比較</title>
     <link>https://osf.io/7mxn3</link>
     <guid isPermaLink="false">https://osf.io/7mxn3#ja</guid>
     <pubDate>Tue, 03 Mar 2026 13:56:49 +0000</pubDate>
     <description>Advancing Idiographic Methodology for Data-Driven Treatment Personalization: Comparing ARIMAX, Network, and Tree-Based Approaches</description>
   </item>
   <item>
-    <title>数字指定課題の評価方法が観察される数の知識に与える影響</title>
+    <title>数値提示課題の評価方法が観察される数の知識に与える影響</title>
     <link>https://osf.io/cz9ug</link>
     <guid isPermaLink="false">https://osf.io/cz9ug#ja</guid>
     <pubDate>Tue, 03 Mar 2026 13:56:49 +0000</pubDate>
     <description>Give-a-number task evaluation methods influence the observed number knowledge</description>
   </item>
   <item>
-    <title>トーナメントチェス選手における意味のあるステレオタイプ脅威効果の証拠なし</title>
+    <title>トーナメントチェス選手における意味あるステレオタイプ脅威効果の証拠なし</title>
     <link>https://osf.io/576ch</link>
     <guid isPermaLink="false">https://osf.io/576ch#ja</guid>
     <pubDate>Tue, 03 Mar 2026 13:56:48 +0000</pubDate>
@@ -97,14 +97,14 @@
     <description>Action Simulation as an Intervention to Improve Balance, Mobility and Gait in Healthy Older Adults: A Scoping Review</description>
   </item>
   <item>
-    <title>評価的条件付けにおける連合記憶の分解：多項モデルを用いたUS価値記憶とUS同一性記憶の関係</title>
+    <title>評価条件付けにおける多項モデルを用いた連合記憶の分解：USの価値情報は記憶されるが識別情報は記憶されないのか？</title>
     <link>https://osf.io/twuh4</link>
     <guid isPermaLink="false">https://osf.io/twuh4#ja</guid>
     <pubDate>Mon, 02 Mar 2026 22:28:06 +0000</pubDate>
     <description>Memory for US valence without memory for US identity? Decomposing contingency memory in evaluative conditioning with a multinomial modeling approach</description>
   </item>
   <item>
-    <title>神経画像に基づく機械学習はADHDの信頼性の高い分類を実現できるか？分類研究の体系的レビュー</title>
+    <title>神経画像に基づく機械学習は信頼性の高いADHD分類を実現できるか？分類研究の系統的レビュー</title>
     <link>https://osf.io/pr6qt</link>
     <guid isPermaLink="false">https://osf.io/pr6qt#ja</guid>
     <pubDate>Mon, 02 Mar 2026 22:28:06 +0000</pubDate>
@@ -139,7 +139,7 @@
     <description>Enacting desired change in the present: Explaining prefigurative collective action in Chile’s 2019 social explosion</description>
   </item>
   <item>
-    <title>作業記憶教室スクリーナー：作業記憶困難を有する子どもの識別</title>
+    <title>作業記憶教室スクリーナー：作業記憶困難を有する児童の特定</title>
     <link>https://osf.io/5v7xt</link>
     <guid isPermaLink="false">https://osf.io/5v7xt#ja</guid>
     <pubDate>Mon, 02 Mar 2026 21:57:24 +0000</pubDate>
@@ -174,21 +174,21 @@
     <description>Sensory-based modulations on visual memory are preserved in older adults</description>
   </item>
   <item>
-    <title>文脈的行動療法における超診断的メカニズムとしての心理的柔軟性：系統的レビュー</title>
+    <title>文脈的行動療法における横断的診断メカニズムとしての心理的柔軟性：系統的レビュー</title>
     <link>https://osf.io/8ukm7</link>
     <guid isPermaLink="false">https://osf.io/8ukm7#ja</guid>
     <pubDate>Mon, 02 Mar 2026 21:57:22 +0000</pubDate>
     <description>FLEXIBILIDADE PSICOLÓGICA COMO MECANISMO TRANSDIAGNÓSTICO NAS TERAPIAS COMPORTAMENTAIS CONTEXTUAIS: REVISÃO SISTEMÁTICA</description>
   </item>
   <item>
-    <title>同席しながら不在？親のスマートフォン使用と日常家族生活における子どもの情緒的幸福感</title>
+    <title>同席していながら不在？親のスマートフォン使用と日常家族生活における子どもの情緒的幸福感</title>
     <link>https://osf.io/v7gwu</link>
     <guid isPermaLink="false">https://osf.io/v7gwu#ja</guid>
     <pubDate>Mon, 02 Mar 2026 21:57:22 +0000</pubDate>
     <description>Absent While Present? Parental Smartphone Use and Children’s Emotional Well-Being in Everyday Family Life</description>
   </item>
   <item>
-    <title>新聞テキストおよびデータ可視化における数値情報の学習と想起：一致条件と不一致条件の比較</title>
+    <title>新聞テキストとデータ可視化における一致条件および不一致条件下での数値情報の学習と想起</title>
     <link>https://osf.io/h7aqt</link>
     <guid isPermaLink="false">https://osf.io/h7aqt#ja</guid>
     <pubDate>Mon, 02 Mar 2026 21:57:22 +0000</pubDate>
@@ -209,7 +209,7 @@
     <description>“Does it really count?”: Women’s Experiences of Doubt and Impostor Syndrome about an Adult Autism Diagnosis</description>
   </item>
   <item>
-    <title>多次元的自我消失評価尺度（MEDA）の開発と物質別比較</title>
+    <title>多次元的自我消失評価尺度（MEDA）の開発および物質別比較</title>
     <link>https://osf.io/9c6xg</link>
     <guid isPermaLink="false">https://osf.io/9c6xg#ja</guid>
     <pubDate>Mon, 02 Mar 2026 21:28:28 +0000</pubDate>
@@ -244,28 +244,28 @@
     <description>Development and Validation of a Short-form (6-item) Version of the Clinician-Administered Dissociative States Scale (CADSS-SF)</description>
   </item>
   <item>
-    <title>ベイズ法によるTVAの拡張：RStanTVAを用いた視覚的注意の計算モデルに関するチュートリアルと新たな知見</title>
+    <title>ベイズ法によるTVAの拡張：RStanTVAを用いた視覚注意の計算モデルに関するチュートリアルと新たな知見</title>
     <link>https://osf.io/9avsy</link>
     <guid isPermaLink="false">https://osf.io/9avsy#ja</guid>
     <pubDate>Mon, 02 Mar 2026 21:28:26 +0000</pubDate>
     <description>Enhancing TVA with Bayesian Methods: A Tutorial and New Insights into Computational Modeling of Visual Attention using RStanTVA</description>
   </item>
   <item>
-    <title>食料不安、自尊感情および抑うつ症状の前向き関連に関する結論の不確かさ：Baek and Yoon（2026）へのコメント</title>
+    <title>食料不安、自尊感情および抑うつ症状の前向き関連に関する結論の不確かさ：BaekとYoon（2026）へのコメント</title>
     <link>https://osf.io/nz6h9</link>
     <guid isPermaLink="false">https://osf.io/nz6h9#ja</guid>
     <pubDate>Mon, 02 Mar 2026 21:28:26 +0000</pubDate>
     <description>Inconclusive prospective associations between food insecurity, self-esteem, and depressive symptoms: A comment on Baek and Yoon (2026)</description>
   </item>
   <item>
-    <title>共調節と自己調節をつなぐ神経的架け橋としての対人神経同期：ナラティブレビュー</title>
+    <title>共調整と自己調整をつなぐ神経的架け橋としての対人神経同期：ナラティブレビュー</title>
     <link>https://osf.io/9tc5m</link>
     <guid isPermaLink="false">https://osf.io/9tc5m#ja</guid>
     <pubDate>Mon, 02 Mar 2026 21:28:25 +0000</pubDate>
     <description>Interpersonal neural synchrony as a potential neural bridge between co- and self-regulation: A Narrative Review</description>
   </item>
   <item>
-    <title>安定した世界観か文脈依存的システムか？二つの社会政治的文脈における認識的に疑わしい信念の発達に関する縦断的証拠</title>
+    <title>安定した世界観か文脈依存的システムか？二つの社会政治的文脈における認知的に疑わしい信念の発達に関する縦断的証拠</title>
     <link>https://osf.io/h72rb</link>
     <guid isPermaLink="false">https://osf.io/h72rb#ja</guid>
     <pubDate>Mon, 02 Mar 2026 21:28:25 +0000</pubDate>
@@ -293,14 +293,14 @@
     <description>Does facial expression processing require attention? A multi-lab replication of Eimer et al. (2003)</description>
   </item>
   <item>
-    <title>語幹と接辞の位置符号化の解明：ERPによる形態素転置効果の証拠</title>
+    <title>語幹と接辞の位置符号化の窓：ERPによる形態素転置効果の証拠</title>
     <link>https://osf.io/akfpu</link>
     <guid isPermaLink="false">https://osf.io/akfpu#ja</guid>
     <pubDate>Mon, 02 Mar 2026 19:34:05 +0000</pubDate>
     <description>Windows into the Positional Encoding of Stems and Affixes: Evidence from Morpheme Transposition Effects via ERPs</description>
   </item>
   <item>
-    <title>臨床的高リスク若年者におけるミスマッチネガティビティと抗精神病薬治療反応の関連性</title>
+    <title>臨床的高リスク若年者におけるミスマッチネガティビティと抗精神病薬治療反応の関係</title>
     <link>https://osf.io/c5b6j</link>
     <guid isPermaLink="false">https://osf.io/c5b6j#ja</guid>
     <pubDate>Mon, 02 Mar 2026 19:34:02 +0000</pubDate>
