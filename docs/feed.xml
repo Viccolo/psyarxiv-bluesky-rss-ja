@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>変化する仮想環境における認知制御の文脈依存的適応</title>
+    <title>変化する仮想環境における認知制御の文脈特異的適応</title>
     <link>https://osf.io/9dpzh</link>
     <guid isPermaLink="false">https://osf.io/9dpzh#ja</guid>
     <pubDate>Tue, 03 Mar 2026 18:40:57 +0000</pubDate>
@@ -27,7 +27,7 @@
     <description>The Development of Play Face Mimicry: Comparative Insights from Human Infants, Adults, and Orangutans</description>
   </item>
   <item>
-    <title>ヴェルヴェットモンキー（Chlorocebus pygerythrus）の発声に関する音響的および発達的視点</title>
+    <title>ヴァーヴェットモンキー（Chlorocebus pygerythrus）の発声に関する音響的および発達的視点</title>
     <link>https://osf.io/t923x</link>
     <guid isPermaLink="false">https://osf.io/t923x#ja</guid>
     <pubDate>Tue, 03 Mar 2026 14:42:08 +0000</pubDate>
@@ -41,21 +41,21 @@
     <description>At Home or at the Office? Affiliation in Face-to-Face Interactions and Video Calls: Behavioral and Brain Effects</description>
   </item>
   <item>
-    <title>自然な視聴覚言語聴取中における脳の視覚的音声単位予測機構</title>
+    <title>自然な視聴覚言語聴取中における脳の視覚的言語単位予測機構</title>
     <link>https://osf.io/gm4f8</link>
     <guid isPermaLink="false">https://osf.io/gm4f8#ja</guid>
     <pubDate>Tue, 03 Mar 2026 13:56:51 +0000</pubDate>
     <description>The brain predicts visual speech units during naturalistic audiovisual speech listening</description>
   </item>
   <item>
-    <title>学校心理学における性的・性別少数者研究のスコーピングレビュー</title>
+    <title>スクール心理学における性的・性別マイノリティ研究のスコーピングレビュー</title>
     <link>https://osf.io/dhf74</link>
     <guid isPermaLink="false">https://osf.io/dhf74#ja</guid>
     <pubDate>Tue, 03 Mar 2026 13:56:50 +0000</pubDate>
     <description>Sexual and Gender Minority Research in School Psychology: A Scoping Review</description>
   </item>
   <item>
-    <title>価値観と感情が高影響気候行動に及ぼす影響：中国とニュージーランドにおける国際比較研究</title>
+    <title>価値観と感情が高影響気候行動に与える影響：中国とニュージーランドにおける国際比較研究</title>
     <link>https://osf.io/sv7kt</link>
     <guid isPermaLink="false">https://osf.io/sv7kt#ja</guid>
     <pubDate>Tue, 03 Mar 2026 13:56:50 +0000</pubDate>
@@ -69,14 +69,14 @@
     <description>Incorporating Individual Differences into a Mechanistic Embodied Cognitive Neuroscience</description>
   </item>
   <item>
-    <title>データ駆動型治療パーソナライズのための個別化方法論の進展：ARIMAX、ネットワーク、およびツリーベース手法の比較</title>
+    <title>データ駆動型治療個別化のための個別指向的手法の進展：ARIMAX、ネットワーク、およびツリー構造アプローチの比較</title>
     <link>https://osf.io/7mxn3</link>
     <guid isPermaLink="false">https://osf.io/7mxn3#ja</guid>
     <pubDate>Tue, 03 Mar 2026 13:56:49 +0000</pubDate>
     <description>Advancing Idiographic Methodology for Data-Driven Treatment Personalization: Comparing ARIMAX, Network, and Tree-Based Approaches</description>
   </item>
   <item>
-    <title>数字付与課題の評価方法が観察される数の知識に与える影響</title>
+    <title>数値提示課題の評価方法が観察される数の知識に与える影響</title>
     <link>https://osf.io/cz9ug</link>
     <guid isPermaLink="false">https://osf.io/cz9ug#ja</guid>
     <pubDate>Tue, 03 Mar 2026 13:56:49 +0000</pubDate>
@@ -97,7 +97,7 @@
     <description>Action Simulation as an Intervention to Improve Balance, Mobility and Gait in Healthy Older Adults: A Scoping Review</description>
   </item>
   <item>
-    <title>評価条件付けにおける多項モデルを用いた連合記憶の分解：USの価値情報は記憶されるがUSの同一性は記憶されないのか？</title>
+    <title>評価的条件付けにおける多項モデルを用いた連合記憶の分解：USの価値情報は記憶されるが識別情報は記憶されないのか？</title>
     <link>https://osf.io/twuh4</link>
     <guid isPermaLink="false">https://osf.io/twuh4#ja</guid>
     <pubDate>Mon, 02 Mar 2026 22:28:06 +0000</pubDate>
@@ -111,7 +111,7 @@
     <description>Can neuroimaging-based machine learning deliver reliable ADHD classification? A systematic review of classification studies</description>
   </item>
   <item>
-    <title>高機能成人のADHDにおける開始選択課題遂行能力の保持</title>
+    <title>高機能成人ADHDにおける開始選択課題遂行能力の保持</title>
     <link>https://osf.io/4wjq2</link>
     <guid isPermaLink="false">https://osf.io/4wjq2#ja</guid>
     <pubDate>Mon, 02 Mar 2026 22:28:06 +0000</pubDate>
@@ -139,7 +139,7 @@
     <description>Enacting desired change in the present: Explaining prefigurative collective action in Chile’s 2019 social explosion</description>
   </item>
   <item>
-    <title>作業記憶教室スクリーナー：作業記憶困難を有する児童の識別</title>
+    <title>作業記憶教室スクリーナー：作業記憶困難を有する児童の特定</title>
     <link>https://osf.io/5v7xt</link>
     <guid isPermaLink="false">https://osf.io/5v7xt#ja</guid>
     <pubDate>Mon, 02 Mar 2026 21:57:24 +0000</pubDate>
@@ -174,14 +174,14 @@
     <description>Sensory-based modulations on visual memory are preserved in older adults</description>
   </item>
   <item>
-    <title>文脈的行動療法における横断的診断メカニズムとしての心理的柔軟性：系統的レビュー</title>
+    <title>文脈的行動療法における超診断的メカニズムとしての心理的柔軟性：系統的レビュー</title>
     <link>https://osf.io/8ukm7</link>
     <guid isPermaLink="false">https://osf.io/8ukm7#ja</guid>
     <pubDate>Mon, 02 Mar 2026 21:57:22 +0000</pubDate>
     <description>FLEXIBILIDADE PSICOLÓGICA COMO MECANISMO TRANSDIAGNÓSTICO NAS TERAPIAS COMPORTAMENTAIS CONTEXTUAIS: REVISÃO SISTEMÁTICA</description>
   </item>
   <item>
-    <title>同席しながら不在？親のスマートフォン使用と日常家庭生活における子どもの情緒的幸福感</title>
+    <title>同席しながら不在？親のスマートフォン使用と日常家族生活における子どもの情緒的幸福感</title>
     <link>https://osf.io/v7gwu</link>
     <guid isPermaLink="false">https://osf.io/v7gwu#ja</guid>
     <pubDate>Mon, 02 Mar 2026 21:57:22 +0000</pubDate>
@@ -195,21 +195,21 @@
     <description>Learning and Retrieval of Numerical Information from Newspaper Texts and Data Visualizations in Congruent and Incongruent Conditions</description>
   </item>
   <item>
-    <title>達成度と興味におけるクラス構成の影響および学習環境の役割の再検討：Lavrijsenら（2022）の概念的再現と拡張</title>
+    <title>達成度と興味におけるクラス構成の影響と学習環境の役割の再検討：Lavrijsenら（2022）の概念的再現と拡張</title>
     <link>https://osf.io/zkg9r</link>
     <guid isPermaLink="false">https://osf.io/zkg9r#ja</guid>
     <pubDate>Mon, 02 Mar 2026 21:57:22 +0000</pubDate>
     <description>Class Composition Effects in Achievement and Interest and the Role of the Learning Environment Revisited: A Conceptual Replication and Extension of Lavrijsen et al. (2022)</description>
   </item>
   <item>
-    <title>「本当に意味があるのか？」：成人自閉症診断に関する女性の疑念とインポスター症候群の体験</title>
+    <title>「本当に意味があるのか？」：成人自閉スペクトラム症診断に関する女性の疑念とインポスター症候群の経験</title>
     <link>https://osf.io/93duc</link>
     <guid isPermaLink="false">https://osf.io/93duc#ja</guid>
     <pubDate>Mon, 02 Mar 2026 21:28:28 +0000</pubDate>
     <description>“Does it really count?”: Women’s Experiences of Doubt and Impostor Syndrome about an Adult Autism Diagnosis</description>
   </item>
   <item>
-    <title>多次元的自我消失評価尺度（MEDA）の開発と物質別比較</title>
+    <title>多次元自己消失評価尺度（MEDA）の開発と物質別比較</title>
     <link>https://osf.io/9c6xg</link>
     <guid isPermaLink="false">https://osf.io/9c6xg#ja</guid>
     <pubDate>Mon, 02 Mar 2026 21:28:28 +0000</pubDate>
@@ -223,7 +223,7 @@
     <description>Optimal quantification of fear conditioning from skin conductance data</description>
   </item>
   <item>
-    <title>4～7歳児の情緒・行動発達に懸念を持つ保護者を対象としたオンライン介入の効果を評価する無作為化オンライン試験：EMERGENT研究</title>
+    <title>4～7歳児の情緒・行動発達に懸念を持つ保護者を対象としたオンライン介入の効果を評価する無作為化対照試験：EMERGENT研究</title>
     <link>https://osf.io/6nbvd</link>
     <guid isPermaLink="false">https://osf.io/6nbvd#ja</guid>
     <pubDate>Mon, 02 Mar 2026 21:28:27 +0000</pubDate>
@@ -279,14 +279,14 @@
     <description>Associations between perfectionism and skin-picking in a non-clinical sample</description>
   </item>
   <item>
-    <title>視覚的イメージはテーマ的関連ペアの記憶効率に影響を与えるか？</title>
+    <title>視覚的イメージはテーマ的に関連する語対の記憶効率に影響を与えるか？</title>
     <link>https://osf.io/m2pur</link>
     <guid isPermaLink="false">https://osf.io/m2pur#ja</guid>
     <pubDate>Mon, 02 Mar 2026 20:32:29 +0000</pubDate>
     <description>Does Visual Imagery Impact Memory Efficiency For Thematically Related Pairs?</description>
   </item>
   <item>
-    <title>顔表情処理には注意が必要か？Eimerら（2003）の多施設再現研究</title>
+    <title>表情認知には注意が必要か？Eimerら（2003）の多施設再現研究</title>
     <link>https://osf.io/27atx</link>
     <guid isPermaLink="false">https://osf.io/27atx#ja</guid>
     <pubDate>Mon, 02 Mar 2026 19:34:05 +0000</pubDate>
@@ -300,35 +300,35 @@
     <description>Windows into the Positional Encoding of Stems and Affixes: Evidence from Morpheme Transposition Effects via ERPs</description>
   </item>
   <item>
-    <title>臨床的高リスク若年者におけるミスマッチネガティビティと抗精神病薬治療反応の関係</title>
+    <title>臨床的高リスク若年者におけるミスマッチネガティビティと抗精神病薬治療反応の関連性</title>
     <link>https://osf.io/c5b6j</link>
     <guid isPermaLink="false">https://osf.io/c5b6j#ja</guid>
     <pubDate>Mon, 02 Mar 2026 19:34:02 +0000</pubDate>
     <description>Relationship between Mismatch Negativity and Antipsychotic Treatment Response in Young People at Clinical High Risk for Psychosis</description>
   </item>
   <item>
-    <title>危機時における神経多様性サンプルのメンタルヘルスとケアアクセス：COVID-19から得られる教訓</title>
+    <title>危機時における神経多様性サンプルのメンタルヘルスとケアアクセス：COVID-19から何を学べるか</title>
     <link>https://osf.io/unf5g</link>
     <guid isPermaLink="false">https://osf.io/unf5g#ja</guid>
     <pubDate>Mon, 02 Mar 2026 18:39:47 +0000</pubDate>
     <description>Mental health and access to care for a neurodiverse sample during a time of crisis: What can we learn from COVID-19?</description>
   </item>
   <item>
-    <title>幼児の誤検出に関連する前頭部シータ波活動：家族の社会経済的地位の影響</title>
+    <title>幼児における誤検出に関連する前頭部シータ活動：家族の社会経済的地位の影響</title>
     <link>https://osf.io/uenw6</link>
     <guid isPermaLink="false">https://osf.io/uenw6#ja</guid>
     <pubDate>Mon, 02 Mar 2026 18:39:47 +0000</pubDate>
     <description>Frontal theta activation associated with error detection in toddlers:  Influence of familial socio-economic status</description>
   </item>
   <item>
-    <title>乳幼児期および児童期における注意力と自己調整能力の発達</title>
+    <title>乳幼児期における注意力と自己調整能力の発達</title>
     <link>https://osf.io/y4puz</link>
     <guid isPermaLink="false">https://osf.io/y4puz#ja</guid>
     <pubDate>Mon, 02 Mar 2026 18:39:46 +0000</pubDate>
     <description>Developing Attention and Self-Regulation in Infancy and Childhood</description>
   </item>
   <item>
-    <title>リスクと報酬に関する縦断的ネットワーク分析：後期児童期における擁護行動と人気の関連性</title>
+    <title>リスクと報酬に関する縦断的ネットワーク分析：後期児童期における防衛行動と人気の関連性</title>
     <link>https://osf.io/hfxza</link>
     <guid isPermaLink="false">https://osf.io/hfxza#ja</guid>
     <pubDate>Mon, 02 Mar 2026 18:39:46 +0000</pubDate>
