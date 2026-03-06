@@ -6,6 +6,62 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>新しいものが必ずしも優れているわけではない：再評価におけるパーソンセンタードアプローチが示す独創性と効果性の非線形関係</title>
+    <link>https://osf.io/j6ydh</link>
+    <guid isPermaLink="false">https://osf.io/j6ydh#ja</guid>
+    <pubDate>Fri, 06 Mar 2026 07:56:26 +0000</pubDate>
+    <description>Newer is not always better: A person-centered approach to reappraisals reveals a non-linear relationship between originality and effectiveness</description>
+  </item>
+  <item>
+    <title>宗教性と許しの関連性における国際的および宗教間の変異</title>
+    <link>https://osf.io/wz94s</link>
+    <guid isPermaLink="false">https://osf.io/wz94s#ja</guid>
+    <pubDate>Fri, 06 Mar 2026 07:56:26 +0000</pubDate>
+    <description>Cross-National and Cross-Religious Variation in Religiosity–Forgiveness Associations</description>
+  </item>
+  <item>
+    <title>健康介入における行動変容促進のためのバイオフィードバック活用：統合的レビュー</title>
+    <link>https://osf.io/3xk68</link>
+    <guid isPermaLink="false">https://osf.io/3xk68#ja</guid>
+    <pubDate>Fri, 06 Mar 2026 07:56:25 +0000</pubDate>
+    <description>Using Biofeedback to Promote Behaviour Change in Health Interventions: An Integrative Review</description>
+  </item>
+  <item>
+    <title>職場における環境安全知覚の測定：環境安全知覚尺度（PESS）の開発と心理計量学的検証</title>
+    <link>https://osf.io/8y4mb</link>
+    <guid isPermaLink="false">https://osf.io/8y4mb#ja</guid>
+    <pubDate>Fri, 06 Mar 2026 07:56:25 +0000</pubDate>
+    <description>Measuring Perceived Environmental Security in the Workplace: Development and Psychometric Validation of the Perceived Environmental Security Scale (PESS)</description>
+  </item>
+  <item>
+    <title>学部医学教育における臨床推論および患者管理訓練のための没入型と部分没入型バーチャルリアリティの比較</title>
+    <link>https://osf.io/8g79t</link>
+    <guid isPermaLink="false">https://osf.io/8g79t#ja</guid>
+    <pubDate>Fri, 06 Mar 2026 07:56:25 +0000</pubDate>
+    <description>Immersive versus Partially Immersive Virtual Reality for Training Clinical Reasoning and Patient Management in Undergraduate Medical Education</description>
+  </item>
+  <item>
+    <title>思春期中期における身体活動と脳構造体積の縦断的関連：ABCD研究における代謝活動の評価</title>
+    <link>https://osf.io/5ducf</link>
+    <guid isPermaLink="false">https://osf.io/5ducf#ja</guid>
+    <pubDate>Fri, 06 Mar 2026 07:56:24 +0000</pubDate>
+    <description>Longitudinal Associations between Physical Activity and Structural Brain Volume in Mid-Adolescence: Evaluating Metabolic Activity in the ABCD Study</description>
+  </item>
+  <item>
+    <title>家族環境は遺伝的素因が児童後期および思春期の内在化行動および外在化行動に与える影響を調節する</title>
+    <link>https://osf.io/h4zq3</link>
+    <guid isPermaLink="false">https://osf.io/h4zq3#ja</guid>
+    <pubDate>Fri, 06 Mar 2026 07:56:24 +0000</pubDate>
+    <description>Family environment moderates the impact of genetic propensity on internalizing and externalizing behaviors during late childhood and adolescence</description>
+  </item>
+  <item>
+    <title>自然読書中の形態的および意味的処理を探究するためのニューラル言語モデルの活用</title>
+    <link>https://osf.io/hzvuf</link>
+    <guid isPermaLink="false">https://osf.io/hzvuf#ja</guid>
+    <pubDate>Fri, 06 Mar 2026 07:56:23 +0000</pubDate>
+    <description>Leveraging Neural Language Models to Investigate Morphological and Semantic Processes During Natural Reading</description>
+  </item>
+  <item>
     <title>好奇心と発散的思考の媒介における美的体験と情報探索の役割</title>
     <link>https://osf.io/6yh4m</link>
     <guid isPermaLink="false">https://osf.io/6yh4m#ja</guid>
@@ -27,7 +83,7 @@
     <description>Natural Recovery and Gaming Disorder: A Case Series</description>
   </item>
   <item>
-    <title>より良い対処が陰謀論信念の健康影響を緩和するか？ 1年間の全国代表的パネル調査による縦断的証拠</title>
+    <title>より良い対処が陰謀信念の健康影響を緩和するか？ 1年間の全国代表的パネル調査による縦断的証拠</title>
     <link>https://osf.io/49pf2</link>
     <guid isPermaLink="false">https://osf.io/49pf2#ja</guid>
     <pubDate>Thu, 05 Mar 2026 15:10:48 +0000</pubDate>
@@ -41,7 +97,7 @@
     <description>Revisiting Nostalgia for Current and Ex-Romantic Partners: Affective Profiles and the Moderating Effect of Relationship Duration</description>
   </item>
   <item>
-    <title>急性自殺危機で入院中の青年の個人内動態のモニタリング：集中的縦断研究のプロトコル</title>
+    <title>急性自殺危機で入院した青年の個人内動態のモニタリング：集中的縦断研究のプロトコル</title>
     <link>https://osf.io/vzrph</link>
     <guid isPermaLink="false">https://osf.io/vzrph#ja</guid>
     <pubDate>Thu, 05 Mar 2026 14:10:35 +0000</pubDate>
@@ -55,7 +111,7 @@
     <description>The Impact of Diversity Statements in the Course Syllabus on Students’ Perceptions of the Instructor and Course</description>
   </item>
   <item>
-    <title>過食性障害を抱える当事者の主観的体験：系統的レビューのプロトコル</title>
+    <title>過食性障害を抱える人々の主観的体験：系統的レビューのプロトコル</title>
     <link>https://osf.io/h4rba</link>
     <guid isPermaLink="false">https://osf.io/h4rba#ja</guid>
     <pubDate>Thu, 05 Mar 2026 14:10:34 +0000</pubDate>
@@ -76,7 +132,7 @@
     <description>Best practices and pitfalls in multivariate pattern analysis of event-related potentials: A systematic review of preprocessing and analytical configurations</description>
   </item>
   <item>
-    <title>地域精神保健施設における治療的ダンジョンズ＆ドラゴンズ集団介入の有効性－ランダム化比較試験のプロトコル</title>
+    <title>地域精神保健における治療的ダンジョンズ＆ドラゴンズ集団介入の有効性－無作為化比較試験のプロトコル</title>
     <link>https://osf.io/dvk45</link>
     <guid isPermaLink="false">https://osf.io/dvk45#ja</guid>
     <pubDate>Thu, 05 Mar 2026 14:10:33 +0000</pubDate>
@@ -132,7 +188,7 @@
     <description>A personality profile approach to explaining susceptibility to health-related social media influencer videos</description>
   </item>
   <item>
-    <title>絵と言葉の干渉における繰り返しおよび新規標的の意味的干渉：語産出における適応的処理の証拠</title>
+    <title>語彙産出における適応的処理の証拠：絵と言葉の干渉課題における反復および新規標的の意味的干渉</title>
     <link>https://osf.io/78peu</link>
     <guid isPermaLink="false">https://osf.io/78peu#ja</guid>
     <pubDate>Wed, 04 Mar 2026 20:27:52 +0000</pubDate>
@@ -167,7 +223,7 @@
     <description>Key moments scaffold the semantic structure of narratives.</description>
   </item>
   <item>
-    <title>共有された音楽嗜好がグループ音楽聴取時の社会的結びつきを予測する</title>
+    <title>音楽嗜好の共有が集団音楽聴取時の社会的結びつきを予測する</title>
     <link>https://osf.io/57zkh</link>
     <guid isPermaLink="false">https://osf.io/57zkh#ja</guid>
     <pubDate>Wed, 04 Mar 2026 18:41:45 +0000</pubDate>
@@ -181,7 +237,7 @@
     <description>Separating pause from cancel? Evaluating the pause-then-cancel model in complex stopping tasks</description>
   </item>
   <item>
-    <title>「話を聞いてもらえていると感じた」：自閉症成人との共同設計による仮想現実感覚体験の開発</title>
+    <title>「話を聞いてもらえていると感じた」：自閉症成人との共同設計による仮想現実感覚体験</title>
     <link>https://osf.io/tsx6g</link>
     <guid isPermaLink="false">https://osf.io/tsx6g#ja</guid>
     <pubDate>Wed, 04 Mar 2026 18:41:45 +0000</pubDate>
@@ -195,35 +251,35 @@
     <description>Enhanced expectancies by generic positive feedback do not influence the learning of a form-based motor skill in gymnastics</description>
   </item>
   <item>
-    <title>特性マインドフルネスと抑うつの関係における感情調整と反すうの連続的影響</title>
+    <title>特性マインドフルネスと抑うつの関係における感情調整と反すうの連鎖的影響</title>
     <link>https://osf.io/ukxg2</link>
     <guid isPermaLink="false">https://osf.io/ukxg2#ja</guid>
     <pubDate>Wed, 04 Mar 2026 18:41:44 +0000</pubDate>
     <description>Sequential influences of emotion regulation and rumination  in trait mindfulness-depression relationships.</description>
   </item>
   <item>
-    <title>自己関連の中核的信念と人格特性：メタ分析</title>
+    <title>自己関連の核心的信念とパーソナリティ特性：メタ分析</title>
     <link>https://osf.io/9u82t</link>
     <guid isPermaLink="false">https://osf.io/9u82t#ja</guid>
     <pubDate>Wed, 04 Mar 2026 18:41:44 +0000</pubDate>
     <description>Self-related Core Beliefs and Personality Traits: A Meta-analysis</description>
   </item>
   <item>
-    <title>テクノ楽観主義が気候変動対策への意欲を低下させる</title>
+    <title>テクノロジー楽観主義が気候変動対策への意欲を低下させる</title>
     <link>https://osf.io/x3jqa</link>
     <guid isPermaLink="false">https://osf.io/x3jqa#ja</guid>
     <pubDate>Wed, 04 Mar 2026 18:41:43 +0000</pubDate>
     <description>Techno-Optimism Reduces Willingness to Address Climate Change</description>
   </item>
   <item>
-    <title>空間-数的連合の進化と発達：比較レビュー</title>
+    <title>空間数的連合の進化と発達：比較レビュー</title>
     <link>https://osf.io/rngcm</link>
     <guid isPermaLink="false">https://osf.io/rngcm#ja</guid>
     <pubDate>Wed, 04 Mar 2026 18:41:43 +0000</pubDate>
     <description>The Evolution and Development of Spatial-Numerical Association: A Comparative Review</description>
   </item>
   <item>
-    <title>幼児期教員と子どもの相互作用における反省的情動調整のプロセスモデル</title>
+    <title>幼児期の教師と子どもの相互作用における反省的感情調整のプロセスモデル</title>
     <link>https://osf.io/98s2f</link>
     <guid isPermaLink="false">https://osf.io/98s2f#ja</guid>
     <pubDate>Wed, 04 Mar 2026 18:41:42 +0000</pubDate>
@@ -237,35 +293,35 @@
     <description>The Adoption of Open Science Practices in Communication Research: Taking Stock of the Field in 2025</description>
   </item>
   <item>
-    <title>JASPにおける調整された（非）線形因子分析を用いた測定不変性の評価に関するチュートリアル</title>
+    <title>JASPにおける調整された（非）線形因子分析を用いた測定不変性の評価チュートリアル</title>
     <link>https://osf.io/6ftqg</link>
     <guid isPermaLink="false">https://osf.io/6ftqg#ja</guid>
     <pubDate>Wed, 04 Mar 2026 09:35:51 +0000</pubDate>
     <description>A Tutorial on Assessing Measurement Invariance with Moderated (Non-)Linear Factor Analysis in JASP</description>
   </item>
   <item>
-    <title>「貧困状況における脳発達に関する欠損志向および強み志向の物語に対する養育者の認識」</title>
+    <title>「それがあなたに烙印を押す」：貧困状況における脳発達に関する欠損志向および強み志向の物語に対する養育者の認識</title>
     <link>https://osf.io/3fx86</link>
     <guid isPermaLink="false">https://osf.io/3fx86#ja</guid>
     <pubDate>Wed, 04 Mar 2026 09:35:50 +0000</pubDate>
     <description>“It puts a stamp on you”: Caregiver perceptions of deficit- and strength- based narratives about brain development in the context of poverty</description>
   </item>
   <item>
-    <title>△9-テトラヒドロカンナビノールの主観的効果：系統的レビューおよび用量反応メタ回帰分析</title>
+    <title>△9-テトラヒドロカンナビノールの主観的効果：系統的レビューと用量反応メタ回帰分析</title>
     <link>https://osf.io/w7rty</link>
     <guid isPermaLink="false">https://osf.io/w7rty#ja</guid>
     <pubDate>Wed, 04 Mar 2026 09:35:50 +0000</pubDate>
     <description>The subjective effects of △9-tetrahydrocannabinol: A systematic review and dose-response meta-regression.</description>
   </item>
   <item>
-    <title>聴覚困難と難聴が高齢聴取者の音声理解における予測的および統合的処理の変化を引き起こす：事象関連脳電位による証拠</title>
+    <title>聴覚的困難と聴力低下が高齢聴取者の音声理解における予測的および統合的処理の変化を引き起こす：事象関連脳電位による証拠</title>
     <link>https://osf.io/d247a</link>
     <guid isPermaLink="false">https://osf.io/d247a#ja</guid>
     <pubDate>Wed, 04 Mar 2026 09:35:50 +0000</pubDate>
     <description>Acoustic challenge and hearing loss induce shifts in predictive and integrative processing during speech comprehension in older listeners: Evidence from event-related brain potentials</description>
   </item>
   <item>
-    <title>エコーチェンバーがプラットフォームと文化を超えてサイバーいじめを増幅するメカニズム</title>
+    <title>エコーチェンバーがプラットフォームと文化を超えてサイバーブリンギングを増幅するメカニズム</title>
     <link>https://osf.io/dknfq</link>
     <guid isPermaLink="false">https://osf.io/dknfq#ja</guid>
     <pubDate>Wed, 04 Mar 2026 09:35:49 +0000</pubDate>
@@ -279,7 +335,7 @@
     <description>Who Falls Into the Trap of Misleading AI-Generated Videos</description>
   </item>
   <item>
-    <title>瞑想トレーニングは高認知負荷時の注意力とパフォーマンスを支援する</title>
+    <title>瞑想トレーニングが高認知負荷下における注意力とパフォーマンスを支援する</title>
     <link>https://osf.io/tn5h3</link>
     <guid isPermaLink="false">https://osf.io/tn5h3#ja</guid>
     <pubDate>Wed, 04 Mar 2026 08:37:21 +0000</pubDate>
@@ -298,62 +354,6 @@
     <guid isPermaLink="false">https://osf.io/73zyr#ja</guid>
     <pubDate>Wed, 04 Mar 2026 07:10:00 +0000</pubDate>
     <description>Domain-General Demands that Deactivate Multiple-Demand Regions</description>
-  </item>
-  <item>
-    <title>指示に従わない心理：実験における非遵守、促進、および因果関係の保持</title>
-    <link>https://osf.io/xpjkh</link>
-    <guid isPermaLink="false">https://osf.io/xpjkh#ja</guid>
-    <pubDate>Wed, 04 Mar 2026 07:10:00 +0000</pubDate>
-    <description>I Won’t Do What You Tell Me: Noncompliance, Encouragement, and Preserving Causality in Experiments</description>
-  </item>
-  <item>
-    <title>ベイズ探索的因子分析における回転不定性を解消する効率的な回転符号置換アルゴリズム</title>
-    <link>https://osf.io/6drsw</link>
-    <guid isPermaLink="false">https://osf.io/6drsw#ja</guid>
-    <pubDate>Wed, 04 Mar 2026 07:10:00 +0000</pubDate>
-    <description>An Efficient Rotation-Sign-Permutation Algorithm to Solve Rotational Indeterminacy in Bayesian Exploratory Factor Analysis</description>
-  </item>
-  <item>
-    <title>変化する仮想環境における認知制御の文脈特異的適応</title>
-    <link>https://osf.io/9dpzh</link>
-    <guid isPermaLink="false">https://osf.io/9dpzh#ja</guid>
-    <pubDate>Tue, 03 Mar 2026 18:40:57 +0000</pubDate>
-    <description>Context-specific adaptation of cognitive control in changing virtual environments</description>
-  </item>
-  <item>
-    <title>惑星健康知識の測定：分類体系に基づくテストの開発と心理測定評価</title>
-    <link>https://osf.io/mn63y</link>
-    <guid isPermaLink="false">https://osf.io/mn63y#ja</guid>
-    <pubDate>Tue, 03 Mar 2026 18:40:56 +0000</pubDate>
-    <description>Measuring Planetary Health Knowledge: Development and  Psychometric Evaluation of a Taxonomy-Based Test</description>
-  </item>
-  <item>
-    <title>遊び顔模倣の発達：ヒト乳児・成人およびオランウータンの比較研究</title>
-    <link>https://osf.io/c7ynt</link>
-    <guid isPermaLink="false">https://osf.io/c7ynt#ja</guid>
-    <pubDate>Tue, 03 Mar 2026 14:42:09 +0000</pubDate>
-    <description>The Development of Play Face Mimicry: Comparative Insights from Human Infants, Adults, and Orangutans</description>
-  </item>
-  <item>
-    <title>ヴァーベットモンキーの呼び声に関する音響的および発達的視点（Chlorocebus pygerythrus）</title>
-    <link>https://osf.io/t923x</link>
-    <guid isPermaLink="false">https://osf.io/t923x#ja</guid>
-    <pubDate>Tue, 03 Mar 2026 14:42:08 +0000</pubDate>
-    <description>Vervet monkeys get a callback: Acoustic and developmental perspectives on their vocalisations (Chlorocebus pygerythrus)</description>
-  </item>
-  <item>
-    <title>対面交流とビデオ通話における帰属意識の比較：行動および脳機能への影響</title>
-    <link>https://osf.io/afe5b</link>
-    <guid isPermaLink="false">https://osf.io/afe5b#ja</guid>
-    <pubDate>Tue, 03 Mar 2026 13:56:51 +0000</pubDate>
-    <description>At Home or at the Office? Affiliation in Face-to-Face Interactions and Video Calls: Behavioral and Brain Effects</description>
-  </item>
-  <item>
-    <title>自然な視聴覚言語聴取中における脳の視覚的音声単位予測機構</title>
-    <link>https://osf.io/gm4f8</link>
-    <guid isPermaLink="false">https://osf.io/gm4f8#ja</guid>
-    <pubDate>Tue, 03 Mar 2026 13:56:51 +0000</pubDate>
-    <description>The brain predicts visual speech units during naturalistic audiovisual speech listening</description>
   </item>
 </channel>
 </rss>
