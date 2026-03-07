@@ -6,14 +6,49 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>アムステルダム嫌音症尺度日本語版（A-MISO-S-J）の開発と検証</title>
+    <title>チェスにおける誤りは初心者のその後のパフォーマンスを低下させるが、専門家には影響しない：100万局の対局からの証拠</title>
+    <link>https://osf.io/cdk59</link>
+    <guid isPermaLink="false">https://osf.io/cdk59#ja</guid>
+    <pubDate>Sat, 07 Mar 2026 20:20:26 +0000</pubDate>
+    <description>Errors in Chess Impair Subsequent Performance of Novices, But Not Experts. Evidence from One Million Games</description>
+  </item>
+  <item>
+    <title>努力、時間、美：能動的な時間調整が視聴時間と美的評価の連関を強化する</title>
+    <link>https://osf.io/kr8vp</link>
+    <guid isPermaLink="false">https://osf.io/kr8vp#ja</guid>
+    <pubDate>Sat, 07 Mar 2026 20:20:25 +0000</pubDate>
+    <description>Effort, Time, and Beauty: Active Temporal Regulation Strengthens the Coupling Between Viewing Duration and Aesthetic Evaluation</description>
+  </item>
+  <item>
+    <title>数の階層的統語構造木</title>
+    <link>https://osf.io/2z7jf</link>
+    <guid isPermaLink="false">https://osf.io/2z7jf#ja</guid>
+    <pubDate>Sat, 07 Mar 2026 20:20:25 +0000</pubDate>
+    <description>A hierarchical syntactic tree for numbers</description>
+  </item>
+  <item>
+    <title>対人感情調整の二重fMRI研究：効果的脳機能結合から戦略選択と実行成功の予測</title>
+    <link>https://osf.io/bwhu7</link>
+    <guid isPermaLink="false">https://osf.io/bwhu7#ja</guid>
+    <pubDate>Sat, 07 Mar 2026 20:20:25 +0000</pubDate>
+    <description>A dual-fMRI investigation of interpersonal emotion regulation: predicting strategy selection and implementation success from effective brain connectivity.</description>
+  </item>
+  <item>
+    <title>あいまいな抽象数学用語の文脈依存的経験的基盤</title>
+    <link>https://osf.io/5c7zq</link>
+    <guid isPermaLink="false">https://osf.io/5c7zq#ja</guid>
+    <pubDate>Sat, 07 Mar 2026 20:20:24 +0000</pubDate>
+    <description>Context-dependent experiential grounding of ambiguous abstract mathematical words</description>
+  </item>
+  <item>
+    <title>アムステルダム嫌悪音尺度日本語版（A-MISO-S-J）の開発と検証</title>
     <link>https://osf.io/er4f3</link>
     <guid isPermaLink="false">https://osf.io/er4f3#ja</guid>
     <pubDate>Sat, 07 Mar 2026 15:19:13 +0000</pubDate>
     <description>Development and Validation of the Japanese Version of the Amsterdam Misophonia Scale (A-MISO-S-J)</description>
   </item>
   <item>
-    <title>教育、職業、知能、および回帰の逆説：Sakら（2026）へのコメント</title>
+    <title>教育、職業、知能、および回帰のパラドックス：Sakら（2026）へのコメント</title>
     <link>https://osf.io/tgzej</link>
     <guid isPermaLink="false">https://osf.io/tgzej#ja</guid>
     <pubDate>Sat, 07 Mar 2026 15:19:13 +0000</pubDate>
@@ -41,35 +76,35 @@
     <description>How people answer when they’re unwell: Response styles and self-reported psychopathology</description>
   </item>
   <item>
-    <title>「片付けなさい、さもなくば警察を呼ぶよ！」：親の目的的嘘と親のコントロールおよび幼児期の子どもの服従との関連</title>
+    <title>「片付けなさいさもなくば警察を呼ぶよ！」：親の目的的嘘と親のコントロールおよび幼児期の子どもの服従との関連</title>
     <link>https://osf.io/z36hp</link>
     <guid isPermaLink="false">https://osf.io/z36hp#ja</guid>
     <pubDate>Sat, 07 Mar 2026 15:19:11 +0000</pubDate>
     <description>“Clean up or I Call the Police!”. Parental Instrumental Lying and its Links with Parental Control and Children’s Compliance in Early Childhood</description>
   </item>
   <item>
-    <title>自己破壊的功利主義：一般人は社会福祉の最大化を目指すことが逆効果になると考える</title>
+    <title>自己破壊的功利主義：社会福祉の最大化を目指すことが裏目に出ると一般人は考える</title>
     <link>https://osf.io/p7tzm</link>
     <guid isPermaLink="false">https://osf.io/p7tzm#ja</guid>
     <pubDate>Sat, 07 Mar 2026 15:19:10 +0000</pubDate>
     <description>Self-Defeating Utilitarianism:  Laypeople Think that Aiming to Maximize Societal Welfare Will Backfire</description>
   </item>
   <item>
-    <title>思春期のアルコール消費および関連被害の減少傾向：安心できない現状（Vieiraら2025年への実証的応答）</title>
+    <title>思春期の飲酒および関連被害の減少傾向：安心できない現状への実証的応答（Vieiraら2025年への反論）</title>
     <link>https://osf.io/8ez24</link>
     <guid isPermaLink="false">https://osf.io/8ez24#ja</guid>
     <pubDate>Fri, 06 Mar 2026 22:23:16 +0000</pubDate>
     <description>Declining trends in adolescent alcohol consumption and related harms: No room for complacency (an empirical reply to Vieira et al. 2025)</description>
   </item>
   <item>
-    <title>オープンリサーチ実践の認知と活用：分野横断的研究者の国際調査</title>
+    <title>オープンリサーチ実践の認知と活用：学際的研究者を対象とした国際調査</title>
     <link>https://osf.io/edzxf</link>
     <guid isPermaLink="false">https://osf.io/edzxf#ja</guid>
     <pubDate>Fri, 06 Mar 2026 22:23:16 +0000</pubDate>
     <description>Awareness and Use of Open Research Practices: An International Survey of Researchers Across Disciplines</description>
   </item>
   <item>
-    <title>協調的ナビゲーション：批判的レビューと研究課題</title>
+    <title>協働的ナビゲーション：批判的レビューと研究課題</title>
     <link>https://osf.io/rjyp2</link>
     <guid isPermaLink="false">https://osf.io/rjyp2#ja</guid>
     <pubDate>Fri, 06 Mar 2026 22:23:15 +0000</pubDate>
@@ -139,14 +174,14 @@
     <description>Ketamine’s Impact on Rumination-Related Brain Dynamics: Insights From a Randomized Controlled fMRI Trial</description>
   </item>
   <item>
-    <title>瞑想に関連する心理的有害影響、困難で不快な体験および否定的経験：高度な瞑想の安全な普及と実践に向けて</title>
+    <title>瞑想に関連する心理的有害影響、困難で不快な否定的体験：高度な瞑想の安全な普及と実践に向けて</title>
     <link>https://osf.io/2cgs3</link>
     <guid isPermaLink="false">https://osf.io/2cgs3#ja</guid>
     <pubDate>Fri, 06 Mar 2026 10:30:11 +0000</pubDate>
     <description>Meditation-related psychological adverse effects, challenging, unpleasant, and negative experiences: Toward the safe dissemination and practice of advanced meditation</description>
   </item>
   <item>
-    <title>ウクライナ戦争における不安の情報規制のパラドックス：幻影不安理論のインフォデミオロジカル検証</title>
+    <title>ウクライナ戦争における不安の情報規制のパラドックス：ファントム不安理論のインフォデミオロジー的検証</title>
     <link>https://osf.io/ep6c9</link>
     <guid isPermaLink="false">https://osf.io/ep6c9#ja</guid>
     <pubDate>Fri, 06 Mar 2026 10:30:10 +0000</pubDate>
@@ -167,7 +202,7 @@
     <description>Statistical assessment of sample generalizability to a target population</description>
   </item>
   <item>
-    <title>加齢は符号化時の共有イベント構造を減少させ、後部内側ネットワークにおける記憶再現を弱める</title>
+    <title>加齢は符号化時の共有イベント構造を低下させ、後部内側ネットワークにおける記憶再現を弱める</title>
     <link>https://osf.io/qnrgd</link>
     <guid isPermaLink="false">https://osf.io/qnrgd#ja</guid>
     <pubDate>Fri, 06 Mar 2026 09:33:51 +0000</pubDate>
@@ -188,7 +223,7 @@
     <description>Concerning the c′ Path: How PROCESS-based Mediation Undermines Experimental Methods</description>
   </item>
   <item>
-    <title>EEGマイクロステート：発達における瞬間的な大規模機能的脳ネットワーク動態の研究ツール</title>
+    <title>脳波マイクロステート：発達における瞬間的な大規模機能的脳ネットワーク動態の研究ツール</title>
     <link>https://osf.io/d86bq</link>
     <guid isPermaLink="false">https://osf.io/d86bq#ja</guid>
     <pubDate>Fri, 06 Mar 2026 09:33:50 +0000</pubDate>
@@ -202,7 +237,7 @@
     <description>Neighbourhood Violence, Trust, and Justice among Mothers in a Brazilian Birth Cohort</description>
   </item>
   <item>
-    <title>新しいことが必ずしも優れているわけではない：再評価におけるパーソンセンタードアプローチが示す独創性と効果性の非線形関係</title>
+    <title>新しいものが必ずしも優れているわけではない：再評価におけるパーソンセンタードアプローチが示す独創性と効果性の非線形関係</title>
     <link>https://osf.io/j6ydh</link>
     <guid isPermaLink="false">https://osf.io/j6ydh#ja</guid>
     <pubDate>Fri, 06 Mar 2026 07:56:26 +0000</pubDate>
@@ -223,7 +258,7 @@
     <description>Using Biofeedback to Promote Behaviour Change in Health Interventions: An Integrative Review</description>
   </item>
   <item>
-    <title>職場における環境安全感の測定：環境安全感尺度（PESS）の開発と心理計量学的検証</title>
+    <title>職場における環境安全感の測定：知覚環境安全感尺度（PESS）の開発と心理計量学的検証</title>
     <link>https://osf.io/8y4mb</link>
     <guid isPermaLink="false">https://osf.io/8y4mb#ja</guid>
     <pubDate>Fri, 06 Mar 2026 07:56:25 +0000</pubDate>
@@ -251,7 +286,7 @@
     <description>Family environment moderates the impact of genetic propensity on internalizing and externalizing behaviors during late childhood and adolescence</description>
   </item>
   <item>
-    <title>自然読書中の形態的および意味的処理を探究するためのニューラル言語モデルの活用</title>
+    <title>自然読書中の形態的および意味的処理を探るためのニューラル言語モデルの活用</title>
     <link>https://osf.io/hzvuf</link>
     <guid isPermaLink="false">https://osf.io/hzvuf#ja</guid>
     <pubDate>Fri, 06 Mar 2026 07:56:23 +0000</pubDate>
@@ -279,7 +314,7 @@
     <description>Natural Recovery and Gaming Disorder: A Case Series</description>
   </item>
   <item>
-    <title>より良い対処が陰謀信念の健康影響を緩和するか？ 1年間の全国代表的パネル調査による縦断的証拠</title>
+    <title>より良い対処は陰謀信念の健康影響を緩和するか？1年間の全国代表的パネル調査による縦断的証拠</title>
     <link>https://osf.io/49pf2</link>
     <guid isPermaLink="false">https://osf.io/49pf2#ja</guid>
     <pubDate>Thu, 05 Mar 2026 15:10:48 +0000</pubDate>
@@ -293,7 +328,7 @@
     <description>Revisiting Nostalgia for Current and Ex-Romantic Partners: Affective Profiles and the Moderating Effect of Relationship Duration</description>
   </item>
   <item>
-    <title>急性自殺危機で入院中の青年の個人内動態のモニタリング：集中的縦断研究のプロトコル</title>
+    <title>急性自殺危機で入院した青年の個人内動態のモニタリング：集中的縦断研究のプロトコル</title>
     <link>https://osf.io/vzrph</link>
     <guid isPermaLink="false">https://osf.io/vzrph#ja</guid>
     <pubDate>Thu, 05 Mar 2026 14:10:35 +0000</pubDate>
@@ -307,7 +342,7 @@
     <description>The Impact of Diversity Statements in the Course Syllabus on Students’ Perceptions of the Instructor and Course</description>
   </item>
   <item>
-    <title>過食性障害を抱える者の主観的体験：系統的レビューのプロトコル</title>
+    <title>過食性障害を抱える人々の主観的体験：系統的レビューのプロトコル</title>
     <link>https://osf.io/h4rba</link>
     <guid isPermaLink="false">https://osf.io/h4rba#ja</guid>
     <pubDate>Thu, 05 Mar 2026 14:10:34 +0000</pubDate>
@@ -319,41 +354,6 @@
     <guid isPermaLink="false">https://osf.io/qgvu6#ja</guid>
     <pubDate>Thu, 05 Mar 2026 14:10:34 +0000</pubDate>
     <description>Group Sequential Methods for Detecting Differential Item Functioning</description>
-  </item>
-  <item>
-    <title>事象関連電位の多変量パターン解析における最良の実践と落とし穴：前処理および解析設定の体系的レビュー</title>
-    <link>https://osf.io/86vqz</link>
-    <guid isPermaLink="false">https://osf.io/86vqz#ja</guid>
-    <pubDate>Thu, 05 Mar 2026 14:10:33 +0000</pubDate>
-    <description>Best practices and pitfalls in multivariate pattern analysis of event-related potentials: A systematic review of preprocessing and analytical configurations</description>
-  </item>
-  <item>
-    <title>地域精神保健における治療的ダンジョンズ＆ドラゴンズ集団介入の有効性－ランダム化比較試験のプロトコル</title>
-    <link>https://osf.io/dvk45</link>
-    <guid isPermaLink="false">https://osf.io/dvk45#ja</guid>
-    <pubDate>Thu, 05 Mar 2026 14:10:33 +0000</pubDate>
-    <description>The effectiveness of a therapeutically applied Dungeons and Dragons group intervention in a community mental health setting – Protocol for a randomised controlled trial.</description>
-  </item>
-  <item>
-    <title>発達途上読者における形態素転置効果の実証</title>
-    <link>https://osf.io/myz7d</link>
-    <guid isPermaLink="false">https://osf.io/myz7d#ja</guid>
-    <pubDate>Thu, 05 Mar 2026 14:10:33 +0000</pubDate>
-    <description>Evidence for Morpheme Transposition Effects in Developing Readers</description>
-  </item>
-  <item>
-    <title>科学研究における人工知能利用に対する一般の懐疑的態度</title>
-    <link>https://osf.io/3h5n6</link>
-    <guid isPermaLink="false">https://osf.io/3h5n6#ja</guid>
-    <pubDate>Thu, 05 Mar 2026 14:10:32 +0000</pubDate>
-    <description>Public skepticism about the use of AI in scientific research</description>
-  </item>
-  <item>
-    <title>三重の不利：母性、民族性、ジェンダー不平等に関連する二次的ストレッサーが極端な事象におけるストレス過程に与える心理社会的システム的考察</title>
-    <link>https://osf.io/k9xgf</link>
-    <guid isPermaLink="false">https://osf.io/k9xgf#ja</guid>
-    <pubDate>Thu, 05 Mar 2026 14:10:32 +0000</pubDate>
-    <description>Triply disadvantaged: Psychosocial systems thinking into how secondary stressors related to motherhood, ethnicity, and gender inequalities shape the stress process during extreme events</description>
   </item>
 </channel>
 </rss>
