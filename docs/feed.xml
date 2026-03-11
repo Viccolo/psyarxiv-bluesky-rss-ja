@@ -6,6 +6,20 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>双極性障害における自己スティグマ克服プログラム（OSSiBD）の有効性：ランダム化比較試験</title>
+    <link>https://osf.io/pw7nm</link>
+    <guid isPermaLink="false">https://osf.io/pw7nm#ja</guid>
+    <pubDate>Wed, 11 Mar 2026 17:25:07 +0000</pubDate>
+    <description>The Effectiveness of the Overcoming Self-Stigma of Bipolar Disorder (OSSiBD) Program: A Randomized Controlled Trial</description>
+  </item>
+  <item>
+    <title>二つおよび四つの予測を用いた複数予測可視化における解釈戦略の検討</title>
+    <link>https://osf.io/w6q7u</link>
+    <guid isPermaLink="false">https://osf.io/w6q7u#ja</guid>
+    <pubDate>Wed, 11 Mar 2026 17:25:07 +0000</pubDate>
+    <description>Examining Interpretation Strategies for Multiple Forecast Visualizations with Two and Four Forecasts</description>
+  </item>
+  <item>
     <title>乳児の生体情報および環境データ解析のための計算ツール</title>
     <link>https://osf.io/6ep7x</link>
     <guid isPermaLink="false">https://osf.io/6ep7x#ja</guid>
@@ -20,7 +34,7 @@
     <description>Understanding experiential and subjective truth: Development and validation of the ’Youniversalism’ scale</description>
   </item>
   <item>
-    <title>あなたの母親のイデオロギーではない（しかし近い）：ポスト共産主義ヨーロッパにおけるイデオロギー的一致の控えめな世代間差異</title>
+    <title>母親のイデオロギーではないが近い：ポスト共産主義ヨーロッパにおける世代間の控えめなイデオロギー整合性の差異</title>
     <link>https://osf.io/2wfk3</link>
     <guid isPermaLink="false">https://osf.io/2wfk3#ja</guid>
     <pubDate>Wed, 11 Mar 2026 16:08:51 +0000</pubDate>
@@ -34,21 +48,21 @@
     <description>Multi-stakeholder insights for designing and implementing safe, effective, and accessible social robots in K-12 Education</description>
   </item>
   <item>
-    <title>果物・野菜摂取増加における自己モニタリング頻度の効果：ランダム化実験研究</title>
+    <title>果物および野菜摂取量増加における自己モニタリング頻度の効果：ランダム化実験研究</title>
     <link>https://osf.io/jwzpe</link>
     <guid isPermaLink="false">https://osf.io/jwzpe#ja</guid>
     <pubDate>Wed, 11 Mar 2026 16:08:50 +0000</pubDate>
     <description>Self-monitoring frequency in increasing fruit and vegetable intake: A randomized experiment</description>
   </item>
   <item>
-    <title>ナイジェリア・オルにおけるリベリアおよびシエラレオネ難民児童の言語喪失と半言語主義：無国籍難民のトラウマと精神健康に関する社会言語学的・心理学的動態</title>
+    <title>リベリアおよびシエラレオネ難民児童における言語消失と半言語主義：ナイジェリア・オルにおける無国籍難民のトラウマと精神健康の社会言語心理学的動態</title>
     <link>https://osf.io/2b43q</link>
     <guid isPermaLink="false">https://osf.io/2b43q#ja</guid>
     <pubDate>Wed, 11 Mar 2026 16:08:50 +0000</pubDate>
     <description>Language attrition and semi-lingualism among Liberian and Sierra Leonean refugee children: A sociolinguistic-psychological dynamic of trauma and mental health in stateless refugees in Oru, Nigeria</description>
   </item>
   <item>
-    <title>第二言語英語読解における主観的および客観的文章難易度：処理負荷との相互関係の検討</title>
+    <title>第二言語英語読解における主観的および客観的文章難易度：処理努力との相互関係の検討</title>
     <link>https://osf.io/85fqv</link>
     <guid isPermaLink="false">https://osf.io/85fqv#ja</guid>
     <pubDate>Wed, 11 Mar 2026 16:08:49 +0000</pubDate>
@@ -97,14 +111,14 @@
     <description>Reducing Attitude and Affective Polarization Related to Sensitive Issues: A Systematic Review</description>
   </item>
   <item>
-    <title>子どもの焦点標示における対比度の程度を示す音響的および身振り的顕著性の相関関係</title>
+    <title>子どもの焦点標示における対比度の程度を示す音響的および身振り的顕著性の相関性</title>
     <link>https://osf.io/ubva3</link>
     <guid isPermaLink="false">https://osf.io/ubva3#ja</guid>
     <pubDate>Wed, 11 Mar 2026 15:10:36 +0000</pubDate>
     <description>Acoustic and Gestural Correlates of Prominence Indicate Degrees of Contrastivity in Children’s Focus Marking</description>
   </item>
   <item>
-    <title>対話コミュニケーション研究のためのマルチセンサーラボ構築：課題、対処法、および得られた知見</title>
+    <title>インタラクティブコミュニケーション研究のためのマルチセンサーラボ構築：課題、対処法、および得られた知見</title>
     <link>https://osf.io/n8bpa</link>
     <guid isPermaLink="false">https://osf.io/n8bpa#ja</guid>
     <pubDate>Wed, 11 Mar 2026 15:10:36 +0000</pubDate>
@@ -125,7 +139,7 @@
     <description>Computational tools for analyzing infant biometric and environmental data</description>
   </item>
   <item>
-    <title>人間と仮想エージェントの相互作用における（非）身体化された共同主体性</title>
+    <title>人間とバーチャルエージェントの相互作用における（非）身体化された共同主体性</title>
     <link>https://osf.io/e96x5</link>
     <guid isPermaLink="false">https://osf.io/e96x5#ja</guid>
     <pubDate>Wed, 11 Mar 2026 15:10:35 +0000</pubDate>
@@ -160,7 +174,7 @@
     <description>Fluctuations in emotional valence and arousal are differentially linked to cognitive performance and subjective mental effort</description>
   </item>
   <item>
-    <title>1512年から1920年にかけてのペルシャおよびヨーロッパの舞踊モチーフ作品を対象とした実証美学研究</title>
+    <title>1512年から1920年にかけてのペルシャおよびヨーロッパの舞踊モチーフ美術作品に関する実証的美学の研究</title>
     <link>https://osf.io/nk5eu</link>
     <guid isPermaLink="false">https://osf.io/nk5eu#ja</guid>
     <pubDate>Wed, 11 Mar 2026 15:10:33 +0000</pubDate>
@@ -174,49 +188,49 @@
     <description>Infant-Caregiver Vocal Contingency Changes Across Varying Interpersonal Space</description>
   </item>
   <item>
-    <title>精神病における身体性のスコーピングレビューと統合モデル</title>
+    <title>精神病における身体化のスコーピングレビューと統合モデル</title>
     <link>https://osf.io/dnt4v</link>
     <guid isPermaLink="false">https://osf.io/dnt4v#ja</guid>
     <pubDate>Wed, 11 Mar 2026 14:05:00 +0000</pubDate>
     <description>A Scoping Review and Integrated Model of Embodiment in Psychosis</description>
   </item>
   <item>
-    <title>記号的数比較における近似数システムの非妥当性</title>
+    <title>記号的数比較に対する近似数システムの説明可能性の低さ</title>
     <link>https://osf.io/6m4zw</link>
     <guid isPermaLink="false">https://osf.io/6m4zw#ja</guid>
     <pubDate>Wed, 11 Mar 2026 14:04:59 +0000</pubDate>
     <description>The Approximate Number System is an unlikely account for symbolic number comparison</description>
   </item>
   <item>
-    <title>ヨーロッパ4か国における精神医療利用者のセルフトラッキング習慣と技術利用－精神医療におけるデジタル自己モニタリングツールの導入可能性の検討</title>
+    <title>欧州4か国における精神医療利用者のセルフトラッキング習慣と技術利用－精神医療におけるデジタル自己モニタリングツールの導入可能性の検討</title>
     <link>https://osf.io/2ugpt</link>
     <guid isPermaLink="false">https://osf.io/2ugpt#ja</guid>
     <pubDate>Wed, 11 Mar 2026 14:04:59 +0000</pubDate>
     <description>Self-tracking Habits and Technology Use among Mental Healthcare Service Users in Four European Countries – Examining the implementation potential of digital self-monitoring tools in mental healthcare</description>
   </item>
   <item>
-    <title>心機能発作および機能性運動症状における心内感覚精度と洞察は保持されたままの内受容感受性の変化：症例対照研究</title>
+    <title>心機能性発作および心機能性運動症状における心内感覚感受性の変化と心拍内感覚の正確性および洞察の保持：症例対照研究</title>
     <link>https://osf.io/73hrm</link>
     <guid isPermaLink="false">https://osf.io/73hrm#ja</guid>
     <pubDate>Wed, 11 Mar 2026 14:04:59 +0000</pubDate>
     <description>Altered interoceptive sensibility alongside intact cardiac interoceptive accuracy and insight: A case-control study in functional seizures and functional motor symptoms</description>
   </item>
   <item>
-    <title>イングランドにおける子ども・青年の精神健康関連特別教育支援ニーズおよび入院接触における人種・民族および性別格差：人口ベースの連結データコホート研究</title>
+    <title>イングランドにおける子ども・青年の精神健康関連SENDおよび病院受診における人種・民族および性別格差：人口ベースの連結データコホート研究</title>
     <link>https://osf.io/nx365</link>
     <guid isPermaLink="false">https://osf.io/nx365#ja</guid>
     <pubDate>Wed, 11 Mar 2026 11:56:11 +0000</pubDate>
     <description>Racial-Ethnic and Gender Inequalities in Mental Health-related SEND and Hospital Contacts among Children and Adolescents: A Population-based Linked Data Cohort in England</description>
   </item>
   <item>
-    <title>イングランドにおける子ども・青年の精神保健関連学校特別支援教育と病院受診のシステム間連携における人種・民族および性別の不平等性</title>
+    <title>イングランドにおける児童・青少年の精神保健関連学校特別支援教育と病院受診間のシステム横断的経路における人種・民族および性別の不平等性</title>
     <link>https://osf.io/gqzav</link>
     <guid isPermaLink="false">https://osf.io/gqzav#ja</guid>
     <pubDate>Wed, 11 Mar 2026 11:56:11 +0000</pubDate>
     <description>Racial-Ethnic and Gender Inequities in Cross-System Pathways between Mental Health-related School SEND Provision and Hospital Contacts among Children and Adolescents in England</description>
   </item>
   <item>
-    <title>社会的つながりがうつ病リスクを軽減する可能性</title>
+    <title>社会的つながりがうつ病リスクの軽減に寄与する可能性</title>
     <link>https://osf.io/j5drc</link>
     <guid isPermaLink="false">https://osf.io/j5drc#ja</guid>
     <pubDate>Tue, 10 Mar 2026 21:33:23 +0000</pubDate>
@@ -230,7 +244,7 @@
     <description>“Would you be comfortable telling your family how much you lost gambling today?”: An experimental comparison of self-appraisal gambling harm prevention messages</description>
   </item>
   <item>
-    <title>メタアナリシスによる恐怖条件付け研究の検討：体系的アンブレラレビューと今後の展望</title>
+    <title>メタアナリシスによる恐怖条件付け研究の俯瞰：体系的アンブレラレビューと今後の展望</title>
     <link>https://osf.io/28cqr</link>
     <guid isPermaLink="false">https://osf.io/28cqr#ja</guid>
     <pubDate>Tue, 10 Mar 2026 21:33:22 +0000</pubDate>
@@ -244,14 +258,14 @@
     <description>Metacognition in Educational Research: Origins, Theoretical Traditions, and Current Challenges</description>
   </item>
   <item>
-    <title>心的練習中の自発的音楽イメージ内容：多様な感覚モダリティの共通性と身体化された差異</title>
+    <title>心的練習中の自発的音楽イメージ内容：多様なモダリティにおける共通性と身体化された差異</title>
     <link>https://osf.io/zpywm</link>
     <guid isPermaLink="false">https://osf.io/zpywm#ja</guid>
     <pubDate>Mon, 09 Mar 2026 20:28:48 +0000</pubDate>
     <description>Voluntary Musical Imagery Content during Mental Practice: Multimodal Commonalities and Embodied Differences</description>
   </item>
   <item>
-    <title>音楽練習における自発的音楽イメージ：文脈的意義、神経科学的メカニズムおよび実践的応用</title>
+    <title>音楽練習における自発的音楽イメージ：文脈的意味、神経科学的メカニズムおよび実践的応用</title>
     <link>https://osf.io/em5ub</link>
     <guid isPermaLink="false">https://osf.io/em5ub#ja</guid>
     <pubDate>Mon, 09 Mar 2026 20:28:48 +0000</pubDate>
@@ -286,28 +300,28 @@
     <description>Risk and protective factors in the mental health of elite sports coaches: a scoping review</description>
   </item>
   <item>
-    <title>闘争・逃走・凍結…それとも笑い？社会的起業家のトラウマ後成長を支える性格強み要因の検討</title>
+    <title>闘争・逃走・凍結…それとも笑い？社会的起業家のトラウマ体験後のポストトラウマ成長を支える性格強み要因</title>
     <link>https://osf.io/zeu62</link>
     <guid isPermaLink="false">https://osf.io/zeu62#ja</guid>
     <pubDate>Mon, 09 Mar 2026 12:53:59 +0000</pubDate>
     <description>Fight, Flight, Freeze . . . Or Laugh? Character Strength Factors Supporting Post Traumatic Growth for Social Entrepreneurs After a Traumatic Event</description>
   </item>
   <item>
-    <title>オンラインにおけるネガティビティバイアスの再考：否定的言語がオンラインニュースの関与に及ぼす異質的効果</title>
+    <title>オンラインにおけるネガティビティバイアスの再考：ネガティブ言語がオンラインニュースのエンゲージメントに及ぼす異質的効果</title>
     <link>https://osf.io/wzdym</link>
     <guid isPermaLink="false">https://osf.io/wzdym#ja</guid>
     <pubDate>Mon, 09 Mar 2026 12:53:58 +0000</pubDate>
     <description>Rethinking the Negativity Bias Online: The Heterogeneous Effects of Negative Language on Online News Engagement</description>
   </item>
   <item>
-    <title>大きさ産出における聴覚刺激の音量と視覚刺激の明るさのクロスモーダル可換性に関する研究</title>
+    <title>大きさ産出における聴覚と視覚のクロスモーダル交換可能性の検討</title>
     <link>https://osf.io/74qj3</link>
     <guid isPermaLink="false">https://osf.io/74qj3#ja</guid>
     <pubDate>Mon, 09 Mar 2026 12:53:58 +0000</pubDate>
     <description>On cross-modal commutativity in magnitude production for loudness and brightness</description>
   </item>
   <item>
-    <title>神経会計学における究極的原因論？</title>
+    <title>神経会計学における究極的原因論の検討</title>
     <link>https://osf.io/jy4t2</link>
     <guid isPermaLink="false">https://osf.io/jy4t2#ja</guid>
     <pubDate>Mon, 09 Mar 2026 12:53:58 +0000</pubDate>
@@ -321,32 +335,18 @@
     <description>Adult Clients’ Attitudes Towards Using Artificial Intelligence in Psychotherapy: Mixed-Methods Systematic Review</description>
   </item>
   <item>
-    <title>マインドフルなパートナーは違いを生むか？二者間カップルにおけるアクターパートナー相互依存モデルのメタ分析的検証</title>
+    <title>マインドフルなパートナーは関係に影響を与えるか？二者間カップルにおけるアクターパートナー相互依存モデルのメタ分析的検証</title>
     <link>https://osf.io/ebkyr</link>
     <guid isPermaLink="false">https://osf.io/ebkyr#ja</guid>
     <pubDate>Mon, 09 Mar 2026 12:53:57 +0000</pubDate>
     <description>Do Mindful Partners Make a Difference? A Meta-Analytic Test of the Actor-Partner Interdependence Model in Dyadic Couples</description>
   </item>
   <item>
-    <title>ソーシャルメディア、ポルノグラフィ、オンラインゲームに関わる葛藤に共感的または非共感的な若年集団の魅力性</title>
+    <title>ソーシャルメディア、ポルノグラフィー、オンラインゲームに関する葛藤に共感的または非共感的な若者集団の魅力性</title>
     <link>https://osf.io/smjg8</link>
     <guid isPermaLink="false">https://osf.io/smjg8#ja</guid>
     <pubDate>Mon, 09 Mar 2026 12:53:57 +0000</pubDate>
     <description>The Attractiveness of Youth Groups that are Sympathetic or Unsympathetic to Struggles Relating to Social Media, Pornography, and Online Gaming</description>
-  </item>
-  <item>
-    <title>記憶と自然種の探求</title>
-    <link>https://osf.io/rfjdn</link>
-    <guid isPermaLink="false">https://osf.io/rfjdn#ja</guid>
-    <pubDate>Mon, 09 Mar 2026 12:53:57 +0000</pubDate>
-    <description>Memory and the Search for Natural Kinds</description>
-  </item>
-  <item>
-    <title>因果推論とデジタルツインモデリングの統合による個別化精神健康研究</title>
-    <link>https://osf.io/m78jz</link>
-    <guid isPermaLink="false">https://osf.io/m78jz#ja</guid>
-    <pubDate>Mon, 09 Mar 2026 12:53:56 +0000</pubDate>
-    <description>Integrating Causal Inference with Digital Twin Modeling for Individualized Mental Health Research</description>
   </item>
 </channel>
 </rss>
