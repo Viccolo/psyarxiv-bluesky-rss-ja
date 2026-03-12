@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>睡眠衛生に関連する心理的要因：青年期と高齢期の比較研究</title>
+    <title>睡眠衛生に関連する心理的要因：青年期と高齢者の比較研究</title>
     <link>https://osf.io/cnbqj</link>
     <guid isPermaLink="false">https://osf.io/cnbqj#ja</guid>
     <pubDate>Thu, 12 Mar 2026 21:53:58 +0000</pubDate>
@@ -27,7 +27,7 @@
     <description>The AIR Scale: Development and Validation of a Measure of Motivations for Using AI During Reading</description>
   </item>
   <item>
-    <title>統計的近似は汎用知能ではない</title>
+    <title>統計的近似は一般知能ではない</title>
     <link>https://osf.io/qjrhs</link>
     <guid isPermaLink="false">https://osf.io/qjrhs#ja</guid>
     <pubDate>Thu, 12 Mar 2026 21:53:58 +0000</pubDate>
@@ -41,14 +41,14 @@
     <description>Dissociating Accuracy and Metacognition in Nutritional Judgements</description>
   </item>
   <item>
-    <title>都市環境における視線：地形タイプが視空間的注意と歩行動態に及ぼす影響の検討</title>
+    <title>都市における視線：地形タイプが視空間注意と歩行動態に及ぼす影響の検討</title>
     <link>https://osf.io/ka8vu</link>
     <guid isPermaLink="false">https://osf.io/ka8vu#ja</guid>
     <pubDate>Thu, 12 Mar 2026 21:53:57 +0000</pubDate>
     <description>Gaze in the city: Exploring the effect of terrain type on visuospatial attention and gait dynamics during urban locomotion</description>
   </item>
   <item>
-    <title>自由の限界：自由語順言語における置換検定の応用</title>
+    <title>自由の限界：自由語順言語における置換検定の検討</title>
     <link>https://osf.io/7fc5x</link>
     <guid isPermaLink="false">https://osf.io/7fc5x#ja</guid>
     <pubDate>Thu, 12 Mar 2026 21:53:57 +0000</pubDate>
@@ -69,14 +69,14 @@
     <description>Scientific Misunderstanding: Notes for the Bedeviled</description>
   </item>
   <item>
-    <title>第一言語習得における音楽の役割</title>
+    <title>母語習得における音楽の役割</title>
     <link>https://osf.io/q4x53</link>
     <guid isPermaLink="false">https://osf.io/q4x53#ja</guid>
     <pubDate>Thu, 12 Mar 2026 21:00:51 +0000</pubDate>
     <description>Music in first language acquisition</description>
   </item>
   <item>
-    <title>臨床医の声の設計：音高と専門職ラベルが聴取者の知覚に与える影響</title>
+    <title>臨床医の声の設計：音高と専門職ラベルが聴取者の認知に与える影響</title>
     <link>https://osf.io/pyv4c</link>
     <guid isPermaLink="false">https://osf.io/pyv4c#ja</guid>
     <pubDate>Thu, 12 Mar 2026 21:00:51 +0000</pubDate>
@@ -97,7 +97,7 @@
     <description>Reconsidering the Scope and Mechanisms of the Birth Order Effect on Sexual Orientation</description>
   </item>
   <item>
-    <title>「彼がいることで孤独感が和らいだ」：感情的支援を求める青年期における生成型AIとの関わり</title>
+    <title>「彼が私を孤独に感じさせなかった」：感情的支援における青年期の生成型AIとの関わり</title>
     <link>https://osf.io/pbf2c</link>
     <guid isPermaLink="false">https://osf.io/pbf2c#ja</guid>
     <pubDate>Thu, 12 Mar 2026 21:00:49 +0000</pubDate>
@@ -111,7 +111,7 @@
     <description>Rethinking Young Children&#x27;s Social Information Processing in the Era of Large Language Models</description>
   </item>
   <item>
-    <title>前頭葉損傷と頭頂葉損傷における微妙に異なる実行機能障害</title>
+    <title>前頭葉損傷と頭頂葉損傷における微妙に異なる遂行機能障害</title>
     <link>https://osf.io/cpsxa</link>
     <guid isPermaLink="false">https://osf.io/cpsxa#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:58 +0000</pubDate>
@@ -139,14 +139,14 @@
     <description>Being certain in an uncertain world: Social certainty, social accuracy, and their association with social connection and paranoia</description>
   </item>
   <item>
-    <title>ParentChild+は親のストレスを軽減する：早期家庭訪問プログラムのランダム化比較試験における初期成果</title>
+    <title>ParentChild+による親のストレス軽減：早期家庭訪問プログラムのランダム化比較試験における初期成果</title>
     <link>https://osf.io/z2dju</link>
     <guid isPermaLink="false">https://osf.io/z2dju#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:57 +0000</pubDate>
     <description>ParentChild+ reduces parent stress: Initial outcomes of a randomized controlled trial of an early home visiting program</description>
   </item>
   <item>
-    <title>信念と行動の連関：子どもの学業達成に対する制約認知と持続性および挑戦志向行動との関係</title>
+    <title>信念と行動の連関：学業達成に対する制約に関する子どもの信念と持続性および挑戦志向行動との関係</title>
     <link>https://osf.io/3xabp</link>
     <guid isPermaLink="false">https://osf.io/3xabp#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:57 +0000</pubDate>
@@ -167,7 +167,7 @@
     <description>Children Consider Changes in Performance Over Time When Reasoning About Academic Achievements</description>
   </item>
   <item>
-    <title>トップダウンとボトムアップの統合：感覚の信頼性が数の大きさのサイズ知覚への影響をどのように形成するか</title>
+    <title>トップダウンとボトムアップの融合：感覚の信頼性が数の大きさのサイズ知覚への影響をどのように形成するか</title>
     <link>https://osf.io/ehrx6</link>
     <guid isPermaLink="false">https://osf.io/ehrx6#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:56 +0000</pubDate>
@@ -181,21 +181,21 @@
     <description>Satisfying personal preference or being considerate? The protagonist’s preference matters in children’s evaluation of social mindfulness</description>
   </item>
   <item>
-    <title>内受容感覚プロファイリングによる精神健康に対する身体的およびアレキシサイミア的要因の識別</title>
+    <title>内受容感覚プロファイリングによる精神健康への身体的およびアレキシサイミア的要因の識別</title>
     <link>https://osf.io/8tjw9</link>
     <guid isPermaLink="false">https://osf.io/8tjw9#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:55 +0000</pubDate>
     <description>Interoceptive Profiling Identifies Separable Somatic and Alexithymic Contributors to Mental Health</description>
   </item>
   <item>
-    <title>HIV/AIDS患者における認知的感情調整と夫婦関係の関連性</title>
+    <title>HIV/AIDS患者における認知的感情調整と夫婦関係</title>
     <link>https://osf.io/65kj2</link>
     <guid isPermaLink="false">https://osf.io/65kj2#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:55 +0000</pubDate>
     <description>Cognitive Emotion Regulation and Marital Relationship in HIV/AIDS patients</description>
   </item>
   <item>
-    <title>意思決定における葛藤の制御</title>
+    <title>意思決定の葛藤制御</title>
     <link>https://osf.io/n5gky</link>
     <guid isPermaLink="false">https://osf.io/n5gky#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:55 +0000</pubDate>
@@ -223,14 +223,14 @@
     <description>The time course of strategic attentional control triggered by gaze and arrows: Evidence from a spatial Stroop paradigm</description>
   </item>
   <item>
-    <title>外見と動作の不一致がもたらす複雑な感情の喚起</title>
+    <title>外見と動作の不一致がもたらす複合感情の誘発</title>
     <link>https://osf.io/xdfzs</link>
     <guid isPermaLink="false">https://osf.io/xdfzs#ja</guid>
     <pubDate>Thu, 12 Mar 2026 08:37:05 +0000</pubDate>
     <description>Mixed emotions evoked when incongruent outward-appearance and motion are combined</description>
   </item>
   <item>
-    <title>感情顔刺激に対する扁桃体の慣れ：多問題若年成人における将来の再犯予測</title>
+    <title>感情表情に対する扁桃体の慣れ：多問題若年成人における将来の再犯予測</title>
     <link>https://osf.io/fmzx4</link>
     <guid isPermaLink="false">https://osf.io/fmzx4#ja</guid>
     <pubDate>Thu, 12 Mar 2026 08:37:04 +0000</pubDate>
@@ -265,7 +265,7 @@
     <description>The aversive signature of social disagreement: evidence for conflict-like responses</description>
   </item>
   <item>
-    <title>中国語版FUMIEテストの適応と中国語配偶者用語二対を用いた検証</title>
+    <title>中国語版FUMIEテストの適応と中国語配偶者用語二対による検証</title>
     <link>https://osf.io/4a3pz</link>
     <guid isPermaLink="false">https://osf.io/4a3pz#ja</guid>
     <pubDate>Thu, 12 Mar 2026 01:44:42 +0000</pubDate>
@@ -286,14 +286,14 @@
     <description>Mutual observability determines when precedent is moralized in multi-agent coordination games</description>
   </item>
   <item>
-    <title>複数当事者間の分配における公平性判断のモデル化</title>
+    <title>複数当事者間の分割における公平性判断のモデル化</title>
     <link>https://osf.io/nrf4m</link>
     <guid isPermaLink="false">https://osf.io/nrf4m#ja</guid>
     <pubDate>Thu, 12 Mar 2026 01:44:41 +0000</pubDate>
     <description>Modeling fairness judgments of splits between multiple parties</description>
   </item>
   <item>
-    <title>気候変動記事におけるAI生成文章の説得力の解明：感情フレーム、知覚されるメッセージ特性、および言語的特徴の検討</title>
+    <title>気候変動記事におけるAI生成文の説得力の解明：感情フレーム、知覚されるメッセージ特性、および言語的特徴の検討</title>
     <link>https://osf.io/mepa5</link>
     <guid isPermaLink="false">https://osf.io/mepa5#ja</guid>
     <pubDate>Thu, 12 Mar 2026 01:44:41 +0000</pubDate>
@@ -307,21 +307,21 @@
     <description>Reduced mismatch negativity to frequency deviants and altered non-oscillatory gamma-band power in first episode psychosis</description>
   </item>
   <item>
-    <title>拡張版単独恐怖尺度（B-FOBS）の開発と検証：交際状況を問わず使用可能な簡易尺度</title>
+    <title>拡張型単独恐怖（B-FOBS）尺度の開発と検証：交際状況を問わず使用可能な簡易測定法</title>
     <link>https://osf.io/v3s5g</link>
     <guid isPermaLink="false">https://osf.io/v3s5g#ja</guid>
     <pubDate>Thu, 12 Mar 2026 01:44:40 +0000</pubDate>
     <description>Development and Validation of the Broadened Fear of Being Single (B-FOBS) Scale: A Brief Measure for Use Across Relationship Statuses</description>
   </item>
   <item>
-    <title>HCIにおける自己決定理論の展開</title>
+    <title>HCIにおける自己決定理論の展開と発展</title>
     <link>https://osf.io/cmvb2</link>
     <guid isPermaLink="false">https://osf.io/cmvb2#ja</guid>
     <pubDate>Thu, 12 Mar 2026 01:44:40 +0000</pubDate>
     <description>Self-Determination Theory in HCI: Advancing the Field</description>
   </item>
   <item>
-    <title>「30歳までに知っておくべきこと」：30代女性における子どもを持たないアイデンティティの確立</title>
+    <title>「30歳までに知っておくべきこと」―30代女性における子なしアイデンティティの確立過程</title>
     <link>https://osf.io/vkwz8</link>
     <guid isPermaLink="false">https://osf.io/vkwz8#ja</guid>
     <pubDate>Thu, 12 Mar 2026 01:44:40 +0000</pubDate>
@@ -342,14 +342,14 @@
     <description>Is conscious perception necessary to direct attention? A replication of Jiang et al. (2006): Stage 2 Registered Report</description>
   </item>
   <item>
-    <title>未来の自己との対話が未来志向を促進する：介入の作動機序としての未来自己同一視</title>
+    <title>未来の自分との対話が未来志向を促進する：介入の作動機序としての未来自己同一視</title>
     <link>https://osf.io/m3jn8</link>
     <guid isPermaLink="false">https://osf.io/m3jn8#ja</guid>
     <pubDate>Wed, 11 Mar 2026 19:55:54 +0000</pubDate>
     <description>Interacting With Your Future Self Can Stimulate Future Orientation: Future Self-Identification as Working Mechanism of an Intervention</description>
   </item>
   <item>
-    <title>非自発的精神科入院における機械的拘束、強制投薬および隔離の絶対リスクと相対リスク：全国規模コホート研究</title>
+    <title>強制精神科入院中の機械的拘束、強制投薬および隔離の絶対リスクと相対リスク：全国規模コホート研究</title>
     <link>https://osf.io/zcy2w</link>
     <guid isPermaLink="false">https://osf.io/zcy2w#ja</guid>
     <pubDate>Wed, 11 Mar 2026 19:55:54 +0000</pubDate>
