@@ -6,7 +6,28 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>国家からの信頼感知が市民の政治的信頼に及ぼす影響</title>
+    <title>共感的正確さ向上のためのフィードバックベーストレーニング開発ステップバイステップチュートリアル</title>
+    <link>https://osf.io/kn24c</link>
+    <guid isPermaLink="false">https://osf.io/kn24c#ja</guid>
+    <pubDate>Fri, 13 Mar 2026 17:31:16 +0000</pubDate>
+    <description>A Step-by-Step Tutorial for Developing a Feedback-Based Training for Empathic Accuracy</description>
+  </item>
+  <item>
+    <title>スカラーカテゴリー化のモデル化：閾値ベース表象とプロトタイプベース表象の比較</title>
+    <link>https://osf.io/vd6bh</link>
+    <guid isPermaLink="false">https://osf.io/vd6bh#ja</guid>
+    <pubDate>Fri, 13 Mar 2026 17:31:16 +0000</pubDate>
+    <description>Modeling Scalar Categorization: Comparing Threshold-Based and Prototype-Based Representations</description>
+  </item>
+  <item>
+    <title>青年期における教育的アイデンティティの発達：縦断的軌跡と教育・家族環境の役割</title>
+    <link>https://osf.io/bvdxz</link>
+    <guid isPermaLink="false">https://osf.io/bvdxz#ja</guid>
+    <pubDate>Fri, 13 Mar 2026 17:31:16 +0000</pubDate>
+    <description>Educational Identity Development in Adolescence: Longitudinal Trajectories and the Role of Educational and Family Contexts</description>
+  </item>
+  <item>
+    <title>国家からの信頼感知が市民の政治的信頼に与える影響</title>
     <link>https://osf.io/a37sb</link>
     <guid isPermaLink="false">https://osf.io/a37sb#ja</guid>
     <pubDate>Fri, 13 Mar 2026 16:35:25 +0000</pubDate>
@@ -20,14 +41,14 @@
     <description>Maintenance Orientation in Top-Down Political Communication Increases Pro-Environmental Policy Support</description>
   </item>
   <item>
-    <title>チリ公的プログラムにおけるトランスジェンダー思春期青年の臨床プロファイルと早期精神健康変化：潜在クラス分析</title>
+    <title>チリ公的プログラムにおけるトランスジェンダー思春期青年の臨床プロフィールと早期精神健康変化：潜在クラス分析</title>
     <link>https://osf.io/3t9rp</link>
     <guid isPermaLink="false">https://osf.io/3t9rp#ja</guid>
     <pubDate>Fri, 13 Mar 2026 16:35:24 +0000</pubDate>
     <description>Perfiles clínicos y cambio temprano en salud mental de adolescentes trans en un programa público chileno: análisis de clases latentes</description>
   </item>
   <item>
-    <title>感情表出と認知における性差の検証：真実かつ動的な感情表現を用いて</title>
+    <title>感情表出と認識における性別効果の検証：真実かつ動的な感情表現を用いて</title>
     <link>https://osf.io/u7erj</link>
     <guid isPermaLink="false">https://osf.io/u7erj#ja</guid>
     <pubDate>Fri, 13 Mar 2026 16:35:24 +0000</pubDate>
@@ -41,7 +62,7 @@
     <description>Measurement</description>
   </item>
   <item>
-    <title>非科学的調査が公共政策に与える危険性：プロジェクト・ジャスティス・コロラド家族裁判所改革報告書、被害者の声と行動の呼びかけ―プレプリント</title>
+    <title>科学的根拠のない調査が公共政策に与える危険性：プロジェクトジャスティス・コロラド家族裁判改革報告書、被害者の声と行動の呼びかけ―プレプリント</title>
     <link>https://osf.io/f2m7v</link>
     <guid isPermaLink="false">https://osf.io/f2m7v#ja</guid>
     <pubDate>Fri, 13 Mar 2026 15:37:58 +0000</pubDate>
@@ -62,14 +83,14 @@
     <description>Adults’ Experiences of Mathematical Learning Difficulties and Anxiety: Links to Self-efficacy, Self-concept, and Learning</description>
   </item>
   <item>
-    <title>獲得性脳損傷を抱えるカップルに対する継続性療法の非無作為化非対照フィージビリティ研究</title>
+    <title>獲得性脳損傷を抱えるカップルを対象とした継続性療法の非無作為化非対照予備的実施可能性研究</title>
     <link>https://osf.io/5aqxg</link>
     <guid isPermaLink="false">https://osf.io/5aqxg#ja</guid>
     <pubDate>Fri, 13 Mar 2026 15:37:57 +0000</pubDate>
     <description>Continuity Therapy for couples living with acquired brain injury: a non-randomised uncontrolled feasibility study</description>
   </item>
   <item>
-    <title>社会的敗北感と社会的脅威は統合失調症と双極性障害を区別するか？</title>
+    <title>社会的敗北と社会的脅威は統合失調症と双極性障害を区別するか？</title>
     <link>https://osf.io/hmauj</link>
     <guid isPermaLink="false">https://osf.io/hmauj#ja</guid>
     <pubDate>Fri, 13 Mar 2026 15:37:57 +0000</pubDate>
@@ -125,14 +146,14 @@
     <description>Dissociating Accuracy and Metacognition in Nutritional Judgements</description>
   </item>
   <item>
-    <title>都市における視線：地形タイプが視空間注意と歩行動態に及ぼす影響の検討</title>
+    <title>都市環境における視線：地形タイプが視空間注意と歩行動態に及ぼす影響の検討</title>
     <link>https://osf.io/ka8vu</link>
     <guid isPermaLink="false">https://osf.io/ka8vu#ja</guid>
     <pubDate>Thu, 12 Mar 2026 21:53:57 +0000</pubDate>
     <description>Gaze in the city: Exploring the effect of terrain type on visuospatial attention and gait dynamics during urban locomotion</description>
   </item>
   <item>
-    <title>自由の限界：自由語順言語における置換検定の検討</title>
+    <title>自由の限界：自由語順言語における置換検定の応用</title>
     <link>https://osf.io/7fc5x</link>
     <guid isPermaLink="false">https://osf.io/7fc5x#ja</guid>
     <pubDate>Thu, 12 Mar 2026 21:53:57 +0000</pubDate>
@@ -153,7 +174,7 @@
     <description>Scientific Misunderstanding: Notes for the Bedeviled</description>
   </item>
   <item>
-    <title>母語習得における音楽の役割</title>
+    <title>第一言語習得における音楽の役割</title>
     <link>https://osf.io/q4x53</link>
     <guid isPermaLink="false">https://osf.io/q4x53#ja</guid>
     <pubDate>Thu, 12 Mar 2026 21:00:51 +0000</pubDate>
@@ -174,14 +195,14 @@
     <description>Stealth Assessments in Digital Learning Environments: Current Trends, New Directions, and Ethical Considerations</description>
   </item>
   <item>
-    <title>出生順効果が性的指向に及ぼす範囲とメカニズムの再考</title>
+    <title>出生順位が性的指向に及ぼす影響の範囲とメカニズムの再検討</title>
     <link>https://osf.io/5vdaj</link>
     <guid isPermaLink="false">https://osf.io/5vdaj#ja</guid>
     <pubDate>Thu, 12 Mar 2026 21:00:50 +0000</pubDate>
     <description>Reconsidering the Scope and Mechanisms of the Birth Order Effect on Sexual Orientation</description>
   </item>
   <item>
-    <title>「彼がいることで孤独感が和らいだ」：感情的支援を求める青年期における生成AIとの関わり</title>
+    <title>「彼がいることで孤独感が和らいだ」：感情的支援における青年期の生成AI利用の実態</title>
     <link>https://osf.io/pbf2c</link>
     <guid isPermaLink="false">https://osf.io/pbf2c#ja</guid>
     <pubDate>Thu, 12 Mar 2026 21:00:49 +0000</pubDate>
@@ -216,28 +237,28 @@
     <description>New Year’s Resolutions for Health Behavior Change: A Scoping Review</description>
   </item>
   <item>
-    <title>不確実な世界における確信感：社会的確信、社会的正確性と社会的つながりおよび偏執症との関連性</title>
+    <title>不確実な世界における確信感：社会的確信、社会的正確性と社会的つながりおよび妄想との関連性</title>
     <link>https://osf.io/3wmgx</link>
     <guid isPermaLink="false">https://osf.io/3wmgx#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:57 +0000</pubDate>
     <description>Being certain in an uncertain world: Social certainty, social accuracy, and their association with social connection and paranoia</description>
   </item>
   <item>
-    <title>ParentChild+は親のストレスを軽減する：早期家庭訪問プログラムのランダム化比較試験における初期成果</title>
+    <title>ParentChild+による親のストレス軽減：早期家庭訪問プログラムのランダム化比較試験における初期成果</title>
     <link>https://osf.io/z2dju</link>
     <guid isPermaLink="false">https://osf.io/z2dju#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:57 +0000</pubDate>
     <description>ParentChild+ reduces parent stress: Initial outcomes of a randomized controlled trial of an early home visiting program</description>
   </item>
   <item>
-    <title>信念と行動の関連性：学業達成に対する制約に関する子どもの信念と持続性および挑戦志向行動との関係</title>
+    <title>信念と行動の関連性：学業達成に対する制約に関する子どもの信念と持続性および挑戦行動との関係</title>
     <link>https://osf.io/3xabp</link>
     <guid isPermaLink="false">https://osf.io/3xabp#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:57 +0000</pubDate>
     <description>The belief-behavior link: the relationship between children’s beliefs about constraints on academic achievement and their persistence and challenge-seeking behaviors</description>
   </item>
   <item>
-    <title>若年成人の精神健康報告に対する精神健康関連ソーシャルメディア投稿の影響：二つの実験研究</title>
+    <title>若年成人のメンタルヘルス報告に及ぼすメンタルヘルス関連ソーシャルメディア投稿の影響：二つの実験的研究</title>
     <link>https://osf.io/msf9k</link>
     <guid isPermaLink="false">https://osf.io/msf9k#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:56 +0000</pubDate>
@@ -258,14 +279,14 @@
     <description>Top-Down Meets Bottom-Up: How Sensory Reliability Shapes the Influence of Number Magnitude on Size Perception</description>
   </item>
   <item>
-    <title>自己の好みを満たすことか配慮か―子どもの社会的配慮の評価における主体者の好みの重要性</title>
+    <title>自己の嗜好を満たすことか配慮か―子どもの社会的配慮の評価における主体者の嗜好の重要性</title>
     <link>https://osf.io/spk29</link>
     <guid isPermaLink="false">https://osf.io/spk29#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:56 +0000</pubDate>
     <description>Satisfying personal preference or being considerate? The protagonist’s preference matters in children’s evaluation of social mindfulness</description>
   </item>
   <item>
-    <title>内受容感覚プロファイリングによる精神健康に対する身体的要因と感情認識障害の分離的寄与の同定</title>
+    <title>内受容感覚プロファイリングによる精神健康への身体的およびアレキシサイミア的要因の識別</title>
     <link>https://osf.io/8tjw9</link>
     <guid isPermaLink="false">https://osf.io/8tjw9#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:55 +0000</pubDate>
@@ -300,7 +321,7 @@
     <description>The knowability of the future: Evidence from one million collective forecasts</description>
   </item>
   <item>
-    <title>視線と矢印によって誘発される戦略的注意制御の時間経過：空間ストループ課題からの証拠</title>
+    <title>視線と矢印に誘発される戦略的注意制御の時間経過：空間ストループ課題による検証</title>
     <link>https://osf.io/y2dqw</link>
     <guid isPermaLink="false">https://osf.io/y2dqw#ja</guid>
     <pubDate>Thu, 12 Mar 2026 12:51:35 +0000</pubDate>
@@ -314,7 +335,7 @@
     <description>Mixed emotions evoked when incongruent outward-appearance and motion are combined</description>
   </item>
   <item>
-    <title>感情顔刺激に対する扁桃体の慣れ：多問題若年成人の将来の再犯予測</title>
+    <title>感情表情に対する扁桃体の慣れ：多問題若年成人の将来の再犯予測</title>
     <link>https://osf.io/fmzx4</link>
     <guid isPermaLink="false">https://osf.io/fmzx4#ja</guid>
     <pubDate>Thu, 12 Mar 2026 08:37:04 +0000</pubDate>
@@ -333,27 +354,6 @@
     <guid isPermaLink="false">https://osf.io/hsdma#ja</guid>
     <pubDate>Thu, 12 Mar 2026 06:49:14 +0000</pubDate>
     <description>From innovation to integration: a scoping review of factors shaping the integration of digital mental health into mainstream care</description>
-  </item>
-  <item>
-    <title>ブートストラップ因子分析を用いた統合心拍変動指標の開発</title>
-    <link>https://osf.io/p4mr2</link>
-    <guid isPermaLink="false">https://osf.io/p4mr2#ja</guid>
-    <pubDate>Thu, 12 Mar 2026 06:49:14 +0000</pubDate>
-    <description>Development of integrated heart rate variability indexes using bootstrapping factor analysis</description>
-  </item>
-  <item>
-    <title>社会的不一致の嫌悪的特徴：対立様反応の証拠</title>
-    <link>https://osf.io/h2auc</link>
-    <guid isPermaLink="false">https://osf.io/h2auc#ja</guid>
-    <pubDate>Thu, 12 Mar 2026 06:49:13 +0000</pubDate>
-    <description>The aversive signature of social disagreement: evidence for conflict-like responses</description>
-  </item>
-  <item>
-    <title>中国語版FUMIEテストの適応と中国語配偶者用語二対を用いた検証</title>
-    <link>https://osf.io/4a3pz</link>
-    <guid isPermaLink="false">https://osf.io/4a3pz#ja</guid>
-    <pubDate>Thu, 12 Mar 2026 01:44:42 +0000</pubDate>
-    <description>Adaptation of the Chinese Version of the FUMIE Test and Validation with Two Pairs of Chinese Spousal Terms</description>
   </item>
 </channel>
 </rss>
