@@ -6,14 +6,49 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>非科学的調査が公共政策に与える危険性：プロジェクト・ジャスティス・コロラド家族裁判改革報告書、被害者の声と行動の呼びかけ―プレプリント</title>
+    <title>国家からの信頼感知が市民の政治的信頼に及ぼす影響</title>
+    <link>https://osf.io/a37sb</link>
+    <guid isPermaLink="false">https://osf.io/a37sb#ja</guid>
+    <pubDate>Fri, 13 Mar 2026 16:35:25 +0000</pubDate>
+    <description>How Perceived Trust from the State Influences Citizens’ Political Trust</description>
+  </item>
+  <item>
+    <title>トップダウン型政治コミュニケーションにおける維持志向が環境政策支持を促進する効果</title>
+    <link>https://osf.io/nmw8s</link>
+    <guid isPermaLink="false">https://osf.io/nmw8s#ja</guid>
+    <pubDate>Fri, 13 Mar 2026 16:35:25 +0000</pubDate>
+    <description>Maintenance Orientation in Top-Down Political Communication Increases Pro-Environmental Policy Support</description>
+  </item>
+  <item>
+    <title>チリ公的プログラムにおけるトランスジェンダー思春期青年の臨床プロファイルと早期精神健康変化：潜在クラス分析</title>
+    <link>https://osf.io/3t9rp</link>
+    <guid isPermaLink="false">https://osf.io/3t9rp#ja</guid>
+    <pubDate>Fri, 13 Mar 2026 16:35:24 +0000</pubDate>
+    <description>Perfiles clínicos y cambio temprano en salud mental de adolescentes trans en un programa público chileno: análisis de clases latentes</description>
+  </item>
+  <item>
+    <title>感情表出と認知における性差の検証：真実かつ動的な感情表現を用いて</title>
+    <link>https://osf.io/u7erj</link>
+    <guid isPermaLink="false">https://osf.io/u7erj#ja</guid>
+    <pubDate>Fri, 13 Mar 2026 16:35:24 +0000</pubDate>
+    <description>Emotional women? Testing gender effects on emotion expression and recognition with genuine and dynamic emotion expressions</description>
+  </item>
+  <item>
+    <title>測定法</title>
+    <link>https://osf.io/rg765</link>
+    <guid isPermaLink="false">https://osf.io/rg765#ja</guid>
+    <pubDate>Fri, 13 Mar 2026 16:35:24 +0000</pubDate>
+    <description>Measurement</description>
+  </item>
+  <item>
+    <title>非科学的調査が公共政策に与える危険性：プロジェクト・ジャスティス・コロラド家族裁判所改革報告書、被害者の声と行動の呼びかけ―プレプリント</title>
     <link>https://osf.io/f2m7v</link>
     <guid isPermaLink="false">https://osf.io/f2m7v#ja</guid>
     <pubDate>Fri, 13 Mar 2026 15:37:58 +0000</pubDate>
     <description>The Danger of Unscientific Surveys Swaying Public Policy: The Project Justice Colorado Family Court Reform Report, Voice of Survivors and a Call for Action-Preprint</description>
   </item>
   <item>
-    <title>悪人は利他行動に値するか？受益者の道徳的性格に基づく就学前児の社会的配慮の選択的評価</title>
+    <title>悪人は利他的行動に値するか？受益者の道徳的性格に基づく就学前児の社会的配慮の選択的評価</title>
     <link>https://osf.io/huqk8</link>
     <guid isPermaLink="false">https://osf.io/huqk8#ja</guid>
     <pubDate>Fri, 13 Mar 2026 15:37:57 +0000</pubDate>
@@ -27,7 +62,7 @@
     <description>Adults’ Experiences of Mathematical Learning Difficulties and Anxiety: Links to Self-efficacy, Self-concept, and Learning</description>
   </item>
   <item>
-    <title>獲得性脳損傷を抱えるカップルを対象とした継続性療法の非無作為化非対照予備的実施可能性研究</title>
+    <title>獲得性脳損傷を抱えるカップルに対する継続性療法の非無作為化非対照フィージビリティ研究</title>
     <link>https://osf.io/5aqxg</link>
     <guid isPermaLink="false">https://osf.io/5aqxg#ja</guid>
     <pubDate>Fri, 13 Mar 2026 15:37:57 +0000</pubDate>
@@ -48,7 +83,7 @@
     <description>Learning in plants: A conceptual and experimental primer</description>
   </item>
   <item>
-    <title>態度が重要でないとき―しかし重要になる場合</title>
+    <title>態度が重要でないとき―しかし重要になる瞬間</title>
     <link>https://osf.io/nvmtf</link>
     <guid isPermaLink="false">https://osf.io/nvmtf#ja</guid>
     <pubDate>Fri, 13 Mar 2026 11:53:24 +0000</pubDate>
@@ -76,7 +111,7 @@
     <description>The AIR Scale: Development and Validation of a Measure of Motivations for Using AI During Reading</description>
   </item>
   <item>
-    <title>統計的近似は一般知能ではない</title>
+    <title>統計的近似は汎用知能ではない</title>
     <link>https://osf.io/qjrhs</link>
     <guid isPermaLink="false">https://osf.io/qjrhs#ja</guid>
     <pubDate>Thu, 12 Mar 2026 21:53:58 +0000</pubDate>
@@ -97,7 +132,7 @@
     <description>Gaze in the city: Exploring the effect of terrain type on visuospatial attention and gait dynamics during urban locomotion</description>
   </item>
   <item>
-    <title>自由の限界：自由語順言語における置換検定の試み</title>
+    <title>自由の限界：自由語順言語における置換検定の検討</title>
     <link>https://osf.io/7fc5x</link>
     <guid isPermaLink="false">https://osf.io/7fc5x#ja</guid>
     <pubDate>Thu, 12 Mar 2026 21:53:57 +0000</pubDate>
@@ -118,7 +153,7 @@
     <description>Scientific Misunderstanding: Notes for the Bedeviled</description>
   </item>
   <item>
-    <title>第一言語習得における音楽の役割</title>
+    <title>母語習得における音楽の役割</title>
     <link>https://osf.io/q4x53</link>
     <guid isPermaLink="false">https://osf.io/q4x53#ja</guid>
     <pubDate>Thu, 12 Mar 2026 21:00:51 +0000</pubDate>
@@ -139,14 +174,14 @@
     <description>Stealth Assessments in Digital Learning Environments: Current Trends, New Directions, and Ethical Considerations</description>
   </item>
   <item>
-    <title>出生順効果が性的指向に及ぼす範囲とメカニズムの再検討</title>
+    <title>出生順効果が性的指向に及ぼす範囲とメカニズムの再考</title>
     <link>https://osf.io/5vdaj</link>
     <guid isPermaLink="false">https://osf.io/5vdaj#ja</guid>
     <pubDate>Thu, 12 Mar 2026 21:00:50 +0000</pubDate>
     <description>Reconsidering the Scope and Mechanisms of the Birth Order Effect on Sexual Orientation</description>
   </item>
   <item>
-    <title>「彼が私を孤独に感じさせなかった」：感情的支援における青年期の生成AIとの関わり</title>
+    <title>「彼がいることで孤独感が和らいだ」：感情的支援を求める青年期における生成AIとの関わり</title>
     <link>https://osf.io/pbf2c</link>
     <guid isPermaLink="false">https://osf.io/pbf2c#ja</guid>
     <pubDate>Thu, 12 Mar 2026 21:00:49 +0000</pubDate>
@@ -167,7 +202,7 @@
     <description>Subtly distinct dysexecutive deficits after frontal versus parietal brain damage</description>
   </item>
   <item>
-    <title>音響誘発フラッシュ錯視パラダイムの最適化：堅牢な多感覚統合測定に必要な最小試行回数の検討</title>
+    <title>音響誘発フラッシュ錯覚パラダイムの最適化：堅牢な多感覚統合測定に必要な最小試行回数の検討</title>
     <link>https://osf.io/ykdg5</link>
     <guid isPermaLink="false">https://osf.io/ykdg5#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:58 +0000</pubDate>
@@ -181,35 +216,35 @@
     <description>New Year’s Resolutions for Health Behavior Change: A Scoping Review</description>
   </item>
   <item>
-    <title>不確実な世界における確信感：社会的確信性、社会的正確性と社会的つながりおよび偏執症との関連性</title>
+    <title>不確実な世界における確信感：社会的確信、社会的正確性と社会的つながりおよび偏執症との関連性</title>
     <link>https://osf.io/3wmgx</link>
     <guid isPermaLink="false">https://osf.io/3wmgx#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:57 +0000</pubDate>
     <description>Being certain in an uncertain world: Social certainty, social accuracy, and their association with social connection and paranoia</description>
   </item>
   <item>
-    <title>ParentChild+による親のストレス軽減：早期家庭訪問プログラムのランダム化比較試験における初期成果</title>
+    <title>ParentChild+は親のストレスを軽減する：早期家庭訪問プログラムのランダム化比較試験における初期成果</title>
     <link>https://osf.io/z2dju</link>
     <guid isPermaLink="false">https://osf.io/z2dju#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:57 +0000</pubDate>
     <description>ParentChild+ reduces parent stress: Initial outcomes of a randomized controlled trial of an early home visiting program</description>
   </item>
   <item>
-    <title>信念と行動の関連性：学業達成の制約に関する子どもの信念と持続性および挑戦追求行動との関係</title>
+    <title>信念と行動の関連性：学業達成に対する制約に関する子どもの信念と持続性および挑戦志向行動との関係</title>
     <link>https://osf.io/3xabp</link>
     <guid isPermaLink="false">https://osf.io/3xabp#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:57 +0000</pubDate>
     <description>The belief-behavior link: the relationship between children’s beliefs about constraints on academic achievement and their persistence and challenge-seeking behaviors</description>
   </item>
   <item>
-    <title>若年成人のメンタルヘルス報告に及ぼすメンタルヘルス関連ソーシャルメディア投稿の影響：二つの実験研究</title>
+    <title>若年成人の精神健康報告に対する精神健康関連ソーシャルメディア投稿の影響：二つの実験研究</title>
     <link>https://osf.io/msf9k</link>
     <guid isPermaLink="false">https://osf.io/msf9k#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:56 +0000</pubDate>
     <description>The impact of mental health-related social media posts on young adults&#x27; mental health reporting: A two-study experimental investigation</description>
   </item>
   <item>
-    <title>子どもは学業成績の推論において時間経過によるパフォーマンスの変化を考慮する</title>
+    <title>子どもは学業成績に関する推論において時間経過によるパフォーマンスの変化を考慮する</title>
     <link>https://osf.io/7qahu</link>
     <guid isPermaLink="false">https://osf.io/7qahu#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:56 +0000</pubDate>
@@ -223,14 +258,14 @@
     <description>Top-Down Meets Bottom-Up: How Sensory Reliability Shapes the Influence of Number Magnitude on Size Perception</description>
   </item>
   <item>
-    <title>自己の嗜好を満たすことか配慮か―子どもの社会的配慮の評価における主人公の嗜好の重要性</title>
+    <title>自己の好みを満たすことか配慮か―子どもの社会的配慮の評価における主体者の好みの重要性</title>
     <link>https://osf.io/spk29</link>
     <guid isPermaLink="false">https://osf.io/spk29#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:56 +0000</pubDate>
     <description>Satisfying personal preference or being considerate? The protagonist’s preference matters in children’s evaluation of social mindfulness</description>
   </item>
   <item>
-    <title>内受容感覚プロファイリングによる精神健康への身体的および感情認識障害の独立した寄与因子の同定</title>
+    <title>内受容感覚プロファイリングによる精神健康に対する身体的要因と感情認識障害の分離的寄与の同定</title>
     <link>https://osf.io/8tjw9</link>
     <guid isPermaLink="false">https://osf.io/8tjw9#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:55 +0000</pubDate>
@@ -251,7 +286,7 @@
     <description>Controlling Decision Conflict</description>
   </item>
   <item>
-    <title>情報の可用性が採餌戦略に与える影響：仮想採餌ゲームを用いた検討</title>
+    <title>情報の可用性が採餌戦略に与える影響：仮想採餌ゲームによる検討</title>
     <link>https://osf.io/v3jz4</link>
     <guid isPermaLink="false">https://osf.io/v3jz4#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:55 +0000</pubDate>
@@ -265,21 +300,21 @@
     <description>The knowability of the future: Evidence from one million collective forecasts</description>
   </item>
   <item>
-    <title>視線と矢印によって誘発される戦略的注意制御の時間経過：空間的ストループ課題からの証拠</title>
+    <title>視線と矢印によって誘発される戦略的注意制御の時間経過：空間ストループ課題からの証拠</title>
     <link>https://osf.io/y2dqw</link>
     <guid isPermaLink="false">https://osf.io/y2dqw#ja</guid>
     <pubDate>Thu, 12 Mar 2026 12:51:35 +0000</pubDate>
     <description>The time course of strategic attentional control triggered by gaze and arrows: Evidence from a spatial Stroop paradigm</description>
   </item>
   <item>
-    <title>外見と動作の不一致がもたらす複雑な感情反応</title>
+    <title>外見と動作の不一致が引き起こす複雑な感情反応</title>
     <link>https://osf.io/xdfzs</link>
     <guid isPermaLink="false">https://osf.io/xdfzs#ja</guid>
     <pubDate>Thu, 12 Mar 2026 08:37:05 +0000</pubDate>
     <description>Mixed emotions evoked when incongruent outward-appearance and motion are combined</description>
   </item>
   <item>
-    <title>感情顔刺激に対する扁桃体の慣れ：多問題若年成人における将来の再犯予測</title>
+    <title>感情顔刺激に対する扁桃体の慣れ：多問題若年成人の将来の再犯予測</title>
     <link>https://osf.io/fmzx4</link>
     <guid isPermaLink="false">https://osf.io/fmzx4#ja</guid>
     <pubDate>Thu, 12 Mar 2026 08:37:04 +0000</pubDate>
@@ -319,41 +354,6 @@
     <guid isPermaLink="false">https://osf.io/4a3pz#ja</guid>
     <pubDate>Thu, 12 Mar 2026 01:44:42 +0000</pubDate>
     <description>Adaptation of the Chinese Version of the FUMIE Test and Validation with Two Pairs of Chinese Spousal Terms</description>
-  </item>
-  <item>
-    <title>トラウマ映像条件付けパラダイムにおける恐怖学習および侵入的記憶における時間的近接性の役割</title>
-    <link>https://osf.io/26zry</link>
-    <guid isPermaLink="false">https://osf.io/26zry#ja</guid>
-    <pubDate>Thu, 12 Mar 2026 01:44:42 +0000</pubDate>
-    <description>The Role of Temporal Proximity in Fear Learning and Intrusive Memories during a Trauma Film Conditioning Paradigm</description>
-  </item>
-  <item>
-    <title>相互観察可能性が多主体協調ゲームにおける先例の道徳化を決定する</title>
-    <link>https://osf.io/b94np</link>
-    <guid isPermaLink="false">https://osf.io/b94np#ja</guid>
-    <pubDate>Thu, 12 Mar 2026 01:44:41 +0000</pubDate>
-    <description>Mutual observability determines when precedent is moralized in multi-agent coordination games</description>
-  </item>
-  <item>
-    <title>複数当事者間の分配における公平性判断のモデル化</title>
-    <link>https://osf.io/nrf4m</link>
-    <guid isPermaLink="false">https://osf.io/nrf4m#ja</guid>
-    <pubDate>Thu, 12 Mar 2026 01:44:41 +0000</pubDate>
-    <description>Modeling fairness judgments of splits between multiple parties</description>
-  </item>
-  <item>
-    <title>気候変動記事におけるAI生成文章の説得力の解明：感情フレーム、知覚されたメッセージ特性、および言語的特徴の検討</title>
-    <link>https://osf.io/mepa5</link>
-    <guid isPermaLink="false">https://osf.io/mepa5#ja</guid>
-    <pubDate>Thu, 12 Mar 2026 01:44:41 +0000</pubDate>
-    <description>Dissecting the persuasiveness of AI writing in climate change articles: Emotion frames, perceived message qualities, and linguistic traits</description>
-  </item>
-  <item>
-    <title>初回発症精神病における周波数逸脱刺激に対するミスマッチネガティビティの減少および非振動性ガンマ帯域パワーの変化</title>
-    <link>https://osf.io/jsvb5</link>
-    <guid isPermaLink="false">https://osf.io/jsvb5#ja</guid>
-    <pubDate>Thu, 12 Mar 2026 01:44:41 +0000</pubDate>
-    <description>Reduced mismatch negativity to frequency deviants and altered non-oscillatory gamma-band power in first episode psychosis</description>
   </item>
 </channel>
 </rss>
