@@ -6,6 +6,20 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>「パーソナリティ機能」という構成概念の論理的定義の欠如</title>
+    <link>https://osf.io/zncr7</link>
+    <guid isPermaLink="false">https://osf.io/zncr7#ja</guid>
+    <pubDate>Fri, 13 Mar 2026 19:28:06 +0000</pubDate>
+    <description>The construct ‘personality functioning’ is currently not logically defined</description>
+  </item>
+  <item>
+    <title>内的多様性から外的群集へ：集約前の誤差構造を変容させる指示の役割</title>
+    <link>https://osf.io/rxgzc</link>
+    <guid isPermaLink="false">https://osf.io/rxgzc#ja</guid>
+    <pubDate>Fri, 13 Mar 2026 19:28:05 +0000</pubDate>
+    <description>From inner diversity to outer crowds: How instructions reshape error structure before aggregation</description>
+  </item>
+  <item>
     <title>健康および犯罪結果に関する警察リスク評価ツールの最新メタアナリシス</title>
     <link>https://osf.io/5t42b</link>
     <guid isPermaLink="false">https://osf.io/5t42b#ja</guid>
@@ -20,7 +34,7 @@
     <description>Bilingualism and cognition: The impact of age of acquisition, language use and proficiency in cognitively unimpaired older adults</description>
   </item>
   <item>
-    <title>共感的正確性向上のためのフィードバックベーストレーニング開発ステップバイステップチュートリアル</title>
+    <title>共感的正確さ向上のためのフィードバックベーストレーニング開発ステップバイステップチュートリアル</title>
     <link>https://osf.io/kn24c</link>
     <guid isPermaLink="false">https://osf.io/kn24c#ja</guid>
     <pubDate>Fri, 13 Mar 2026 17:31:16 +0000</pubDate>
@@ -34,14 +48,14 @@
     <description>Modeling Scalar Categorization: Comparing Threshold-Based and Prototype-Based Representations</description>
   </item>
   <item>
-    <title>青年期における教育的アイデンティティの発達：縦断的軌跡と教育・家族環境の役割</title>
+    <title>青年期における教育的アイデンティティの発達：縦断的軌跡と教育的・家族的文脈の役割</title>
     <link>https://osf.io/bvdxz</link>
     <guid isPermaLink="false">https://osf.io/bvdxz#ja</guid>
     <pubDate>Fri, 13 Mar 2026 17:31:16 +0000</pubDate>
     <description>Educational Identity Development in Adolescence: Longitudinal Trajectories and the Role of Educational and Family Contexts</description>
   </item>
   <item>
-    <title>国家からの信頼感知が市民の政治的信頼に及ぼす影響</title>
+    <title>国家からの信頼感知が市民の政治的信頼に与える影響</title>
     <link>https://osf.io/a37sb</link>
     <guid isPermaLink="false">https://osf.io/a37sb#ja</guid>
     <pubDate>Fri, 13 Mar 2026 16:35:25 +0000</pubDate>
@@ -55,7 +69,7 @@
     <description>Maintenance Orientation in Top-Down Political Communication Increases Pro-Environmental Policy Support</description>
   </item>
   <item>
-    <title>チリ公的プログラムにおけるトランスジェンダー思春期青年の臨床プロファイルと早期精神健康変化：潜在クラス分析</title>
+    <title>チリ公的プログラムにおけるトランスジェンダー思春期青年の臨床プロファイルと精神健康の早期変化：潜在クラス分析</title>
     <link>https://osf.io/3t9rp</link>
     <guid isPermaLink="false">https://osf.io/3t9rp#ja</guid>
     <pubDate>Fri, 13 Mar 2026 16:35:24 +0000</pubDate>
@@ -76,7 +90,7 @@
     <description>Measurement</description>
   </item>
   <item>
-    <title>非科学的調査が公共政策に及ぼす危険性：プロジェクトジャスティス・コロラド家族裁判所改革報告書、被害者の声と行動の呼びかけ－プレプリント</title>
+    <title>非科学的調査が公共政策に与える危険性：プロジェクトジャスティス・コロラド家族裁判所改革報告書、被害者の声と行動の呼びかけ－プレプリント</title>
     <link>https://osf.io/f2m7v</link>
     <guid isPermaLink="false">https://osf.io/f2m7v#ja</guid>
     <pubDate>Fri, 13 Mar 2026 15:37:58 +0000</pubDate>
@@ -97,7 +111,7 @@
     <description>Adults’ Experiences of Mathematical Learning Difficulties and Anxiety: Links to Self-efficacy, Self-concept, and Learning</description>
   </item>
   <item>
-    <title>獲得性脳損傷を抱えるカップルを対象とした継続性療法の非無作為化非対照予備的実施可能性研究</title>
+    <title>獲得性脳損傷を抱えるカップルに対する継続性療法の非無作為化非対照予備的実施可能性研究</title>
     <link>https://osf.io/5aqxg</link>
     <guid isPermaLink="false">https://osf.io/5aqxg#ja</guid>
     <pubDate>Fri, 13 Mar 2026 15:37:57 +0000</pubDate>
@@ -132,7 +146,7 @@
     <description>PSYCHOLOGICAL FACTORS ASSOCIATED WITH SLEEP HYGIENE: A Comparative Study of Adolescents and Older Adults</description>
   </item>
   <item>
-    <title>睡眠衛生に関連する心理的要因：青年期と高齢者の比較研究</title>
+    <title>睡眠衛生に関連する心理的要因：青年期と高齢期の比較研究</title>
     <link>https://osf.io/q7aw8</link>
     <guid isPermaLink="false">https://osf.io/q7aw8#ja</guid>
     <pubDate>Thu, 12 Mar 2026 21:53:58 +0000</pubDate>
@@ -146,7 +160,7 @@
     <description>The AIR Scale: Development and Validation of a Measure of Motivations for Using AI During Reading</description>
   </item>
   <item>
-    <title>統計的近似は汎用知能ではない</title>
+    <title>統計的近似は一般知能ではない</title>
     <link>https://osf.io/qjrhs</link>
     <guid isPermaLink="false">https://osf.io/qjrhs#ja</guid>
     <pubDate>Thu, 12 Mar 2026 21:53:58 +0000</pubDate>
@@ -181,7 +195,7 @@
     <description>Psychological Weaning in Rodents: A Developmental Framework for Emotional Independence</description>
   </item>
   <item>
-    <title>科学的誤解：困惑への覚書</title>
+    <title>科学的誤解：困惑する者への覚書</title>
     <link>https://osf.io/s5ept</link>
     <guid isPermaLink="false">https://osf.io/s5ept#ja</guid>
     <pubDate>Thu, 12 Mar 2026 21:53:56 +0000</pubDate>
@@ -195,7 +209,7 @@
     <description>Music in first language acquisition</description>
   </item>
   <item>
-    <title>臨床医の声の設計：音高と専門職ラベルが聴取者の知覚に与える影響</title>
+    <title>臨床医の声の設計：音高と専門職ラベルが聴取者の認知に与える影響</title>
     <link>https://osf.io/pyv4c</link>
     <guid isPermaLink="false">https://osf.io/pyv4c#ja</guid>
     <pubDate>Thu, 12 Mar 2026 21:00:51 +0000</pubDate>
@@ -216,7 +230,7 @@
     <description>Reconsidering the Scope and Mechanisms of the Birth Order Effect on Sexual Orientation</description>
   </item>
   <item>
-    <title>「彼が私の孤独感を和らげてくれた」：感情的支援を求める青少年の生成AIとの関わり</title>
+    <title>「彼が私を孤独に感じさせなかった」：感情的支援を求める青年期における生成AIとの関わり</title>
     <link>https://osf.io/pbf2c</link>
     <guid isPermaLink="false">https://osf.io/pbf2c#ja</guid>
     <pubDate>Thu, 12 Mar 2026 21:00:49 +0000</pubDate>
@@ -230,7 +244,7 @@
     <description>Rethinking Young Children&#x27;s Social Information Processing in the Era of Large Language Models</description>
   </item>
   <item>
-    <title>前頭葉損傷と頭頂葉損傷における微妙に異なる実行機能障害</title>
+    <title>前頭葉損傷と頭頂葉損傷における微妙に異なる遂行機能障害</title>
     <link>https://osf.io/cpsxa</link>
     <guid isPermaLink="false">https://osf.io/cpsxa#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:58 +0000</pubDate>
@@ -251,7 +265,7 @@
     <description>New Year’s Resolutions for Health Behavior Change: A Scoping Review</description>
   </item>
   <item>
-    <title>不確実な世界における確信感：社会的確信、社会的正確性と社会的つながりおよび偏執症との関連性</title>
+    <title>不確実な世界における確信感：社会的確信性、社会的正確性と社会的つながりおよび妄想との関連性</title>
     <link>https://osf.io/3wmgx</link>
     <guid isPermaLink="false">https://osf.io/3wmgx#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:57 +0000</pubDate>
@@ -272,35 +286,35 @@
     <description>The belief-behavior link: the relationship between children’s beliefs about constraints on academic achievement and their persistence and challenge-seeking behaviors</description>
   </item>
   <item>
-    <title>若年成人の精神健康報告に及ぼすメンタルヘルス関連ソーシャルメディア投稿の影響：二つの実験研究による検討</title>
+    <title>若年成人の精神健康報告に及ぼすメンタルヘルス関連ソーシャルメディア投稿の影響：二つの実験的研究</title>
     <link>https://osf.io/msf9k</link>
     <guid isPermaLink="false">https://osf.io/msf9k#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:56 +0000</pubDate>
     <description>The impact of mental health-related social media posts on young adults&#x27; mental health reporting: A two-study experimental investigation</description>
   </item>
   <item>
-    <title>子どもは学業成績に関する推論において時間経過によるパフォーマンスの変化を考慮する</title>
+    <title>子どもは学業成績の推論において時間経過によるパフォーマンスの変化を考慮する</title>
     <link>https://osf.io/7qahu</link>
     <guid isPermaLink="false">https://osf.io/7qahu#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:56 +0000</pubDate>
     <description>Children Consider Changes in Performance Over Time When Reasoning About Academic Achievements</description>
   </item>
   <item>
-    <title>トップダウンとボトムアップの融合：感覚の信頼性が数の大きさのサイズ知覚への影響をどのように形成するか</title>
+    <title>トップダウンとボトムアップの統合：感覚の信頼性が数の大きさのサイズ知覚への影響をどのように形成するか</title>
     <link>https://osf.io/ehrx6</link>
     <guid isPermaLink="false">https://osf.io/ehrx6#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:56 +0000</pubDate>
     <description>Top-Down Meets Bottom-Up: How Sensory Reliability Shapes the Influence of Number Magnitude on Size Perception</description>
   </item>
   <item>
-    <title>自己の好みを満たすことか配慮か―子どもの社会的配慮の評価における主人公の嗜好の重要性</title>
+    <title>自己の好みを満たすことか配慮か―子どもの社会的配慮の評価における主体者の好みの重要性</title>
     <link>https://osf.io/spk29</link>
     <guid isPermaLink="false">https://osf.io/spk29#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:56 +0000</pubDate>
     <description>Satisfying personal preference or being considerate? The protagonist’s preference matters in children’s evaluation of social mindfulness</description>
   </item>
   <item>
-    <title>内受容感覚プロファイリングによる精神健康への身体的要因とアレキシサイミア要因の識別</title>
+    <title>内受容感覚プロファイリングによる精神健康への身体的およびアレキシサイミア的要因の識別</title>
     <link>https://osf.io/8tjw9</link>
     <guid isPermaLink="false">https://osf.io/8tjw9#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:55 +0000</pubDate>
@@ -321,7 +335,7 @@
     <description>Controlling Decision Conflict</description>
   </item>
   <item>
-    <title>情報の可用性が採餌戦略に与える影響：仮想採餌ゲームによる検討</title>
+    <title>情報の可用性が採食戦略に与える影響：仮想採食ゲームによる検討</title>
     <link>https://osf.io/v3jz4</link>
     <guid isPermaLink="false">https://osf.io/v3jz4#ja</guid>
     <pubDate>Thu, 12 Mar 2026 16:32:55 +0000</pubDate>
@@ -335,25 +349,11 @@
     <description>The knowability of the future: Evidence from one million collective forecasts</description>
   </item>
   <item>
-    <title>視線と矢印によって誘発される戦略的注意制御の時間経過：空間ストループ課題からの証拠</title>
+    <title>視線と矢印に誘発される戦略的注意制御の時間経過：空間ストループ課題による検証</title>
     <link>https://osf.io/y2dqw</link>
     <guid isPermaLink="false">https://osf.io/y2dqw#ja</guid>
     <pubDate>Thu, 12 Mar 2026 12:51:35 +0000</pubDate>
     <description>The time course of strategic attentional control triggered by gaze and arrows: Evidence from a spatial Stroop paradigm</description>
-  </item>
-  <item>
-    <title>外見と動作の不一致が引き起こす複雑な感情反応</title>
-    <link>https://osf.io/xdfzs</link>
-    <guid isPermaLink="false">https://osf.io/xdfzs#ja</guid>
-    <pubDate>Thu, 12 Mar 2026 08:37:05 +0000</pubDate>
-    <description>Mixed emotions evoked when incongruent outward-appearance and motion are combined</description>
-  </item>
-  <item>
-    <title>感情表情に対する扁桃体の慣れ：多問題若年成人の将来的再犯予測</title>
-    <link>https://osf.io/fmzx4</link>
-    <guid isPermaLink="false">https://osf.io/fmzx4#ja</guid>
-    <pubDate>Thu, 12 Mar 2026 08:37:04 +0000</pubDate>
-    <description>Amygdala habituation to emotional faces: predicting future recidivism in multi-problem young adults</description>
   </item>
 </channel>
 </rss>
