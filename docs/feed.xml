@@ -6,7 +6,70 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>暗黙の協調における先例と相互利益の均衡</title>
+    <title>親のスキルと幼児期の能力は家庭の数的環境よりも数学発達の予測において重要である</title>
+    <link>https://osf.io/9hu3g</link>
+    <guid isPermaLink="false">https://osf.io/9hu3g#ja</guid>
+    <pubDate>Mon, 16 Mar 2026 21:34:49 +0000</pubDate>
+    <description>Parental and Early Child Skills Outweigh Home Numeracy Environment in Predicting Math Development</description>
+  </item>
+  <item>
+    <title>ミスアチューンメントの擁護：人間とAIの相互作用における過剰適合</title>
+    <link>https://osf.io/nqjke</link>
+    <guid isPermaLink="false">https://osf.io/nqjke#ja</guid>
+    <pubDate>Mon, 16 Mar 2026 21:34:49 +0000</pubDate>
+    <description>In Defense of Misattunement:  Hyperalignment in Human–AI Interactions</description>
+  </item>
+  <item>
+    <title>二重記入時間の罠：依存症における時間歪曲を持続メカニズムとして再構成する</title>
+    <link>https://osf.io/vuh73</link>
+    <guid isPermaLink="false">https://osf.io/vuh73#ja</guid>
+    <pubDate>Mon, 16 Mar 2026 21:34:48 +0000</pubDate>
+    <description>The Double-Entry Time Trap: Reframing Temporal Distortion as a Perpetuating Mechanism in Addiction</description>
+  </item>
+  <item>
+    <title>機械が意識を持たないとしたら、私たちはそれをどのように認識できるのか？</title>
+    <link>https://osf.io/raqsh</link>
+    <guid isPermaLink="false">https://osf.io/raqsh#ja</guid>
+    <pubDate>Mon, 16 Mar 2026 21:34:48 +0000</pubDate>
+    <description>If machines cannot be conscious, how would we know?</description>
+  </item>
+  <item>
+    <title>非熟考的説得は時間の問題である：説得試行の持続時間と認知負荷の相互作用</title>
+    <link>https://osf.io/s42rh</link>
+    <guid isPermaLink="false">https://osf.io/s42rh#ja</guid>
+    <pubDate>Mon, 16 Mar 2026 21:34:47 +0000</pubDate>
+    <description>Non-thoughtful persuasion is a matter of time: Interactions between duration of persuasion attempt and cognitive load</description>
+  </item>
+  <item>
+    <title>初等教育過程における言語能力の低さが欠席およびその後の学業成績に及ぼす影響</title>
+    <link>https://osf.io/n7qe3</link>
+    <guid isPermaLink="false">https://osf.io/n7qe3#ja</guid>
+    <pubDate>Mon, 16 Mar 2026 21:34:47 +0000</pubDate>
+    <description>The role of low language proficiency in school absence and subsequent academic attainment over the course of primary education</description>
+  </item>
+  <item>
+    <title>他者選択か環境選択か？道徳的葛藤と親社会的価値が親環境的価値に優先する神経認知的証拠</title>
+    <link>https://osf.io/9kspn</link>
+    <guid isPermaLink="false">https://osf.io/9kspn#ja</guid>
+    <pubDate>Mon, 16 Mar 2026 21:34:47 +0000</pubDate>
+    <description>Choosing others or the environment? Neurocognitive evidence for moral conflict and priority of prosocial over pro-environmental values</description>
+  </item>
+  <item>
+    <title>画像の記憶保持性は視覚記憶の段階における干渉に対する解離的感受性を示す</title>
+    <link>https://osf.io/54rxy</link>
+    <guid isPermaLink="false">https://osf.io/54rxy#ja</guid>
+    <pubDate>Mon, 16 Mar 2026 21:34:46 +0000</pubDate>
+    <description>Image Memorability Shows Dissociative Susceptibility for Interference Across Stages of Visual Memory</description>
+  </item>
+  <item>
+    <title>現状分析：イギリスにおけるトランスジェンダーおよびジェンダー多様な若者のメンタルヘルス、ジェンダーマイノリティストレスおよび肯定的経験</title>
+    <link>https://osf.io/8wysb</link>
+    <guid isPermaLink="false">https://osf.io/8wysb#ja</guid>
+    <pubDate>Mon, 16 Mar 2026 21:34:46 +0000</pubDate>
+    <description>State of Play: Mental Health, Gender Minority Stress and Affirmative Experiences  among Trans and Gender Diverse Young People in the United Kingdom</description>
+  </item>
+  <item>
+    <title>暗黙の協調における先例と相互利益のバランス調整</title>
     <link>https://osf.io/af3qe</link>
     <guid isPermaLink="false">https://osf.io/af3qe#ja</guid>
     <pubDate>Mon, 16 Mar 2026 14:42:09 +0000</pubDate>
@@ -27,7 +90,7 @@
     <description>Preferred Levels of Agency: Development and validation of the  Goal Abstraction Preference (GAP) scale</description>
   </item>
   <item>
-    <title>高度な瞑想、睡眠、意識科学：新たに開かれる最前線</title>
+    <title>高度な瞑想、睡眠、意識科学：新たに開かれるフロンティア</title>
     <link>https://osf.io/c32au</link>
     <guid isPermaLink="false">https://osf.io/c32au#ja</guid>
     <pubDate>Sun, 15 Mar 2026 20:23:59 +0000</pubDate>
@@ -41,35 +104,35 @@
     <description>Adaptivity Makes Feedback Effective: Evidence From AI-Generated Feedback on Children’s Plans</description>
   </item>
   <item>
-    <title>大学生における暴力的ポルノ使用と性的攻撃行動：強姦神話の支持が果たす媒介的役割</title>
+    <title>大学生における暴力的ポルノ使用と性的攻撃行動：強姦神話支持の媒介的役割</title>
     <link>https://osf.io/ugxep</link>
     <guid isPermaLink="false">https://osf.io/ugxep#ja</guid>
     <pubDate>Sun, 15 Mar 2026 20:23:58 +0000</pubDate>
     <description>Violent Pornography use and sexually aggressive behavior in college students: The mediating role of rape myth endorsement</description>
   </item>
   <item>
-    <title>子どもの発達における年齢特性：要求ではなく支援を—保護者向けガイドブック</title>
+    <title>子どもの発達における年齢特性：要求ではなく支援を目指して―保護者向けガイドブック</title>
     <link>https://osf.io/gha97</link>
     <guid isPermaLink="false">https://osf.io/gha97#ja</guid>
     <pubDate>Sun, 15 Mar 2026 12:42:40 +0000</pubDate>
     <description>Age Characteristics of Child Development: How to Support, Not Demand — A Booklet for Parents</description>
   </item>
   <item>
-    <title>交通、持続可能性および人間要因：グローバル多数派に向けた交通心理学研究の課題</title>
+    <title>交通、持続可能性および人間要因：グローバルマジョリティに向けた交通心理学研究の課題</title>
     <link>https://osf.io/8zr5g</link>
     <guid isPermaLink="false">https://osf.io/8zr5g#ja</guid>
     <pubDate>Sun, 15 Mar 2026 12:42:39 +0000</pubDate>
     <description>Transportation, Sustainability and Human Factors: A Traffic Psychology Research  Agenda for the Global Majority</description>
   </item>
   <item>
-    <title>逆境的幼少期経験に関連する脅威学習、一般化、および恐怖の再発における神経および多モーダル指標</title>
+    <title>逆境的児童期経験に関連する脅威学習、一般化、および恐怖の再発における神経および多モーダル指標</title>
     <link>https://osf.io/8u5wx</link>
     <guid isPermaLink="false">https://osf.io/8u5wx#ja</guid>
     <pubDate>Sun, 15 Mar 2026 12:42:39 +0000</pubDate>
     <description>Neural and multimodal signatures of Threat Learning, Generalization, and Return of Fear linked to Adverse Childhood Experiences</description>
   </item>
   <item>
-    <title>「小さな神のように感じられる」：感情および精神的健康支援を求める利用者における生成型AIの異文化的イメージのテーマ分析</title>
+    <title>「小さな神のように感じられる」：感情および精神的健康支援を求める利用者における生成AIの異文化的イメージのテーマ分析</title>
     <link>https://osf.io/tw6vc</link>
     <guid isPermaLink="false">https://osf.io/tw6vc#ja</guid>
     <pubDate>Sun, 15 Mar 2026 12:42:39 +0000</pubDate>
@@ -111,7 +174,7 @@
     <description>Suicide-related stigma: Scale validation and latent profile analysis in a cohort of Australian adolescents</description>
   </item>
   <item>
-    <title>意思決定時の脳-行動関係をより正確に予測するモデルはどれか？単一試行指向型および統合型ドリフト拡散モデルのシミュレーション比較</title>
+    <title>意思決定時の脳-行動関係をより正確に予測するモデルはどれか？単一試行指向型および統合型ドリフト・ディフュージョンモデルのシミュレーション比較</title>
     <link>https://osf.io/7d46a</link>
     <guid isPermaLink="false">https://osf.io/7d46a#ja</guid>
     <pubDate>Sat, 14 Mar 2026 10:23:56 +0000</pubDate>
@@ -139,7 +202,7 @@
     <description>Spectral change or Jensen gap? Log-ratio baseline correction for time-frequency M/EEG is negatively biased</description>
   </item>
   <item>
-    <title>世代間ダンス・フォー・ヘルスプログラムの設計：スイス都市部の若年層および高齢者の視点から</title>
+    <title>世代間ダンス・フォー・ヘルスプログラムの設計：スイス都市部の若年成人と高齢成人の視点</title>
     <link>https://osf.io/krgfb</link>
     <guid isPermaLink="false">https://osf.io/krgfb#ja</guid>
     <pubDate>Sat, 14 Mar 2026 09:54:01 +0000</pubDate>
@@ -167,14 +230,14 @@
     <description>A randomized controlled trial of HighScope’s teacher professional learning  on preschoolers&#x27; executive function skills</description>
   </item>
   <item>
-    <title>自律性の負担：感情および精神的健康支援における生成型AIの積極的治療利用者の倫理的懸念</title>
+    <title>自律性の負担：感情および精神的健康支援における生成型AIの積極的利用者における倫理的懸念</title>
     <link>https://osf.io/dmuky</link>
     <guid isPermaLink="false">https://osf.io/dmuky#ja</guid>
     <pubDate>Fri, 13 Mar 2026 23:50:05 +0000</pubDate>
     <description>The Burden of Autonomy: Ethical Concerns Among Active Therapeutic Users of Generative AI for Emotional and Mental Health Support</description>
   </item>
   <item>
-    <title>有酸素運動は本当に加齢に伴う意思決定能力を改善するのか？測定されたもの、仮定されたもの、そして変えるべきこと</title>
+    <title>有酸素運動は本当に加齢に伴う意思決定能力を改善するのか？測定されたもの、仮定されたもの、そして今後の課題</title>
     <link>https://osf.io/gzydf</link>
     <guid isPermaLink="false">https://osf.io/gzydf#ja</guid>
     <pubDate>Fri, 13 Mar 2026 23:50:05 +0000</pubDate>
@@ -216,14 +279,14 @@
     <description>How AI can fuel confirmation bias</description>
   </item>
   <item>
-    <title>経験の重要性：具体語と抽象語の表象枠組みにおける個人差に関する電気生理学的証拠</title>
+    <title>経験の重要性：具体語と抽象語の表象枠組みにおける個人差に関する脳波学的証拠</title>
     <link>https://osf.io/zxs5c</link>
     <guid isPermaLink="false">https://osf.io/zxs5c#ja</guid>
     <pubDate>Fri, 13 Mar 2026 23:24:07 +0000</pubDate>
     <description>Experience Matters: Electrophysiological Evidence for Interindividual Differences in Representational Frameworks of Concrete and Abstract Words</description>
   </item>
   <item>
-    <title>二重共感問題のもう一つの側面：多数派の社会認知を特定の調整構造として可視化する試み</title>
+    <title>二重共感問題の裏側：多数派の社会認知を特定の調整構造として可視化する試み</title>
     <link>https://osf.io/x9hs2</link>
     <guid isPermaLink="false">https://osf.io/x9hs2#ja</guid>
     <pubDate>Fri, 13 Mar 2026 23:24:07 +0000</pubDate>
@@ -244,7 +307,7 @@
     <description>The construct ‘personality functioning’ is currently not logically defined</description>
   </item>
   <item>
-    <title>内的多様性から外的群集へ：集約前に指示が誤差構造を再形成するメカニズム</title>
+    <title>内的多様性から外的群集へ：集約前の誤差構造を変容させる指示の役割</title>
     <link>https://osf.io/rxgzc</link>
     <guid isPermaLink="false">https://osf.io/rxgzc#ja</guid>
     <pubDate>Fri, 13 Mar 2026 19:28:05 +0000</pubDate>
@@ -272,7 +335,7 @@
     <description>A Step-by-Step Tutorial for Developing a Feedback-Based Training for Empathic Accuracy</description>
   </item>
   <item>
-    <title>スカラーカテゴリー化のモデル化：閾値ベース表象とプロトタイプベース表象の比較</title>
+    <title>スカラーカテゴリー化のモデル化：閾値基準表象とプロトタイプ基準表象の比較</title>
     <link>https://osf.io/vd6bh</link>
     <guid isPermaLink="false">https://osf.io/vd6bh#ja</guid>
     <pubDate>Fri, 13 Mar 2026 17:31:16 +0000</pubDate>
@@ -291,69 +354,6 @@
     <guid isPermaLink="false">https://osf.io/a37sb#ja</guid>
     <pubDate>Fri, 13 Mar 2026 16:35:25 +0000</pubDate>
     <description>How Perceived Trust from the State Influences Citizens’ Political Trust</description>
-  </item>
-  <item>
-    <title>トップダウン型政治コミュニケーションにおける維持志向が環境政策支持を促進する効果</title>
-    <link>https://osf.io/nmw8s</link>
-    <guid isPermaLink="false">https://osf.io/nmw8s#ja</guid>
-    <pubDate>Fri, 13 Mar 2026 16:35:25 +0000</pubDate>
-    <description>Maintenance Orientation in Top-Down Political Communication Increases Pro-Environmental Policy Support</description>
-  </item>
-  <item>
-    <title>チリ公的プログラムにおけるトランスジェンダー思春期青年の臨床プロフィールと早期メンタルヘルス変化：潜在クラス分析</title>
-    <link>https://osf.io/3t9rp</link>
-    <guid isPermaLink="false">https://osf.io/3t9rp#ja</guid>
-    <pubDate>Fri, 13 Mar 2026 16:35:24 +0000</pubDate>
-    <description>Perfiles clínicos y cambio temprano en salud mental de adolescentes trans en un programa público chileno: análisis de clases latentes</description>
-  </item>
-  <item>
-    <title>感情表出と認知における性差の検証：真実かつ動的な感情表現を用いて</title>
-    <link>https://osf.io/u7erj</link>
-    <guid isPermaLink="false">https://osf.io/u7erj#ja</guid>
-    <pubDate>Fri, 13 Mar 2026 16:35:24 +0000</pubDate>
-    <description>Emotional women? Testing gender effects on emotion expression and recognition with genuine and dynamic emotion expressions</description>
-  </item>
-  <item>
-    <title>測定法</title>
-    <link>https://osf.io/rg765</link>
-    <guid isPermaLink="false">https://osf.io/rg765#ja</guid>
-    <pubDate>Fri, 13 Mar 2026 16:35:24 +0000</pubDate>
-    <description>Measurement</description>
-  </item>
-  <item>
-    <title>非科学的調査が公共政策に与える危険性：プロジェクトジャスティス・コロラド家族裁判改革報告、被害者の声と行動の呼びかけ－プレプリント</title>
-    <link>https://osf.io/f2m7v</link>
-    <guid isPermaLink="false">https://osf.io/f2m7v#ja</guid>
-    <pubDate>Fri, 13 Mar 2026 15:37:58 +0000</pubDate>
-    <description>The Danger of Unscientific Surveys Swaying Public Policy: The Project Justice Colorado Family Court Reform Report, Voice of Survivors and a Call for Action-Preprint</description>
-  </item>
-  <item>
-    <title>悪人は利他行動に値するか？受益者の道徳的性格に基づく就学前児の社会的配慮の選択的評価</title>
-    <link>https://osf.io/huqk8</link>
-    <guid isPermaLink="false">https://osf.io/huqk8#ja</guid>
-    <pubDate>Fri, 13 Mar 2026 15:37:57 +0000</pubDate>
-    <description>Do bad people deserve prosociality? Pre-schoolers’ selective evaluation of social mindfulness based on the beneficiary’s moral character</description>
-  </item>
-  <item>
-    <title>成人の数学学習困難と不安の経験：自己効力感、自己概念、学習との関連</title>
-    <link>https://osf.io/ej39c</link>
-    <guid isPermaLink="false">https://osf.io/ej39c#ja</guid>
-    <pubDate>Fri, 13 Mar 2026 15:37:57 +0000</pubDate>
-    <description>Adults’ Experiences of Mathematical Learning Difficulties and Anxiety: Links to Self-efficacy, Self-concept, and Learning</description>
-  </item>
-  <item>
-    <title>獲得性脳損傷を抱えるカップルに対する継続性療法の非無作為化非対照的実現可能性研究</title>
-    <link>https://osf.io/5aqxg</link>
-    <guid isPermaLink="false">https://osf.io/5aqxg#ja</guid>
-    <pubDate>Fri, 13 Mar 2026 15:37:57 +0000</pubDate>
-    <description>Continuity Therapy for couples living with acquired brain injury: a non-randomised uncontrolled feasibility study</description>
-  </item>
-  <item>
-    <title>社会的敗北感と社会的脅威は統合失調症と双極性障害を区別するか？</title>
-    <link>https://osf.io/hmauj</link>
-    <guid isPermaLink="false">https://osf.io/hmauj#ja</guid>
-    <pubDate>Fri, 13 Mar 2026 15:37:57 +0000</pubDate>
-    <description>Do Social Defeat and Social Threat Differentiate Schizophrenia from Bipolar Disorder?</description>
   </item>
 </channel>
 </rss>
