@@ -6,21 +6,21 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>生成的心理計測における尺度開発のためのプロンプトエンジニアリング</title>
+    <title>生成心理計測における尺度開発のためのプロンプトエンジニアリング</title>
     <link>https://osf.io/znqkm</link>
     <guid isPermaLink="false">https://osf.io/znqkm#ja</guid>
     <pubDate>Tue, 17 Mar 2026 14:37:14 +0000</pubDate>
     <description>Prompt Engineering for Scale Development in Generative Psychometrics</description>
   </item>
   <item>
-    <title>壁の一部に過ぎないわけではない：学校スタッフによるLGBTQ+学生支援が広範な学校環境によってどのように形成されるかの理解</title>
+    <title>壁の一部に過ぎないわけではない：学校職員によるLGBTQ+学生支援が広範な学校環境によってどのように形成されるかの理解</title>
     <link>https://osf.io/nvq2u</link>
     <guid isPermaLink="false">https://osf.io/nvq2u#ja</guid>
     <pubDate>Tue, 17 Mar 2026 14:37:14 +0000</pubDate>
     <description>Not Another Brick in the Wall: Understanding How School Staff Support for LGBTQ+ Students is Shaped by the Broader School Context</description>
   </item>
   <item>
-    <title>幼児は焦点表出時に韻律的およびジェスチャーの大きさを調整する</title>
+    <title>幼児は焦点表出時に韻律的および身振り的事象の大きさを調整する</title>
     <link>https://osf.io/gbm96</link>
     <guid isPermaLink="false">https://osf.io/gbm96#ja</guid>
     <pubDate>Tue, 17 Mar 2026 14:37:14 +0000</pubDate>
@@ -41,7 +41,7 @@
     <description>A Machine-Learning-Based Matching System For Patient-Therapist Dyads In Routine Psychotherapy</description>
   </item>
   <item>
-    <title>多変量機械学習による成人のウェルビーイング予測：児童期問題行動の縦断的変化変数と多遺伝子リスクスコアの統合解析</title>
+    <title>多変量機械学習による成人のウェルビーイング予測：小児期問題行動の縦断的変化変数と多遺伝子リスクスコアの統合解析</title>
     <link>https://osf.io/t4928</link>
     <guid isPermaLink="false">https://osf.io/t4928#ja</guid>
     <pubDate>Tue, 17 Mar 2026 14:37:13 +0000</pubDate>
@@ -55,7 +55,7 @@
     <description>Psychosocial consequences of perceiving the role of money in politics:  Mobilization and democratic erosion</description>
   </item>
   <item>
-    <title>読書における傍中心視野情報の抽出と統合に及ぼす年齢効果</title>
+    <title>読書における周辺視情報の抽出と統合に及ぼす加齢の影響</title>
     <link>https://osf.io/x89jg</link>
     <guid isPermaLink="false">https://osf.io/x89jg#ja</guid>
     <pubDate>Tue, 17 Mar 2026 14:37:13 +0000</pubDate>
@@ -104,21 +104,21 @@
     <description>Modelos de ecuaciones estructurales exploratorios: introducción, tutorial y guía práctica para su uso.</description>
   </item>
   <item>
-    <title>統合失調症および双極性障害における進行性マトリックスの誤答パターン</title>
+    <title>統合失調症および双極性障害における進行性マトリックス課題の誤答パターン</title>
     <link>https://osf.io/uwf93</link>
     <guid isPermaLink="false">https://osf.io/uwf93#ja</guid>
     <pubDate>Tue, 17 Mar 2026 13:02:32 +0000</pubDate>
     <description>Error Patterns in Progressive Matrices in Schizophrenia and Bipolar Disorders</description>
   </item>
   <item>
-    <title>ストレス下におけるナビゲーションの適応的トレーニング：ストレス曝露と空間不安の影響</title>
+    <title>ストレス下におけるナビゲーションの適応的訓練：ストレス曝露と空間不安の影響</title>
     <link>https://osf.io/e9zsv</link>
     <guid isPermaLink="false">https://osf.io/e9zsv#ja</guid>
     <pubDate>Tue, 17 Mar 2026 11:40:30 +0000</pubDate>
     <description>Adaptive Training for Navigation Under Stress:  Impacts of Stress Exposure and Spatial Anxiety</description>
   </item>
   <item>
-    <title>「彼のおかげで孤独感が和らいだ」：感情的支援を求める青年期における生成型AIとの関わり</title>
+    <title>「彼は私を孤独に感じさせなかった」：感情的支援を求める青年期における生成型AIとの関わり</title>
     <link>https://osf.io/vmu5x</link>
     <guid isPermaLink="false">https://osf.io/vmu5x#ja</guid>
     <pubDate>Tue, 17 Mar 2026 11:40:30 +0000</pubDate>
@@ -153,21 +153,21 @@
     <description>Parental and Early Child Skills Outweigh Home Numeracy Environment in Predicting Math Development</description>
   </item>
   <item>
-    <title>ミスアチューンメントの擁護：人間とAIの相互作用における過剰適合</title>
+    <title>誤調整の擁護：人間とAIの相互作用における過度の整合性</title>
     <link>https://osf.io/nqjke</link>
     <guid isPermaLink="false">https://osf.io/nqjke#ja</guid>
     <pubDate>Mon, 16 Mar 2026 21:34:49 +0000</pubDate>
     <description>In Defense of Misattunement:  Hyperalignment in Human–AI Interactions</description>
   </item>
   <item>
-    <title>二重記入時間の罠：依存症における時間歪曲を持続機構として再構成する試み</title>
+    <title>二重記入時間の罠：依存症における時間歪曲の持続メカニズムとしての再構成</title>
     <link>https://osf.io/vuh73</link>
     <guid isPermaLink="false">https://osf.io/vuh73#ja</guid>
     <pubDate>Mon, 16 Mar 2026 21:34:48 +0000</pubDate>
     <description>The Double-Entry Time Trap: Reframing Temporal Distortion as a Perpetuating Mechanism in Addiction</description>
   </item>
   <item>
-    <title>機械が意識を持たないとしたら、私たちはそれをどのように認識できるのか？</title>
+    <title>機械が意識を持たない場合、私たちはそれをどのように認識できるのか？</title>
     <link>https://osf.io/raqsh</link>
     <guid isPermaLink="false">https://osf.io/raqsh#ja</guid>
     <pubDate>Mon, 16 Mar 2026 21:34:48 +0000</pubDate>
@@ -181,28 +181,28 @@
     <description>Non-thoughtful persuasion is a matter of time: Interactions between duration of persuasion attempt and cognitive load</description>
   </item>
   <item>
-    <title>初等教育における言語能力の低さが欠席およびその後の学業成績に及ぼす影響</title>
+    <title>初等教育過程における言語能力の低さが欠席およびその後の学業成績に果たす役割</title>
     <link>https://osf.io/n7qe3</link>
     <guid isPermaLink="false">https://osf.io/n7qe3#ja</guid>
     <pubDate>Mon, 16 Mar 2026 21:34:47 +0000</pubDate>
     <description>The role of low language proficiency in school absence and subsequent academic attainment over the course of primary education</description>
   </item>
   <item>
-    <title>他者選択か環境選択か？道徳的葛藤と親社会的価値が親環境的価値に優先する神経認知的証拠</title>
+    <title>他者選択か環境選択か？道徳的葛藤と親社会的価値の環境価値に対する優先性に関する神経認知的証拠</title>
     <link>https://osf.io/9kspn</link>
     <guid isPermaLink="false">https://osf.io/9kspn#ja</guid>
     <pubDate>Mon, 16 Mar 2026 21:34:47 +0000</pubDate>
     <description>Choosing others or the environment? Neurocognitive evidence for moral conflict and priority of prosocial over pro-environmental values</description>
   </item>
   <item>
-    <title>画像の記憶保持性は視覚記憶の段階における干渉に対する解離的感受性を示す</title>
+    <title>画像の記憶保持性は視覚記憶の各段階における干渉に対する解離的感受性を示す</title>
     <link>https://osf.io/54rxy</link>
     <guid isPermaLink="false">https://osf.io/54rxy#ja</guid>
     <pubDate>Mon, 16 Mar 2026 21:34:46 +0000</pubDate>
     <description>Image Memorability Shows Dissociative Susceptibility for Interference Across Stages of Visual Memory</description>
   </item>
   <item>
-    <title>現状分析：イギリスにおけるトランスジェンダーおよびジェンダー多様な若者のメンタルヘルス、ジェンダーマイノリティストレスおよび肯定的体験</title>
+    <title>現状報告：イギリスにおけるトランスジェンダーおよびジェンダー多様な若者のメンタルヘルス、ジェンダーマイノリティストレスおよび肯定的経験</title>
     <link>https://osf.io/8wysb</link>
     <guid isPermaLink="false">https://osf.io/8wysb#ja</guid>
     <pubDate>Mon, 16 Mar 2026 21:34:46 +0000</pubDate>
@@ -216,7 +216,7 @@
     <description>Balancing precedent and mutual benefit in tacit coordination</description>
   </item>
   <item>
-    <title>繰り返される相互作用におけるアルゴリズムと人間の助言者選択学習</title>
+    <title>繰り返しの相互作用における助言者選択の学習：アルゴリズムと人間の比較</title>
     <link>https://osf.io/uqbce</link>
     <guid isPermaLink="false">https://osf.io/uqbce#ja</guid>
     <pubDate>Sun, 15 Mar 2026 20:23:59 +0000</pubDate>
@@ -230,7 +230,7 @@
     <description>Preferred Levels of Agency: Development and validation of the  Goal Abstraction Preference (GAP) scale</description>
   </item>
   <item>
-    <title>高度な瞑想、睡眠、意識科学：新たに開かれる最前線</title>
+    <title>高度な瞑想、睡眠、意識科学：新たに開かれるフロンティア</title>
     <link>https://osf.io/c32au</link>
     <guid isPermaLink="false">https://osf.io/c32au#ja</guid>
     <pubDate>Sun, 15 Mar 2026 20:23:59 +0000</pubDate>
@@ -251,14 +251,14 @@
     <description>Violent Pornography use and sexually aggressive behavior in college students: The mediating role of rape myth endorsement</description>
   </item>
   <item>
-    <title>子どもの発達における年齢特性：要求ではなく支援を目指して―保護者向けガイドブック</title>
+    <title>子どもの発達における年齢特性：要求ではなく支援のために―保護者向けガイドブック</title>
     <link>https://osf.io/gha97</link>
     <guid isPermaLink="false">https://osf.io/gha97#ja</guid>
     <pubDate>Sun, 15 Mar 2026 12:42:40 +0000</pubDate>
     <description>Age Characteristics of Child Development: How to Support, Not Demand — A Booklet for Parents</description>
   </item>
   <item>
-    <title>交通、持続可能性および人間要因：グローバル多数派に向けた交通心理学研究の課題</title>
+    <title>交通、持続可能性および人間要因：グローバルマジョリティに向けた交通心理学研究の課題</title>
     <link>https://osf.io/8zr5g</link>
     <guid isPermaLink="false">https://osf.io/8zr5g#ja</guid>
     <pubDate>Sun, 15 Mar 2026 12:42:39 +0000</pubDate>
@@ -286,7 +286,7 @@
     <description>Acceptance Is Not Enough: Toward a Psychology of Calibrated GenAI use</description>
   </item>
   <item>
-    <title>死の解釈バイアスの指標としての死の手がかり判断課題（DJT）の妥当性検証</title>
+    <title>死の解釈バイアスの測定としての死の手がかり判断課題（DJT）の妥当性検証</title>
     <link>https://osf.io/ekmc7</link>
     <guid isPermaLink="false">https://osf.io/ekmc7#ja</guid>
     <pubDate>Sat, 14 Mar 2026 15:23:11 +0000</pubDate>
@@ -307,14 +307,14 @@
     <description>Projection Underlies Both Ingroup Favoritism and Subjective Growth</description>
   </item>
   <item>
-    <title>自殺に関するスティグマ：オーストラリアの青年コホートにおける尺度検証と潜在プロファイル分析</title>
+    <title>自殺関連スティグマ：オーストラリアの青年コホートにおける尺度検証と潜在プロファイル分析</title>
     <link>https://osf.io/nv3xg</link>
     <guid isPermaLink="false">https://osf.io/nv3xg#ja</guid>
     <pubDate>Sat, 14 Mar 2026 10:52:45 +0000</pubDate>
     <description>Suicide-related stigma: Scale validation and latent profile analysis in a cohort of Australian adolescents</description>
   </item>
   <item>
-    <title>意思決定過程における脳と行動の関係をより正確に予測するモデルはどれか？単一試行指向型および統合型ドリフト拡散モデルのシミュレーション比較</title>
+    <title>意思決定時の脳-行動関係をより正確に予測するモデルはどれか？単一試行指向型および統合型ドリフト・ディフュージョンモデルのシミュレーション比較</title>
     <link>https://osf.io/7d46a</link>
     <guid isPermaLink="false">https://osf.io/7d46a#ja</guid>
     <pubDate>Sat, 14 Mar 2026 10:23:56 +0000</pubDate>
@@ -328,14 +328,14 @@
     <description>Training “Zero” in Preschoolers: Fast Referential Learning, Slow Relational Integration</description>
   </item>
   <item>
-    <title>計画的欠測データを用いた直接測定のない因果推論</title>
+    <title>計画的欠測データを用いた直接測定不在下での因果推論</title>
     <link>https://osf.io/g3j4r</link>
     <guid isPermaLink="false">https://osf.io/g3j4r#ja</guid>
     <pubDate>Sat, 14 Mar 2026 10:23:55 +0000</pubDate>
     <description>Causal Inference in the Absence of Direct Measurement Using Planned Missing Data</description>
   </item>
   <item>
-    <title>スペクトル変化かジェンセンギャップか？時間周波数M/EEGにおける対数比ベースライン補正の負のバイアス</title>
+    <title>スペクトル変化かジェンセンギャップか？時周波数M/EEGにおける対数比ベースライン補正の負のバイアス</title>
     <link>https://osf.io/5nh2u</link>
     <guid isPermaLink="false">https://osf.io/5nh2u#ja</guid>
     <pubDate>Sat, 14 Mar 2026 10:23:55 +0000</pubDate>
