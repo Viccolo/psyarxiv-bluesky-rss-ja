@@ -6,21 +6,21 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>誤情報訂正時におけるAI生成画像の再提示が訂正記憶を向上させ虚偽信念を減少させる効果</title>
+    <title>誤情報訂正時におけるAI生成画像の再提示が訂正記憶を向上させ誤信念を減少させる効果</title>
     <link>https://osf.io/edpkx</link>
     <guid isPermaLink="false">https://osf.io/edpkx#ja</guid>
     <pubDate>Mon, 23 Mar 2026 09:42:09 +0000</pubDate>
     <description>Re-exposure to AI-Generated Images During Misinformation Corrections Reduces False Beliefs by Improving Memory for Corrections</description>
   </item>
   <item>
-    <title>チリの精神保健サービスを利用するトランスジェンダー青年におけるYP-COREの心理計測評価</title>
+    <title>チリの精神保健サービスを利用するトランスジェンダー青少年におけるYP-COREの心理計測的評価</title>
     <link>https://osf.io/s83ur</link>
     <guid isPermaLink="false">https://osf.io/s83ur#ja</guid>
     <pubDate>Sun, 22 Mar 2026 21:57:37 +0000</pubDate>
     <description>Evaluación psicométrica del YP-CORE en adolescentes trans  atendidos en servicios de salud mental chilenos</description>
   </item>
   <item>
-    <title>言語調整された事象区分の検討：中断検出と境界タッピングによる分析</title>
+    <title>言語調整による事象区切りの検討：中断検出と境界タッピングを用いて</title>
     <link>https://osf.io/vp9zc</link>
     <guid isPermaLink="false">https://osf.io/vp9zc#ja</guid>
     <pubDate>Sun, 22 Mar 2026 21:57:37 +0000</pubDate>
@@ -41,7 +41,7 @@
     <description>A Biological Definition of Self</description>
   </item>
   <item>
-    <title>初期発声発達における主体感覚の形成に向けた文化特有の経路</title>
+    <title>初期発声発達における主体感の形成に向けた文化特有の経路</title>
     <link>https://osf.io/9g8zd</link>
     <guid isPermaLink="false">https://osf.io/9g8zd#ja</guid>
     <pubDate>Sun, 22 Mar 2026 21:57:36 +0000</pubDate>
@@ -55,7 +55,7 @@
     <description>Commuting in West Yorkshire: Associations between traffic climate, commuting stress, and travel satisfaction</description>
   </item>
   <item>
-    <title>注意的結合なしの特徴結合：二重感覚システムにおける非対称的属性健忘に関するインシリコ病変研究</title>
+    <title>注意的結合なしの特徴結合：二重モーダルシステムにおける非対称的属性健忘に関するインシリコ損傷研究</title>
     <link>https://osf.io/xtu5m</link>
     <guid isPermaLink="false">https://osf.io/xtu5m#ja</guid>
     <pubDate>Sun, 22 Mar 2026 21:57:35 +0000</pubDate>
@@ -69,7 +69,7 @@
     <description>Evidence-Based Adaptivity Decisions for Educational Interventions</description>
   </item>
   <item>
-    <title>文化的心性に関する現代的および伝統的アプローチ：伝統中国心理学研究からの方法論的示唆</title>
+    <title>文化的心性に関する現代的および伝統的アプローチ：中国伝統心理学研究からの方法論的示唆</title>
     <link>https://osf.io/jcnse</link>
     <guid isPermaLink="false">https://osf.io/jcnse#ja</guid>
     <pubDate>Sun, 22 Mar 2026 21:57:35 +0000</pubDate>
@@ -83,14 +83,14 @@
     <description>Accessibility in Academic Conferences: Barriers, Solutions, and a Framework for Inclusive Participation</description>
   </item>
   <item>
-    <title>生成心理計測における尺度開発のためのプロンプトエンジニアリング</title>
+    <title>生成的心理計測における尺度開発のためのプロンプトエンジニアリング</title>
     <link>https://osf.io/znqkm</link>
     <guid isPermaLink="false">https://osf.io/znqkm#ja</guid>
     <pubDate>Tue, 17 Mar 2026 14:37:14 +0000</pubDate>
     <description>Prompt Engineering for Scale Development in Generative Psychometrics</description>
   </item>
   <item>
-    <title>壁の一部に過ぎないわけではない：学校職員によるLGBTQ+学生支援が広範な学校環境によってどのように形成されるかの理解</title>
+    <title>壁の一部に過ぎないわけではない：学校スタッフによるLGBTQ+学生支援が学校全体の文脈によってどのように形成されるかの理解</title>
     <link>https://osf.io/nvq2u</link>
     <guid isPermaLink="false">https://osf.io/nvq2u#ja</guid>
     <pubDate>Tue, 17 Mar 2026 14:37:14 +0000</pubDate>
@@ -111,7 +111,7 @@
     <description>A 7-Year Study of Behavioral, Psychological and Personality Changes in Older Adults</description>
   </item>
   <item>
-    <title>日常心理療法における患者とセラピストのペアリングのための機械学習ベースのマッチングシステム</title>
+    <title>日常心理療法における患者と治療者のペアリングのための機械学習ベースマッチングシステム</title>
     <link>https://osf.io/hx3em</link>
     <guid isPermaLink="false">https://osf.io/hx3em#ja</guid>
     <pubDate>Tue, 17 Mar 2026 14:37:13 +0000</pubDate>
@@ -132,7 +132,7 @@
     <description>Psychosocial consequences of perceiving the role of money in politics:  Mobilization and democratic erosion</description>
   </item>
   <item>
-    <title>読書における傍中心視野情報の抽出と統合に及ぼす年齢効果</title>
+    <title>読書における傍中心視情報の抽出と統合に及ぼす年齢効果</title>
     <link>https://osf.io/x89jg</link>
     <guid isPermaLink="false">https://osf.io/x89jg#ja</guid>
     <pubDate>Tue, 17 Mar 2026 14:37:13 +0000</pubDate>
@@ -153,7 +153,7 @@
     <description>Musicality is preserved in neurodegeneration</description>
   </item>
   <item>
-    <title>感情的干渉刺激に対する情動調整における共感性と抑制制御の役割</title>
+    <title>感情的干渉刺激に対する情動調整における共感と抑制制御の役割</title>
     <link>https://osf.io/zvymd</link>
     <guid isPermaLink="false">https://osf.io/zvymd#ja</guid>
     <pubDate>Tue, 17 Mar 2026 14:37:12 +0000</pubDate>
@@ -167,35 +167,35 @@
     <description>Holotropic States and Developmental Trauma: A Trauma-Informed, Phase-Oriented Framework</description>
   </item>
   <item>
-    <title>経験による柔軟性と安定性のトレードオフへの適応：指示ではなく経験を通じて</title>
+    <title>指示ではなく経験による柔軟性と安定性のトレードオフへの適応</title>
     <link>https://osf.io/gcxh3</link>
     <guid isPermaLink="false">https://osf.io/gcxh3#ja</guid>
     <pubDate>Tue, 17 Mar 2026 13:02:32 +0000</pubDate>
     <description>Adapting to the flexibility-stability trade-off through experience, not instructions</description>
   </item>
   <item>
-    <title>探索的構造方程式モデリング：導入、チュートリアルおよび実践的ガイド</title>
+    <title>探索的構造方程式モデリング：入門、チュートリアルおよび実践的ガイド</title>
     <link>https://osf.io/9ez3v</link>
     <guid isPermaLink="false">https://osf.io/9ez3v#ja</guid>
     <pubDate>Tue, 17 Mar 2026 13:02:32 +0000</pubDate>
-    <description>Modelos de ecuaciones estructurales exploratorios: introduccion, tutorial y guia practica para su uso.</description>
+    <description>Modelos de ecuaciones estructurales exploratorios: introducción, tutorial y guía práctica para su uso.</description>
   </item>
   <item>
-    <title>統合失調症および双極性障害におけるプログレッシブマトリックスの誤答パターン</title>
+    <title>統合失調症および双極性障害における進行性マトリックス課題の誤答パターン</title>
     <link>https://osf.io/uwf93</link>
     <guid isPermaLink="false">https://osf.io/uwf93#ja</guid>
     <pubDate>Tue, 17 Mar 2026 13:02:32 +0000</pubDate>
     <description>Error Patterns in Progressive Matrices in Schizophrenia and Bipolar Disorders</description>
   </item>
   <item>
-    <title>ストレス下におけるナビゲーションの適応的トレーニング：ストレス曝露と空間不安の影響</title>
+    <title>ストレス下におけるナビゲーションの適応的訓練：ストレス曝露と空間不安の影響</title>
     <link>https://osf.io/e9zsv</link>
     <guid isPermaLink="false">https://osf.io/e9zsv#ja</guid>
     <pubDate>Tue, 17 Mar 2026 11:40:30 +0000</pubDate>
     <description>Adaptive Training for Navigation Under Stress:  Impacts of Stress Exposure and Spatial Anxiety</description>
   </item>
   <item>
-    <title>「彼は私を孤独に感じさせなかった」：感情的支援における青年の生成型AIとの関わり</title>
+    <title>「彼は私を孤独に感じさせなかった」：感情的支援を求める青年期における生成AIとの関わり</title>
     <link>https://osf.io/vmu5x</link>
     <guid isPermaLink="false">https://osf.io/vmu5x#ja</guid>
     <pubDate>Tue, 17 Mar 2026 11:40:30 +0000</pubDate>
@@ -209,7 +209,7 @@
     <description>The Psychological Impact of Digital Uncensored Violent Content Dissemination: Longitudinal Evidence Accounting for Predisposition</description>
   </item>
   <item>
-    <title>制約下におけるクレジットアサインメント：神経システムにおける学習が局所的でなければならない理由</title>
+    <title>制約下におけるクレジット割り当て：神経システムにおける学習が局所的でなければならない理由</title>
     <link>https://osf.io/kj7gr</link>
     <guid isPermaLink="false">https://osf.io/kj7gr#ja</guid>
     <pubDate>Tue, 17 Mar 2026 10:45:45 +0000</pubDate>
@@ -223,7 +223,7 @@
     <description>The AI Stress and Anxiety Scale (AISAS): Development, Validation, and Insight on the Diffusion of AI-Related Stress and Anxiety</description>
   </item>
   <item>
-    <title>親のスキルと幼児期の能力は家庭の数的環境よりも数学発達の予測において重要である</title>
+    <title>親のスキルと幼児期の能力が家庭の数的環境よりも数学発達の予測において重要である</title>
     <link>https://osf.io/9hu3g</link>
     <guid isPermaLink="false">https://osf.io/9hu3g#ja</guid>
     <pubDate>Mon, 16 Mar 2026 21:34:49 +0000</pubDate>
@@ -237,14 +237,14 @@
     <description>In Defense of Misattunement:  Hyperalignment in Human–AI Interactions</description>
   </item>
   <item>
-    <title>二重記入時間の罠：依存症における時間歪曲を持続メカニズムとして再構成する試み</title>
+    <title>二重記入時間の罠：依存症における時間歪曲の持続メカニズムとしての再構築</title>
     <link>https://osf.io/vuh73</link>
     <guid isPermaLink="false">https://osf.io/vuh73#ja</guid>
     <pubDate>Mon, 16 Mar 2026 21:34:48 +0000</pubDate>
     <description>The Double-Entry Time Trap: Reframing Temporal Distortion as a Perpetuating Mechanism in Addiction</description>
   </item>
   <item>
-    <title>機械が意識を持たないとしたら、私たちはそれをどのように認識するのか？</title>
+    <title>機械が意識を持たない場合、私たちはそれをどのように認識できるのか？</title>
     <link>https://osf.io/raqsh</link>
     <guid isPermaLink="false">https://osf.io/raqsh#ja</guid>
     <pubDate>Mon, 16 Mar 2026 21:34:48 +0000</pubDate>
@@ -258,7 +258,7 @@
     <description>Non-thoughtful persuasion is a matter of time: Interactions between duration of persuasion attempt and cognitive load</description>
   </item>
   <item>
-    <title>初等教育過程における言語能力の低さが欠席およびその後の学業成績に及ぼす影響</title>
+    <title>小学校教育過程における言語能力の低さが欠席およびその後の学業成績に及ぼす影響</title>
     <link>https://osf.io/n7qe3</link>
     <guid isPermaLink="false">https://osf.io/n7qe3#ja</guid>
     <pubDate>Mon, 16 Mar 2026 21:34:47 +0000</pubDate>
@@ -272,14 +272,14 @@
     <description>Choosing others or the environment? Neurocognitive evidence for moral conflict and priority of prosocial over pro-environmental values</description>
   </item>
   <item>
-    <title>画像の記憶保持性は視覚記憶の各段階における干渉に対する解離的感受性を示す</title>
+    <title>画像の記憶保持性は視覚記憶の段階における干渉に対する解離的感受性を示す</title>
     <link>https://osf.io/54rxy</link>
     <guid isPermaLink="false">https://osf.io/54rxy#ja</guid>
     <pubDate>Mon, 16 Mar 2026 21:34:46 +0000</pubDate>
     <description>Image Memorability Shows Dissociative Susceptibility for Interference Across Stages of Visual Memory</description>
   </item>
   <item>
-    <title>現状報告：イギリスにおけるトランスジェンダーおよびジェンダーダイバーシティ若年層のメンタルヘルス、ジェンダーマイノリティストレスおよび肯定的経験</title>
+    <title>現状報告：イギリスにおけるトランスジェンダーおよびジェンダー多様な若者のメンタルヘルス、ジェンダーマイノリティストレスおよび肯定的経験</title>
     <link>https://osf.io/8wysb</link>
     <guid isPermaLink="false">https://osf.io/8wysb#ja</guid>
     <pubDate>Mon, 16 Mar 2026 21:34:46 +0000</pubDate>
@@ -342,7 +342,7 @@
     <description>Transportation, Sustainability and Human Factors: A Traffic Psychology Research  Agenda for the Global Majority</description>
   </item>
   <item>
-    <title>逆境的幼少期経験に関連する脅威学習、一般化、および恐怖の再発における神経および多モーダル指標</title>
+    <title>逆境的な幼少期経験に関連する脅威学習、一般化、および恐怖の再発における神経および多モーダル指標</title>
     <link>https://osf.io/8u5wx</link>
     <guid isPermaLink="false">https://osf.io/8u5wx#ja</guid>
     <pubDate>Sun, 15 Mar 2026 12:42:39 +0000</pubDate>
