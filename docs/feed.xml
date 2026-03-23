@@ -6,21 +6,21 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>誤情報訂正時におけるAI生成画像の再提示が訂正内容の記憶を向上させ誤信念を減少させる効果</title>
+    <title>誤情報訂正時のAI生成画像の再提示が訂正記憶を改善し誤信念を減少させる効果</title>
     <link>https://osf.io/edpkx</link>
     <guid isPermaLink="false">https://osf.io/edpkx#ja</guid>
     <pubDate>Mon, 23 Mar 2026 09:42:09 +0000</pubDate>
     <description>Re-exposure to AI-Generated Images During Misinformation Corrections Reduces False Beliefs by Improving Memory for Corrections</description>
   </item>
   <item>
-    <title>チリの精神保健サービスを利用するトランスジェンダー青少年におけるYP-COREの心理計測評価</title>
+    <title>チリの精神保健サービスを利用するトランスジェンダー青少年におけるYP-COREの心理測定評価</title>
     <link>https://osf.io/s83ur</link>
     <guid isPermaLink="false">https://osf.io/s83ur#ja</guid>
     <pubDate>Sun, 22 Mar 2026 21:57:37 +0000</pubDate>
     <description>Evaluación psicométrica del YP-CORE en adolescentes trans  atendidos en servicios de salud mental chilenos</description>
   </item>
   <item>
-    <title>言語調整による事象区切りの検討：中断検出と境界タップを用いた分析</title>
+    <title>言語調整による事象区切りの検討：中断検出と境界タッピングを用いて</title>
     <link>https://osf.io/vp9zc</link>
     <guid isPermaLink="false">https://osf.io/vp9zc#ja</guid>
     <pubDate>Sun, 22 Mar 2026 21:57:37 +0000</pubDate>
@@ -41,7 +41,7 @@
     <description>A Biological Definition of Self</description>
   </item>
   <item>
-    <title>初期音声発達における主体感覚の形成に向けた文化特有の経路</title>
+    <title>初期発声発達における主体感覚の形成に向けた文化特有の経路</title>
     <link>https://osf.io/9g8zd</link>
     <guid isPermaLink="false">https://osf.io/9g8zd#ja</guid>
     <pubDate>Sun, 22 Mar 2026 21:57:36 +0000</pubDate>
@@ -55,7 +55,7 @@
     <description>Commuting in West Yorkshire: Associations between traffic climate, commuting stress, and travel satisfaction</description>
   </item>
   <item>
-    <title>注意的結合なしの特徴結合：二重感覚システムにおける非対称的属性健忘に関するインシリコ病変研究</title>
+    <title>注意的接着剤を用いない特徴結合：二重感覚システムにおける非対称的属性健忘に関するインシリコ損傷研究</title>
     <link>https://osf.io/xtu5m</link>
     <guid isPermaLink="false">https://osf.io/xtu5m#ja</guid>
     <pubDate>Sun, 22 Mar 2026 21:57:35 +0000</pubDate>
@@ -83,14 +83,14 @@
     <description>Accessibility in Academic Conferences: Barriers, Solutions, and a Framework for Inclusive Participation</description>
   </item>
   <item>
-    <title>生成的心理測定における尺度開発のためのプロンプトエンジニアリング</title>
+    <title>生成的心理計測における尺度開発のためのプロンプトエンジニアリング</title>
     <link>https://osf.io/znqkm</link>
     <guid isPermaLink="false">https://osf.io/znqkm#ja</guid>
     <pubDate>Tue, 17 Mar 2026 14:37:14 +0000</pubDate>
     <description>Prompt Engineering for Scale Development in Generative Psychometrics</description>
   </item>
   <item>
-    <title>壁の一部ではない：学校職員によるLGBTQ+学生支援が広範な学校環境によってどのように形成されるかの理解</title>
+    <title>壁の一部に過ぎないわけではない：学校職員によるLGBTQ+学生支援が学校全体の文脈によってどのように形成されるかの理解</title>
     <link>https://osf.io/nvq2u</link>
     <guid isPermaLink="false">https://osf.io/nvq2u#ja</guid>
     <pubDate>Tue, 17 Mar 2026 14:37:14 +0000</pubDate>
@@ -111,7 +111,7 @@
     <description>A 7-Year Study of Behavioral, Psychological and Personality Changes in Older Adults</description>
   </item>
   <item>
-    <title>日常心理療法における患者と治療者のペアリングのための機械学習ベースのマッチングシステム</title>
+    <title>日常心理療法における患者とセラピストのペアリングのための機械学習ベースのマッチングシステム</title>
     <link>https://osf.io/hx3em</link>
     <guid isPermaLink="false">https://osf.io/hx3em#ja</guid>
     <pubDate>Tue, 17 Mar 2026 14:37:13 +0000</pubDate>
@@ -139,7 +139,7 @@
     <description>Age Effects on the Extraction and Integration of Parafoveal Information in Reading</description>
   </item>
   <item>
-    <title>集団アイデンティティ、道徳的拡張性、および69か国における寛容性の比較研究</title>
+    <title>集団同一性、道徳的拡張性、および69か国における寛容性の比較研究</title>
     <link>https://osf.io/db4qt</link>
     <guid isPermaLink="false">https://osf.io/db4qt#ja</guid>
     <pubDate>Tue, 17 Mar 2026 14:37:12 +0000</pubDate>
@@ -153,7 +153,7 @@
     <description>Musicality is preserved in neurodegeneration</description>
   </item>
   <item>
-    <title>感情的干渉刺激に対する情動調節における共感と抑制制御の役割</title>
+    <title>感情的干渉刺激に対する情動調整における共感性と抑制制御の役割</title>
     <link>https://osf.io/zvymd</link>
     <guid isPermaLink="false">https://osf.io/zvymd#ja</guid>
     <pubDate>Tue, 17 Mar 2026 14:37:12 +0000</pubDate>
@@ -195,7 +195,7 @@
     <description>Adaptive Training for Navigation Under Stress:  Impacts of Stress Exposure and Spatial Anxiety</description>
   </item>
   <item>
-    <title>「彼は私を孤独に感じさせなかった」：感情的支援における青年期の生成型AIとの関わり</title>
+    <title>「彼のおかげで孤独感が和らいだ」：感情的支援における青年期の生成型AIとの関わり</title>
     <link>https://osf.io/vmu5x</link>
     <guid isPermaLink="false">https://osf.io/vmu5x#ja</guid>
     <pubDate>Tue, 17 Mar 2026 11:40:30 +0000</pubDate>
@@ -209,7 +209,7 @@
     <description>The Psychological Impact of Digital Uncensored Violent Content Dissemination: Longitudinal Evidence Accounting for Predisposition</description>
   </item>
   <item>
-    <title>制約下におけるクレジット割り当て：神経システムにおける学習が局所的でなければならない理由</title>
+    <title>制約下におけるクレジット割当：神経システムにおける学習が局所的でなければならない理由</title>
     <link>https://osf.io/kj7gr</link>
     <guid isPermaLink="false">https://osf.io/kj7gr#ja</guid>
     <pubDate>Tue, 17 Mar 2026 10:45:45 +0000</pubDate>
@@ -230,7 +230,7 @@
     <description>Parental and Early Child Skills Outweigh Home Numeracy Environment in Predicting Math Development</description>
   </item>
   <item>
-    <title>誤調整の擁護：人間とAIの相互作用における過剰適合</title>
+    <title>ミスアチューメントの擁護：人間とAIの相互作用における過剰適合の心理学的考察</title>
     <link>https://osf.io/nqjke</link>
     <guid isPermaLink="false">https://osf.io/nqjke#ja</guid>
     <pubDate>Mon, 16 Mar 2026 21:34:49 +0000</pubDate>
@@ -335,7 +335,7 @@
     <description>Age Characteristics of Child Development: How to Support, Not Demand — A Booklet for Parents</description>
   </item>
   <item>
-    <title>交通、持続可能性および人間要因：グローバルマジョリティに向けた交通心理学研究の課題</title>
+    <title>交通、持続可能性および人間要因：世界多数派に向けた交通心理学研究の課題</title>
     <link>https://osf.io/8zr5g</link>
     <guid isPermaLink="false">https://osf.io/8zr5g#ja</guid>
     <pubDate>Sun, 15 Mar 2026 12:42:39 +0000</pubDate>
