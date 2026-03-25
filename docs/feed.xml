@@ -6,35 +6,105 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>領域を超えた課題の順序付け：学習を通じて形成される難易度優先の選好</title>
+    <title>ジョージア州における発達性言語障害児の早期発見と支援における障壁と促進要因：統合的実施研究フレームワークに基づく質的研究</title>
+    <link>https://osf.io/dctm7</link>
+    <guid isPermaLink="false">https://osf.io/dctm7#ja</guid>
+    <pubDate>Wed, 25 Mar 2026 21:30:19 +0000</pubDate>
+    <description>Barriers and Facilitators to the Identification and Support of Children with Developmental Language Disorder in Georgia: A Qualitative Study Guided by the Consolidated Framework for Implementation Research</description>
+  </item>
+  <item>
+    <title>教育とは火を灯すこと：個人的なつながりが火花を散らす</title>
+    <link>https://osf.io/3n5d4</link>
+    <guid isPermaLink="false">https://osf.io/3n5d4#ja</guid>
+    <pubDate>Wed, 25 Mar 2026 21:30:19 +0000</pubDate>
+    <description>Education as the lighting of a fire: Personal connection strikes the match</description>
+  </item>
+  <item>
+    <title>ワニの涙のいつ、誰が、なぜ、どのように：操作的な泣きが特定の状況、特性、動機、および表出行動と関連する</title>
+    <link>https://osf.io/k8daw</link>
+    <guid isPermaLink="false">https://osf.io/k8daw#ja</guid>
+    <pubDate>Wed, 25 Mar 2026 21:30:18 +0000</pubDate>
+    <description>The When, Who, Why, and How of Crocodile Tears: Manipulative Crying is Associated with Specific Situations, Traits, Motivations, and Expressive Behaviors</description>
+  </item>
+  <item>
+    <title>関係性増幅装置：生成型AIの擬人化がストレスを抱える利用者に及ぼす逆効果</title>
+    <link>https://osf.io/m25w7</link>
+    <guid isPermaLink="false">https://osf.io/m25w7#ja</guid>
+    <pubDate>Wed, 25 Mar 2026 21:30:18 +0000</pubDate>
+    <description>The Relational Amplifier: How Anthropomorphism of Generative AI Backfires for Distressed Users</description>
+  </item>
+  <item>
+    <title>食事中の画面使用が感情に及ぼす影響：映像の感情価が調整役を果たす実験室内実験研究</title>
+    <link>https://osf.io/7sgxq</link>
+    <guid isPermaLink="false">https://osf.io/7sgxq#ja</guid>
+    <pubDate>Wed, 25 Mar 2026 21:30:18 +0000</pubDate>
+    <description>The effect of screen use while eating on emotions: A lab-based experimental study on the moderating role of emotional valence of videos</description>
+  </item>
+  <item>
+    <title>アルゴリズム構造化曝露：思春期青年のソーシャルメディアにおけるコンテンツタイプ別感情体験</title>
+    <link>https://osf.io/ye869</link>
+    <guid isPermaLink="false">https://osf.io/ye869#ja</guid>
+    <pubDate>Wed, 25 Mar 2026 21:30:18 +0000</pubDate>
+    <description>Algorithmically structured exposure: Adolescents’ emotional experiences of content types on social media</description>
+  </item>
+  <item>
+    <title>成人期を通じた職業的興味の生活結果に対する予測的妥当性</title>
+    <link>https://osf.io/b5y6r</link>
+    <guid isPermaLink="false">https://osf.io/b5y6r#ja</guid>
+    <pubDate>Wed, 25 Mar 2026 21:30:17 +0000</pubDate>
+    <description>The Predictive Validity of Vocational Interests for Life Outcomes Across Adulthood</description>
+  </item>
+  <item>
+    <title>既知の未知：現職教員のメタ認知的感受性と効率性の探究</title>
+    <link>https://osf.io/49ynr</link>
+    <guid isPermaLink="false">https://osf.io/49ynr#ja</guid>
+    <pubDate>Wed, 25 Mar 2026 21:30:17 +0000</pubDate>
+    <description>Known unknowns: Exploring In-Service Teachers’ Metacognitive Sensitivity and Efficiency</description>
+  </item>
+  <item>
+    <title>ジェンダーについて語る：48言語における言語の性別化と言語性別と人格差の関連性</title>
+    <link>https://osf.io/r8tx6</link>
+    <guid isPermaLink="false">https://osf.io/r8tx6#ja</guid>
+    <pubDate>Wed, 25 Mar 2026 21:30:17 +0000</pubDate>
+    <description>Speaking of gender: Language genderedness and its association with gender differences in personality across 48 languages</description>
+  </item>
+  <item>
+    <title>EMOTEデータベース：日常の感情過程をマッピングする体験サンプリングデータの公開検索可能データベース</title>
+    <link>https://osf.io/h7kxd</link>
+    <guid isPermaLink="false">https://osf.io/h7kxd#ja</guid>
+    <pubDate>Wed, 25 Mar 2026 21:30:17 +0000</pubDate>
+    <description>The EMOTE Database: An open, searchable database of experience sampling data mapping everyday emotion processes</description>
+  </item>
+  <item>
+    <title>領域を超えた課題順序付け：学習を通じて現れる難易度優先の選好</title>
     <link>https://osf.io/9ykvt</link>
     <guid isPermaLink="false">https://osf.io/9ykvt#ja</guid>
     <pubDate>Wed, 25 Mar 2026 20:52:42 +0000</pubDate>
     <description>Task-ordering across domains: Hard-first preferences emerge through learning</description>
   </item>
   <item>
-    <title>青年期の愛着問題のスクリーニング：自己報告および親報告による青年期愛着不安・回避尺度の心理測定学的検証</title>
+    <title>青年期の愛着問題のスクリーニング：自己報告および親報告による思春期愛着不安・回避尺度の心理測定学的検証</title>
     <link>https://osf.io/k6jeh</link>
     <guid isPermaLink="false">https://osf.io/k6jeh#ja</guid>
     <pubDate>Tue, 24 Mar 2026 23:48:18 +0000</pubDate>
     <description>Screening Attachment Problems in Youth: Psychometric Validation of the Self- and Parent-Report Adolescent Attachment Anxiety and Avoidance Inventory</description>
   </item>
   <item>
-    <title>切断戦略はウェルビーイングと生産性を向上させるか？1か月間の二波パネル調査による検証</title>
+    <title>切断戦略はウェルビーイングと生産性を向上させるか？1か月間の2波パネル調査</title>
     <link>https://osf.io/27n3w</link>
     <guid isPermaLink="false">https://osf.io/27n3w#ja</guid>
     <pubDate>Tue, 24 Mar 2026 23:48:18 +0000</pubDate>
     <description>Do Disconnection Strategies Improve Well-Being and Productivity? A Two-Wave Panel Study Over One Month</description>
   </item>
   <item>
-    <title>車椅子スポーツグループにおける身体活動参加：身体障害者の個人特性およびクラブ関連特性の重要性に関する多層ロジスティック回帰分析</title>
+    <title>車椅子スポーツグループにおける身体活動参加：身体障害者の個人特性およびクラブ関連特性の重要性－多層ロジスティック回帰分析による検討</title>
     <link>https://osf.io/b85yd</link>
     <guid isPermaLink="false">https://osf.io/b85yd#ja</guid>
     <pubDate>Tue, 24 Mar 2026 23:48:18 +0000</pubDate>
     <description>Physical activity participation in wheelchair sports groups: The importance of individual and club related characteristics among individuals with physical disabilities. A multilevel logistic regression analysis.</description>
   </item>
   <item>
-    <title>自己帰属された生得的信念は心理特性の遺伝率に及ぼす調整効果</title>
+    <title>自己帰属された先天性信念は心理特性の遺伝率に及ぼす調整効果</title>
     <link>https://osf.io/q6ths</link>
     <guid isPermaLink="false">https://osf.io/q6ths#ja</guid>
     <pubDate>Tue, 24 Mar 2026 23:48:17 +0000</pubDate>
@@ -48,7 +118,7 @@
     <description>The Uncommon Sense Effect: experimental evidence for underspecification as the mental basis of logical inference</description>
   </item>
   <item>
-    <title>持続的な記憶歪みを誘発するために単一の知覚的比較は十分であるが必須ではない</title>
+    <title>持続的な記憶歪みを誘発するには単一の知覚的比較が十分であるが必須ではない</title>
     <link>https://osf.io/p574z</link>
     <guid isPermaLink="false">https://osf.io/p574z#ja</guid>
     <pubDate>Tue, 24 Mar 2026 23:48:17 +0000</pubDate>
@@ -69,7 +139,7 @@
     <description>AutoPsychDx: An LLM Agent Framework for Automated Psychometric Diagnosis Using Multi-Method Classification</description>
   </item>
   <item>
-    <title>治療開始時における多剤物質関与の単一潜在次元からアルコールを分離する研究</title>
+    <title>治療開始時における多物質関与の単一潜在次元からアルコールを分離する研究</title>
     <link>https://osf.io/8tcvu</link>
     <guid isPermaLink="false">https://osf.io/8tcvu#ja</guid>
     <pubDate>Tue, 24 Mar 2026 23:48:16 +0000</pubDate>
@@ -83,7 +153,7 @@
     <description>Does Interpersonal Emotion Regulation Effort Pay Off?</description>
   </item>
   <item>
-    <title>より多くの時間と努力、変わらぬ好奇心：期待される努力は好奇心に影響を与えない</title>
+    <title>時間と労力が増えても好奇心は変わらない：期待される努力は好奇心に影響を与えない</title>
     <link>https://osf.io/bceq7</link>
     <guid isPermaLink="false">https://osf.io/bceq7#ja</guid>
     <pubDate>Tue, 24 Mar 2026 23:16:18 +0000</pubDate>
@@ -111,14 +181,14 @@
     <description>Responsibility Shielding: When Causally Proximate Agents Deflect Blame for Distal Enablers</description>
   </item>
   <item>
-    <title>小学生における迅速推測の有病率、予測因子およびその結果</title>
+    <title>小学生における迅速推測の有病率、予測因子および結果</title>
     <link>https://osf.io/tsvyf</link>
     <guid isPermaLink="false">https://osf.io/tsvyf#ja</guid>
     <pubDate>Mon, 23 Mar 2026 21:56:22 +0000</pubDate>
     <description>Prevalence, Predictors, and Consequences of Rapid Guessing among Children in Elementary School</description>
   </item>
   <item>
-    <title>「私の言う通りにしなさい、私のする通りにではなく」―環境保護行動変容に関する会話における偽善のメタ認知の役割</title>
+    <title>「私の言う通りにしなさい、私のする通りにするな」―環境保全行動変容に関する会話における偽善のメタ認知の役割</title>
     <link>https://osf.io/uchdb</link>
     <guid isPermaLink="false">https://osf.io/uchdb#ja</guid>
     <pubDate>Mon, 23 Mar 2026 21:56:22 +0000</pubDate>
@@ -146,7 +216,7 @@
     <description>Development and Validation of a Workplace Well-Being Assessment Tool for Workers with Intellectual Disabilities</description>
   </item>
   <item>
-    <title>自閉症話者ペアにおける三つの会話文脈にわたる一貫して長い無音間隔</title>
+    <title>自閉症話者ペアにおける三つの会話状況にわたる一貫して長い無音間隔</title>
     <link>https://osf.io/tksnb</link>
     <guid isPermaLink="false">https://osf.io/tksnb#ja</guid>
     <pubDate>Mon, 23 Mar 2026 21:28:28 +0000</pubDate>
@@ -188,28 +258,28 @@
     <description>A First Formal Implementation of the Proof-of-Work Model of Organismic Integration</description>
   </item>
   <item>
-    <title>誤情報訂正時におけるAI生成画像の再提示が訂正記憶を改善し誤信念を減少させる効果</title>
+    <title>誤情報訂正時におけるAI生成画像の再提示が訂正内容の記憶を改善し誤信念を減少させる効果</title>
     <link>https://osf.io/edpkx</link>
     <guid isPermaLink="false">https://osf.io/edpkx#ja</guid>
     <pubDate>Mon, 23 Mar 2026 09:42:09 +0000</pubDate>
     <description>Re-exposure to AI-Generated Images During Misinformation Corrections Reduces False Beliefs by Improving Memory for Corrections</description>
   </item>
   <item>
-    <title>チリの精神保健サービスを利用するトランスジェンダー青少年におけるYP-COREの心理計測評価</title>
+    <title>チリの精神保健サービスを利用するトランスジェンダー青少年におけるYP-COREの心理計測的評価</title>
     <link>https://osf.io/s83ur</link>
     <guid isPermaLink="false">https://osf.io/s83ur#ja</guid>
     <pubDate>Sun, 22 Mar 2026 21:57:37 +0000</pubDate>
     <description>Evaluación psicométrica del YP-CORE en adolescentes trans  atendidos en servicios de salud mental chilenos</description>
   </item>
   <item>
-    <title>言語調整による事象区切りの検討：中断検出と境界タップを用いた分析</title>
+    <title>言語調整された事象区分の検討：中断検出と境界タッピングによる分析</title>
     <link>https://osf.io/vp9zc</link>
     <guid isPermaLink="false">https://osf.io/vp9zc#ja</guid>
     <pubDate>Sun, 22 Mar 2026 21:57:37 +0000</pubDate>
     <description>Language-modulated Event Segmentation Examined through Interruption Detection and Boundary Tapping</description>
   </item>
   <item>
-    <title>「誰にでもできる！」：多元宇宙を用いた学部心理学卒業研究プロジェクト</title>
+    <title>「誰にでもできる！」：学部心理学卒業研究プロジェクトとしてのマルチバースの活用</title>
     <link>https://osf.io/fhb6q</link>
     <guid isPermaLink="false">https://osf.io/fhb6q#ja</guid>
     <pubDate>Sun, 22 Mar 2026 21:57:37 +0000</pubDate>
@@ -223,21 +293,21 @@
     <description>A Biological Definition of Self</description>
   </item>
   <item>
-    <title>初期発声発達における主体感の形成に向けた文化特有の経路</title>
+    <title>初期発声発達における主体感覚の形成に向けた文化特有の経路</title>
     <link>https://osf.io/9g8zd</link>
     <guid isPermaLink="false">https://osf.io/9g8zd#ja</guid>
     <pubDate>Sun, 22 Mar 2026 21:57:36 +0000</pubDate>
     <description>Culture-specific pathways to the emerging sense of agency in early vocal development</description>
   </item>
   <item>
-    <title>ウェストヨークシャーにおける通勤：交通環境、通勤ストレス、および移動満足度の関連性</title>
+    <title>ウェストヨークシャーにおける通勤：交通環境、通勤ストレス、および旅行満足度の関連性</title>
     <link>https://osf.io/mkn9v</link>
     <guid isPermaLink="false">https://osf.io/mkn9v#ja</guid>
     <pubDate>Sun, 22 Mar 2026 21:57:36 +0000</pubDate>
     <description>Commuting in West Yorkshire: Associations between traffic climate, commuting stress, and travel satisfaction</description>
   </item>
   <item>
-    <title>注意的結合なしの特徴結合：二重モーダルシステムにおける非対称的属性健忘に関するインシリコ病変研究</title>
+    <title>注意的結合なしの特徴結合：二重感覚システムにおける非対称的属性健忘に関するインシリコ病変研究</title>
     <link>https://osf.io/xtu5m</link>
     <guid isPermaLink="false">https://osf.io/xtu5m#ja</guid>
     <pubDate>Sun, 22 Mar 2026 21:57:35 +0000</pubDate>
@@ -272,81 +342,11 @@
     <description>Prompt Engineering for Scale Development in Generative Psychometrics</description>
   </item>
   <item>
-    <title>壁の一部に過ぎないわけではない：学校職員によるLGBTQ+学生支援が広範な学校環境によってどのように形成されるかの理解</title>
+    <title>壁の一部ではない：学校職員によるLGBTQ+学生支援が広範な学校環境によってどのように形成されるかの理解</title>
     <link>https://osf.io/nvq2u</link>
     <guid isPermaLink="false">https://osf.io/nvq2u#ja</guid>
     <pubDate>Tue, 17 Mar 2026 14:37:14 +0000</pubDate>
     <description>Not Another Brick in the Wall: Understanding How School Staff Support for LGBTQ+ Students is Shaped by the Broader School Context</description>
-  </item>
-  <item>
-    <title>幼児は焦点表出時に韻律的および身振り的事象の大きさを調整する</title>
-    <link>https://osf.io/gbm96</link>
-    <guid isPermaLink="false">https://osf.io/gbm96#ja</guid>
-    <pubDate>Tue, 17 Mar 2026 14:37:14 +0000</pubDate>
-    <description>Preschool children coordinate the magnitude of prosodic and gestural events when expressing focus</description>
-  </item>
-  <item>
-    <title>高齢者における行動的・心理的および人格的変化の7年間縦断研究</title>
-    <link>https://osf.io/2c78g</link>
-    <guid isPermaLink="false">https://osf.io/2c78g#ja</guid>
-    <pubDate>Tue, 17 Mar 2026 14:37:14 +0000</pubDate>
-    <description>A 7-Year Study of Behavioral, Psychological and Personality Changes in Older Adults</description>
-  </item>
-  <item>
-    <title>日常心理療法における患者-セラピスト二者間マッチングシステムの機械学習応用</title>
-    <link>https://osf.io/hx3em</link>
-    <guid isPermaLink="false">https://osf.io/hx3em#ja</guid>
-    <pubDate>Tue, 17 Mar 2026 14:37:13 +0000</pubDate>
-    <description>A Machine-Learning-Based Matching System For Patient-Therapist Dyads In Routine Psychotherapy</description>
-  </item>
-  <item>
-    <title>多変量機械学習による成人のウェルビーイング予測：児童期問題行動の縦断的変化変数と多遺伝子リスクスコアの統合</title>
-    <link>https://osf.io/t4928</link>
-    <guid isPermaLink="false">https://osf.io/t4928#ja</guid>
-    <pubDate>Tue, 17 Mar 2026 14:37:13 +0000</pubDate>
-    <description>Multimodal Machine Learning Prediction of Adult Wellbeing: Combining longitudinal change variables of childhood problem behaviour with polygenic risk scores</description>
-  </item>
-  <item>
-    <title>政治における金銭の役割認知がもたらす心理社会的影響：動員と民主主義の侵食</title>
-    <link>https://osf.io/kfu74</link>
-    <guid isPermaLink="false">https://osf.io/kfu74#ja</guid>
-    <pubDate>Tue, 17 Mar 2026 14:37:13 +0000</pubDate>
-    <description>Psychosocial consequences of perceiving the role of money in politics:  Mobilization and democratic erosion</description>
-  </item>
-  <item>
-    <title>読書における傍中心視情報の抽出と統合に及ぼす年齢効果</title>
-    <link>https://osf.io/x89jg</link>
-    <guid isPermaLink="false">https://osf.io/x89jg#ja</guid>
-    <pubDate>Tue, 17 Mar 2026 14:37:13 +0000</pubDate>
-    <description>Age Effects on the Extraction and Integration of Parafoveal Information in Reading</description>
-  </item>
-  <item>
-    <title>69か国における集団同一性、道徳的拡張性、および寛容性の比較研究</title>
-    <link>https://osf.io/db4qt</link>
-    <guid isPermaLink="false">https://osf.io/db4qt#ja</guid>
-    <pubDate>Tue, 17 Mar 2026 14:37:12 +0000</pubDate>
-    <description>Group Identity, Moral Expansiveness, and Generosity Across 69 Countries</description>
-  </item>
-  <item>
-    <title>神経変性における音楽性の保持</title>
-    <link>https://osf.io/rzju5</link>
-    <guid isPermaLink="false">https://osf.io/rzju5#ja</guid>
-    <pubDate>Tue, 17 Mar 2026 14:37:12 +0000</pubDate>
-    <description>Musicality is preserved in neurodegeneration</description>
-  </item>
-  <item>
-    <title>感情的干渉刺激に対する情動調整における共感と抑制制御の役割</title>
-    <link>https://osf.io/zvymd</link>
-    <guid isPermaLink="false">https://osf.io/zvymd#ja</guid>
-    <pubDate>Tue, 17 Mar 2026 14:37:12 +0000</pubDate>
-    <description>Empathy and inhibitory control in emotional regulation in response to affective distractors.</description>
-  </item>
-  <item>
-    <title>ホロトロピック状態と発達性トラウマ：トラウマに配慮した段階的アプローチの枠組み</title>
-    <link>https://osf.io/rc39w</link>
-    <guid isPermaLink="false">https://osf.io/rc39w#ja</guid>
-    <pubDate>Tue, 17 Mar 2026 13:02:33 +0000</pubDate>
-    <description>Holotropic States and Developmental Trauma: A Trauma-Informed, Phase-Oriented Framework</description>
   </item>
 </channel>
 </rss>
