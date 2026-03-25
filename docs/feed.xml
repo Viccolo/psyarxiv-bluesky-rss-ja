@@ -6,14 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>青年期の愛着問題のスクリーニング：自己報告および親報告による青年期愛着不安・回避尺度の心理計量学的検証</title>
+    <title>青年期の愛着問題のスクリーニング：自己報告および親報告による青年期愛着不安・回避尺度の心理測定学的検証</title>
     <link>https://osf.io/k6jeh</link>
     <guid isPermaLink="false">https://osf.io/k6jeh#ja</guid>
     <pubDate>Tue, 24 Mar 2026 23:48:18 +0000</pubDate>
     <description>Screening Attachment Problems in Youth: Psychometric Validation of the Self- and Parent-Report Adolescent Attachment Anxiety and Avoidance Inventory</description>
   </item>
   <item>
-    <title>切断戦略は幸福感と生産性を向上させるか？1か月間の二波パネル調査による検証</title>
+    <title>切断戦略はウェルビーイングと生産性を向上させるか？1か月間の二波パネル調査</title>
     <link>https://osf.io/27n3w</link>
     <guid isPermaLink="false">https://osf.io/27n3w#ja</guid>
     <pubDate>Tue, 24 Mar 2026 23:48:18 +0000</pubDate>
@@ -27,14 +27,14 @@
     <description>Physical activity participation in wheelchair sports groups: The importance of individual and club related characteristics among individuals with physical disabilities. A multilevel logistic regression analysis.</description>
   </item>
   <item>
-    <title>自己帰属された生得的信念が心理特性の遺伝率に及ぼす調整効果</title>
+    <title>自己帰属された生得的信念は心理特性の遺伝率に及ぼす調整効果</title>
     <link>https://osf.io/q6ths</link>
     <guid isPermaLink="false">https://osf.io/q6ths#ja</guid>
     <pubDate>Tue, 24 Mar 2026 23:48:17 +0000</pubDate>
     <description>Self-Attributed Innateness Beliefs Moderate the Heritability of Psychological Traits</description>
   </item>
   <item>
-    <title>常識外れ効果：論理的推論の精神的基盤としての過小特定に関する実験的証拠</title>
+    <title>非常識効果：論理的推論の心的基盤としての過小特定に関する実験的証拠</title>
     <link>https://osf.io/yecmg</link>
     <guid isPermaLink="false">https://osf.io/yecmg#ja</guid>
     <pubDate>Tue, 24 Mar 2026 23:48:17 +0000</pubDate>
@@ -62,7 +62,7 @@
     <description>AutoPsychDx: An LLM Agent Framework for Automated Psychometric Diagnosis Using Multi-Method Classification</description>
   </item>
   <item>
-    <title>治療開始時における多剤物質関与の単一潜在次元からアルコールを分離する研究</title>
+    <title>治療開始時における多薬物関与の単一潜在次元からアルコールの影響を解明する研究</title>
     <link>https://osf.io/8tcvu</link>
     <guid isPermaLink="false">https://osf.io/8tcvu#ja</guid>
     <pubDate>Tue, 24 Mar 2026 23:48:16 +0000</pubDate>
@@ -76,7 +76,7 @@
     <description>Does Interpersonal Emotion Regulation Effort Pay Off?</description>
   </item>
   <item>
-    <title>時間と労力の増加は好奇心に影響しない：期待される努力と好奇心の関係</title>
+    <title>より多くの時間と努力、変わらぬ好奇心：期待される努力は好奇心に影響を与えない</title>
     <link>https://osf.io/bceq7</link>
     <guid isPermaLink="false">https://osf.io/bceq7#ja</guid>
     <pubDate>Tue, 24 Mar 2026 23:16:18 +0000</pubDate>
@@ -90,35 +90,35 @@
     <description>Eye Movements Reflect Listening Effort and Visualizable Speech</description>
   </item>
   <item>
-    <title>発見の瞬間と発散的思考における創造性：アイデア展開の媒介的役割</title>
+    <title>アハ体験と発散的思考における創造性：アイデア展開の媒介的役割</title>
     <link>https://osf.io/n3t9w</link>
     <guid isPermaLink="false">https://osf.io/n3t9w#ja</guid>
     <pubDate>Tue, 24 Mar 2026 23:16:17 +0000</pubDate>
     <description>Aha! moment and creativity of ideas in divergent thinking: The mediating role of idea elaboration</description>
   </item>
   <item>
-    <title>責任の遮蔽：因果的に近接した主体が遠隔的促進要因への非難を回避する場合</title>
+    <title>責任の防御機構：因果的に近接した主体が遠隔的促進要因への非難を回避する場合</title>
     <link>https://osf.io/yzb75</link>
     <guid isPermaLink="false">https://osf.io/yzb75#ja</guid>
     <pubDate>Mon, 23 Mar 2026 22:26:26 +0000</pubDate>
     <description>Responsibility Shielding: When Causally Proximate Agents Deflect Blame for Distal Enablers</description>
   </item>
   <item>
-    <title>小学生における迅速推測の有病率、予測因子および結果</title>
+    <title>小学生における迅速推測の有病率、予測因子およびその影響</title>
     <link>https://osf.io/tsvyf</link>
     <guid isPermaLink="false">https://osf.io/tsvyf#ja</guid>
     <pubDate>Mon, 23 Mar 2026 21:56:22 +0000</pubDate>
     <description>Prevalence, Predictors, and Consequences of Rapid Guessing among Children in Elementary School</description>
   </item>
   <item>
-    <title>「私の言う通りにしなさい、私のする通りにするな」―環境保護行動変容に関する会話における偽善的メタ認知の役割</title>
+    <title>「言うことと行うことの不一致」―環境保護行動変容に関する会話における偽善のメタ認知の役割</title>
     <link>https://osf.io/uchdb</link>
     <guid isPermaLink="false">https://osf.io/uchdb#ja</guid>
     <pubDate>Mon, 23 Mar 2026 21:56:22 +0000</pubDate>
     <description>“Do as I Say, Not as I Do” - The role of hypocrisy metaperceptions in conversations about pro-environmental change</description>
   </item>
   <item>
-    <title>超加工食品摂取削減：介入戦略と内容の系統的レビュー</title>
+    <title>超加工食品（UPF）摂取削減：介入戦略と内容の系統的レビュー</title>
     <link>https://osf.io/snpqx</link>
     <guid isPermaLink="false">https://osf.io/snpqx#ja</guid>
     <pubDate>Mon, 23 Mar 2026 21:56:21 +0000</pubDate>
@@ -139,7 +139,7 @@
     <description>Development and Validation of a Workplace Well-Being Assessment Tool for Workers with Intellectual Disabilities</description>
   </item>
   <item>
-    <title>自閉症話者ペアにおける三つの会話状況にわたる一貫して長い無音間隔</title>
+    <title>自閉症話者ペアにおける三つの会話状況を通じた一貫して長い無音間隔の検討</title>
     <link>https://osf.io/tksnb</link>
     <guid isPermaLink="false">https://osf.io/tksnb#ja</guid>
     <pubDate>Mon, 23 Mar 2026 21:28:28 +0000</pubDate>
@@ -160,7 +160,7 @@
     <description>An Inductive Learning Intervention to Improve News Veracity Discernment</description>
   </item>
   <item>
-    <title>不正確さが理解の錯覚を促進する可能性について</title>
+    <title>不正確さが理解の錯覚を促進することがある</title>
     <link>https://osf.io/azg9m</link>
     <guid isPermaLink="false">https://osf.io/azg9m#ja</guid>
     <pubDate>Mon, 23 Mar 2026 21:28:27 +0000</pubDate>
@@ -174,7 +174,7 @@
     <description>Developmental Cue Weighting in Turkish Sentence Comprehension: Morphosyntactic and Prosodic Sensitivity</description>
   </item>
   <item>
-    <title>有機的統合のプルーフ・オブ・ワークモデルの初の形式的実装</title>
+    <title>有機体統合のプルーフ・オブ・ワークモデルの初の形式的実装</title>
     <link>https://osf.io/xrmwe</link>
     <guid isPermaLink="false">https://osf.io/xrmwe#ja</guid>
     <pubDate>Mon, 23 Mar 2026 18:28:35 +0000</pubDate>
@@ -188,14 +188,14 @@
     <description>Re-exposure to AI-Generated Images During Misinformation Corrections Reduces False Beliefs by Improving Memory for Corrections</description>
   </item>
   <item>
-    <title>チリの精神保健サービスを利用するトランスジェンダー青少年におけるYP-COREの心理計測評価</title>
+    <title>チリの精神保健サービスを利用するトランスジェンダー青年におけるYP-COREの心理測定評価</title>
     <link>https://osf.io/s83ur</link>
     <guid isPermaLink="false">https://osf.io/s83ur#ja</guid>
     <pubDate>Sun, 22 Mar 2026 21:57:37 +0000</pubDate>
     <description>Evaluación psicométrica del YP-CORE en adolescentes trans  atendidos en servicios de salud mental chilenos</description>
   </item>
   <item>
-    <title>言語調整による事象区切りの検討：中断検出と境界タッピングを用いて</title>
+    <title>言語調整された事象区切りの検討：中断検出と境界タッピングによる分析</title>
     <link>https://osf.io/vp9zc</link>
     <guid isPermaLink="false">https://osf.io/vp9zc#ja</guid>
     <pubDate>Sun, 22 Mar 2026 21:57:37 +0000</pubDate>
@@ -216,21 +216,21 @@
     <description>A Biological Definition of Self</description>
   </item>
   <item>
-    <title>初期発声発達における自己効力感の文化特有の形成過程</title>
+    <title>初期音声発達における主体感の形成に向けた文化特有の経路</title>
     <link>https://osf.io/9g8zd</link>
     <guid isPermaLink="false">https://osf.io/9g8zd#ja</guid>
     <pubDate>Sun, 22 Mar 2026 21:57:36 +0000</pubDate>
     <description>Culture-specific pathways to the emerging sense of agency in early vocal development</description>
   </item>
   <item>
-    <title>ウェストヨークシャーにおける通勤：交通環境、通勤ストレス、および移動満足度の関連性</title>
+    <title>ウェストヨークシャーにおける通勤：交通環境、通勤ストレス、旅行満足度の関連性</title>
     <link>https://osf.io/mkn9v</link>
     <guid isPermaLink="false">https://osf.io/mkn9v#ja</guid>
     <pubDate>Sun, 22 Mar 2026 21:57:36 +0000</pubDate>
     <description>Commuting in West Yorkshire: Associations between traffic climate, commuting stress, and travel satisfaction</description>
   </item>
   <item>
-    <title>注意の接着剤を用いない特徴結合：二重感覚システムにおける非対称的属性健忘に関するインシリコ病変研究</title>
+    <title>注意的結合なしの特徴結合：二重モーダルシステムにおける非対称的属性健忘に関するインシリコ病変研究</title>
     <link>https://osf.io/xtu5m</link>
     <guid isPermaLink="false">https://osf.io/xtu5m#ja</guid>
     <pubDate>Sun, 22 Mar 2026 21:57:35 +0000</pubDate>
@@ -258,14 +258,14 @@
     <description>Accessibility in Academic Conferences: Barriers, Solutions, and a Framework for Inclusive Participation</description>
   </item>
   <item>
-    <title>生成的心理計測における尺度開発のためのプロンプトエンジニアリング</title>
+    <title>生成心理計測における尺度開発のためのプロンプトエンジニアリング</title>
     <link>https://osf.io/znqkm</link>
     <guid isPermaLink="false">https://osf.io/znqkm#ja</guid>
     <pubDate>Tue, 17 Mar 2026 14:37:14 +0000</pubDate>
     <description>Prompt Engineering for Scale Development in Generative Psychometrics</description>
   </item>
   <item>
-    <title>壁の一部に過ぎないわけではない：学校全体の文脈がLGBTQ+学生支援に及ぼす影響の理解</title>
+    <title>壁の一部に過ぎないわけではない：学校職員によるLGBTQ+学生支援が学校全体の文脈によってどのように形成されるかの理解</title>
     <link>https://osf.io/nvq2u</link>
     <guid isPermaLink="false">https://osf.io/nvq2u#ja</guid>
     <pubDate>Tue, 17 Mar 2026 14:37:14 +0000</pubDate>
@@ -293,7 +293,7 @@
     <description>A Machine-Learning-Based Matching System For Patient-Therapist Dyads In Routine Psychotherapy</description>
   </item>
   <item>
-    <title>多変量機械学習による成人のウェルビーイング予測：児童期問題行動の縦断的変化変数と多遺伝子リスクスコアの統合解析</title>
+    <title>多変量機械学習による成人のウェルビーイング予測：小児期問題行動の縦断的変化変数と多遺伝子リスクスコアの統合</title>
     <link>https://osf.io/t4928</link>
     <guid isPermaLink="false">https://osf.io/t4928#ja</guid>
     <pubDate>Tue, 17 Mar 2026 14:37:13 +0000</pubDate>
@@ -328,14 +328,14 @@
     <description>Musicality is preserved in neurodegeneration</description>
   </item>
   <item>
-    <title>感情的干渉刺激に対する情動調節における共感性と抑制制御の役割</title>
+    <title>感情的干渉刺激に対する情動調整における共感性と抑制制御の役割</title>
     <link>https://osf.io/zvymd</link>
     <guid isPermaLink="false">https://osf.io/zvymd#ja</guid>
     <pubDate>Tue, 17 Mar 2026 14:37:12 +0000</pubDate>
     <description>Empathy and inhibitory control in emotional regulation in response to affective distractors.</description>
   </item>
   <item>
-    <title>ホロトロピック状態と発達性トラウマ：トラウマに配慮した段階的アプローチの枠組み</title>
+    <title>ホロトロピック状態と発達性トラウマ：トラウマインフォームドかつ段階的アプローチの枠組み</title>
     <link>https://osf.io/rc39w</link>
     <guid isPermaLink="false">https://osf.io/rc39w#ja</guid>
     <pubDate>Tue, 17 Mar 2026 13:02:33 +0000</pubDate>
