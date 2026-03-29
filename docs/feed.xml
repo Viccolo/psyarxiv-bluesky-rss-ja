@@ -6,14 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>知覚学習が方位および表情認知における連続依存効果に及ぼす影響</title>
+    <title>知覚学習が配向および表情認知における連続依存効果に及ぼす影響</title>
     <link>https://osf.io/p9yfu</link>
     <guid isPermaLink="false">https://osf.io/p9yfu#ja</guid>
     <pubDate>Sun, 29 Mar 2026 16:17:40 +0000</pubDate>
     <description>Perceptual learning modifies serial dependence effects in orientation and facial expression perception</description>
   </item>
   <item>
-    <title>児童期および青年期における外在化問題と内在化問題の性差</title>
+    <title>児童期および思春期における外在化問題と内在化問題の性差</title>
     <link>https://osf.io/4rsjf</link>
     <guid isPermaLink="false">https://osf.io/4rsjf#ja</guid>
     <pubDate>Sun, 29 Mar 2026 16:17:40 +0000</pubDate>
@@ -48,42 +48,42 @@
     <description>Shuffle: A Tool for Generating Quasi-Randomised Stimulus Lists with Sequential Constraints</description>
   </item>
   <item>
-    <title>階層と避難所：文化が社会的地位への脅威を通じてファーストレスポンダーの助け求め行動と不適応的対処に与える影響</title>
+    <title>階層と避難所：文化が社会的地位の脅威を通じてファーストレスポンダーの助け求め行動と不適応的対処に与える影響</title>
     <link>https://osf.io/x372f</link>
     <guid isPermaLink="false">https://osf.io/x372f#ja</guid>
     <pubDate>Sat, 28 Mar 2026 17:47:24 +0000</pubDate>
     <description>Rank and Refuge: How Culture Shapes First Responder Help-Seeking and Maladaptive Coping Through Threats to Social Standing</description>
   </item>
   <item>
-    <title>情報理論は上位概念が基本レベルのカテゴリーより先に出現することを予測する</title>
+    <title>情報理論は上位概念が基本レベルのカテゴリーに先行して出現することを予測する</title>
     <link>https://osf.io/45ht9</link>
     <guid isPermaLink="false">https://osf.io/45ht9#ja</guid>
     <pubDate>Sat, 28 Mar 2026 17:47:24 +0000</pubDate>
     <description>Information theory predicts that superordinates emerge before basic-level categories</description>
   </item>
   <item>
-    <title>聴覚障害者の視覚的単語認識：脳波FPVS法による検討</title>
+    <title>聴覚障害者の視覚的単語認識：EEG-FPVSを用いた検討</title>
     <link>https://osf.io/87xwq</link>
     <guid isPermaLink="false">https://osf.io/87xwq#ja</guid>
     <pubDate>Sat, 28 Mar 2026 17:47:24 +0000</pubDate>
     <description>Visual word recognition in deaf signers: an EEG-FPVS investigation.</description>
   </item>
   <item>
-    <title>事後の賢明さは心的枠組みに依存する：後知恵バイアス効果における解釈レベルが再構成に与える影響</title>
+    <title>事後の賢明さは心的枠組みに依存する：後知恵バイアス効果における構成レベルが再構成に及ぼす影響</title>
     <link>https://osf.io/h2zrx</link>
     <guid isPermaLink="false">https://osf.io/h2zrx#ja</guid>
     <pubDate>Sat, 28 Mar 2026 17:47:24 +0000</pubDate>
     <description>Being Wise After the Event Depends on the Mindset: How Construal Level Modifies Reconstruction in the Hindsight Bias Effect</description>
   </item>
   <item>
-    <title>「痛みに関する自身の認識を十分に伝えられない自覚：自閉症成人の医療従事者への痛みのコミュニケーションに関する検討」</title>
+    <title>「痛みの状況をどれほど理解しているかをうまく伝えられない自閉症成人の医療従事者への痛みのコミュニケーションに関する検討」</title>
     <link>https://osf.io/6c2t5</link>
     <guid isPermaLink="false">https://osf.io/6c2t5#ja</guid>
     <pubDate>Sat, 28 Mar 2026 17:47:23 +0000</pubDate>
     <description>‘I&#x27;ve always been unable to really communicate the extent to which I feel like I know what&#x27;s going on with my pain’: Investigating Autistic Adults Communication of Pain to Healthcare Professionals</description>
   </item>
   <item>
-    <title>心血管疾患発症後の抑うつ症状は中高年者における既存の症状によって大部分が説明される</title>
+    <title>中高年成人における心血管疾患発症後の抑うつ症状は、主に既存の抑うつ症状によって説明される</title>
     <link>https://osf.io/thmyq</link>
     <guid isPermaLink="false">https://osf.io/thmyq#ja</guid>
     <pubDate>Sat, 28 Mar 2026 17:47:23 +0000</pubDate>
@@ -104,7 +104,7 @@
     <description>Social media and smartphone use are associated with blunted striatal reward response in early adolescence</description>
   </item>
   <item>
-    <title>身体マッピング、身体化、およびVR環境における聴覚幻覚の実験的シミュレーションに対する情動反応</title>
+    <title>身体地図化、身体化、およびVR環境における聴覚幻覚の実験的シミュレーションに対する情動反応</title>
     <link>https://osf.io/nszgk</link>
     <guid isPermaLink="false">https://osf.io/nszgk#ja</guid>
     <pubDate>Fri, 27 Mar 2026 15:10:21 +0000</pubDate>
@@ -125,14 +125,14 @@
     <description>‘Coming out’ to public servants has uneven consequences across identities and countries</description>
   </item>
   <item>
-    <title>同じサイコパシー特性について議論しているのか？大規模言語モデルを用いたサイコパシー尺度間の意味的類似性のマッピング</title>
+    <title>同一のサイコパシー特性を議論しているのか？大規模言語モデルを用いたサイコパシースケール間の意味的類似性のマッピング</title>
     <link>https://osf.io/e2sr7</link>
     <guid isPermaLink="false">https://osf.io/e2sr7#ja</guid>
     <pubDate>Fri, 27 Mar 2026 14:15:56 +0000</pubDate>
     <description>Are we talking about the same psychopathic traits? Mapping semantic similarity across psychopathy scales using large language models</description>
   </item>
   <item>
-    <title>時系列データにおける水準およびトレンドの非定常性検出のための再帰的分割法</title>
+    <title>時系列データにおける水準および傾向の非定常性検出のための再帰的分割法</title>
     <link>https://osf.io/asv5f</link>
     <guid isPermaLink="false">https://osf.io/asv5f#ja</guid>
     <pubDate>Fri, 27 Mar 2026 09:32:41 +0000</pubDate>
@@ -146,14 +146,14 @@
     <description>Working memory constraints on replanning following distraction</description>
   </item>
   <item>
-    <title>刺激の検出行為が意識経験の測定に意思決定バイアスをもたらす影響</title>
+    <title>刺激の検出行為が意識経験の測定に意思決定バイアスをもたらす</title>
     <link>https://osf.io/yqa32</link>
     <guid isPermaLink="false">https://osf.io/yqa32#ja</guid>
     <pubDate>Thu, 26 Mar 2026 21:17:59 +0000</pubDate>
     <description>The act of detecting a stimulus contaminates measures of conscious experience with decision biases</description>
   </item>
   <item>
-    <title>イタリアの大学生における学生用ユトレヒト・ワーク・エンゲージメント尺度－9項目版（UWES-S-9）の心理計量特性：因子妥当性、測定不変性および収束妥当性の検討</title>
+    <title>イタリアの大学生における学生用ユトレヒト・ワーク・エンゲージメント尺度－9項目版（UWES-S-9）の心理計量特性：因子妥当性、測定不変性および収束的妥当性の検討</title>
     <link>https://osf.io/y73cm</link>
     <guid isPermaLink="false">https://osf.io/y73cm#ja</guid>
     <pubDate>Thu, 26 Mar 2026 20:48:27 +0000</pubDate>
@@ -174,7 +174,7 @@
     <description>Tracking Attribute Mastery Change among Individuals: Longitudinal Diagnostic Classification Models with Random Intercepts</description>
   </item>
   <item>
-    <title>真の男性はジングル・ジャングル誤謬を犯さないのか、それとも犯すのか？古典的男性性、有害男性性、そして有害な男性性のノモロジカルネットワークの比較</title>
+    <title>真の男性はジングル・ジャングル誤謬を犯さないのか、それとも犯すのか？古典的男性性、有害男性性、毒性男性性のノモロジカルネットワークの比較</title>
     <link>https://osf.io/yx7at</link>
     <guid isPermaLink="false">https://osf.io/yx7at#ja</guid>
     <pubDate>Wed, 25 Mar 2026 22:51:29 +0000</pubDate>
@@ -195,21 +195,21 @@
     <description>Movement-related differences in infants with high and low likelihood of autism: A longitudinal study using automated kinematic tracking</description>
   </item>
   <item>
-    <title>届かないものへの挑戦：発達通常児における手動作の高次計画能力の発達</title>
+    <title>届かないものへの手の届きと把握を超えて：発達通常児における高次計画能力の発達</title>
     <link>https://osf.io/vt8cj</link>
     <guid isPermaLink="false">https://osf.io/vt8cj#ja</guid>
     <pubDate>Wed, 25 Mar 2026 22:51:28 +0000</pubDate>
     <description>Beyond Reach and Grasp: The Development of High-Order Planning for Manual Actions in Typically Developing Children</description>
   </item>
   <item>
-    <title>自己生成の知覚履歴を超えて：他者の先行知覚判断が自己の知覚判断に及ぼす影響</title>
+    <title>自己生成された知覚履歴を超えて：他者の先行知覚判断が自己の知覚判断に及ぼす影響</title>
     <link>https://osf.io/mracw</link>
     <guid isPermaLink="false">https://osf.io/mracw#ja</guid>
     <pubDate>Wed, 25 Mar 2026 22:51:28 +0000</pubDate>
     <description>Beyond self-generated perceptual history: Other’s prior perceptual decisions bias one’s own perceptual decision</description>
   </item>
   <item>
-    <title>不安が母親と早産児の感情的顔および声の処理に与える影響：周波数タグ付けEEG研究</title>
+    <title>不安が母親と早産児の感情的顔表情および音声処理に及ぼす影響：周波数タグ付けEEG研究</title>
     <link>https://osf.io/drfu6</link>
     <guid isPermaLink="false">https://osf.io/drfu6#ja</guid>
     <pubDate>Wed, 25 Mar 2026 22:51:28 +0000</pubDate>
@@ -237,7 +237,7 @@
     <description>The broken brain? Prevalence and consequences of brain framing of mental disorders</description>
   </item>
   <item>
-    <title>ジョージア州における発達性言語障害児の特定と支援に関する障壁と促進要因：統合的実施研究フレームワークに基づく質的研究</title>
+    <title>ジョージア州における発達性言語障害児の特定と支援における障壁と促進要因：統合的実施研究フレームワークに基づく質的研究</title>
     <link>https://osf.io/dctm7</link>
     <guid isPermaLink="false">https://osf.io/dctm7#ja</guid>
     <pubDate>Wed, 25 Mar 2026 21:30:19 +0000</pubDate>
@@ -265,42 +265,42 @@
     <description>The Relational Amplifier: How Anthropomorphism of Generative AI Backfires for Distressed Users</description>
   </item>
   <item>
-    <title>食事中の画面使用が感情に及ぼす影響：映像の感情価値の調整効果に関する実験室実験</title>
+    <title>食事中の画面使用が感情に及ぼす影響：映像の感情価の調整効果に関する実験室実験</title>
     <link>https://osf.io/7sgxq</link>
     <guid isPermaLink="false">https://osf.io/7sgxq#ja</guid>
     <pubDate>Wed, 25 Mar 2026 21:30:18 +0000</pubDate>
     <description>The effect of screen use while eating on emotions: A lab-based experimental study on the moderating role of emotional valence of videos</description>
   </item>
   <item>
-    <title>アルゴリズム構造化曝露：ソーシャルメディアにおける青少年のコンテンツタイプ別感情体験</title>
+    <title>アルゴリズム構造化曝露：ソーシャルメディアにおける青少年のコンテンツタイプ別情動体験</title>
     <link>https://osf.io/ye869</link>
     <guid isPermaLink="false">https://osf.io/ye869#ja</guid>
     <pubDate>Wed, 25 Mar 2026 21:30:18 +0000</pubDate>
     <description>Algorithmically structured exposure: Adolescents’ emotional experiences of content types on social media</description>
   </item>
   <item>
-    <title>成人期を通じた職業的興味の生活成果予測妥当性</title>
+    <title>成人期を通じた職業的興味の人生結果予測妥当性</title>
     <link>https://osf.io/b5y6r</link>
     <guid isPermaLink="false">https://osf.io/b5y6r#ja</guid>
     <pubDate>Wed, 25 Mar 2026 21:30:17 +0000</pubDate>
     <description>The Predictive Validity of Vocational Interests for Life Outcomes Across Adulthood</description>
   </item>
   <item>
-    <title>既知の未知：現職教員のメタ認知感受性と効率性の探究</title>
+    <title>既知の未知：現職教員のメタ認知的感受性と効率性の探究</title>
     <link>https://osf.io/49ynr</link>
     <guid isPermaLink="false">https://osf.io/49ynr#ja</guid>
     <pubDate>Wed, 25 Mar 2026 21:30:17 +0000</pubDate>
     <description>Known unknowns: Exploring In-Service Teachers’ Metacognitive Sensitivity and Efficiency</description>
   </item>
   <item>
-    <title>ジェンダーについて語る：48言語における言語の性別性と性格の性差との関連性</title>
+    <title>ジェンダーについて語る：48言語における言語の性別化と言語別性格差との関連性</title>
     <link>https://osf.io/r8tx6</link>
     <guid isPermaLink="false">https://osf.io/r8tx6#ja</guid>
     <pubDate>Wed, 25 Mar 2026 21:30:17 +0000</pubDate>
     <description>Speaking of gender: Language genderedness and its association with gender differences in personality across 48 languages</description>
   </item>
   <item>
-    <title>EMOTEデータベース：日常の感情過程をマッピングする体験サンプリングデータのオープン検索可能データベース</title>
+    <title>EMOTEデータベース：日常の感情プロセスをマッピングする体験サンプリングデータのオープン検索可能データベース</title>
     <link>https://osf.io/h7kxd</link>
     <guid isPermaLink="false">https://osf.io/h7kxd#ja</guid>
     <pubDate>Wed, 25 Mar 2026 21:30:17 +0000</pubDate>
@@ -314,7 +314,7 @@
     <description>Task-ordering across domains: Hard-first preferences emerge through learning</description>
   </item>
   <item>
-    <title>青年期の愛着問題のスクリーニング：自己報告および親報告による青年期愛着不安・回避尺度の心理測定学的検証</title>
+    <title>青年期の愛着問題のスクリーニング：自己報告および親報告による青年期愛着不安・回避尺度の心理計量学的検証</title>
     <link>https://osf.io/k6jeh</link>
     <guid isPermaLink="false">https://osf.io/k6jeh#ja</guid>
     <pubDate>Tue, 24 Mar 2026 23:48:18 +0000</pubDate>
@@ -342,7 +342,7 @@
     <description>Self-Attributed Innateness Beliefs Moderate the Heritability of Psychological Traits</description>
   </item>
   <item>
-    <title>常識外れ効果：論理的推論の心的基盤としての過小特定に関する実験的証拠</title>
+    <title>非常識効果：論理的推論の心的基盤としての過小特定に関する実験的証拠</title>
     <link>https://osf.io/yecmg</link>
     <guid isPermaLink="false">https://osf.io/yecmg#ja</guid>
     <pubDate>Tue, 24 Mar 2026 23:48:17 +0000</pubDate>
