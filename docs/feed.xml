@@ -6,7 +6,21 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>古典的ヒューリスティクスとバイアスにおける性格的直感的思考と熟慮的思考の役割</title>
+    <title>知覚学習が方位および表情認知における連続依存効果に及ぼす影響</title>
+    <link>https://osf.io/p9yfu</link>
+    <guid isPermaLink="false">https://osf.io/p9yfu#ja</guid>
+    <pubDate>Sun, 29 Mar 2026 16:17:40 +0000</pubDate>
+    <description>Perceptual learning modifies serial dependence effects in orientation and facial expression perception</description>
+  </item>
+  <item>
+    <title>児童期および青年期における外在化問題と内在化問題の性差</title>
+    <link>https://osf.io/4rsjf</link>
+    <guid isPermaLink="false">https://osf.io/4rsjf#ja</guid>
+    <pubDate>Sun, 29 Mar 2026 16:17:40 +0000</pubDate>
+    <description>Gender differences in externalizing and internalizing problems across childhood and adolescence</description>
+  </item>
+  <item>
+    <title>古典的ヒューリスティックスとバイアスにおける性格的直感的思考と熟慮的思考の役割</title>
     <link>https://osf.io/v4uwg</link>
     <guid isPermaLink="false">https://osf.io/v4uwg#ja</guid>
     <pubDate>Sun, 29 Mar 2026 11:22:07 +0000</pubDate>
@@ -34,28 +48,28 @@
     <description>Shuffle: A Tool for Generating Quasi-Randomised Stimulus Lists with Sequential Constraints</description>
   </item>
   <item>
-    <title>階級と避難所：文化が社会的地位の脅威を通じてファーストレスポンダーの助け求め行動と不適応的対処に与える影響</title>
+    <title>階層と避難所：文化が社会的地位への脅威を通じてファーストレスポンダーの助け求め行動と不適応的対処に与える影響</title>
     <link>https://osf.io/x372f</link>
     <guid isPermaLink="false">https://osf.io/x372f#ja</guid>
     <pubDate>Sat, 28 Mar 2026 17:47:24 +0000</pubDate>
     <description>Rank and Refuge: How Culture Shapes First Responder Help-Seeking and Maladaptive Coping Through Threats to Social Standing</description>
   </item>
   <item>
-    <title>情報理論は基本レベルカテゴリーに先立ち上位概念が出現することを予測する</title>
+    <title>情報理論は上位概念が基本レベルのカテゴリーより先に出現することを予測する</title>
     <link>https://osf.io/45ht9</link>
     <guid isPermaLink="false">https://osf.io/45ht9#ja</guid>
     <pubDate>Sat, 28 Mar 2026 17:47:24 +0000</pubDate>
     <description>Information theory predicts that superordinates emerge before basic-level categories</description>
   </item>
   <item>
-    <title>聴覚障害者の視覚的単語認識：EEG-FPVSを用いた検討</title>
+    <title>聴覚障害者の視覚的単語認識：脳波FPVS法による検討</title>
     <link>https://osf.io/87xwq</link>
     <guid isPermaLink="false">https://osf.io/87xwq#ja</guid>
     <pubDate>Sat, 28 Mar 2026 17:47:24 +0000</pubDate>
     <description>Visual word recognition in deaf signers: an EEG-FPVS investigation.</description>
   </item>
   <item>
-    <title>事後の賢明さは心的枠組みに依存する：後知恵バイアス効果における構成レベルが再構成に与える影響</title>
+    <title>事後の賢明さは心的枠組みに依存する：後知恵バイアス効果における解釈レベルが再構成に与える影響</title>
     <link>https://osf.io/h2zrx</link>
     <guid isPermaLink="false">https://osf.io/h2zrx#ja</guid>
     <pubDate>Sat, 28 Mar 2026 17:47:24 +0000</pubDate>
@@ -76,14 +90,14 @@
     <description>Depressive symptoms after incident cardiovascular disease are largely explained by pre-existing symptoms in middle-aged and older adults</description>
   </item>
   <item>
-    <title>外向性に対する好意の心理：知覚者のニーズと対象の外見が印象形成に及ぼす相互作用の検証</title>
+    <title>外向性に対する好意：知覚者のニーズと対象の外見が印象形成に及ぼす相互作用の検証</title>
     <link>https://osf.io/aehp8</link>
     <guid isPermaLink="false">https://osf.io/aehp8#ja</guid>
     <pubDate>Fri, 27 Mar 2026 15:10:22 +0000</pubDate>
     <description>Who likes extraverts? Testing the interplay between perceiver needs and target appearance in impression formation</description>
   </item>
   <item>
-    <title>ソーシャルメディアおよびスマートフォン使用が思春期初期における線条体の報酬反応鈍化と関連する研究</title>
+    <title>ソーシャルメディアおよびスマートフォン使用が思春期初期における線条体の報酬反応鈍化と関連すること</title>
     <link>https://osf.io/g8nbr</link>
     <guid isPermaLink="false">https://osf.io/g8nbr#ja</guid>
     <pubDate>Fri, 27 Mar 2026 15:10:21 +0000</pubDate>
@@ -111,7 +125,7 @@
     <description>‘Coming out’ to public servants has uneven consequences across identities and countries</description>
   </item>
   <item>
-    <title>同じサイコパシー特性について議論しているのか？大規模言語モデルを用いたサイコパシースケール間の意味的類似性のマッピング</title>
+    <title>同じサイコパシー特性について議論しているのか？大規模言語モデルを用いたサイコパシー尺度間の意味的類似性のマッピング</title>
     <link>https://osf.io/e2sr7</link>
     <guid isPermaLink="false">https://osf.io/e2sr7#ja</guid>
     <pubDate>Fri, 27 Mar 2026 14:15:56 +0000</pubDate>
@@ -132,14 +146,14 @@
     <description>Working memory constraints on replanning following distraction</description>
   </item>
   <item>
-    <title>刺激の検出行為が意識経験の測定に意思決定バイアスをもたらす</title>
+    <title>刺激の検出行為が意識経験の測定に意思決定バイアスをもたらす影響</title>
     <link>https://osf.io/yqa32</link>
     <guid isPermaLink="false">https://osf.io/yqa32#ja</guid>
     <pubDate>Thu, 26 Mar 2026 21:17:59 +0000</pubDate>
     <description>The act of detecting a stimulus contaminates measures of conscious experience with decision biases</description>
   </item>
   <item>
-    <title>イタリアの大学生における学生用ユトレヒト・ワーク・エンゲージメント尺度－9項目版（UWES-S-9）の心理計測特性：因子妥当性、測定不変性および収束的妥当性の検討</title>
+    <title>イタリアの大学生における学生用ユトレヒト・ワーク・エンゲージメント尺度－9項目版（UWES-S-9）の心理計量特性：因子妥当性、測定不変性および収束妥当性の検討</title>
     <link>https://osf.io/y73cm</link>
     <guid isPermaLink="false">https://osf.io/y73cm#ja</guid>
     <pubDate>Thu, 26 Mar 2026 20:48:27 +0000</pubDate>
@@ -167,21 +181,21 @@
     <description>Real Men Don’t Commit Jingle-Jangle Fallacies, or do They? Comparing the Nomological Networks of Classical, Toxic, and Harmful Masculinity</description>
   </item>
   <item>
-    <title>子どもの部分と全体の数量化における語用的文脈の役割</title>
+    <title>子どもの部分と全体の数量化における語用論的文脈の役割</title>
     <link>https://osf.io/cbq8j</link>
     <guid isPermaLink="false">https://osf.io/cbq8j#ja</guid>
     <pubDate>Wed, 25 Mar 2026 22:51:28 +0000</pubDate>
     <description>The role of pragmatic context in children’s quantification of parts and wholes</description>
   </item>
   <item>
-    <title>自閉症発症リスクの高低による乳児の運動関連差異：自動運動解析を用いた縦断研究</title>
+    <title>自閉症発症リスクの高低による乳児の運動関連差異：自動運動解析を用いた縦断的研究</title>
     <link>https://osf.io/e3mx7</link>
     <guid isPermaLink="false">https://osf.io/e3mx7#ja</guid>
     <pubDate>Wed, 25 Mar 2026 22:51:28 +0000</pubDate>
     <description>Movement-related differences in infants with high and low likelihood of autism: A longitudinal study using automated kinematic tracking</description>
   </item>
   <item>
-    <title>届かないものへの手の届き方：発達通常児における手作業の高次計画能力の発達</title>
+    <title>届かないものへの挑戦：発達通常児における手動作の高次計画能力の発達</title>
     <link>https://osf.io/vt8cj</link>
     <guid isPermaLink="false">https://osf.io/vt8cj#ja</guid>
     <pubDate>Wed, 25 Mar 2026 22:51:28 +0000</pubDate>
@@ -237,7 +251,7 @@
     <description>Education as the lighting of a fire: Personal connection strikes the match</description>
   </item>
   <item>
-    <title>ワニの涙のいつ、誰が、なぜ、どのように：操作的な泣き行動は特定の状況、特性、動機、および表出行動と関連する</title>
+    <title>ワニの涙のいつ、誰が、なぜ、どのように：操作的な泣きが特定の状況、特性、動機、および表出行動と関連する</title>
     <link>https://osf.io/k8daw</link>
     <guid isPermaLink="false">https://osf.io/k8daw#ja</guid>
     <pubDate>Wed, 25 Mar 2026 21:30:18 +0000</pubDate>
@@ -251,7 +265,7 @@
     <description>The Relational Amplifier: How Anthropomorphism of Generative AI Backfires for Distressed Users</description>
   </item>
   <item>
-    <title>食事中の画面使用が感情に及ぼす影響：映像の感情価が調整役を果たす実験室内実験研究</title>
+    <title>食事中の画面使用が感情に及ぼす影響：映像の感情価値の調整効果に関する実験室実験</title>
     <link>https://osf.io/7sgxq</link>
     <guid isPermaLink="false">https://osf.io/7sgxq#ja</guid>
     <pubDate>Wed, 25 Mar 2026 21:30:18 +0000</pubDate>
@@ -265,28 +279,28 @@
     <description>Algorithmically structured exposure: Adolescents’ emotional experiences of content types on social media</description>
   </item>
   <item>
-    <title>成人期を通じた職業的興味の生活結果予測妥当性</title>
+    <title>成人期を通じた職業的興味の生活成果予測妥当性</title>
     <link>https://osf.io/b5y6r</link>
     <guid isPermaLink="false">https://osf.io/b5y6r#ja</guid>
     <pubDate>Wed, 25 Mar 2026 21:30:17 +0000</pubDate>
     <description>The Predictive Validity of Vocational Interests for Life Outcomes Across Adulthood</description>
   </item>
   <item>
-    <title>既知の未知：現職教員のメタ認知的感受性と効率性の探究</title>
+    <title>既知の未知：現職教員のメタ認知感受性と効率性の探究</title>
     <link>https://osf.io/49ynr</link>
     <guid isPermaLink="false">https://osf.io/49ynr#ja</guid>
     <pubDate>Wed, 25 Mar 2026 21:30:17 +0000</pubDate>
     <description>Known unknowns: Exploring In-Service Teachers’ Metacognitive Sensitivity and Efficiency</description>
   </item>
   <item>
-    <title>ジェンダーについて語る：48言語における言語の性別化と言語性別性と人格の性差との関連性</title>
+    <title>ジェンダーについて語る：48言語における言語の性別性と性格の性差との関連性</title>
     <link>https://osf.io/r8tx6</link>
     <guid isPermaLink="false">https://osf.io/r8tx6#ja</guid>
     <pubDate>Wed, 25 Mar 2026 21:30:17 +0000</pubDate>
     <description>Speaking of gender: Language genderedness and its association with gender differences in personality across 48 languages</description>
   </item>
   <item>
-    <title>EMOTEデータベース：日常の感情プロセスをマッピングする体験サンプリングデータのオープン検索可能データベース</title>
+    <title>EMOTEデータベース：日常の感情過程をマッピングする体験サンプリングデータのオープン検索可能データベース</title>
     <link>https://osf.io/h7kxd</link>
     <guid isPermaLink="false">https://osf.io/h7kxd#ja</guid>
     <pubDate>Wed, 25 Mar 2026 21:30:17 +0000</pubDate>
@@ -307,28 +321,28 @@
     <description>Screening Attachment Problems in Youth: Psychometric Validation of the Self- and Parent-Report Adolescent Attachment Anxiety and Avoidance Inventory</description>
   </item>
   <item>
-    <title>切断戦略は幸福感と生産性を向上させるか？1か月間の2波パネル調査</title>
+    <title>切断戦略はウェルビーイングと生産性を向上させるか？1か月間の二波パネル調査</title>
     <link>https://osf.io/27n3w</link>
     <guid isPermaLink="false">https://osf.io/27n3w#ja</guid>
     <pubDate>Tue, 24 Mar 2026 23:48:18 +0000</pubDate>
     <description>Do Disconnection Strategies Improve Well-Being and Productivity? A Two-Wave Panel Study Over One Month</description>
   </item>
   <item>
-    <title>車椅子スポーツグループにおける身体活動参加：身体障害者の個人特性およびクラブ関連特性の重要性に関する多層ロジスティック回帰分析</title>
+    <title>車椅子スポーツグループにおける身体活動参加：身体障害者の個人特性およびクラブ関連特性の重要性―多層ロジスティック回帰分析による検討</title>
     <link>https://osf.io/b85yd</link>
     <guid isPermaLink="false">https://osf.io/b85yd#ja</guid>
     <pubDate>Tue, 24 Mar 2026 23:48:18 +0000</pubDate>
     <description>Physical activity participation in wheelchair sports groups: The importance of individual and club related characteristics among individuals with physical disabilities. A multilevel logistic regression analysis.</description>
   </item>
   <item>
-    <title>自己帰属された生得的信念は心理特性の遺伝率に及ぼす調整効果</title>
+    <title>自己帰属された先天性信念は心理特性の遺伝率を調節する</title>
     <link>https://osf.io/q6ths</link>
     <guid isPermaLink="false">https://osf.io/q6ths#ja</guid>
     <pubDate>Tue, 24 Mar 2026 23:48:17 +0000</pubDate>
     <description>Self-Attributed Innateness Beliefs Moderate the Heritability of Psychological Traits</description>
   </item>
   <item>
-    <title>非常識効果：論理的推論の心的基盤としての過小特定に関する実験的証拠</title>
+    <title>常識外れ効果：論理的推論の心的基盤としての過小特定に関する実験的証拠</title>
     <link>https://osf.io/yecmg</link>
     <guid isPermaLink="false">https://osf.io/yecmg#ja</guid>
     <pubDate>Tue, 24 Mar 2026 23:48:17 +0000</pubDate>
@@ -340,20 +354,6 @@
     <guid isPermaLink="false">https://osf.io/p574z#ja</guid>
     <pubDate>Tue, 24 Mar 2026 23:48:17 +0000</pubDate>
     <description>A single perceptual comparison is sufficient, but not necessary, to induce lasting memory distortion</description>
-  </item>
-  <item>
-    <title>州全体の早期介入システムを活用した自閉症評価待機時間の短縮</title>
-    <link>https://osf.io/gtn8j</link>
-    <guid isPermaLink="false">https://osf.io/gtn8j#ja</guid>
-    <pubDate>Tue, 24 Mar 2026 23:48:16 +0000</pubDate>
-    <description>Leveraging a Statewide Early Intervention System to Reduce Autism Evaluation Wait Times</description>
-  </item>
-  <item>
-    <title>AutoPsychDx：多方法分類を用いた自動心理計測診断のための大規模言語モデルエージェントフレームワーク</title>
-    <link>https://osf.io/6fw74</link>
-    <guid isPermaLink="false">https://osf.io/6fw74#ja</guid>
-    <pubDate>Tue, 24 Mar 2026 23:48:16 +0000</pubDate>
-    <description>AutoPsychDx: An LLM Agent Framework for Automated Psychometric Diagnosis Using Multi-Method Classification</description>
   </item>
 </channel>
 </rss>
