@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>利益か障害か？AI駆動の説明的フィードバックからの学習における構造化された内省の影響評価</title>
+    <title>利益か障害か？AI駆動の説明的フィードバックからの学習における構造化された省察の影響評価</title>
     <link>https://osf.io/p3m2k</link>
     <guid isPermaLink="false">https://osf.io/p3m2k#ja</guid>
     <pubDate>Wed, 01 Apr 2026 22:28:54 +0000</pubDate>
@@ -34,21 +34,21 @@
     <description>Particulate Matter (PM₁₀) and Life Satisfaction: Links Across and Within Twin Pairs</description>
   </item>
   <item>
-    <title>害の二重性：サブクリニカル集団における自己傷害と他者傷害の共起およびリスク要因</title>
+    <title>害の二重性：サブクリニカル集団における自己指向的害行動と他者指向的害行動の共起およびリスク要因</title>
     <link>https://osf.io/szv6u</link>
     <guid isPermaLink="false">https://osf.io/szv6u#ja</guid>
     <pubDate>Wed, 01 Apr 2026 21:07:28 +0000</pubDate>
     <description>The Duality of Harm: The Co-occurrence and Risk Factors of Self-directed and Other-directed Harm in a Subclinical Sample</description>
   </item>
   <item>
-    <title>起業における生成AIの活用：統合的レビューとエンパワーメント・エントラップメントフレームワーク</title>
+    <title>起業における生成型AIの活用：統合的レビューとエンパワーメント–エントラップメント枠組み</title>
     <link>https://osf.io/nqt82</link>
     <guid isPermaLink="false">https://osf.io/nqt82#ja</guid>
     <pubDate>Wed, 01 Apr 2026 20:27:14 +0000</pubDate>
     <description>Generative AI Use in Entrepreneurship: An Integrative Review and an Empowerment–Entrapment Framework</description>
   </item>
   <item>
-    <title>認知的不協和を活用したソーシャルメディア多用者の健康的な食行動態度促進：学習性無力感の調整効果</title>
+    <title>認知的不協和を活用した重度ソーシャルメディア利用者の健康的な食行動態度促進：学習性無力感の調整効果</title>
     <link>https://osf.io/txeqz</link>
     <guid isPermaLink="false">https://osf.io/txeqz#ja</guid>
     <pubDate>Wed, 01 Apr 2026 20:27:14 +0000</pubDate>
@@ -104,7 +104,7 @@
     <description>The Cost of “What Might Have Been”: False Memories for Counterfactual Actions</description>
   </item>
   <item>
-    <title>並行過程としての評価動態と心理学における手段およびメカニズム測定の意義</title>
+    <title>連動する過程としての評価動態：心理学における手段とメカニズムの測定における意義</title>
     <link>https://osf.io/jtgw4</link>
     <guid isPermaLink="false">https://osf.io/jtgw4#ja</guid>
     <pubDate>Mon, 30 Mar 2026 21:00:39 +0000</pubDate>
@@ -118,7 +118,7 @@
     <description>Strong alliance, weak conclusions: Comment on Goodwin et al. (2026) “The role of therapeutic alliance in psilocybin treatment for treatment-resistant depression”</description>
   </item>
   <item>
-    <title>テレワーク、精神的負荷および認知されたパフォーマンス：性別と企業規模の相互作用効果</title>
+    <title>テレワーク、精神的負担および認知されたパフォーマンス：性別と企業規模の相互作用効果</title>
     <link>https://osf.io/8c5ue</link>
     <guid isPermaLink="false">https://osf.io/8c5ue#ja</guid>
     <pubDate>Mon, 30 Mar 2026 21:00:38 +0000</pubDate>
@@ -188,14 +188,14 @@
     <description>Well-being as a political asset: Public acceptance of post-growth policies and its association with basic need satisfaction</description>
   </item>
   <item>
-    <title>道徳的訴求の説得効果に関する実験研究の系統的レビュー</title>
+    <title>道徳的訴求の説得効果に関する実験研究の体系的レビュー</title>
     <link>https://osf.io/jkh6n</link>
     <guid isPermaLink="false">https://osf.io/jkh6n#ja</guid>
     <pubDate>Mon, 30 Mar 2026 11:41:35 +0000</pubDate>
     <description>Framing Morality: A Systematic Review of Experimental Research on the Persuasive Effects of Moral Appeals</description>
   </item>
   <item>
-    <title>疑念のハビトゥス？心理的支援に関する陰謀信念形成における社会階級ナルシシズムの役割</title>
+    <title>疑念のハビトゥス？心理的支援に関する陰謀論信念形成における社会階級ナルシシズムの役割</title>
     <link>https://osf.io/z9k6j</link>
     <guid isPermaLink="false">https://osf.io/z9k6j#ja</guid>
     <pubDate>Mon, 30 Mar 2026 11:41:35 +0000</pubDate>
@@ -209,7 +209,7 @@
     <description>How short-term memory supports number processing</description>
   </item>
   <item>
-    <title>青年期および成人期における構造的および順位安定性の証拠：HEXACOおよびビッグファイブモデルに解離性を補完する検討</title>
+    <title>HEXACOおよびビッグファイブモデルに解離性を補完する：思春期から成人期にかけての構造的および順位安定性の証拠</title>
     <link>https://osf.io/nj8ga</link>
     <guid isPermaLink="false">https://osf.io/nj8ga#ja</guid>
     <pubDate>Mon, 30 Mar 2026 11:41:34 +0000</pubDate>
@@ -265,7 +265,7 @@
     <description>Standardizing Predictors for Computing Effect Sizes in Multilevel Modeling with Random Slopes</description>
   </item>
   <item>
-    <title>予測が事象ベースのエピソード記憶の構造形成に与える影響</title>
+    <title>予測が事象ベースのエピソード記憶の構造化に与える影響</title>
     <link>https://osf.io/68wkj</link>
     <guid isPermaLink="false">https://osf.io/68wkj#ja</guid>
     <pubDate>Sat, 28 Mar 2026 18:57:34 +0000</pubDate>
@@ -293,14 +293,14 @@
     <description>Information theory predicts that superordinates emerge before basic-level categories</description>
   </item>
   <item>
-    <title>聴覚障害者の視覚的単語認識：脳波FPVS法による検討</title>
+    <title>聴覚障害者の視覚的単語認識：脳波周波数可変刺激法（EEG-FPVS）による検討</title>
     <link>https://osf.io/87xwq</link>
     <guid isPermaLink="false">https://osf.io/87xwq#ja</guid>
     <pubDate>Sat, 28 Mar 2026 17:47:24 +0000</pubDate>
     <description>Visual word recognition in deaf signers: an EEG-FPVS investigation.</description>
   </item>
   <item>
-    <title>事後の賢明さは心的枠組みに依存する：後知恵バイアス効果における構成レベルが再構成に与える影響</title>
+    <title>事後の賢明さは心的枠組みに依存する：後知恵バイアス効果における解釈レベルが再構成に与える影響</title>
     <link>https://osf.io/h2zrx</link>
     <guid isPermaLink="false">https://osf.io/h2zrx#ja</guid>
     <pubDate>Sat, 28 Mar 2026 17:47:24 +0000</pubDate>
@@ -314,7 +314,7 @@
     <description>‘I&#x27;ve always been unable to really communicate the extent to which I feel like I know what&#x27;s going on with my pain’: Investigating Autistic Adults Communication of Pain to Healthcare Professionals</description>
   </item>
   <item>
-    <title>心血管疾患発症後の抑うつ症状は中高年成人における既存の症状によって主に説明される</title>
+    <title>中高年成人における心血管疾患発症後の抑うつ症状は、主に既存の抑うつ症状によって説明される</title>
     <link>https://osf.io/thmyq</link>
     <guid isPermaLink="false">https://osf.io/thmyq#ja</guid>
     <pubDate>Sat, 28 Mar 2026 17:47:23 +0000</pubDate>
@@ -335,21 +335,21 @@
     <description>Social media and smartphone use are associated with blunted striatal reward response in early adolescence</description>
   </item>
   <item>
-    <title>身体地図化、身体化およびVR環境における聴覚幻覚の実験的シミュレーションに対する情動反応</title>
+    <title>身体マッピング、身体化、およびVR環境における聴覚幻覚の実験的シミュレーションに対する情動反応</title>
     <link>https://osf.io/nszgk</link>
     <guid isPermaLink="false">https://osf.io/nszgk#ja</guid>
     <pubDate>Fri, 27 Mar 2026 15:10:21 +0000</pubDate>
     <description>Body mapping, embodiment and emotional responses to an experimental simulation of auditory hallucinations in a VR environment</description>
   </item>
   <item>
-    <title>AIポッドキャストにおける誤情報：能動的予防接種と受動的予防接種の比較検証</title>
+    <title>AIポッドキャストにおける誤情報：能動的免疫化と受動的免疫化の比較検証</title>
     <link>https://osf.io/5zjm8</link>
     <guid isPermaLink="false">https://osf.io/5zjm8#ja</guid>
     <pubDate>Fri, 27 Mar 2026 14:15:57 +0000</pubDate>
     <description>AI-Podcast Misinformation: Testing Active versus Passive Inoculations</description>
   </item>
   <item>
-    <title>公務員へのカミングアウトがアイデンティティと国によって異なる影響をもたらす</title>
+    <title>公務員へのカミングアウトがアイデンティティおよび国によって異なる影響をもたらす</title>
     <link>https://osf.io/yp5jx</link>
     <guid isPermaLink="false">https://osf.io/yp5jx#ja</guid>
     <pubDate>Fri, 27 Mar 2026 14:15:57 +0000</pubDate>
