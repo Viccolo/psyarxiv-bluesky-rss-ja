@@ -6,28 +6,28 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>標準化テストによる学業成績の再検査効果および平均水準の発達に関する縦断的メタアナリシス</title>
+    <title>標準化テストによる学業成績の再検査効果および平均水準の発達に関する縦断的メタ分析</title>
     <link>https://osf.io/ysxdw</link>
     <guid isPermaLink="false">https://osf.io/ysxdw#ja</guid>
     <pubDate>Fri, 03 Apr 2026 19:51:39 +0000</pubDate>
     <description>Longitudinal Meta-Analyses of Retest Effects and Mean-Level Development of School Achievement as Assessed by Standardized Tests</description>
   </item>
   <item>
-    <title>フランスの自閉症成人における印象操作と関連する自閉症特徴における性別および性差の解明</title>
+    <title>フランス人自閉症成人における印象操作および関連する自閉症特徴における性別およびジェンダー差の解明</title>
     <link>https://osf.io/ervmj</link>
     <guid isPermaLink="false">https://osf.io/ervmj#ja</guid>
     <pubDate>Thu, 02 Apr 2026 19:31:52 +0000</pubDate>
     <description>Untangling sex and gender differences in impression management and associated autism features in French autistic adults</description>
   </item>
   <item>
-    <title>利益か障害か？AI駆動の説明的フィードバックからの学習における構造化された内省の影響評価</title>
+    <title>利益か障害か？AI駆動の説明的フィードバックからの学習における構造化された省察の影響評価</title>
     <link>https://osf.io/p3m2k</link>
     <guid isPermaLink="false">https://osf.io/p3m2k#ja</guid>
     <pubDate>Wed, 01 Apr 2026 22:28:54 +0000</pubDate>
     <description>Benefit or Bottleneck? Assessing the Impact of Structured Reflection on Learning from AI-Driven Explanatory Feedback</description>
   </item>
   <item>
-    <title>PISAパラドックスの再検討：中国本土における成長マインドセットと学業成績および心理社会的成果の関連性に関する比較メタ分析</title>
+    <title>PISAパラドックスの再検討：中国本土における成長マインドセットと学業成績および心理社会的成果の関連に関する比較メタ分析</title>
     <link>https://osf.io/vt4nf</link>
     <guid isPermaLink="false">https://osf.io/vt4nf#ja</guid>
     <pubDate>Wed, 01 Apr 2026 21:54:57 +0000</pubDate>
@@ -41,7 +41,7 @@
     <description>A Stochastic Delay Differential Equation Model of Multitasking While Driving</description>
   </item>
   <item>
-    <title>粒子状物質（PM₁₀）と生活満足度：双子ペア間およびペア内の関連性</title>
+    <title>微粒子状物質（PM₁₀）と生活満足度：双子ペア間およびペア内の関連性</title>
     <link>https://osf.io/re6pu</link>
     <guid isPermaLink="false">https://osf.io/re6pu#ja</guid>
     <pubDate>Wed, 01 Apr 2026 21:07:28 +0000</pubDate>
@@ -55,14 +55,14 @@
     <description>The Duality of Harm: The Co-occurrence and Risk Factors of Self-directed and Other-directed Harm in a Subclinical Sample</description>
   </item>
   <item>
-    <title>起業活動における生成型AIの活用：統合的レビューとエンパワーメント–エントラップメントフレームワークの提案</title>
+    <title>起業における生成型AIの活用：統合的レビューとエンパワーメント–エントラップメントフレームワーク</title>
     <link>https://osf.io/nqt82</link>
     <guid isPermaLink="false">https://osf.io/nqt82#ja</guid>
     <pubDate>Wed, 01 Apr 2026 20:27:14 +0000</pubDate>
     <description>Generative AI Use in Entrepreneurship: An Integrative Review and an Empowerment–Entrapment Framework</description>
   </item>
   <item>
-    <title>認知的不協和を用いた重度ソーシャルメディア利用者の健康的な食行動態度促進：学習性無力感の調整効果</title>
+    <title>認知的不協和を活用したヘビーユーザーの健康的な食行動促進：学習性無力感の調整効果</title>
     <link>https://osf.io/txeqz</link>
     <guid isPermaLink="false">https://osf.io/txeqz#ja</guid>
     <pubDate>Wed, 01 Apr 2026 20:27:14 +0000</pubDate>
@@ -118,7 +118,7 @@
     <description>The Cost of “What Might Have Been”: False Memories for Counterfactual Actions</description>
   </item>
   <item>
-    <title>並行過程としての評価動態と心理学における手段およびメカニズム測定の意義</title>
+    <title>単独の結果ではなく連動する過程：評価の動態と心理学における手段およびメカニズム測定の意義</title>
     <link>https://osf.io/jtgw4</link>
     <guid isPermaLink="false">https://osf.io/jtgw4#ja</guid>
     <pubDate>Mon, 30 Mar 2026 21:00:39 +0000</pubDate>
@@ -132,7 +132,7 @@
     <description>Strong alliance, weak conclusions: Comment on Goodwin et al. (2026) “The role of therapeutic alliance in psilocybin treatment for treatment-resistant depression”</description>
   </item>
   <item>
-    <title>テレワーク、メンタル負荷および認知されたパフォーマンス：性別と企業規模の相互作用効果</title>
+    <title>テレワーク、精神的負担および自己評価パフォーマンス：性別と企業規模の相互作用効果</title>
     <link>https://osf.io/8c5ue</link>
     <guid isPermaLink="false">https://osf.io/8c5ue#ja</guid>
     <pubDate>Mon, 30 Mar 2026 21:00:38 +0000</pubDate>
@@ -160,7 +160,7 @@
     <description>A Comprehensive Review in Unimodal and Multimodal Emotion Recognition</description>
   </item>
   <item>
-    <title>「彼女だから」：幼児期の遊びにおける性別ステレオタイプと社会的距離感</title>
+    <title>「彼女だから」：幼児期の遊びにおける性別ステレオタイプと社会的距離</title>
     <link>https://osf.io/hw593</link>
     <guid isPermaLink="false">https://osf.io/hw593#ja</guid>
     <pubDate>Mon, 30 Mar 2026 19:37:44 +0000</pubDate>
@@ -181,14 +181,14 @@
     <description>Contagion and escalation of rule violations</description>
   </item>
   <item>
-    <title>一般集団における娯楽薬物使用と精神健康の関係性に関する系統的レビュー：因果関係の検討</title>
+    <title>一般集団における娯楽薬物使用と精神健康の関係性に関する系統的レビュー：鶏と卵の問題</title>
     <link>https://osf.io/fn9u6</link>
     <guid isPermaLink="false">https://osf.io/fn9u6#ja</guid>
     <pubDate>Mon, 30 Mar 2026 19:37:43 +0000</pubDate>
     <description>The chicken and the egg - a systematic review of the relationship between recreational drug use and mental health in the general population</description>
   </item>
   <item>
-    <title>空港内三区域における情動反応：感覚処理感受性との関連性</title>
+    <title>空港内三地域における情動反応：感覚処理感受性との関連性</title>
     <link>https://osf.io/x3yna</link>
     <guid isPermaLink="false">https://osf.io/x3yna#ja</guid>
     <pubDate>Mon, 30 Mar 2026 15:42:25 +0000</pubDate>
@@ -202,7 +202,7 @@
     <description>Well-being as a political asset: Public acceptance of post-growth policies and its association with basic need satisfaction</description>
   </item>
   <item>
-    <title>道徳的訴求のフレーミング：説得効果に関する実験研究の体系的レビュー</title>
+    <title>道徳的訴えの説得効果に関する実験研究の体系的レビュー</title>
     <link>https://osf.io/jkh6n</link>
     <guid isPermaLink="false">https://osf.io/jkh6n#ja</guid>
     <pubDate>Mon, 30 Mar 2026 11:41:35 +0000</pubDate>
@@ -230,14 +230,14 @@
     <description>Complementing HEXACO and Big Five Models with Disintegration: Evidence on Structural and Rank-Order Stability across Adolescence and Adulthood</description>
   </item>
   <item>
-    <title>多変量集中的縦断データを用いた動的心理過程の異質性把握の現行手法</title>
+    <title>多変量集中的縦断データを用いた動的心理過程の異質性把握に関する現行手法</title>
     <link>https://osf.io/nrqjx</link>
     <guid isPermaLink="false">https://osf.io/nrqjx#ja</guid>
     <pubDate>Mon, 30 Mar 2026 11:41:34 +0000</pubDate>
     <description>Current Methods for Capturing Heterogeneity in Dynamic Psychological Processes with Multivariate Intensive Longitudinal Data</description>
   </item>
   <item>
-    <title>刺激としての顔の毛が見知らぬ顔の照合能力を低下させる</title>
+    <title>刺激顔の体毛が未知の顔認識能力に及ぼす影響</title>
     <link>https://osf.io/d74j9</link>
     <guid isPermaLink="false">https://osf.io/d74j9#ja</guid>
     <pubDate>Mon, 30 Mar 2026 11:41:34 +0000</pubDate>
@@ -251,7 +251,7 @@
     <description>The Janus Face of Fixed Mindset: Revisiting the Neglected Self-Concept × Mindset Interaction in Achievement Emotions</description>
   </item>
   <item>
-    <title>知覚学習が方向性および表情認知における連続依存効果に及ぼす影響</title>
+    <title>知覚学習が方位および表情認知における連続依存効果に及ぼす影響</title>
     <link>https://osf.io/p9yfu</link>
     <guid isPermaLink="false">https://osf.io/p9yfu#ja</guid>
     <pubDate>Sun, 29 Mar 2026 16:17:40 +0000</pubDate>
@@ -279,7 +279,7 @@
     <description>Standardizing Predictors for Computing Effect Sizes in Multilevel Modeling with Random Slopes</description>
   </item>
   <item>
-    <title>予測が事象ベースのエピソード記憶の構造形成に与える影響</title>
+    <title>予測が事象ベースのエピソード記憶の構造化に及ぼす影響</title>
     <link>https://osf.io/68wkj</link>
     <guid isPermaLink="false">https://osf.io/68wkj#ja</guid>
     <pubDate>Sat, 28 Mar 2026 18:57:34 +0000</pubDate>
@@ -293,7 +293,7 @@
     <description>Shuffle: A Tool for Generating Quasi-Randomised Stimulus Lists with Sequential Constraints</description>
   </item>
   <item>
-    <title>地位と避難所：文化が社会的地位への脅威を通じてファーストレスポンダーの助け求め行動と不適応的対処に与える影響</title>
+    <title>地位と避難所：文化が社会的地位の脅威を通じてファーストレスポンダーの助け求め行動と不適応的対処に与える影響</title>
     <link>https://osf.io/x372f</link>
     <guid isPermaLink="false">https://osf.io/x372f#ja</guid>
     <pubDate>Sat, 28 Mar 2026 17:47:24 +0000</pubDate>
@@ -314,14 +314,14 @@
     <description>Visual word recognition in deaf signers: an EEG-FPVS investigation.</description>
   </item>
   <item>
-    <title>事後の賢明さは心的枠組みに依存する：後知恵バイアス効果における構成レベルが再構成に与える影響</title>
+    <title>事後の賢明さは心的枠組みに依存する：ハインドサイトバイアス効果における再構成を変容させる構成レベルの役割</title>
     <link>https://osf.io/h2zrx</link>
     <guid isPermaLink="false">https://osf.io/h2zrx#ja</guid>
     <pubDate>Sat, 28 Mar 2026 17:47:24 +0000</pubDate>
     <description>Being Wise After the Event Depends on the Mindset: How Construal Level Modifies Reconstruction in the Hindsight Bias Effect</description>
   </item>
   <item>
-    <title>「痛みに関する自身の認識を十分に伝えられない自覚：自閉症成人の医療従事者への痛みのコミュニケーションに関する検討」</title>
+    <title>「痛みの状況をどれほど理解しているかを十分に伝えられない自覚：自閉症成人の医療従事者への痛みのコミュニケーションに関する検討」</title>
     <link>https://osf.io/6c2t5</link>
     <guid isPermaLink="false">https://osf.io/6c2t5#ja</guid>
     <pubDate>Sat, 28 Mar 2026 17:47:23 +0000</pubDate>
@@ -335,21 +335,21 @@
     <description>Depressive symptoms after incident cardiovascular disease are largely explained by pre-existing symptoms in middle-aged and older adults</description>
   </item>
   <item>
-    <title>外向性に対する好意の要因：知覚者のニーズと対象の外見が印象形成に及ぼす相互作用の検証</title>
+    <title>外向性に対する好意：知覚者のニーズと対象の外見が印象形成に及ぼす相互作用の検証</title>
     <link>https://osf.io/aehp8</link>
     <guid isPermaLink="false">https://osf.io/aehp8#ja</guid>
     <pubDate>Fri, 27 Mar 2026 15:10:22 +0000</pubDate>
     <description>Who likes extraverts? Testing the interplay between perceiver needs and target appearance in impression formation</description>
   </item>
   <item>
-    <title>ソーシャルメディアおよびスマートフォン使用が思春期初期における線条体の報酬反応鈍化と関連すること</title>
+    <title>ソーシャルメディアおよびスマートフォン使用が思春期初期における線条体の報酬反応鈍化と関連する研究</title>
     <link>https://osf.io/g8nbr</link>
     <guid isPermaLink="false">https://osf.io/g8nbr#ja</guid>
     <pubDate>Fri, 27 Mar 2026 15:10:21 +0000</pubDate>
     <description>Social media and smartphone use are associated with blunted striatal reward response in early adolescence</description>
   </item>
   <item>
-    <title>身体マッピング、身体化、およびVR環境における聴覚幻覚の実験的シミュレーションに対する情動反応</title>
+    <title>身体地図化、身体化、およびVR環境における聴覚幻覚の実験的シミュレーションに対する情動反応</title>
     <link>https://osf.io/nszgk</link>
     <guid isPermaLink="false">https://osf.io/nszgk#ja</guid>
     <pubDate>Fri, 27 Mar 2026 15:10:21 +0000</pubDate>
