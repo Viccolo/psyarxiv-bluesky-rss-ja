@@ -6,14 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>8つの大規模言語モデルにおける認知機能スクリーニング評価（MMSE、CDT、MoCA）の比較検討</title>
+    <title>8つの大規模言語モデルにおける認知機能スクリーニング評価（MMSE、CDT、MoCA）</title>
     <link>https://osf.io/hxyqe</link>
     <guid isPermaLink="false">https://osf.io/hxyqe#ja</guid>
     <pubDate>Sun, 05 Apr 2026 21:48:46 +0000</pubDate>
     <description>Screening cognitive assessments (MMSE, CDT, MoCA) of eight large language models</description>
   </item>
   <item>
-    <title>神経多様性教育における人工知能：PRISMA-ScRに基づく系統的スコーピングレビュー（2017–2025年）</title>
+    <title>神経多様性教育における人工知能：PRISMA-ScRによる系統的スコーピングレビュー（2017–2025年）</title>
     <link>https://osf.io/mf8ks</link>
     <guid isPermaLink="false">https://osf.io/mf8ks#ja</guid>
     <pubDate>Sun, 05 Apr 2026 21:16:13 +0000</pubDate>
@@ -34,7 +34,7 @@
     <description>Longitudinal Meta-Analyses of Retest Effects and Mean-Level Development of School Achievement as Assessed by Standardized Tests</description>
   </item>
   <item>
-    <title>フランスの自閉症成人における印象操作および関連する自閉症特徴における性別およびジェンダー差の解明</title>
+    <title>フランスの自閉症成人における印象操作と関連する自閉症特性における性別およびジェンダー差の解明</title>
     <link>https://osf.io/ervmj</link>
     <guid isPermaLink="false">https://osf.io/ervmj#ja</guid>
     <pubDate>Thu, 02 Apr 2026 19:31:52 +0000</pubDate>
@@ -76,21 +76,21 @@
     <description>The Duality of Harm: The Co-occurrence and Risk Factors of Self-directed and Other-directed Harm in a Subclinical Sample</description>
   </item>
   <item>
-    <title>起業における生成型AIの活用：統合的レビューとエンパワーメント–エントラップメントフレームワークの提案</title>
+    <title>起業における生成AIの活用：統合的レビューとエンパワーメント・エントラップメント枠組みの提案</title>
     <link>https://osf.io/nqt82</link>
     <guid isPermaLink="false">https://osf.io/nqt82#ja</guid>
     <pubDate>Wed, 01 Apr 2026 20:27:14 +0000</pubDate>
     <description>Generative AI Use in Entrepreneurship: An Integrative Review and an Empowerment–Entrapment Framework</description>
   </item>
   <item>
-    <title>認知的不協和を用いたソーシャルメディア多用者の健康的な食行動態度促進：学習性無力感の調整効果</title>
+    <title>認知的不協和を用いた重度ソーシャルメディア利用者の健康的な食行動態度促進：学習性無力感の調整効果</title>
     <link>https://osf.io/txeqz</link>
     <guid isPermaLink="false">https://osf.io/txeqz#ja</guid>
     <pubDate>Wed, 01 Apr 2026 20:27:14 +0000</pubDate>
     <description>Using Cognitive Dissonance to Promote Healthier Eating Attitudes Among Heavy Social Media Users: The Moderating Role of Learned Helplessness</description>
   </item>
   <item>
-    <title>心の読み取り学習：フィードバックを用いた共感的正確性の訓練</title>
+    <title>心の読み取り学習：フィードバックによる共感的正確性の訓練</title>
     <link>https://osf.io/qwtzh</link>
     <guid isPermaLink="false">https://osf.io/qwtzh#ja</guid>
     <pubDate>Wed, 01 Apr 2026 20:27:14 +0000</pubDate>
@@ -125,7 +125,7 @@
     <description>Expanding the Study of Narrative Identity in Personality Psychology</description>
   </item>
   <item>
-    <title>重心が重量知覚に及ぼす影響：コセレフ錯視からの知見</title>
+    <title>重心が体重知覚に及ぼす影響：コセレフ錯視からの知見</title>
     <link>https://osf.io/gmu4t</link>
     <guid isPermaLink="false">https://osf.io/gmu4t#ja</guid>
     <pubDate>Tue, 31 Mar 2026 18:07:33 +0000</pubDate>
@@ -139,7 +139,7 @@
     <description>The Cost of “What Might Have Been”: False Memories for Counterfactual Actions</description>
   </item>
   <item>
-    <title>並行過程としての評価動態と心理科学における手段およびメカニズムの測定におけるその重要性</title>
+    <title>並行過程としての評価動態と心理科学における手段およびメカニズム測定の意義</title>
     <link>https://osf.io/jtgw4</link>
     <guid isPermaLink="false">https://osf.io/jtgw4#ja</guid>
     <pubDate>Mon, 30 Mar 2026 21:00:39 +0000</pubDate>
@@ -153,7 +153,7 @@
     <description>Strong alliance, weak conclusions: Comment on Goodwin et al. (2026) “The role of therapeutic alliance in psilocybin treatment for treatment-resistant depression”</description>
   </item>
   <item>
-    <title>テレワーク、認知的負荷および自己評価パフォーマンス：性別と企業規模の相互作用効果</title>
+    <title>テレワーク、精神的負担および認知されたパフォーマンス：性別と企業規模の相互作用効果</title>
     <link>https://osf.io/8c5ue</link>
     <guid isPermaLink="false">https://osf.io/8c5ue#ja</guid>
     <pubDate>Mon, 30 Mar 2026 21:00:38 +0000</pubDate>
@@ -181,7 +181,7 @@
     <description>A Comprehensive Review in Unimodal and Multimodal Emotion Recognition</description>
   </item>
   <item>
-    <title>「彼女が女の子だから」：幼児期の遊びにおける性別ステレオタイプと社会的距離感</title>
+    <title>「彼女だから」：幼児期の遊びにおける性別ステレオタイプと社会的距離感</title>
     <link>https://osf.io/hw593</link>
     <guid isPermaLink="false">https://osf.io/hw593#ja</guid>
     <pubDate>Mon, 30 Mar 2026 19:37:44 +0000</pubDate>
@@ -202,14 +202,14 @@
     <description>Contagion and escalation of rule violations</description>
   </item>
   <item>
-    <title>鶏か卵か―一般集団における娯楽薬物使用と精神健康の関係に関する系統的レビュー</title>
+    <title>一般集団における娯楽薬物使用と精神健康の関係性に関する系統的レビュー：因果関係の検討</title>
     <link>https://osf.io/fn9u6</link>
     <guid isPermaLink="false">https://osf.io/fn9u6#ja</guid>
     <pubDate>Mon, 30 Mar 2026 19:37:43 +0000</pubDate>
     <description>The chicken and the egg - a systematic review of the relationship between recreational drug use and mental health in the general population</description>
   </item>
   <item>
-    <title>空港内三つのエリアにおける情動反応：感覚処理感受性との関連性</title>
+    <title>空港内三領域における情動反応：感覚処理感受性との関連性</title>
     <link>https://osf.io/x3yna</link>
     <guid isPermaLink="false">https://osf.io/x3yna#ja</guid>
     <pubDate>Mon, 30 Mar 2026 15:42:25 +0000</pubDate>
@@ -223,7 +223,7 @@
     <description>Well-being as a political asset: Public acceptance of post-growth policies and its association with basic need satisfaction</description>
   </item>
   <item>
-    <title>道徳的訴求のフレーミング効果：説得に関する実験研究の体系的レビュー</title>
+    <title>道徳のフレーミング：道徳的訴求の説得効果に関する実験研究の体系的レビュー</title>
     <link>https://osf.io/jkh6n</link>
     <guid isPermaLink="false">https://osf.io/jkh6n#ja</guid>
     <pubDate>Mon, 30 Mar 2026 11:41:35 +0000</pubDate>
@@ -244,7 +244,7 @@
     <description>How short-term memory supports number processing</description>
   </item>
   <item>
-    <title>HEXACOおよびビッグファイブモデルを補完する解離特性：思春期から成人期にかけての構造的および順位安定性の検証</title>
+    <title>HEXACOおよびビッグファイブモデルに解離性を補完する：思春期から成人期にかけての構造的および順位安定性の証拠</title>
     <link>https://osf.io/nj8ga</link>
     <guid isPermaLink="false">https://osf.io/nj8ga#ja</guid>
     <pubDate>Mon, 30 Mar 2026 11:41:34 +0000</pubDate>
@@ -265,7 +265,7 @@
     <description>Stimulus Facial Hair Impairs Unfamiliar Face Matching Performance</description>
   </item>
   <item>
-    <title>固定的マインドセットの二面性：達成感情における自己概念とマインドセットの相互作用の再検討</title>
+    <title>固定的マインドセットの二面性：成果感情における自己概念とマインドセットの相互作用の再検討</title>
     <link>https://osf.io/ut3gn</link>
     <guid isPermaLink="false">https://osf.io/ut3gn#ja</guid>
     <pubDate>Mon, 30 Mar 2026 11:41:33 +0000</pubDate>
@@ -293,7 +293,7 @@
     <description>The Role of Dispositional Intuitive versus Deliberative Thinking in Classic Heuristics and Biases</description>
   </item>
   <item>
-    <title>ランダムスロープを用いた多層モデルにおける効果量算出のための予測変数の標準化</title>
+    <title>ランダムスロープを伴う多層モデルにおける効果量算出のための予測変数の標準化</title>
     <link>https://osf.io/us5d3</link>
     <guid isPermaLink="false">https://osf.io/us5d3#ja</guid>
     <pubDate>Sun, 29 Mar 2026 10:56:04 +0000</pubDate>
@@ -314,42 +314,42 @@
     <description>Shuffle: A Tool for Generating Quasi-Randomised Stimulus Lists with Sequential Constraints</description>
   </item>
   <item>
-    <title>階層と避難所：社会的地位への脅威が文化を通じてファーストレスポンダーの助け求め行動と不適応的対処に与える影響</title>
+    <title>地位と避難所：文化が社会的地位への脅威を通じてファーストレスポンダーの助け求め行動と不適応的対処に与える影響</title>
     <link>https://osf.io/x372f</link>
     <guid isPermaLink="false">https://osf.io/x372f#ja</guid>
     <pubDate>Sat, 28 Mar 2026 17:47:24 +0000</pubDate>
     <description>Rank and Refuge: How Culture Shapes First Responder Help-Seeking and Maladaptive Coping Through Threats to Social Standing</description>
   </item>
   <item>
-    <title>情報理論は基本レベルカテゴリーに先立って上位概念が出現することを予測する</title>
+    <title>情報理論は上位概念が基本レベルのカテゴリーに先行して出現することを予測する</title>
     <link>https://osf.io/45ht9</link>
     <guid isPermaLink="false">https://osf.io/45ht9#ja</guid>
     <pubDate>Sat, 28 Mar 2026 17:47:24 +0000</pubDate>
     <description>Information theory predicts that superordinates emerge before basic-level categories</description>
   </item>
   <item>
-    <title>聴覚障害者の視覚的単語認識：EEG-FPVSを用いた検討</title>
+    <title>聴覚障害者の視覚的単語認識：脳波周波数可変刺激法（EEG-FPVS）による検討</title>
     <link>https://osf.io/87xwq</link>
     <guid isPermaLink="false">https://osf.io/87xwq#ja</guid>
     <pubDate>Sat, 28 Mar 2026 17:47:24 +0000</pubDate>
     <description>Visual word recognition in deaf signers: an EEG-FPVS investigation.</description>
   </item>
   <item>
-    <title>事後の賢明さは心的枠組みに依存する：後知恵バイアス効果における構成レベルが再構成に与える影響</title>
+    <title>事後の賢明さは心的枠組みに依存する：後知恵バイアス効果における構成レベルが再構成に及ぼす影響</title>
     <link>https://osf.io/h2zrx</link>
     <guid isPermaLink="false">https://osf.io/h2zrx#ja</guid>
     <pubDate>Sat, 28 Mar 2026 17:47:24 +0000</pubDate>
     <description>Being Wise After the Event Depends on the Mindset: How Construal Level Modifies Reconstruction in the Hindsight Bias Effect</description>
   </item>
   <item>
-    <title>「痛みの状況をどれほど理解しているかをうまく伝えられない自閉症成人の医療専門家への痛みのコミュニケーションの検討」</title>
+    <title>「痛みの状況をどれほど理解しているかを十分に伝えられない自覚：自閉症成人の医療従事者への痛みの伝達に関する検討」</title>
     <link>https://osf.io/6c2t5</link>
     <guid isPermaLink="false">https://osf.io/6c2t5#ja</guid>
     <pubDate>Sat, 28 Mar 2026 17:47:23 +0000</pubDate>
     <description>‘I&#x27;ve always been unable to really communicate the extent to which I feel like I know what&#x27;s going on with my pain’: Investigating Autistic Adults Communication of Pain to Healthcare Professionals</description>
   </item>
   <item>
-    <title>心血管疾患発症後の抑うつ症状は中高年成人における既存の症状によって大部分が説明される</title>
+    <title>中高年成人における心血管疾患発症後の抑うつ症状は、主に既存の抑うつ症状によって説明される</title>
     <link>https://osf.io/thmyq</link>
     <guid isPermaLink="false">https://osf.io/thmyq#ja</guid>
     <pubDate>Sat, 28 Mar 2026 17:47:23 +0000</pubDate>
