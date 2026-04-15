@@ -6,14 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>自己なき自己化：自己認識の計算論的説明における欠落次元</title>
+    <title>自己なき自己化：自己性の計算論的説明における同一性の欠落次元</title>
     <link>https://osf.io/ysqf4</link>
     <guid isPermaLink="false">https://osf.io/ysqf4#ja</guid>
     <pubDate>Tue, 14 Apr 2026 10:08:19 +0000</pubDate>
     <description>Selfing without a self: The missing dimension of identification in computational accounts of selfhood</description>
   </item>
   <item>
-    <title>協働・創造・想像力：共想像が拡散的思考に及ぼす影響の検討</title>
+    <title>協働・創造・想像力：共想像が発散的思考に及ぼす影響の検討</title>
     <link>https://osf.io/9d2ue</link>
     <guid isPermaLink="false">https://osf.io/9d2ue#ja</guid>
     <pubDate>Tue, 14 Apr 2026 10:08:19 +0000</pubDate>
@@ -34,7 +34,7 @@
     <description>Processes and Contents: An Intensive Longitudinal Mixed-Methods Approach for Capturing Everyday Identity Formation</description>
   </item>
   <item>
-    <title>乳児の乳児向け発話嗜好の個人差の検討：アフリカ多施設共同研究からの証拠</title>
+    <title>乳児の乳児向け発話嗜好の変異に関する検討：アフリカ多施設共同研究の証拠</title>
     <link>https://osf.io/dc93n</link>
     <guid isPermaLink="false">https://osf.io/dc93n#ja</guid>
     <pubDate>Mon, 13 Apr 2026 20:58:49 +0000</pubDate>
@@ -62,14 +62,14 @@
     <description>Can Large Language Models Emulate Human Performance on Educational Assessments?</description>
   </item>
   <item>
-    <title>大規模対立課題コーパスにおける個人内変動と個人間変動</title>
+    <title>大規模対立課題コーパスにおける個人内変動と個人間変動の検討</title>
     <link>https://osf.io/mhc59</link>
     <guid isPermaLink="false">https://osf.io/mhc59#ja</guid>
     <pubDate>Mon, 13 Apr 2026 08:19:12 +0000</pubDate>
     <description>Within-Individual and Across-Individual Variation in a Large Corpus of Conflict Tasks</description>
   </item>
   <item>
-    <title>平均効果を超えて：COVID-19パンデミック前後の若年層のメンタルヘルスプロファイル</title>
+    <title>平均効果を超えて：COVID-19パンデミック前後の青年期メンタルヘルスプロファイル</title>
     <link>https://osf.io/28guq</link>
     <guid isPermaLink="false">https://osf.io/28guq#ja</guid>
     <pubDate>Mon, 13 Apr 2026 08:19:11 +0000</pubDate>
@@ -83,14 +83,14 @@
     <description>Cognitive and Affective Predictors of Sharing Intentions on Social Media: The Role of Anxiety, Social Benefits, and Risks</description>
   </item>
   <item>
-    <title>時間同期型単語反応における政治的志向の分岐</title>
+    <title>政治的志向は時間同期型語彙反応において分岐する</title>
     <link>https://osf.io/t5je3</link>
     <guid isPermaLink="false">https://osf.io/t5je3#ja</guid>
     <pubDate>Fri, 10 Apr 2026 15:30:07 +0000</pubDate>
     <description>Political Orientation Diverges in Time-Locked Word Responses</description>
   </item>
   <item>
-    <title>新興成人におけるAIとの感情的・関係的関与を測定するツールキットの開発と検証</title>
+    <title>新興成人におけるAIとの情動的・関係的関与を測定するツールキットの開発と検証</title>
     <link>https://osf.io/kjv4u</link>
     <guid isPermaLink="false">https://osf.io/kjv4u#ja</guid>
     <pubDate>Fri, 10 Apr 2026 15:30:07 +0000</pubDate>
@@ -132,7 +132,7 @@
     <description>Historical Perspectives on Proneness to Psychotic-like Experiences and Behaviors:  A Conceptual Analysis and Synthesis</description>
   </item>
   <item>
-    <title>複雑な心理行動現象を記述する「八つの視点」アプローチ</title>
+    <title>複雑な心理行動現象を記述するための「八つの視点」アプローチ</title>
     <link>https://osf.io/g9tfn</link>
     <guid isPermaLink="false">https://osf.io/g9tfn#ja</guid>
     <pubDate>Thu, 09 Apr 2026 17:33:19 +0000</pubDate>
@@ -160,7 +160,7 @@
     <description>What Features of Mind-wandering episodes Predict their Recall? A Think-Aloud Study</description>
   </item>
   <item>
-    <title>神を信じ、AIに尋ねる：AI時代における宗教性と道徳的助言探索行動の関係</title>
+    <title>神を信じ、AIに尋ねる：宗教性とAI時代における道徳的助言の求め方</title>
     <link>https://osf.io/z3y5d</link>
     <guid isPermaLink="false">https://osf.io/z3y5d#ja</guid>
     <pubDate>Wed, 08 Apr 2026 01:28:07 +0000</pubDate>
@@ -181,14 +181,14 @@
     <description>Heterogeneity in abstract verbs: An ERP study</description>
   </item>
   <item>
-    <title>パーソナライゼーションとポーラリゼーションの関連性の解明：態度一致情報と態度不一致情報が問題の分極化および対群間の肯定的・否定的感情に与える影響</title>
+    <title>個人化と分極化の関連性の解明：態度一致情報と態度不一致情報が問題の分極化および対群間の肯定的・否定的感情に与える影響</title>
     <link>https://osf.io/2z934</link>
     <guid isPermaLink="false">https://osf.io/2z934#ja</guid>
     <pubDate>Tue, 07 Apr 2026 19:40:37 +0000</pubDate>
     <description>Disentangling the Personalization–Polarization Link: How Attitude-Congruent and Attitude-Incongruent Information Shape Issue Polarization and Positive and Negative Intergroup Affect</description>
   </item>
   <item>
-    <title>関係的オペラントトレーニングが学童の学力に及ぼす効果の検証に失敗した無作為化比較試験</title>
+    <title>関係的オペラントトレーニングが学童の学力に及ぼす影響の検証における効果不検出：ランダム化比較試験</title>
     <link>https://osf.io/cauvz</link>
     <guid isPermaLink="false">https://osf.io/cauvz#ja</guid>
     <pubDate>Tue, 07 Apr 2026 08:14:28 +0000</pubDate>
@@ -223,14 +223,14 @@
     <description>Longitudinal Meta-Analyses of Retest Effects and Mean-Level Development of School Achievement as Assessed by Standardized Tests</description>
   </item>
   <item>
-    <title>フランスの自閉症成人における印象操作および関連する自閉症特徴における性別およびジェンダー差異の解明</title>
+    <title>フランス人自閉症成人における印象操作および関連する自閉症特性における性別およびジェンダー差異の解明</title>
     <link>https://osf.io/ervmj</link>
     <guid isPermaLink="false">https://osf.io/ervmj#ja</guid>
     <pubDate>Thu, 02 Apr 2026 19:31:52 +0000</pubDate>
     <description>Untangling sex and gender differences in impression management and associated autism features in French autistic adults</description>
   </item>
   <item>
-    <title>利益か障害か？AI駆動の説明的フィードバックからの学習における構造化反省の影響評価</title>
+    <title>利益か障害か？AI駆動の説明的フィードバックからの学習における構造化された内省の影響評価</title>
     <link>https://osf.io/p3m2k</link>
     <guid isPermaLink="false">https://osf.io/p3m2k#ja</guid>
     <pubDate>Wed, 01 Apr 2026 22:28:54 +0000</pubDate>
@@ -251,7 +251,7 @@
     <description>A Stochastic Delay Differential Equation Model of Multitasking While Driving</description>
   </item>
   <item>
-    <title>粒子状物質（PM₁₀）と生活満足度：双子ペア間およびペア内の関連性</title>
+    <title>微小粒子状物質（PM₁₀）と生活満足度：双生児対間および対内の関連性</title>
     <link>https://osf.io/re6pu</link>
     <guid isPermaLink="false">https://osf.io/re6pu#ja</guid>
     <pubDate>Wed, 01 Apr 2026 21:07:28 +0000</pubDate>
@@ -265,14 +265,14 @@
     <description>The Duality of Harm: The Co-occurrence and Risk Factors of Self-directed and Other-directed Harm in a Subclinical Sample</description>
   </item>
   <item>
-    <title>起業における生成型AIの活用：統合的レビューとエンパワーメント–エントラップメント枠組みの提案</title>
+    <title>起業における生成型AIの活用：統合的レビューとエンパワーメント–エントラップメントフレームワーク</title>
     <link>https://osf.io/nqt82</link>
     <guid isPermaLink="false">https://osf.io/nqt82#ja</guid>
     <pubDate>Wed, 01 Apr 2026 20:27:14 +0000</pubDate>
     <description>Generative AI Use in Entrepreneurship: An Integrative Review and an Empowerment–Entrapment Framework</description>
   </item>
   <item>
-    <title>認知的不協和を活用したヘビーユーザーの健康的な食行動態度促進：学習性無力感の調整効果</title>
+    <title>認知的不協和を用いたヘビーユーザーの健康的な食行動態度促進：学習性無力感の調整効果</title>
     <link>https://osf.io/txeqz</link>
     <guid isPermaLink="false">https://osf.io/txeqz#ja</guid>
     <pubDate>Wed, 01 Apr 2026 20:27:14 +0000</pubDate>
@@ -328,14 +328,14 @@
     <description>The Cost of “What Might Have Been”: False Memories for Counterfactual Actions</description>
   </item>
   <item>
-    <title>連動する過程としての評価動態：心理学における手段とメカニズムの測定における意義</title>
+    <title>並行過程としての評価動態と心理学における手段およびメカニズム測定の意義</title>
     <link>https://osf.io/jtgw4</link>
     <guid isPermaLink="false">https://osf.io/jtgw4#ja</guid>
     <pubDate>Mon, 30 Mar 2026 21:00:39 +0000</pubDate>
     <description>In Tandem Processes Not Lonely Outcomes: Evaluative Dynamics, and their Significance for Measuring Means and Mechanisms Inside Psychological Science</description>
   </item>
   <item>
-    <title>強固な治療同盟、弱い結論：Goodwinら（2026）「治療抵抗性うつ病に対するシロシビン治療における治療同盟の役割」へのコメント</title>
+    <title>強固な治療同盟、弱い結論：Goodwinら（2026）「治療抵抗性うつ病に対するシロシビン治療における治療同盟の役割」に関するコメント</title>
     <link>https://osf.io/8s7xk</link>
     <guid isPermaLink="false">https://osf.io/8s7xk#ja</guid>
     <pubDate>Mon, 30 Mar 2026 21:00:39 +0000</pubDate>
@@ -349,7 +349,7 @@
     <description>Télétravail, charge mentale et performance perçue : effets d’interaction du genre et de la taille de l’entreprise</description>
   </item>
   <item>
-    <title>カオス理論と子どもの発達：非線形的成長経路の定量化</title>
+    <title>カオス理論と子どもの発達：非線形成長経路の定量化</title>
     <link>https://osf.io/d64fv</link>
     <guid isPermaLink="false">https://osf.io/d64fv#ja</guid>
     <pubDate>Mon, 30 Mar 2026 20:08:57 +0000</pubDate>
