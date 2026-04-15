@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>自己なき自己化：自己性の計算論的説明における同一視の欠落次元</title>
+    <title>自己なき自己化：自己認識の計算論的説明における欠落次元</title>
     <link>https://osf.io/ysqf4</link>
     <guid isPermaLink="false">https://osf.io/ysqf4#ja</guid>
     <pubDate>Tue, 14 Apr 2026 10:08:19 +0000</pubDate>
@@ -34,7 +34,7 @@
     <description>Processes and Contents: An Intensive Longitudinal Mixed-Methods Approach for Capturing Everyday Identity Formation</description>
   </item>
   <item>
-    <title>乳児の乳児向け発話嗜好の個人差の検討：アフリカ多施設共同研究からの証拠</title>
+    <title>乳児の乳児向け発話に対する嗜好の変異の探究：アフリカ多地点研究からの証拠</title>
     <link>https://osf.io/dc93n</link>
     <guid isPermaLink="false">https://osf.io/dc93n#ja</guid>
     <pubDate>Mon, 13 Apr 2026 20:58:49 +0000</pubDate>
@@ -62,14 +62,14 @@
     <description>Can Large Language Models Emulate Human Performance on Educational Assessments?</description>
   </item>
   <item>
-    <title>大規模葛藤課題コーパスにおける個人内変動と個人間変動</title>
+    <title>大規模対立課題コーパスにおける個人内変動と個人間変動の検討</title>
     <link>https://osf.io/mhc59</link>
     <guid isPermaLink="false">https://osf.io/mhc59#ja</guid>
     <pubDate>Mon, 13 Apr 2026 08:19:12 +0000</pubDate>
     <description>Within-Individual and Across-Individual Variation in a Large Corpus of Conflict Tasks</description>
   </item>
   <item>
-    <title>平均効果を超えて：COVID-19パンデミック前後における青年のメンタルヘルスプロファイル</title>
+    <title>平均効果を超えて：COVID-19パンデミック前後における若年層のメンタルヘルスプロファイル</title>
     <link>https://osf.io/28guq</link>
     <guid isPermaLink="false">https://osf.io/28guq#ja</guid>
     <pubDate>Mon, 13 Apr 2026 08:19:11 +0000</pubDate>
@@ -83,14 +83,14 @@
     <description>Cognitive and Affective Predictors of Sharing Intentions on Social Media: The Role of Anxiety, Social Benefits, and Risks</description>
   </item>
   <item>
-    <title>時間同期型単語反応における政治的志向の分岐</title>
+    <title>政治的志向は時間同期型語彙反応において分岐する</title>
     <link>https://osf.io/t5je3</link>
     <guid isPermaLink="false">https://osf.io/t5je3#ja</guid>
     <pubDate>Fri, 10 Apr 2026 15:30:07 +0000</pubDate>
     <description>Political Orientation Diverges in Time-Locked Word Responses</description>
   </item>
   <item>
-    <title>新興成人におけるAIとの情動的・関係的関与の測定ツールキットの開発と検証</title>
+    <title>新興成人におけるAIとの情動的・関係的関与を測定するツールキットの開発と検証</title>
     <link>https://osf.io/kjv4u</link>
     <guid isPermaLink="false">https://osf.io/kjv4u#ja</guid>
     <pubDate>Fri, 10 Apr 2026 15:30:07 +0000</pubDate>
@@ -104,7 +104,7 @@
     <description>Why the effectiveness of simple messages about the scientific consensus on climate change has likely been overestimated</description>
   </item>
   <item>
-    <title>物質依存および非物質領域における欲求から行動への経路の普遍性の検証</title>
+    <title>物質関連および非物質関連領域における欲求から行動への経路の普遍性の検証</title>
     <link>https://osf.io/tqbng</link>
     <guid isPermaLink="false">https://osf.io/tqbng#ja</guid>
     <pubDate>Fri, 10 Apr 2026 15:30:03 +0000</pubDate>
@@ -125,7 +125,7 @@
     <description>Do Leichsenring et al. Really Broaden the Spectrum of Evidence-Based Interventions for Obsessive-Compulsive Disorder?</description>
   </item>
   <item>
-    <title>精神病様体験および行動傾向に関する歴史的視点：概念的分析と統合</title>
+    <title>精神病様体験および行動への傾向に関する歴史的視点：概念的分析と統合</title>
     <link>https://osf.io/ctb95</link>
     <guid isPermaLink="false">https://osf.io/ctb95#ja</guid>
     <pubDate>Fri, 10 Apr 2026 13:46:53 +0000</pubDate>
@@ -146,7 +146,7 @@
     <description>Parenting Adolescents: Addressing the Question of Universality versus Uniqueness with Family-Specific Research</description>
   </item>
   <item>
-    <title>オーストラリア国防軍退役軍人における精神健康状態：系統的スコーピングレビュー</title>
+    <title>オーストラリア国防軍退役軍人の精神健康状態に関する体系的スコーピングレビュー</title>
     <link>https://osf.io/pzvs2</link>
     <guid isPermaLink="false">https://osf.io/pzvs2#ja</guid>
     <pubDate>Wed, 08 Apr 2026 15:50:49 +0000</pubDate>
@@ -160,7 +160,7 @@
     <description>What Features of Mind-wandering episodes Predict their Recall? A Think-Aloud Study</description>
   </item>
   <item>
-    <title>神を信じ、AIに尋ねる：宗教性とAI時代における道徳的助言の求め方</title>
+    <title>神を信じ、AIに尋ねる：宗教性とAI時代における道徳的助言の探索行動</title>
     <link>https://osf.io/z3y5d</link>
     <guid isPermaLink="false">https://osf.io/z3y5d#ja</guid>
     <pubDate>Wed, 08 Apr 2026 01:28:07 +0000</pubDate>
@@ -181,14 +181,14 @@
     <description>Heterogeneity in abstract verbs: An ERP study</description>
   </item>
   <item>
-    <title>パーソナライゼーションと分極化の関連の解明：態度一致情報と態度不一致情報が問題の分極化および肯定的・否定的集団間感情に与える影響</title>
+    <title>個人化と分極化の関連性の解明：態度一致情報と態度不一致情報が問題の分極化および肯定的・否定的集団間感情に与える影響</title>
     <link>https://osf.io/2z934</link>
     <guid isPermaLink="false">https://osf.io/2z934#ja</guid>
     <pubDate>Tue, 07 Apr 2026 19:40:37 +0000</pubDate>
     <description>Disentangling the Personalization–Polarization Link: How Attitude-Congruent and Attitude-Incongruent Information Shape Issue Polarization and Positive and Negative Intergroup Affect</description>
   </item>
   <item>
-    <title>関係的オペラントトレーニングが学童の学力に及ぼす効果の検証に失敗したランダム化比較試験</title>
+    <title>関係的オペラントトレーニングが学童の学力に及ぼす効果の検証に失敗した無作為化比較試験</title>
     <link>https://osf.io/cauvz</link>
     <guid isPermaLink="false">https://osf.io/cauvz#ja</guid>
     <pubDate>Tue, 07 Apr 2026 08:14:28 +0000</pubDate>
@@ -216,14 +216,14 @@
     <description>Measuring Individual Differences with Bayesian Hierarchical Cognitive Models</description>
   </item>
   <item>
-    <title>標準化テストによる学業成績の再検査効果および平均水準の発達に関する縦断的メタ分析</title>
+    <title>標準化テストによる学校成績の再検査効果および平均水準の発達に関する縦断的メタ分析</title>
     <link>https://osf.io/ysxdw</link>
     <guid isPermaLink="false">https://osf.io/ysxdw#ja</guid>
     <pubDate>Fri, 03 Apr 2026 19:51:39 +0000</pubDate>
     <description>Longitudinal Meta-Analyses of Retest Effects and Mean-Level Development of School Achievement as Assessed by Standardized Tests</description>
   </item>
   <item>
-    <title>フランス人自閉症成人における印象操作と関連する自閉症特徴における性別およびジェンダー差異の解明</title>
+    <title>フランス人自閉症成人における印象操作および関連する自閉症特徴における性別およびジェンダー差の解明</title>
     <link>https://osf.io/ervmj</link>
     <guid isPermaLink="false">https://osf.io/ervmj#ja</guid>
     <pubDate>Thu, 02 Apr 2026 19:31:52 +0000</pubDate>
@@ -237,7 +237,7 @@
     <description>Benefit or Bottleneck? Assessing the Impact of Structured Reflection on Learning from AI-Driven Explanatory Feedback</description>
   </item>
   <item>
-    <title>PISAパラドックスの再検討：中国本土における成長マインドセットと学業・心理社会的成果の関連に関する比較メタ分析</title>
+    <title>PISAパラドックスの再検討：中国本土における成長マインドセットと学業成績および心理社会的成果の関連に関する比較メタ分析</title>
     <link>https://osf.io/vt4nf</link>
     <guid isPermaLink="false">https://osf.io/vt4nf#ja</guid>
     <pubDate>Wed, 01 Apr 2026 21:54:57 +0000</pubDate>
@@ -265,21 +265,21 @@
     <description>The Duality of Harm: The Co-occurrence and Risk Factors of Self-directed and Other-directed Harm in a Subclinical Sample</description>
   </item>
   <item>
-    <title>起業における生成型AIの活用：統合的レビューとエンパワーメント–エントラップメントフレームワーク</title>
+    <title>起業における生成型AIの活用：統合的レビューとエンパワーメント–エントラップメント枠組み</title>
     <link>https://osf.io/nqt82</link>
     <guid isPermaLink="false">https://osf.io/nqt82#ja</guid>
     <pubDate>Wed, 01 Apr 2026 20:27:14 +0000</pubDate>
     <description>Generative AI Use in Entrepreneurship: An Integrative Review and an Empowerment–Entrapment Framework</description>
   </item>
   <item>
-    <title>認知的不協和を活用した重度ソーシャルメディア利用者の健康的な食行動態度促進：学習性無力感の調整効果</title>
+    <title>認知的不協和を活用したソーシャルメディア多用者の健康的な食行動態度促進：学習性無力感の調整効果</title>
     <link>https://osf.io/txeqz</link>
     <guid isPermaLink="false">https://osf.io/txeqz#ja</guid>
     <pubDate>Wed, 01 Apr 2026 20:27:14 +0000</pubDate>
     <description>Using Cognitive Dissonance to Promote Healthier Eating Attitudes Among Heavy Social Media Users: The Moderating Role of Learned Helplessness</description>
   </item>
   <item>
-    <title>心の読み取り学習：フィードバックによる共感的正確性の訓練</title>
+    <title>心の読み取り学習：フィードバックを用いた共感的正確性の訓練</title>
     <link>https://osf.io/qwtzh</link>
     <guid isPermaLink="false">https://osf.io/qwtzh#ja</guid>
     <pubDate>Wed, 01 Apr 2026 20:27:14 +0000</pubDate>
@@ -307,7 +307,7 @@
     <description>What Counts as an Environment in Memory Research? Conceptualizing Environment Across Memory Traditions</description>
   </item>
   <item>
-    <title>パーソナリティ心理学における物語的アイデンティティ研究の拡張</title>
+    <title>パーソナリティ心理学におけるナラティブ・アイデンティティ研究の拡張</title>
     <link>https://osf.io/yhmtd</link>
     <guid isPermaLink="false">https://osf.io/yhmtd#ja</guid>
     <pubDate>Tue, 31 Mar 2026 18:07:33 +0000</pubDate>
@@ -349,7 +349,7 @@
     <description>Télétravail, charge mentale et performance perçue : effets d’interaction du genre et de la taille de l’entreprise</description>
   </item>
   <item>
-    <title>カオス理論と子どもの発達：成長の非線形経路の定量化</title>
+    <title>カオス理論と子どもの発達：非線形成長経路の定量化</title>
     <link>https://osf.io/d64fv</link>
     <guid isPermaLink="false">https://osf.io/d64fv#ja</guid>
     <pubDate>Mon, 30 Mar 2026 20:08:57 +0000</pubDate>
