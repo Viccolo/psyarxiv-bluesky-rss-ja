@@ -6,21 +6,35 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>アクセスなきオープンサイエンス：擬似オープンデータの門番による隠れた不平等性</title>
+    <title>生涯にわたる統合失調症治療のための興奮-抑制不均衡モデルに基づく新規精密医療フレームワーク</title>
+    <link>https://osf.io/eqn4d</link>
+    <guid isPermaLink="false">https://osf.io/eqn4d#ja</guid>
+    <pubDate>Sun, 19 Apr 2026 21:02:19 +0000</pubDate>
+    <description>A novel precision medicine framework based on the excitation-inhibition imbalance model, for treatment of schizophrenia across the life span</description>
+  </item>
+  <item>
+    <title>臨床研修における暗黙のバイアス：フォーマン尺度（FIBS）の開発と検証</title>
+    <link>https://osf.io/ycw3h</link>
+    <guid isPermaLink="false">https://osf.io/ycw3h#ja</guid>
+    <pubDate>Sun, 19 Apr 2026 21:02:18 +0000</pubDate>
+    <description>Implicit Bias in Clinical Training: Development and Validation of the Forman Scale (FIBS)</description>
+  </item>
+  <item>
+    <title>アクセスなきオープンサイエンス：疑似オープンデータの門番による隠れた不平等性</title>
     <link>https://osf.io/2avpf</link>
     <guid isPermaLink="false">https://osf.io/2avpf#ja</guid>
     <pubDate>Sun, 19 Apr 2026 15:05:04 +0000</pubDate>
     <description>Open science without access: the hidden inequalities of pseudo-open data gatekeeping</description>
   </item>
   <item>
-    <title>聴覚障害を有する高齢者における視聴覚語不一致課題を用いた異感覚可塑性の知覚的証拠の検討</title>
+    <title>聴覚障害を有する高齢者における音声・視覚語不一致課題を用いた異感覚可塑性の知覚的証拠の評価</title>
     <link>https://osf.io/e9skc</link>
     <guid isPermaLink="false">https://osf.io/e9skc#ja</guid>
     <pubDate>Sun, 19 Apr 2026 15:05:01 +0000</pubDate>
     <description>Evaluating perceptual evidence of cross-modal plasticity in older adults with hearing loss using an audio–visual word mismatch task</description>
   </item>
   <item>
-    <title>自己なき自己形成：自己認識の計算論的説明における欠落次元</title>
+    <title>自己なき自己化：自己性の計算論的説明における同一視の欠落次元</title>
     <link>https://osf.io/ysqf4</link>
     <guid isPermaLink="false">https://osf.io/ysqf4#ja</guid>
     <pubDate>Tue, 14 Apr 2026 10:08:19 +0000</pubDate>
@@ -55,7 +69,7 @@
     <description>Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa</description>
   </item>
   <item>
-    <title>社会的関連性が記憶符号化を再構築し、感覚様式を超えた虚偽記憶を促進する</title>
+    <title>社会的関連性が記憶符号化を再構築し、感覚モダリティを超えた虚偽記憶を促進する</title>
     <link>https://osf.io/vzgbj</link>
     <guid isPermaLink="false">https://osf.io/vzgbj#ja</guid>
     <pubDate>Mon, 13 Apr 2026 20:58:49 +0000</pubDate>
@@ -76,14 +90,14 @@
     <description>Can Large Language Models Emulate Human Performance on Educational Assessments?</description>
   </item>
   <item>
-    <title>大規模対立課題コーパスにおける個人内変動と個人間変動</title>
+    <title>大規模葛藤課題コーパスにおける個人内変動および個人間変動</title>
     <link>https://osf.io/mhc59</link>
     <guid isPermaLink="false">https://osf.io/mhc59#ja</guid>
     <pubDate>Mon, 13 Apr 2026 08:19:12 +0000</pubDate>
     <description>Within-Individual and Across-Individual Variation in a Large Corpus of Conflict Tasks</description>
   </item>
   <item>
-    <title>平均効果を超えて：COVID-19パンデミック前後における青年のメンタルヘルスプロファイル</title>
+    <title>平均効果を超えて：COVID-19パンデミック前後における青少年のメンタルヘルスプロファイル</title>
     <link>https://osf.io/28guq</link>
     <guid isPermaLink="false">https://osf.io/28guq#ja</guid>
     <pubDate>Mon, 13 Apr 2026 08:19:11 +0000</pubDate>
@@ -118,7 +132,7 @@
     <description>Why the effectiveness of simple messages about the scientific consensus on climate change has likely been overestimated</description>
   </item>
   <item>
-    <title>物質依存および非物質領域における欲求から行動への経路の普遍性の検証</title>
+    <title>物質使用および非物質領域における欲求から行動への経路の普遍性の検証</title>
     <link>https://osf.io/tqbng</link>
     <guid isPermaLink="false">https://osf.io/tqbng#ja</guid>
     <pubDate>Fri, 10 Apr 2026 15:30:03 +0000</pubDate>
@@ -139,7 +153,7 @@
     <description>Do Leichsenring et al. Really Broaden the Spectrum of Evidence-Based Interventions for Obsessive-Compulsive Disorder?</description>
   </item>
   <item>
-    <title>精神病様体験および行動への傾向に関する歴史的視点：概念的分析と統合</title>
+    <title>精神病様経験および行動への傾向に関する歴史的視点：概念的分析と統合</title>
     <link>https://osf.io/ctb95</link>
     <guid isPermaLink="false">https://osf.io/ctb95#ja</guid>
     <pubDate>Fri, 10 Apr 2026 13:46:53 +0000</pubDate>
@@ -174,7 +188,7 @@
     <description>What Features of Mind-wandering episodes Predict their Recall? A Think-Aloud Study</description>
   </item>
   <item>
-    <title>神を信じ、AIに尋ねる：宗教性とAI時代における道徳的助言の求め方</title>
+    <title>神を信じ、AIに尋ねる：宗教性とAI時代における道徳的助言の探索行動</title>
     <link>https://osf.io/z3y5d</link>
     <guid isPermaLink="false">https://osf.io/z3y5d#ja</guid>
     <pubDate>Wed, 08 Apr 2026 01:28:07 +0000</pubDate>
@@ -195,14 +209,14 @@
     <description>Heterogeneity in abstract verbs: An ERP study</description>
   </item>
   <item>
-    <title>パーソナライゼーションと分極化の関連の解明：態度一致情報と態度不一致情報が問題の分極化および肯定的・否定的集団間感情に与える影響</title>
+    <title>パーソナライゼーションとポーラリゼーションの関連性の解明：態度一致情報と態度不一致情報が問題の分極化および肯定的・否定的集団間感情に与える影響</title>
     <link>https://osf.io/2z934</link>
     <guid isPermaLink="false">https://osf.io/2z934#ja</guid>
     <pubDate>Tue, 07 Apr 2026 19:40:37 +0000</pubDate>
     <description>Disentangling the Personalization–Polarization Link: How Attitude-Congruent and Attitude-Incongruent Information Shape Issue Polarization and Positive and Negative Intergroup Affect</description>
   </item>
   <item>
-    <title>関係的オペラントトレーニングが学童の学力に及ぼす影響の検証に失敗した無作為化比較試験</title>
+    <title>関係的オペラントトレーニングが学童の学力に及ぼす影響の検証における無効性：ランダム化比較試験</title>
     <link>https://osf.io/cauvz</link>
     <guid isPermaLink="false">https://osf.io/cauvz#ja</guid>
     <pubDate>Tue, 07 Apr 2026 08:14:28 +0000</pubDate>
@@ -216,7 +230,7 @@
     <description>Screening cognitive assessments (MMSE, CDT, MoCA) of eight large language models</description>
   </item>
   <item>
-    <title>神経多様性教育における人工知能：PRISMA-ScRに基づく系統的スコーピングレビュー（2017–2025年）</title>
+    <title>神経多様性教育における人工知能：PRISMA-ScRによる系統的スコーピングレビュー（2017–2025年）</title>
     <link>https://osf.io/mf8ks</link>
     <guid isPermaLink="false">https://osf.io/mf8ks#ja</guid>
     <pubDate>Sun, 05 Apr 2026 21:16:13 +0000</pubDate>
@@ -272,28 +286,28 @@
     <description>Particulate Matter (PM₁₀) and Life Satisfaction: Links Across and Within Twin Pairs</description>
   </item>
   <item>
-    <title>害の二重性：サブクリニカル集団における自己指向的害行動と他者指向的害行動の共起およびリスク要因</title>
+    <title>害の二重性：サブクリニカル集団における自己指向的害と他者指向的害の共起およびリスク要因</title>
     <link>https://osf.io/szv6u</link>
     <guid isPermaLink="false">https://osf.io/szv6u#ja</guid>
     <pubDate>Wed, 01 Apr 2026 21:07:28 +0000</pubDate>
     <description>The Duality of Harm: The Co-occurrence and Risk Factors of Self-directed and Other-directed Harm in a Subclinical Sample</description>
   </item>
   <item>
-    <title>起業活動における生成型AIの活用：統合的レビューとエンパワーメント–エントラップメント枠組みの提案</title>
+    <title>起業における生成型AIの活用：統合的レビューとエンパワーメント–エントラップメント枠組みの提案</title>
     <link>https://osf.io/nqt82</link>
     <guid isPermaLink="false">https://osf.io/nqt82#ja</guid>
     <pubDate>Wed, 01 Apr 2026 20:27:14 +0000</pubDate>
     <description>Generative AI Use in Entrepreneurship: An Integrative Review and an Empowerment–Entrapment Framework</description>
   </item>
   <item>
-    <title>認知的不協和を用いた重度ソーシャルメディア利用者の健康的な食行動態度促進：学習性無力感の調整効果</title>
+    <title>認知的不協和を活用した重度ソーシャルメディア利用者の健康的な食行動態度促進：学習性無力感の調整効果</title>
     <link>https://osf.io/txeqz</link>
     <guid isPermaLink="false">https://osf.io/txeqz#ja</guid>
     <pubDate>Wed, 01 Apr 2026 20:27:14 +0000</pubDate>
     <description>Using Cognitive Dissonance to Promote Healthier Eating Attitudes Among Heavy Social Media Users: The Moderating Role of Learned Helplessness</description>
   </item>
   <item>
-    <title>心の読み取り学習：フィードバックを用いた共感的正確性の訓練</title>
+    <title>心の読み取り学習：フィードバックによる共感的正確性の訓練</title>
     <link>https://osf.io/qwtzh</link>
     <guid isPermaLink="false">https://osf.io/qwtzh#ja</guid>
     <pubDate>Wed, 01 Apr 2026 20:27:14 +0000</pubDate>
@@ -340,20 +354,6 @@
     <guid isPermaLink="false">https://osf.io/tfm37#ja</guid>
     <pubDate>Mon, 30 Mar 2026 21:00:39 +0000</pubDate>
     <description>The Cost of “What Might Have Been”: False Memories for Counterfactual Actions</description>
-  </item>
-  <item>
-    <title>連動する過程としての評価動態：心理学における手段とメカニズムの測定における意義</title>
-    <link>https://osf.io/jtgw4</link>
-    <guid isPermaLink="false">https://osf.io/jtgw4#ja</guid>
-    <pubDate>Mon, 30 Mar 2026 21:00:39 +0000</pubDate>
-    <description>In Tandem Processes Not Lonely Outcomes: Evaluative Dynamics, and their Significance for Measuring Means and Mechanisms Inside Psychological Science</description>
-  </item>
-  <item>
-    <title>強固な同盟、弱い結論：Goodwinら（2026）「治療抵抗性うつ病に対するシロシビン治療における治療同盟の役割」へのコメント</title>
-    <link>https://osf.io/8s7xk</link>
-    <guid isPermaLink="false">https://osf.io/8s7xk#ja</guid>
-    <pubDate>Mon, 30 Mar 2026 21:00:39 +0000</pubDate>
-    <description>Strong alliance, weak conclusions: Comment on Goodwin et al. (2026) “The role of therapeutic alliance in psilocybin treatment for treatment-resistant depression”</description>
   </item>
 </channel>
 </rss>
