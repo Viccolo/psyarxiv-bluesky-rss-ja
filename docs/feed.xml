@@ -6,21 +6,28 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>いじめおよび被害の減少を目的とした学校内介入の有効性：BRAVEメタアナリシスによるサブグループ分析</title>
+    <title>党首不一致の時間的連続性：データ駆動型ERP研究</title>
+    <link>https://osf.io/2b8qg</link>
+    <guid isPermaLink="false">https://osf.io/2b8qg#ja</guid>
+    <pubDate>Fri, 24 Apr 2026 16:59:19 +0000</pubDate>
+    <description>The Temporal Sequence of Party Leader Incongruence: a data-driven ERP study</description>
+  </item>
+  <item>
+    <title>いじめおよび被害の軽減を目的とした学校内介入の有効性：BRAVEメタアナリシスに基づくサブグループ分析</title>
     <link>https://osf.io/8vrup</link>
     <guid isPermaLink="false">https://osf.io/8vrup#ja</guid>
     <pubDate>Thu, 23 Apr 2026 21:02:24 +0000</pubDate>
     <description>Effectiveness of School-Based Interventions for Reducing Bullying and Victimisation: A Subgroup Analysis from the BRAVE Meta-Analysis</description>
   </item>
   <item>
-    <title>脳卒中ケアにおける努力認知の重要性：エビデンスから理想的ケアパスウェイへの提言</title>
+    <title>脳卒中ケアにおける努力認知の重要性：エビデンスから理想的ケアパスウェイへの考察</title>
     <link>https://osf.io/swfbp</link>
     <guid isPermaLink="false">https://osf.io/swfbp#ja</guid>
     <pubDate>Thu, 23 Apr 2026 21:02:24 +0000</pubDate>
     <description>On the importance of effort perception in stroke care: From evidence to an ideal care pathway – An opinion paper</description>
   </item>
   <item>
-    <title>AI支援視覚探索におけるキュー提示方法と表示形式が検出率、遵守行動および技能保持に及ぼす影響</title>
+    <title>AI支援視覚探索における手がかり提示方法と表示形式が検出率、遵守行動および技能保持に及ぼす影響</title>
     <link>https://osf.io/r5qcn</link>
     <guid isPermaLink="false">https://osf.io/r5qcn#ja</guid>
     <pubDate>Thu, 23 Apr 2026 21:02:24 +0000</pubDate>
@@ -48,21 +55,21 @@
     <description>Social Media Reward Sensitivity and Depressive Symptoms Over Time</description>
   </item>
   <item>
-    <title>行動―意図結合によるエージェンシー構造の解明と心的映像欠損症におけるその崩壊</title>
+    <title>行動–意図結合によるエージェンシー構造の解明とアファンタジアにおけるその崩壊</title>
     <link>https://osf.io/kdcqb</link>
     <guid isPermaLink="false">https://osf.io/kdcqb#ja</guid>
     <pubDate>Tue, 21 Apr 2026 20:40:30 +0000</pubDate>
     <description>Action–Intention Binding Coupling Reveals Agency Architecture and Breaks Down in Aphantasia</description>
   </item>
   <item>
-    <title>第二言語語彙検索課題における潜在的な同根語効果の特定：刺激設計のためのチュートリアル</title>
+    <title>第二言語語彙検索課題における隠れた同根語効果の特定：刺激設計のためのチュートリアル</title>
     <link>https://osf.io/ar4zh</link>
     <guid isPermaLink="false">https://osf.io/ar4zh#ja</guid>
     <pubDate>Tue, 21 Apr 2026 20:40:29 +0000</pubDate>
     <description>Identifying hidden cognate effects in L2 lexical retrieval tasks: A tutorial for stimulus design</description>
   </item>
   <item>
-    <title>物理学と知覚の融合：構成則が人間のカテゴリー化を支配する仕組み</title>
+    <title>物理学と知覚の統合：構成則が人間のカテゴリー化を支配する仕組み</title>
     <link>https://osf.io/tnaxq</link>
     <guid isPermaLink="false">https://osf.io/tnaxq#ja</guid>
     <pubDate>Tue, 21 Apr 2026 19:51:32 +0000</pubDate>
@@ -76,28 +83,28 @@
     <description>Radical Aesthetics and the Digital Self: Embodied Onto-Phenomenology in the Age of Digital Mediation</description>
   </item>
   <item>
-    <title>青少年におけるスマートフォン・ソーシャルメディア行動の潜在的次元と精神健康の関連における睡眠の媒介効果</title>
+    <title>青少年におけるスマートフォン・ソーシャルメディア行動の潜在次元と精神健康の関連における睡眠の媒介効果</title>
     <link>https://osf.io/wkjzv</link>
     <guid isPermaLink="false">https://osf.io/wkjzv#ja</guid>
     <pubDate>Tue, 21 Apr 2026 19:51:32 +0000</pubDate>
     <description>Mediating effects of sleep in the association between latent dimensions of smartphone/social media behaviours and mental health in adolescents</description>
   </item>
   <item>
-    <title>不安は条件付けられた身体感覚の持続に関連する</title>
+    <title>不安と条件付けられた身体感覚の持続性との関連性</title>
     <link>https://osf.io/dmgnh</link>
     <guid isPermaLink="false">https://osf.io/dmgnh#ja</guid>
     <pubDate>Tue, 21 Apr 2026 19:51:31 +0000</pubDate>
     <description>Anxiety is associated with the persistence of conditioned somatic sensations over time</description>
   </item>
   <item>
-    <title>自閉スペクトラム症における社会的相互作用嗜好の暗黙的・顕在的乖離と孤独感との関連</title>
+    <title>自閉スペクトラム症における社会的相互作用嗜好の暗黙的–顕在的乖離と孤独感との関連</title>
     <link>https://osf.io/hbdsr</link>
     <guid isPermaLink="false">https://osf.io/hbdsr#ja</guid>
     <pubDate>Tue, 21 Apr 2026 19:51:31 +0000</pubDate>
     <description>Implicit–Explicit Dissociation in Social Interaction Preferences in Autism Spectrum Disorder and Its Association with Loneliness</description>
   </item>
   <item>
-    <title>結婚式に持参する最悪の贈り物とは何か？風変わりな質問を用いた創造的ユーモア生成の測定</title>
+    <title>結婚式に持参する最悪の贈り物とは何か？風変わりな質問による創造的ユーモア生成の測定</title>
     <link>https://osf.io/uy7m3</link>
     <guid isPermaLink="false">https://osf.io/uy7m3#ja</guid>
     <pubDate>Tue, 21 Apr 2026 19:51:31 +0000</pubDate>
@@ -118,14 +125,14 @@
     <description>Temporal Dynamics of Mind Wandering: How Working Memory and Motivation Shape Intentional and Unintentional Attentional Drift Over Time</description>
   </item>
   <item>
-    <title>二重ループ専門性のパラドックス：教員とAIの協働実践理解のための枠組み</title>
+    <title>二重ループ専門性パラドックス：教員とAIの協働実践理解のための枠組み</title>
     <link>https://osf.io/tew9n</link>
     <guid isPermaLink="false">https://osf.io/tew9n#ja</guid>
     <pubDate>Tue, 21 Apr 2026 15:23:28 +0000</pubDate>
     <description>The Double-Looped Expertise Paradox: A Framework for Understanding Teacher-AI Collaborative Practices</description>
   </item>
   <item>
-    <title>心理的予防接種としての宗教教義：警告、反論的先制措置、および信念持続の文化的進化</title>
+    <title>心理的予防接種としての宗教教義：予告、反論的先制防御、および信念持続の文化的進化</title>
     <link>https://osf.io/zmnwx</link>
     <guid isPermaLink="false">https://osf.io/zmnwx#ja</guid>
     <pubDate>Tue, 21 Apr 2026 15:23:27 +0000</pubDate>
@@ -146,7 +153,7 @@
     <description>Who chooses alternative meat and where? Understanding how foodscapes and individual variation shape plant-based meat and cell-cultured meat choices using a Discrete Choice Experiment</description>
   </item>
   <item>
-    <title>リズミカルな手のジェスチャーが音声の下流における区切り形成を促進する</title>
+    <title>リズミカルな手のジェスチャーが音声の後続区分化を促進する</title>
     <link>https://osf.io/7mz6g</link>
     <guid isPermaLink="false">https://osf.io/7mz6g#ja</guid>
     <pubDate>Tue, 21 Apr 2026 15:23:27 +0000</pubDate>
@@ -174,7 +181,7 @@
     <description>Prediction Under Pressure: Predictive Sentence Processing in Dyslexia and Second-Language Reading</description>
   </item>
   <item>
-    <title>フォレンジックエンジン：大規模メタアナリシスデータ抽出のための統合品質管理システム</title>
+    <title>フォレンジックエンジン：大規模メタ分析データ抽出のための統合品質管理システム</title>
     <link>https://osf.io/fk87m</link>
     <guid isPermaLink="false">https://osf.io/fk87m#ja</guid>
     <pubDate>Tue, 21 Apr 2026 15:23:26 +0000</pubDate>
@@ -223,7 +230,7 @@
     <description>Personalized Machine Learning Models for Predicting Panic Attacks</description>
   </item>
   <item>
-    <title>期待と時間的動態は選択行動を独立して調節する</title>
+    <title>期待と時間的動態が選択行動に独立して影響を与える</title>
     <link>https://osf.io/nw5eu</link>
     <guid isPermaLink="false">https://osf.io/nw5eu#ja</guid>
     <pubDate>Mon, 20 Apr 2026 21:29:55 +0000</pubDate>
@@ -237,7 +244,7 @@
     <description>Health and Personality Contributions to Cybersickness in Virtual Reality</description>
   </item>
   <item>
-    <title>注意の捕捉における負の価値の影響：新規タイピングストループ課題における選択的注意の調節</title>
+    <title>注意の捕捉における負の価値の影響：新規タイピングストループ課題における凍結反応ではなく選択的注意の変調</title>
     <link>https://osf.io/3zahk</link>
     <guid isPermaLink="false">https://osf.io/3zahk#ja</guid>
     <pubDate>Mon, 20 Apr 2026 21:29:55 +0000</pubDate>
@@ -251,14 +258,14 @@
     <description>Do sex, health, lifestyle and active coping modify the associations between life events and psychotropic medication use? A linked cohort-registry study.</description>
   </item>
   <item>
-    <title>「右派的権威主義傾向の高い者によるフリーライダー罰則の社会的報酬としての『右側からの拍手』の受容」</title>
+    <title>「右派的権威主義者におけるフリーライダー処罰の社会的報酬：『右側』からの称賛の受容」</title>
     <link>https://osf.io/qsa7x</link>
     <guid isPermaLink="false">https://osf.io/qsa7x#ja</guid>
     <pubDate>Mon, 20 Apr 2026 21:29:54 +0000</pubDate>
     <description>Receiving Applause &quot;From the Right&quot;: Punishing Freeriders is Socially Rewarded by Those High in Right-Wing Authoritarianism</description>
   </item>
   <item>
-    <title>一貫性の問題：精神病理学的変容の計算論的・現象学的・ネットワーク的説明の統合</title>
+    <title>一貫性の問題：精神病理的変容の計算論的・現象学的・ネットワーク的説明の統合</title>
     <link>https://osf.io/w28g9</link>
     <guid isPermaLink="false">https://osf.io/w28g9#ja</guid>
     <pubDate>Mon, 20 Apr 2026 21:29:54 +0000</pubDate>
@@ -272,7 +279,7 @@
     <description>Protocol for measuring the effects of cortical scotoma on visual space perception</description>
   </item>
   <item>
-    <title>ストレスは伝染する：他者の苦痛観察が情動的共感により形成される心血管ストレス反応を引き起こす</title>
+    <title>ストレスは伝染する：他者の苦痛観察が感情的共感により形成される心血管ストレス反応を引き起こす</title>
     <link>https://osf.io/qfbwc</link>
     <guid isPermaLink="false">https://osf.io/qfbwc#ja</guid>
     <pubDate>Mon, 20 Apr 2026 20:38:21 +0000</pubDate>
@@ -300,7 +307,7 @@
     <description>Test-retest reliability of multiple-target search: Eye movements and performance metrics</description>
   </item>
   <item>
-    <title>誤情報曝露の理解：社会的態度、制度への信頼、道徳認知、感情的分極化への影響</title>
+    <title>誤情報曝露の理解：社会的態度、制度への信頼、道徳認知、および感情的分極への影響</title>
     <link>https://osf.io/qdjts</link>
     <guid isPermaLink="false">https://osf.io/qdjts#ja</guid>
     <pubDate>Mon, 20 Apr 2026 10:13:16 +0000</pubDate>
@@ -335,25 +342,18 @@
     <description>Open science without access: the hidden inequalities of pseudo-open data gatekeeping</description>
   </item>
   <item>
-    <title>聴覚障害を有する高齢者における音声・視覚語不一致課題を用いた異感覚可塑性の知覚的証拠の評価</title>
+    <title>聴覚障害を有する高齢者における視聴覚語不一致課題を用いた異感覚間可塑性の知覚的証拠の評価</title>
     <link>https://osf.io/e9skc</link>
     <guid isPermaLink="false">https://osf.io/e9skc#ja</guid>
     <pubDate>Sun, 19 Apr 2026 15:05:01 +0000</pubDate>
     <description>Evaluating perceptual evidence of cross-modal plasticity in older adults with hearing loss using an audio–visual word mismatch task</description>
   </item>
   <item>
-    <title>自己なき自己形成：自己同一性の計算論的説明における欠落次元</title>
+    <title>自己なき自己化：自己性の計算論的説明における同一視の欠落次元</title>
     <link>https://osf.io/ysqf4</link>
     <guid isPermaLink="false">https://osf.io/ysqf4#ja</guid>
     <pubDate>Tue, 14 Apr 2026 10:08:19 +0000</pubDate>
     <description>Selfing without a self: The missing dimension of identification in computational accounts of selfhood</description>
-  </item>
-  <item>
-    <title>協働・創造・想像力：共想像が発散的思考に及ぼす影響の検討</title>
-    <link>https://osf.io/9d2ue</link>
-    <guid isPermaLink="false">https://osf.io/9d2ue#ja</guid>
-    <pubDate>Tue, 14 Apr 2026 10:08:19 +0000</pubDate>
-    <description>Collaboration, Creation, &amp;amp; Imagination: Exploring the Effects of Co-Imagination on Divergent Thinking</description>
   </item>
 </channel>
 </rss>
