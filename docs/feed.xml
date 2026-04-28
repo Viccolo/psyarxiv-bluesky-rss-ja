@@ -6,7 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>学校を拠点とした指標的予防メンタルヘルスプログラムにおける関与と影響を支える主要プロセス：若年層の視点からの質的研究</title>
+    <title>幼児は作業記憶において自発的に先取り的戦略を用いるか？</title>
+    <link>https://osf.io/5ch7z</link>
+    <guid isPermaLink="false">https://osf.io/5ch7z#ja</guid>
+    <pubDate>Tue, 28 Apr 2026 17:14:58 +0000</pubDate>
+    <description>Do young children spontaneously use proactive strategies in working memory?</description>
+  </item>
+  <item>
+    <title>学校を拠点とした示唆的予防的メンタルヘルスプログラムにおける関与と影響を支える主要プロセス：若年層の視点からの質的研究</title>
     <link>https://osf.io/63n8e</link>
     <guid isPermaLink="false">https://osf.io/63n8e#ja</guid>
     <pubDate>Tue, 28 Apr 2026 15:34:24 +0000</pubDate>
@@ -20,7 +27,7 @@
     <description>Quest for Significance is Linked to Power Motives: Correlational and Experimental Evidence</description>
   </item>
   <item>
-    <title>分断を埋めるか？受容を高めずに敵意を減少させる試み：Moritzら（2026）へのコメント</title>
+    <title>分断を埋めるか？受容を増やさずに敵意を減少させる試み：Moritzら（2026）へのコメント</title>
     <link>https://osf.io/thvmu</link>
     <guid isPermaLink="false">https://osf.io/thvmu#ja</guid>
     <pubDate>Tue, 28 Apr 2026 15:34:23 +0000</pubDate>
@@ -34,14 +41,14 @@
     <description>Mind wandering is not an obstacle, but a functional component of human learning</description>
   </item>
   <item>
-    <title>メキシコ系アメリカ成人およびトルコ系ドイツ成人を対象とした社会経済的ストレス尺度（SESI）の開発と検証</title>
+    <title>メキシコ系アメリカ成人およびトルコ系ドイツ成人を対象とした社会経済的ストレス評価尺度（SESI）の開発と検証</title>
     <link>https://osf.io/mp856</link>
     <guid isPermaLink="false">https://osf.io/mp856#ja</guid>
     <pubDate>Tue, 28 Apr 2026 09:35:35 +0000</pubDate>
     <description>Development and Validation of the Socioeconomic Stress Inventory (SESI) for Mexican-Origin U.S. Adults and Turkish-Origin German Adults</description>
   </item>
   <item>
-    <title>音声および感情における言語階層を横断した音響手がかりの動的再重み付け</title>
+    <title>音声と言語階層における音響手がかりの動的再重み付けと感情認知</title>
     <link>https://osf.io/jeb5d</link>
     <guid isPermaLink="false">https://osf.io/jeb5d#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:58 +0000</pubDate>
@@ -55,7 +62,7 @@
     <description>Synergistic Effects of Future Orientation and Somatic Markers in Predicting  Decision-Making Under Uncertainty</description>
   </item>
   <item>
-    <title>裏切り感情と抑うつ症状および心的外傷後ストレス障害症状との前向き関連に関する結論の出ない検討：Kapel Lev-ariら（2026）へのコメント</title>
+    <title>裏切り感情と抑うつ症状および心的外傷後ストレス障害症状との前向き関連に関する不確定な結果：Kapel Lev-ariら（2026）へのコメント</title>
     <link>https://osf.io/cz7uh</link>
     <guid isPermaLink="false">https://osf.io/cz7uh#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:55 +0000</pubDate>
@@ -69,21 +76,21 @@
     <description>Nudging Cooperation in Environmental Social Dilemmas: Moral versus Social Appeals in Waste Sorting</description>
   </item>
   <item>
-    <title>人間の指示が大型言語モデルにおける創造性を促進する</title>
+    <title>人間の指示が大規模言語モデルにおける創造性を促進する</title>
     <link>https://osf.io/wkbms</link>
     <guid isPermaLink="false">https://osf.io/wkbms#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:54 +0000</pubDate>
     <description>Human direction drives creativity with large language models</description>
   </item>
   <item>
-    <title>大型類人猿の子音様発声：ヒト科の発声器官連続性の精密検証</title>
+    <title>大型類人猿の子音様発声：ヒト科の発声器官連続性の解明</title>
     <link>https://osf.io/dy6zv</link>
     <guid isPermaLink="false">https://osf.io/dy6zv#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:54 +0000</pubDate>
     <description>Great ape consonant-like calls: Honing in on hominid articulatory continuity</description>
   </item>
   <item>
-    <title>アプリから語彙へ：第二言語における単語統合の神経認知マーカー</title>
+    <title>アプリから語彙へ：第二言語における単語統合の神経認知的指標</title>
     <link>https://osf.io/nx3s2</link>
     <guid isPermaLink="false">https://osf.io/nx3s2#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:53 +0000</pubDate>
@@ -104,63 +111,63 @@
     <description>Lay beliefs about the impact of reminiscing about sport milestones on future performance</description>
   </item>
   <item>
-    <title>コカイン使用障害における事象関連電位および定量的脳波変化の系統的レビュー</title>
+    <title>コカイン使用障害における事象関連電位および定量的脳波の変化：系統的レビュー</title>
     <link>https://osf.io/u36te</link>
     <guid isPermaLink="false">https://osf.io/u36te#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:52 +0000</pubDate>
     <description>Event-Related Potential and Quantitative EEG Alterations in Cocaine Use Disorder: A Systematic Review</description>
   </item>
   <item>
-    <title>選択としての愛着：排他的絆形成のための感受性期枠組み</title>
+    <title>選択としての愛着：排他的絆形成のための感受性期フレームワーク</title>
     <link>https://osf.io/hf7ap</link>
     <guid isPermaLink="false">https://osf.io/hf7ap#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:52 +0000</pubDate>
     <description>Attachment as Selection: A Sensitive Period Framework for Exclusive Bond Formation</description>
   </item>
   <item>
-    <title>標的テンプレートの柔軟性調整にあって、妨害刺激テンプレートの調整ではない</title>
+    <title>標的テンプレートの柔軟性調整に関する研究：妨害刺激テンプレートではなく</title>
     <link>https://osf.io/2rt8v</link>
     <guid isPermaLink="false">https://osf.io/2rt8v#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:52 +0000</pubDate>
     <description>Tuning flexibility of target templates, not of distractor templates</description>
   </item>
   <item>
-    <title>小児期コミュニケーション困難に関する研究における患者および一般市民参加の現状と質に関する系統的レビュー</title>
+    <title>小児期コミュニケーション困難に関する研究における患者および一般市民参加の現状と質に関する体系的レビュー</title>
     <link>https://osf.io/4n2ku</link>
     <guid isPermaLink="false">https://osf.io/4n2ku#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:51 +0000</pubDate>
     <description>A systematic review on the status and quality of Patient and Public Involvement in research on childhood communication difficulties</description>
   </item>
   <item>
-    <title>精神保健専門職における大規模言語モデルの受容と活用：横断的観察研究</title>
+    <title>精神保健専門職における大規模言語モデルの受容と利用：横断的観察研究</title>
     <link>https://osf.io/pd938</link>
     <guid isPermaLink="false">https://osf.io/pd938#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:51 +0000</pubDate>
     <description>Acceptance and Use of Large Language Models in Mental Health Professionals: A Cross-Sectional Observational Study</description>
   </item>
   <item>
-    <title>MEGによる計測を用いた夕方の昼寝中の意識の神経基盤：登録報告</title>
+    <title>MEGによる夕方の昼寝中の意識の神経基盤：登録報告</title>
     <link>https://osf.io/zgw6x</link>
     <guid isPermaLink="false">https://osf.io/zgw6x#ja</guid>
     <pubDate>Mon, 27 Apr 2026 01:56:53 +0000</pubDate>
     <description>The Neural Basis of Consciousness During Evening Naps Measured by MEG: A Registered Report</description>
   </item>
   <item>
-    <title>短尺動画の説得効果における注意メカニズム</title>
+    <title>短編動画の説得効果における注意メカニズム</title>
     <link>https://osf.io/67mx4</link>
     <guid isPermaLink="false">https://osf.io/67mx4#ja</guid>
     <pubDate>Sat, 25 Apr 2026 23:39:52 +0000</pubDate>
     <description>The Attentional Mechanism of Short Videos’ Persuasive Effects</description>
   </item>
   <item>
-    <title>リモートIT専門職における自律性の性差は持続する一方で、仕事と家庭の葛藤は年齢によって異なる：横断的調査研究</title>
+    <title>リモートIT専門職における自律性の性差の持続と年齢による仕事・家庭葛藤の差異：横断的調査研究</title>
     <link>https://osf.io/9pgyc</link>
     <guid isPermaLink="false">https://osf.io/9pgyc#ja</guid>
     <pubDate>Sat, 25 Apr 2026 23:39:52 +0000</pubDate>
     <description>Gender gaps in autonomy persist among remote IT professionals, whereas work-family conflict varies by age: a cross-sectional survey</description>
   </item>
   <item>
-    <title>主観的経験としての意識は、心的シミュレーションと環境連結の軸のダイナミクスから生じる</title>
+    <title>主観的経験としての意識は、心的シミュレーションと環境連結軸の動態から生じる</title>
     <link>https://osf.io/hwt3a</link>
     <guid isPermaLink="false">https://osf.io/hwt3a#ja</guid>
     <pubDate>Fri, 24 Apr 2026 22:03:29 +0000</pubDate>
@@ -181,7 +188,7 @@
     <description>Modeling Decision Making During Social Cognition</description>
   </item>
   <item>
-    <title>気候変動と紛争：気候対策を阻害する悪循環とその打破に向けた方策</title>
+    <title>気候変動と紛争：気候対策を阻む悪循環とその打破に向けた方策</title>
     <link>https://osf.io/458zb</link>
     <guid isPermaLink="false">https://osf.io/458zb#ja</guid>
     <pubDate>Fri, 24 Apr 2026 21:10:47 +0000</pubDate>
@@ -195,21 +202,21 @@
     <description>The Temporal Sequence of Party Leader Incongruence: a data-driven ERP study</description>
   </item>
   <item>
-    <title>いじめおよび被害経験の減少を目的とした学校介入の有効性：BRAVEメタアナリシスに基づくサブグループ分析</title>
+    <title>いじめおよび被害の減少を目的とした学校介入の有効性：BRAVEメタアナリシスに基づくサブグループ分析</title>
     <link>https://osf.io/8vrup</link>
     <guid isPermaLink="false">https://osf.io/8vrup#ja</guid>
     <pubDate>Thu, 23 Apr 2026 21:02:24 +0000</pubDate>
     <description>Effectiveness of School-Based Interventions for Reducing Bullying and Victimisation: A Subgroup Analysis from the BRAVE Meta-Analysis</description>
   </item>
   <item>
-    <title>脳卒中ケアにおける努力認知の重要性：エビデンスから理想的ケアパスウェイへの提言</title>
+    <title>脳卒中ケアにおける努力認知の重要性：エビデンスから理想的ケアパスウェイへ－意見論文</title>
     <link>https://osf.io/swfbp</link>
     <guid isPermaLink="false">https://osf.io/swfbp#ja</guid>
     <pubDate>Thu, 23 Apr 2026 21:02:24 +0000</pubDate>
     <description>On the importance of effort perception in stroke care: From evidence to an ideal care pathway – An opinion paper</description>
   </item>
   <item>
-    <title>AI支援視覚探索：手がかり提示法と表示形式が検出、遵守、および技能保持に及ぼす影響</title>
+    <title>AI支援視覚探索：手がかり提示方法と表示形式が検出率、遵守度、技能保持に及ぼす影響</title>
     <link>https://osf.io/r5qcn</link>
     <guid isPermaLink="false">https://osf.io/r5qcn#ja</guid>
     <pubDate>Thu, 23 Apr 2026 21:02:24 +0000</pubDate>
@@ -223,7 +230,7 @@
     <description>Cardio-respiratory rhythms shape when we act and how we experience the outcomes of our actions</description>
   </item>
   <item>
-    <title>遅延抑制の百年後：体系的レビューとメタアナリシス</title>
+    <title>遅延抑制の百年後：系統的レビューとメタアナリシス</title>
     <link>https://osf.io/a9q3n</link>
     <guid isPermaLink="false">https://osf.io/a9q3n#ja</guid>
     <pubDate>Thu, 23 Apr 2026 21:02:23 +0000</pubDate>
@@ -237,7 +244,7 @@
     <description>Social Media Reward Sensitivity and Depressive Symptoms Over Time</description>
   </item>
   <item>
-    <title>行動–意図結合によるエージェンシー構造の解明と心的映像欠損症における崩壊</title>
+    <title>行動–意図結合によるエージェンシー構造の解明とアファンタジアにおけるその崩壊</title>
     <link>https://osf.io/kdcqb</link>
     <guid isPermaLink="false">https://osf.io/kdcqb#ja</guid>
     <pubDate>Tue, 21 Apr 2026 20:40:30 +0000</pubDate>
@@ -251,7 +258,7 @@
     <description>Identifying hidden cognate effects in L2 lexical retrieval tasks: A tutorial for stimulus design</description>
   </item>
   <item>
-    <title>物理学と知覚の統合：構成則が人間のカテゴリー化を支配する仕組み</title>
+    <title>物理学と知覚の統合：構成則が人間のカテゴリー化を支配するメカニズム</title>
     <link>https://osf.io/tnaxq</link>
     <guid isPermaLink="false">https://osf.io/tnaxq#ja</guid>
     <pubDate>Tue, 21 Apr 2026 19:51:32 +0000</pubDate>
@@ -265,7 +272,7 @@
     <description>Radical Aesthetics and the Digital Self: Embodied Onto-Phenomenology in the Age of Digital Mediation</description>
   </item>
   <item>
-    <title>青少年におけるスマートフォン・ソーシャルメディア行動の潜在的次元と精神健康の関連における睡眠の媒介効果</title>
+    <title>思春期におけるスマートフォン・ソーシャルメディア行動の潜在的次元と精神健康の関連における睡眠の媒介効果</title>
     <link>https://osf.io/wkjzv</link>
     <guid isPermaLink="false">https://osf.io/wkjzv#ja</guid>
     <pubDate>Tue, 21 Apr 2026 19:51:32 +0000</pubDate>
@@ -286,7 +293,7 @@
     <description>Implicit–Explicit Dissociation in Social Interaction Preferences in Autism Spectrum Disorder and Its Association with Loneliness</description>
   </item>
   <item>
-    <title>結婚式に持参してはいけない最悪の贈り物とは？風変わりな質問を用いた創造的ユーモア生成の測定</title>
+    <title>結婚式に持参する最悪の贈り物とは何か？風変わりな質問を用いた創造的ユーモア生成の測定</title>
     <link>https://osf.io/uy7m3</link>
     <guid isPermaLink="false">https://osf.io/uy7m3#ja</guid>
     <pubDate>Tue, 21 Apr 2026 19:51:31 +0000</pubDate>
@@ -300,14 +307,14 @@
     <description>Uncovering event and narrative structure from temporal memory</description>
   </item>
   <item>
-    <title>心のさまよいの時間的動態：作業記憶と動機づけが意図的および非意図的な注意の漂流に及ぼす影響</title>
+    <title>心のさまよいの時間的動態：作業記憶と動機づけが意図的および非意図的な注意の逸脱に及ぼす影響</title>
     <link>https://osf.io/qz2j8</link>
     <guid isPermaLink="false">https://osf.io/qz2j8#ja</guid>
     <pubDate>Tue, 21 Apr 2026 19:51:30 +0000</pubDate>
     <description>Temporal Dynamics of Mind Wandering: How Working Memory and Motivation Shape Intentional and Unintentional Attentional Drift Over Time</description>
   </item>
   <item>
-    <title>二重ループ専門性のパラドックス：教員とAIの協働実践理解のための枠組み</title>
+    <title>二重ループ専門性パラドックス：教員とAIの協働実践理解のための枠組み</title>
     <link>https://osf.io/tew9n</link>
     <guid isPermaLink="false">https://osf.io/tew9n#ja</guid>
     <pubDate>Tue, 21 Apr 2026 15:23:28 +0000</pubDate>
@@ -328,32 +335,25 @@
     <description>Helping Hands, Flourishing Hearts: A Meta-Analytic Study of Organizational Citizenship Behaviors and Subjective Well-Being</description>
   </item>
   <item>
-    <title>代替肉の選択者と選択場所の解明：離散選択実験を用いた食環境および個人差が植物由来肉と細胞培養肉の選択に与える影響の検討</title>
+    <title>代替肉の選択者と選択場所の解明：離散選択実験を用いた食環境および個人差が植物由来肉と培養肉の選択に与える影響</title>
     <link>https://osf.io/2a5n3</link>
     <guid isPermaLink="false">https://osf.io/2a5n3#ja</guid>
     <pubDate>Tue, 21 Apr 2026 15:23:27 +0000</pubDate>
     <description>Who chooses alternative meat and where? Understanding how foodscapes and individual variation shape plant-based meat and cell-cultured meat choices using a Discrete Choice Experiment</description>
   </item>
   <item>
-    <title>リズミカルな手のジェスチャーが音声の後続区切りを促進する</title>
+    <title>リズミカルな手のジェスチャーが音声の後続部分の区切りを促進する</title>
     <link>https://osf.io/7mz6g</link>
     <guid isPermaLink="false">https://osf.io/7mz6g#ja</guid>
     <pubDate>Tue, 21 Apr 2026 15:23:27 +0000</pubDate>
     <description>Rhythmic hand gestures guide the segmentation of speech downstream</description>
   </item>
   <item>
-    <title>大規模言語モデルを用いた知識検査の項目特性予測</title>
+    <title>大規模言語モデルを用いた知識テストの項目特性予測</title>
     <link>https://osf.io/mv8sk</link>
     <guid isPermaLink="false">https://osf.io/mv8sk#ja</guid>
     <pubDate>Tue, 21 Apr 2026 15:23:26 +0000</pubDate>
     <description>Predicting Item-Level Characteristics of Knowledge Tests Using Large-Language Models</description>
-  </item>
-  <item>
-    <title>アイルランドの男性大学生における自殺リスクの心理社会的および男性性関連予測因子</title>
-    <link>https://osf.io/7xpv3</link>
-    <guid isPermaLink="false">https://osf.io/7xpv3#ja</guid>
-    <pubDate>Tue, 21 Apr 2026 15:23:26 +0000</pubDate>
-    <description>Psychosocial and Masculinity-Related Predictors of Suicide Risk Among Male University Students in Ireland</description>
   </item>
 </channel>
 </rss>
