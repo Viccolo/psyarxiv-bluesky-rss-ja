@@ -6,14 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>メキシコ系アメリカ成人およびトルコ系ドイツ成人を対象とした社会経済的ストレス評価尺度（SESI）の開発と検証</title>
+    <title>メキシコ系アメリカ成人およびトルコ系ドイツ成人を対象とした社会経済的ストレス尺度（SESI）の開発と検証</title>
     <link>https://osf.io/mp856</link>
     <guid isPermaLink="false">https://osf.io/mp856#ja</guid>
     <pubDate>Tue, 28 Apr 2026 09:35:35 +0000</pubDate>
     <description>Development and Validation of the Socioeconomic Stress Inventory (SESI) for Mexican-Origin U.S. Adults and Turkish-Origin German Adults</description>
   </item>
   <item>
-    <title>音声および感情における言語階層を越えた音響手がかりの動的再重み付け</title>
+    <title>音声と言語階層における音響手がかりの動的再重み付けと感情認知</title>
     <link>https://osf.io/jeb5d</link>
     <guid isPermaLink="false">https://osf.io/jeb5d#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:58 +0000</pubDate>
@@ -27,14 +27,14 @@
     <description>Synergistic Effects of Future Orientation and Somatic Markers in Predicting  Decision-Making Under Uncertainty</description>
   </item>
   <item>
-    <title>裏切り感情と抑うつ症状および心的外傷後ストレス障害症状との前向き関連に関する不確定な結果：Kapel Lev-ariら（2026）へのコメント</title>
+    <title>裏切り感情とうつ病および心的外傷後ストレス障害症状との前向き関連に関する結論の出ない検討：Kapel Lev-ariら（2026）へのコメント</title>
     <link>https://osf.io/cz7uh</link>
     <guid isPermaLink="false">https://osf.io/cz7uh#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:55 +0000</pubDate>
     <description>Inconclusive prospective associations between feelings of betrayal and symptoms of depression and post-traumatic stress disorder: A comment on Kapel Lev-ari et al. (2026)</description>
   </item>
   <item>
-    <title>環境における社会的ジレンマにおける協力の促進：廃棄物分別における道徳的訴求と社会的訴求の比較</title>
+    <title>環境における社会的ジレンマにおける協力の促進：ごみ分別における道徳的訴求と社会的訴求の比較</title>
     <link>https://osf.io/wyx7z</link>
     <guid isPermaLink="false">https://osf.io/wyx7z#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:55 +0000</pubDate>
@@ -55,7 +55,7 @@
     <description>Great ape consonant-like calls: Honing in on hominid articulatory continuity</description>
   </item>
   <item>
-    <title>アプリから語彙へ：第二言語における語彙統合の神経認知的指標</title>
+    <title>アプリから語彙へ：第二言語における単語統合の神経認知的指標</title>
     <link>https://osf.io/nx3s2</link>
     <guid isPermaLink="false">https://osf.io/nx3s2#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:53 +0000</pubDate>
@@ -97,7 +97,7 @@
     <description>Tuning flexibility of target templates, not of distractor templates</description>
   </item>
   <item>
-    <title>小児期コミュニケーション困難に関する研究における患者および一般市民の関与の現状と質に関する体系的レビュー</title>
+    <title>小児期コミュニケーション困難に関する研究における患者および一般市民参加の現状と質に関する体系的レビュー</title>
     <link>https://osf.io/4n2ku</link>
     <guid isPermaLink="false">https://osf.io/4n2ku#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:51 +0000</pubDate>
@@ -139,7 +139,7 @@
     <description>Consciousness as subjective experience emerges from the dynamics of the mental-simulation versus environment-coupling axis.</description>
   </item>
   <item>
-    <title>標準的結合認知モデルにおける純粋言語的長期記憶と数値・言語的長期記憶の関係性</title>
+    <title>標準的共認識モデルにおける純粋言語的長期記憶と数値・言語複合長期記憶の関係性</title>
     <link>https://osf.io/sdz56</link>
     <guid isPermaLink="false">https://osf.io/sdz56#ja</guid>
     <pubDate>Fri, 24 Apr 2026 22:03:29 +0000</pubDate>
@@ -167,7 +167,7 @@
     <description>The Temporal Sequence of Party Leader Incongruence: a data-driven ERP study</description>
   </item>
   <item>
-    <title>いじめおよび被害の軽減に向けた学校介入の有効性：BRAVEメタアナリシスによるサブグループ分析</title>
+    <title>いじめおよび被害の軽減を目的とした学校介入の有効性：BRAVEメタアナリシスに基づくサブグループ分析</title>
     <link>https://osf.io/8vrup</link>
     <guid isPermaLink="false">https://osf.io/8vrup#ja</guid>
     <pubDate>Thu, 23 Apr 2026 21:02:24 +0000</pubDate>
@@ -181,7 +181,7 @@
     <description>On the importance of effort perception in stroke care: From evidence to an ideal care pathway – An opinion paper</description>
   </item>
   <item>
-    <title>AI支援視覚探索における手がかり提示方法と表示形式が検出率、遵守行動および技能保持に及ぼす影響</title>
+    <title>AI支援視覚探索：キューイング方法と表示形式が検出、遵守、および技能保持に及ぼす影響</title>
     <link>https://osf.io/r5qcn</link>
     <guid isPermaLink="false">https://osf.io/r5qcn#ja</guid>
     <pubDate>Thu, 23 Apr 2026 21:02:24 +0000</pubDate>
@@ -209,21 +209,21 @@
     <description>Social Media Reward Sensitivity and Depressive Symptoms Over Time</description>
   </item>
   <item>
-    <title>行動–意図結合によるエージェンシー構造の解明とアファンタジアにおけるその崩壊</title>
+    <title>行動–意図結合はエージェンシーの構造を明らかにし、心的映像欠損症において崩壊する</title>
     <link>https://osf.io/kdcqb</link>
     <guid isPermaLink="false">https://osf.io/kdcqb#ja</guid>
     <pubDate>Tue, 21 Apr 2026 20:40:30 +0000</pubDate>
     <description>Action–Intention Binding Coupling Reveals Agency Architecture and Breaks Down in Aphantasia</description>
   </item>
   <item>
-    <title>第二言語語彙検索課題における潜在的な同根語効果の特定：刺激設計のためのチュートリアル</title>
+    <title>第二言語語彙検索課題における隠れた同根語効果の特定：刺激設計のためのチュートリアル</title>
     <link>https://osf.io/ar4zh</link>
     <guid isPermaLink="false">https://osf.io/ar4zh#ja</guid>
     <pubDate>Tue, 21 Apr 2026 20:40:29 +0000</pubDate>
     <description>Identifying hidden cognate effects in L2 lexical retrieval tasks: A tutorial for stimulus design</description>
   </item>
   <item>
-    <title>物理学と知覚の融合：構成則が人間のカテゴリー化を支配する仕組み</title>
+    <title>物理学と知覚の統合：構成則が人間のカテゴリー化を支配するメカニズム</title>
     <link>https://osf.io/tnaxq</link>
     <guid isPermaLink="false">https://osf.io/tnaxq#ja</guid>
     <pubDate>Tue, 21 Apr 2026 19:51:32 +0000</pubDate>
@@ -237,21 +237,21 @@
     <description>Radical Aesthetics and the Digital Self: Embodied Onto-Phenomenology in the Age of Digital Mediation</description>
   </item>
   <item>
-    <title>スマートフォン・ソーシャルメディア行動の潜在次元と青年期のメンタルヘルスとの関連における睡眠の媒介効果</title>
+    <title>青少年におけるスマートフォン・ソーシャルメディア行動の潜在的次元と精神健康の関連における睡眠の媒介効果</title>
     <link>https://osf.io/wkjzv</link>
     <guid isPermaLink="false">https://osf.io/wkjzv#ja</guid>
     <pubDate>Tue, 21 Apr 2026 19:51:32 +0000</pubDate>
     <description>Mediating effects of sleep in the association between latent dimensions of smartphone/social media behaviours and mental health in adolescents</description>
   </item>
   <item>
-    <title>不安は条件付けられた身体感覚の持続性と関連する</title>
+    <title>不安は条件付けられた身体感覚の持続に関連する</title>
     <link>https://osf.io/dmgnh</link>
     <guid isPermaLink="false">https://osf.io/dmgnh#ja</guid>
     <pubDate>Tue, 21 Apr 2026 19:51:31 +0000</pubDate>
     <description>Anxiety is associated with the persistence of conditioned somatic sensations over time</description>
   </item>
   <item>
-    <title>自閉スペクトラム症における社会的相互作用嗜好の暗黙的・顕在的乖離と孤独感との関連</title>
+    <title>自閉スペクトラム症における社会的相互作用嗜好の暗黙的–顕在的乖離と孤独感との関連</title>
     <link>https://osf.io/hbdsr</link>
     <guid isPermaLink="false">https://osf.io/hbdsr#ja</guid>
     <pubDate>Tue, 21 Apr 2026 19:51:31 +0000</pubDate>
@@ -272,35 +272,35 @@
     <description>Uncovering event and narrative structure from temporal memory</description>
   </item>
   <item>
-    <title>心のさまよいの時間的動態：作業記憶と動機づけが意図的および非意図的注意の逸脱に与える影響</title>
+    <title>心のさまよいの時間的動態：作業記憶と動機づけが意図的および非意図的注意の漂流に与える影響</title>
     <link>https://osf.io/qz2j8</link>
     <guid isPermaLink="false">https://osf.io/qz2j8#ja</guid>
     <pubDate>Tue, 21 Apr 2026 19:51:30 +0000</pubDate>
     <description>Temporal Dynamics of Mind Wandering: How Working Memory and Motivation Shape Intentional and Unintentional Attentional Drift Over Time</description>
   </item>
   <item>
-    <title>二重ループ専門性のパラドックス：教員とAIの協働実践理解のための枠組み</title>
+    <title>ダブルループ専門性のパラドックス：教員とAIの協働実践を理解するための枠組み</title>
     <link>https://osf.io/tew9n</link>
     <guid isPermaLink="false">https://osf.io/tew9n#ja</guid>
     <pubDate>Tue, 21 Apr 2026 15:23:28 +0000</pubDate>
     <description>The Double-Looped Expertise Paradox: A Framework for Understanding Teacher-AI Collaborative Practices</description>
   </item>
   <item>
-    <title>心理的予防接種としての宗教教義：予告、反論的先制措置、および信念持続の文化的進化</title>
+    <title>心理的免疫としての宗教教義：予告、反論的先制、そして信念持続の文化的進化</title>
     <link>https://osf.io/zmnwx</link>
     <guid isPermaLink="false">https://osf.io/zmnwx#ja</guid>
     <pubDate>Tue, 21 Apr 2026 15:23:27 +0000</pubDate>
     <description>Religious Doctrines as Psychological Inoculations:  Forewarning, Refutational Preemption, and the Cultural Evolution of Belief Persistence</description>
   </item>
   <item>
-    <title>援助行動と心の充実：組織市民行動と主観的幸福感に関するメタ分析研究</title>
+    <title>助け合う手、花開く心：組織市民行動と主観的幸福感に関するメタ分析研究</title>
     <link>https://osf.io/qwsrz</link>
     <guid isPermaLink="false">https://osf.io/qwsrz#ja</guid>
     <pubDate>Tue, 21 Apr 2026 15:23:27 +0000</pubDate>
     <description>Helping Hands, Flourishing Hearts: A Meta-Analytic Study of Organizational Citizenship Behaviors and Subjective Well-Being</description>
   </item>
   <item>
-    <title>代替肉の選択者と選択場所の解明：離散選択実験を用いた食環境および個人差が植物由来肉と細胞培養肉の選択に与える影響</title>
+    <title>代替肉の選択者と選択場所の解明：離散選択実験を用いた食環境および個人差が植物由来肉と培養肉の選択に与える影響</title>
     <link>https://osf.io/2a5n3</link>
     <guid isPermaLink="false">https://osf.io/2a5n3#ja</guid>
     <pubDate>Tue, 21 Apr 2026 15:23:27 +0000</pubDate>
@@ -321,7 +321,7 @@
     <description>Predicting Item-Level Characteristics of Knowledge Tests Using Large-Language Models</description>
   </item>
   <item>
-    <title>アイルランドの男性大学生における自殺リスクの心理社会的および男性性関連予測因子</title>
+    <title>アイルランドの男子大学生における自殺リスクの心理社会的および男性性関連予測因子</title>
     <link>https://osf.io/7xpv3</link>
     <guid isPermaLink="false">https://osf.io/7xpv3#ja</guid>
     <pubDate>Tue, 21 Apr 2026 15:23:26 +0000</pubDate>
@@ -342,7 +342,7 @@
     <description>The Forensic Engine: Integrated Quality Control for Meta-Analytic Data Extraction at Scale</description>
   </item>
   <item>
-    <title>大学における自己調整、心理的幸福感およびストレス：混合研究法による検討</title>
+    <title>大学における自己調整、心理的幸福感およびストレス：混合方法研究</title>
     <link>https://osf.io/zkbnt</link>
     <guid isPermaLink="false">https://osf.io/zkbnt#ja</guid>
     <pubDate>Tue, 21 Apr 2026 15:23:25 +0000</pubDate>
