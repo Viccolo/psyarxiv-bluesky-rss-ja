@@ -6,7 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>音声および感情における言語階層を越えた音響手がかりの動的再重み付け</title>
+    <title>メキシコ系アメリカ成人およびトルコ系ドイツ成人を対象とした社会経済的ストレス評価尺度（SESI）の開発と検証</title>
+    <link>https://osf.io/mp856</link>
+    <guid isPermaLink="false">https://osf.io/mp856#ja</guid>
+    <pubDate>Tue, 28 Apr 2026 09:35:35 +0000</pubDate>
+    <description>Development and Validation of the Socioeconomic Stress Inventory (SESI) for Mexican-Origin U.S. Adults and Turkish-Origin German Adults</description>
+  </item>
+  <item>
+    <title>音声および感情における言語階層を超えた音響手がかりの動的再重み付け</title>
     <link>https://osf.io/jeb5d</link>
     <guid isPermaLink="false">https://osf.io/jeb5d#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:58 +0000</pubDate>
@@ -20,14 +27,14 @@
     <description>Synergistic Effects of Future Orientation and Somatic Markers in Predicting  Decision-Making Under Uncertainty</description>
   </item>
   <item>
-    <title>裏切り感情と抑うつ症状および心的外傷後ストレス障害症状との前向き関連に関する不確定な結果：Kapel Lev-ariら（2026）へのコメント</title>
+    <title>裏切り感情と抑うつ症状および心的外傷後ストレス障害症状との前向き関連の不確定性：Kapel Lev-ariら（2026）へのコメント</title>
     <link>https://osf.io/cz7uh</link>
     <guid isPermaLink="false">https://osf.io/cz7uh#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:55 +0000</pubDate>
     <description>Inconclusive prospective associations between feelings of betrayal and symptoms of depression and post-traumatic stress disorder: A comment on Kapel Lev-ari et al. (2026)</description>
   </item>
   <item>
-    <title>環境における社会的ジレンマにおける協力の促進：廃棄物分別における道徳的訴求と社会的訴求の比較</title>
+    <title>環境における社会的ジレンマにおける協力の促進：ごみ分別における道徳的訴求と社会的訴求の比較</title>
     <link>https://osf.io/wyx7z</link>
     <guid isPermaLink="false">https://osf.io/wyx7z#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:55 +0000</pubDate>
@@ -41,14 +48,14 @@
     <description>Human direction drives creativity with large language models</description>
   </item>
   <item>
-    <title>大型類人猿の子音様発声：ヒト科の発声器官連続性の解明</title>
+    <title>大型類人猿の子音様発声：ヒト科の発声器官連続性の精密検討</title>
     <link>https://osf.io/dy6zv</link>
     <guid isPermaLink="false">https://osf.io/dy6zv#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:54 +0000</pubDate>
     <description>Great ape consonant-like calls: Honing in on hominid articulatory continuity</description>
   </item>
   <item>
-    <title>アプリから語彙へ：第二言語における語彙統合の神経認知マーカー</title>
+    <title>アプリから語彙へ：第二言語における語彙統合の神経認知的指標</title>
     <link>https://osf.io/nx3s2</link>
     <guid isPermaLink="false">https://osf.io/nx3s2#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:53 +0000</pubDate>
@@ -76,35 +83,35 @@
     <description>Event-Related Potential and Quantitative EEG Alterations in Cocaine Use Disorder: A Systematic Review</description>
   </item>
   <item>
-    <title>選択としての愛着：排他的絆形成のための感受性期フレームワーク</title>
+    <title>選択としての愛着：排他的絆形成の感受性期フレームワーク</title>
     <link>https://osf.io/hf7ap</link>
     <guid isPermaLink="false">https://osf.io/hf7ap#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:52 +0000</pubDate>
     <description>Attachment as Selection: A Sensitive Period Framework for Exclusive Bond Formation</description>
   </item>
   <item>
-    <title>標的テンプレートの柔軟性調整に関する研究：妨害刺激テンプレートではなく</title>
+    <title>標的テンプレートの柔軟性の調整に関する研究：妨害刺激テンプレートではなく</title>
     <link>https://osf.io/2rt8v</link>
     <guid isPermaLink="false">https://osf.io/2rt8v#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:52 +0000</pubDate>
     <description>Tuning flexibility of target templates, not of distractor templates</description>
   </item>
   <item>
-    <title>小児期コミュニケーション障害に関する研究における患者および一般市民参加の現状と質に関する体系的レビュー</title>
+    <title>小児期コミュニケーション困難に関する研究における患者および一般市民参加の現状と質に関する体系的レビュー</title>
     <link>https://osf.io/4n2ku</link>
     <guid isPermaLink="false">https://osf.io/4n2ku#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:51 +0000</pubDate>
     <description>A systematic review on the status and quality of Patient and Public Involvement in research on childhood communication difficulties</description>
   </item>
   <item>
-    <title>精神保健専門職における大規模言語モデルの受容と活用：横断的観察研究</title>
+    <title>精神保健専門職における大規模言語モデルの受容と利用：横断的観察研究</title>
     <link>https://osf.io/pd938</link>
     <guid isPermaLink="false">https://osf.io/pd938#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:51 +0000</pubDate>
     <description>Acceptance and Use of Large Language Models in Mental Health Professionals: A Cross-Sectional Observational Study</description>
   </item>
   <item>
-    <title>MEGを用いた夕方の昼寝中の意識の神経基盤：登録報告</title>
+    <title>MEGによる計測を用いた夕方の昼寝中の意識の神経基盤：登録報告</title>
     <link>https://osf.io/zgw6x</link>
     <guid isPermaLink="false">https://osf.io/zgw6x#ja</guid>
     <pubDate>Mon, 27 Apr 2026 01:56:53 +0000</pubDate>
@@ -125,14 +132,14 @@
     <description>Gender gaps in autonomy persist among remote IT professionals, whereas work-family conflict varies by age: a cross-sectional survey</description>
   </item>
   <item>
-    <title>主観的経験としての意識は、心的シミュレーションと環境連結の軸の動態から生じる</title>
+    <title>主観的経験としての意識は、心的シミュレーションと環境連結の軸のダイナミクスから生じる</title>
     <link>https://osf.io/hwt3a</link>
     <guid isPermaLink="false">https://osf.io/hwt3a#ja</guid>
     <pubDate>Fri, 24 Apr 2026 22:03:29 +0000</pubDate>
     <description>Consciousness as subjective experience emerges from the dynamics of the mental-simulation versus environment-coupling axis.</description>
   </item>
   <item>
-    <title>標準的共同認知モデルにおける純粋言語的長期記憶と数値・言語的長期記憶の関係性</title>
+    <title>標準共認識モデルにおける純粋言語的長期記憶と数値・言語混合長期記憶の関係性</title>
     <link>https://osf.io/sdz56</link>
     <guid isPermaLink="false">https://osf.io/sdz56#ja</guid>
     <pubDate>Fri, 24 Apr 2026 22:03:29 +0000</pubDate>
@@ -153,28 +160,28 @@
     <description>Climate change and conflict: The vicious cycles undermining climate action, and what can be done to break them</description>
   </item>
   <item>
-    <title>党首不一致の時間的連続性：データ駆動型ERP研究</title>
+    <title>党首の不一致の時間的連続性：データ駆動型ERP研究</title>
     <link>https://osf.io/2b8qg</link>
     <guid isPermaLink="false">https://osf.io/2b8qg#ja</guid>
     <pubDate>Fri, 24 Apr 2026 16:59:19 +0000</pubDate>
     <description>The Temporal Sequence of Party Leader Incongruence: a data-driven ERP study</description>
   </item>
   <item>
-    <title>いじめおよび被害の軽減を目的とした学校介入の有効性：BRAVEメタアナリシスに基づくサブグループ分析</title>
+    <title>いじめおよび被害の軽減を目的とした学校介入の有効性：BRAVEメタアナリシスによるサブグループ分析</title>
     <link>https://osf.io/8vrup</link>
     <guid isPermaLink="false">https://osf.io/8vrup#ja</guid>
     <pubDate>Thu, 23 Apr 2026 21:02:24 +0000</pubDate>
     <description>Effectiveness of School-Based Interventions for Reducing Bullying and Victimisation: A Subgroup Analysis from the BRAVE Meta-Analysis</description>
   </item>
   <item>
-    <title>脳卒中ケアにおける努力認知の重要性：エビデンスから理想的ケアパスへの提言</title>
+    <title>脳卒中ケアにおける努力認知の重要性：エビデンスから理想的ケアパスウェイへの提言</title>
     <link>https://osf.io/swfbp</link>
     <guid isPermaLink="false">https://osf.io/swfbp#ja</guid>
     <pubDate>Thu, 23 Apr 2026 21:02:24 +0000</pubDate>
     <description>On the importance of effort perception in stroke care: From evidence to an ideal care pathway – An opinion paper</description>
   </item>
   <item>
-    <title>AI支援視覚探索：キューイング方法と表示形式が検出率、遵守率および技能保持に与える影響</title>
+    <title>AI支援視覚探索：手がかり提示方法と表示形式が検出率、遵守行動、技能保持に及ぼす影響</title>
     <link>https://osf.io/r5qcn</link>
     <guid isPermaLink="false">https://osf.io/r5qcn#ja</guid>
     <pubDate>Thu, 23 Apr 2026 21:02:24 +0000</pubDate>
@@ -202,7 +209,7 @@
     <description>Social Media Reward Sensitivity and Depressive Symptoms Over Time</description>
   </item>
   <item>
-    <title>行動–意図結合はエージェンシーの構造を明らかにし、心的映像欠損症において崩壊する</title>
+    <title>行動–意図結合が示すエージェンシーの構造とアファンタジアにおけるその崩壊</title>
     <link>https://osf.io/kdcqb</link>
     <guid isPermaLink="false">https://osf.io/kdcqb#ja</guid>
     <pubDate>Tue, 21 Apr 2026 20:40:30 +0000</pubDate>
@@ -216,7 +223,7 @@
     <description>Identifying hidden cognate effects in L2 lexical retrieval tasks: A tutorial for stimulus design</description>
   </item>
   <item>
-    <title>物理学と知覚の融合：構造則が人間のカテゴリー化を支配するメカニズム</title>
+    <title>物理学と知覚の融合：構成則が人間のカテゴリー化を支配するメカニズム</title>
     <link>https://osf.io/tnaxq</link>
     <guid isPermaLink="false">https://osf.io/tnaxq#ja</guid>
     <pubDate>Tue, 21 Apr 2026 19:51:32 +0000</pubDate>
@@ -230,7 +237,7 @@
     <description>Radical Aesthetics and the Digital Self: Embodied Onto-Phenomenology in the Age of Digital Mediation</description>
   </item>
   <item>
-    <title>スマートフォン・ソーシャルメディア行動の潜在次元と青年期のメンタルヘルスとの関連における睡眠の媒介効果</title>
+    <title>青少年におけるスマートフォン・ソーシャルメディア行動の潜在次元と精神健康の関連における睡眠の媒介効果</title>
     <link>https://osf.io/wkjzv</link>
     <guid isPermaLink="false">https://osf.io/wkjzv#ja</guid>
     <pubDate>Tue, 21 Apr 2026 19:51:32 +0000</pubDate>
@@ -244,7 +251,7 @@
     <description>Anxiety is associated with the persistence of conditioned somatic sensations over time</description>
   </item>
   <item>
-    <title>自閉スペクトラム症における社会的相互作用嗜好の暗黙的・顕在的乖離と孤独感との関連</title>
+    <title>自閉スペクトラム症における社会的相互作用嗜好の暗黙的–顕在的乖離と孤独感との関連</title>
     <link>https://osf.io/hbdsr</link>
     <guid isPermaLink="false">https://osf.io/hbdsr#ja</guid>
     <pubDate>Tue, 21 Apr 2026 19:51:31 +0000</pubDate>
@@ -265,14 +272,14 @@
     <description>Uncovering event and narrative structure from temporal memory</description>
   </item>
   <item>
-    <title>心のさまよいの時間的動態：作業記憶と動機づけが意図的および非意図的な注意の漂流に及ぼす影響</title>
+    <title>心のさまよいの時間的動態：作業記憶と動機づけが意図的および非意図的な注意の逸脱に与える影響</title>
     <link>https://osf.io/qz2j8</link>
     <guid isPermaLink="false">https://osf.io/qz2j8#ja</guid>
     <pubDate>Tue, 21 Apr 2026 19:51:30 +0000</pubDate>
     <description>Temporal Dynamics of Mind Wandering: How Working Memory and Motivation Shape Intentional and Unintentional Attentional Drift Over Time</description>
   </item>
   <item>
-    <title>ダブルループ専門性のパラドックス：教師とAIの協働実践を理解するための枠組み</title>
+    <title>二重ループ専門性パラドックス：教師とAIの協働実践を理解するための枠組み</title>
     <link>https://osf.io/tew9n</link>
     <guid isPermaLink="false">https://osf.io/tew9n#ja</guid>
     <pubDate>Tue, 21 Apr 2026 15:23:28 +0000</pubDate>
@@ -286,7 +293,7 @@
     <description>Religious Doctrines as Psychological Inoculations:  Forewarning, Refutational Preemption, and the Cultural Evolution of Belief Persistence</description>
   </item>
   <item>
-    <title>援助行動と心の繁栄：組織市民行動と主観的幸福感に関するメタ分析研究</title>
+    <title>助け合う手、花開く心：組織市民行動と主観的幸福感に関するメタ分析研究</title>
     <link>https://osf.io/qwsrz</link>
     <guid isPermaLink="false">https://osf.io/qwsrz#ja</guid>
     <pubDate>Tue, 21 Apr 2026 15:23:27 +0000</pubDate>
@@ -307,7 +314,7 @@
     <description>Rhythmic hand gestures guide the segmentation of speech downstream</description>
   </item>
   <item>
-    <title>大規模言語モデルを用いた知識検査の項目特性予測</title>
+    <title>大規模言語モデルを用いた知識テスト項目特性の予測</title>
     <link>https://osf.io/mv8sk</link>
     <guid isPermaLink="false">https://osf.io/mv8sk#ja</guid>
     <pubDate>Tue, 21 Apr 2026 15:23:26 +0000</pubDate>
@@ -342,18 +349,11 @@
     <description>Self-regulation, psychological well-being, and stress at university: A mixed-method study</description>
   </item>
   <item>
-    <title>19ヶ月齢乳児は話者の知識を用いて指示の正確性を評価する</title>
+    <title>19か月乳児は話者の知識を用いて指示の正確性を評価する</title>
     <link>https://osf.io/n29c4</link>
     <guid isPermaLink="false">https://osf.io/n29c4#ja</guid>
     <pubDate>Mon, 20 Apr 2026 21:29:57 +0000</pubDate>
     <description>19-month-old infants use speaker knowledge to evaluate referential accuracy</description>
-  </item>
-  <item>
-    <title>少数派の専制：ソーシャルメディアインフルエンサー、アルゴリズム、群衆が世論形成に及ぼす影響</title>
-    <link>https://osf.io/tj2s3</link>
-    <guid isPermaLink="false">https://osf.io/tj2s3#ja</guid>
-    <pubDate>Mon, 20 Apr 2026 21:29:56 +0000</pubDate>
-    <description>Tyranny of the minority: How social media influencers, algorithms, and crowds shape public opinion</description>
   </item>
 </channel>
 </rss>
