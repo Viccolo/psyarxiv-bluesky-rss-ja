@@ -6,14 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>注意の分割は偶発的言語学習の基礎能力を損なう：聴覚的統計学習における領域特異的効果</title>
+    <title>注意の分割は偶発的言語学習の基礎能力を損なう：聴覚的統計学習におけるドメイン特異的効果</title>
     <link>https://osf.io/jbx5a</link>
     <guid isPermaLink="false">https://osf.io/jbx5a#ja</guid>
     <pubDate>Fri, 01 May 2026 11:44:09 +0000</pubDate>
     <description>Dividing Attention Hurts Core Abilities for Incidental Language Learning:  Domain-Specific Effects in Auditory Statistical Learning</description>
   </item>
   <item>
-    <title>集中注意指示の使用が人間の予測学習におけるABA更新を減弱させる</title>
+    <title>注意集中指示の使用が人間の予測学習におけるABA更新を減弱させる</title>
     <link>https://osf.io/yaxnz</link>
     <guid isPermaLink="false">https://osf.io/yaxnz#ja</guid>
     <pubDate>Fri, 01 May 2026 11:44:09 +0000</pubDate>
@@ -41,14 +41,14 @@
     <description>The Therapist as a Privileged Environment: How the Relational Body of the Clinician Shapes Perception, Arousal, Attention, Emotion, and Cognition in Children with Autism Spectrum Disorder</description>
   </item>
   <item>
-    <title>メンタルヘルスにおける新技術と人工知能の未来：展望、課題、および個別化治療へのロードマップ</title>
+    <title>精神保健における新技術と人工知能の未来：展望、課題、および個別化治療へのロードマップ</title>
     <link>https://osf.io/kgt7c</link>
     <guid isPermaLink="false">https://osf.io/kgt7c#ja</guid>
     <pubDate>Thu, 30 Apr 2026 16:42:46 +0000</pubDate>
     <description>The Future of New Technology and Artificial Intelligence in Mental Health: Prospects, Challenges, and a Roadmap for Personalized Treatment</description>
   </item>
   <item>
-    <title>TEA Netsフレームワーク：テキストにおける対象・出来事・行為者のモデリングに向けたAIと認知ネットワーク科学の統合</title>
+    <title>TEA Netsフレームワーク：AIと認知ネットワーク科学を融合したテキスト内の対象・出来事・行為者のモデリング</title>
     <link>https://osf.io/dyt6g</link>
     <guid isPermaLink="false">https://osf.io/dyt6g#ja</guid>
     <pubDate>Thu, 30 Apr 2026 15:01:08 +0000</pubDate>
@@ -83,7 +83,7 @@
     <description>A measure of metacognitive bias you can be confident in</description>
   </item>
   <item>
-    <title>ドイツ語における語順と情報状態の効果：期待理論的視点からの検討</title>
+    <title>ドイツ語における語順と情報状態の効果：期待に基づく視点からの検討</title>
     <link>https://osf.io/xh7fc</link>
     <guid isPermaLink="false">https://osf.io/xh7fc#ja</guid>
     <pubDate>Thu, 30 Apr 2026 15:01:07 +0000</pubDate>
@@ -97,7 +97,7 @@
     <description>Social camouflaging among autistic adolescents in Japan: Diﬀerential associations with aﬃliate stigma reported by mothers and fathers</description>
   </item>
   <item>
-    <title>知的自己認知の正確性に関する実証的知見：自己認知能力評価方法の影響</title>
+    <title>知能自己認知の正確性に関する実証的知見：自己認知能力評価方法の影響</title>
     <link>https://osf.io/4qvc8</link>
     <guid isPermaLink="false">https://osf.io/4qvc8#ja</guid>
     <pubDate>Thu, 30 Apr 2026 15:01:06 +0000</pubDate>
@@ -111,49 +111,49 @@
     <description>Mind wandering impedes statistical learning during  serial but not parallel visual search</description>
   </item>
   <item>
-    <title>硬い規則というより指針：相互排他性を用いるバイリンガルが語彙の重複を受け入れる心理</title>
+    <title>硬い規則というより指針：相互排他性を用いる二言語話者が語彙の重複を受け入れる心理メカニズム</title>
     <link>https://osf.io/ym7tq</link>
     <guid isPermaLink="false">https://osf.io/ym7tq#ja</guid>
     <pubDate>Thu, 30 Apr 2026 15:01:06 +0000</pubDate>
     <description>More like Guidelines than Hard Rules: Bilinguals Accept Lexical Overlap Despite Using Mutual Exclusivity</description>
   </item>
   <item>
-    <title>身体活動、運動継続性および心理的負の状態間の疑わしい将来的影響：Xiangら（2026）へのコメント</title>
+    <title>身体活動、運動継続性および心理的負の状態間の疑わしい前向き効果：Xiangら（2026）へのコメント</title>
     <link>https://osf.io/qfp7d</link>
     <guid isPermaLink="false">https://osf.io/qfp7d#ja</guid>
     <pubDate>Thu, 30 Apr 2026 15:01:06 +0000</pubDate>
     <description>Questionable prospective effects between physical activity, exercise adherence, and adverse psychological states: A comment on Xiang et al. (2026)</description>
   </item>
   <item>
-    <title>大規模言語モデルが人間の人格特性、社会人口統計、およびソーシャルメディア行動を模倣しながら社会問題を議論する過程のマッピング</title>
+    <title>大規模言語モデルが人間の人格特性、社会人口統計、ソーシャルメディア行動を模倣しながら社会問題を議論する様相の解明</title>
     <link>https://osf.io/kxbdw</link>
     <guid isPermaLink="false">https://osf.io/kxbdw#ja</guid>
     <pubDate>Thu, 30 Apr 2026 15:01:05 +0000</pubDate>
     <description>Mapping how LLMs debate societal issues when shadowing human personality traits, sociodemographics and social media behavior</description>
   </item>
   <item>
-    <title>LLMを活用した学習支援のための数学教育デジタルシャドウ：模擬学生とAIにおける数学成績、不安および自信の検討</title>
+    <title>LLMを活用した学習支援における数学教育のデジタルシャドウ：模擬学生およびAIにおける数学成績、不安感、自信の検討</title>
     <link>https://osf.io/tvh3x</link>
     <guid isPermaLink="false">https://osf.io/tvh3x#ja</guid>
     <pubDate>Thu, 30 Apr 2026 15:01:05 +0000</pubDate>
     <description>Math Education Digital Shadows for facilitating learning with LLMs: Math performance, anxiety and confidence in simulated students and AIs</description>
   </item>
   <item>
-    <title>青年期後期における反すうと思考と抑うつの関連：IMAGEN青年コホートを用いた縦断研究</title>
+    <title>青年期後期における反すうと思春期うつ病の関連性：IMAGEN思春期コホートを用いた縦断研究</title>
     <link>https://osf.io/kas3q</link>
     <guid isPermaLink="false">https://osf.io/kas3q#ja</guid>
     <pubDate>Thu, 30 Apr 2026 15:01:05 +0000</pubDate>
     <description>The associations between rumination and depression in late adolescence: a longitudinal study using the IMAGEN adolescent cohort</description>
   </item>
   <item>
-    <title>自閉症者の精神医療アクセス障壁の克服：成人精神医療環境におけるAutistic SPACEフレームワーク</title>
+    <title>自閉症者の精神医療アクセス障壁の克服：成人精神医療環境における自閉症者向けSPACEフレームワーク</title>
     <link>https://osf.io/5d8jp</link>
     <guid isPermaLink="false">https://osf.io/5d8jp#ja</guid>
     <pubDate>Thu, 30 Apr 2026 15:01:05 +0000</pubDate>
     <description>Breaking barriers to accessing mental healthcare for autistic people: the Autistic SPACE Framework for adult mental health settings</description>
   </item>
   <item>
-    <title>現象学的制御尺度ドイツ語版の基準値：経験の創造と制御能力の測定</title>
+    <title>現象学的制御尺度ドイツ語版の基準値：経験の創出と制御能力の測定</title>
     <link>https://osf.io/6xq9a</link>
     <guid isPermaLink="false">https://osf.io/6xq9a#ja</guid>
     <pubDate>Thu, 30 Apr 2026 15:01:04 +0000</pubDate>
@@ -174,7 +174,7 @@
     <description>Do young children spontaneously use proactive strategies in working memory?</description>
   </item>
   <item>
-    <title>学校を拠点とした示示的予防メンタルヘルスプログラムにおける関与と影響を支える主要過程：若年層の視点からの質的研究</title>
+    <title>学校を拠点とした選択的予防メンタルヘルスプログラムにおける関与と効果を支える主要プロセス：若年層の視点からの質的研究</title>
     <link>https://osf.io/63n8e</link>
     <guid isPermaLink="false">https://osf.io/63n8e#ja</guid>
     <pubDate>Tue, 28 Apr 2026 15:34:24 +0000</pubDate>
@@ -202,7 +202,7 @@
     <description>Mind wandering is not an obstacle, but a functional component of human learning</description>
   </item>
   <item>
-    <title>メキシコ系アメリカ成人およびトルコ系ドイツ成人を対象とした社会経済的ストレス評価尺度（SESI）の開発と検証</title>
+    <title>メキシコ系米国成人およびトルコ系ドイツ成人を対象とした社会経済的ストレス評価尺度（SESI）の開発と検証</title>
     <link>https://osf.io/mp856</link>
     <guid isPermaLink="false">https://osf.io/mp856#ja</guid>
     <pubDate>Tue, 28 Apr 2026 09:35:35 +0000</pubDate>
@@ -230,7 +230,7 @@
     <description>Inconclusive prospective associations between feelings of betrayal and symptoms of depression and post-traumatic stress disorder: A comment on Kapel Lev-ari et al. (2026)</description>
   </item>
   <item>
-    <title>環境における社会的ジレンマにおける協力の促進：廃棄物分別における道徳的訴求と社会的訴求の比較</title>
+    <title>環境社会的ジレンマにおける協力の促進：廃棄物分別における道徳的訴求と社会的訴求の比較</title>
     <link>https://osf.io/wyx7z</link>
     <guid isPermaLink="false">https://osf.io/wyx7z#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:55 +0000</pubDate>
@@ -244,7 +244,7 @@
     <description>Human direction drives creativity with large language models</description>
   </item>
   <item>
-    <title>大型類人猿の子音様発声：ヒト科の発声器官連続性の解明</title>
+    <title>大型類人猿の子音様発声：ヒト科の調音連続性の解明</title>
     <link>https://osf.io/dy6zv</link>
     <guid isPermaLink="false">https://osf.io/dy6zv#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:54 +0000</pubDate>
@@ -258,7 +258,7 @@
     <description>From the app to the lexicon: Neurocognitive markers of word integration in a second language</description>
   </item>
   <item>
-    <title>精神医療におけるAIモデルの地域格差と文化的感受性</title>
+    <title>精神医療におけるAIモデルの地域的不均衡と文化的感受性</title>
     <link>https://osf.io/djyhp</link>
     <guid isPermaLink="false">https://osf.io/djyhp#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:53 +0000</pubDate>
@@ -272,7 +272,7 @@
     <description>Lay beliefs about the impact of reminiscing about sport milestones on future performance</description>
   </item>
   <item>
-    <title>コカイン使用障害における事象関連電位および定量的脳波変化の系統的レビュー</title>
+    <title>コカイン使用障害における事象関連電位および定量的脳波の変化：系統的レビュー</title>
     <link>https://osf.io/u36te</link>
     <guid isPermaLink="false">https://osf.io/u36te#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:52 +0000</pubDate>
@@ -286,21 +286,21 @@
     <description>Attachment as Selection: A Sensitive Period Framework for Exclusive Bond Formation</description>
   </item>
   <item>
-    <title>標的テンプレートの柔軟性調整に関する研究：妨害刺激テンプレートの調整は含まれない</title>
+    <title>標的テンプレートの柔軟性の調整に関する研究：妨害刺激テンプレートの調整は含まれない</title>
     <link>https://osf.io/2rt8v</link>
     <guid isPermaLink="false">https://osf.io/2rt8v#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:52 +0000</pubDate>
     <description>Tuning flexibility of target templates, not of distractor templates</description>
   </item>
   <item>
-    <title>小児期コミュニケーション困難に関する研究における患者および一般市民の関与の現状と質に関する体系的レビュー</title>
+    <title>小児期コミュニケーション困難に関する研究における患者および一般市民参加の現状と質に関する系統的レビュー</title>
     <link>https://osf.io/4n2ku</link>
     <guid isPermaLink="false">https://osf.io/4n2ku#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:51 +0000</pubDate>
     <description>A systematic review on the status and quality of Patient and Public Involvement in research on childhood communication difficulties</description>
   </item>
   <item>
-    <title>精神保健専門職における大規模言語モデルの受容と利用：横断的観察研究</title>
+    <title>精神保健専門職における大規模言語モデルの受容と活用：横断的観察研究</title>
     <link>https://osf.io/pd938</link>
     <guid isPermaLink="false">https://osf.io/pd938#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:51 +0000</pubDate>
@@ -321,21 +321,21 @@
     <description>The Attentional Mechanism of Short Videos’ Persuasive Effects</description>
   </item>
   <item>
-    <title>リモートIT専門職における自律性の性差は持続する一方で、仕事と家庭の葛藤は年齢によって異なる：横断的調査研究</title>
+    <title>リモートIT専門職における自律性の性差の持続と年齢による仕事・家庭葛藤の変動：横断的調査研究</title>
     <link>https://osf.io/9pgyc</link>
     <guid isPermaLink="false">https://osf.io/9pgyc#ja</guid>
     <pubDate>Sat, 25 Apr 2026 23:39:52 +0000</pubDate>
     <description>Gender gaps in autonomy persist among remote IT professionals, whereas work-family conflict varies by age: a cross-sectional survey</description>
   </item>
   <item>
-    <title>主観的経験としての意識は、心的シミュレーションと環境連結の軸の動態から生じる</title>
+    <title>主観的経験としての意識は、心的シミュレーションと環境連結軸の動態から生じる</title>
     <link>https://osf.io/hwt3a</link>
     <guid isPermaLink="false">https://osf.io/hwt3a#ja</guid>
     <pubDate>Fri, 24 Apr 2026 22:03:29 +0000</pubDate>
     <description>Consciousness as subjective experience emerges from the dynamics of the mental-simulation versus environment-coupling axis.</description>
   </item>
   <item>
-    <title>標準共認識モデルにおける純粋言語的長期記憶と数値・言語混合長期記憶の関係性</title>
+    <title>標準的結合認知モデルにおける純粋言語的長期記憶と数値・言語的長期記憶の関係性</title>
     <link>https://osf.io/sdz56</link>
     <guid isPermaLink="false">https://osf.io/sdz56#ja</guid>
     <pubDate>Fri, 24 Apr 2026 22:03:29 +0000</pubDate>
