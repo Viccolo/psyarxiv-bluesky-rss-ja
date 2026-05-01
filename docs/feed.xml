@@ -6,6 +6,27 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>注意の分割は偶発的言語学習の基礎能力を損なう：聴覚的統計学習における領域特異的効果</title>
+    <link>https://osf.io/jbx5a</link>
+    <guid isPermaLink="false">https://osf.io/jbx5a#ja</guid>
+    <pubDate>Fri, 01 May 2026 11:44:09 +0000</pubDate>
+    <description>Dividing Attention Hurts Core Abilities for Incidental Language Learning:  Domain-Specific Effects in Auditory Statistical Learning</description>
+  </item>
+  <item>
+    <title>集中注意指示の使用が人間の予測学習におけるABA更新を減弱させる効果</title>
+    <link>https://osf.io/yaxnz</link>
+    <guid isPermaLink="false">https://osf.io/yaxnz#ja</guid>
+    <pubDate>Fri, 01 May 2026 11:44:09 +0000</pubDate>
+    <description>The use of focused attention instructions attenuates ABA renewal in human predictive learning</description>
+  </item>
+  <item>
+    <title>身体エネルギーの理解が心の理論に与える制約</title>
+    <link>https://osf.io/d2axp</link>
+    <guid isPermaLink="false">https://osf.io/d2axp#ja</guid>
+    <pubDate>Fri, 01 May 2026 11:44:09 +0000</pubDate>
+    <description>How an Understanding of Bodily Energy Constrains Theory of Mind</description>
+  </item>
+  <item>
     <title>自作ジョークに笑うのは誰か？創造的ユーモア生成課題における自己評価された面白さのメタ認知的判断</title>
     <link>https://osf.io/mt2nw</link>
     <guid isPermaLink="false">https://osf.io/mt2nw#ja</guid>
@@ -13,14 +34,14 @@
     <description>Who Laughs at Their Own Jokes? Metacognitive Judgments of Self-Rated Funniness in Creative Humor Production Tasks</description>
   </item>
   <item>
-    <title>特権的環境としてのセラピスト：臨床家の関係的身体が自閉スペクトラム症児の知覚・覚醒・注意・感情・認知に与える影響</title>
+    <title>特権的環境としてのセラピスト：臨床家の関係的身体が自閉スペクトラム症児の知覚・覚醒・注意・感情・認知に及ぼす影響</title>
     <link>https://osf.io/pja9d</link>
     <guid isPermaLink="false">https://osf.io/pja9d#ja</guid>
     <pubDate>Thu, 30 Apr 2026 20:37:02 +0000</pubDate>
     <description>The Therapist as a Privileged Environment: How the Relational Body of the Clinician Shapes Perception, Arousal, Attention, Emotion, and Cognition in Children with Autism Spectrum Disorder</description>
   </item>
   <item>
-    <title>精神保健における新技術と人工知能の未来：展望、課題、および個別化治療のためのロードマップ</title>
+    <title>精神保健における新技術と人工知能の未来：展望、課題、および個別化治療へのロードマップ</title>
     <link>https://osf.io/kgt7c</link>
     <guid isPermaLink="false">https://osf.io/kgt7c#ja</guid>
     <pubDate>Thu, 30 Apr 2026 16:42:46 +0000</pubDate>
@@ -34,14 +55,14 @@
     <description>The TEA Nets framework combines AI and cognitive network science to model targets, events and actors in text</description>
   </item>
   <item>
-    <title>身体活動および運動行動における知覚された時間と努力感</title>
+    <title>身体活動および運動行動における知覚された時間と努力</title>
     <link>https://osf.io/47jgr</link>
     <guid isPermaLink="false">https://osf.io/47jgr#ja</guid>
     <pubDate>Thu, 30 Apr 2026 15:01:07 +0000</pubDate>
     <description>Perceived time and effort in physical activity and exercise  behavior</description>
   </item>
   <item>
-    <title>1000日間の心拍変動：起床後の日々の心拍変動を用いたストレスフルな生活イベントの追跡に関するケーススタディ</title>
+    <title>1000日間の心拍変動：起床後の日次心拍変動を用いたストレスフルな生活イベントの追跡に関する事例研究</title>
     <link>https://osf.io/xh3ju</link>
     <guid isPermaLink="false">https://osf.io/xh3ju#ja</guid>
     <pubDate>Thu, 30 Apr 2026 15:01:07 +0000</pubDate>
@@ -76,21 +97,21 @@
     <description>Social camouflaging among autistic adolescents in Japan: Diﬀerential associations with aﬃliate stigma reported by mothers and fathers</description>
   </item>
   <item>
-    <title>知的自己認知の正確性に関する実証的知見：自己認知能力評価方法の影響</title>
+    <title>知能に関する自己認知の正確性に関する実証的知見：自己能力評価方法の影響</title>
     <link>https://osf.io/4qvc8</link>
     <guid isPermaLink="false">https://osf.io/4qvc8#ja</guid>
     <pubDate>Thu, 30 Apr 2026 15:01:06 +0000</pubDate>
     <description>Empirical Findings on the Accuracy of Intellectual Self-Perceptions Depend on the Method Used to Assess Self-Perceived Ability</description>
   </item>
   <item>
-    <title>マインドワンダリングは並列視覚探索ではなく逐次視覚探索における統計的学習を妨げる</title>
+    <title>心のさまよいは並列視覚探索ではなく逐次視覚探索における統計的学習を妨げる</title>
     <link>https://osf.io/rpcmg</link>
     <guid isPermaLink="false">https://osf.io/rpcmg#ja</guid>
     <pubDate>Thu, 30 Apr 2026 15:01:06 +0000</pubDate>
     <description>Mind wandering impedes statistical learning during  serial but not parallel visual search</description>
   </item>
   <item>
-    <title>硬い規則というより指針：相互排他性を用いるバイリンガルは語彙の重複を受け入れる</title>
+    <title>硬い規則というより指針：相互排他性を用いながらも語彙の重複を受け入れるバイリンガル</title>
     <link>https://osf.io/ym7tq</link>
     <guid isPermaLink="false">https://osf.io/ym7tq#ja</guid>
     <pubDate>Thu, 30 Apr 2026 15:01:06 +0000</pubDate>
@@ -104,28 +125,28 @@
     <description>Questionable prospective effects between physical activity, exercise adherence, and adverse psychological states: A comment on Xiang et al. (2026)</description>
   </item>
   <item>
-    <title>大規模言語モデルが人間の性格特性、社会人口統計、ソーシャルメディア行動を模倣しながら社会問題を議論する過程のマッピング</title>
+    <title>大規模言語モデルが人間の人格特性、社会人口統計、ソーシャルメディア行動を模倣しながら社会問題を議論する様相の解明</title>
     <link>https://osf.io/kxbdw</link>
     <guid isPermaLink="false">https://osf.io/kxbdw#ja</guid>
     <pubDate>Thu, 30 Apr 2026 15:01:05 +0000</pubDate>
     <description>Mapping how LLMs debate societal issues when shadowing human personality traits, sociodemographics and social media behavior</description>
   </item>
   <item>
-    <title>大規模言語モデルを用いた学習支援における数学教育のデジタルシャドウ：模擬学生およびAIにおける数学成績、不安感、自信の検討</title>
+    <title>LLMを活用した学習支援のための数学教育デジタルシャドウ：模擬学生およびAIにおける数学成績、不安感、自信の検討</title>
     <link>https://osf.io/tvh3x</link>
     <guid isPermaLink="false">https://osf.io/tvh3x#ja</guid>
     <pubDate>Thu, 30 Apr 2026 15:01:05 +0000</pubDate>
     <description>Math Education Digital Shadows for facilitating learning with LLMs: Math performance, anxiety and confidence in simulated students and AIs</description>
   </item>
   <item>
-    <title>思春期後期における反すうと思春期うつ病の関連：IMAGEN思春期コホートを用いた縦断研究</title>
+    <title>思春期後期における反芻思考と抑うつの関連性：IMAGEN思春期コホートを用いた縦断研究</title>
     <link>https://osf.io/kas3q</link>
     <guid isPermaLink="false">https://osf.io/kas3q#ja</guid>
     <pubDate>Thu, 30 Apr 2026 15:01:05 +0000</pubDate>
     <description>The associations between rumination and depression in late adolescence: a longitudinal study using the IMAGEN adolescent cohort</description>
   </item>
   <item>
-    <title>自閉症者の精神医療アクセス障壁の克服：成人精神医療環境における自閉症者向けSPACEフレームワーク</title>
+    <title>自閉症者の精神医療アクセス障壁の克服：成人精神医療環境におけるAutistic SPACEフレームワーク</title>
     <link>https://osf.io/5d8jp</link>
     <guid isPermaLink="false">https://osf.io/5d8jp#ja</guid>
     <pubDate>Thu, 30 Apr 2026 15:01:05 +0000</pubDate>
@@ -139,7 +160,7 @@
     <description>Norms for a German version of the Phenomenological Control Scale: Measuring the capacity for creating and controlling experience</description>
   </item>
   <item>
-    <title>生理的ストレスのバイオマーカーとしての毛髪および爪サンプル提供の受容性に関する検討：高齢思春期者を対象として</title>
+    <title>生理的ストレスのバイオマーカーとしての毛髪および爪サンプル提供の受容性に関する検討：高齢思春期者を対象に</title>
     <link>https://osf.io/8q6sf</link>
     <guid isPermaLink="false">https://osf.io/8q6sf#ja</guid>
     <pubDate>Thu, 30 Apr 2026 15:01:01 +0000</pubDate>
@@ -153,7 +174,7 @@
     <description>Do young children spontaneously use proactive strategies in working memory?</description>
   </item>
   <item>
-    <title>学校を拠点とした選択的予防的メンタルヘルスプログラムにおける関与と効果を支える主要プロセス：若年層の視点からの質的研究</title>
+    <title>学校を拠点とした指標的予防的メンタルヘルスプログラムにおける関与と影響を支える主要プロセス：若年層の視点からの質的研究</title>
     <link>https://osf.io/63n8e</link>
     <guid isPermaLink="false">https://osf.io/63n8e#ja</guid>
     <pubDate>Tue, 28 Apr 2026 15:34:24 +0000</pubDate>
@@ -188,7 +209,7 @@
     <description>Development and Validation of the Socioeconomic Stress Inventory (SESI) for Mexican-Origin U.S. Adults and Turkish-Origin German Adults</description>
   </item>
   <item>
-    <title>音声と言語階層における音響手がかりの動的再重み付けと感情認知</title>
+    <title>音声および感情における言語階層を越えた音響手がかりの動的再重み付け</title>
     <link>https://osf.io/jeb5d</link>
     <guid isPermaLink="false">https://osf.io/jeb5d#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:58 +0000</pubDate>
@@ -202,7 +223,7 @@
     <description>Synergistic Effects of Future Orientation and Somatic Markers in Predicting  Decision-Making Under Uncertainty</description>
   </item>
   <item>
-    <title>裏切り感情と抑うつ症状および心的外傷後ストレス障害症状との前向き関連に関する結論の出ない検討：Kapel Lev-ariら（2026）へのコメント</title>
+    <title>裏切り感情と抑うつ症状および心的外傷後ストレス障害症状との前向き関連に関する不確定な結果：Kapel Lev-ariら（2026）へのコメント</title>
     <link>https://osf.io/cz7uh</link>
     <guid isPermaLink="false">https://osf.io/cz7uh#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:55 +0000</pubDate>
@@ -223,7 +244,7 @@
     <description>Human direction drives creativity with large language models</description>
   </item>
   <item>
-    <title>大型類人猿の子音様発声：ヒト科の発声器官連続性の解明</title>
+    <title>大型類人猿の子音様発声：ヒト科の調音連続性の解明</title>
     <link>https://osf.io/dy6zv</link>
     <guid isPermaLink="false">https://osf.io/dy6zv#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:54 +0000</pubDate>
@@ -265,14 +286,14 @@
     <description>Attachment as Selection: A Sensitive Period Framework for Exclusive Bond Formation</description>
   </item>
   <item>
-    <title>標的テンプレートの柔軟性の調整に関する研究：妨害刺激テンプレートではなく</title>
+    <title>標的テンプレートの柔軟性調整に関する研究：妨害刺激テンプレートではなく</title>
     <link>https://osf.io/2rt8v</link>
     <guid isPermaLink="false">https://osf.io/2rt8v#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:52 +0000</pubDate>
     <description>Tuning flexibility of target templates, not of distractor templates</description>
   </item>
   <item>
-    <title>小児期コミュニケーション困難に関する研究における患者および一般市民の関与の現状と質に関する体系的レビュー</title>
+    <title>小児期コミュニケーション困難に関する研究における患者および一般市民参加の現状と質に関する系統的レビュー</title>
     <link>https://osf.io/4n2ku</link>
     <guid isPermaLink="false">https://osf.io/4n2ku#ja</guid>
     <pubDate>Mon, 27 Apr 2026 16:57:51 +0000</pubDate>
@@ -286,7 +307,7 @@
     <description>Acceptance and Use of Large Language Models in Mental Health Professionals: A Cross-Sectional Observational Study</description>
   </item>
   <item>
-    <title>MEGによる計測を用いた夕方の昼寝中の意識の神経基盤：登録報告</title>
+    <title>MEGによる計測に基づく夕方の昼寝中の意識の神経基盤：登録報告</title>
     <link>https://osf.io/zgw6x</link>
     <guid isPermaLink="false">https://osf.io/zgw6x#ja</guid>
     <pubDate>Mon, 27 Apr 2026 01:56:53 +0000</pubDate>
@@ -314,7 +335,7 @@
     <description>Consciousness as subjective experience emerges from the dynamics of the mental-simulation versus environment-coupling axis.</description>
   </item>
   <item>
-    <title>標準的共認識モデルにおける純粋言語的長期記憶と数値・言語的長期記憶の関係性</title>
+    <title>標準的結合認知モデルにおける純粋言語的長期記憶と数値・言語的長期記憶の関係性</title>
     <link>https://osf.io/sdz56</link>
     <guid isPermaLink="false">https://osf.io/sdz56#ja</guid>
     <pubDate>Fri, 24 Apr 2026 22:03:29 +0000</pubDate>
@@ -333,27 +354,6 @@
     <guid isPermaLink="false">https://osf.io/458zb#ja</guid>
     <pubDate>Fri, 24 Apr 2026 21:10:47 +0000</pubDate>
     <description>Climate change and conflict: The vicious cycles undermining climate action, and what can be done to break them</description>
-  </item>
-  <item>
-    <title>党首不一致の時間的連続性：データ駆動型ERP研究</title>
-    <link>https://osf.io/2b8qg</link>
-    <guid isPermaLink="false">https://osf.io/2b8qg#ja</guid>
-    <pubDate>Fri, 24 Apr 2026 16:59:19 +0000</pubDate>
-    <description>The Temporal Sequence of Party Leader Incongruence: a data-driven ERP study</description>
-  </item>
-  <item>
-    <title>いじめおよび被害経験の軽減を目的とした学校介入の有効性：BRAVEメタアナリシスに基づくサブグループ分析</title>
-    <link>https://osf.io/8vrup</link>
-    <guid isPermaLink="false">https://osf.io/8vrup#ja</guid>
-    <pubDate>Thu, 23 Apr 2026 21:02:24 +0000</pubDate>
-    <description>Effectiveness of School-Based Interventions for Reducing Bullying and Victimisation: A Subgroup Analysis from the BRAVE Meta-Analysis</description>
-  </item>
-  <item>
-    <title>脳卒中ケアにおける努力認知の重要性：エビデンスから理想的ケアパスウェイへの展望—意見論文</title>
-    <link>https://osf.io/swfbp</link>
-    <guid isPermaLink="false">https://osf.io/swfbp#ja</guid>
-    <pubDate>Thu, 23 Apr 2026 21:02:24 +0000</pubDate>
-    <description>On the importance of effort perception in stroke care: From evidence to an ideal care pathway – An opinion paper</description>
   </item>
 </channel>
 </rss>
