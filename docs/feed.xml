@@ -6,14 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>AIエージェントとの共同学習の利点</title>
+    <title>AIエージェントとの共同学習による利点</title>
     <link>https://osf.io/bx5q4</link>
     <guid isPermaLink="false">https://osf.io/bx5q4#ja</guid>
     <pubDate>Sat, 02 May 2026 21:06:08 +0000</pubDate>
     <description>Benefits of co-learning with an AI agent</description>
   </item>
   <item>
-    <title>データ欠損を残さないための基礎：受入検査におけるベイズ状態空間モデルの入門</title>
+    <title>データ欠損を残さない―受入検査のためのベイズ状態空間モデル入門</title>
     <link>https://osf.io/3uh85</link>
     <guid isPermaLink="false">https://osf.io/3uh85#ja</guid>
     <pubDate>Sat, 02 May 2026 17:57:20 +0000</pubDate>
@@ -27,7 +27,7 @@
     <description>Gadgets, niches, and distributed cognition: a proposal on the external structures of the human mind</description>
   </item>
   <item>
-    <title>共有方法バイアスの補正がAxtらの人種に関する暗黙の連合テストの結論に与える影響</title>
+    <title>共有方法分散の補正がAxtらの人種に関する暗黙の連合テストの結論を変える</title>
     <link>https://osf.io/egsxr</link>
     <guid isPermaLink="false">https://osf.io/egsxr#ja</guid>
     <pubDate>Sat, 02 May 2026 13:43:26 +0000</pubDate>
@@ -69,7 +69,7 @@
     <description>Belief, Evidence, and Predictions in Simple Bayesian Acceptance Sampling Plans with JASP</description>
   </item>
   <item>
-    <title>アイルランドにおけるオープンサイエンス実践の認知と採用：全国調査分析</title>
+    <title>アイルランドにおけるオープンリサーチ実践の認知と採用：全国調査分析</title>
     <link>https://osf.io/bdz74</link>
     <guid isPermaLink="false">https://osf.io/bdz74#ja</guid>
     <pubDate>Sat, 02 May 2026 13:43:24 +0000</pubDate>
@@ -83,7 +83,7 @@
     <description>Unveiling the Dynamics of Narcissistic Fluctuations and the Affective Cycles in Narcissism</description>
   </item>
   <item>
-    <title>創造的認知の神経動態を探るためのパラダイム</title>
+    <title>創造的認知の神経動態を探るパラダイム</title>
     <link>https://osf.io/exty6</link>
     <guid isPermaLink="false">https://osf.io/exty6#ja</guid>
     <pubDate>Fri, 01 May 2026 19:40:13 +0000</pubDate>
@@ -111,7 +111,7 @@
     <description>Translation and Validation of the German Version of the Existential Loneliness Scale</description>
   </item>
   <item>
-    <title>悪意ある情報を信じ、平凡な情報を忘却する：感情要因がフェイクニュースへの感受性に与える影響</title>
+    <title>悪意を信じ、平凡を記憶する：感情要因が偽ニュースへの感受性に与える影響</title>
     <link>https://osf.io/sgftz</link>
     <guid isPermaLink="false">https://osf.io/sgftz#ja</guid>
     <pubDate>Fri, 01 May 2026 19:40:12 +0000</pubDate>
@@ -146,14 +146,14 @@
     <description>Breaking the Taxonomic Barrier: A Systematic Review of Formal Models of Communicative Coordination Across Species</description>
   </item>
   <item>
-    <title>トゥルークライムポッドキャストにおける法心理学の表象：物語構造、語調、専門性の内容分析</title>
+    <title>トゥルークライムポッドキャストにおける法心理学の表象：物語構造、語調、および専門性の内容分析</title>
     <link>https://osf.io/qmxg8</link>
     <guid isPermaLink="false">https://osf.io/qmxg8#ja</guid>
     <pubDate>Fri, 01 May 2026 19:40:10 +0000</pubDate>
     <description>Representing Forensic Psychology in True Crime Podcasts: A Content Analysis of Narrative, Tone, and Expertise</description>
   </item>
   <item>
-    <title>女性のためのAI搭載キャリアコーチングツール設計に関する専門家インタビュー研究</title>
+    <title>女性向けAI搭載キャリアコーチングツールの設計：専門家インタビュー研究</title>
     <link>https://osf.io/3prka</link>
     <guid isPermaLink="false">https://osf.io/3prka#ja</guid>
     <pubDate>Fri, 01 May 2026 19:40:10 +0000</pubDate>
@@ -174,14 +174,14 @@
     <description>Dividing Attention Hurts Core Abilities for Incidental Language Learning:  Domain-Specific Effects in Auditory Statistical Learning</description>
   </item>
   <item>
-    <title>集中注意指示の使用が人間の予測学習におけるABAリニューアルを減弱させる</title>
+    <title>集中注意指示の使用が人間の予測学習におけるABA更新を減弱させる</title>
     <link>https://osf.io/yaxnz</link>
     <guid isPermaLink="false">https://osf.io/yaxnz#ja</guid>
     <pubDate>Fri, 01 May 2026 11:44:09 +0000</pubDate>
     <description>The use of focused attention instructions attenuates ABA renewal in human predictive learning</description>
   </item>
   <item>
-    <title>身体エネルギーの理解が心の理論に与える制約</title>
+    <title>身体エネルギーの理解が心の理論に及ぼす制約</title>
     <link>https://osf.io/d2axp</link>
     <guid isPermaLink="false">https://osf.io/d2axp#ja</guid>
     <pubDate>Fri, 01 May 2026 11:44:09 +0000</pubDate>
@@ -209,7 +209,7 @@
     <description>The Future of New Technology and Artificial Intelligence in Mental Health: Prospects, Challenges, and a Roadmap for Personalized Treatment</description>
   </item>
   <item>
-    <title>TEA Netsフレームワーク：AIと認知ネットワーク科学を融合したテキスト内の対象・出来事・行為者のモデリング</title>
+    <title>TEA Netsフレームワーク：テキストにおける対象、出来事、行為者のモデリングにおけるAIと認知ネットワーク科学の統合</title>
     <link>https://osf.io/dyt6g</link>
     <guid isPermaLink="false">https://osf.io/dyt6g#ja</guid>
     <pubDate>Thu, 30 Apr 2026 15:01:08 +0000</pubDate>
@@ -223,7 +223,7 @@
     <description>Perceived time and effort in physical activity and exercise  behavior</description>
   </item>
   <item>
-    <title>1000日間の心拍変動：ストレスフルな生活イベント追跡のための日々の起床後心拍変動に関する事例研究</title>
+    <title>1000日間の心拍変動：起床後の日次心拍変動を用いたストレスフルな生活イベントの追跡に関する事例研究</title>
     <link>https://osf.io/xh3ju</link>
     <guid isPermaLink="false">https://osf.io/xh3ju#ja</guid>
     <pubDate>Thu, 30 Apr 2026 15:01:07 +0000</pubDate>
@@ -279,42 +279,42 @@
     <description>More like Guidelines than Hard Rules: Bilinguals Accept Lexical Overlap Despite Using Mutual Exclusivity</description>
   </item>
   <item>
-    <title>身体活動、運動継続性および心理的負の状態間の疑わしい将来的影響：Xiangら（2026）へのコメント</title>
+    <title>身体活動、運動継続性および心理的負の状態間の疑わしい将来的効果：Xiangら（2026）へのコメント</title>
     <link>https://osf.io/qfp7d</link>
     <guid isPermaLink="false">https://osf.io/qfp7d#ja</guid>
     <pubDate>Thu, 30 Apr 2026 15:01:06 +0000</pubDate>
     <description>Questionable prospective effects between physical activity, exercise adherence, and adverse psychological states: A comment on Xiang et al. (2026)</description>
   </item>
   <item>
-    <title>大規模言語モデルが人間の性格特性、社会人口統計、ソーシャルメディア行動を反映して社会問題を議論する過程のマッピング</title>
+    <title>大規模言語モデルが人間の人格特性、社会人口統計、ソーシャルメディア行動を模倣しながら社会問題を議論する様相の解明</title>
     <link>https://osf.io/kxbdw</link>
     <guid isPermaLink="false">https://osf.io/kxbdw#ja</guid>
     <pubDate>Thu, 30 Apr 2026 15:01:05 +0000</pubDate>
     <description>Mapping how LLMs debate societal issues when shadowing human personality traits, sociodemographics and social media behavior</description>
   </item>
   <item>
-    <title>LLMを活用した学習支援のための数学教育デジタルシャドウ：模擬学生とAIにおける数学成績、不安および自信の検討</title>
+    <title>LLMを活用した学習支援のための数学教育デジタルシャドウ：模擬学生およびAIにおける数学成績、不安感、自信の検討</title>
     <link>https://osf.io/tvh3x</link>
     <guid isPermaLink="false">https://osf.io/tvh3x#ja</guid>
     <pubDate>Thu, 30 Apr 2026 15:01:05 +0000</pubDate>
     <description>Math Education Digital Shadows for facilitating learning with LLMs: Math performance, anxiety and confidence in simulated students and AIs</description>
   </item>
   <item>
-    <title>青年期後期における反芻思考と抑うつの関連：IMAGEN青年コホートを用いた縦断研究</title>
+    <title>思春期後期における反すうと思春期うつ病の関連性：IMAGEN思春期コホートを用いた縦断研究</title>
     <link>https://osf.io/kas3q</link>
     <guid isPermaLink="false">https://osf.io/kas3q#ja</guid>
     <pubDate>Thu, 30 Apr 2026 15:01:05 +0000</pubDate>
     <description>The associations between rumination and depression in late adolescence: a longitudinal study using the IMAGEN adolescent cohort</description>
   </item>
   <item>
-    <title>自閉症者の精神医療アクセス障壁の克服：成人精神医療環境における自閉症者向けSPACEフレームワーク</title>
+    <title>自閉症者のメンタルヘルスケアアクセス障壁の克服：成人メンタルヘルス環境における自閉症者向けSPACEフレームワーク</title>
     <link>https://osf.io/5d8jp</link>
     <guid isPermaLink="false">https://osf.io/5d8jp#ja</guid>
     <pubDate>Thu, 30 Apr 2026 15:01:05 +0000</pubDate>
     <description>Breaking barriers to accessing mental healthcare for autistic people: the Autistic SPACE Framework for adult mental health settings</description>
   </item>
   <item>
-    <title>現象学的制御尺度ドイツ語版の基準値：経験の創出と制御能力の測定</title>
+    <title>現象学的制御尺度ドイツ語版の基準値：経験の創造と制御能力の測定</title>
     <link>https://osf.io/6xq9a</link>
     <guid isPermaLink="false">https://osf.io/6xq9a#ja</guid>
     <pubDate>Thu, 30 Apr 2026 15:01:04 +0000</pubDate>
@@ -335,7 +335,7 @@
     <description>Do young children spontaneously use proactive strategies in working memory?</description>
   </item>
   <item>
-    <title>学校を拠点とした選択的予防メンタルヘルスプログラムにおける関与と効果を支える主要プロセス：若年層の視点からの質的研究</title>
+    <title>学校を拠点とした指標的予防メンタルヘルスプログラムにおける関与と影響を支える主要プロセス：若年層の視点からの質的研究</title>
     <link>https://osf.io/63n8e</link>
     <guid isPermaLink="false">https://osf.io/63n8e#ja</guid>
     <pubDate>Tue, 28 Apr 2026 15:34:24 +0000</pubDate>
