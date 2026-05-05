@@ -6,7 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>メタアナリシス連続時間ランダム切片交差遅延パネルモデルの一段階推定法</title>
+    <title>統合失調症における認知機能障害に対する作業記憶容量と注意の逸脱の分離可能な寄与</title>
+    <link>https://osf.io/fu6de</link>
+    <guid isPermaLink="false">https://osf.io/fu6de#ja</guid>
+    <pubDate>Tue, 05 May 2026 18:04:14 +0000</pubDate>
+    <description>Dissociable contributions of working memory capacity and lapses of attention to cognitive deficits in schizophrenia</description>
+  </item>
+  <item>
+    <title>メタアナリシス連続時間ランダムインターセプト交差遅延パネルモデルの一段階推定法</title>
     <link>https://osf.io/yfn58</link>
     <guid isPermaLink="false">https://osf.io/yfn58#ja</guid>
     <pubDate>Tue, 05 May 2026 16:49:57 +0000</pubDate>
@@ -27,7 +34,7 @@
     <description>From Features to Objects: Developmental Differences in Reinforcement Learning Strategies</description>
   </item>
   <item>
-    <title>認知の極端な逸脱を横断的強迫性障害に結びつける：規範的モデリング手法による検討</title>
+    <title>認知における極端な逸脱のマッピングと横断的強迫性への関連：規範的モデリング手法による検討</title>
     <link>https://osf.io/9bt4u</link>
     <guid isPermaLink="false">https://osf.io/9bt4u#ja</guid>
     <pubDate>Tue, 05 May 2026 16:49:56 +0000</pubDate>
@@ -41,7 +48,7 @@
     <description>Self-Control as a Mediator Between Personality Traits and Subjective Well-Being: Evidence from Three Panel Studies</description>
   </item>
   <item>
-    <title>離人症・現実感喪失障害を有する人々の体験に関する質的系統的文献レビュー</title>
+    <title>離人症・現実感消失症患者の体験に関する質的系統的文献レビュー</title>
     <link>https://osf.io/sfj8n</link>
     <guid isPermaLink="false">https://osf.io/sfj8n#ja</guid>
     <pubDate>Tue, 05 May 2026 11:39:49 +0000</pubDate>
@@ -55,7 +62,7 @@
     <description>The skewed distribution of educational technology research - a sign of academic hegemony? An analysis of localization in scientific publications</description>
   </item>
   <item>
-    <title>高所恐怖症に対するバーチャルリアリティ曝露療法の効果を最大化するための自己効力感介入の実施時期と方法</title>
+    <title>高所恐怖症に対するバーチャルリアリティ曝露療法の効果を最大化するための自己効力感介入の実施方法と適時性</title>
     <link>https://osf.io/t8efn</link>
     <guid isPermaLink="false">https://osf.io/t8efn#ja</guid>
     <pubDate>Mon, 04 May 2026 19:55:59 +0000</pubDate>
@@ -69,7 +76,7 @@
     <description>“It Feels Like We are an Outsider”: Understanding Barriers and Creating Opportunities for Fathers’ Engagement in Parenting Programs</description>
   </item>
   <item>
-    <title>幼少期の逆境経験別にみる若年成人の登録睡眠障害と自己申告睡眠問題のパターン</title>
+    <title>幼少期逆境の異なる履歴を持つ若年成人における登録睡眠問題と自己報告睡眠問題のパターン</title>
     <link>https://osf.io/w8dsf</link>
     <guid isPermaLink="false">https://osf.io/w8dsf#ja</guid>
     <pubDate>Mon, 04 May 2026 19:55:58 +0000</pubDate>
@@ -111,28 +118,28 @@
     <description>Why faster thinkers are smarter thinkers: Working memory binding as the link between processing speed and cognitive ability</description>
   </item>
   <item>
-    <title>直感的な他者評価は意図的評価よりも支持されやすいが、より正確ではない</title>
+    <title>直感的な他者評価は意図的評価よりも支持されやすいが、正確性は劣る</title>
     <link>https://osf.io/pw8cs</link>
     <guid isPermaLink="false">https://osf.io/pw8cs#ja</guid>
     <pubDate>Mon, 04 May 2026 15:08:11 +0000</pubDate>
     <description>Intuitive judgments of strangers are more popular but not more accurate than deliberate ones</description>
   </item>
   <item>
-    <title>損失文脈驚異性を用いた文処理における作業記憶容量のモデル化</title>
+    <title>損失文脈驚異度を用いた文処理における作業記憶容量のモデル化</title>
     <link>https://osf.io/u5tf2</link>
     <guid isPermaLink="false">https://osf.io/u5tf2#ja</guid>
     <pubDate>Mon, 04 May 2026 15:08:11 +0000</pubDate>
     <description>Modeling Working Memory Capacity in Sentence Processing with Lossy-Context Surprisal</description>
   </item>
   <item>
-    <title>マキャヴェリズムの測定方法：6つの尺度の心理測定学的評価</title>
+    <title>マキャヴェリズムの測定方法：6つの尺度の心理計量学的評価</title>
     <link>https://osf.io/2cr56</link>
     <guid isPermaLink="false">https://osf.io/2cr56#ja</guid>
     <pubDate>Mon, 04 May 2026 15:08:11 +0000</pubDate>
     <description>How to Measure Machiavellianism? A Psychometric Evaluation of Six Scales</description>
   </item>
   <item>
-    <title>なぜある言葉は記憶に残り、他は消え去るのか：語彙学習における神経認知的視点</title>
+    <title>なぜある単語は記憶に残り、他は消え去るのか：語彙学習における神経認知的視点</title>
     <link>https://osf.io/a3y7q</link>
     <guid isPermaLink="false">https://osf.io/a3y7q#ja</guid>
     <pubDate>Mon, 04 May 2026 15:08:10 +0000</pubDate>
@@ -153,7 +160,7 @@
     <description>Judgment Patterns and Decision Processes in Children’s Non-symbolic Probabilistic Choices</description>
   </item>
   <item>
-    <title>外傷性脳損傷後の内在化および外在化精神健康問題と心理社会的要因の関連：HiTOP-TBIモデルの応用</title>
+    <title>外傷性脳損傷後の内在化および外在化精神健康問題に対する心理社会的要因の関連性：HiTOP-TBIモデルの応用</title>
     <link>https://osf.io/fhr4s</link>
     <guid isPermaLink="false">https://osf.io/fhr4s#ja</guid>
     <pubDate>Sun, 03 May 2026 14:34:40 +0000</pubDate>
@@ -174,14 +181,14 @@
     <description>Real-time Functional Connectivity Analysis Using Multivariate Autoregressive Model-based Independent Component Analysis in Task-related High-density EEG</description>
   </item>
   <item>
-    <title>AIエージェントとの共同学習の利点</title>
+    <title>AIエージェントとの共学習の利点</title>
     <link>https://osf.io/bx5q4</link>
     <guid isPermaLink="false">https://osf.io/bx5q4#ja</guid>
     <pubDate>Sat, 02 May 2026 21:06:08 +0000</pubDate>
     <description>Benefits of co-learning with an AI agent</description>
   </item>
   <item>
-    <title>データ欠損を残さないための受入検査におけるベイズ状態空間モデル入門</title>
+    <title>データ欠損を残さない―受入検査におけるベイズ状態空間モデル入門</title>
     <link>https://osf.io/3uh85</link>
     <guid isPermaLink="false">https://osf.io/3uh85#ja</guid>
     <pubDate>Sat, 02 May 2026 17:57:20 +0000</pubDate>
@@ -195,7 +202,7 @@
     <description>Gadgets, niches, and distributed cognition: a proposal on the external structures of the human mind</description>
   </item>
   <item>
-    <title>共有方法変動の補正がAxtらの人種に関する暗黙の連合テストの結論を変える</title>
+    <title>共有方法分散の補正がAxtらの人種に関する暗黙の連合テストの結論を変える</title>
     <link>https://osf.io/egsxr</link>
     <guid isPermaLink="false">https://osf.io/egsxr#ja</guid>
     <pubDate>Sat, 02 May 2026 13:43:26 +0000</pubDate>
@@ -209,7 +216,7 @@
     <description>Psychosocial Factors Associated with Suicidal behavior in Transgender Adolescents in Chilean Public Hospitals</description>
   </item>
   <item>
-    <title>空腹への恐怖と満腹への羞恥感：胃感覚の否定的評価尺度（NAGS）の開発と妥当性検証および摂食障害との関連性</title>
+    <title>空腹への恐怖、満腹への羞恥感：胃感覚の否定的評価尺度（NAGS）の開発と妥当性検証および摂食障害との関連性</title>
     <link>https://osf.io/jufgk</link>
     <guid isPermaLink="false">https://osf.io/jufgk#ja</guid>
     <pubDate>Sat, 02 May 2026 13:43:26 +0000</pubDate>
@@ -279,7 +286,7 @@
     <description>Translation and Validation of the German Version of the Existential Loneliness Scale</description>
   </item>
   <item>
-    <title>悪意を信じ、平凡を忘れる：感情要因がフェイクニュースへの感受性に与える影響</title>
+    <title>悪意ある情報を信じ、平凡な情報を忘却する：感情要因が偽ニュースへの感受性に与える影響</title>
     <link>https://osf.io/sgftz</link>
     <guid isPermaLink="false">https://osf.io/sgftz#ja</guid>
     <pubDate>Fri, 01 May 2026 19:40:12 +0000</pubDate>
@@ -314,14 +321,14 @@
     <description>Breaking the Taxonomic Barrier: A Systematic Review of Formal Models of Communicative Coordination Across Species</description>
   </item>
   <item>
-    <title>トゥルークライムポッドキャストにおける法心理学の表象：物語構造、語調、専門性の内容分析</title>
+    <title>トゥルークライムポッドキャストにおける法心理学の表象：物語構造、語調、および専門性の内容分析</title>
     <link>https://osf.io/qmxg8</link>
     <guid isPermaLink="false">https://osf.io/qmxg8#ja</guid>
     <pubDate>Fri, 01 May 2026 19:40:10 +0000</pubDate>
     <description>Representing Forensic Psychology in True Crime Podcasts: A Content Analysis of Narrative, Tone, and Expertise</description>
   </item>
   <item>
-    <title>女性向けAI搭載キャリアコーチングツールの設計に関する専門家インタビュー研究</title>
+    <title>女性のためのAI搭載キャリアコーチングツール設計に関する専門家インタビュー研究</title>
     <link>https://osf.io/3prka</link>
     <guid isPermaLink="false">https://osf.io/3prka#ja</guid>
     <pubDate>Fri, 01 May 2026 19:40:10 +0000</pubDate>
@@ -342,18 +349,11 @@
     <description>Dividing Attention Hurts Core Abilities for Incidental Language Learning:  Domain-Specific Effects in Auditory Statistical Learning</description>
   </item>
   <item>
-    <title>集中注意指示の使用がヒトの予測学習におけるABAリニューアルを減弱させる</title>
+    <title>集中注意指示の使用が人間の予測学習におけるABA更新を減弱させる</title>
     <link>https://osf.io/yaxnz</link>
     <guid isPermaLink="false">https://osf.io/yaxnz#ja</guid>
     <pubDate>Fri, 01 May 2026 11:44:09 +0000</pubDate>
     <description>The use of focused attention instructions attenuates ABA renewal in human predictive learning</description>
-  </item>
-  <item>
-    <title>身体エネルギーの理解が心の理論に与える制約</title>
-    <link>https://osf.io/d2axp</link>
-    <guid isPermaLink="false">https://osf.io/d2axp#ja</guid>
-    <pubDate>Fri, 01 May 2026 11:44:09 +0000</pubDate>
-    <description>How an Understanding of Bodily Energy Constrains Theory of Mind</description>
   </item>
 </channel>
 </rss>
