@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>データのノイズ下における個人差相関の特定：先行的制御と反応的制御の事例研究</title>
+    <title>データのノイズ下における個人差相関の特定：先制的制御と反応的制御の事例研究</title>
     <link>https://osf.io/9e4wt</link>
     <guid isPermaLink="false">https://osf.io/9e4wt#ja</guid>
     <pubDate>Tue, 05 May 2026 20:45:50 +0000</pubDate>
@@ -20,7 +20,7 @@
     <description>Dissociable contributions of working memory capacity and lapses of attention to cognitive deficits in schizophrenia</description>
   </item>
   <item>
-    <title>メタアナリシス連続時間ランダム切片交差遅延パネルモデルの一段階推定法</title>
+    <title>メタアナリシス連続時間ランダムインターセプト交差遅延パネルモデルの一段階推定法</title>
     <link>https://osf.io/yfn58</link>
     <guid isPermaLink="false">https://osf.io/yfn58#ja</guid>
     <pubDate>Tue, 05 May 2026 16:49:57 +0000</pubDate>
@@ -41,7 +41,7 @@
     <description>From Features to Objects: Developmental Differences in Reinforcement Learning Strategies</description>
   </item>
   <item>
-    <title>認知における極端な逸脱のマッピングと横断的強迫性障害への関連：規範的モデリング手法による検討</title>
+    <title>認知の極端な逸脱を横断的強迫性障害に対応付ける：規範的モデリング手法による検討</title>
     <link>https://osf.io/9bt4u</link>
     <guid isPermaLink="false">https://osf.io/9bt4u#ja</guid>
     <pubDate>Tue, 05 May 2026 16:49:56 +0000</pubDate>
@@ -55,35 +55,35 @@
     <description>Self-Control as a Mediator Between Personality Traits and Subjective Well-Being: Evidence from Three Panel Studies</description>
   </item>
   <item>
-    <title>離人症・非現実感障害を有する人々の体験に関する質的系統的文献レビュー</title>
+    <title>非現実感・離人症障害を有する人々の生活体験に関する質的系統的文献レビュー</title>
     <link>https://osf.io/sfj8n</link>
     <guid isPermaLink="false">https://osf.io/sfj8n#ja</guid>
     <pubDate>Tue, 05 May 2026 11:39:49 +0000</pubDate>
     <description>A qualitative systematic literature review of the lived experiences of people with depersonalisation-derealisation disorder</description>
   </item>
   <item>
-    <title>教育技術研究の偏った分布－学術的覇権の兆候か？科学論文におけるローカリゼーションの分析</title>
+    <title>教育技術研究の偏った分布―学術的覇権の兆候か？科学論文におけるローカリゼーションの分析</title>
     <link>https://osf.io/apsgz</link>
     <guid isPermaLink="false">https://osf.io/apsgz#ja</guid>
     <pubDate>Tue, 05 May 2026 10:15:33 +0000</pubDate>
     <description>The skewed distribution of educational technology research - a sign of academic hegemony? An analysis of localization in scientific publications</description>
   </item>
   <item>
-    <title>高度恐怖症に対するバーチャルリアリティ曝露療法の効果を最大化するための自己効力感介入の実施方法とタイミング</title>
+    <title>高所恐怖症に対するバーチャルリアリティ曝露療法の効果を最大化するための自己効力感介入の実施方法と適時性</title>
     <link>https://osf.io/t8efn</link>
     <guid isPermaLink="false">https://osf.io/t8efn#ja</guid>
     <pubDate>Mon, 04 May 2026 19:55:59 +0000</pubDate>
     <description>How and when to implement self-efficacy interventions to maximize the benefits of virtual reality exposure therapy for fear of heights</description>
   </item>
   <item>
-    <title>「私たちはよそ者のように感じる」：父親の育児プログラム参加における障壁の理解と機会創出</title>
+    <title>「私たちは部外者のように感じる」：父親の育児プログラム参加における障壁の理解と機会創出</title>
     <link>https://osf.io/gcb4r</link>
     <guid isPermaLink="false">https://osf.io/gcb4r#ja</guid>
     <pubDate>Mon, 04 May 2026 19:55:58 +0000</pubDate>
     <description>“It Feels Like We are an Outsider”: Understanding Barriers and Creating Opportunities for Fathers’ Engagement in Parenting Programs</description>
   </item>
   <item>
-    <title>幼少期の逆境経験の異なる若年成人における登録睡眠問題と自己報告睡眠問題のパターン</title>
+    <title>幼少期逆境の異なる背景を持つ若年成人における登録睡眠問題と自己申告睡眠問題のパターン</title>
     <link>https://osf.io/w8dsf</link>
     <guid isPermaLink="false">https://osf.io/w8dsf#ja</guid>
     <pubDate>Mon, 04 May 2026 19:55:58 +0000</pubDate>
@@ -97,7 +97,7 @@
     <description>Identifying and repairing mismatches between metadata and actual participant identifiers in CHILDES</description>
   </item>
   <item>
-    <title>脳内における埋め込み予測のエネルギー勾配理論</title>
+    <title>脳における埋め込み予測のエネルギー勾配理論</title>
     <link>https://osf.io/fqdgk</link>
     <guid isPermaLink="false">https://osf.io/fqdgk#ja</guid>
     <pubDate>Mon, 04 May 2026 15:08:13 +0000</pubDate>
@@ -118,28 +118,28 @@
     <description>The use of motor imagery in geriatric rehabilitation : a case report before a cardiac surgery</description>
   </item>
   <item>
-    <title>なぜ思考が速い人はより賢いのか：処理速度と認知能力を結ぶ作業記憶の結合機能</title>
+    <title>なぜ思考の速い人はより賢いのか：処理速度と認知能力を結ぶ作業記憶の結合機能</title>
     <link>https://osf.io/t2jve</link>
     <guid isPermaLink="false">https://osf.io/t2jve#ja</guid>
     <pubDate>Mon, 04 May 2026 15:08:12 +0000</pubDate>
     <description>Why faster thinkers are smarter thinkers: Working memory binding as the link between processing speed and cognitive ability</description>
   </item>
   <item>
-    <title>直感的な他者判断は意図的判断よりも支持されやすいが、より正確ではない</title>
+    <title>直感的な他者評価は意図的評価よりも支持されやすいが、より正確ではない</title>
     <link>https://osf.io/pw8cs</link>
     <guid isPermaLink="false">https://osf.io/pw8cs#ja</guid>
     <pubDate>Mon, 04 May 2026 15:08:11 +0000</pubDate>
     <description>Intuitive judgments of strangers are more popular but not more accurate than deliberate ones</description>
   </item>
   <item>
-    <title>損失文脈驚異度を用いた文処理における作業記憶容量のモデル化</title>
+    <title>損失文脈驚異性を用いた文処理における作業記憶容量のモデル化</title>
     <link>https://osf.io/u5tf2</link>
     <guid isPermaLink="false">https://osf.io/u5tf2#ja</guid>
     <pubDate>Mon, 04 May 2026 15:08:11 +0000</pubDate>
     <description>Modeling Working Memory Capacity in Sentence Processing with Lossy-Context Surprisal</description>
   </item>
   <item>
-    <title>マキャヴェリズムの測定方法：6つの尺度の心理測定的評価</title>
+    <title>マキャヴェリズムの測定方法：6つの尺度の心理計量的評価</title>
     <link>https://osf.io/2cr56</link>
     <guid isPermaLink="false">https://osf.io/2cr56#ja</guid>
     <pubDate>Mon, 04 May 2026 15:08:11 +0000</pubDate>
@@ -153,7 +153,7 @@
     <description>Why Some Words Stick and Others Fade: A Neurocognitive Perspective on Vocabulary Learning</description>
   </item>
   <item>
-    <title>混合ブロックにおける聴覚警告刺激による反応時間コスト</title>
+    <title>混合課題における聴覚警告刺激による反応時間コスト</title>
     <link>https://osf.io/j6nqa</link>
     <guid isPermaLink="false">https://osf.io/j6nqa#ja</guid>
     <pubDate>Mon, 04 May 2026 12:56:58 +0000</pubDate>
@@ -167,7 +167,7 @@
     <description>Judgment Patterns and Decision Processes in Children’s Non-symbolic Probabilistic Choices</description>
   </item>
   <item>
-    <title>外傷性脳損傷後の内在化および外在化精神健康問題に対する心理社会的要因の関連性：HiTOP-TBIモデルの適用</title>
+    <title>外傷性脳損傷後の内在化および外在化精神健康問題と心理社会的要因の関連性：HiTOP-TBIモデルの応用</title>
     <link>https://osf.io/fhr4s</link>
     <guid isPermaLink="false">https://osf.io/fhr4s#ja</guid>
     <pubDate>Sun, 03 May 2026 14:34:40 +0000</pubDate>
@@ -181,7 +181,7 @@
     <description>Separating Cognitive Development from Language Development in the Acquisition of Negation using International Adoption</description>
   </item>
   <item>
-    <title>課題関連高密度脳波における多変量自己回帰モデルベース独立成分分析を用いたリアルタイム機能的結合性解析</title>
+    <title>課題関連高密度脳波における多変量自己回帰モデルベース独立成分分析を用いたリアルタイム機能的結合解析</title>
     <link>https://osf.io/m5d62</link>
     <guid isPermaLink="false">https://osf.io/m5d62#ja</guid>
     <pubDate>Sun, 03 May 2026 13:43:32 +0000</pubDate>
@@ -195,7 +195,7 @@
     <description>Benefits of co-learning with an AI agent</description>
   </item>
   <item>
-    <title>データを見逃さない―受入検査のためのベイズ状態空間モデル入門</title>
+    <title>データ欠損を残さないための基礎：受入検査におけるベイズ状態空間モデルの入門</title>
     <link>https://osf.io/3uh85</link>
     <guid isPermaLink="false">https://osf.io/3uh85#ja</guid>
     <pubDate>Sat, 02 May 2026 17:57:20 +0000</pubDate>
@@ -342,7 +342,7 @@
     <description>Designing AI-enabled career coaching tools for women: An expert interview study</description>
   </item>
   <item>
-    <title>記憶性が時間的選択における表象競合を再構築する</title>
+    <title>記憶のしやすさが時間的選択における表象競合を再構築する</title>
     <link>https://osf.io/mfy7b</link>
     <guid isPermaLink="false">https://osf.io/mfy7b#ja</guid>
     <pubDate>Fri, 01 May 2026 19:40:09 +0000</pubDate>
