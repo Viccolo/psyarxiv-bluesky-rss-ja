@@ -6,7 +6,70 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>データのノイズがある場合における個人差相関の特定：能動的制御と反応的制御の事例研究</title>
+    <title>言語構造の概念的多様性：混合法コーパス研究</title>
+    <link>https://osf.io/xjhya</link>
+    <guid isPermaLink="false">https://osf.io/xjhya#ja</guid>
+    <pubDate>Wed, 06 May 2026 22:27:06 +0000</pubDate>
+    <description>Conceptual diversity of linguistic structure: a mixed-methods corpus study</description>
+  </item>
+  <item>
+    <title>暗号的再知覚：創造的批判的思考の認知的枠組み</title>
+    <link>https://osf.io/qw2pm</link>
+    <guid isPermaLink="false">https://osf.io/qw2pm#ja</guid>
+    <pubDate>Wed, 06 May 2026 22:27:06 +0000</pubDate>
+    <description>Cryptic Re-perception: A Cognitive Framework for Creative-Critical Thinking</description>
+  </item>
+  <item>
+    <title>社会政治的意見における錯覚的真実効果の限界：二つの実験とミニメタ分析による検証</title>
+    <link>https://osf.io/2svad</link>
+    <guid isPermaLink="false">https://osf.io/2svad#ja</guid>
+    <pubDate>Wed, 06 May 2026 22:27:06 +0000</pubDate>
+    <description>Limits of the illusory truth effect for social-political opinions: Evidence from two experiments and a mini meta-analysis</description>
+  </item>
+  <item>
+    <title>主に補償対象となる中等度から重度の外傷性脳損傷患者における精神保健ケア利用に関連する要因</title>
+    <link>https://osf.io/9ucsv</link>
+    <guid isPermaLink="false">https://osf.io/9ucsv#ja</guid>
+    <pubDate>Wed, 06 May 2026 22:27:05 +0000</pubDate>
+    <description>Factors Associated with Mental Health Care Utilization Among Individuals with Predominately Compensable Moderate-Severe Traumatic Brain Injury</description>
+  </item>
+  <item>
+    <title>中等度から重度外傷性脳損傷後の精神病理のデータ駆動型プロファイル解析</title>
+    <link>https://osf.io/tak62</link>
+    <guid isPermaLink="false">https://osf.io/tak62#ja</guid>
+    <pubDate>Wed, 06 May 2026 22:27:02 +0000</pubDate>
+    <description>Data-driven profiles of psychopathology following moderate-severe traumatic brain injury</description>
+  </item>
+  <item>
+    <title>FRIENDS－日常状況におけるネットワーク内の友情に基づく個人感情調整－成人友人関係における感情調整の専門化と社会的成果に関するEMA研究</title>
+    <link>https://osf.io/47wsj</link>
+    <guid isPermaLink="false">https://osf.io/47wsj#ja</guid>
+    <pubDate>Wed, 06 May 2026 22:27:01 +0000</pubDate>
+    <description>FRIENDS - Friendship-based Regulation of Individual Emotions in Networks in Daily Situations - An EMA Study on Emotion Regulation Specialization and Social Outcomes in Adult Friendships</description>
+  </item>
+  <item>
+    <title>何を得ることができるのか？気候政策の心理社会的共益に関する体系的レビュー</title>
+    <link>https://osf.io/8bnz9</link>
+    <guid isPermaLink="false">https://osf.io/8bnz9#ja</guid>
+    <pubDate>Wed, 06 May 2026 22:27:00 +0000</pubDate>
+    <description>What Is There to Gain? A Systematic Review on Psychosocial Co-Benefits of Climate Policies</description>
+  </item>
+  <item>
+    <title>主観的社会経済的地位の変動は社会経済的地位の水準を超えて自己調整に影響する：二つの縦断研究による証拠</title>
+    <link>https://osf.io/he93b</link>
+    <guid isPermaLink="false">https://osf.io/he93b#ja</guid>
+    <pubDate>Wed, 06 May 2026 22:27:00 +0000</pubDate>
+    <description>Dynamics in subjective socioeconomic status matter over and above levels of socioeconomic status for self-regulation: Evidence across two longitudinal studies</description>
+  </item>
+  <item>
+    <title>教師生成フィードバックとAI生成フィードバックの知覚：教師によるAIへの（暗黙の）バイアスに関する実験的検討</title>
+    <link>https://osf.io/s25rn</link>
+    <guid isPermaLink="false">https://osf.io/s25rn#ja</guid>
+    <pubDate>Wed, 06 May 2026 22:27:00 +0000</pubDate>
+    <description>Perceptions of Teacher- Versus AI-Generated Feedback: Experimental Findings on the (Implicit) Bias of Teachers Against AI</description>
+  </item>
+  <item>
+    <title>データにノイズがある場合の個人差相関の特定：先行的制御と反応的制御の事例研究</title>
     <link>https://osf.io/9e4wt</link>
     <guid isPermaLink="false">https://osf.io/9e4wt#ja</guid>
     <pubDate>Tue, 05 May 2026 20:45:50 +0000</pubDate>
@@ -20,14 +83,14 @@
     <description>Dissociable contributions of working memory capacity and lapses of attention to cognitive deficits in schizophrenia</description>
   </item>
   <item>
-    <title>メタアナリシスに基づく連続時間ランダムインターセプト交差遅延パネルモデルの一段階推定法</title>
+    <title>メタアナリシス連続時間ランダム切片交差遅延パネルモデルの一段階推定法</title>
     <link>https://osf.io/yfn58</link>
     <guid isPermaLink="false">https://osf.io/yfn58#ja</guid>
     <pubDate>Tue, 05 May 2026 16:49:57 +0000</pubDate>
     <description>A One-Stage Approach for Estimating a Meta-Analytic Continuous-Time Random-Intercept Cross-Lagged Panel Model</description>
   </item>
   <item>
-    <title>心理的メカニズムの考慮がベイズモデルの解釈に与える影響</title>
+    <title>心理的メカニズムの考慮がベイズモデルの解釈を変える可能性について</title>
     <link>https://osf.io/cqyj7</link>
     <guid isPermaLink="false">https://osf.io/cqyj7#ja</guid>
     <pubDate>Tue, 05 May 2026 16:49:57 +0000</pubDate>
@@ -41,7 +104,7 @@
     <description>From Features to Objects: Developmental Differences in Reinforcement Learning Strategies</description>
   </item>
   <item>
-    <title>認知の極端な逸脱を横断的強迫性障害に対応付ける：規範的モデリング手法による検討</title>
+    <title>認知における極端な逸脱のマッピングと横断的強迫性障害への関連：規範的モデリング手法による検討</title>
     <link>https://osf.io/9bt4u</link>
     <guid isPermaLink="false">https://osf.io/9bt4u#ja</guid>
     <pubDate>Tue, 05 May 2026 16:49:56 +0000</pubDate>
@@ -55,7 +118,7 @@
     <description>Self-Control as a Mediator Between Personality Traits and Subjective Well-Being: Evidence from Three Panel Studies</description>
   </item>
   <item>
-    <title>離人症・現実感消失障害を有する人々の体験に関する質的系統的文献レビュー</title>
+    <title>非現実感・離人症障害を有する人々の体験に関する質的系統的文献レビュー</title>
     <link>https://osf.io/sfj8n</link>
     <guid isPermaLink="false">https://osf.io/sfj8n#ja</guid>
     <pubDate>Tue, 05 May 2026 11:39:49 +0000</pubDate>
@@ -69,7 +132,7 @@
     <description>The skewed distribution of educational technology research - a sign of academic hegemony? An analysis of localization in scientific publications</description>
   </item>
   <item>
-    <title>高所恐怖症に対するバーチャルリアリティ曝露療法の効果を最大化するための自己効力感介入の実施方法と適時性</title>
+    <title>高所恐怖症に対するバーチャルリアリティ曝露療法の効果を最大化するための自己効力感介入の実施時期と方法</title>
     <link>https://osf.io/t8efn</link>
     <guid isPermaLink="false">https://osf.io/t8efn#ja</guid>
     <pubDate>Mon, 04 May 2026 19:55:59 +0000</pubDate>
@@ -83,7 +146,7 @@
     <description>“It Feels Like We are an Outsider”: Understanding Barriers and Creating Opportunities for Fathers’ Engagement in Parenting Programs</description>
   </item>
   <item>
-    <title>幼少期の逆境経験に基づく若年成人における登録睡眠障害および自己申告睡眠問題のパターン</title>
+    <title>幼少期の逆境経験に基づく若年成人における登録および自己報告による睡眠問題のパターン</title>
     <link>https://osf.io/w8dsf</link>
     <guid isPermaLink="false">https://osf.io/w8dsf#ja</guid>
     <pubDate>Mon, 04 May 2026 19:55:58 +0000</pubDate>
@@ -97,14 +160,14 @@
     <description>Identifying and repairing mismatches between metadata and actual participant identifiers in CHILDES</description>
   </item>
   <item>
-    <title>脳における埋め込み予測のエネルギー勾配理論</title>
+    <title>脳内における埋め込み予測のエネルギー勾配理論</title>
     <link>https://osf.io/fqdgk</link>
     <guid isPermaLink="false">https://osf.io/fqdgk#ja</guid>
     <pubDate>Mon, 04 May 2026 15:08:13 +0000</pubDate>
     <description>An energy-gradient theory of embedded predictions in the brain</description>
   </item>
   <item>
-    <title>強固な裏付けのない信念とパーソナリティ項目との関連性</title>
+    <title>強力な裏付け証拠を欠く信念とパーソナリティ項目との関連性</title>
     <link>https://osf.io/ztx9n</link>
     <guid isPermaLink="false">https://osf.io/ztx9n#ja</guid>
     <pubDate>Mon, 04 May 2026 15:08:12 +0000</pubDate>
@@ -118,14 +181,14 @@
     <description>The use of motor imagery in geriatric rehabilitation : a case report before a cardiac surgery</description>
   </item>
   <item>
-    <title>なぜ思考の速い人はより賢いのか：処理速度と認知能力をつなぐ作業記憶の結合機能</title>
+    <title>なぜ思考の速い人はより賢いのか：処理速度と認知能力を結ぶ作業記憶の結合機能</title>
     <link>https://osf.io/t2jve</link>
     <guid isPermaLink="false">https://osf.io/t2jve#ja</guid>
     <pubDate>Mon, 04 May 2026 15:08:12 +0000</pubDate>
     <description>Why faster thinkers are smarter thinkers: Working memory binding as the link between processing speed and cognitive ability</description>
   </item>
   <item>
-    <title>直感的な他者評価は意図的な評価よりも支持されやすいが、正確性は劣る</title>
+    <title>直感的判断は熟慮的判断よりも支持されやすいが、正確性は劣る対人評価の研究</title>
     <link>https://osf.io/pw8cs</link>
     <guid isPermaLink="false">https://osf.io/pw8cs#ja</guid>
     <pubDate>Mon, 04 May 2026 15:08:11 +0000</pubDate>
@@ -167,7 +230,7 @@
     <description>Judgment Patterns and Decision Processes in Children’s Non-symbolic Probabilistic Choices</description>
   </item>
   <item>
-    <title>外傷性脳損傷後の内在化および外在化精神健康問題と心理社会的要因の関連：HiTOP-TBIモデルの適用</title>
+    <title>外傷性脳損傷後の内在化および外在化精神健康問題に対する心理社会的要因の関連性：HiTOP-TBIモデルの応用</title>
     <link>https://osf.io/fhr4s</link>
     <guid isPermaLink="false">https://osf.io/fhr4s#ja</guid>
     <pubDate>Sun, 03 May 2026 14:34:40 +0000</pubDate>
@@ -195,7 +258,7 @@
     <description>Benefits of co-learning with an AI agent</description>
   </item>
   <item>
-    <title>データ欠損を残さないための受入検査におけるベイズ状態空間モデル入門</title>
+    <title>データ欠損を残さないための基礎知識：受入検査におけるベイズ状態空間モデルの入門</title>
     <link>https://osf.io/3uh85</link>
     <guid isPermaLink="false">https://osf.io/3uh85#ja</guid>
     <pubDate>Sat, 02 May 2026 17:57:20 +0000</pubDate>
@@ -230,7 +293,7 @@
     <description>Afraid of Hunger, Ashamed of Fullness: The Development and Validation of the Negative Appraisal of Gastric Sensations (NAGS) Scale and its association with Disordered Eating</description>
   </item>
   <item>
-    <title>積極的信頼者から消極的不信者へ：政治的関与スタイルと党派性の関係性の探究</title>
+    <title>関与的信頼者から離脱的不信者へ：政治的関与スタイルと党派性の関係性の探究</title>
     <link>https://osf.io/st3gw</link>
     <guid isPermaLink="false">https://osf.io/st3gw#ja</guid>
     <pubDate>Sat, 02 May 2026 13:43:25 +0000</pubDate>
@@ -286,74 +349,11 @@
     <description>Simulating connection: a critical scoping review of relatedness manipulation in experimental paradigms</description>
   </item>
   <item>
-    <title>実存的孤独感尺度ドイツ語版の翻訳と検証</title>
+    <title>実存的孤独感尺度ドイツ語版の翻訳と妥当性検証</title>
     <link>https://osf.io/dqn6m</link>
     <guid isPermaLink="false">https://osf.io/dqn6m#ja</guid>
     <pubDate>Fri, 01 May 2026 19:40:12 +0000</pubDate>
     <description>Translation and Validation of the German Version of the Existential Loneliness Scale</description>
-  </item>
-  <item>
-    <title>悪意を信じ、平凡を忘れる：感情要因がフェイクニュースへの感受性に与える影響</title>
-    <link>https://osf.io/sgftz</link>
-    <guid isPermaLink="false">https://osf.io/sgftz#ja</guid>
-    <pubDate>Fri, 01 May 2026 19:40:12 +0000</pubDate>
-    <description>Believing the Bad, Remembering the Bland: The Influence of Emotional Factors in Susceptibility to Fake News</description>
-  </item>
-  <item>
-    <title>CDCのコミュニケーションがワクチンへの信頼を損なう影響</title>
-    <link>https://osf.io/m9hp2</link>
-    <guid isPermaLink="false">https://osf.io/m9hp2#ja</guid>
-    <pubDate>Fri, 01 May 2026 19:40:12 +0000</pubDate>
-    <description>CDC Communication Undermines Trust in Vaccines</description>
-  </item>
-  <item>
-    <title>CREATIVA：大規模言語モデルを活用したプロセス動態的創造性評価システムの予備報告</title>
-    <link>https://osf.io/d4rsu</link>
-    <guid isPermaLink="false">https://osf.io/d4rsu#ja</guid>
-    <pubDate>Fri, 01 May 2026 19:40:11 +0000</pubDate>
-    <description>CREATIVA: A Preliminary Report on a Process-Dynamic Creativity Assessment System Powered by Large Language Models</description>
-  </item>
-  <item>
-    <title>内受容感覚と物質使用：系統的レビューとメタアナリシス</title>
-    <link>https://osf.io/gzv78</link>
-    <guid isPermaLink="false">https://osf.io/gzv78#ja</guid>
-    <pubDate>Fri, 01 May 2026 19:40:11 +0000</pubDate>
-    <description>Interoception and Substance use: A systematic review and meta-analysis</description>
-  </item>
-  <item>
-    <title>分類の壁を越えて：種を超えたコミュニケーション調整の形式モデルに関する体系的レビュー</title>
-    <link>https://osf.io/4a7wt</link>
-    <guid isPermaLink="false">https://osf.io/4a7wt#ja</guid>
-    <pubDate>Fri, 01 May 2026 19:40:11 +0000</pubDate>
-    <description>Breaking the Taxonomic Barrier: A Systematic Review of Formal Models of Communicative Coordination Across Species</description>
-  </item>
-  <item>
-    <title>トゥルークライムポッドキャストにおける法心理学の表象：物語構造、語調、および専門性の内容分析</title>
-    <link>https://osf.io/qmxg8</link>
-    <guid isPermaLink="false">https://osf.io/qmxg8#ja</guid>
-    <pubDate>Fri, 01 May 2026 19:40:10 +0000</pubDate>
-    <description>Representing Forensic Psychology in True Crime Podcasts: A Content Analysis of Narrative, Tone, and Expertise</description>
-  </item>
-  <item>
-    <title>女性向けAI搭載キャリアコーチングツールの設計に関する専門家インタビュー研究</title>
-    <link>https://osf.io/3prka</link>
-    <guid isPermaLink="false">https://osf.io/3prka#ja</guid>
-    <pubDate>Fri, 01 May 2026 19:40:10 +0000</pubDate>
-    <description>Designing AI-enabled career coaching tools for women: An expert interview study</description>
-  </item>
-  <item>
-    <title>記憶性が時間的選択における表象競合を再構築する</title>
-    <link>https://osf.io/mfy7b</link>
-    <guid isPermaLink="false">https://osf.io/mfy7b#ja</guid>
-    <pubDate>Fri, 01 May 2026 19:40:09 +0000</pubDate>
-    <description>Memorability Reshapes Representational Competition During Temporal Selection</description>
-  </item>
-  <item>
-    <title>注意の分割は偶発的言語学習の基礎能力を損なう：聴覚的統計学習における領域特異的効果</title>
-    <link>https://osf.io/jbx5a</link>
-    <guid isPermaLink="false">https://osf.io/jbx5a#ja</guid>
-    <pubDate>Fri, 01 May 2026 11:44:09 +0000</pubDate>
-    <description>Dividing Attention Hurts Core Abilities for Incidental Language Learning:  Domain-Specific Effects in Auditory Statistical Learning</description>
   </item>
 </channel>
 </rss>
