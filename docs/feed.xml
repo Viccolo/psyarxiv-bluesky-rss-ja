@@ -6,14 +6,28 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>左翼イデオロギーの心理計測に関する包括的系統的レビュー</title>
+    <title>文脈における多面的感情測定のための方法論的革新</title>
+    <link>https://osf.io/6sazc</link>
+    <guid isPermaLink="false">https://osf.io/6sazc#ja</guid>
+    <pubDate>Fri, 08 May 2026 19:47:44 +0000</pubDate>
+    <description>Methodological Innovations for Measuring Multifaceted Emotions in Context</description>
+  </item>
+  <item>
+    <title>オープンサイエンスの多言語化：FORRTオープンサイエンス用語集のトルコ語版適応からの教訓</title>
+    <link>https://osf.io/c4jqr</link>
+    <guid isPermaLink="false">https://osf.io/c4jqr#ja</guid>
+    <pubDate>Fri, 08 May 2026 19:47:44 +0000</pubDate>
+    <description>Making Open Science Multilingual: Lessons from the Turkish Adaptation of FORRT’s Open Science Glossary</description>
+  </item>
+  <item>
+    <title>左翼イデオロギーの心理計測学に関する包括的系統的レビュー</title>
     <link>https://osf.io/47bq3</link>
     <guid isPermaLink="false">https://osf.io/47bq3#ja</guid>
     <pubDate>Fri, 08 May 2026 18:19:38 +0000</pubDate>
     <description>A comprehensive systematic review of the psychometrics of left-wing ideology</description>
   </item>
   <item>
-    <title>オープンリポジトリを超えて：精密機能マッピングにおける実証的指導に基づくメタサイエンス枠組みの必要性</title>
+    <title>オープンリポジトリを超えて：精密機能マッピングにおける実証的指導に基づくメタサイエンス的枠組みの必要性</title>
     <link>https://osf.io/d9r4k</link>
     <guid isPermaLink="false">https://osf.io/d9r4k#ja</guid>
     <pubDate>Fri, 08 May 2026 18:19:37 +0000</pubDate>
@@ -27,7 +41,7 @@
     <description>Differential associations of rhythm and pitch perception with cognitive function in older adults</description>
   </item>
   <item>
-    <title>オーストラリアの青少年におけるソーシャルメディア利用とメンタルヘルスの変化：ソーシャルメディア最低利用年齢法施行前後の研究プロトコル</title>
+    <title>オーストラリアの青少年におけるソーシャルメディア利用とメンタルヘルスの変化：ソーシャルメディア最低年齢法施行前後の研究プロトコル</title>
     <link>https://osf.io/uxbh4</link>
     <guid isPermaLink="false">https://osf.io/uxbh4#ja</guid>
     <pubDate>Fri, 08 May 2026 09:24:51 +0000</pubDate>
@@ -104,7 +118,7 @@
     <description>Conceptual diversity of linguistic structure: a mixed-methods corpus study</description>
   </item>
   <item>
-    <title>暗号的再知覚：創造的批判的思考の認知フレームワーク</title>
+    <title>暗号的再知覚：創造的批判的思考の認知的枠組み</title>
     <link>https://osf.io/qw2pm</link>
     <guid isPermaLink="false">https://osf.io/qw2pm#ja</guid>
     <pubDate>Wed, 06 May 2026 22:27:06 +0000</pubDate>
@@ -146,14 +160,14 @@
     <description>What Is There to Gain? A Systematic Review on Psychosocial Co-Benefits of Climate Policies</description>
   </item>
   <item>
-    <title>主観的社会経済的地位の変動は社会経済的地位の水準を超えて自己調整に影響する：二つの縦断研究による証拠</title>
+    <title>主観的社会経済的地位の変動は社会経済的地位の水準を超えて自己調整に影響を与える：二つの縦断的研究による証拠</title>
     <link>https://osf.io/he93b</link>
     <guid isPermaLink="false">https://osf.io/he93b#ja</guid>
     <pubDate>Wed, 06 May 2026 22:27:00 +0000</pubDate>
     <description>Dynamics in subjective socioeconomic status matter over and above levels of socioeconomic status for self-regulation: Evidence across two longitudinal studies</description>
   </item>
   <item>
-    <title>教師生成フィードバックとAI生成フィードバックの知覚：教師によるAIへの（暗黙的）バイアスに関する実験的検討</title>
+    <title>教師生成フィードバックとAI生成フィードバックの知覚：教師によるAIへの（暗黙の）バイアスに関する実験的検討</title>
     <link>https://osf.io/s25rn</link>
     <guid isPermaLink="false">https://osf.io/s25rn#ja</guid>
     <pubDate>Wed, 06 May 2026 22:27:00 +0000</pubDate>
@@ -174,14 +188,14 @@
     <description>Dissociable contributions of working memory capacity and lapses of attention to cognitive deficits in schizophrenia</description>
   </item>
   <item>
-    <title>メタアナリシスに基づく連続時間ランダムインターセプト交差遅延パネルモデルの一段階推定法</title>
+    <title>メタアナリシスに基づく連続時間ランダム切片交差遅延パネルモデルの一段階推定法</title>
     <link>https://osf.io/yfn58</link>
     <guid isPermaLink="false">https://osf.io/yfn58#ja</guid>
     <pubDate>Tue, 05 May 2026 16:49:57 +0000</pubDate>
     <description>A One-Stage Approach for Estimating a Meta-Analytic Continuous-Time Random-Intercept Cross-Lagged Panel Model</description>
   </item>
   <item>
-    <title>心理的メカニズムの考慮がベイズモデルの解釈を変える可能性について</title>
+    <title>心理的メカニズムの考慮がベイズモデルの解釈に与える影響</title>
     <link>https://osf.io/cqyj7</link>
     <guid isPermaLink="false">https://osf.io/cqyj7#ja</guid>
     <pubDate>Tue, 05 May 2026 16:49:57 +0000</pubDate>
@@ -223,7 +237,7 @@
     <description>The skewed distribution of educational technology research - a sign of academic hegemony? An analysis of localization in scientific publications</description>
   </item>
   <item>
-    <title>高所恐怖症に対するバーチャルリアリティ曝露療法の効果を最大化するための自己効力感介入の実施方法と適時性</title>
+    <title>高さ恐怖症に対するバーチャルリアリティ曝露療法の効果を最大化するための自己効力感介入の実施方法と適時性</title>
     <link>https://osf.io/t8efn</link>
     <guid isPermaLink="false">https://osf.io/t8efn#ja</guid>
     <pubDate>Mon, 04 May 2026 19:55:59 +0000</pubDate>
@@ -237,7 +251,7 @@
     <description>“It Feels Like We are an Outsider”: Understanding Barriers and Creating Opportunities for Fathers’ Engagement in Parenting Programs</description>
   </item>
   <item>
-    <title>幼少期の逆境経験別にみる若年成人の登録睡眠問題および自己報告睡眠問題のパターン</title>
+    <title>幼少期の逆境経験の異なる若年成人における登録睡眠問題と自己申告睡眠問題のパターン</title>
     <link>https://osf.io/w8dsf</link>
     <guid isPermaLink="false">https://osf.io/w8dsf#ja</guid>
     <pubDate>Mon, 04 May 2026 19:55:58 +0000</pubDate>
@@ -258,7 +272,7 @@
     <description>An energy-gradient theory of embedded predictions in the brain</description>
   </item>
   <item>
-    <title>強固な裏付けのない信念とパーソナリティ特性との関連性</title>
+    <title>強固な裏付けのない信念：パーソナリティ項目との関連性</title>
     <link>https://osf.io/ztx9n</link>
     <guid isPermaLink="false">https://osf.io/ztx9n#ja</guid>
     <pubDate>Mon, 04 May 2026 15:08:12 +0000</pubDate>
@@ -272,14 +286,14 @@
     <description>The use of motor imagery in geriatric rehabilitation : a case report before a cardiac surgery</description>
   </item>
   <item>
-    <title>なぜ思考の速い人はより賢いのか：処理速度と認知能力をつなぐ作業記憶の結合機能</title>
+    <title>なぜ思考の速い人はより賢いのか：処理速度と認知能力を結ぶ作業記憶の結合機能</title>
     <link>https://osf.io/t2jve</link>
     <guid isPermaLink="false">https://osf.io/t2jve#ja</guid>
     <pubDate>Mon, 04 May 2026 15:08:12 +0000</pubDate>
     <description>Why faster thinkers are smarter thinkers: Working memory binding as the link between processing speed and cognitive ability</description>
   </item>
   <item>
-    <title>直感的判断は熟慮的判断よりも支持されやすいが、正確性は劣る対人認知の検討</title>
+    <title>直感的な他者評価は意図的評価よりも支持されるが、より正確ではない</title>
     <link>https://osf.io/pw8cs</link>
     <guid isPermaLink="false">https://osf.io/pw8cs#ja</guid>
     <pubDate>Mon, 04 May 2026 15:08:11 +0000</pubDate>
@@ -307,7 +321,7 @@
     <description>Why Some Words Stick and Others Fade: A Neurocognitive Perspective on Vocabulary Learning</description>
   </item>
   <item>
-    <title>混合ブロックにおける聴覚警告刺激による反応時間コスト</title>
+    <title>混合課題における聴覚警告刺激による反応時間コスト</title>
     <link>https://osf.io/j6nqa</link>
     <guid isPermaLink="false">https://osf.io/j6nqa#ja</guid>
     <pubDate>Mon, 04 May 2026 12:56:58 +0000</pubDate>
@@ -328,7 +342,7 @@
     <description>Associations of Psychosocial Factors with Internalizing and Externalizing Mental Health Problems Following Traumatic Brain Injury: An Application of the HiTOP-TBI Model</description>
   </item>
   <item>
-    <title>国際養子縁組における否定表現習得における認知発達と言語発達の分離</title>
+    <title>国際養子縁組を用いた否定表現習得における認知発達と言語発達の分離</title>
     <link>https://osf.io/xhtmv</link>
     <guid isPermaLink="false">https://osf.io/xhtmv#ja</guid>
     <pubDate>Sun, 03 May 2026 14:34:40 +0000</pubDate>
@@ -340,20 +354,6 @@
     <guid isPermaLink="false">https://osf.io/m5d62#ja</guid>
     <pubDate>Sun, 03 May 2026 13:43:32 +0000</pubDate>
     <description>Real-time Functional Connectivity Analysis Using Multivariate Autoregressive Model-based Independent Component Analysis in Task-related High-density EEG</description>
-  </item>
-  <item>
-    <title>AIエージェントとの共同学習の利点</title>
-    <link>https://osf.io/bx5q4</link>
-    <guid isPermaLink="false">https://osf.io/bx5q4#ja</guid>
-    <pubDate>Sat, 02 May 2026 21:06:08 +0000</pubDate>
-    <description>Benefits of co-learning with an AI agent</description>
-  </item>
-  <item>
-    <title>データ欠損を残さないための基礎：受入検査におけるベイズ状態空間モデルの入門</title>
-    <link>https://osf.io/3uh85</link>
-    <guid isPermaLink="false">https://osf.io/3uh85#ja</guid>
-    <pubDate>Sat, 02 May 2026 17:57:20 +0000</pubDate>
-    <description>No Data Left Behind - A Primer on Bayesian State-Space Models for Acceptance Sampling</description>
   </item>
 </channel>
 </rss>
