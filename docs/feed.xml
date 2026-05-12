@@ -6,6 +6,62 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>認知的および知覚的要因がX線手荷物検査のパフォーマンスに及ぼす影響に関する系統的レビュー</title>
+    <link>https://osf.io/86279</link>
+    <guid isPermaLink="false">https://osf.io/86279#ja</guid>
+    <pubDate>Tue, 12 May 2026 15:08:56 +0000</pubDate>
+    <description>A systematic review of the effects of cognitive and perceptual factors on X-ray baggage screening performance</description>
+  </item>
+  <item>
+    <title>才能児の注意優位性は高負荷の搾取的課題に選択的に現れる：TEPRによる証拠</title>
+    <link>https://osf.io/qe9w3</link>
+    <guid isPermaLink="false">https://osf.io/qe9w3#ja</guid>
+    <pubDate>Tue, 12 May 2026 15:08:55 +0000</pubDate>
+    <description>Attentional Advantage in Gifted Children Is Selective to High-Demand Exploitative Tasks: Evidence from TEPR</description>
+  </item>
+  <item>
+    <title>理論への再現性の拡張：累積科学の基盤としての理論的再現性と精度</title>
+    <link>https://osf.io/f6tja</link>
+    <guid isPermaLink="false">https://osf.io/f6tja#ja</guid>
+    <pubDate>Tue, 12 May 2026 15:08:55 +0000</pubDate>
+    <description>Extending Reproducibility to Theory: Theoretical Reproducibility and Precision as Foundations of Cumulative Science</description>
+  </item>
+  <item>
+    <title>心拍変動（HRV）と精神病理のメタアナリシス：階層的精神病理分類体系（HiTOP）フレームワークに基づく検討</title>
+    <link>https://osf.io/zu8aq</link>
+    <guid isPermaLink="false">https://osf.io/zu8aq#ja</guid>
+    <pubDate>Tue, 12 May 2026 15:08:55 +0000</pubDate>
+    <description>A Meta-analysis of Heart Rate Variability (HRV) and Psychopathology: An Investigation Guided by the Hierarchical Taxonomy of Psychopathology (HiTOP) Framework</description>
+  </item>
+  <item>
+    <title>長期化した悲嘆における日々の症状関連性：動的ネットワークアプローチによる検討</title>
+    <link>https://osf.io/ngb5p</link>
+    <guid isPermaLink="false">https://osf.io/ngb5p#ja</guid>
+    <pubDate>Tue, 12 May 2026 15:08:55 +0000</pubDate>
+    <description>Daily symptom associations in prolonged grief: a dynamic network approach</description>
+  </item>
+  <item>
+    <title>ワクチン接種に伴う潜在的有害結果に関する統計的推論</title>
+    <link>https://osf.io/aysze</link>
+    <guid isPermaLink="false">https://osf.io/aysze#ja</guid>
+    <pubDate>Tue, 12 May 2026 15:08:54 +0000</pubDate>
+    <description>Statistical Reasoning regarding Possible Adverse Outcomes of Vaccination</description>
+  </item>
+  <item>
+    <title>経験的に導出された表現型は診断の異質性を低減しうる</title>
+    <link>https://osf.io/8wtqx</link>
+    <guid isPermaLink="false">https://osf.io/8wtqx#ja</guid>
+    <pubDate>Tue, 12 May 2026 15:08:54 +0000</pubDate>
+    <description>Empirically derived phenotypes can reduce diagnostic heterogeneity</description>
+  </item>
+  <item>
+    <title>課題内および課題間の手がかり付き一致効果：制御適応戦略が刺激および課題間で転移しうる証拠</title>
+    <link>https://osf.io/r3nbd</link>
+    <guid isPermaLink="false">https://osf.io/r3nbd#ja</guid>
+    <pubDate>Tue, 12 May 2026 15:08:54 +0000</pubDate>
+    <description>Within- and cross-task cued congruency effects: evidence that control adaptation strategies can transfer between stimuli and tasks</description>
+  </item>
+  <item>
     <title>友達になろう！報酬がなくても人は協力する</title>
     <link>https://osf.io/kg8de</link>
     <guid isPermaLink="false">https://osf.io/kg8de#ja</guid>
@@ -13,7 +69,7 @@
     <description>Let&#x27;s be friends! People work together even when there is no incentive to do so</description>
   </item>
   <item>
-    <title>重要な数分間：日常的ストレスに対する青年期の感情解決におけるマイクロバーストアプローチ</title>
+    <title>重要な数分間：日常のストレスに対する青年期の感情解決におけるマイクロバーストアプローチ</title>
     <link>https://osf.io/s4mp6</link>
     <guid isPermaLink="false">https://osf.io/s4mp6#ja</guid>
     <pubDate>Mon, 11 May 2026 13:38:34 +0000</pubDate>
@@ -27,21 +83,21 @@
     <description>Methodological Innovations for Measuring Multifaceted Emotions in Context</description>
   </item>
   <item>
-    <title>オープンサイエンスの多言語化：FORRTオープンサイエンス用語集のトルコ語版適応からの教訓</title>
+    <title>オープンサイエンスの多言語化：FORRTのオープンサイエンス用語集のトルコ語版適応から得られた教訓</title>
     <link>https://osf.io/c4jqr</link>
     <guid isPermaLink="false">https://osf.io/c4jqr#ja</guid>
     <pubDate>Fri, 08 May 2026 19:47:44 +0000</pubDate>
     <description>Making Open Science Multilingual: Lessons from the Turkish Adaptation of FORRT’s Open Science Glossary</description>
   </item>
   <item>
-    <title>左翼イデオロギーの心理測定特性に関する包括的系統的レビュー</title>
+    <title>左翼イデオロギーの心理計測に関する包括的系統的レビュー</title>
     <link>https://osf.io/47bq3</link>
     <guid isPermaLink="false">https://osf.io/47bq3#ja</guid>
     <pubDate>Fri, 08 May 2026 18:19:38 +0000</pubDate>
     <description>A comprehensive systematic review of the psychometrics of left-wing ideology</description>
   </item>
   <item>
-    <title>オープンリポジトリを超えて：精密機能マッピングにおける実証的指導に基づくメタサイエンス枠組みの必要性</title>
+    <title>オープンリポジトリを超えて：精密機能マッピングにおける経験的根拠に基づくメタサイエンス枠組みの必要性</title>
     <link>https://osf.io/d9r4k</link>
     <guid isPermaLink="false">https://osf.io/d9r4k#ja</guid>
     <pubDate>Fri, 08 May 2026 18:19:37 +0000</pubDate>
@@ -55,14 +111,14 @@
     <description>Differential associations of rhythm and pitch perception with cognitive function in older adults</description>
   </item>
   <item>
-    <title>オーストラリアの青少年におけるソーシャルメディア使用とメンタルヘルス：ソーシャルメディア最低年齢法施行前後の研究プロトコル</title>
+    <title>オーストラリアの青少年におけるソーシャルメディア使用とメンタルヘルスの関係：ソーシャルメディア最低年齢法施行前後の研究プロトコル</title>
     <link>https://osf.io/uxbh4</link>
     <guid isPermaLink="false">https://osf.io/uxbh4#ja</guid>
     <pubDate>Fri, 08 May 2026 09:24:51 +0000</pubDate>
     <description>AUSTRALIAN ADOLESCENT SOCIAL MEDIA USE AND MENTAL HEALTH BEFORE AND AFTER THE SOCIAL MEDIA MINIUM AGE LEGISLATION:  A STUDY PROTOCOL</description>
   </item>
   <item>
-    <title>人々はいつ適切に大規模言語モデルを信頼するのか？信頼と信頼性の単一尺度による測定</title>
+    <title>人はいつ大規模言語モデルを適切に信頼するのか？信頼と信頼性の単一尺度による測定</title>
     <link>https://osf.io/wrh3g</link>
     <guid isPermaLink="false">https://osf.io/wrh3g#ja</guid>
     <pubDate>Fri, 08 May 2026 09:24:51 +0000</pubDate>
@@ -76,14 +132,14 @@
     <description>Complex Post-Traumatic Stress Disorder in Refugees, Asylum Seekers, and Internally Displaced People: A Systematic Review and Meta-Analysis</description>
   </item>
   <item>
-    <title>要約統計量に基づく二水準構造方程式モデルの適合：メタ解析的構造方程式モデリングの高度化</title>
+    <title>要約統計量に基づく二層構造方程式モデルの適合：メタ解析的構造方程式モデリングの高度化</title>
     <link>https://osf.io/gh7w9</link>
     <guid isPermaLink="false">https://osf.io/gh7w9#ja</guid>
     <pubDate>Thu, 07 May 2026 17:21:51 +0000</pubDate>
     <description>Fitting two-level structural equation models to summary statistics:  Leveling up meta-analytic structural equation modeling</description>
   </item>
   <item>
-    <title>摂食障害における自傷行為：エコロジカルモーメンタリーアセスメントを用いた状況的パターンの特定</title>
+    <title>摂食障害における自傷行為：エコロジカルモーメンタリーアセスメント研究による文脈的パターンの特定</title>
     <link>https://osf.io/8qp7d</link>
     <guid isPermaLink="false">https://osf.io/8qp7d#ja</guid>
     <pubDate>Thu, 07 May 2026 17:21:51 +0000</pubDate>
@@ -97,21 +153,21 @@
     <description>Cross-Modal Transfer of Statistical Learning: Evidence from auditory and visual sequence learning</description>
   </item>
   <item>
-    <title>音楽が空想を促進する時期と方法：不適応性空想に関する調査</title>
+    <title>音楽が空想を促進する時と方法：不適応性空想に関する調査</title>
     <link>https://osf.io/a5cjf</link>
     <guid isPermaLink="false">https://osf.io/a5cjf#ja</guid>
     <pubDate>Wed, 06 May 2026 23:12:23 +0000</pubDate>
     <description>When and how music promotes fantasies: a survey on Maladaptive Daydreaming</description>
   </item>
   <item>
-    <title>がん患者の多面的プレハビリテーションにおける心理機能の体験：系統的レビューとメタエスノグラフィー</title>
+    <title>多面的プレハビリテーションにおけるがん患者の心理機能体験：システマティックレビューとメタエスノグラフィー</title>
     <link>https://osf.io/8pvfu</link>
     <guid isPermaLink="false">https://osf.io/8pvfu#ja</guid>
     <pubDate>Wed, 06 May 2026 23:12:23 +0000</pubDate>
     <description>Cancer patients’ experiences of psychological function in multimodal prehabilitation: A systematic review and meta-ethnography</description>
   </item>
   <item>
-    <title>より多く与えるほど評価が下がる場合：社会的評価のベイズモデルにおける逆説的推論</title>
+    <title>より多く与えるほど評価が下がる：社会的評価のベイズモデルにおける逆説的推論</title>
     <link>https://osf.io/82p6f</link>
     <guid isPermaLink="false">https://osf.io/82p6f#ja</guid>
     <pubDate>Wed, 06 May 2026 23:12:22 +0000</pubDate>
@@ -132,7 +188,7 @@
     <description>Conceptual diversity of linguistic structure: a mixed-methods corpus study</description>
   </item>
   <item>
-    <title>暗示的再知覚：創造的批判的思考の認知的枠組み</title>
+    <title>暗号的再知覚：創造的批判的思考の認知的枠組み</title>
     <link>https://osf.io/qw2pm</link>
     <guid isPermaLink="false">https://osf.io/qw2pm#ja</guid>
     <pubDate>Wed, 06 May 2026 22:27:06 +0000</pubDate>
@@ -146,7 +202,7 @@
     <description>Limits of the illusory truth effect for social-political opinions: Evidence from two experiments and a mini meta-analysis</description>
   </item>
   <item>
-    <title>主に補償対象となる中等度から重度外傷性脳損傷患者における精神保健ケア利用に関連する要因</title>
+    <title>主に補償対象となる中等度から重度の外傷性脳損傷患者における精神保健ケア利用に関連する要因</title>
     <link>https://osf.io/9ucsv</link>
     <guid isPermaLink="false">https://osf.io/9ucsv#ja</guid>
     <pubDate>Wed, 06 May 2026 22:27:05 +0000</pubDate>
@@ -181,7 +237,7 @@
     <description>Dynamics in subjective socioeconomic status matter over and above levels of socioeconomic status for self-regulation: Evidence across two longitudinal studies</description>
   </item>
   <item>
-    <title>教師生成フィードバックとAI生成フィードバックの知覚：教師によるAIへの（暗黙の）バイアスに関する実験的検討</title>
+    <title>教師生成フィードバックとAI生成フィードバックの知覚：教師によるAIへの（暗黙の）バイアスに関する実験的検証</title>
     <link>https://osf.io/s25rn</link>
     <guid isPermaLink="false">https://osf.io/s25rn#ja</guid>
     <pubDate>Wed, 06 May 2026 22:27:00 +0000</pubDate>
@@ -195,14 +251,14 @@
     <description>Identifying individual difference correlations when the data are noisy: A case study of proactive and reactive control</description>
   </item>
   <item>
-    <title>統合失調症における認知機能障害に対する作業記憶容量と注意の逸脱の分離可能な寄与</title>
+    <title>統合失調症における認知機能障害に対する作業記憶容量と注意の逸脱の識別可能な寄与</title>
     <link>https://osf.io/fu6de</link>
     <guid isPermaLink="false">https://osf.io/fu6de#ja</guid>
     <pubDate>Tue, 05 May 2026 18:04:14 +0000</pubDate>
     <description>Dissociable contributions of working memory capacity and lapses of attention to cognitive deficits in schizophrenia</description>
   </item>
   <item>
-    <title>メタアナリシス連続時間ランダムインターセプト交差遅延パネルモデルの一段階推定法</title>
+    <title>メタアナリシスに基づく連続時間ランダム切片交差遅延パネルモデルの一段階推定法</title>
     <link>https://osf.io/yfn58</link>
     <guid isPermaLink="false">https://osf.io/yfn58#ja</guid>
     <pubDate>Tue, 05 May 2026 16:49:57 +0000</pubDate>
@@ -223,7 +279,7 @@
     <description>From Features to Objects: Developmental Differences in Reinforcement Learning Strategies</description>
   </item>
   <item>
-    <title>認知における極端な逸脱のマッピングと横断的強迫性への関連：規範的モデリング手法による検討</title>
+    <title>認知の極端な逸脱を横断的強迫性障害にマッピングする：規範的モデリング手法による検討</title>
     <link>https://osf.io/9bt4u</link>
     <guid isPermaLink="false">https://osf.io/9bt4u#ja</guid>
     <pubDate>Tue, 05 May 2026 16:49:56 +0000</pubDate>
@@ -251,7 +307,7 @@
     <description>The skewed distribution of educational technology research - a sign of academic hegemony? An analysis of localization in scientific publications</description>
   </item>
   <item>
-    <title>高所恐怖症に対する仮想現実曝露療法の効果を最大化するための自己効力感介入の実施方法と適時性</title>
+    <title>高度恐怖症に対するバーチャルリアリティ曝露療法の効果を最大化するための自己効力感介入の実施方法と適時性</title>
     <link>https://osf.io/t8efn</link>
     <guid isPermaLink="false">https://osf.io/t8efn#ja</guid>
     <pubDate>Mon, 04 May 2026 19:55:59 +0000</pubDate>
@@ -265,7 +321,7 @@
     <description>“It Feels Like We are an Outsider”: Understanding Barriers and Creating Opportunities for Fathers’ Engagement in Parenting Programs</description>
   </item>
   <item>
-    <title>幼少期逆境の異なる背景を持つ若年成人における登録睡眠問題と自己報告睡眠問題のパターン</title>
+    <title>幼少期の逆境経験の異なる若年成人における登録睡眠問題と自己申告睡眠問題のパターン</title>
     <link>https://osf.io/w8dsf</link>
     <guid isPermaLink="false">https://osf.io/w8dsf#ja</guid>
     <pubDate>Mon, 04 May 2026 19:55:58 +0000</pubDate>
@@ -279,14 +335,14 @@
     <description>Identifying and repairing mismatches between metadata and actual participant identifiers in CHILDES</description>
   </item>
   <item>
-    <title>脳における埋め込み予測のエネルギー勾配理論</title>
+    <title>脳内における埋め込み予測のエネルギー勾配理論</title>
     <link>https://osf.io/fqdgk</link>
     <guid isPermaLink="false">https://osf.io/fqdgk#ja</guid>
     <pubDate>Mon, 04 May 2026 15:08:13 +0000</pubDate>
     <description>An energy-gradient theory of embedded predictions in the brain</description>
   </item>
   <item>
-    <title>強固な裏付けのない信念：パーソナリティ項目との関連性</title>
+    <title>強力な裏付けのない信念：パーソナリティ項目との関連性</title>
     <link>https://osf.io/ztx9n</link>
     <guid isPermaLink="false">https://osf.io/ztx9n#ja</guid>
     <pubDate>Mon, 04 May 2026 15:08:12 +0000</pubDate>
@@ -298,62 +354,6 @@
     <guid isPermaLink="false">https://osf.io/b658f#ja</guid>
     <pubDate>Mon, 04 May 2026 15:08:12 +0000</pubDate>
     <description>The use of motor imagery in geriatric rehabilitation : a case report before a cardiac surgery</description>
-  </item>
-  <item>
-    <title>なぜ思考が速い人はより賢いのか：処理速度と認知能力を結ぶ作業記憶の結合機能</title>
-    <link>https://osf.io/t2jve</link>
-    <guid isPermaLink="false">https://osf.io/t2jve#ja</guid>
-    <pubDate>Mon, 04 May 2026 15:08:12 +0000</pubDate>
-    <description>Why faster thinkers are smarter thinkers: Working memory binding as the link between processing speed and cognitive ability</description>
-  </item>
-  <item>
-    <title>直感的な他者評価は意図的評価よりも支持されやすいが、正確性は劣る</title>
-    <link>https://osf.io/pw8cs</link>
-    <guid isPermaLink="false">https://osf.io/pw8cs#ja</guid>
-    <pubDate>Mon, 04 May 2026 15:08:11 +0000</pubDate>
-    <description>Intuitive judgments of strangers are more popular but not more accurate than deliberate ones</description>
-  </item>
-  <item>
-    <title>損失文脈驚異度を用いた文処理における作業記憶容量のモデル化</title>
-    <link>https://osf.io/u5tf2</link>
-    <guid isPermaLink="false">https://osf.io/u5tf2#ja</guid>
-    <pubDate>Mon, 04 May 2026 15:08:11 +0000</pubDate>
-    <description>Modeling Working Memory Capacity in Sentence Processing with Lossy-Context Surprisal</description>
-  </item>
-  <item>
-    <title>マキャヴェリズムの測定方法：6つの尺度の心理計量的評価</title>
-    <link>https://osf.io/2cr56</link>
-    <guid isPermaLink="false">https://osf.io/2cr56#ja</guid>
-    <pubDate>Mon, 04 May 2026 15:08:11 +0000</pubDate>
-    <description>How to Measure Machiavellianism? A Psychometric Evaluation of Six Scales</description>
-  </item>
-  <item>
-    <title>なぜある言葉は記憶に残り、他は消え去るのか：語彙学習における神経認知的視点</title>
-    <link>https://osf.io/a3y7q</link>
-    <guid isPermaLink="false">https://osf.io/a3y7q#ja</guid>
-    <pubDate>Mon, 04 May 2026 15:08:10 +0000</pubDate>
-    <description>Why Some Words Stick and Others Fade: A Neurocognitive Perspective on Vocabulary Learning</description>
-  </item>
-  <item>
-    <title>混合ブロックにおける聴覚警告刺激による反応時間コスト</title>
-    <link>https://osf.io/j6nqa</link>
-    <guid isPermaLink="false">https://osf.io/j6nqa#ja</guid>
-    <pubDate>Mon, 04 May 2026 12:56:58 +0000</pubDate>
-    <description>Reaction time cost produced by an auditory warning stimulus in mixed blocks</description>
-  </item>
-  <item>
-    <title>子どもの非記号的確率的選択における判断パターンと意思決定過程</title>
-    <link>https://osf.io/4zg7e</link>
-    <guid isPermaLink="false">https://osf.io/4zg7e#ja</guid>
-    <pubDate>Sun, 03 May 2026 17:04:09 +0000</pubDate>
-    <description>Judgment Patterns and Decision Processes in Children’s Non-symbolic Probabilistic Choices</description>
-  </item>
-  <item>
-    <title>外傷性脳損傷後の内在化および外在化精神健康問題に対する心理社会的要因の関連性：HiTOP-TBIモデルの応用</title>
-    <link>https://osf.io/fhr4s</link>
-    <guid isPermaLink="false">https://osf.io/fhr4s#ja</guid>
-    <pubDate>Sun, 03 May 2026 14:34:40 +0000</pubDate>
-    <description>Associations of Psychosocial Factors with Internalizing and Externalizing Mental Health Problems Following Traumatic Brain Injury: An Application of the HiTOP-TBI Model</description>
   </item>
 </channel>
 </rss>
