@@ -6,6 +6,62 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>生存分析可視化のための極点付加多次元尺度構成法フレームワーク</title>
+    <link>https://osf.io/cmdx5</link>
+    <guid isPermaLink="false">https://osf.io/cmdx5#ja</guid>
+    <pubDate>Mon, 18 May 2026 15:53:52 +0000</pubDate>
+    <description>Pole-Augmented Multidimensional Scaling Framework for Survival-Analysis Visualization</description>
+  </item>
+  <item>
+    <title>バブルと言語初期習得：発話器官フィルターの再検討</title>
+    <link>https://osf.io/7tquh</link>
+    <guid isPermaLink="false">https://osf.io/7tquh#ja</guid>
+    <pubDate>Mon, 18 May 2026 15:53:52 +0000</pubDate>
+    <description>Babble and First Word Learning: The Articulatory Filter Revisited</description>
+  </item>
+  <item>
+    <title>精神保健現場における睡眠改善の障壁と促進要因：理論領域フレームワークを用いた患者および専門職の視点からの混合方法系統的レビュー</title>
+    <link>https://osf.io/x6ab4</link>
+    <guid isPermaLink="false">https://osf.io/x6ab4#ja</guid>
+    <pubDate>Mon, 18 May 2026 15:53:51 +0000</pubDate>
+    <description>Barriers and facilitators to improving sleep in mental health settings: A mixed-methods systematic review of patient and professional perspectives using the Theoretical Domains Framework</description>
+  </item>
+  <item>
+    <title>スクリーンタイムとソーシャルメディア利用が思春期のウェルビーイングに与える影響：操作変数分析による検討</title>
+    <link>https://osf.io/pvya4</link>
+    <guid isPermaLink="false">https://osf.io/pvya4#ja</guid>
+    <pubDate>Mon, 18 May 2026 15:53:51 +0000</pubDate>
+    <description>The Impact of Screen Time and Social Media Use on Adolescent Wellbeing: An Instrumental Variable Analysis</description>
+  </item>
+  <item>
+    <title>遊び場ヒーローズプログラムの開発：人種差別的いじめにおける積極的傍観者行動促進のための証拠および理論に基づくアプローチ</title>
+    <link>https://osf.io/5gw97</link>
+    <guid isPermaLink="false">https://osf.io/5gw97#ja</guid>
+    <pubDate>Mon, 18 May 2026 15:53:51 +0000</pubDate>
+    <description>Developing the Playground Heroes program: An evidence- and theory-based approach to promote positive bystander behavior in racist bullying</description>
+  </item>
+  <item>
+    <title>主観的感情判断はベイズ推論の原理と効率的表象に基づく</title>
+    <link>https://osf.io/ufmqy</link>
+    <guid isPermaLink="false">https://osf.io/ufmqy#ja</guid>
+    <pubDate>Mon, 18 May 2026 15:53:51 +0000</pubDate>
+    <description>Subjective emotion judgements adhere to principles of Bayesian inference and efficient representation</description>
+  </item>
+  <item>
+    <title>AIコーチ：医療現場における心理的安全性とメンタルウェルビーイングのための人工知能コーチの試作</title>
+    <link>https://osf.io/xjcfv</link>
+    <guid isPermaLink="false">https://osf.io/xjcfv#ja</guid>
+    <pubDate>Mon, 18 May 2026 15:53:51 +0000</pubDate>
+    <description>AI Coach: A Prototype of Artificially Intelligent Coach for Psychological Safety and Mental Wellbeing in Healthcare</description>
+  </item>
+  <item>
+    <title>価値に基づく意思決定と行動経済学的構成要素による大麻使用歴の有無の識別</title>
+    <link>https://osf.io/nuwr9</link>
+    <guid isPermaLink="false">https://osf.io/nuwr9#ja</guid>
+    <pubDate>Mon, 18 May 2026 15:53:50 +0000</pubDate>
+    <description>Value-based decision-making and behavioural economic constructs that distinguish people with and without cannabis use history</description>
+  </item>
+  <item>
     <title>心理学研究への大規模言語モデル（LLM）導入に関する提言：Austinら（2026）へのコメント</title>
     <link>https://osf.io/yr6d3</link>
     <guid isPermaLink="false">https://osf.io/yr6d3#ja</guid>
@@ -13,21 +69,21 @@
     <description>Recommendations for incorporating LLMs into psychological research: A Commentary on Austin and colleagues (2026)</description>
   </item>
   <item>
-    <title>社会的評価が曖昧な感情表出の解釈を導く：日本における証拠</title>
+    <title>社会的評価が曖昧な感情表現の解釈を導く：日本における証拠</title>
     <link>https://osf.io/q7n62</link>
     <guid isPermaLink="false">https://osf.io/q7n62#ja</guid>
     <pubDate>Mon, 18 May 2026 08:36:44 +0000</pubDate>
     <description>Social Appraisal Guides the Interpretation of Ambiguous Emotional Expressions: Evidence from Japan</description>
   </item>
   <item>
-    <title>標準化オープンソース・マインドフルネスアーキテクチャ（SOMA）：機構的マインドフルネス研究のためのモジュール式公平設計刺激ライブラリ</title>
+    <title>標準化オープンソース・マインドフルネス・アーキテクチャ（SOMA）：機構的マインドフルネス研究のためのモジュール式公平設計刺激ライブラリ</title>
     <link>https://osf.io/cp67b</link>
     <guid isPermaLink="false">https://osf.io/cp67b#ja</guid>
     <pubDate>Mon, 18 May 2026 08:36:44 +0000</pubDate>
     <description>The Standardized Open-source Mindfulness Architecture (SOMA): A Modular, Equity-Engineered Stimulus Library for Mechanistic Mindfulness Research</description>
   </item>
   <item>
-    <title>選択が嗜好を洗練する：熟考が価値評価の安定化を促す</title>
+    <title>選択は嗜好を洗練する：熟考が価値評価の安定化を促す</title>
     <link>https://osf.io/wmbzy</link>
     <guid isPermaLink="false">https://osf.io/wmbzy#ja</guid>
     <pubDate>Mon, 18 May 2026 08:36:43 +0000</pubDate>
@@ -48,21 +104,21 @@
     <description>How the Reorganising Vocal Tract Channels Infant Exploration</description>
   </item>
   <item>
-    <title>認知的対象関係：性格構造と情報受容の心理学</title>
+    <title>認知対象関係：性格構造と情報受容の心理学</title>
     <link>https://osf.io/9e54v</link>
     <guid isPermaLink="false">https://osf.io/9e54v#ja</guid>
     <pubDate>Sun, 17 May 2026 17:16:05 +0000</pubDate>
     <description>Epistemic Object Relations: Character Organisation and the Reception of Information</description>
   </item>
   <item>
-    <title>組織健康改善質問票コア版（OHIQ-Core）の再検証と拡張：独立サンプルにおける確証的妥当性検証および測定不変性の検討</title>
+    <title>組織健康改善質問票コア版（OHIQ-Core）の再検証および拡張：独立サンプルにおける確証的検証と測定不変性の検討</title>
     <link>https://osf.io/g8h97</link>
     <guid isPermaLink="false">https://osf.io/g8h97#ja</guid>
     <pubDate>Sun, 17 May 2026 17:16:05 +0000</pubDate>
     <description>Replication and Extension of the Organisational Health Improvement Questionnaire- Core (OHIQ-Core): Confirmatory Validation and Measurement Invariance in an Independent Sample</description>
   </item>
   <item>
-    <title>警察業務における苦悩への共感、共 compassion、感情的距離形成：幸福感への二重経路に関する縦断的交差遅延分析</title>
+    <title>警察職における苦悩への共感、共 compassion、感情的距離形成：幸福感への二重経路に関する縦断的交差遅延分析</title>
     <link>https://osf.io/gw34k</link>
     <guid isPermaLink="false">https://osf.io/gw34k#ja</guid>
     <pubDate>Sun, 17 May 2026 17:16:05 +0000</pubDate>
@@ -76,21 +132,21 @@
     <description>The Generative Artificial Intelligence Literacy Scale (GAILS): Development, Validation, and Measurement Invariance Across Sex and Occupational Status Groups</description>
   </item>
   <item>
-    <title>パラリンピックスポーツトレーニングプログラムへの参加要因と支援メカニズム：ボゴタIDRDプログラムの事例分析</title>
+    <title>パラリンピックスポーツトレーニングプログラムへの参加要因と支援メカニズム：ボゴタIDRDプログラムの事例研究</title>
     <link>https://osf.io/2b69a</link>
     <guid isPermaLink="false">https://osf.io/2b69a#ja</guid>
     <pubDate>Sat, 16 May 2026 19:43:31 +0000</pubDate>
     <description>Determinants of Participation and Support Mechanisms in a Paralympic Sport Training Program: Evidence from the IDRD Program in Bogotá</description>
   </item>
   <item>
-    <title>社会的排除時における視線指示と矢印指示の神経および感情的影響</title>
+    <title>社会的排除時における視線指示と矢印指示の神経および情動効果</title>
     <link>https://osf.io/kf3mp</link>
     <guid isPermaLink="false">https://osf.io/kf3mp#ja</guid>
     <pubDate>Sat, 16 May 2026 19:43:31 +0000</pubDate>
     <description>Neural and Affective Effects of Gaze Versus Arrow Cues During Social Exclusion</description>
   </item>
   <item>
-    <title>chatRater：確率重み付けスコアリングによる大規模言語モデル生成心理言語学的規範の検証</title>
+    <title>chatRater：確率加重スコアリングによる大規模言語モデル生成の心理言語学的規範の検証</title>
     <link>https://osf.io/mje6w</link>
     <guid isPermaLink="false">https://osf.io/mje6w#ja</guid>
     <pubDate>Sat, 16 May 2026 19:43:30 +0000</pubDate>
@@ -132,7 +188,7 @@
     <description>Anxious attachment increases singlehood among men, avoidant attachment increases singlehood among women</description>
   </item>
   <item>
-    <title>配偶戦略のパーソンセンタードアプローチ：社会的性行動、同性間競争、およびナルシシズムの関連性</title>
+    <title>配偶戦略のパーソンセンタードアプローチ：社会的性行動、同性間競争、ナルシシズムの関連性</title>
     <link>https://osf.io/8cgvt</link>
     <guid isPermaLink="false">https://osf.io/8cgvt#ja</guid>
     <pubDate>Sat, 16 May 2026 19:43:28 +0000</pubDate>
@@ -209,14 +265,14 @@
     <description>Measuring Cybersickness in Virtual Reality: Refinement and Validation of the Simulator Sickness Questionnaire</description>
   </item>
   <item>
-    <title>298変数でコーディングされた280の実験からなる789の選択アーキテクチャ介入のメタ分析データベース</title>
+    <title>298の変数で符号化された280の実験からなる789の選択アーキテクチャ介入のメタ分析データベース</title>
     <link>https://osf.io/hkpqn</link>
     <guid isPermaLink="false">https://osf.io/hkpqn#ja</guid>
     <pubDate>Fri, 15 May 2026 20:52:13 +0000</pubDate>
     <description>A meta-analytic database of 789 choice architecture interventions from 280 experiments coded on 298 variables</description>
   </item>
   <item>
-    <title>空間音響特性と視覚的手がかりが心理音響的不快感に及ぼす影響の検討</title>
+    <title>空間音響特性と視覚的手がかりが心理音響的煩雑感に及ぼす影響の検討</title>
     <link>https://osf.io/ux68h</link>
     <guid isPermaLink="false">https://osf.io/ux68h#ja</guid>
     <pubDate>Fri, 15 May 2026 20:52:12 +0000</pubDate>
@@ -230,7 +286,7 @@
     <description>Effects of Action Type on the Attentional Boost Effect</description>
   </item>
   <item>
-    <title>「それは罠だ！」－多次元強制選択応答形式における偽装行動：MFCおよびRS形式における潜在変化スコアモデリングによる偽装の検証</title>
+    <title>「それは罠だ！」―多次元強制選択応答形式における偽装行動：MFCおよびRS形式における潜在変化スコアモデリングによる偽装の検討</title>
     <link>https://osf.io/j7av3</link>
     <guid isPermaLink="false">https://osf.io/j7av3#ja</guid>
     <pubDate>Fri, 15 May 2026 10:42:34 +0000</pubDate>
@@ -258,7 +314,7 @@
     <description>Cognition About Cognition: Do Scales From Different Fields Assess Metacognition Alike?</description>
   </item>
   <item>
-    <title>メタ認知的確信、AI親和性、およびヒューリスティック判断がAI生成テキストの帰属に与える影響：学部生を対象とした探索的研究</title>
+    <title>メタ認知的確信、AIへの親近感、およびヒューリスティック判断がAI生成テキストの帰属に与える影響：学部生を対象とした探索的研究</title>
     <link>https://osf.io/f6wev</link>
     <guid isPermaLink="false">https://osf.io/f6wev#ja</guid>
     <pubDate>Fri, 15 May 2026 10:42:33 +0000</pubDate>
@@ -272,14 +328,14 @@
     <description>Temporal Dynamics of Selective Enumeration for a Small Number of Emotional Faces</description>
   </item>
   <item>
-    <title>単語共起統計からの意味表象抽出：多義語と同音異義語の解析</title>
+    <title>語の共起統計からの意味表象抽出：多義語と同音異義語の解析</title>
     <link>https://osf.io/yf3v7</link>
     <guid isPermaLink="false">https://osf.io/yf3v7#ja</guid>
     <pubDate>Thu, 14 May 2026 13:15:02 +0000</pubDate>
     <description>Extracting Semantic Representations from Word Co-occurrence Statistics: Polysemes and Homonyms</description>
   </item>
   <item>
-    <title>記憶性の創発的特性：表象構造が生み出す見かけ上の内在的効果のメカニズム</title>
+    <title>記憶性の創発的特性：表象構造が生み出す見かけ上の内在的効果</title>
     <link>https://osf.io/w8eqy</link>
     <guid isPermaLink="false">https://osf.io/w8eqy#ja</guid>
     <pubDate>Wed, 13 May 2026 19:14:16 +0000</pubDate>
@@ -293,67 +349,11 @@
     <description>Randomized Trial of an AI-Powered Mental Health Intervention for Depression and Anxiety</description>
   </item>
   <item>
-    <title>作業負荷とフィードバックの即時性が作業記憶のAIへのオフロード意欲に与える影響：神経学的証拠</title>
+    <title>作業負荷とフィードバック即時性が作業記憶のAIへのオフロード意欲に与える影響：神経学的証拠</title>
     <link>https://osf.io/2j9ep</link>
     <guid isPermaLink="false">https://osf.io/2j9ep#ja</guid>
     <pubDate>Wed, 13 May 2026 19:14:16 +0000</pubDate>
     <description>Workload and Feedback Immediacy Shape Willingness to Offload Working Memory to AI: Neural evidence</description>
-  </item>
-  <item>
-    <title>二十年間にわたる交差的教育格差の構造</title>
-    <link>https://osf.io/abzds</link>
-    <guid isPermaLink="false">https://osf.io/abzds#ja</guid>
-    <pubDate>Wed, 13 May 2026 19:14:15 +0000</pubDate>
-    <description>The Structure of Intersectional Educational Inequality Over Two Decades</description>
-  </item>
-  <item>
-    <title>処理速度と作業記憶容量の関係：異なる手続き的作業記憶負荷における差異の不存在</title>
-    <link>https://osf.io/bh4ps</link>
-    <guid isPermaLink="false">https://osf.io/bh4ps#ja</guid>
-    <pubDate>Wed, 13 May 2026 19:14:15 +0000</pubDate>
-    <description>The relation between processing speed and working memory capacity: No difference across varying procedural working memory demands</description>
-  </item>
-  <item>
-    <title>コーディング脳：視覚的プログラミング言語ScratchJrによって誘発されるP600効果</title>
-    <link>https://osf.io/jmxr3</link>
-    <guid isPermaLink="false">https://osf.io/jmxr3#ja</guid>
-    <pubDate>Wed, 13 May 2026 19:14:15 +0000</pubDate>
-    <description>The Coding Brain: P600 Effects Elicited by the Visual Programming Language ScratchJr</description>
-  </item>
-  <item>
-    <title>味覚における感覚処理と意思決定過程の分離：強度は感受性に影響し、期待とフィードバックは意思決定基準に相互作用する</title>
-    <link>https://osf.io/kj89v</link>
-    <guid isPermaLink="false">https://osf.io/kj89v#ja</guid>
-    <pubDate>Wed, 13 May 2026 17:24:49 +0000</pubDate>
-    <description>Dissociating Sensory and Decision Processes in Tasting: Intensity Affects Sensitivity, while Expectancies and Feedback Interact, Affecting Decision Criteria</description>
-  </item>
-  <item>
-    <title>ミソフォニアにおける行動回避の測定：ミソフォニック行動回避テスト（M-BAT）の開発と検証</title>
-    <link>https://osf.io/h9vre</link>
-    <guid isPermaLink="false">https://osf.io/h9vre#ja</guid>
-    <pubDate>Wed, 13 May 2026 17:24:49 +0000</pubDate>
-    <description>Measuring Behavioral Avoidance in Misophonia: Development and Validation of the Misophonic Behavioral Avoidance Test (M-BAT)</description>
-  </item>
-  <item>
-    <title>短編動画における感情・フロー・依存が時間知覚に及ぼす影響：実験的および調査的研究</title>
-    <link>https://osf.io/v5ntg</link>
-    <guid isPermaLink="false">https://osf.io/v5ntg#ja</guid>
-    <pubDate>Wed, 13 May 2026 15:15:57 +0000</pubDate>
-    <description>The Impact of Emotions, Flow and Addiction on Time Perception in Short Videos: An Experimental and Survey Study</description>
-  </item>
-  <item>
-    <title>認知記憶における純粋リストと混合リストの比較における共通誤警報率の問題と情報非対称性：リスト強度効果の再考</title>
-    <link>https://osf.io/dg2y9</link>
-    <guid isPermaLink="false">https://osf.io/dg2y9#ja</guid>
-    <pubDate>Wed, 13 May 2026 15:15:57 +0000</pubDate>
-    <description>The Problem of Common False-Alarm Rates and the Informational Asymmetry When Comparing Pure and Mixed Lists in Recognition Memory:  Reconsidering the List-Strength Effect</description>
-  </item>
-  <item>
-    <title>傷ついた癒し手から商業化されたケア提供者へ：ソーシャルメディアにおけるメンタルヘルス情報発信者のスコーピングレビュー</title>
-    <link>https://osf.io/nxzq5</link>
-    <guid isPermaLink="false">https://osf.io/nxzq5#ja</guid>
-    <pubDate>Wed, 13 May 2026 15:15:57 +0000</pubDate>
-    <description>From Wounded Healers to Commercialized Caregivers: A Scoping Review of Mental Health Content Creators on Social Media</description>
   </item>
 </channel>
 </rss>
