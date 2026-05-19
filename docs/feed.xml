@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>「大丈夫―全員が天才である必要はない」：教室内の不平等な扱いが子どもの心に及ぼす影響</title>
+    <title>「大丈夫―誰もが天才である必要はない」：教室内の不平等な扱いが子どもの心に及ぼす影響</title>
     <link>https://osf.io/hrzbp</link>
     <guid isPermaLink="false">https://osf.io/hrzbp#ja</guid>
     <pubDate>Mon, 18 May 2026 19:25:47 +0000</pubDate>
@@ -48,21 +48,21 @@
     <description>VPP: An Open-Source Blockchain-based System for Verifiable Research-Participation Credit Management</description>
   </item>
   <item>
-    <title>輝度誘発拡大残効効果</title>
+    <title>輝度誘発拡張残効</title>
     <link>https://osf.io/4zbms</link>
     <guid isPermaLink="false">https://osf.io/4zbms#ja</guid>
     <pubDate>Mon, 18 May 2026 17:52:07 +0000</pubDate>
     <description>A luminance-induced expansion aftereffect</description>
   </item>
   <item>
-    <title>スノッドグラスとヴァンダーワートの260物体に関する意味的特性とカテゴリー規範：古典的セットの45年ぶりの概念的更新</title>
+    <title>スノッドグラスとヴァンダーワートの260物体に関する意味的特性とカテゴリー規範：古典的セットの45年にわたる概念的更新</title>
     <link>https://osf.io/nqk2h</link>
     <guid isPermaLink="false">https://osf.io/nqk2h#ja</guid>
     <pubDate>Mon, 18 May 2026 17:52:07 +0000</pubDate>
     <description>Semantic properties and categorization norms for the 260 Snodgrass and Vanderwart objects: a 45-year conceptual update to a classic set</description>
   </item>
   <item>
-    <title>いじめに関連する心理的訴えに対するイメージ療法と認知行動療法の効果：系統的レビューとメタアナリシス</title>
+    <title>いじめに関連する心理的問題に対するイメージ療法と認知行動療法の効果：システマティックレビューとメタアナリシス</title>
     <link>https://osf.io/z85pj</link>
     <guid isPermaLink="false">https://osf.io/z85pj#ja</guid>
     <pubDate>Mon, 18 May 2026 17:52:07 +0000</pubDate>
@@ -83,21 +83,21 @@
     <description>Diffusion-Weighted Imaging of Gray Matter Microstructural Profiles in Healthy Aging</description>
   </item>
   <item>
-    <title>英国における職業訓練が学習障害者の意義ある就労獲得にどのように寄与するか：体系的レビュー</title>
+    <title>英国における職業訓練が学習障害者の意義ある就労獲得にどのように寄与するか：系統的レビュー</title>
     <link>https://osf.io/wrvaq</link>
     <guid isPermaLink="false">https://osf.io/wrvaq#ja</guid>
     <pubDate>Mon, 18 May 2026 17:52:06 +0000</pubDate>
     <description>How does work-based training assist individuals with learning disabilities in gaining meaningful employment in the UK: A Systematic Review.</description>
   </item>
   <item>
-    <title>皮質性失明と心的映像欠損症の二重解離：55例のレビュー</title>
+    <title>皮質性失明と心的イメージ欠損症の二重解離：55例のレビュー</title>
     <link>https://osf.io/mqt76</link>
     <guid isPermaLink="false">https://osf.io/mqt76#ja</guid>
     <pubDate>Mon, 18 May 2026 17:52:06 +0000</pubDate>
     <description>The double dissociation between cortical blindness and aphantasia: a review of 55 cases</description>
   </item>
   <item>
-    <title>尊厳の計算論的理論</title>
+    <title>尊厳の計算理論</title>
     <link>https://osf.io/8bz7s</link>
     <guid isPermaLink="false">https://osf.io/8bz7s#ja</guid>
     <pubDate>Mon, 18 May 2026 17:52:06 +0000</pubDate>
@@ -132,7 +132,7 @@
     <description>Articulatory kinematics during atypical stop productions in Parkinson’s disease</description>
   </item>
   <item>
-    <title>非均一フォルマント摂動への適応予測因子の検討と感覚鋭敏性評価の構成的妥当性の検証</title>
+    <title>非均一フォルマント摂動への適応予測因子の検討および感覚鋭敏性評価の構成概念妥当性の検証</title>
     <link>https://osf.io/pzse8</link>
     <guid isPermaLink="false">https://osf.io/pzse8#ja</guid>
     <pubDate>Mon, 18 May 2026 17:52:05 +0000</pubDate>
@@ -153,7 +153,7 @@
     <description>Domain-general cognition contributes to semantically challenging speech comprehension</description>
   </item>
   <item>
-    <title>生存分析可視化のための極点付加多次元尺度構成法フレームワーク</title>
+    <title>生存分析可視化のための極点拡張多次元尺度構成法フレームワーク</title>
     <link>https://osf.io/cmdx5</link>
     <guid isPermaLink="false">https://osf.io/cmdx5#ja</guid>
     <pubDate>Mon, 18 May 2026 15:53:52 +0000</pubDate>
@@ -167,14 +167,14 @@
     <description>Babble and First Word Learning: The Articulatory Filter Revisited</description>
   </item>
   <item>
-    <title>精神保健領域における睡眠改善の障壁と促進要因：理論領域フレームワークを用いた患者および専門職の視点による混合方法系統的レビュー</title>
+    <title>精神科医療現場における睡眠改善の障壁と促進要因：理論領域フレームワークを用いた患者および専門職の視点からの混合方法系統的レビュー</title>
     <link>https://osf.io/x6ab4</link>
     <guid isPermaLink="false">https://osf.io/x6ab4#ja</guid>
     <pubDate>Mon, 18 May 2026 15:53:51 +0000</pubDate>
     <description>Barriers and facilitators to improving sleep in mental health settings: A mixed-methods systematic review of patient and professional perspectives using the Theoretical Domains Framework</description>
   </item>
   <item>
-    <title>スクリーンタイムとソーシャルメディア使用が青少年のウェルビーイングに与える影響：操作変数分析による検討</title>
+    <title>スクリーンタイムとソーシャルメディア使用が青年のウェルビーイングに与える影響：操作変数分析による検討</title>
     <link>https://osf.io/pvya4</link>
     <guid isPermaLink="false">https://osf.io/pvya4#ja</guid>
     <pubDate>Mon, 18 May 2026 15:53:51 +0000</pubDate>
@@ -188,21 +188,21 @@
     <description>Developing the Playground Heroes program: An evidence- and theory-based approach to promote positive bystander behavior in racist bullying</description>
   </item>
   <item>
-    <title>主観的感情判断はベイズ推論の原理と効率的表象に基づく</title>
+    <title>主観的感情判断はベイズ推論と効率的表象の原理に準拠する</title>
     <link>https://osf.io/ufmqy</link>
     <guid isPermaLink="false">https://osf.io/ufmqy#ja</guid>
     <pubDate>Mon, 18 May 2026 15:53:51 +0000</pubDate>
     <description>Subjective emotion judgements adhere to principles of Bayesian inference and efficient representation</description>
   </item>
   <item>
-    <title>AIコーチ：医療現場における心理的安全性とメンタルウェルビーイングのための人工知能コーチの試作モデル</title>
+    <title>AIコーチ：医療現場における心理的安全性とメンタルウェルビーイングのための人工知能コーチの試作</title>
     <link>https://osf.io/xjcfv</link>
     <guid isPermaLink="false">https://osf.io/xjcfv#ja</guid>
     <pubDate>Mon, 18 May 2026 15:53:51 +0000</pubDate>
     <description>AI Coach: A Prototype of Artificially Intelligent Coach for Psychological Safety and Mental Wellbeing in Healthcare</description>
   </item>
   <item>
-    <title>価値に基づく意思決定と行動経済学的構成要素による大麻使用歴の有無の識別</title>
+    <title>価値に基づく意思決定と行動経済学的構成要素が大麻使用歴の有無を識別する心理的特徴</title>
     <link>https://osf.io/nuwr9</link>
     <guid isPermaLink="false">https://osf.io/nuwr9#ja</guid>
     <pubDate>Mon, 18 May 2026 15:53:50 +0000</pubDate>
@@ -223,21 +223,21 @@
     <description>Social Appraisal Guides the Interpretation of Ambiguous Emotional Expressions: Evidence from Japan</description>
   </item>
   <item>
-    <title>標準化オープンソースマインドフルネスアーキテクチャ（SOMA）：メカニズム解明を目的としたモジュール式公平設計刺激ライブラリ</title>
+    <title>標準化オープンソースマインドフルネスアーキテクチャ（SOMA）：機構的マインドフルネス研究のためのモジュール式公平設計刺激ライブラリ</title>
     <link>https://osf.io/cp67b</link>
     <guid isPermaLink="false">https://osf.io/cp67b#ja</guid>
     <pubDate>Mon, 18 May 2026 08:36:44 +0000</pubDate>
     <description>The Standardized Open-source Mindfulness Architecture (SOMA): A Modular, Equity-Engineered Stimulus Library for Mechanistic Mindfulness Research</description>
   </item>
   <item>
-    <title>選択は嗜好を洗練する：熟考が価値評価の安定化を促す</title>
+    <title>選択は嗜好を洗練する：熟考が価値評価を安定化させる</title>
     <link>https://osf.io/wmbzy</link>
     <guid isPermaLink="false">https://osf.io/wmbzy#ja</guid>
     <pubDate>Mon, 18 May 2026 08:36:43 +0000</pubDate>
     <description>Choices Refine Preferences: Deliberation Stabilizes Value Estimates</description>
   </item>
   <item>
-    <title>意図が行動に移らない理由：行動開始の閾値理論</title>
+    <title>意図が行動に移らない理由：行動開始の閾値モデル</title>
     <link>https://osf.io/uta3e</link>
     <guid isPermaLink="false">https://osf.io/uta3e#ja</guid>
     <pubDate>Mon, 18 May 2026 08:36:43 +0000</pubDate>
@@ -265,7 +265,7 @@
     <description>Replication and Extension of the Organisational Health Improvement Questionnaire- Core (OHIQ-Core): Confirmatory Validation and Measurement Invariance in an Independent Sample</description>
   </item>
   <item>
-    <title>警察職における苦悩への共感、コンパッション、および感情的距離形成：幸福感への二重経路に関する縦断的交差遅延分析研究</title>
+    <title>警察業務における苦悩への共感、共 compassion、感情的距離形成：幸福感への二重経路に関する縦断的交差遅延分析</title>
     <link>https://osf.io/gw34k</link>
     <guid isPermaLink="false">https://osf.io/gw34k#ja</guid>
     <pubDate>Sun, 17 May 2026 17:16:05 +0000</pubDate>
@@ -286,21 +286,21 @@
     <description>Determinants of Participation and Support Mechanisms in a Paralympic Sport Training Program: Evidence from the IDRD Program in Bogotá</description>
   </item>
   <item>
-    <title>社会的排除時における視線指示と矢印指示の神経および情動効果</title>
+    <title>社会的排除時における視線と矢印キューの神経および情動効果</title>
     <link>https://osf.io/kf3mp</link>
     <guid isPermaLink="false">https://osf.io/kf3mp#ja</guid>
     <pubDate>Sat, 16 May 2026 19:43:31 +0000</pubDate>
     <description>Neural and Affective Effects of Gaze Versus Arrow Cues During Social Exclusion</description>
   </item>
   <item>
-    <title>chatRater：確率加重スコアリングによる大規模言語モデル生成心理言語学的規範の検証</title>
+    <title>chatRater：確率加重スコアリングによる大規模言語モデル生成の心理言語学的規範の検証</title>
     <link>https://osf.io/mje6w</link>
     <guid isPermaLink="false">https://osf.io/mje6w#ja</guid>
     <pubDate>Sat, 16 May 2026 19:43:30 +0000</pubDate>
     <description>chatRater: Validating LLM-Generated Psycholinguistic Norms with Probability-Weighted Scoring</description>
   </item>
   <item>
-    <title>双極性障害における不確実性不耐性の役割</title>
+    <title>双極性障害における不確実性不容忍の役割</title>
     <link>https://osf.io/qpk89</link>
     <guid isPermaLink="false">https://osf.io/qpk89#ja</guid>
     <pubDate>Sat, 16 May 2026 19:43:30 +0000</pubDate>
@@ -335,7 +335,7 @@
     <description>Anxious attachment increases singlehood among men, avoidant attachment increases singlehood among women</description>
   </item>
   <item>
-    <title>配偶戦略のパーソンセンタードアプローチ：社会的性行動、同性内競争、ナルシシズムの関連性</title>
+    <title>配偶戦略のパーソンセンタードアプローチ：社会的性行動、同性間競争、ナルシシズムの関連性</title>
     <link>https://osf.io/8cgvt</link>
     <guid isPermaLink="false">https://osf.io/8cgvt#ja</guid>
     <pubDate>Sat, 16 May 2026 19:43:28 +0000</pubDate>
