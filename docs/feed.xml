@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>実証研究の装いを纏った4K：Albrechtら（2025）への応答</title>
+    <title>経験的研究における4Kの検討：Albrechtら（2025）への応答</title>
     <link>https://osf.io/fh2x4</link>
     <guid isPermaLink="false">https://osf.io/fh2x4#ja</guid>
     <pubDate>Thu, 21 May 2026 10:26:05 +0000</pubDate>
@@ -20,14 +20,14 @@
     <description>Non-instrumental information has limited effects on bet size in risky decisions</description>
   </item>
   <item>
-    <title>感情の計算的本質：メタ推論とトランスフォーマーからの洞察</title>
+    <title>感情の計算的本質：メタ推論とトランスフォーマーモデルからの洞察</title>
     <link>https://osf.io/m478p</link>
     <guid isPermaLink="false">https://osf.io/m478p#ja</guid>
     <pubDate>Wed, 20 May 2026 21:20:54 +0000</pubDate>
     <description>On the computational nature of emotions: insights from metareasoning and transformers</description>
   </item>
   <item>
-    <title>（非）接続：オーストラリアにおける若者と親のソーシャルメディア禁止に対する期待の相違</title>
+    <title>（非）接続：オーストラリアのソーシャルメディア禁止に対する若者と親の期待の相違</title>
     <link>https://osf.io/v78c4</link>
     <guid isPermaLink="false">https://osf.io/v78c4#ja</guid>
     <pubDate>Wed, 20 May 2026 21:20:53 +0000</pubDate>
@@ -55,14 +55,14 @@
     <description>Emotional Synchrony in Family Networks is Linked to Adolescent Well-Being in Daily Life</description>
   </item>
   <item>
-    <title>数学能力と言語能力の負の（または正の）相互依存に関する信念は次元間比較効果を調整するか？拡張再現研究</title>
+    <title>数学能力と言語能力の負の（または正の）相互依存に関する信念は次元間比較効果をどのように調整するか？拡張再現研究</title>
     <link>https://osf.io/bker7</link>
     <guid isPermaLink="false">https://osf.io/bker7#ja</guid>
     <pubDate>Wed, 20 May 2026 17:29:37 +0000</pubDate>
     <description>Do Beliefs in a Negative (or Positive) Interdependence of Math and Verbal  Abilities Moderate Dimensional Comparison Effects? An Extended Replication Study</description>
   </item>
   <item>
-    <title>家族ネットワークにおける感情的同期と日常生活における思春期のウェルビーイングの関連性</title>
+    <title>家族ネットワークにおける感情的同期と青年期の日常生活におけるウェルビーイングの関連性</title>
     <link>https://osf.io/4hvbd</link>
     <guid isPermaLink="false">https://osf.io/4hvbd#ja</guid>
     <pubDate>Wed, 20 May 2026 17:29:37 +0000</pubDate>
@@ -83,21 +83,21 @@
     <description>Narrowing Boundaries: Mental Fatigue Reduces the Amount of Evidence that People Use when Making Decisions under Risk</description>
   </item>
   <item>
-    <title>社会的変革的レジリエンスのARC-STRモデル：ベストフィットフレームワーク統合を用いた質的系統的レビューとメタシンセシス</title>
+    <title>社会的変革的レジリエンスのARC-STRモデル：ベストフィットフレームワーク統合法を用いた質的系統的レビューとメタシンセシス</title>
     <link>https://osf.io/zrhyv</link>
     <guid isPermaLink="false">https://osf.io/zrhyv#ja</guid>
     <pubDate>Wed, 20 May 2026 17:29:36 +0000</pubDate>
     <description>The ARC-STR Model of Socially Transformative Resilience: A Qualitative Systematic Review and Meta-Synthesis Using Best Fit Framework Synthesis</description>
   </item>
   <item>
-    <title>クオリア構造の不可分な現象単位とは何か？</title>
+    <title>クオリア構造の分解不可能な現象単位とは何か？</title>
     <link>https://osf.io/nbxdk</link>
     <guid isPermaLink="false">https://osf.io/nbxdk#ja</guid>
     <pubDate>Wed, 20 May 2026 17:29:36 +0000</pubDate>
     <description>What are the Indecomposable Phenomenal Units of Qualia Structures?</description>
   </item>
   <item>
-    <title>ディスレクシア、ディスグラフィア、ディスカリキュリアに関する共同作成された研究課題：英国特定学習困難ネットワークによる研究者と利害関係者の協働</title>
+    <title>ディスレクシア、ディスグラフィア、ディスカリキュリアに関する共同生成された研究課題：英国特定学習困難ネットワークによる研究者と利害関係者の協働</title>
     <link>https://osf.io/qekpf</link>
     <guid isPermaLink="false">https://osf.io/qekpf#ja</guid>
     <pubDate>Wed, 20 May 2026 17:29:36 +0000</pubDate>
@@ -125,7 +125,7 @@
     <description>What Makes People Laugh and Cry? Ethnographic Evidence from 60 Societies</description>
   </item>
   <item>
-    <title>感情の計算的性質：メタ推論とトランスフォーマーからの洞察</title>
+    <title>感情の計算的本質：メタ推論とトランスフォーマーからの洞察</title>
     <link>https://osf.io/m478p</link>
     <guid isPermaLink="false">https://osf.io/m478p#ja</guid>
     <pubDate>Wed, 20 May 2026 14:10:06 +0000</pubDate>
@@ -139,7 +139,7 @@
     <description>Identifying Interdependence Patterns in Triads Using the Triadic Actor-partner Interdependence Model</description>
   </item>
   <item>
-    <title>野生環境における好奇心：自然主義的情報探索の規則性</title>
+    <title>野外における好奇心：自然環境下での情報探索の規則性</title>
     <link>https://osf.io/xz4fc</link>
     <guid isPermaLink="false">https://osf.io/xz4fc#ja</guid>
     <pubDate>Wed, 20 May 2026 14:10:05 +0000</pubDate>
@@ -153,28 +153,28 @@
     <description>Cross-Linguistic Factors in Early Numerical Development</description>
   </item>
   <item>
-    <title>人工音声への慣れが話声中の音声知覚を向上させる</title>
+    <title>人工音声への慣れが話者混在環境における音声知覚の向上に及ぼす影響</title>
     <link>https://osf.io/6bu8x</link>
     <guid isPermaLink="false">https://osf.io/6bu8x#ja</guid>
     <pubDate>Tue, 19 May 2026 23:18:55 +0000</pubDate>
     <description>Familiarity with an Artificial Voice Improves Speech-in-Speech Intelligibility</description>
   </item>
   <item>
-    <title>「悪者は誰か知っている！」乳児は「悪い」という言葉を妨害者に結びつけるが、「良い」という言葉を助け手には結びつけない</title>
+    <title>「悪者は誰か分かる！」乳児は「悪い」という言葉を妨害者に結びつけるが、「良い」という言葉を助け手に結びつけない</title>
     <link>https://osf.io/3h7sv</link>
     <guid isPermaLink="false">https://osf.io/3h7sv#ja</guid>
     <pubDate>Tue, 19 May 2026 23:18:55 +0000</pubDate>
     <description>“I know who the bad guy is!” Infants map the word “bad” to hinderers, but not the word “good” to helpers</description>
   </item>
   <item>
-    <title>360度バーチャルリアリティにおける場面想起の研究に向けた自然言語処理の活用</title>
+    <title>自然言語処理を用いた360度バーチャルリアリティにおける場面想起の研究</title>
     <link>https://osf.io/bv7qs</link>
     <guid isPermaLink="false">https://osf.io/bv7qs#ja</guid>
     <pubDate>Tue, 19 May 2026 23:18:54 +0000</pubDate>
     <description>Using Natural Language Processing to Study Scene Recall in 360° Virtual Reality</description>
   </item>
   <item>
-    <title>DyscalcBattery：算数障害スクリーニングおよび数感知研究のためのオープンブラウザ型心理物理検査バッテリー</title>
+    <title>DyscalcBattery：算数障害スクリーニングおよび数感知研究のためのオープンブラウザベースの心理物理学的検査バッテリー</title>
     <link>https://osf.io/4hj6b</link>
     <guid isPermaLink="false">https://osf.io/4hj6b#ja</guid>
     <pubDate>Tue, 19 May 2026 20:52:54 +0000</pubDate>
@@ -188,28 +188,28 @@
     <description>Meta-Awareness of Mind Wandering: Examining Effects of Self-Regulated Learning, Interpolated Testing, and Self-Explanation</description>
   </item>
   <item>
-    <title>方法論的手がかりが心理学研究および法的判断における信頼に与える影響：ビネット研究</title>
+    <title>方法論的手がかりが心理学研究および法的判断における信頼に与える影響：ビネット研究による検討</title>
     <link>https://osf.io/g6zhw</link>
     <guid isPermaLink="false">https://osf.io/g6zhw#ja</guid>
     <pubDate>Tue, 19 May 2026 20:52:53 +0000</pubDate>
     <description>How methodological cues shape trust in psychological research and legal judgments: A vignette study</description>
   </item>
   <item>
-    <title>心と機械の出会い：AI説得における信頼と知的謙虚性の必要条件</title>
+    <title>心と機械の出会い：AI説得における信頼と知的謙虚さの必要条件</title>
     <link>https://osf.io/6avxs</link>
     <guid isPermaLink="false">https://osf.io/6avxs#ja</guid>
     <pubDate>Tue, 19 May 2026 20:52:53 +0000</pubDate>
     <description>Minds Meet Machines: Trust and Intellectual Humility as Necessary Conditions for AI Persuasion</description>
   </item>
   <item>
-    <title>自己調整の機能的構造：成人および青年の標準的サンプルにおける規範的自己調整焦点のネットワークレベル制御パラメータ</title>
+    <title>自己調整の機能的構造：成人および青年期標準サンプルにおける規範的自己調整焦点のネットワークレベル制御パラメータ</title>
     <link>https://osf.io/hvbwc</link>
     <guid isPermaLink="false">https://osf.io/hvbwc#ja</guid>
     <pubDate>Tue, 19 May 2026 20:52:52 +0000</pubDate>
     <description>The Functional Architecture of Self-Regulation: Network-Level Control Parameters of Regulatory Focus in Normative Adult and Adolescent Samples</description>
   </item>
   <item>
-    <title>潜在変化スコアモデルによる残差変化スコア前後測定媒介モデルの評価</title>
+    <title>潜在変化スコアモデルによる残差変化スコア前後測定媒介モデルの検証</title>
     <link>https://osf.io/khdjn</link>
     <guid isPermaLink="false">https://osf.io/khdjn#ja</guid>
     <pubDate>Tue, 19 May 2026 20:52:52 +0000</pubDate>
@@ -223,7 +223,7 @@
     <description>Developing Frameworks for the Motives and Strategies People Use to Make Others Feel Worse</description>
   </item>
   <item>
-    <title>社会的動機づけによる観察学習：子どもは自分の母親に向けられた聞き耳を立てた発話から優先的に学習する</title>
+    <title>社会的動機づけによる観察学習：子どもは母親に向けられた聞き耳を立てた発話から選択的に学習する</title>
     <link>https://osf.io/42ps7</link>
     <guid isPermaLink="false">https://osf.io/42ps7#ja</guid>
     <pubDate>Tue, 19 May 2026 20:52:52 +0000</pubDate>
@@ -251,21 +251,21 @@
     <description>Meaningfulness Facilitates Voluntary Attentional Retrieval in Visual Working Memory</description>
   </item>
   <item>
-    <title>いわゆるオプショナリティ：文法的オプショナリティは談話マーカーや修復を誘発しない</title>
+    <title>いわゆるオプショナリティ：文法的選択性は談話マーカーや修復を誘発しない</title>
     <link>https://osf.io/9zrvg</link>
     <guid isPermaLink="false">https://osf.io/9zrvg#ja</guid>
     <pubDate>Tue, 19 May 2026 20:52:50 +0000</pubDate>
     <description>You know, like, op- optionality: Grammatical optionality does not trigger discourse markers nor repairs</description>
   </item>
   <item>
-    <title>問題的なスマートフォン使用と心のさまよいのU字型関係</title>
+    <title>問題的スマートフォン使用と心のさまよいのU字型関係</title>
     <link>https://osf.io/qm8n5</link>
     <guid isPermaLink="false">https://osf.io/qm8n5#ja</guid>
     <pubDate>Tue, 19 May 2026 20:52:50 +0000</pubDate>
     <description>U-Shaped Relationship between Problematic Smartphone Use and Mind-Wandering</description>
   </item>
   <item>
-    <title>臨床意思決定におけるメタ認知と意思決定後の処理</title>
+    <title>臨床意思決定におけるメタ認知と決定後処理</title>
     <link>https://osf.io/ev2tf</link>
     <guid isPermaLink="false">https://osf.io/ev2tf#ja</guid>
     <pubDate>Tue, 19 May 2026 20:52:50 +0000</pubDate>
@@ -279,7 +279,7 @@
     <description>Human-AI dialogues can reduce feelings of partisan animosity</description>
   </item>
   <item>
-    <title>認知の鏡をのぞく：身体不満に関する解釈バイアスタスクの妥当性検証</title>
+    <title>認知の鏡に映る視線：身体不満に関する解釈バイアス課題の妥当性検証</title>
     <link>https://osf.io/qg9dw</link>
     <guid isPermaLink="false">https://osf.io/qg9dw#ja</guid>
     <pubDate>Tue, 19 May 2026 11:29:46 +0000</pubDate>
@@ -293,7 +293,7 @@
     <description>Patterns of Online Credibility Evaluation Among Fluent and Struggling Readers</description>
   </item>
   <item>
-    <title>「大丈夫―誰もが天才である必要はない」：教室内の不平等な扱いが子どもの心に及ぼす影響</title>
+    <title>「大丈夫―全員が天才である必要はない」：教室内の不平等な扱いが子どもの心に及ぼす影響</title>
     <link>https://osf.io/hrzbp</link>
     <guid isPermaLink="false">https://osf.io/hrzbp#ja</guid>
     <pubDate>Mon, 18 May 2026 19:25:47 +0000</pubDate>
@@ -314,7 +314,7 @@
     <description>Do Large Language Models Show Negation Bias? A Replication of Beukeboom et al. (2010)</description>
   </item>
   <item>
-    <title>予期されるスティグマは、子宮内膜症症状を有するLGBTQ+患者における医療アクセスの低下および診断遅延の延長と関連する</title>
+    <title>予期されるスティグマがLGBTQ+患者の子宮内膜症症状における医療アクセスの低下および診断遅延の延長と関連する</title>
     <link>https://osf.io/nezx8</link>
     <guid isPermaLink="false">https://osf.io/nezx8#ja</guid>
     <pubDate>Mon, 18 May 2026 17:52:08 +0000</pubDate>
@@ -335,14 +335,14 @@
     <description>VPP: An Open-Source Blockchain-based System for Verifiable Research-Participation Credit Management</description>
   </item>
   <item>
-    <title>輝度誘発拡大残効効果</title>
+    <title>輝度誘発拡張残効</title>
     <link>https://osf.io/4zbms</link>
     <guid isPermaLink="false">https://osf.io/4zbms#ja</guid>
     <pubDate>Mon, 18 May 2026 17:52:07 +0000</pubDate>
     <description>A luminance-induced expansion aftereffect</description>
   </item>
   <item>
-    <title>スノッドグラスとヴァンダーワートの260対象物に関する意味的特性とカテゴリー規範：古典的セットの45年ぶりの概念的更新</title>
+    <title>スノードグラスとヴァンダーワートの260物体に関する意味的特性とカテゴリー規範：古典的セットの45年ぶりの概念的更新</title>
     <link>https://osf.io/nqk2h</link>
     <guid isPermaLink="false">https://osf.io/nqk2h#ja</guid>
     <pubDate>Mon, 18 May 2026 17:52:07 +0000</pubDate>
