@@ -6,14 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>感情の計算的本質：メタ推論とトランスフォーマーモデルからの洞察</title>
+    <title>感情の計算的本質：メタ推論とトランスフォーマーからの洞察</title>
     <link>https://osf.io/m478p</link>
     <guid isPermaLink="false">https://osf.io/m478p#ja</guid>
     <pubDate>Wed, 20 May 2026 21:20:54 +0000</pubDate>
     <description>On the computational nature of emotions: insights from metareasoning and transformers</description>
   </item>
   <item>
-    <title>（非）接続：オーストラリアにおける青少年と親のソーシャルメディア禁止に対する期待</title>
+    <title>（非）接続：オーストラリアにおける若者と親のソーシャルメディア禁止に対する期待の心理学的検討</title>
     <link>https://osf.io/v78c4</link>
     <guid isPermaLink="false">https://osf.io/v78c4#ja</guid>
     <pubDate>Wed, 20 May 2026 21:20:53 +0000</pubDate>
@@ -41,7 +41,7 @@
     <description>Emotional Synchrony in Family Networks is Linked to Adolescent Well-Being in Daily Life</description>
   </item>
   <item>
-    <title>数学能力と言語能力の負の（または正の）相互依存に関する信念は次元間比較効果を調節するか？拡張再現研究</title>
+    <title>数学能力と言語能力の負の（または正の）相互依存に関する信念は次元間比較効果を調整するか？拡張再現研究</title>
     <link>https://osf.io/bker7</link>
     <guid isPermaLink="false">https://osf.io/bker7#ja</guid>
     <pubDate>Wed, 20 May 2026 17:29:37 +0000</pubDate>
@@ -55,7 +55,7 @@
     <description>Emotional Synchrony in Family Networks is Linked to Adolescent Well-Being in Daily Life</description>
   </item>
   <item>
-    <title>アルコール使用障害における心拍数カウント課題の遂行：系統的レビューとメタアナリシス</title>
+    <title>アルコール使用障害における心拍数カウント課題の遂行能力：システマティックレビューとメタアナリシス</title>
     <link>https://osf.io/r3pxf</link>
     <guid isPermaLink="false">https://osf.io/r3pxf#ja</guid>
     <pubDate>Wed, 20 May 2026 17:29:37 +0000</pubDate>
@@ -69,28 +69,28 @@
     <description>Narrowing Boundaries: Mental Fatigue Reduces the Amount of Evidence that People Use when Making Decisions under Risk</description>
   </item>
   <item>
-    <title>社会的変革的レジリエンスのARC-STRモデル：ベストフィットフレームワーク統合法を用いた質的系統的レビューとメタシンセシス</title>
+    <title>社会的変革的レジリエンスのARC-STRモデル：ベストフィットフレームワーク統合を用いた質的系統的レビューとメタシンセシス</title>
     <link>https://osf.io/zrhyv</link>
     <guid isPermaLink="false">https://osf.io/zrhyv#ja</guid>
     <pubDate>Wed, 20 May 2026 17:29:36 +0000</pubDate>
     <description>The ARC-STR Model of Socially Transformative Resilience: A Qualitative Systematic Review and Meta-Synthesis Using Best Fit Framework Synthesis</description>
   </item>
   <item>
-    <title>クオリア構造の分解不可能な現象単位とは何か？</title>
+    <title>クオリア構造の分解不能な現象単位とは何か？</title>
     <link>https://osf.io/nbxdk</link>
     <guid isPermaLink="false">https://osf.io/nbxdk#ja</guid>
     <pubDate>Wed, 20 May 2026 17:29:36 +0000</pubDate>
     <description>What are the Indecomposable Phenomenal Units of Qualia Structures?</description>
   </item>
   <item>
-    <title>ディスレクシア、ディスグラフィア、ディスカリキュリアに関する共同作成された研究課題：英国特定学習困難ネットワークによる研究者と利害関係者の協働</title>
+    <title>ディスレクシア、ディスグラフィア、ディスカリキュリアに関する共同生成された研究課題：英国特定学習困難ネットワークによる研究者と利害関係者の協働</title>
     <link>https://osf.io/qekpf</link>
     <guid isPermaLink="false">https://osf.io/qekpf#ja</guid>
     <pubDate>Wed, 20 May 2026 17:29:36 +0000</pubDate>
     <description>Co-produced research questions about dyslexia, dysgraphia, and dyscalculia: A collaboration between researchers and stakeholders facilitated by the UK Specific Learning Difficulties Network</description>
   </item>
   <item>
-    <title>自閉症および／またはADHDのリスクが高い20か月児における実行機能スコアの低下</title>
+    <title>自閉症および／またはADHDのリスクが高い20ヶ月児における実行機能スコアの低下</title>
     <link>https://osf.io/psfg4</link>
     <guid isPermaLink="false">https://osf.io/psfg4#ja</guid>
     <pubDate>Wed, 20 May 2026 17:29:35 +0000</pubDate>
@@ -125,7 +125,7 @@
     <description>Identifying Interdependence Patterns in Triads Using the Triadic Actor-partner Interdependence Model</description>
   </item>
   <item>
-    <title>野外における好奇心：自然環境下での情報探索の規則性</title>
+    <title>野生環境における好奇心：自然主義的情報探索の規則性</title>
     <link>https://osf.io/xz4fc</link>
     <guid isPermaLink="false">https://osf.io/xz4fc#ja</guid>
     <pubDate>Wed, 20 May 2026 14:10:05 +0000</pubDate>
@@ -153,7 +153,7 @@
     <description>“I know who the bad guy is!” Infants map the word “bad” to hinderers, but not the word “good” to helpers</description>
   </item>
   <item>
-    <title>360度バーチャルリアリティにおける場面想起の研究における自然言語処理の活用</title>
+    <title>360度バーチャルリアリティにおける場面想起の研究に向けた自然言語処理の活用</title>
     <link>https://osf.io/bv7qs</link>
     <guid isPermaLink="false">https://osf.io/bv7qs#ja</guid>
     <pubDate>Tue, 19 May 2026 23:18:54 +0000</pubDate>
@@ -174,7 +174,7 @@
     <description>Meta-Awareness of Mind Wandering: Examining Effects of Self-Regulated Learning, Interpolated Testing, and Self-Explanation</description>
   </item>
   <item>
-    <title>方法論的手がかりが心理学研究および法的判断における信頼に与える影響：ビネット研究</title>
+    <title>方法論的手がかりが心理学研究および法的判断における信頼に与える影響：ビネット研究による検討</title>
     <link>https://osf.io/g6zhw</link>
     <guid isPermaLink="false">https://osf.io/g6zhw#ja</guid>
     <pubDate>Tue, 19 May 2026 20:52:53 +0000</pubDate>
@@ -188,21 +188,21 @@
     <description>Minds Meet Machines: Trust and Intellectual Humility as Necessary Conditions for AI Persuasion</description>
   </item>
   <item>
-    <title>自己調整の機能的構造：成人および青年の標準的サンプルにおける規範的自己調整焦点のネットワークレベル制御パラメータ</title>
+    <title>自己調整の機能的構造：成人および青年期の標準的サンプルにおける規範的自己調整焦点のネットワークレベル制御パラメータ</title>
     <link>https://osf.io/hvbwc</link>
     <guid isPermaLink="false">https://osf.io/hvbwc#ja</guid>
     <pubDate>Tue, 19 May 2026 20:52:52 +0000</pubDate>
     <description>The Functional Architecture of Self-Regulation: Network-Level Control Parameters of Regulatory Focus in Normative Adult and Adolescent Samples</description>
   </item>
   <item>
-    <title>潜在変化スコアモデルによる残差変化スコア前後テスト媒介モデルの検証</title>
+    <title>潜在変化スコアモデルによる残差変化スコア前後測定媒介モデルの検証</title>
     <link>https://osf.io/khdjn</link>
     <guid isPermaLink="false">https://osf.io/khdjn#ja</guid>
     <pubDate>Tue, 19 May 2026 20:52:52 +0000</pubDate>
     <description>Evaluating the Residualized Change Score Pretest-Posttest Mediation Model via the Latent Change Score Specification</description>
   </item>
   <item>
-    <title>他者を不快にさせる動機と戦略に関する枠組みの構築</title>
+    <title>他者を不快にさせる動機と戦略の枠組みの構築</title>
     <link>https://osf.io/shpf4</link>
     <guid isPermaLink="false">https://osf.io/shpf4#ja</guid>
     <pubDate>Tue, 19 May 2026 20:52:52 +0000</pubDate>
@@ -237,28 +237,28 @@
     <description>Meaningfulness Facilitates Voluntary Attentional Retrieval in Visual Working Memory</description>
   </item>
   <item>
-    <title>いわゆるオプショナリティ：文法的オプショナリティは談話マーカーや修復を誘発しない</title>
+    <title>いわゆるオプショナリティ：文法的オプショナリティは談話標識や修復を誘発しない</title>
     <link>https://osf.io/9zrvg</link>
     <guid isPermaLink="false">https://osf.io/9zrvg#ja</guid>
     <pubDate>Tue, 19 May 2026 20:52:50 +0000</pubDate>
     <description>You know, like, op- optionality: Grammatical optionality does not trigger discourse markers nor repairs</description>
   </item>
   <item>
-    <title>問題的スマートフォン使用と心のさまよいのU字型関係</title>
+    <title>問題的なスマートフォン使用と心のさまよいのU字型関係</title>
     <link>https://osf.io/qm8n5</link>
     <guid isPermaLink="false">https://osf.io/qm8n5#ja</guid>
     <pubDate>Tue, 19 May 2026 20:52:50 +0000</pubDate>
     <description>U-Shaped Relationship between Problematic Smartphone Use and Mind-Wandering</description>
   </item>
   <item>
-    <title>臨床意思決定におけるメタ認知と意思決定後の情報処理</title>
+    <title>臨床意思決定におけるメタ認知と意思決定後の処理</title>
     <link>https://osf.io/ev2tf</link>
     <guid isPermaLink="false">https://osf.io/ev2tf#ja</guid>
     <pubDate>Tue, 19 May 2026 20:52:50 +0000</pubDate>
     <description>Metacognition and post-decisional processing in clinical decision-making</description>
   </item>
   <item>
-    <title>人間とAIの対話は党派的敵意感情の軽減に寄与する可能性</title>
+    <title>人間とAIの対話が党派的敵意感情の軽減に及ぼす影響</title>
     <link>https://osf.io/nkyqf</link>
     <guid isPermaLink="false">https://osf.io/nkyqf#ja</guid>
     <pubDate>Tue, 19 May 2026 20:52:49 +0000</pubDate>
@@ -293,7 +293,7 @@
     <description>PTSD risk detection from trauma narratives using natural language processing</description>
   </item>
   <item>
-    <title>大規模言語モデルは否定バイアスを示すか？Beukeboomら（2010）の再現研究</title>
+    <title>大規模言語モデルは否定バイアスを示すか？Beukeboomら（2010）の再検証</title>
     <link>https://osf.io/ewdt8</link>
     <guid isPermaLink="false">https://osf.io/ewdt8#ja</guid>
     <pubDate>Mon, 18 May 2026 17:52:08 +0000</pubDate>
@@ -328,14 +328,14 @@
     <description>A luminance-induced expansion aftereffect</description>
   </item>
   <item>
-    <title>スノードグラスとヴァンダーワートの260物体に関する意味的特性とカテゴリー規範：古典的セットの45年ぶりの概念的更新</title>
+    <title>スノードグラス＆ヴァンダーワートの260物体に関する意味的特性とカテゴリー規範：古典的セットの45年ぶりの概念的更新</title>
     <link>https://osf.io/nqk2h</link>
     <guid isPermaLink="false">https://osf.io/nqk2h#ja</guid>
     <pubDate>Mon, 18 May 2026 17:52:07 +0000</pubDate>
     <description>Semantic properties and categorization norms for the 260 Snodgrass and Vanderwart objects: a 45-year conceptual update to a classic set</description>
   </item>
   <item>
-    <title>いじめに関連する心理的問題に対するイメージ療法と認知行動療法の効果：系統的レビューとメタアナリシス</title>
+    <title>いじめに関連する心理的問題に対するイメージ療法と認知行動療法の効果：システマティックレビューとメタアナリシス</title>
     <link>https://osf.io/z85pj</link>
     <guid isPermaLink="false">https://osf.io/z85pj#ja</guid>
     <pubDate>Mon, 18 May 2026 17:52:07 +0000</pubDate>
@@ -349,7 +349,7 @@
     <description>Alternative-Space Structure Shapes Negation Resolution in Multimodal Generation</description>
   </item>
   <item>
-    <title>健康な加齢における灰白質微細構造プロファイルの拡散強調画像解析</title>
+    <title>健康高齢者における灰白質微細構造プロファイルの拡散強調画像解析</title>
     <link>https://osf.io/e5u49</link>
     <guid isPermaLink="false">https://osf.io/e5u49#ja</guid>
     <pubDate>Mon, 18 May 2026 17:52:07 +0000</pubDate>
