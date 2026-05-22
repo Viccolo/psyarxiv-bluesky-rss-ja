@@ -6,6 +6,13 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>人工知能が人間の専門性に与える影響：危機の前兆としての警鐘</title>
+    <link>https://osf.io/k3p8s</link>
+    <guid isPermaLink="false">https://osf.io/k3p8s#ja</guid>
+    <pubDate>Fri, 22 May 2026 02:32:09 +0000</pubDate>
+    <description>Impact of AI on Human Expertise: Canaries in the Coalmine</description>
+  </item>
+  <item>
     <title>実証研究の枠組みにおける4K：Albrechtら（2025）への応答</title>
     <link>https://osf.io/fh2x4</link>
     <guid isPermaLink="false">https://osf.io/fh2x4#ja</guid>
@@ -20,14 +27,14 @@
     <description>Non-instrumental information has limited effects on bet size in risky decisions</description>
   </item>
   <item>
-    <title>感情の計算的本質：メタ推論とトランスフォーマーからの洞察</title>
+    <title>感情の計算的本質：メタ推論とトランスフォーマーモデルからの洞察</title>
     <link>https://osf.io/m478p</link>
     <guid isPermaLink="false">https://osf.io/m478p#ja</guid>
     <pubDate>Wed, 20 May 2026 21:20:54 +0000</pubDate>
     <description>On the computational nature of emotions: insights from metareasoning and transformers</description>
   </item>
   <item>
-    <title>（非）接続：オーストラリアにおける若者と親のソーシャルメディア禁止に対する期待の相違</title>
+    <title>（非）連結：オーストラリアにおける若者と親のソーシャルメディア禁止に対する期待の心理学的検討</title>
     <link>https://osf.io/v78c4</link>
     <guid isPermaLink="false">https://osf.io/v78c4#ja</guid>
     <pubDate>Wed, 20 May 2026 21:20:53 +0000</pubDate>
@@ -41,7 +48,7 @@
     <description>From Traits to Moments: How Emotion Regulation Repertoires Shape Daily Affective Experiences</description>
   </item>
   <item>
-    <title>デジタル注意散漫と意味連想が短期記憶想起に及ぼす影響の再検証</title>
+    <title>デジタル注意散漫と意味連想が短期記憶想起に与える影響の再検証</title>
     <link>https://osf.io/6xer9</link>
     <guid isPermaLink="false">https://osf.io/6xer9#ja</guid>
     <pubDate>Wed, 20 May 2026 19:37:10 +0000</pubDate>
@@ -83,35 +90,35 @@
     <description>Narrowing Boundaries: Mental Fatigue Reduces the Amount of Evidence that People Use when Making Decisions under Risk</description>
   </item>
   <item>
-    <title>社会的変革的レジリエンスのARC-STRモデル：ベストフィットフレームワーク統合法を用いた質的系統的レビューとメタシンセシス</title>
+    <title>社会的変革的レジリエンスのARC-STRモデル：ベストフィットフレームワーク統合法による質的系統的レビューとメタシンセシス</title>
     <link>https://osf.io/zrhyv</link>
     <guid isPermaLink="false">https://osf.io/zrhyv#ja</guid>
     <pubDate>Wed, 20 May 2026 17:29:36 +0000</pubDate>
     <description>The ARC-STR Model of Socially Transformative Resilience: A Qualitative Systematic Review and Meta-Synthesis Using Best Fit Framework Synthesis</description>
   </item>
   <item>
-    <title>クオリア構造の分解不能な現象単位とは何か</title>
+    <title>クオリア構造の分解不可能な現象単位とは何か？</title>
     <link>https://osf.io/nbxdk</link>
     <guid isPermaLink="false">https://osf.io/nbxdk#ja</guid>
     <pubDate>Wed, 20 May 2026 17:29:36 +0000</pubDate>
     <description>What are the Indecomposable Phenomenal Units of Qualia Structures?</description>
   </item>
   <item>
-    <title>ディスレクシア、ディスグラフィア、ディスカリキュリアに関する共同作成された研究課題：英国特定学習困難ネットワークによる研究者と利害関係者の協働</title>
+    <title>ディスレクシア、ディスグラフィア、ディスカリキュリアに関する共同生成された研究課題：英国特定学習困難ネットワークによる研究者と利害関係者の協働</title>
     <link>https://osf.io/qekpf</link>
     <guid isPermaLink="false">https://osf.io/qekpf#ja</guid>
     <pubDate>Wed, 20 May 2026 17:29:36 +0000</pubDate>
     <description>Co-produced research questions about dyslexia, dysgraphia, and dyscalculia: A collaboration between researchers and stakeholders facilitated by the UK Specific Learning Difficulties Network</description>
   </item>
   <item>
-    <title>自閉症および／またはADHDのリスクが高い20か月児における実行機能スコアの低下</title>
+    <title>自閉症および／または注意欠陥多動性障害のリスクが高い20か月児における実行機能スコアの低下</title>
     <link>https://osf.io/psfg4</link>
     <guid isPermaLink="false">https://osf.io/psfg4#ja</guid>
     <pubDate>Wed, 20 May 2026 17:29:35 +0000</pubDate>
     <description>Executive function scores are lower for 20-month-olds with an elevated likelihood of autism and/or ADHD</description>
   </item>
   <item>
-    <title>エージェントと会話文脈が人間音声エージェントとの相互作用における共感知覚に及ぼす影響：fMRI研究</title>
+    <title>エージェントおよび会話文脈が人間音声エージェントとの相互作用における共感知覚に与える影響：fMRI研究</title>
     <link>https://osf.io/4a6wg</link>
     <guid isPermaLink="false">https://osf.io/4a6wg#ja</guid>
     <pubDate>Wed, 20 May 2026 14:10:06 +0000</pubDate>
@@ -125,7 +132,7 @@
     <description>What Makes People Laugh and Cry? Ethnographic Evidence from 60 Societies</description>
   </item>
   <item>
-    <title>感情の計算的本質：メタ推論とトランスフォーマーモデルからの洞察</title>
+    <title>感情の計算的本質：メタ推論とトランスフォーマーからの洞察</title>
     <link>https://osf.io/m478p</link>
     <guid isPermaLink="false">https://osf.io/m478p#ja</guid>
     <pubDate>Wed, 20 May 2026 14:10:06 +0000</pubDate>
@@ -153,14 +160,14 @@
     <description>Cross-Linguistic Factors in Early Numerical Development</description>
   </item>
   <item>
-    <title>人工音声への慣れが話者混在環境における音声知覚の明瞭性を向上させる</title>
+    <title>人工音声への親しみが話声中の言語理解度を向上させる</title>
     <link>https://osf.io/6bu8x</link>
     <guid isPermaLink="false">https://osf.io/6bu8x#ja</guid>
     <pubDate>Tue, 19 May 2026 23:18:55 +0000</pubDate>
     <description>Familiarity with an Artificial Voice Improves Speech-in-Speech Intelligibility</description>
   </item>
   <item>
-    <title>「悪者は誰か分かる！」乳児は「悪い」という言葉を妨害者に結びつけるが、「良い」という言葉を援助者には結びつけない</title>
+    <title>「悪者は誰か知っている！」乳児は「悪い」という言葉を妨害者に結びつけるが、「良い」という言葉を助け手に結びつけない</title>
     <link>https://osf.io/3h7sv</link>
     <guid isPermaLink="false">https://osf.io/3h7sv#ja</guid>
     <pubDate>Tue, 19 May 2026 23:18:55 +0000</pubDate>
@@ -181,7 +188,7 @@
     <description>DyscalcBattery: An open browser-based psychophysical battery for dyscalculia screening and numerosity perception research</description>
   </item>
   <item>
-    <title>心のさまよいのメタ認知：自己調整学習、挿入テスト、および自己説明の効果検討</title>
+    <title>心のさまよいのメタ認知：自己調整学習、挿入テスト、および自己説明の効果の検討</title>
     <link>https://osf.io/n2rxb</link>
     <guid isPermaLink="false">https://osf.io/n2rxb#ja</guid>
     <pubDate>Tue, 19 May 2026 20:52:53 +0000</pubDate>
@@ -209,7 +216,7 @@
     <description>The Functional Architecture of Self-Regulation: Network-Level Control Parameters of Regulatory Focus in Normative Adult and Adolescent Samples</description>
   </item>
   <item>
-    <title>潜在変化スコアモデルによる残差変化スコア前後測定媒介モデルの検証</title>
+    <title>潜在変化スコアモデルによる残差変化スコア前後テスト媒介モデルの検証</title>
     <link>https://osf.io/khdjn</link>
     <guid isPermaLink="false">https://osf.io/khdjn#ja</guid>
     <pubDate>Tue, 19 May 2026 20:52:52 +0000</pubDate>
@@ -223,21 +230,21 @@
     <description>Developing Frameworks for the Motives and Strategies People Use to Make Others Feel Worse</description>
   </item>
   <item>
-    <title>社会的動機づけによる観察学習：子どもは自分の母親に向けられた聞き耳を立てた発話から優先的に学習する</title>
+    <title>社会的動機づけによる観察学習：子どもは自分の母親に向けられた聞き耳を立てた発話から優先的に学ぶ</title>
     <link>https://osf.io/42ps7</link>
     <guid isPermaLink="false">https://osf.io/42ps7#ja</guid>
     <pubDate>Tue, 19 May 2026 20:52:52 +0000</pubDate>
     <description>Socially Motivated Observational Learning: Children Preferentially Learn from Overheard Speech Addressed to Their Own Mothers</description>
   </item>
   <item>
-    <title>短い単語は192の言語族にわたり多義性を持つ可能性が高い</title>
+    <title>短い単語は192の言語系統にわたり複数の意味を指す可能性が高い</title>
     <link>https://osf.io/r8q53</link>
     <guid isPermaLink="false">https://osf.io/r8q53#ja</guid>
     <pubDate>Tue, 19 May 2026 20:52:51 +0000</pubDate>
     <description>Short words are more likely to refer to multiple meanings across 192 language families</description>
   </item>
   <item>
-    <title>エージェントベースの意見モデルから量子回路へ：チュートリアル</title>
+    <title>エージェントベースの意見形成モデルから量子回路へ：チュートリアル</title>
     <link>https://osf.io/7at9x</link>
     <guid isPermaLink="false">https://osf.io/7at9x#ja</guid>
     <pubDate>Tue, 19 May 2026 20:52:51 +0000</pubDate>
@@ -258,7 +265,7 @@
     <description>You know, like, op- optionality: Grammatical optionality does not trigger discourse markers nor repairs</description>
   </item>
   <item>
-    <title>問題的なスマートフォン使用と心のさまよいのU字型関係</title>
+    <title>問題的スマートフォン使用と心のさまよいのU字型関係</title>
     <link>https://osf.io/qm8n5</link>
     <guid isPermaLink="false">https://osf.io/qm8n5#ja</guid>
     <pubDate>Tue, 19 May 2026 20:52:50 +0000</pubDate>
@@ -272,28 +279,28 @@
     <description>Metacognition and post-decisional processing in clinical decision-making</description>
   </item>
   <item>
-    <title>人間とAIの対話が党派的敵意感情の軽減に及ぼす影響</title>
+    <title>人間とAIの対話が党派的敵意感情を軽減する可能性</title>
     <link>https://osf.io/nkyqf</link>
     <guid isPermaLink="false">https://osf.io/nkyqf#ja</guid>
     <pubDate>Tue, 19 May 2026 20:52:49 +0000</pubDate>
     <description>Human-AI dialogues can reduce feelings of partisan animosity</description>
   </item>
   <item>
-    <title>認知の鏡をのぞく：身体不満に関する解釈バイアス課題の妥当性検証</title>
+    <title>認知の鏡をのぞく：身体不満に関する解釈バイアスタスクの妥当性検証</title>
     <link>https://osf.io/qg9dw</link>
     <guid isPermaLink="false">https://osf.io/qg9dw#ja</guid>
     <pubDate>Tue, 19 May 2026 11:29:46 +0000</pubDate>
     <description>A Glance in the Cognitive Mirror: Validation of an Interpretation Bias Task  for Body Dissatisfaction</description>
   </item>
   <item>
-    <title>流暢な読者と読解困難者におけるオンライン信頼性評価のパターン</title>
+    <title>流暢な読者と困難を抱える読者におけるオンライン信頼性評価のパターン</title>
     <link>https://osf.io/ertbp</link>
     <guid isPermaLink="false">https://osf.io/ertbp#ja</guid>
     <pubDate>Tue, 19 May 2026 11:29:46 +0000</pubDate>
     <description>Patterns of Online Credibility Evaluation Among Fluent and Struggling Readers</description>
   </item>
   <item>
-    <title>「大丈夫―全員が天才である必要はない」：教室内の不平等な扱いが子どもの心に及ぼす影響</title>
+    <title>「大丈夫―誰もが天才である必要はない」：教室内の不平等な扱いが子どもの心に及ぼす影響</title>
     <link>https://osf.io/hrzbp</link>
     <guid isPermaLink="false">https://osf.io/hrzbp#ja</guid>
     <pubDate>Mon, 18 May 2026 19:25:47 +0000</pubDate>
@@ -307,7 +314,7 @@
     <description>PTSD risk detection from trauma narratives using natural language processing</description>
   </item>
   <item>
-    <title>大規模言語モデルは否定バイアスを示すか？Beukeboomら（2010）の再現研究</title>
+    <title>大規模言語モデルは否定バイアスを示すか？Beukeboomら（2010）の再検証</title>
     <link>https://osf.io/ewdt8</link>
     <guid isPermaLink="false">https://osf.io/ewdt8#ja</guid>
     <pubDate>Mon, 18 May 2026 17:52:08 +0000</pubDate>
@@ -342,18 +349,11 @@
     <description>A luminance-induced expansion aftereffect</description>
   </item>
   <item>
-    <title>スノッドグラスとヴァンダーワートの260対象物に関する意味的特性とカテゴリー規範：古典的セットの45年ぶりの概念的更新</title>
+    <title>260のスノードグラス・アンド・ヴァンダーワート物体の意味的特性とカテゴリー規範：古典的セットに対する45年ぶりの概念的更新</title>
     <link>https://osf.io/nqk2h</link>
     <guid isPermaLink="false">https://osf.io/nqk2h#ja</guid>
     <pubDate>Mon, 18 May 2026 17:52:07 +0000</pubDate>
     <description>Semantic properties and categorization norms for the 260 Snodgrass and Vanderwart objects: a 45-year conceptual update to a classic set</description>
-  </item>
-  <item>
-    <title>いじめに関連する心理的問題に対するイメージ療法と認知行動療法の効果：システマティックレビューとメタアナリシス</title>
-    <link>https://osf.io/z85pj</link>
-    <guid isPermaLink="false">https://osf.io/z85pj#ja</guid>
-    <pubDate>Mon, 18 May 2026 17:52:07 +0000</pubDate>
-    <description>Imagery Interventions and Cognitive-Behavioural Therapy for Psychological Complaints related to Bullying: A Systematic Review and Meta-analysis</description>
   </item>
 </channel>
 </rss>
