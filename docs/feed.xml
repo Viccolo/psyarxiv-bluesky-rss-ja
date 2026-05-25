@@ -6,14 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>感覚運動適応における誤差処理の方向付けにおける事前感覚調整の役割</title>
+    <title>感覚運動適応における誤差処理の指向性に及ぼす事前感覚調整の役割</title>
     <link>https://osf.io/8x7yg</link>
     <guid isPermaLink="false">https://osf.io/8x7yg#ja</guid>
     <pubDate>Sun, 24 May 2026 16:37:34 +0000</pubDate>
     <description>Prior Sensory Tuning Orients Error Processing During Sensorimotor Adaptation</description>
   </item>
   <item>
-    <title>人間および大規模言語モデルの道徳的助言が及ぼす影響の正確な予測</title>
+    <title>人間および大規模言語モデルの道徳的助言が与える影響の正確な予測</title>
     <link>https://osf.io/yucx2</link>
     <guid isPermaLink="false">https://osf.io/yucx2#ja</guid>
     <pubDate>Sun, 24 May 2026 16:37:34 +0000</pubDate>
@@ -34,7 +34,7 @@
     <description>Effects of Virtual Reality Learning Contexts on Foreign Language Words Production Behavioral and EEG Evidence</description>
   </item>
   <item>
-    <title>パプアコード：西ニューギニアにおける全共同体的手話体系</title>
+    <title>コデ・パプア：西ニューギニアにおける全共同体的手話体系</title>
     <link>https://osf.io/35kpn</link>
     <guid isPermaLink="false">https://osf.io/35kpn#ja</guid>
     <pubDate>Fri, 22 May 2026 21:48:39 +0000</pubDate>
@@ -69,7 +69,7 @@
     <description>Evaluating Large Language Models for Feature Extraction from Verbal Stimuli: A Simulation-Based Workflow</description>
   </item>
   <item>
-    <title>精神性における美の探究：日本成人における写真の美的判断の検討</title>
+    <title>精神性における美の探求：日本成人における写真の美的判断の検討</title>
     <link>https://osf.io/q9anx</link>
     <guid isPermaLink="false">https://osf.io/q9anx#ja</guid>
     <pubDate>Fri, 22 May 2026 19:10:07 +0000</pubDate>
@@ -90,14 +90,14 @@
     <description>International vaping and nicotine cessation services: A desk review</description>
   </item>
   <item>
-    <title>AI音声クローンの成功要因とは何か？三つのTTSシステムにおける韻律的および音響的証拠</title>
+    <title>AI音声クローンの成功要因とは何か？三つの音声合成システムにおける韻律的および音響的証拠</title>
     <link>https://osf.io/zcu3y</link>
     <guid isPermaLink="false">https://osf.io/zcu3y#ja</guid>
     <pubDate>Fri, 22 May 2026 19:10:06 +0000</pubDate>
     <description>What determines the success of AI voice-cloned speech? Prosodic and acoustic evidence on three TTS systems</description>
   </item>
   <item>
-    <title>発声学習中の基底核ニューロンにおける自己歌唱と指導歌唱の二重表象</title>
+    <title>音声学習中の基底核ニューロンにおける自己歌唱と指導歌唱の二重表象</title>
     <link>https://osf.io/vckag</link>
     <guid isPermaLink="false">https://osf.io/vckag#ja</guid>
     <pubDate>Fri, 22 May 2026 19:10:05 +0000</pubDate>
@@ -111,7 +111,7 @@
     <description>Accounting for age-related differences in the task-evoked pupil response</description>
   </item>
   <item>
-    <title>良質な教育アプリが教室で失敗または成功する要因とは？教育アプリ統合のための教師支援フレームワーク（TSF-Apps）</title>
+    <title>良質なアプリが教室で失敗または成功する要因とは？教育用アプリ統合のための教師支援フレームワーク（TSF-Apps）</title>
     <link>https://osf.io/qay3z</link>
     <guid isPermaLink="false">https://osf.io/qay3z#ja</guid>
     <pubDate>Fri, 22 May 2026 09:58:37 +0000</pubDate>
@@ -132,14 +132,14 @@
     <description>Philippe Tissié and Pathological Wanderlust: A Historical Note on the Origin of Exercise Addiction Research</description>
   </item>
   <item>
-    <title>価値方向性に偏った情報更新が記憶に基づく感情評価に及ぼす異なる影響</title>
+    <title>価値方向性バイアスによる更新が記憶誘導型情動評価に及ぼす異なる影響</title>
     <link>https://osf.io/z8qsv</link>
     <guid isPermaLink="false">https://osf.io/z8qsv#ja</guid>
     <pubDate>Fri, 22 May 2026 09:58:37 +0000</pubDate>
     <description>Valence-biased updating differentially influences memory-guided affective ratings.</description>
   </item>
   <item>
-    <title>実務における誤情報：専門家による脅威、関係者、メカニズムおよび制約の考察</title>
+    <title>実務における誤情報：専門家による脅威、関係者、メカニズムおよび制約の分析</title>
     <link>https://osf.io/jkqwh</link>
     <guid isPermaLink="false">https://osf.io/jkqwh#ja</guid>
     <pubDate>Fri, 22 May 2026 09:58:36 +0000</pubDate>
@@ -153,7 +153,7 @@
     <description>When AI Feels like Human: Anthropomorphism, Loneliness, and Problematic Use of Chatbots among School Teachers in Poland</description>
   </item>
   <item>
-    <title>翻訳的リテラシーフレームワーク（TLF）：AI時代における学際的証拠評価とコミュニケーションの教育的構築</title>
+    <title>翻訳的リテラシーフレームワーク（TLF）：AI時代における学際的証拠評価とコミュニケーションのための教育的構造</title>
     <link>https://osf.io/5uefd</link>
     <guid isPermaLink="false">https://osf.io/5uefd#ja</guid>
     <pubDate>Fri, 22 May 2026 09:58:36 +0000</pubDate>
@@ -167,28 +167,28 @@
     <description>Impact of AI on Human Expertise: Canaries in the Coalmine</description>
   </item>
   <item>
-    <title>実証研究の枠組みにおける4K：Albrechtら（2025）への応答</title>
+    <title>実証研究の装いを纏った4K：Albrechtら（2025）への応答</title>
     <link>https://osf.io/fh2x4</link>
     <guid isPermaLink="false">https://osf.io/fh2x4#ja</guid>
     <pubDate>Thu, 21 May 2026 10:26:05 +0000</pubDate>
     <description>Die 4K im Gewand empirischer Forschung: Eine Antwort auf Albrecht et al. (2025)</description>
   </item>
   <item>
-    <title>非道具的情報はリスク意思決定における賭け金の大きさに限定的な影響を与える</title>
+    <title>非道具的情報がリスク意思決定における賭け金の大きさに与える影響の限定性</title>
     <link>https://osf.io/r8edy</link>
     <guid isPermaLink="false">https://osf.io/r8edy#ja</guid>
     <pubDate>Thu, 21 May 2026 10:26:02 +0000</pubDate>
     <description>Non-instrumental information has limited effects on bet size in risky decisions</description>
   </item>
   <item>
-    <title>感情の計算的性質：メタ推論とトランスフォーマーからの洞察</title>
+    <title>感情の計算的本質：メタ推論とトランスフォーマーからの知見</title>
     <link>https://osf.io/m478p</link>
     <guid isPermaLink="false">https://osf.io/m478p#ja</guid>
     <pubDate>Wed, 20 May 2026 21:20:54 +0000</pubDate>
     <description>On the computational nature of emotions: insights from metareasoning and transformers</description>
   </item>
   <item>
-    <title>（非）接続：オーストラリアにおける若者と親のソーシャルメディア禁止に対する期待の心理学的検討</title>
+    <title>（非）接続：オーストラリアにおける若者と親のソーシャルメディア禁止に対する期待の相違</title>
     <link>https://osf.io/v78c4</link>
     <guid isPermaLink="false">https://osf.io/v78c4#ja</guid>
     <pubDate>Wed, 20 May 2026 21:20:53 +0000</pubDate>
@@ -202,14 +202,14 @@
     <description>From Traits to Moments: How Emotion Regulation Repertoires Shape Daily Affective Experiences</description>
   </item>
   <item>
-    <title>デジタル注意散漫と意味的連想が短期記憶想起に与える影響の再検証</title>
+    <title>デジタル注意散漫と意味連想が短期記憶想起に及ぼす影響の再検証</title>
     <link>https://osf.io/6xer9</link>
     <guid isPermaLink="false">https://osf.io/6xer9#ja</guid>
     <pubDate>Wed, 20 May 2026 19:37:10 +0000</pubDate>
     <description>A Replication of the Impact of Digital Distractions and Semantic Associations on Short-Term Memory Recall</description>
   </item>
   <item>
-    <title>家族ネットワークにおける感情的同期と日常生活における思春期青年のウェルビーイングの関連性</title>
+    <title>家族ネットワークにおける感情的同期と日常生活における思春期のウェルビーイングの関連性</title>
     <link>https://osf.io/4hvbd</link>
     <guid isPermaLink="false">https://osf.io/4hvbd#ja</guid>
     <pubDate>Wed, 20 May 2026 19:37:10 +0000</pubDate>
@@ -244,7 +244,7 @@
     <description>Narrowing Boundaries: Mental Fatigue Reduces the Amount of Evidence that People Use when Making Decisions under Risk</description>
   </item>
   <item>
-    <title>社会的変革的レジリエンスのARC-STRモデル：ベストフィットフレームワーク統合を用いた質的系統的レビューとメタシンセシス</title>
+    <title>社会的変革的レジリエンスのARC-STRモデル：ベストフィットフレームワーク統合法による質的系統的レビューとメタシンセシス</title>
     <link>https://osf.io/zrhyv</link>
     <guid isPermaLink="false">https://osf.io/zrhyv#ja</guid>
     <pubDate>Wed, 20 May 2026 17:29:36 +0000</pubDate>
@@ -272,7 +272,7 @@
     <description>Executive function scores are lower for 20-month-olds with an elevated likelihood of autism and/or ADHD</description>
   </item>
   <item>
-    <title>エージェントおよび会話文脈が人間音声エージェントとの相互作用における共感知覚に及ぼす影響：fMRI研究</title>
+    <title>エージェントと会話文脈が人間音声エージェントとの相互作用における共感知覚に及ぼす影響：fMRI研究</title>
     <link>https://osf.io/4a6wg</link>
     <guid isPermaLink="false">https://osf.io/4a6wg#ja</guid>
     <pubDate>Wed, 20 May 2026 14:10:06 +0000</pubDate>
@@ -314,7 +314,7 @@
     <description>Cross-Linguistic Factors in Early Numerical Development</description>
   </item>
   <item>
-    <title>人工音声への慣れが話中話認知度を向上させる</title>
+    <title>人工音声への慣れが話中話音の知覚理解度を向上させる</title>
     <link>https://osf.io/6bu8x</link>
     <guid isPermaLink="false">https://osf.io/6bu8x#ja</guid>
     <pubDate>Tue, 19 May 2026 23:18:55 +0000</pubDate>
@@ -342,7 +342,7 @@
     <description>DyscalcBattery: An open browser-based psychophysical battery for dyscalculia screening and numerosity perception research</description>
   </item>
   <item>
-    <title>心のさまよいのメタ認知：自己調整学習、挿入テスト、および自己説明の効果検討</title>
+    <title>心のさまよいに対するメタ認知：自己調整学習、挿入テスト、および自己説明の効果検討</title>
     <link>https://osf.io/n2rxb</link>
     <guid isPermaLink="false">https://osf.io/n2rxb#ja</guid>
     <pubDate>Tue, 19 May 2026 20:52:53 +0000</pubDate>
