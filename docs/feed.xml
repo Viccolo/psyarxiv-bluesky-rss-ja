@@ -6,7 +6,49 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>意味のある人生と排斥感との間の疑わしい将来的影響：Zhangら（2026）へのコメント</title>
+    <title>個人差が示す抽象概念学習への複数の認知経路</title>
+    <link>https://osf.io/ajt4f</link>
+    <guid isPermaLink="false">https://osf.io/ajt4f#ja</guid>
+    <pubDate>Wed, 27 May 2026 19:34:33 +0000</pubDate>
+    <description>Individual variability reveals multiple cognitive routes to abstract concept learning</description>
+  </item>
+  <item>
+    <title>日常知識の錯覚：時間特異的期待が実際の行動を弱く予測する</title>
+    <link>https://osf.io/85ytm</link>
+    <guid isPermaLink="false">https://osf.io/85ytm#ja</guid>
+    <pubDate>Wed, 27 May 2026 19:34:33 +0000</pubDate>
+    <description>The Illusion of Routine Knowledge:  Time-Specific Expectations Weakly Predict Actual Behavior</description>
+  </item>
+  <item>
+    <title>部分的メタ分析相関行列の補完：段階2構造方程式モデリングのための較正ベイズ枠組み</title>
+    <link>https://osf.io/9w5ta</link>
+    <guid isPermaLink="false">https://osf.io/9w5ta#ja</guid>
+    <pubDate>Wed, 27 May 2026 19:34:32 +0000</pubDate>
+    <description>Imputing Partial Meta-Analytic Correlation Matrices: A Calibrated Bayesian Framework for Stage-2 Structural Equation Modeling</description>
+  </item>
+  <item>
+    <title>ストレスとゲームの関連性：韓国の青少年における異なるストレス源からのゲーム行動予測</title>
+    <link>https://osf.io/3nu2x</link>
+    <guid isPermaLink="false">https://osf.io/3nu2x#ja</guid>
+    <pubDate>Wed, 27 May 2026 19:34:32 +0000</pubDate>
+    <description>Linking Stress to Games: Predicting Korean Adolescents’ Gaming Behaviors from Different Sources of Stress</description>
+  </item>
+  <item>
+    <title>格一致が言語産出に与える影響：バスク語・スペイン語同時バイリンガルの証拠</title>
+    <link>https://osf.io/8tgdz</link>
+    <guid isPermaLink="false">https://osf.io/8tgdz#ja</guid>
+    <pubDate>Wed, 27 May 2026 19:34:32 +0000</pubDate>
+    <description>Case alignment shapes speech production: Evidence from simultaneous Basque-Spanish bilinguals</description>
+  </item>
+  <item>
+    <title>記憶からのカテゴリー所属予測</title>
+    <link>https://osf.io/qkdpw</link>
+    <guid isPermaLink="false">https://osf.io/qkdpw#ja</guid>
+    <pubDate>Wed, 27 May 2026 19:34:31 +0000</pubDate>
+    <description>Predicting Memberships from Memory.</description>
+  </item>
+  <item>
+    <title>意味のある人生と排斥感の間の疑わしい将来的効果：Zhangら（2026）へのコメント</title>
     <link>https://osf.io/mcdnh</link>
     <guid isPermaLink="false">https://osf.io/mcdnh#ja</guid>
     <pubDate>Wed, 27 May 2026 13:59:17 +0000</pubDate>
@@ -20,7 +62,7 @@
     <description>Sociodemographic and individual risk factors for traumatic brain injury in UK Biobank (N=500,035)</description>
   </item>
   <item>
-    <title>マルチシムサイコメトリカン：ライトマップに基づく達成度テスト項目の補完による測定精度向上への大規模言語モデル活用</title>
+    <title>Multi-SimPsychometrican：ライトマップに基づく達成度テスト項目の補完による測定精度向上への大規模言語モデル活用</title>
     <link>https://osf.io/rdp52</link>
     <guid isPermaLink="false">https://osf.io/rdp52#ja</guid>
     <pubDate>Wed, 27 May 2026 13:59:16 +0000</pubDate>
@@ -104,7 +146,7 @@
     <description>Perspective taking predicts acute psychiatric treatment trajectories</description>
   </item>
   <item>
-    <title>ニュース消費中の一時停止による内省が記憶におけるネガティビティバイアスを軽減する効果</title>
+    <title>ニュース消費中の一時停止による内省が記憶における否定的バイアスを軽減する効果</title>
     <link>https://osf.io/jsyeb</link>
     <guid isPermaLink="false">https://osf.io/jsyeb#ja</guid>
     <pubDate>Tue, 26 May 2026 17:35:41 +0000</pubDate>
@@ -118,7 +160,7 @@
     <description>Childhood complex trauma and social thinning in adolescence: evidence from a prospective cohort study</description>
   </item>
   <item>
-    <title>あいまいさと一貫性の欠如：メディア心理学と効果理論の課題およびその解決策</title>
+    <title>あいまいさと一貫性の欠如？メディア心理学と効果理論の課題およびその解決策</title>
     <link>https://osf.io/hsk2v</link>
     <guid isPermaLink="false">https://osf.io/hsk2v#ja</guid>
     <pubDate>Tue, 26 May 2026 14:15:40 +0000</pubDate>
@@ -139,21 +181,21 @@
     <description>Age of Acquisition for English Multi-Word Expressions (MWEs): Estimates from a Large Language Model Fine-tuned by Crowdsourced Human Ratings</description>
   </item>
   <item>
-    <title>情報探索時の好奇心を反映するアルファ振動</title>
+    <title>情報探索中の好奇心を反映するアルファ振動</title>
     <link>https://osf.io/8etq5</link>
     <guid isPermaLink="false">https://osf.io/8etq5#ja</guid>
     <pubDate>Tue, 26 May 2026 14:15:39 +0000</pubDate>
     <description>Alpha Oscillations Reflect Curiosity During Information-Seeking</description>
   </item>
   <item>
-    <title>自然主義的脅威下における感情と防衛行動の解離</title>
+    <title>自然的脅威下における感情と防御行動の解離</title>
     <link>https://osf.io/kxpjm</link>
     <guid isPermaLink="false">https://osf.io/kxpjm#ja</guid>
     <pubDate>Tue, 26 May 2026 14:15:39 +0000</pubDate>
     <description>Feelings and defensive actions are dissociated under naturalistic threat</description>
   </item>
   <item>
-    <title>メンタルヘルス自己管理における利益獲得フレーミングと損失回避フレーミングの影響：調整焦点および精神健康悪化の知覚リスクの調整効果の検討</title>
+    <title>メンタルヘルス自己管理における利益強調と非損失強調の影響：調整焦点および精神健康悪化の知覚リスクの調整効果の検討</title>
     <link>https://osf.io/8eqj4</link>
     <guid isPermaLink="false">https://osf.io/8eqj4#ja</guid>
     <pubDate>Tue, 26 May 2026 14:15:38 +0000</pubDate>
@@ -174,7 +216,7 @@
     <description>Transcutaneous Vagus Nerve Stimulation, Tolerability, and the Alpha / Theta EEG Ratio: A Controlled Pilot Study Relevant to Emotion Regulation</description>
   </item>
   <item>
-    <title>アクセス操作は作業記憶の認知構造を再形成する</title>
+    <title>アクセス操作は作業記憶の認知構造を再構築する</title>
     <link>https://osf.io/4vhyt</link>
     <guid isPermaLink="false">https://osf.io/4vhyt#ja</guid>
     <pubDate>Tue, 26 May 2026 14:15:38 +0000</pubDate>
@@ -195,7 +237,7 @@
     <description>Women Overinvest for the Public Good, But Only When They Must Act Alone</description>
   </item>
   <item>
-    <title>感覚運動適応における誤差処理の指向に及ぼす先行感覚調整の役割</title>
+    <title>感覚運動適応における誤差処理の指向性に及ぼす事前感覚調整の役割</title>
     <link>https://osf.io/8x7yg</link>
     <guid isPermaLink="false">https://osf.io/8x7yg#ja</guid>
     <pubDate>Sun, 24 May 2026 16:37:34 +0000</pubDate>
@@ -223,7 +265,7 @@
     <description>Effects of Virtual Reality Learning Contexts on Foreign Language Words Production Behavioral and EEG Evidence</description>
   </item>
   <item>
-    <title>コデ・パプア：西ニューギニアにおける全共同体的手話体系</title>
+    <title>パプアコード：西ニューギニアにおける全共同体的手話体系</title>
     <link>https://osf.io/35kpn</link>
     <guid isPermaLink="false">https://osf.io/35kpn#ja</guid>
     <pubDate>Fri, 22 May 2026 21:48:39 +0000</pubDate>
@@ -237,7 +279,7 @@
     <description>Built to Last: Online operant conditioning induces nocebo expectancies resistant to modification in chronic pain patients and pain-free participants</description>
   </item>
   <item>
-    <title>トーナメントチェスプレイヤーにおける認知機能の季節変動効果の検証</title>
+    <title>トーナメントチェス選手における認知機能の季節変動効果の検証</title>
     <link>https://osf.io/jy53u</link>
     <guid isPermaLink="false">https://osf.io/jy53u#ja</guid>
     <pubDate>Fri, 22 May 2026 19:10:08 +0000</pubDate>
@@ -258,14 +300,14 @@
     <description>Evaluating Large Language Models for Feature Extraction from Verbal Stimuli: A Simulation-Based Workflow</description>
   </item>
   <item>
-    <title>精神性における美の探究：日本成人における写真の美的判断の検討</title>
+    <title>精神性における美の探求：日本成人における写真の美的判断の検討</title>
     <link>https://osf.io/q9anx</link>
     <guid isPermaLink="false">https://osf.io/q9anx#ja</guid>
     <pubDate>Fri, 22 May 2026 19:10:07 +0000</pubDate>
     <description>Beauty Within Spirituality: An Investigation Into the Aesthetic Judgement of Photographs Among Japanese Adults</description>
   </item>
   <item>
-    <title>社会的入力から社会的注意へ：親の気分の予測可能性が視線手がかりの発達に与える影響</title>
+    <title>社会的入力から社会的注意へ：親の気分の予測可能性が視線手がかりの発達に関連する</title>
     <link>https://osf.io/suhpm</link>
     <guid isPermaLink="false">https://osf.io/suhpm#ja</guid>
     <pubDate>Fri, 22 May 2026 19:10:06 +0000</pubDate>
@@ -300,7 +342,7 @@
     <description>Accounting for age-related differences in the task-evoked pupil response</description>
   </item>
   <item>
-    <title>良質な教育アプリが教室で失敗または成功する要因とは？教育アプリ統合のための教師支援フレームワーク（TSF-Apps）</title>
+    <title>良質な教育アプリが教室で失敗または成功する要因とは？教育アプリ統合のための教員支援フレームワーク（TSF-Apps）</title>
     <link>https://osf.io/qay3z</link>
     <guid isPermaLink="false">https://osf.io/qay3z#ja</guid>
     <pubDate>Fri, 22 May 2026 09:58:37 +0000</pubDate>
@@ -312,48 +354,6 @@
     <guid isPermaLink="false">https://osf.io/xteku#ja</guid>
     <pubDate>Fri, 22 May 2026 09:58:37 +0000</pubDate>
     <description>Detecting Response Styles in Visual Analogue Scales</description>
-  </item>
-  <item>
-    <title>フィリップ・ティシエと病的放浪癖：運動依存症研究の起源に関する歴史的考察</title>
-    <link>https://osf.io/qsf5x</link>
-    <guid isPermaLink="false">https://osf.io/qsf5x#ja</guid>
-    <pubDate>Fri, 22 May 2026 09:58:37 +0000</pubDate>
-    <description>Philippe Tissié and Pathological Wanderlust: A Historical Note on the Origin of Exercise Addiction Research</description>
-  </item>
-  <item>
-    <title>価値方向性に偏った情報更新が記憶に基づく感情評価に及ぼす異なる影響</title>
-    <link>https://osf.io/z8qsv</link>
-    <guid isPermaLink="false">https://osf.io/z8qsv#ja</guid>
-    <pubDate>Fri, 22 May 2026 09:58:37 +0000</pubDate>
-    <description>Valence-biased updating differentially influences memory-guided affective ratings.</description>
-  </item>
-  <item>
-    <title>実務における誤情報：専門家による脅威、関係者、メカニズムおよび制約の分析</title>
-    <link>https://osf.io/jkqwh</link>
-    <guid isPermaLink="false">https://osf.io/jkqwh#ja</guid>
-    <pubDate>Fri, 22 May 2026 09:58:36 +0000</pubDate>
-    <description>Disinformation in Practice: Threats, Actors, Mechanisms, and Constraints According to Professionals</description>
-  </item>
-  <item>
-    <title>AIが人間のように感じられるとき：ポーランドの学校教員における擬人化、孤独感、およびチャットボットの問題的使用</title>
-    <link>https://osf.io/stndb</link>
-    <guid isPermaLink="false">https://osf.io/stndb#ja</guid>
-    <pubDate>Fri, 22 May 2026 09:58:36 +0000</pubDate>
-    <description>When AI Feels like Human: Anthropomorphism, Loneliness, and Problematic Use of Chatbots among School Teachers in Poland</description>
-  </item>
-  <item>
-    <title>翻訳的リテラシーフレームワーク（TLF）：AI時代における学際的証拠評価とコミュニケーションの教育的構築</title>
-    <link>https://osf.io/5uefd</link>
-    <guid isPermaLink="false">https://osf.io/5uefd#ja</guid>
-    <pubDate>Fri, 22 May 2026 09:58:36 +0000</pubDate>
-    <description>Translational Literacy Framework (TLF): A Pedagogical Architecture for Cross-Disciplinary Evidence Evaluation and Communication in the AI Era</description>
-  </item>
-  <item>
-    <title>人工知能が人間の専門性に与える影響：危機の兆候としての警鐘</title>
-    <link>https://osf.io/k3p8s</link>
-    <guid isPermaLink="false">https://osf.io/k3p8s#ja</guid>
-    <pubDate>Fri, 22 May 2026 02:32:09 +0000</pubDate>
-    <description>Impact of AI on Human Expertise: Canaries in the Coalmine</description>
   </item>
 </channel>
 </rss>
