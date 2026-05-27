@@ -6,7 +6,42 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>恋愛カップルにおけるパーソナリティ特性のレベルと類似性が日常的相互作用および関係満足度に及ぼす影響：二者間日誌研究</title>
+    <title>意味のある人生と排斥感の間の疑わしい将来的効果：Zhangら（2026）へのコメント</title>
+    <link>https://osf.io/mcdnh</link>
+    <guid isPermaLink="false">https://osf.io/mcdnh#ja</guid>
+    <pubDate>Wed, 27 May 2026 13:59:17 +0000</pubDate>
+    <description>Questionable prospective effects between meaning in life and ostracism: A comment on Zhang et al. (2026)</description>
+  </item>
+  <item>
+    <title>英国バイオバンク（N=500,035）における外傷性脳損傷の社会人口学的および個人的リスク要因</title>
+    <link>https://osf.io/6zb9n</link>
+    <guid isPermaLink="false">https://osf.io/6zb9n#ja</guid>
+    <pubDate>Wed, 27 May 2026 13:59:16 +0000</pubDate>
+    <description>Sociodemographic and individual risk factors for traumatic brain injury in UK Biobank (N=500,035)</description>
+  </item>
+  <item>
+    <title>Multi-SimPsychometrican：ライトマップに基づく達成度テスト項目の補完による測定精度向上への大規模言語モデル活用</title>
+    <link>https://osf.io/rdp52</link>
+    <guid isPermaLink="false">https://osf.io/rdp52#ja</guid>
+    <pubDate>Wed, 27 May 2026 13:59:16 +0000</pubDate>
+    <description>Multi-SimPsychometrican: Using LLMs Supplement Achievement Test Items based on Wright Map to Improve Measurement Precision</description>
+  </item>
+  <item>
+    <title>ダウン症者における顔の反転が抑制過程に及ぼす影響</title>
+    <link>https://osf.io/s2cbe</link>
+    <guid isPermaLink="false">https://osf.io/s2cbe#ja</guid>
+    <pubDate>Wed, 27 May 2026 13:59:16 +0000</pubDate>
+    <description>Effect of face inversion on inhibition processes in people with Down syndrome</description>
+  </item>
+  <item>
+    <title>組織健康改善質問票コア版（OHIQ-Core）の経験的カットスコア設定：英国労働者集団における分割サンプル検証研究</title>
+    <link>https://osf.io/4q5gy</link>
+    <guid isPermaLink="false">https://osf.io/4q5gy#ja</guid>
+    <pubDate>Wed, 27 May 2026 13:59:16 +0000</pubDate>
+    <description>Empirically derived cut-scores for the Organisational Health Improvement Questionnaire-Core (OHIQ-Core): A split-sample validation study in a UK working population</description>
+  </item>
+  <item>
+    <title>恋愛カップルにおける人格特性のレベルと類似性が日常的相互作用および関係満足度に及ぼす影響：二者間日誌研究</title>
     <link>https://osf.io/6z3je</link>
     <guid isPermaLink="false">https://osf.io/6z3je#ja</guid>
     <pubDate>Tue, 26 May 2026 22:40:35 +0000</pubDate>
@@ -41,7 +76,7 @@
     <description>Complexity is a unified cognitive kind</description>
   </item>
   <item>
-    <title>高齢期うつ病における健康促進行動としての文化的関与：6つの加齢コホートからのエビデンス</title>
+    <title>高齢期うつ病における健康促進行動としての文化的関与：6つの加齢コホートからの証拠</title>
     <link>https://osf.io/ayfcv</link>
     <guid isPermaLink="false">https://osf.io/ayfcv#ja</guid>
     <pubDate>Tue, 26 May 2026 21:15:31 +0000</pubDate>
@@ -69,21 +104,21 @@
     <description>Perspective taking predicts acute psychiatric treatment trajectories</description>
   </item>
   <item>
-    <title>ニュース消費時の一時停止による反省が記憶における否定的バイアスを軽減する効果</title>
+    <title>ニュース消費中の一時停止による内省が記憶におけるネガティビティバイアスを軽減する効果</title>
     <link>https://osf.io/jsyeb</link>
     <guid isPermaLink="false">https://osf.io/jsyeb#ja</guid>
     <pubDate>Tue, 26 May 2026 17:35:41 +0000</pubDate>
     <description>Pausing to Reflect During News Consumption Counteracts Negativity Biases in Memory</description>
   </item>
   <item>
-    <title>児童期の複雑性トラウマと青年期の社会的希薄化：前向きコホート研究からの証拠</title>
+    <title>児童期の複雑性トラウマと青年期の社会的希薄化：前向きコホート研究による証拠</title>
     <link>https://osf.io/h46cu</link>
     <guid isPermaLink="false">https://osf.io/h46cu#ja</guid>
     <pubDate>Tue, 26 May 2026 14:15:40 +0000</pubDate>
     <description>Childhood complex trauma and social thinning in adolescence: evidence from a prospective cohort study</description>
   </item>
   <item>
-    <title>あいまいさと一貫性の欠如？メディア心理学と効果理論における課題とその解決策</title>
+    <title>あいまいさと一貫性の欠如：メディア心理学と効果理論の課題およびその解決策</title>
     <link>https://osf.io/hsk2v</link>
     <guid isPermaLink="false">https://osf.io/hsk2v#ja</guid>
     <pubDate>Tue, 26 May 2026 14:15:40 +0000</pubDate>
@@ -111,14 +146,14 @@
     <description>Alpha Oscillations Reflect Curiosity During Information-Seeking</description>
   </item>
   <item>
-    <title>自然的脅威下における感情と防衛行動の解離</title>
+    <title>自然的脅威下における感情と防御行動の解離</title>
     <link>https://osf.io/kxpjm</link>
     <guid isPermaLink="false">https://osf.io/kxpjm#ja</guid>
     <pubDate>Tue, 26 May 2026 14:15:39 +0000</pubDate>
     <description>Feelings and defensive actions are dissociated under naturalistic threat</description>
   </item>
   <item>
-    <title>メンタルヘルス自己管理における利益獲得フレーミングと非損失フレーミングの影響：調節焦点および精神健康悪化の知覚リスクの調整効果の検討</title>
+    <title>メンタルヘルス自己管理における利益獲得フレーミングと損失回避フレーミングの影響：調整焦点および精神健康悪化の知覚リスクの調整効果の検討</title>
     <link>https://osf.io/8eqj4</link>
     <guid isPermaLink="false">https://osf.io/8eqj4#ja</guid>
     <pubDate>Tue, 26 May 2026 14:15:38 +0000</pubDate>
@@ -160,7 +195,7 @@
     <description>Women Overinvest for the Public Good, But Only When They Must Act Alone</description>
   </item>
   <item>
-    <title>感覚運動適応における誤差処理の方向付けに及ぼす事前感覚調整の役割</title>
+    <title>感覚運動適応における誤差処理の方向付けにおける事前感覚調整の役割</title>
     <link>https://osf.io/8x7yg</link>
     <guid isPermaLink="false">https://osf.io/8x7yg#ja</guid>
     <pubDate>Sun, 24 May 2026 16:37:34 +0000</pubDate>
@@ -188,7 +223,7 @@
     <description>Effects of Virtual Reality Learning Contexts on Foreign Language Words Production Behavioral and EEG Evidence</description>
   </item>
   <item>
-    <title>パプア符号：西ニューギニアにおける全共同体的手話体系</title>
+    <title>パプアコード：西ニューギニアにおける全共同体的手話体系</title>
     <link>https://osf.io/35kpn</link>
     <guid isPermaLink="false">https://osf.io/35kpn#ja</guid>
     <pubDate>Fri, 22 May 2026 21:48:39 +0000</pubDate>
@@ -202,7 +237,7 @@
     <description>Built to Last: Online operant conditioning induces nocebo expectancies resistant to modification in chronic pain patients and pain-free participants</description>
   </item>
   <item>
-    <title>トーナメントチェスプレイヤーにおける認知機能の季節変動効果の検証</title>
+    <title>トーナメントチェス選手における認知機能の季節変動効果の検証</title>
     <link>https://osf.io/jy53u</link>
     <guid isPermaLink="false">https://osf.io/jy53u#ja</guid>
     <pubDate>Fri, 22 May 2026 19:10:08 +0000</pubDate>
@@ -244,7 +279,7 @@
     <description>International vaping and nicotine cessation services: A desk review</description>
   </item>
   <item>
-    <title>AI音声クローンの成功要因とは何か？三つの音声合成システムにおける韻律的・音響的証拠</title>
+    <title>AI音声クローンの成功要因とは何か？三つの音声合成システムにおける韻律的および音響的証拠</title>
     <link>https://osf.io/zcu3y</link>
     <guid isPermaLink="false">https://osf.io/zcu3y#ja</guid>
     <pubDate>Fri, 22 May 2026 19:10:06 +0000</pubDate>
@@ -279,14 +314,14 @@
     <description>Detecting Response Styles in Visual Analogue Scales</description>
   </item>
   <item>
-    <title>フィリップ・ティシエと病的放浪癖：運動依存研究の起源に関する歴史的考察</title>
+    <title>フィリップ・ティッシエと病的な放浪癖：運動依存研究の起源に関する歴史的考察</title>
     <link>https://osf.io/qsf5x</link>
     <guid isPermaLink="false">https://osf.io/qsf5x#ja</guid>
     <pubDate>Fri, 22 May 2026 09:58:37 +0000</pubDate>
     <description>Philippe Tissié and Pathological Wanderlust: A Historical Note on the Origin of Exercise Addiction Research</description>
   </item>
   <item>
-    <title>価値方向性に偏った更新が記憶に基づく感情評価に及ぼす異なる影響</title>
+    <title>価値方向性に偏った情報更新が記憶に基づく情動評価に及ぼす異なる影響</title>
     <link>https://osf.io/z8qsv</link>
     <guid isPermaLink="false">https://osf.io/z8qsv#ja</guid>
     <pubDate>Fri, 22 May 2026 09:58:37 +0000</pubDate>
@@ -307,7 +342,7 @@
     <description>When AI Feels like Human: Anthropomorphism, Loneliness, and Problematic Use of Chatbots among School Teachers in Poland</description>
   </item>
   <item>
-    <title>翻訳的リテラシーフレームワーク（TLF）：AI時代における学際的証拠評価とコミュニケーションの教育的構築</title>
+    <title>翻訳的リテラシーフレームワーク（TLF）：AI時代における学際的証拠評価とコミュニケーションのための教育的構造</title>
     <link>https://osf.io/5uefd</link>
     <guid isPermaLink="false">https://osf.io/5uefd#ja</guid>
     <pubDate>Fri, 22 May 2026 09:58:36 +0000</pubDate>
@@ -319,41 +354,6 @@
     <guid isPermaLink="false">https://osf.io/k3p8s#ja</guid>
     <pubDate>Fri, 22 May 2026 02:32:09 +0000</pubDate>
     <description>Impact of AI on Human Expertise: Canaries in the Coalmine</description>
-  </item>
-  <item>
-    <title>経験的研究の視点から見た4K：Albrechtら（2025）への応答</title>
-    <link>https://osf.io/fh2x4</link>
-    <guid isPermaLink="false">https://osf.io/fh2x4#ja</guid>
-    <pubDate>Thu, 21 May 2026 10:26:05 +0000</pubDate>
-    <description>Die 4K im Gewand empirischer Forschung: Eine Antwort auf Albrecht et al. (2025)</description>
-  </item>
-  <item>
-    <title>非道具的情報はリスク意思決定における賭け金の大きさに限定的な影響を与える</title>
-    <link>https://osf.io/r8edy</link>
-    <guid isPermaLink="false">https://osf.io/r8edy#ja</guid>
-    <pubDate>Thu, 21 May 2026 10:26:02 +0000</pubDate>
-    <description>Non-instrumental information has limited effects on bet size in risky decisions</description>
-  </item>
-  <item>
-    <title>感情の計算的本質：メタ推論とトランスフォーマーからの洞察</title>
-    <link>https://osf.io/m478p</link>
-    <guid isPermaLink="false">https://osf.io/m478p#ja</guid>
-    <pubDate>Wed, 20 May 2026 21:20:54 +0000</pubDate>
-    <description>On the computational nature of emotions: insights from metareasoning and transformers</description>
-  </item>
-  <item>
-    <title>（非）接続：オーストラリアにおける若者と親のソーシャルメディア禁止に対する期待の相違</title>
-    <link>https://osf.io/v78c4</link>
-    <guid isPermaLink="false">https://osf.io/v78c4#ja</guid>
-    <pubDate>Wed, 20 May 2026 21:20:53 +0000</pubDate>
-    <description>(Dis)Connected: Youth and Parental Expectations of Australia’s Social Media Ban</description>
-  </item>
-  <item>
-    <title>特性から瞬間へ：感情調整レパートリーが日々の情動体験に与える影響</title>
-    <link>https://osf.io/aextp</link>
-    <guid isPermaLink="false">https://osf.io/aextp#ja</guid>
-    <pubDate>Wed, 20 May 2026 21:20:53 +0000</pubDate>
-    <description>From Traits to Moments: How Emotion Regulation Repertoires Shape Daily Affective Experiences</description>
   </item>
 </channel>
 </rss>
