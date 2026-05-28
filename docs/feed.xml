@@ -6,6 +6,41 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>#チャットセーフ青少年参加モデル：自殺予防施策の設計における若者参加型ワークショップの評価</title>
+    <link>https://osf.io/qayu2</link>
+    <guid isPermaLink="false">https://osf.io/qayu2#ja</guid>
+    <pubDate>Thu, 28 May 2026 19:56:16 +0000</pubDate>
+    <description>The #chatsafe Youth Participation Model: evaluating participatory workshops involving young people in the design of suicide prevention initiatives</description>
+  </item>
+  <item>
+    <title>どのくらい頻繁に心が空白になるのか？経験サンプリング法における心の空白報告率の系統的レビューとベイズメタアナリシス</title>
+    <link>https://osf.io/4ah3j</link>
+    <guid isPermaLink="false">https://osf.io/4ah3j#ja</guid>
+    <pubDate>Thu, 28 May 2026 19:56:16 +0000</pubDate>
+    <description>How often do we blank? A systematic review and Bayesian meta-analysis of mind blanking report rates during experience-sampling</description>
+  </item>
+  <item>
+    <title>簡易的ストレス信念介入のパイロット無作為化対照試験：ストレス信念、知覚ストレス、感情および身体症状への影響</title>
+    <link>https://osf.io/xt9c4</link>
+    <guid isPermaLink="false">https://osf.io/xt9c4#ja</guid>
+    <pubDate>Thu, 28 May 2026 19:56:16 +0000</pubDate>
+    <description>A pilot randomized controlled trial of a brief stress belief intervention: Effects on stress beliefs, perceived stress, affect, and somatic symptoms</description>
+  </item>
+  <item>
+    <title>気候不正義感受性尺度の開発と検証</title>
+    <link>https://osf.io/wp7k4</link>
+    <guid isPermaLink="false">https://osf.io/wp7k4#ja</guid>
+    <pubDate>Thu, 28 May 2026 19:56:16 +0000</pubDate>
+    <description>Development and Validation of the Sensitivity to Climate Injustice Scale</description>
+  </item>
+  <item>
+    <title>知能・発達尺度2における潜在プロファイルとディスレクシアおよびADHDの分類との関連性</title>
+    <link>https://osf.io/mfxud</link>
+    <guid isPermaLink="false">https://osf.io/mfxud#ja</guid>
+    <pubDate>Thu, 28 May 2026 19:56:15 +0000</pubDate>
+    <description>Latent Profiles on the Intelligence and Development Scales – 2 and their Relationship with Classifications of Dyslexia and ADHD</description>
+  </item>
+  <item>
     <title>VR自己慈悲トレーニングのメカニズム解明：アクティブコントロールを用いた二回セッションの対照試験</title>
     <link>https://osf.io/n5ueb</link>
     <guid isPermaLink="false">https://osf.io/n5ueb#ja</guid>
@@ -41,14 +76,14 @@
     <description>Linking Stress to Games: Predicting Korean Adolescents’ Gaming Behaviors from Different Sources of Stress</description>
   </item>
   <item>
-    <title>格一致が言語産出に与える影響：バスク語・スペイン語同時バイリンガルの証拠</title>
+    <title>ケースアライメントが発話生成に与える影響：バスク語・スペイン語同時バイリンガルの証拠</title>
     <link>https://osf.io/8tgdz</link>
     <guid isPermaLink="false">https://osf.io/8tgdz#ja</guid>
     <pubDate>Wed, 27 May 2026 19:34:32 +0000</pubDate>
     <description>Case alignment shapes speech production: Evidence from simultaneous Basque-Spanish bilinguals</description>
   </item>
   <item>
-    <title>記憶からの所属予測</title>
+    <title>記憶からのメンバーシップ予測</title>
     <link>https://osf.io/qkdpw</link>
     <guid isPermaLink="false">https://osf.io/qkdpw#ja</guid>
     <pubDate>Wed, 27 May 2026 19:34:31 +0000</pubDate>
@@ -76,7 +111,7 @@
     <description>Multi-SimPsychometrican: Using LLMs Supplement Achievement Test Items based on Wright Map to Improve Measurement Precision</description>
   </item>
   <item>
-    <title>ダウン症者における顔の反転が抑制過程に及ぼす影響</title>
+    <title>ダウン症者における顔の逆さ提示が抑制過程に及ぼす影響</title>
     <link>https://osf.io/s2cbe</link>
     <guid isPermaLink="false">https://osf.io/s2cbe#ja</guid>
     <pubDate>Wed, 27 May 2026 13:59:16 +0000</pubDate>
@@ -90,14 +125,14 @@
     <description>Empirically derived cut-scores for the Organisational Health Improvement Questionnaire-Core (OHIQ-Core): A split-sample validation study in a UK working population</description>
   </item>
   <item>
-    <title>恋愛カップルにおける人格特性のレベルと類似性が日常的相互作用および関係満足度に及ぼす影響：二者間日誌研究</title>
+    <title>恋愛カップルにおけるパーソナリティ特性のレベルと類似性が日々の相互作用および関係満足度に及ぼす影響：二者間日誌研究</title>
     <link>https://osf.io/6z3je</link>
     <guid isPermaLink="false">https://osf.io/6z3je#ja</guid>
     <pubDate>Tue, 26 May 2026 22:40:35 +0000</pubDate>
     <description>Personality Trait Levels and Similarity as Predictors of Daily Interactions and Relationship Satisfaction in Romantic Couples: A Dyadic Daily Diary</description>
   </item>
   <item>
-    <title>短縮版音楽感情認識テスト（SMART）の開発</title>
+    <title>短縮版音楽感情認識検査（SMART）の開発</title>
     <link>https://osf.io/aub8n</link>
     <guid isPermaLink="false">https://osf.io/aub8n#ja</guid>
     <pubDate>Tue, 26 May 2026 21:15:32 +0000</pubDate>
@@ -139,7 +174,7 @@
     <description>The Development of Modal Cognition</description>
   </item>
   <item>
-    <title>ロリポップチャートにおけるバー先端制限誤差の検証：コンテナベース説明への異議</title>
+    <title>ロリポップチャートにおけるバー先端制限誤差の検証：コンテナベース説明への反証</title>
     <link>https://osf.io/gpnqx</link>
     <guid isPermaLink="false">https://osf.io/gpnqx#ja</guid>
     <pubDate>Tue, 26 May 2026 19:34:43 +0000</pubDate>
@@ -153,21 +188,21 @@
     <description>Perspective taking predicts acute psychiatric treatment trajectories</description>
   </item>
   <item>
-    <title>ニュース消費中の一時停止による内省が記憶における否定的バイアスを軽減する効果</title>
+    <title>ニュース消費中の一時停止による内省が記憶におけるネガティビティバイアスを軽減する効果</title>
     <link>https://osf.io/jsyeb</link>
     <guid isPermaLink="false">https://osf.io/jsyeb#ja</guid>
     <pubDate>Tue, 26 May 2026 17:35:41 +0000</pubDate>
     <description>Pausing to Reflect During News Consumption Counteracts Negativity Biases in Memory</description>
   </item>
   <item>
-    <title>児童期の複雑性トラウマと青年期の社会的希薄化：前向きコホート研究からの証拠</title>
+    <title>児童期の複雑性トラウマと青年期の社会的希薄化：前向きコホート研究による証拠</title>
     <link>https://osf.io/h46cu</link>
     <guid isPermaLink="false">https://osf.io/h46cu#ja</guid>
     <pubDate>Tue, 26 May 2026 14:15:40 +0000</pubDate>
     <description>Childhood complex trauma and social thinning in adolescence: evidence from a prospective cohort study</description>
   </item>
   <item>
-    <title>あいまいさと一貫性の欠如？メディア心理学と効果理論の課題およびその解決策の検討</title>
+    <title>あいまいさと一貫性の欠如：メディア心理学と効果理論の課題およびその解決策</title>
     <link>https://osf.io/hsk2v</link>
     <guid isPermaLink="false">https://osf.io/hsk2v#ja</guid>
     <pubDate>Tue, 26 May 2026 14:15:40 +0000</pubDate>
@@ -181,7 +216,7 @@
     <description>Impossibility and Logical Contradictions Can Enhance the Perceived Value of Fictional Theological Propositions</description>
   </item>
   <item>
-    <title>英語多語表現（MWE）の習得年齢：クラウドソーシングによる人間評価で微調整された大規模言語モデルからの推定</title>
+    <title>英語多語表現（MWE）の習得年齢：クラウドソーシングによる人間評価で微調整された大規模言語モデルによる推定</title>
     <link>https://osf.io/hnefs</link>
     <guid isPermaLink="false">https://osf.io/hnefs#ja</guid>
     <pubDate>Tue, 26 May 2026 14:15:39 +0000</pubDate>
@@ -202,7 +237,7 @@
     <description>Feelings and defensive actions are dissociated under naturalistic threat</description>
   </item>
   <item>
-    <title>メンタルヘルス自己管理における利益獲得フレーミングと非損失フレーミングの影響：調整焦点および精神健康悪化の知覚リスクの調整効果の検討</title>
+    <title>メンタルヘルス自己管理における利益獲得フレーミングと非損失フレーミングの影響：調整変数としての調整焦点および精神健康悪化の知覚リスクの検討</title>
     <link>https://osf.io/8eqj4</link>
     <guid isPermaLink="false">https://osf.io/8eqj4#ja</guid>
     <pubDate>Tue, 26 May 2026 14:15:38 +0000</pubDate>
@@ -230,7 +265,7 @@
     <description>Access Operations Reshape the Cognitive Structure of Working Memory</description>
   </item>
   <item>
-    <title>オンラインeカジノギャンブルにおけるセッション間追跡行動：セッション賭け金および継続時間の影響</title>
+    <title>オンラインeカジノギャンブルにおけるセッション間の追跡行動：セッション賭け金と継続時間の影響</title>
     <link>https://osf.io/v26gt</link>
     <guid isPermaLink="false">https://osf.io/v26gt#ja</guid>
     <pubDate>Tue, 26 May 2026 14:15:38 +0000</pubDate>
@@ -279,7 +314,7 @@
     <description>Kode Papua: An Omni-Communal Sign Language of Western New Guinea</description>
   </item>
   <item>
-    <title>持続する効果：慢性疼痛患者および疼痛非患者におけるオンラインオペラント条件付けが修正困難なノセボ期待を誘発する</title>
+    <title>持続する効果：オンラインオペラント条件付けが慢性疼痛患者および疼痛非患者における修正困難なノセボ期待を誘発する</title>
     <link>https://osf.io/prvkt</link>
     <guid isPermaLink="false">https://osf.io/prvkt#ja</guid>
     <pubDate>Fri, 22 May 2026 19:10:08 +0000</pubDate>
@@ -293,7 +328,7 @@
     <description>A test of seasonal effects on cognition in tournament chess players</description>
   </item>
   <item>
-    <title>私たちは何を記憶するか予測できるか：絵画の視覚記憶に関する検討</title>
+    <title>私たちは何を記憶するかを予測できるか：絵画の視覚記憶に関する検討</title>
     <link>https://osf.io/2tj5f</link>
     <guid isPermaLink="false">https://osf.io/2tj5f#ja</guid>
     <pubDate>Fri, 22 May 2026 19:10:07 +0000</pubDate>
@@ -319,41 +354,6 @@
     <guid isPermaLink="false">https://osf.io/suhpm#ja</guid>
     <pubDate>Fri, 22 May 2026 19:10:06 +0000</pubDate>
     <description>From social input to social attention: Parental mood predictability is related to the development of gaze cueing</description>
-  </item>
-  <item>
-    <title>国際的な電子タバコおよびニコチン離脱支援サービスの文献レビュー</title>
-    <link>https://osf.io/bwe7m</link>
-    <guid isPermaLink="false">https://osf.io/bwe7m#ja</guid>
-    <pubDate>Fri, 22 May 2026 19:10:06 +0000</pubDate>
-    <description>International vaping and nicotine cessation services: A desk review</description>
-  </item>
-  <item>
-    <title>AI音声クローンの成功要因とは何か？三つの音声合成システムにおける韻律的および音響的証拠</title>
-    <link>https://osf.io/zcu3y</link>
-    <guid isPermaLink="false">https://osf.io/zcu3y#ja</guid>
-    <pubDate>Fri, 22 May 2026 19:10:06 +0000</pubDate>
-    <description>What determines the success of AI voice-cloned speech? Prosodic and acoustic evidence on three TTS systems</description>
-  </item>
-  <item>
-    <title>音声学習中の基底核ニューロンにおける自己歌唱と指導歌の二重表象</title>
-    <link>https://osf.io/vckag</link>
-    <guid isPermaLink="false">https://osf.io/vckag#ja</guid>
-    <pubDate>Fri, 22 May 2026 19:10:05 +0000</pubDate>
-    <description>Dual representation of self and tutor song in basal ganglia neurons during vocal learning</description>
-  </item>
-  <item>
-    <title>課題誘発瞳孔反応における加齢差の考慮</title>
-    <link>https://osf.io/d65tf</link>
-    <guid isPermaLink="false">https://osf.io/d65tf#ja</guid>
-    <pubDate>Fri, 22 May 2026 19:10:04 +0000</pubDate>
-    <description>Accounting for age-related differences in the task-evoked pupil response</description>
-  </item>
-  <item>
-    <title>良質な教育アプリが教室で失敗または成功する要因とは？教育アプリ統合のための教師支援フレームワーク（TSF-Apps）</title>
-    <link>https://osf.io/qay3z</link>
-    <guid isPermaLink="false">https://osf.io/qay3z#ja</guid>
-    <pubDate>Fri, 22 May 2026 09:58:37 +0000</pubDate>
-    <description>What Makes Good Apps Fail or Succeed in the Classroom? The Teacher Support Framework for Integrating Educational Apps (TSF-Apps)</description>
   </item>
 </channel>
 </rss>
