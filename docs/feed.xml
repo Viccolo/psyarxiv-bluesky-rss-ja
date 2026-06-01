@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>視覚野における社会的相互作用の領域</title>
+    <title>視覚皮質における社会的相互作用の領域</title>
     <link>https://osf.io/5pkyt</link>
     <guid isPermaLink="false">https://osf.io/5pkyt#ja</guid>
     <pubDate>Fri, 29 May 2026 17:56:36 +0000</pubDate>
@@ -27,7 +27,7 @@
     <description>Predictors of parental attitudes toward Frisian:  A comparative study from Nordfriesland and Fryslân</description>
   </item>
   <item>
-    <title>稼ぎ手ストレス尺度の構築と検証：役割特有の提供者ストレスを測定する短縮版尺度</title>
+    <title>稼ぎ手ストレス尺度の構築と検証：役割特有の提供者ストレスの短縮測定法</title>
     <link>https://osf.io/7d9nk</link>
     <guid isPermaLink="false">https://osf.io/7d9nk#ja</guid>
     <pubDate>Fri, 29 May 2026 17:56:36 +0000</pubDate>
@@ -55,7 +55,7 @@
     <description>The Emergence of Multisensory Integration in the Prenatal Brain</description>
   </item>
   <item>
-    <title>早産児の就学前期における対面相互作用中の典型的な顔貌と視線</title>
+    <title>早産児の就学前児における対面相互作用中の典型的な顔貌と視線</title>
     <link>https://osf.io/mnwgh</link>
     <guid isPermaLink="false">https://osf.io/mnwgh#ja</guid>
     <pubDate>Fri, 29 May 2026 17:56:34 +0000</pubDate>
@@ -69,7 +69,7 @@
     <description>Temporal Coupling Between Linguistic Arousal and Heart Rate Variability During Emotional Sharing</description>
   </item>
   <item>
-    <title>乳児期のスクリーン曝露と8歳時のメディア使用との関連：縦断的研究</title>
+    <title>乳児期のスクリーン視聴と8歳時のメディア使用に関する縦断的研究</title>
     <link>https://osf.io/xaytk</link>
     <guid isPermaLink="false">https://osf.io/xaytk#ja</guid>
     <pubDate>Fri, 29 May 2026 08:32:33 +0000</pubDate>
@@ -90,21 +90,21 @@
     <description>A Systematic Review of Empirical Intraverbal Research: 2021–2025</description>
   </item>
   <item>
-    <title>#chatsafeユース参加モデル：若者を対象とした自殺予防施策設計における参加型ワークショップの評価</title>
+    <title>#chatsafeユース参加モデル：若者を対象とした自殺予防施策の設計における参加型ワークショップの評価</title>
     <link>https://osf.io/qayu2</link>
     <guid isPermaLink="false">https://osf.io/qayu2#ja</guid>
     <pubDate>Thu, 28 May 2026 19:56:16 +0000</pubDate>
     <description>The #chatsafe Youth Participation Model: evaluating participatory workshops involving young people in the design of suicide prevention initiatives</description>
   </item>
   <item>
-    <title>どの程度頻繁に心が空白になるのか？経験サンプリング法における心の空白報告率の系統的レビューとベイズメタ分析</title>
+    <title>どのくらい頻繁に心が空白になるのか？経験サンプリング法における心の空白報告率の系統的レビューとベイズメタアナリシス</title>
     <link>https://osf.io/4ah3j</link>
     <guid isPermaLink="false">https://osf.io/4ah3j#ja</guid>
     <pubDate>Thu, 28 May 2026 19:56:16 +0000</pubDate>
     <description>How often do we blank? A systematic review and Bayesian meta-analysis of mind blanking report rates during experience-sampling</description>
   </item>
   <item>
-    <title>簡易的ストレス信念介入のパイロット無作為化比較試験：ストレス信念、知覚ストレス、情動および身体症状への影響</title>
+    <title>簡易的ストレス信念介入のパイロット無作為化対照試験：ストレス信念、知覚ストレス、情動および身体症状への影響</title>
     <link>https://osf.io/xt9c4</link>
     <guid isPermaLink="false">https://osf.io/xt9c4#ja</guid>
     <pubDate>Thu, 28 May 2026 19:56:16 +0000</pubDate>
@@ -160,7 +160,7 @@
     <description>Linking Stress to Games: Predicting Korean Adolescents’ Gaming Behaviors from Different Sources of Stress</description>
   </item>
   <item>
-    <title>格一致が発話生成に与える影響：バスク語・スペイン語同時バイリンガルの証拠</title>
+    <title>ケースアライメントが発話生成に与える影響：バスク語・スペイン語同時バイリンガルの証拠</title>
     <link>https://osf.io/8tgdz</link>
     <guid isPermaLink="false">https://osf.io/8tgdz#ja</guid>
     <pubDate>Wed, 27 May 2026 19:34:32 +0000</pubDate>
@@ -188,7 +188,7 @@
     <description>Sociodemographic and individual risk factors for traumatic brain injury in UK Biobank (N=500,035)</description>
   </item>
   <item>
-    <title>Multi-SimPsychometrican：ライトマップに基づく達成度テスト項目の補完による測定精度向上のための大規模言語モデル活用</title>
+    <title>Multi-SimPsychometrican：ライトマップに基づく達成度テスト項目の補完による測定精度向上への大規模言語モデル活用</title>
     <link>https://osf.io/rdp52</link>
     <guid isPermaLink="false">https://osf.io/rdp52#ja</guid>
     <pubDate>Wed, 27 May 2026 13:59:16 +0000</pubDate>
@@ -216,7 +216,7 @@
     <description>Personality Trait Levels and Similarity as Predictors of Daily Interactions and Relationship Satisfaction in Romantic Couples: A Dyadic Daily Diary</description>
   </item>
   <item>
-    <title>短縮版音楽感情認識テスト（SMART）の開発</title>
+    <title>短縮版音楽感情認識検査（SMART）の開発</title>
     <link>https://osf.io/aub8n</link>
     <guid isPermaLink="false">https://osf.io/aub8n#ja</guid>
     <pubDate>Tue, 26 May 2026 21:15:32 +0000</pubDate>
@@ -258,7 +258,7 @@
     <description>The Development of Modal Cognition</description>
   </item>
   <item>
-    <title>ロリポップチャートにおけるバー先端制限エラーの検証：コンテナベース説明への反証</title>
+    <title>ロリポップチャートにおけるバー先端制限誤差の検証：コンテナベース説明への反証</title>
     <link>https://osf.io/gpnqx</link>
     <guid isPermaLink="false">https://osf.io/gpnqx#ja</guid>
     <pubDate>Tue, 26 May 2026 19:34:43 +0000</pubDate>
@@ -272,21 +272,21 @@
     <description>Perspective taking predicts acute psychiatric treatment trajectories</description>
   </item>
   <item>
-    <title>ニュース消費中の一時停止による内省が記憶における否定的バイアスを軽減する効果</title>
+    <title>ニュース消費中の一時停止による内省が記憶におけるネガティビティバイアスを軽減する効果</title>
     <link>https://osf.io/jsyeb</link>
     <guid isPermaLink="false">https://osf.io/jsyeb#ja</guid>
     <pubDate>Tue, 26 May 2026 17:35:41 +0000</pubDate>
     <description>Pausing to Reflect During News Consumption Counteracts Negativity Biases in Memory</description>
   </item>
   <item>
-    <title>児童期複雑性トラウマと青年期の社会的希薄化：前向きコホート研究からの証拠</title>
+    <title>児童期の複雑性トラウマと青年期の社会的希薄化：前向きコホート研究からの証拠</title>
     <link>https://osf.io/h46cu</link>
     <guid isPermaLink="false">https://osf.io/h46cu#ja</guid>
     <pubDate>Tue, 26 May 2026 14:15:40 +0000</pubDate>
     <description>Childhood complex trauma and social thinning in adolescence: evidence from a prospective cohort study</description>
   </item>
   <item>
-    <title>あいまいさと一貫性の欠如？メディア心理学と効果理論の課題およびその解決策の検討</title>
+    <title>あいまいさと一貫性の欠如？メディア心理学と効果理論における課題とその解決策</title>
     <link>https://osf.io/hsk2v</link>
     <guid isPermaLink="false">https://osf.io/hsk2v#ja</guid>
     <pubDate>Tue, 26 May 2026 14:15:40 +0000</pubDate>
@@ -321,7 +321,7 @@
     <description>Feelings and defensive actions are dissociated under naturalistic threat</description>
   </item>
   <item>
-    <title>メンタルヘルス自己管理における利益フレーミングと非損失フレーミングの影響：調整焦点および精神健康悪化の知覚リスクの調整効果の検討</title>
+    <title>メンタルヘルス自己管理における利益獲得フレーミングと非損失フレーミングの影響：調整焦点および精神健康悪化の知覚リスクの調整効果の検討</title>
     <link>https://osf.io/8eqj4</link>
     <guid isPermaLink="false">https://osf.io/8eqj4#ja</guid>
     <pubDate>Tue, 26 May 2026 14:15:38 +0000</pubDate>
@@ -335,14 +335,14 @@
     <description>Structure before content. Testing the Psychogeometric Hypothesis of Personality</description>
   </item>
   <item>
-    <title>経皮的迷走神経刺激の耐容性とアルファ／シータ脳波比：情動調節に関連する対照パイロット研究</title>
+    <title>経皮的迷走神経刺激の忍容性とアルファ／シータ脳波比：情動調節に関連する対照パイロット研究</title>
     <link>https://osf.io/3457h</link>
     <guid isPermaLink="false">https://osf.io/3457h#ja</guid>
     <pubDate>Tue, 26 May 2026 14:15:38 +0000</pubDate>
     <description>Transcutaneous Vagus Nerve Stimulation, Tolerability, and the Alpha / Theta EEG Ratio: A Controlled Pilot Study Relevant to Emotion Regulation</description>
   </item>
   <item>
-    <title>アクセス操作が作業記憶の認知構造を再構築する</title>
+    <title>アクセス操作は作業記憶の認知構造を再構築する</title>
     <link>https://osf.io/4vhyt</link>
     <guid isPermaLink="false">https://osf.io/4vhyt#ja</guid>
     <pubDate>Tue, 26 May 2026 14:15:38 +0000</pubDate>
