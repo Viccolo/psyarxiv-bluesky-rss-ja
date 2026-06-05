@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>視覚皮質における社会的相互作用の領域</title>
+    <title>視覚野における社会的相互作用の領域</title>
     <link>https://osf.io/5pkyt</link>
     <guid isPermaLink="false">https://osf.io/5pkyt#ja</guid>
     <pubDate>Fri, 29 May 2026 17:56:36 +0000</pubDate>
@@ -55,7 +55,7 @@
     <description>The Emergence of Multisensory Integration in the Prenatal Brain</description>
   </item>
   <item>
-    <title>早産児の就学前児における対面相互作用時の典型的な顔表情と視線</title>
+    <title>早産児の就学前児における対面相互作用中の典型的な顔貌と視線</title>
     <link>https://osf.io/mnwgh</link>
     <guid isPermaLink="false">https://osf.io/mnwgh#ja</guid>
     <pubDate>Fri, 29 May 2026 17:56:34 +0000</pubDate>
@@ -90,21 +90,21 @@
     <description>A Systematic Review of Empirical Intraverbal Research: 2021–2025</description>
   </item>
   <item>
-    <title>#チャットセーフ青少年参加モデル：自殺予防施策の設計における若者参加型ワークショップの評価</title>
+    <title>#chatsafe若者参加モデル：自殺予防施策の設計における若者参加型ワークショップの評価</title>
     <link>https://osf.io/qayu2</link>
     <guid isPermaLink="false">https://osf.io/qayu2#ja</guid>
     <pubDate>Thu, 28 May 2026 19:56:16 +0000</pubDate>
     <description>The #chatsafe Youth Participation Model: evaluating participatory workshops involving young people in the design of suicide prevention initiatives</description>
   </item>
   <item>
-    <title>どのくらい頻繁に心が空白になるのか？経験サンプリング法における心の空白報告率の系統的レビューとベイズメタアナリシス</title>
+    <title>どのくらい頻繁に心が空白になるのか？経験サンプリング法における心の空白報告率の系統的レビューとベイズメタ分析</title>
     <link>https://osf.io/4ah3j</link>
     <guid isPermaLink="false">https://osf.io/4ah3j#ja</guid>
     <pubDate>Thu, 28 May 2026 19:56:16 +0000</pubDate>
     <description>How often do we blank? A systematic review and Bayesian meta-analysis of mind blanking report rates during experience-sampling</description>
   </item>
   <item>
-    <title>簡易的ストレス信念介入のパイロット無作為化対照試験：ストレス信念、知覚ストレス、感情および身体症状への影響</title>
+    <title>簡易的ストレス信念介入のパイロット無作為化対照試験：ストレス信念、知覚ストレス、情動および身体症状への影響</title>
     <link>https://osf.io/xt9c4</link>
     <guid isPermaLink="false">https://osf.io/xt9c4#ja</guid>
     <pubDate>Thu, 28 May 2026 19:56:16 +0000</pubDate>
@@ -118,7 +118,7 @@
     <description>Development and Validation of the Sensitivity to Climate Injustice Scale</description>
   </item>
   <item>
-    <title>知能発達尺度－2における潜在プロファイルと失読症およびADHDの分類との関連性</title>
+    <title>知能発達尺度－2における潜在プロファイルとディスレクシアおよびADHDの分類との関連性</title>
     <link>https://osf.io/mfxud</link>
     <guid isPermaLink="false">https://osf.io/mfxud#ja</guid>
     <pubDate>Thu, 28 May 2026 19:56:15 +0000</pubDate>
@@ -160,7 +160,7 @@
     <description>Linking Stress to Games: Predicting Korean Adolescents’ Gaming Behaviors from Different Sources of Stress</description>
   </item>
   <item>
-    <title>格一致が発話生成に与える影響：バスク語・スペイン語同時バイリンガルの証拠</title>
+    <title>ケースアライメントが発話生成に与える影響：バスク語・スペイン語同時バイリンガルの証拠</title>
     <link>https://osf.io/8tgdz</link>
     <guid isPermaLink="false">https://osf.io/8tgdz#ja</guid>
     <pubDate>Wed, 27 May 2026 19:34:32 +0000</pubDate>
@@ -188,7 +188,7 @@
     <description>Sociodemographic and individual risk factors for traumatic brain injury in UK Biobank (N=500,035)</description>
   </item>
   <item>
-    <title>Multi-SimPsychometrican：ライトマップに基づく達成度テスト項目の補完による測定精度向上のための大規模言語モデル活用</title>
+    <title>マルチシムサイコメトリカン：ライトマップに基づく達成度テスト項目の補完による測定精度向上への大規模言語モデル活用</title>
     <link>https://osf.io/rdp52</link>
     <guid isPermaLink="false">https://osf.io/rdp52#ja</guid>
     <pubDate>Wed, 27 May 2026 13:59:16 +0000</pubDate>
@@ -209,7 +209,7 @@
     <description>Empirically derived cut-scores for the Organisational Health Improvement Questionnaire-Core (OHIQ-Core): A split-sample validation study in a UK working population</description>
   </item>
   <item>
-    <title>恋愛カップルにおける性格特性のレベルと類似性が日常的相互作用および関係満足度に及ぼす影響：二者間日誌研究</title>
+    <title>恋愛カップルにおける人格特性のレベルと類似性が日常的相互作用および関係満足度に及ぼす影響：二者間日誌研究</title>
     <link>https://osf.io/6z3je</link>
     <guid isPermaLink="false">https://osf.io/6z3je#ja</guid>
     <pubDate>Tue, 26 May 2026 22:40:35 +0000</pubDate>
@@ -258,7 +258,7 @@
     <description>The Development of Modal Cognition</description>
   </item>
   <item>
-    <title>ロリポップチャートにおけるバー先端制限誤差の検証：コンテナベース説明への反証</title>
+    <title>ロリポップチャートにおけるバー先端制限誤差の検証：コンテナベース説明への異議</title>
     <link>https://osf.io/gpnqx</link>
     <guid isPermaLink="false">https://osf.io/gpnqx#ja</guid>
     <pubDate>Tue, 26 May 2026 19:34:43 +0000</pubDate>
@@ -293,7 +293,7 @@
     <description>Too Imprecise and Too Inconsistent? Challenges for Media Psychology and Effects Theorizing – and Possible Solutions</description>
   </item>
   <item>
-    <title>不可能性と論理的矛盾が架空の神学的命題の知覚価値を高める可能性</title>
+    <title>不可能性と論理的矛盾が架空の神学的命題の知覚価値を高める可能性について</title>
     <link>https://osf.io/4fzkc</link>
     <guid isPermaLink="false">https://osf.io/4fzkc#ja</guid>
     <pubDate>Tue, 26 May 2026 14:15:39 +0000</pubDate>
@@ -321,7 +321,7 @@
     <description>Feelings and defensive actions are dissociated under naturalistic threat</description>
   </item>
   <item>
-    <title>メンタルヘルス自己管理における利益獲得フレーミングと損失回避フレーミングの影響：調整焦点および精神健康悪化の知覚リスクの調整効果の検討</title>
+    <title>メンタルヘルス自己管理における利益獲得フレーミングと損失回避フレーミングの影響：調節焦点および精神健康悪化の知覚リスクの調整効果の検討</title>
     <link>https://osf.io/8eqj4</link>
     <guid isPermaLink="false">https://osf.io/8eqj4#ja</guid>
     <pubDate>Tue, 26 May 2026 14:15:38 +0000</pubDate>
@@ -342,14 +342,14 @@
     <description>Transcutaneous Vagus Nerve Stimulation, Tolerability, and the Alpha / Theta EEG Ratio: A Controlled Pilot Study Relevant to Emotion Regulation</description>
   </item>
   <item>
-    <title>アクセス操作が作業記憶の認知構造を再構築する</title>
+    <title>アクセス操作は作業記憶の認知構造を再形成する</title>
     <link>https://osf.io/4vhyt</link>
     <guid isPermaLink="false">https://osf.io/4vhyt#ja</guid>
     <pubDate>Tue, 26 May 2026 14:15:38 +0000</pubDate>
     <description>Access Operations Reshape the Cognitive Structure of Working Memory</description>
   </item>
   <item>
-    <title>オンラインeカジノギャンブルにおけるセッション間追跡行動：セッション賭け金と継続時間の影響</title>
+    <title>オンラインeカジノギャンブルにおけるセッション間の追跡行動：セッション賭け金および継続時間の影響</title>
     <link>https://osf.io/v26gt</link>
     <guid isPermaLink="false">https://osf.io/v26gt#ja</guid>
     <pubDate>Tue, 26 May 2026 14:15:38 +0000</pubDate>
