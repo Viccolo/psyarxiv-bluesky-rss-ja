@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>ナイジェリア青少年の環境変動と試験ストレス：地域コミュニティ支援構造の緩和効果</title>
+    <title>ナイジェリア青少年の環境変動と試験ストレス：地域コミュニティ支援構造の緩衝効果</title>
     <link>https://osf.io/3d68f</link>
     <guid isPermaLink="false">https://osf.io/3d68f#ja</guid>
     <pubDate>Sat, 06 Jun 2026 20:04:33 +0000</pubDate>
@@ -20,14 +20,14 @@
     <description>Silent and Underestimated Climate Change Concern Without Behavioural Backlash: Findings From a Representative Dutch Survey on Climate Change Communication</description>
   </item>
   <item>
-    <title>実行されなかった行動に関する虚偽記憶の形成：計画されたが取られなかった道筋</title>
+    <title>実行されなかった行動に関する虚偽記憶の形成：計画されたが選択されなかった経路</title>
     <link>https://osf.io/kas3f</link>
     <guid isPermaLink="false">https://osf.io/kas3f#ja</guid>
     <pubDate>Sat, 06 Jun 2026 18:50:31 +0000</pubDate>
     <description>Planning paths not taken: False memories for unexecuted actions</description>
   </item>
   <item>
-    <title>対象知覚は相互に排他的な可能性を符号化する</title>
+    <title>対象知覚は相互排他的な可能性を符号化する</title>
     <link>https://osf.io/5g64u</link>
     <guid isPermaLink="false">https://osf.io/5g64u#ja</guid>
     <pubDate>Sat, 06 Jun 2026 18:50:31 +0000</pubDate>
@@ -55,14 +55,14 @@
     <description>A test of the digital Give-a-Number task</description>
   </item>
   <item>
-    <title>アメリカ青少年のオンライン被害体験の測定：全国代表性調査による検討</title>
+    <title>アメリカ青少年のオンライン被害体験の測定：全国代表性調査</title>
     <link>https://osf.io/hksru</link>
     <guid isPermaLink="false">https://osf.io/hksru#ja</guid>
     <pubDate>Sat, 06 Jun 2026 17:35:29 +0000</pubDate>
     <description>Measurement of American adolescents’ experiences of online harms: A nationally representative survey</description>
   </item>
   <item>
-    <title>教師の技術活用の変遷：大規模・縦断的・国際パネル調査からの証拠</title>
+    <title>教師の技術活用の変遷：大規模かつ国際的な縦断パネル調査からの証拠</title>
     <link>https://osf.io/uecdk</link>
     <guid isPermaLink="false">https://osf.io/uecdk#ja</guid>
     <pubDate>Sat, 06 Jun 2026 17:35:29 +0000</pubDate>
@@ -97,7 +97,7 @@
     <description>Construction and Validation of the Breadwinner Strain Scale: A Short Measure of Role-Specific Provider Stress</description>
   </item>
   <item>
-    <title>自己申告による思春期のソーシャルメディア依存に関連する多様な行動・情動プロファイル</title>
+    <title>思春期における自己報告によるソーシャルメディア依存と関連する多様な行動・情動プロファイル</title>
     <link>https://osf.io/crxqp</link>
     <guid isPermaLink="false">https://osf.io/crxqp#ja</guid>
     <pubDate>Fri, 29 May 2026 17:56:35 +0000</pubDate>
@@ -118,7 +118,7 @@
     <description>The Emergence of Multisensory Integration in the Prenatal Brain</description>
   </item>
   <item>
-    <title>早産児の就学前児における対面相互作用時の典型的な顔貌と視線</title>
+    <title>早産児の就学前児における対面相互作用中の典型的な顔表情と視線</title>
     <link>https://osf.io/mnwgh</link>
     <guid isPermaLink="false">https://osf.io/mnwgh#ja</guid>
     <pubDate>Fri, 29 May 2026 17:56:34 +0000</pubDate>
@@ -132,21 +132,21 @@
     <description>Temporal Coupling Between Linguistic Arousal and Heart Rate Variability During Emotional Sharing</description>
   </item>
   <item>
-    <title>乳児期のスクリーン曝露と8歳時のメディア使用との関連：縦断的研究</title>
+    <title>乳児期のスクリーン曝露と8歳時のメディア使用に関する縦断的研究</title>
     <link>https://osf.io/xaytk</link>
     <guid isPermaLink="false">https://osf.io/xaytk#ja</guid>
     <pubDate>Fri, 29 May 2026 08:32:33 +0000</pubDate>
     <description>Associations Between Infant Screen Exposure and Media Use at Age 8 Years: Longitudinal Study</description>
   </item>
   <item>
-    <title>成功マインドセット：心理的成功の鍵</title>
+    <title>成功マインドセット：心の力</title>
     <link>https://osf.io/p628q</link>
     <guid isPermaLink="false">https://osf.io/p628q#ja</guid>
     <pubDate>Fri, 29 May 2026 04:46:04 +0000</pubDate>
     <description>Te Hinengaro Angitu: The Success Mindset</description>
   </item>
   <item>
-    <title>経験的イントラバーバル研究の系統的レビュー：2021年から2025年まで</title>
+    <title>経験的イントラバーバル研究の体系的レビュー：2021年から2025年まで</title>
     <link>https://osf.io/b2vax</link>
     <guid isPermaLink="false">https://osf.io/b2vax#ja</guid>
     <pubDate>Thu, 28 May 2026 21:51:15 +0000</pubDate>
@@ -160,14 +160,14 @@
     <description>The #chatsafe Youth Participation Model: evaluating participatory workshops involving young people in the design of suicide prevention initiatives</description>
   </item>
   <item>
-    <title>私たちはどのくらい「心の空白」を経験するのか？経験サンプリング法における心の空白報告率の系統的レビューとベイズメタ分析</title>
+    <title>私たちはどのくらい頻繁に心が空白になるのか？経験サンプリング中の心の空白報告率に関する系統的レビューとベイズメタ分析</title>
     <link>https://osf.io/4ah3j</link>
     <guid isPermaLink="false">https://osf.io/4ah3j#ja</guid>
     <pubDate>Thu, 28 May 2026 19:56:16 +0000</pubDate>
     <description>How often do we blank? A systematic review and Bayesian meta-analysis of mind blanking report rates during experience-sampling</description>
   </item>
   <item>
-    <title>簡易的ストレス信念介入のパイロット無作為化比較試験：ストレス信念、知覚ストレス、情動および身体症状への影響</title>
+    <title>簡易的ストレス信念介入のパイロット無作為化対照試験：ストレス信念、知覚ストレス、情動および身体症状への影響</title>
     <link>https://osf.io/xt9c4</link>
     <guid isPermaLink="false">https://osf.io/xt9c4#ja</guid>
     <pubDate>Thu, 28 May 2026 19:56:16 +0000</pubDate>
@@ -181,7 +181,7 @@
     <description>Development and Validation of the Sensitivity to Climate Injustice Scale</description>
   </item>
   <item>
-    <title>知能発達尺度－2における潜在プロファイルとディスレクシアおよびADHDの分類との関連性</title>
+    <title>知能発達尺度2における潜在プロファイルとディスレクシアおよびADHDの分類との関連性</title>
     <link>https://osf.io/mfxud</link>
     <guid isPermaLink="false">https://osf.io/mfxud#ja</guid>
     <pubDate>Thu, 28 May 2026 19:56:15 +0000</pubDate>
@@ -251,7 +251,7 @@
     <description>Sociodemographic and individual risk factors for traumatic brain injury in UK Biobank (N=500,035)</description>
   </item>
   <item>
-    <title>Multi-SimPsychometrican：ライトマップに基づく達成度テスト項目の補完による測定精度向上のための大規模言語モデル活用法</title>
+    <title>Multi-SimPsychometrican：ライトマップに基づく達成度テスト項目の補完による測定精度向上への大規模言語モデル活用</title>
     <link>https://osf.io/rdp52</link>
     <guid isPermaLink="false">https://osf.io/rdp52#ja</guid>
     <pubDate>Wed, 27 May 2026 13:59:16 +0000</pubDate>
@@ -272,7 +272,7 @@
     <description>Empirically derived cut-scores for the Organisational Health Improvement Questionnaire-Core (OHIQ-Core): A split-sample validation study in a UK working population</description>
   </item>
   <item>
-    <title>恋愛カップルにおける性格特性のレベルと類似性が日常的相互作用および関係満足度に及ぼす影響：二者間日誌研究</title>
+    <title>恋愛カップルにおける人格特性のレベルと類似性が日々の交流および関係満足度の予測因子として果たす役割：二者間日誌研究</title>
     <link>https://osf.io/6z3je</link>
     <guid isPermaLink="false">https://osf.io/6z3je#ja</guid>
     <pubDate>Tue, 26 May 2026 22:40:35 +0000</pubDate>
@@ -321,7 +321,7 @@
     <description>The Development of Modal Cognition</description>
   </item>
   <item>
-    <title>ロリポップチャートにおけるバー先端制限誤差の検証：コンテナベース説明への反証</title>
+    <title>ロリポップチャートにおけるバー先端制限誤差の検証：コンテナベース説明への異議</title>
     <link>https://osf.io/gpnqx</link>
     <guid isPermaLink="false">https://osf.io/gpnqx#ja</guid>
     <pubDate>Tue, 26 May 2026 19:34:43 +0000</pubDate>
