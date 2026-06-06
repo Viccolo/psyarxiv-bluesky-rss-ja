@@ -6,6 +6,34 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>行動的反発を伴わない沈黙かつ過小評価された気候変動への関心：オランダ代表的調査に基づく気候変動コミュニケーションの知見</title>
+    <link>https://osf.io/czu9f</link>
+    <guid isPermaLink="false">https://osf.io/czu9f#ja</guid>
+    <pubDate>Sat, 06 Jun 2026 18:50:31 +0000</pubDate>
+    <description>Silent and Underestimated Climate Change Concern Without Behavioural Backlash: Findings From a Representative Dutch Survey on Climate Change Communication</description>
+  </item>
+  <item>
+    <title>実行されなかった行動に関する虚偽記憶の形成：計画されたが取られなかった経路</title>
+    <link>https://osf.io/kas3f</link>
+    <guid isPermaLink="false">https://osf.io/kas3f#ja</guid>
+    <pubDate>Sat, 06 Jun 2026 18:50:31 +0000</pubDate>
+    <description>Planning paths not taken: False memories for unexecuted actions</description>
+  </item>
+  <item>
+    <title>対象知覚は相互に排他的な可能性を符号化する</title>
+    <link>https://osf.io/5g64u</link>
+    <guid isPermaLink="false">https://osf.io/5g64u#ja</guid>
+    <pubDate>Sat, 06 Jun 2026 18:50:31 +0000</pubDate>
+    <description>Object perception encodes mutually exclusive possibilities</description>
+  </item>
+  <item>
+    <title>外国語訛りの運動基盤？言語的文脈が第二言語の発話運動計画の一般化を制約する</title>
+    <link>https://osf.io/y6bqg</link>
+    <guid isPermaLink="false">https://osf.io/y6bqg#ja</guid>
+    <pubDate>Sat, 06 Jun 2026 18:50:30 +0000</pubDate>
+    <description>A motor basis for a foreign accent?  Linguistic context constrains the generalization of second language speech motor plans</description>
+  </item>
+  <item>
     <title>ユーモア：芸術と美学の心理学における愉快な側面</title>
     <link>https://osf.io/xp7nr</link>
     <guid isPermaLink="false">https://osf.io/xp7nr#ja</guid>
@@ -13,21 +41,21 @@
     <description>Humor: The Amusing Side of the Psychology of Art and Aesthetics</description>
   </item>
   <item>
-    <title>デジタル数値付与課題の検証</title>
+    <title>デジタル数値提示課題の検証</title>
     <link>https://osf.io/5xstq</link>
     <guid isPermaLink="false">https://osf.io/5xstq#ja</guid>
     <pubDate>Sat, 06 Jun 2026 17:35:29 +0000</pubDate>
     <description>A test of the digital Give-a-Number task</description>
   </item>
   <item>
-    <title>アメリカ青少年のオンライン被害体験の測定：全国代表サンプル調査</title>
+    <title>アメリカ青少年のオンライン被害体験の測定：全国代表性調査による検討</title>
     <link>https://osf.io/hksru</link>
     <guid isPermaLink="false">https://osf.io/hksru#ja</guid>
     <pubDate>Sat, 06 Jun 2026 17:35:29 +0000</pubDate>
     <description>Measurement of American adolescents’ experiences of online harms: A nationally representative survey</description>
   </item>
   <item>
-    <title>教員の技術活用の変遷：大規模かつ国際的な縦断パネル調査からの証拠</title>
+    <title>教師の技術活用の変遷：大規模かつ縦断的な国際パネル調査からの証拠</title>
     <link>https://osf.io/uecdk</link>
     <guid isPermaLink="false">https://osf.io/uecdk#ja</guid>
     <pubDate>Sat, 06 Jun 2026 17:35:29 +0000</pubDate>
@@ -55,14 +83,14 @@
     <description>Predictors of parental attitudes toward Frisian:  A comparative study from Nordfriesland and Fryslân</description>
   </item>
   <item>
-    <title>稼ぎ手ストレス尺度の構築と検証：役割特有の提供者ストレスの短縮測定法</title>
+    <title>稼ぎ手ストレイン尺度の構築と検証：役割特有の提供者ストレスの短縮測定法</title>
     <link>https://osf.io/7d9nk</link>
     <guid isPermaLink="false">https://osf.io/7d9nk#ja</guid>
     <pubDate>Fri, 29 May 2026 17:56:36 +0000</pubDate>
     <description>Construction and Validation of the Breadwinner Strain Scale: A Short Measure of Role-Specific Provider Stress</description>
   </item>
   <item>
-    <title>思春期における自己申告によるソーシャルメディア依存と関連する多様な行動・情動プロファイル</title>
+    <title>自己申告による思春期のソーシャルメディア依存に関連する多様な行動・情動プロファイル</title>
     <link>https://osf.io/crxqp</link>
     <guid isPermaLink="false">https://osf.io/crxqp#ja</guid>
     <pubDate>Fri, 29 May 2026 17:56:35 +0000</pubDate>
@@ -104,7 +132,7 @@
     <description>Associations Between Infant Screen Exposure and Media Use at Age 8 Years: Longitudinal Study</description>
   </item>
   <item>
-    <title>成功マインドセット：心の成功論</title>
+    <title>成功マインドセット：心の力</title>
     <link>https://osf.io/p628q</link>
     <guid isPermaLink="false">https://osf.io/p628q#ja</guid>
     <pubDate>Fri, 29 May 2026 04:46:04 +0000</pubDate>
@@ -118,7 +146,7 @@
     <description>A Systematic Review of Empirical Intraverbal Research: 2021–2025</description>
   </item>
   <item>
-    <title>#chatsafeユース参加モデル：若者を対象とした自殺予防施策設計における参加型ワークショップの評価</title>
+    <title>#チャットセーフ若者参加モデル：自殺予防施策の設計における若者参加型ワークショップの評価</title>
     <link>https://osf.io/qayu2</link>
     <guid isPermaLink="false">https://osf.io/qayu2#ja</guid>
     <pubDate>Thu, 28 May 2026 19:56:16 +0000</pubDate>
@@ -132,7 +160,7 @@
     <description>How often do we blank? A systematic review and Bayesian meta-analysis of mind blanking report rates during experience-sampling</description>
   </item>
   <item>
-    <title>簡易的ストレス信念介入のパイロット無作為化対照試験：ストレス信念、知覚ストレス、情動および身体症状への影響</title>
+    <title>簡易的ストレス信念介入のパイロット無作為化対照試験：ストレス信念、知覚ストレス、感情および身体症状への影響</title>
     <link>https://osf.io/xt9c4</link>
     <guid isPermaLink="false">https://osf.io/xt9c4#ja</guid>
     <pubDate>Thu, 28 May 2026 19:56:16 +0000</pubDate>
@@ -146,7 +174,7 @@
     <description>Development and Validation of the Sensitivity to Climate Injustice Scale</description>
   </item>
   <item>
-    <title>知能発達尺度－2における潜在プロファイルと失読症およびADHDの分類との関連性</title>
+    <title>知能発達尺度－2における潜在プロファイルとディスレクシアおよびADHDの分類との関連性</title>
     <link>https://osf.io/mfxud</link>
     <guid isPermaLink="false">https://osf.io/mfxud#ja</guid>
     <pubDate>Thu, 28 May 2026 19:56:15 +0000</pubDate>
@@ -216,7 +244,7 @@
     <description>Sociodemographic and individual risk factors for traumatic brain injury in UK Biobank (N=500,035)</description>
   </item>
   <item>
-    <title>Multi-SimPsychometrican：ライトマップに基づく達成度テスト項目の補完による測定精度向上への大規模言語モデル活用</title>
+    <title>Multi-SimPsychometrican：ライトマップに基づく達成度テスト項目の補完による測定精度向上のための大規模言語モデル活用</title>
     <link>https://osf.io/rdp52</link>
     <guid isPermaLink="false">https://osf.io/rdp52#ja</guid>
     <pubDate>Wed, 27 May 2026 13:59:16 +0000</pubDate>
@@ -265,7 +293,7 @@
     <description>Genetics in human behavior (disorders): Concepts, misconceptions, and a resistance-based path to translation</description>
   </item>
   <item>
-    <title>複雑性は統一された認知の一類型である</title>
+    <title>複雑性は統一された認知の一形態である</title>
     <link>https://osf.io/p9xe3</link>
     <guid isPermaLink="false">https://osf.io/p9xe3#ja</guid>
     <pubDate>Tue, 26 May 2026 21:15:31 +0000</pubDate>
@@ -286,7 +314,7 @@
     <description>The Development of Modal Cognition</description>
   </item>
   <item>
-    <title>ロリポップチャートにおけるバー先端制限誤差の検証：コンテナベース説明への反証</title>
+    <title>ロリポップチャートにおけるバー先端制限誤差の検証：コンテナベース説明への異議</title>
     <link>https://osf.io/gpnqx</link>
     <guid isPermaLink="false">https://osf.io/gpnqx#ja</guid>
     <pubDate>Tue, 26 May 2026 19:34:43 +0000</pubDate>
@@ -300,7 +328,7 @@
     <description>Perspective taking predicts acute psychiatric treatment trajectories</description>
   </item>
   <item>
-    <title>ニュース消費中の一時停止による内省が記憶におけるネガティビティバイアスを軽減する効果</title>
+    <title>ニュース消費中の一時停止による内省が記憶における否定的バイアスを軽減する効果</title>
     <link>https://osf.io/jsyeb</link>
     <guid isPermaLink="false">https://osf.io/jsyeb#ja</guid>
     <pubDate>Tue, 26 May 2026 17:35:41 +0000</pubDate>
@@ -314,7 +342,7 @@
     <description>Childhood complex trauma and social thinning in adolescence: evidence from a prospective cohort study</description>
   </item>
   <item>
-    <title>あいまいさと一貫性の欠如？メディア心理学と効果理論の課題およびその解決策</title>
+    <title>あいまいさと一貫性の欠如：メディア心理学と効果理論の課題およびその解決策</title>
     <link>https://osf.io/hsk2v</link>
     <guid isPermaLink="false">https://osf.io/hsk2v#ja</guid>
     <pubDate>Tue, 26 May 2026 14:15:40 +0000</pubDate>
@@ -326,34 +354,6 @@
     <guid isPermaLink="false">https://osf.io/4fzkc#ja</guid>
     <pubDate>Tue, 26 May 2026 14:15:39 +0000</pubDate>
     <description>Impossibility and Logical Contradictions Can Enhance the Perceived Value of Fictional Theological Propositions</description>
-  </item>
-  <item>
-    <title>英語多語表現（MWE）の習得年齢：クラウドソーシングによる人間評価で微調整された大規模言語モデルからの推定</title>
-    <link>https://osf.io/hnefs</link>
-    <guid isPermaLink="false">https://osf.io/hnefs#ja</guid>
-    <pubDate>Tue, 26 May 2026 14:15:39 +0000</pubDate>
-    <description>Age of Acquisition for English Multi-Word Expressions (MWEs): Estimates from a Large Language Model Fine-tuned by Crowdsourced Human Ratings</description>
-  </item>
-  <item>
-    <title>情報探索中の好奇心を反映するアルファ振動</title>
-    <link>https://osf.io/8etq5</link>
-    <guid isPermaLink="false">https://osf.io/8etq5#ja</guid>
-    <pubDate>Tue, 26 May 2026 14:15:39 +0000</pubDate>
-    <description>Alpha Oscillations Reflect Curiosity During Information-Seeking</description>
-  </item>
-  <item>
-    <title>自然主義的脅威下における感情と防衛行動の解離</title>
-    <link>https://osf.io/kxpjm</link>
-    <guid isPermaLink="false">https://osf.io/kxpjm#ja</guid>
-    <pubDate>Tue, 26 May 2026 14:15:39 +0000</pubDate>
-    <description>Feelings and defensive actions are dissociated under naturalistic threat</description>
-  </item>
-  <item>
-    <title>メンタルヘルス自己管理における利益獲得フレーミングと非損失フレーミングの影響：調節焦点および精神健康悪化の知覚リスクの調整効果の検討</title>
-    <link>https://osf.io/8eqj4</link>
-    <guid isPermaLink="false">https://osf.io/8eqj4#ja</guid>
-    <pubDate>Tue, 26 May 2026 14:15:38 +0000</pubDate>
-    <description>Impact of Gain and Nonloss Framing in Mental Health Self-Care:  Investigating Regulatory Focus and Perceived Risk of Worsening Mental Health as  Moderators</description>
   </item>
 </channel>
 </rss>
