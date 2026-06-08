@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>ソーシャルメディア利用動機と青年期の精神健康アウトカムとの異なる関連性</title>
+    <title>青少年におけるソーシャルメディア利用動機と精神健康結果の異なる関連性</title>
     <link>https://osf.io/jfs79</link>
     <guid isPermaLink="false">https://osf.io/jfs79#ja</guid>
     <pubDate>Sun, 07 Jun 2026 21:21:53 +0000</pubDate>
@@ -20,7 +20,7 @@
     <description>Sex Differences in Overhand Throwing are Completely Due to Socialization: A Blank Slate “Hypothesis” Unconstrained by Evidence</description>
   </item>
   <item>
-    <title>スコア報告におけるベンチマーク妥当性のためのベイジアンネットワーク：ePIRLSを用いた実証研究</title>
+    <title>スコア報告におけるベンチマーク妥当性のためのベイズネットワーク：ePIRLSの実証研究</title>
     <link>https://osf.io/ybde5</link>
     <guid isPermaLink="false">https://osf.io/ybde5#ja</guid>
     <pubDate>Sun, 07 Jun 2026 21:21:52 +0000</pubDate>
@@ -55,7 +55,7 @@
     <description>The Accommodation Trap: An Attractor Model of Plasticity-Driven Persistence in Delusion-Like Fixation</description>
   </item>
   <item>
-    <title>良い子猫、悪い銀行？誤校正された適応的検査の再得点による精度向上</title>
+    <title>良い猫、悪い銀行？誤校正された適応的検査の再採点が精度を向上させる</title>
     <link>https://osf.io/gk368</link>
     <guid isPermaLink="false">https://osf.io/gk368#ja</guid>
     <pubDate>Sun, 07 Jun 2026 17:37:27 +0000</pubDate>
@@ -90,14 +90,14 @@
     <description>Environmental Dynamics and Exam Stress among Nigerian  Adolescents: The Mitigating Role of Regional Community Support Structures</description>
   </item>
   <item>
-    <title>行動的反発を伴わない静かな過小評価された気候変動への関心：オランダ代表的調査に基づく気候変動コミュニケーションの知見</title>
+    <title>行動的反発を伴わない沈黙かつ過小評価された気候変動への関心：オランダ代表的調査に基づく気候変動コミュニケーションの知見</title>
     <link>https://osf.io/czu9f</link>
     <guid isPermaLink="false">https://osf.io/czu9f#ja</guid>
     <pubDate>Sat, 06 Jun 2026 18:50:31 +0000</pubDate>
     <description>Silent and Underestimated Climate Change Concern Without Behavioural Backlash: Findings From a Representative Dutch Survey on Climate Change Communication</description>
   </item>
   <item>
-    <title>実行されなかった行動に関する虚偽記憶の形成：計画されたが踏み出されなかった道の検討</title>
+    <title>実行されなかった行動に関する虚偽記憶の形成：計画されたが選択されなかった経路</title>
     <link>https://osf.io/kas3f</link>
     <guid isPermaLink="false">https://osf.io/kas3f#ja</guid>
     <pubDate>Sat, 06 Jun 2026 18:50:31 +0000</pubDate>
@@ -111,7 +111,7 @@
     <description>Object perception encodes mutually exclusive possibilities</description>
   </item>
   <item>
-    <title>外国語アクセントの運動基盤：言語的文脈が第二言語の発話運動計画の一般化を制約する</title>
+    <title>外国語アクセントの運動基盤？言語的文脈が第二言語の発話運動計画の一般化を制約する</title>
     <link>https://osf.io/y6bqg</link>
     <guid isPermaLink="false">https://osf.io/y6bqg#ja</guid>
     <pubDate>Sat, 06 Jun 2026 18:50:30 +0000</pubDate>
@@ -125,21 +125,21 @@
     <description>Humor: The Amusing Side of the Psychology of Art and Aesthetics</description>
   </item>
   <item>
-    <title>デジタル数値提示課題の検証研究</title>
+    <title>デジタル数値提示課題の検証</title>
     <link>https://osf.io/5xstq</link>
     <guid isPermaLink="false">https://osf.io/5xstq#ja</guid>
     <pubDate>Sat, 06 Jun 2026 17:35:29 +0000</pubDate>
     <description>A test of the digital Give-a-Number task</description>
   </item>
   <item>
-    <title>アメリカ青少年のオンライン被害体験の測定：全国代表性調査</title>
+    <title>アメリカ青少年のオンライン被害体験の測定：全国代表性調査による検討</title>
     <link>https://osf.io/hksru</link>
     <guid isPermaLink="false">https://osf.io/hksru#ja</guid>
     <pubDate>Sat, 06 Jun 2026 17:35:29 +0000</pubDate>
     <description>Measurement of American adolescents’ experiences of online harms: A nationally representative survey</description>
   </item>
   <item>
-    <title>教師の技術活用の変遷：大規模かつ縦断的な国際パネル調査からの証拠</title>
+    <title>教師の技術活用の変遷：大規模かつ国際的な縦断パネル調査からの証拠</title>
     <link>https://osf.io/uecdk</link>
     <guid isPermaLink="false">https://osf.io/uecdk#ja</guid>
     <pubDate>Sat, 06 Jun 2026 17:35:29 +0000</pubDate>
@@ -160,7 +160,7 @@
     <description>Development and Validation of the Social Media Content and Engagement Scale (SMCE)</description>
   </item>
   <item>
-    <title>フリジア語に対する親の態度の予測因子：ノルトフリースラントとフリースラントの比較研究</title>
+    <title>フリジア語に対する親の態度の予測因子：ノルトフリージアとフリースラントの比較研究</title>
     <link>https://osf.io/n6kbr</link>
     <guid isPermaLink="false">https://osf.io/n6kbr#ja</guid>
     <pubDate>Fri, 29 May 2026 17:56:36 +0000</pubDate>
@@ -174,7 +174,7 @@
     <description>Construction and Validation of the Breadwinner Strain Scale: A Short Measure of Role-Specific Provider Stress</description>
   </item>
   <item>
-    <title>自己申告による思春期のソーシャルメディア依存に関連する多様な行動・情動プロファイル</title>
+    <title>思春期における自己報告によるソーシャルメディア依存と関連する多様な行動・情動プロファイル</title>
     <link>https://osf.io/crxqp</link>
     <guid isPermaLink="false">https://osf.io/crxqp#ja</guid>
     <pubDate>Fri, 29 May 2026 17:56:35 +0000</pubDate>
@@ -237,14 +237,14 @@
     <description>The #chatsafe Youth Participation Model: evaluating participatory workshops involving young people in the design of suicide prevention initiatives</description>
   </item>
   <item>
-    <title>私たちはどのくらい頻繁に心が空白になるのか？経験サンプリング中の心の空白報告率に関する系統的レビューとベイズメタ分析</title>
+    <title>私たちはどのくらい頻繁に心が空白になるのか？経験サンプリング中の心の空白報告率に関する系統的レビューとベイズメタアナリシス</title>
     <link>https://osf.io/4ah3j</link>
     <guid isPermaLink="false">https://osf.io/4ah3j#ja</guid>
     <pubDate>Thu, 28 May 2026 19:56:16 +0000</pubDate>
     <description>How often do we blank? A systematic review and Bayesian meta-analysis of mind blanking report rates during experience-sampling</description>
   </item>
   <item>
-    <title>簡易的ストレス信念介入のパイロット無作為化対照試験：ストレス信念、知覚ストレス、情動および身体症状への影響</title>
+    <title>簡易ストレス信念介入のパイロット無作為化対照試験：ストレス信念、知覚ストレス、情動および身体症状への影響</title>
     <link>https://osf.io/xt9c4</link>
     <guid isPermaLink="false">https://osf.io/xt9c4#ja</guid>
     <pubDate>Thu, 28 May 2026 19:56:16 +0000</pubDate>
@@ -286,7 +286,7 @@
     <description>The Illusion of Routine Knowledge:  Time-Specific Expectations Weakly Predict Actual Behavior</description>
   </item>
   <item>
-    <title>部分的メタ分析相関行列の補完：段階2構造方程式モデリングのための較正ベイズ枠組み</title>
+    <title>部分的メタ分析相関行列の補完：第2段階構造方程式モデリングのための較正ベイズ枠組み</title>
     <link>https://osf.io/9w5ta</link>
     <guid isPermaLink="false">https://osf.io/9w5ta#ja</guid>
     <pubDate>Wed, 27 May 2026 19:34:32 +0000</pubDate>
@@ -307,14 +307,14 @@
     <description>Case alignment shapes speech production: Evidence from simultaneous Basque-Spanish bilinguals</description>
   </item>
   <item>
-    <title>記憶からのメンバーシップ予測</title>
+    <title>記憶からのカテゴリー所属予測</title>
     <link>https://osf.io/qkdpw</link>
     <guid isPermaLink="false">https://osf.io/qkdpw#ja</guid>
     <pubDate>Wed, 27 May 2026 19:34:31 +0000</pubDate>
     <description>Predicting Memberships from Memory.</description>
   </item>
   <item>
-    <title>意味のある人生と排斥感との間の疑わしい将来的効果：Zhangら（2026）へのコメント</title>
+    <title>意味のある人生と排斥感の間の疑わしい将来的効果：Zhangら（2026）へのコメント</title>
     <link>https://osf.io/mcdnh</link>
     <guid isPermaLink="false">https://osf.io/mcdnh#ja</guid>
     <pubDate>Wed, 27 May 2026 13:59:17 +0000</pubDate>
@@ -328,7 +328,7 @@
     <description>Sociodemographic and individual risk factors for traumatic brain injury in UK Biobank (N=500,035)</description>
   </item>
   <item>
-    <title>Multi-SimPsychometrican：ライトマップに基づく達成度テスト項目の補完による測定精度向上のための大規模言語モデル活用</title>
+    <title>Multi-SimPsychometrican：ライトマップに基づく達成度テスト項目の補完による測定精度向上のための大規模言語モデル活用法</title>
     <link>https://osf.io/rdp52</link>
     <guid isPermaLink="false">https://osf.io/rdp52#ja</guid>
     <pubDate>Wed, 27 May 2026 13:59:16 +0000</pubDate>
