@@ -6,7 +6,28 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>架け橋となる存在：メンタルヘルスニーズに対するソーシャルプリスクリプションにおけるリンクワーカーの研修ニーズと障壁に関する体系的レビュー</title>
+    <title>私たちが見逃す記憶：発達的認知過程を探る探索行動の視点</title>
+    <link>https://osf.io/b83p6</link>
+    <guid isPermaLink="false">https://osf.io/b83p6#ja</guid>
+    <pubDate>Fri, 19 Jun 2026 20:11:14 +0000</pubDate>
+    <description>The Memory We Miss: Exploratory Behavior as a Window into Developmental Recognition Processes</description>
+  </item>
+  <item>
+    <title>局所基準化された中央クルド語（ソラニ方言）認知能力検査の開発、標準化および妥当性検証</title>
+    <link>https://osf.io/5e7qz</link>
+    <guid isPermaLink="false">https://osf.io/5e7qz#ja</guid>
+    <pubDate>Fri, 19 Jun 2026 20:11:13 +0000</pubDate>
+    <description>A Locally-Normed Central-Kurdish (Sorani) Test of Cognitive Ability: Development, Calibration, and Validation</description>
+  </item>
+  <item>
+    <title>実験室研究における社会情報の過小利用はリスク知覚によって説明されにくい</title>
+    <link>https://osf.io/3b6qv</link>
+    <guid isPermaLink="false">https://osf.io/3b6qv#ja</guid>
+    <pubDate>Fri, 19 Jun 2026 20:11:13 +0000</pubDate>
+    <description>Risk perception is unlikely to drive underuse of social information in lab studies</description>
+  </item>
+  <item>
+    <title>架け橋を築く：精神健康ニーズにおけるソーシャルプリスクリプションのリンクワーカーの研修ニーズと障壁に関する体系的レビュー</title>
     <link>https://osf.io/7qcw2</link>
     <guid isPermaLink="false">https://osf.io/7qcw2#ja</guid>
     <pubDate>Fri, 19 Jun 2026 18:23:41 +0000</pubDate>
@@ -20,7 +41,7 @@
     <description>Global Mapping of Happiness: Mechanisms, Drivers, and Pathways to Societal Happiness</description>
   </item>
   <item>
-    <title>ウクライナ戦争（2022–2025）に対する感情的予測因子としての集団外連帯感、内集団防衛、および集団外軽視に関する研究：ヨーロッパ人の自己防衛メカニズムの検討</title>
+    <title>ウクライナ戦争（2022–2025）に対する感情的予測因子としての外集団連帯、内集団防衛、および外集団軽視に関する欧州人の心理的反応</title>
     <link>https://osf.io/mfzg7</link>
     <guid isPermaLink="false">https://osf.io/mfzg7#ja</guid>
     <pubDate>Fri, 19 Jun 2026 11:14:20 +0000</pubDate>
@@ -83,7 +104,7 @@
     <description>Making Room for Theory in DIF and Measurement Invariance Analysis with Covariate Effects on Groups of Items</description>
   </item>
   <item>
-    <title>神経心理学的検査の規範データにおける離散的かつ有界なスコア解析のためのベータ二項モデルと線形モデルの比較</title>
+    <title>神経心理学的検査の規範データにおける離散的かつ有界な得点の解析におけるベータ二項モデルと線形モデルの比較</title>
     <link>https://osf.io/72duz</link>
     <guid isPermaLink="false">https://osf.io/72duz#ja</guid>
     <pubDate>Wed, 17 Jun 2026 21:32:35 +0000</pubDate>
@@ -111,14 +132,14 @@
     <description>Parental Engagement and Disaffection in Education: Development of two Multidimensional Parent-Report Measures using Qualitative Methods</description>
   </item>
   <item>
-    <title>驚異的な基礎能力なしに達成される卓越した計算力：世界記録保持者における一桁数処理の認知メカニズム</title>
+    <title>驚異的な基礎なしに達成される卓越した計算能力：世界記録保持者における一桁数処理の認知メカニズム</title>
     <link>https://osf.io/fu9nb</link>
     <guid isPermaLink="false">https://osf.io/fu9nb#ja</guid>
     <pubDate>Wed, 17 Jun 2026 21:32:34 +0000</pubDate>
     <description>Prodigious calculation without prodigious basics: Single-digit number processing in a world-record mental calculator</description>
   </item>
   <item>
-    <title>努力の増加と変動性の拡大：努力とパフォーマンスの連関に関する分布モデル化</title>
+    <title>努力増加は変動性の増大を伴う：努力とパフォーマンスの結合に関する分布モデル化</title>
     <link>https://osf.io/34pjh</link>
     <guid isPermaLink="false">https://osf.io/34pjh#ja</guid>
     <pubDate>Wed, 17 Jun 2026 21:32:34 +0000</pubDate>
@@ -139,7 +160,7 @@
     <description>Systematic review of genetic associations between irritability and mental health disorders</description>
   </item>
   <item>
-    <title>スロバキア高齢者における孤独感と社会的孤立：有病率、社会人口学的要因および健康関連因子の人口ベースサンプル研究</title>
+    <title>スロバキア高齢者における孤独感と社会的孤立：有病率、社会人口学的決定要因および健康関連因子の人口ベースサンプル研究</title>
     <link>https://osf.io/q3ndw</link>
     <guid isPermaLink="false">https://osf.io/q3ndw#ja</guid>
     <pubDate>Wed, 17 Jun 2026 21:32:33 +0000</pubDate>
@@ -167,28 +188,28 @@
     <description>What Sticks and What Doesn’t: How Do Children Process Irrelevant Information?</description>
   </item>
   <item>
-    <title>うつ病の原因解明：N=1研究における体制依存的因果探索</title>
+    <title>うつ病の原因解明：N-of-1研究における体制依存的因果発見法</title>
     <link>https://osf.io/ftqg2</link>
     <guid isPermaLink="false">https://osf.io/ftqg2#ja</guid>
     <pubDate>Wed, 17 Jun 2026 21:32:32 +0000</pubDate>
     <description>Getting to the causes of depression: regime-dependent causal discovery of an N-of-1 study</description>
   </item>
   <item>
-    <title>文化に適応した育児プログラムの参加者募集：中国系移民および白人親のメッセージ反応と参加障壁</title>
+    <title>文化に適合した育児プログラムの参加者募集：中国系移民親と白人親におけるメッセージ反応と参加障壁の検討</title>
     <link>https://osf.io/wuard</link>
     <guid isPermaLink="false">https://osf.io/wuard#ja</guid>
     <pubDate>Wed, 17 Jun 2026 21:32:32 +0000</pubDate>
     <description>Culturally tailored parenting program recruitment: Messaging responses and participation barriers among Chinese immigrant and White parents</description>
   </item>
   <item>
-    <title>大規模言語モデルによるブラジル人英語第二言語話者のアクセント評価：体系的バイアスと自動知覚の限界</title>
+    <title>大規模言語モデルによるブラジル人第二言語英語のアクセント評価：体系的バイアスと自動認知の限界</title>
     <link>https://osf.io/qubt8</link>
     <guid isPermaLink="false">https://osf.io/qubt8#ja</guid>
     <pubDate>Wed, 17 Jun 2026 21:32:32 +0000</pubDate>
     <description>Brazilian L2 English Accentedness Ratings by LLMs: Systematic Bias and the Limits of Automated Perception</description>
   </item>
   <item>
-    <title>R言語による地図作成（tmapパッケージ）</title>
+    <title>R言語(tmap)を用いた地図作成法</title>
     <link>https://osf.io/r94b7</link>
     <guid isPermaLink="false">https://osf.io/r94b7#ja</guid>
     <pubDate>Wed, 17 Jun 2026 21:32:31 +0000</pubDate>
@@ -202,21 +223,21 @@
     <description>Neuroscience-informed Psychoeducation (NIPE): How Brain Awareness Supports Brain Recovery</description>
   </item>
   <item>
-    <title>認知負荷が視覚世界課題における第二言語話者の予測過程の異なる段階に及ぼす影響</title>
+    <title>認知負荷が視覚世界課題における第二言語話者の予測の各段階に及ぼす影響</title>
     <link>https://osf.io/cuwvs</link>
     <guid isPermaLink="false">https://osf.io/cuwvs#ja</guid>
     <pubDate>Wed, 17 Jun 2026 19:39:05 +0000</pubDate>
     <description>Cognitive load disrupts different stages of prediction in second-language speakers during a visual world task</description>
   </item>
   <item>
-    <title>初期育児における文脈特異的メンタライジング：親子関係と恋愛関係領域の比較を目的とした探索的横断研究</title>
+    <title>初期親子関係における文脈特異的メンタライジング：親子領域と恋愛パートナー領域の比較を目的とした探索的横断研究</title>
     <link>https://osf.io/t6sj2</link>
     <guid isPermaLink="false">https://osf.io/t6sj2#ja</guid>
     <pubDate>Wed, 17 Jun 2026 19:39:05 +0000</pubDate>
     <description>Context-Specific Mentalizing in Early Parenthood: An Exploratory Cross-Sectional Study Comparing Parental and Romantic Partner Domains</description>
   </item>
   <item>
-    <title>スペインの成人における愛の認知：文化的調整性と評価スタイルの個人差</title>
+    <title>スペインの成人における愛の認知：文化的調和性と評価スタイルの個人差</title>
     <link>https://osf.io/xrz42</link>
     <guid isPermaLink="false">https://osf.io/xrz42#ja</guid>
     <pubDate>Wed, 17 Jun 2026 19:39:05 +0000</pubDate>
@@ -230,7 +251,7 @@
     <description>Decision-making in Highly Sensitive Person: A Qualitative Research</description>
   </item>
   <item>
-    <title>視覚的ランドマークが空間的局在化および対象位置結合に与える影響</title>
+    <title>視覚的ランドマークが空間的局所化および対象位置結合に与える影響</title>
     <link>https://osf.io/u7j5q</link>
     <guid isPermaLink="false">https://osf.io/u7j5q#ja</guid>
     <pubDate>Wed, 17 Jun 2026 19:39:03 +0000</pubDate>
@@ -244,14 +265,14 @@
     <description>Enhancing Intellectual Humility about Political Topics: An Intervention Tournament Including Five Conceptual Replications</description>
   </item>
   <item>
-    <title>睡眠覚醒タイミングは思春期の睡眠健康の中心的要因である：多次元的睡眠健康への概日リズム指標追加を支持する縦断的コホートネットワーク解析</title>
+    <title>睡眠覚醒リズムは思春期の睡眠健康の中心的要因である：縦断的コホートネットワーク解析による多次元的睡眠健康への概日リズム指標の追加の支持</title>
     <link>https://osf.io/8uvta</link>
     <guid isPermaLink="false">https://osf.io/8uvta#ja</guid>
     <pubDate>Tue, 16 Jun 2026 15:25:12 +0000</pubDate>
     <description>Sleep-wake timing is central to adolescent sleep health: longitudinal cohort network analyses supporting adding circadian metrics to multidimensional sleep health</description>
   </item>
   <item>
-    <title>児童の社会情動学習尺度（CHISSEL）の開発と検証：インド中学生を対象とした文化的適応型評価ツール</title>
+    <title>子どもの社会情動学習尺度（CHISSEL）の開発と検証：インド中学生向けの文化的適応型評価ツール</title>
     <link>https://osf.io/pgu2a</link>
     <guid isPermaLink="false">https://osf.io/pgu2a#ja</guid>
     <pubDate>Tue, 16 Jun 2026 15:25:11 +0000</pubDate>
@@ -272,21 +293,21 @@
     <description>Happier but not more reasonable: Acute physical exercise does not improve rational decision-making</description>
   </item>
   <item>
-    <title>会話における自己開示において、聴取者の関与表出が話者の感情を瞬時に形成する</title>
+    <title>会話における自己開示において、聴取者の関与表出が話者の感情を瞬間瞬間に形成する</title>
     <link>https://osf.io/jhe2f</link>
     <guid isPermaLink="false">https://osf.io/jhe2f#ja</guid>
     <pubDate>Tue, 16 Jun 2026 15:25:11 +0000</pubDate>
     <description>Listeners’ Expressions of Engagement Shape Speakers’ Emotions  Moment by Moment in Conversational Self-Disclosure</description>
   </item>
   <item>
-    <title>注意における意識的知覚の必要性：Jiangら（2006）の研究を視線連動クラウディング法で再検討して</title>
+    <title>注意における意識的知覚の必要性：視線依存的クラウディングを用いたJiangら（2006）の再検討</title>
     <link>https://osf.io/bvshm</link>
     <guid isPermaLink="false">https://osf.io/bvshm#ja</guid>
     <pubDate>Sun, 14 Jun 2026 12:17:54 +0000</pubDate>
     <description>On the Necessity of Conscious Perception to Attention: Revisiting Jiang et al. (2006) with Gaze-Contingent Crowding</description>
   </item>
   <item>
-    <title>非自殺的自己傷害における生態学的瞬間評価と介入の認知された有用性と適用範囲：ニーズベースの動的リスク視点から</title>
+    <title>非自殺的自己傷害に対する生態学的瞬間評価および介入の認知された有用性と適用範囲：ニーズベースの動的リスク視点から</title>
     <link>https://osf.io/68t5f</link>
     <guid isPermaLink="false">https://osf.io/68t5f#ja</guid>
     <pubDate>Sat, 13 Jun 2026 20:07:40 +0000</pubDate>
@@ -300,14 +321,14 @@
     <description>FalseResMem: A Neural Network to Predict False Memories in Visual Recognition Tasks</description>
   </item>
   <item>
-    <title>言葉より動作が雄弁に語る：ベイズ最適化駆動型適応実験による歩行者横断歩道における人間らしい自動運転車速度プロファイルの設計</title>
+    <title>言葉よりも動作が雄弁に語る：ベイズ最適化駆動型適応実験による歩行者横断歩道における人間らしいAV速度プロファイルの設計</title>
     <link>https://osf.io/epd3v</link>
     <guid isPermaLink="false">https://osf.io/epd3v#ja</guid>
     <pubDate>Sat, 13 Jun 2026 20:07:40 +0000</pubDate>
     <description>Motions Speak Louder Than Words: Designing Human-like AV Speed Profiles at Crosswalks with a Bayesian Optimisation–Driven Adaptive Experiment</description>
   </item>
   <item>
-    <title>ディックマンの衝動性目録：既存モデルの確証的因子分析と短縮版尺度（8-DII）の開発</title>
+    <title>ディックマンの衝動性目録：既存モデルの確認的因子分析および短縮版尺度（8-DII）の開発</title>
     <link>https://osf.io/ukbn9</link>
     <guid isPermaLink="false">https://osf.io/ukbn9#ja</guid>
     <pubDate>Sat, 13 Jun 2026 20:07:40 +0000</pubDate>
@@ -321,39 +342,18 @@
     <description>Contextually Attuned Understanding of Epistemic Curiosity in Early Childhood: An Emic Exploration in Nepal</description>
   </item>
   <item>
-    <title>文化的適応神経心理学研究と検査のための指針（ACCENT）：異文化間神経心理学研究の責任ある実施と報告のための簡潔チェックリスト</title>
+    <title>文化的適合性を考慮した神経心理学的研究と検査のための指針（ACCENT）：異文化間神経心理学研究の責任ある実施と報告のための簡潔チェックリスト</title>
     <link>https://osf.io/bqnyp</link>
     <guid isPermaLink="false">https://osf.io/bqnyp#ja</guid>
     <pubDate>Sat, 13 Jun 2026 18:47:44 +0000</pubDate>
     <description>Agenda for Culturally Competent Neuropsychological Research and Testing (ACCENT): A Brief Checklist for the Responsible Conduct and Reporting of Cross-Cultural Neuropsychological Research</description>
   </item>
   <item>
-    <title>ソフィー砂糖依存尺度の概念化、開発および検証</title>
+    <title>ソフィー砂糖依存尺度：概念化、開発および検証</title>
     <link>https://osf.io/6cra4</link>
     <guid isPermaLink="false">https://osf.io/6cra4#ja</guid>
     <pubDate>Sat, 13 Jun 2026 18:47:44 +0000</pubDate>
     <description>The Sophie Sugar Addiction Scale: Conceptualisation, Development and Validation</description>
-  </item>
-  <item>
-    <title>戦時下における動物との触れ合いが兵士のストレスに及ぼす影響</title>
-    <link>https://osf.io/qgxph</link>
-    <guid isPermaLink="false">https://osf.io/qgxph#ja</guid>
-    <pubDate>Sat, 13 Jun 2026 18:47:43 +0000</pubDate>
-    <description>The effects of animals’ touch on soldiers’ stress during war</description>
-  </item>
-  <item>
-    <title>気づきが障害となるとき：マインドフルネス介入におけるマインドフルネス限界の瑜伽行派的診断</title>
-    <link>https://osf.io/9jwcq</link>
-    <guid isPermaLink="false">https://osf.io/9jwcq#ja</guid>
-    <pubDate>Sat, 13 Jun 2026 10:39:14 +0000</pubDate>
-    <description>When Awareness Becomes the Obstacle: A Yogācāra Diagnosis of the Mindfulness Ceiling in Mindfulness-Based Interventions</description>
-  </item>
-  <item>
-    <title>注意訓練が自己把握を維持する場合：マナス層に関する瑜伽行派の考察とマインドフルネス介入理論への示唆</title>
-    <link>https://osf.io/mq6xy</link>
-    <guid isPermaLink="false">https://osf.io/mq6xy#ja</guid>
-    <pubDate>Sat, 13 Jun 2026 10:39:14 +0000</pubDate>
-    <description>When Attentional Training May Leave Self-Grasping Intact: A Yogācāra Account of the Manas Layer with Implications for Theorizing Mindfulness-Based Interventions</description>
   </item>
 </channel>
 </rss>
