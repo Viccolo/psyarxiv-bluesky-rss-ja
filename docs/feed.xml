@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>自閉スペクトラム障害成人における他者の痛みの認知的評価は保持されるが、情動的および感覚運動的共鳴は減少していることを示す脳波および自己報告の研究</title>
+    <title>自閉スペクトラム障害成人における他者の痛みの認知的評価は保持されるが、情動的および感覚運動的共感反応は低下していることのEEGおよび自己報告による検証</title>
     <link>https://osf.io/pabxs</link>
     <guid isPermaLink="false">https://osf.io/pabxs#ja</guid>
     <pubDate>Sat, 20 Jun 2026 19:50:50 +0000</pubDate>
@@ -27,7 +27,7 @@
     <description>Not All Those Who Wonder Distrust: How environmental citizen scientists view their own relationship with science</description>
   </item>
   <item>
-    <title>HiTOP-TBIモデルの適用：外傷性脳損傷後の横断的精神病理に関するスコアリング方法と外的相関因子の検討</title>
+    <title>HiTOP-TBIモデルの適用：外傷性脳損傷後の横断的精神病理のスコアリング方法と外的相関因子</title>
     <link>https://osf.io/mszyh</link>
     <guid isPermaLink="false">https://osf.io/mszyh#ja</guid>
     <pubDate>Sat, 20 Jun 2026 06:11:51 +0000</pubDate>
@@ -41,7 +41,7 @@
     <description>The Memory We Miss: Exploratory Behavior as a Window into Developmental Recognition Processes</description>
   </item>
   <item>
-    <title>局所基準化された中央クルド語（ソラニ方言）認知能力検査の開発、標準化および検証</title>
+    <title>局所基準化された中央クルド語（ソラニ方言）認知能力検査の開発、標準化および妥当性検証</title>
     <link>https://osf.io/5e7qz</link>
     <guid isPermaLink="false">https://osf.io/5e7qz#ja</guid>
     <pubDate>Fri, 19 Jun 2026 20:11:13 +0000</pubDate>
@@ -55,7 +55,7 @@
     <description>Risk perception is unlikely to drive underuse of social information in lab studies</description>
   </item>
   <item>
-    <title>架け橋となる存在：精神健康ニーズにおけるソーシャルプリスクリプションのリンクワーカーの研修ニーズと障壁に関する体系的レビュー</title>
+    <title>架け橋を築く：メンタルヘルスニーズにおけるソーシャルプリスクリプションのリンクワーカーの研修ニーズと障壁に関する体系的レビュー</title>
     <link>https://osf.io/7qcw2</link>
     <guid isPermaLink="false">https://osf.io/7qcw2#ja</guid>
     <pubDate>Fri, 19 Jun 2026 18:23:41 +0000</pubDate>
@@ -69,21 +69,21 @@
     <description>Global Mapping of Happiness: Mechanisms, Drivers, and Pathways to Societal Happiness</description>
   </item>
   <item>
-    <title>ウクライナ戦争（2022–2025）に対する感情的予測因子としての集団外連帯感、内集団防衛、および集団外軽視に関する研究：ヨーロッパ人の自己防衛メカニズムの検討</title>
+    <title>ウクライナ戦争（2022–2025）に対する感情的予測因子：ヨーロッパ人の外集団連帯、内集団防衛、および外集団軽視の心理メカニズム</title>
     <link>https://osf.io/mfzg7</link>
     <guid isPermaLink="false">https://osf.io/mfzg7#ja</guid>
     <pubDate>Fri, 19 Jun 2026 11:14:20 +0000</pubDate>
     <description>Let’s protect us Europeans from them: Emotional predictors of outgroup solidarity, ingroup defense, and outgroup derogation in response to the Ukrainian war (2022 – 2025)</description>
   </item>
   <item>
-    <title>大学生の主体性理解の拡張：学生が認識する資源・態度・行動の多次元分析と教育実践との関連性</title>
+    <title>大学生のエージェンシー理解の拡張：学生が認識する資源・姿勢・行動の多次元分析と教育実践との関連性</title>
     <link>https://osf.io/vkpze</link>
     <guid isPermaLink="false">https://osf.io/vkpze#ja</guid>
     <pubDate>Thu, 18 Jun 2026 18:37:06 +0000</pubDate>
     <description>Expanding Understanding of University Students&#x27; Agency: A Multidimensional Analysis of Student-Perceived Resources, Stances, and Actions of Agency, and Their Relation to Teaching Practices</description>
   </item>
   <item>
-    <title>記憶誘導性注意捕捉は非効率的な課題切り替えによって説明されない</title>
+    <title>記憶誘導型注意捕捉は非効率的な課題切り替えでは説明できない</title>
     <link>https://osf.io/8n9vt</link>
     <guid isPermaLink="false">https://osf.io/8n9vt#ja</guid>
     <pubDate>Thu, 18 Jun 2026 18:37:05 +0000</pubDate>
@@ -132,7 +132,7 @@
     <description>Making Room for Theory in DIF and Measurement Invariance Analysis with Covariate Effects on Groups of Items</description>
   </item>
   <item>
-    <title>神経心理学的検査の規範データにおける離散的かつ境界値を持つ得点の解析におけるベータ二項モデルと線形モデルの比較</title>
+    <title>神経心理学的検査の規範データにおける離散的かつ有界な得点の解析におけるベータ二項モデルと線形モデルの比較</title>
     <link>https://osf.io/72duz</link>
     <guid isPermaLink="false">https://osf.io/72duz#ja</guid>
     <pubDate>Wed, 17 Jun 2026 21:32:35 +0000</pubDate>
@@ -160,21 +160,21 @@
     <description>Parental Engagement and Disaffection in Education: Development of two Multidimensional Parent-Report Measures using Qualitative Methods</description>
   </item>
   <item>
-    <title>驚異的な基礎なしに驚異的な計算を実現する：世界記録保持者の一桁数字処理能力</title>
+    <title>驚異的な基礎能力なしに達成される卓越した計算力：世界記録保持者における一桁数処理の認知メカニズム</title>
     <link>https://osf.io/fu9nb</link>
     <guid isPermaLink="false">https://osf.io/fu9nb#ja</guid>
     <pubDate>Wed, 17 Jun 2026 21:32:34 +0000</pubDate>
     <description>Prodigious calculation without prodigious basics: Single-digit number processing in a world-record mental calculator</description>
   </item>
   <item>
-    <title>努力増加は変動性増大に：努力とパフォーマンスの結合に関する分布モデル化</title>
+    <title>努力の増加と変動性の拡大：努力とパフォーマンスの結合に関する分布モデル化</title>
     <link>https://osf.io/34pjh</link>
     <guid isPermaLink="false">https://osf.io/34pjh#ja</guid>
     <pubDate>Wed, 17 Jun 2026 21:32:34 +0000</pubDate>
     <description>More effort, more variability: Distributional modeling of effort-performance coupling</description>
   </item>
   <item>
-    <title>ストレス反応性と健康変化の関連性―異なるアプローチが（時に）異なる結論を導く</title>
+    <title>ストレス反応性と健康変化の関連性－異なるアプローチが（時に）異なる結論を導く</title>
     <link>https://osf.io/hxfs4</link>
     <guid isPermaLink="false">https://osf.io/hxfs4#ja</guid>
     <pubDate>Wed, 17 Jun 2026 21:32:34 +0000</pubDate>
@@ -195,7 +195,7 @@
     <description>Loneliness and Social Isolation Among Older Adults in Slovakia: Prevalence, Sociodemographic Determinants, and Health-Related Correlates in a Population-Based Sample</description>
   </item>
   <item>
-    <title>子どもの初期語彙習得を学習環境の自己中心的映像から予測する研究</title>
+    <title>子どもの初期語彙習得を学習環境の自己中心的映像から予測する</title>
     <link>https://osf.io/f8gnv</link>
     <guid isPermaLink="false">https://osf.io/f8gnv#ja</guid>
     <pubDate>Wed, 17 Jun 2026 21:32:33 +0000</pubDate>
@@ -223,7 +223,7 @@
     <description>Getting to the causes of depression: regime-dependent causal discovery of an N-of-1 study</description>
   </item>
   <item>
-    <title>文化に適合した育児プログラムの参加者募集：中国系移民親と白人親におけるメッセージ反応と参加障壁の検討</title>
+    <title>文化に適応した育児プログラムの参加者募集：中国系移民親と白人親におけるメッセージ反応と参加障壁の検討</title>
     <link>https://osf.io/wuard</link>
     <guid isPermaLink="false">https://osf.io/wuard#ja</guid>
     <pubDate>Wed, 17 Jun 2026 21:32:32 +0000</pubDate>
@@ -237,14 +237,14 @@
     <description>Brazilian L2 English Accentedness Ratings by LLMs: Systematic Bias and the Limits of Automated Perception</description>
   </item>
   <item>
-    <title>R言語(tmap)を用いた地図作成</title>
+    <title>R言語を用いた地図作成（tmapパッケージ）</title>
     <link>https://osf.io/r94b7</link>
     <guid isPermaLink="false">https://osf.io/r94b7#ja</guid>
     <pubDate>Wed, 17 Jun 2026 21:32:31 +0000</pubDate>
     <description>Criação de mapas com R (tmap)</description>
   </item>
   <item>
-    <title>神経科学に基づく心理教育（NIPE）：脳の理解が脳の回復を支えるメカニズム</title>
+    <title>神経科学に基づく心理教育（NIPE）：脳の理解が脳の回復を支える仕組み</title>
     <link>https://osf.io/uyhks</link>
     <guid isPermaLink="false">https://osf.io/uyhks#ja</guid>
     <pubDate>Wed, 17 Jun 2026 19:39:05 +0000</pubDate>
@@ -265,7 +265,7 @@
     <description>Context-Specific Mentalizing in Early Parenthood: An Exploratory Cross-Sectional Study Comparing Parental and Romantic Partner Domains</description>
   </item>
   <item>
-    <title>スペインの成人における愛の認知：文化的調律と評価スタイルの個人差</title>
+    <title>スペインの成人における愛の認知：文化的調和性と評価スタイルの個人差</title>
     <link>https://osf.io/xrz42</link>
     <guid isPermaLink="false">https://osf.io/xrz42#ja</guid>
     <pubDate>Wed, 17 Jun 2026 19:39:05 +0000</pubDate>
@@ -279,28 +279,28 @@
     <description>Decision-making in Highly Sensitive Person: A Qualitative Research</description>
   </item>
   <item>
-    <title>視覚的ランドマークが空間座標定位および対象位置結合に及ぼす影響</title>
+    <title>視覚的ランドマークが空間的局所化および対象位置結合に与える影響</title>
     <link>https://osf.io/u7j5q</link>
     <guid isPermaLink="false">https://osf.io/u7j5q#ja</guid>
     <pubDate>Wed, 17 Jun 2026 19:39:03 +0000</pubDate>
     <description>The influence of visual landmarks on spatiotopic localization and object-location binding</description>
   </item>
   <item>
-    <title>政治的テーマに関する知的謙虚性の向上：五つの概念的再現を含む介入トーナメント</title>
+    <title>政治的テーマに関する知的謙虚さの向上：五つの概念的再現を含む介入トーナメント</title>
     <link>https://osf.io/mfuqh</link>
     <guid isPermaLink="false">https://osf.io/mfuqh#ja</guid>
     <pubDate>Tue, 16 Jun 2026 15:25:12 +0000</pubDate>
     <description>Enhancing Intellectual Humility about Political Topics: An Intervention Tournament Including Five Conceptual Replications</description>
   </item>
   <item>
-    <title>睡眠覚醒リズムは思春期の睡眠健康の中心的要因である：多次元的睡眠健康に概日リズム指標を加えることを支持する縦断的コホートネットワーク解析</title>
+    <title>睡眠覚醒リズムは思春期の睡眠健康の中心的要因である：縦断的コホートネットワーク解析による多次元的睡眠健康への概日リズム指標の追加の支持</title>
     <link>https://osf.io/8uvta</link>
     <guid isPermaLink="false">https://osf.io/8uvta#ja</guid>
     <pubDate>Tue, 16 Jun 2026 15:25:12 +0000</pubDate>
     <description>Sleep-wake timing is central to adolescent sleep health: longitudinal cohort network analyses supporting adding circadian metrics to multidimensional sleep health</description>
   </item>
   <item>
-    <title>子どもの社会情動学習尺度（CHISSEL）の開発と検証：インド中学生向けの文化的適応型評価ツール</title>
+    <title>子どもの社会情動学習尺度（CHISSEL）の開発と検証：インド中学生を対象とした文化的適応型評価ツール</title>
     <link>https://osf.io/pgu2a</link>
     <guid isPermaLink="false">https://osf.io/pgu2a#ja</guid>
     <pubDate>Tue, 16 Jun 2026 15:25:11 +0000</pubDate>
@@ -328,14 +328,14 @@
     <description>Listeners’ Expressions of Engagement Shape Speakers’ Emotions  Moment by Moment in Conversational Self-Disclosure</description>
   </item>
   <item>
-    <title>注意における意識的知覚の必要性：視線依存的クラウディングを用いたJiangら（2006）の再検討</title>
+    <title>注意における意識的知覚の必要性：視線依存的群衆効果を用いたJiangら（2006）の再検討</title>
     <link>https://osf.io/bvshm</link>
     <guid isPermaLink="false">https://osf.io/bvshm#ja</guid>
     <pubDate>Sun, 14 Jun 2026 12:17:54 +0000</pubDate>
     <description>On the Necessity of Conscious Perception to Attention: Revisiting Jiang et al. (2006) with Gaze-Contingent Crowding</description>
   </item>
   <item>
-    <title>非自殺的自己傷害に対する生態学的瞬間評価および介入の認知された有用性と適用範囲：ニーズに基づく動的リスクの視点から</title>
+    <title>非自殺的自己傷害における生態学的瞬間評価および介入の認知された有用性と適用範囲：ニーズベースの動的リスク視点から</title>
     <link>https://osf.io/68t5f</link>
     <guid isPermaLink="false">https://osf.io/68t5f#ja</guid>
     <pubDate>Sat, 13 Jun 2026 20:07:40 +0000</pubDate>
