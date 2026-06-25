@@ -6,7 +6,56 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>ゲーム障害：関連症例研究の質的メタシンセシス</title>
+    <title>運動遂行なしに内的行動表象が形成されうること</title>
+    <link>https://osf.io/47dx2</link>
+    <guid isPermaLink="false">https://osf.io/47dx2#ja</guid>
+    <pubDate>Thu, 25 Jun 2026 18:22:15 +0000</pubDate>
+    <description>Internal action representations can emerge without motor execution</description>
+  </item>
+  <item>
+    <title>疾病感受性認知尺度（PVD-Kr-10）の10項目韓国語版の心理測定学的評価</title>
+    <link>https://osf.io/ausr4</link>
+    <guid isPermaLink="false">https://osf.io/ausr4#ja</guid>
+    <pubDate>Thu, 25 Jun 2026 18:22:15 +0000</pubDate>
+    <description>Psychometric Evaluation of a 10-Item Korean Adaptation of the Perceived Vulnerability to Disease Scale (PVD-Kr-10)</description>
+  </item>
+  <item>
+    <title>内受容感覚認識と関係満足度が女性のオーガズム体験に果たす役割</title>
+    <link>https://osf.io/pvyfm</link>
+    <guid isPermaLink="false">https://osf.io/pvyfm#ja</guid>
+    <pubDate>Thu, 25 Jun 2026 18:22:15 +0000</pubDate>
+    <description>The Role of Interoceptive Awareness and Relationship Satisfaction in Female Orgasm Experience</description>
+  </item>
+  <item>
+    <title>赤と青、そして道徳的類似性：誤った前提を排した気候変動の道徳的再構築の効果</title>
+    <link>https://osf.io/a9wpd</link>
+    <guid isPermaLink="false">https://osf.io/a9wpd#ja</guid>
+    <pubDate>Thu, 25 Jun 2026 18:22:14 +0000</pubDate>
+    <description>Red, blue, and morally alike: Moral reframing of climate change works when we don&#x27;t make incorrect assumptions</description>
+  </item>
+  <item>
+    <title>PLFest：視覚および認知評価のためのオープンプラットフォームの多施設検証</title>
+    <link>https://osf.io/3xus7</link>
+    <guid isPermaLink="false">https://osf.io/3xus7#ja</guid>
+    <pubDate>Thu, 25 Jun 2026 18:22:14 +0000</pubDate>
+    <description>PLFest: A Multi-Site Validation of an Open Platform for Visual and Cognitive Assessment</description>
+  </item>
+  <item>
+    <title>環境行動変容における効力信念の体系的レビューとメタ分析</title>
+    <link>https://osf.io/f6xys</link>
+    <guid isPermaLink="false">https://osf.io/f6xys#ja</guid>
+    <pubDate>Thu, 25 Jun 2026 18:22:14 +0000</pubDate>
+    <description>A systematic review and meta-analysis of efficacy beliefs in pro-environmental behavior change</description>
+  </item>
+  <item>
+    <title>パーソナリティ機能と抑うつの自己報告は実質的に代替可能である：Kerberら（2026）へのコメント</title>
+    <link>https://osf.io/djkcz</link>
+    <guid isPermaLink="false">https://osf.io/djkcz#ja</guid>
+    <pubDate>Thu, 25 Jun 2026 18:22:13 +0000</pubDate>
+    <description>Self-reports of personality functioning and depression are practically fungible. A commentary on Kerber et al. (2026)</description>
+  </item>
+  <item>
+    <title>ゲーム障害：関連事例研究の質的メタシンセシス</title>
     <link>https://osf.io/4fkn2</link>
     <guid isPermaLink="false">https://osf.io/4fkn2#ja</guid>
     <pubDate>Thu, 25 Jun 2026 16:05:31 +0000</pubDate>
@@ -27,7 +76,7 @@
     <description>Introducing LexTurk: A quick lexical test for learners of Turkish</description>
   </item>
   <item>
-    <title>生成AI時代の青年期：半世紀にわたる体系的レビュー</title>
+    <title>生成AI時代の青年期：半世紀にわたる系統的レビュー</title>
     <link>https://osf.io/fxbtp</link>
     <guid isPermaLink="false">https://osf.io/fxbtp#ja</guid>
     <pubDate>Thu, 25 Jun 2026 16:05:29 +0000</pubDate>
@@ -62,14 +111,14 @@
     <description>Current distress does not moderate the efficacy of cognitive reappraisal</description>
   </item>
   <item>
-    <title>健康な聴覚を有する成人における騒音下音声知覚の個人差：聴覚的、認知的および神経機構</title>
+    <title>健聴成人における騒音下音声知覚の個人差：聴覚的・認知的・神経機構の検討</title>
     <link>https://osf.io/xf9ad</link>
     <guid isPermaLink="false">https://osf.io/xf9ad#ja</guid>
     <pubDate>Wed, 24 Jun 2026 19:11:40 +0000</pubDate>
     <description>Individual differences in Speech-in-Noise perception in adults with healthy hearing: auditory, cognitive, and neural mechanisms</description>
   </item>
   <item>
-    <title>自閉症およびADHDの有病率推定：過剰診断への懸念と過小検出の歴史の均衡</title>
+    <title>自閉症およびADHDの有病率推定：過剰診断への懸念と過小検出の歴史のバランス調整</title>
     <link>https://osf.io/qte5z</link>
     <guid isPermaLink="false">https://osf.io/qte5z#ja</guid>
     <pubDate>Wed, 24 Jun 2026 19:11:40 +0000</pubDate>
@@ -83,7 +132,7 @@
     <description>Believing What We Want? Myside Bias and the Role of Open Science Practices in Public Trust in Science</description>
   </item>
   <item>
-    <title>VR交通シナリオにおける不在の錯覚：Aピラーの死角が魔法のように錯覚を引き起こすメカニズム</title>
+    <title>VR交通シナリオにおける不在の錯覚：Aピラーの死角がもたらす魔法のような錯覚効果</title>
     <link>https://osf.io/ucjz7</link>
     <guid isPermaLink="false">https://osf.io/ucjz7#ja</guid>
     <pubDate>Wed, 24 Jun 2026 19:11:39 +0000</pubDate>
@@ -97,7 +146,7 @@
     <description>Identifying safety risks and variances in an Integrated Urgent Care telephone triage system using modified Macroergonomic Analysis and Design (MEAD)</description>
   </item>
   <item>
-    <title>秒から季節へ、日から数十年へ：発達における時間スケールの検討</title>
+    <title>秒から季節へ、日から十年へ：発達における時間尺度の検討</title>
     <link>https://osf.io/h3tv6</link>
     <guid isPermaLink="false">https://osf.io/h3tv6#ja</guid>
     <pubDate>Wed, 24 Jun 2026 19:11:39 +0000</pubDate>
@@ -153,42 +202,42 @@
     <description>Effects of Ultra-short Offline States on Item-level Verbal Memory</description>
   </item>
   <item>
-    <title>事前登録された測定監査が示すアライメントベース翻訳集中の構成概念妥当性の限界</title>
+    <title>事前登録された測定監査が示す、アライメントベース翻訳集中度の構成概念妥当性の限界</title>
     <link>https://osf.io/kxs2t</link>
     <guid isPermaLink="false">https://osf.io/kxs2t#ja</guid>
     <pubDate>Mon, 22 Jun 2026 14:17:59 +0000</pubDate>
     <description>A preregistered measurement audit reveals construct-validity limits of alignment-based translation concentration</description>
   </item>
   <item>
-    <title>内部・外部基準枠モデルの再概念化：達成水準対比と学業自己概念の構造</title>
+    <title>内的・外的参照枠モデルの再概念化：達成水準対比と学業自己概念の構造</title>
     <link>https://osf.io/gdv3t</link>
     <guid isPermaLink="false">https://osf.io/gdv3t#ja</guid>
     <pubDate>Mon, 22 Jun 2026 14:17:59 +0000</pubDate>
     <description>Reconceptualizing the Internal/External Frame of Reference Model: Achievement-Level–Contrast and the Architecture of Academic Self-Concept</description>
   </item>
   <item>
-    <title>瞑想の発達と心理的有害影響：高度な瞑想者における挑戦的・不快・否定的体験の現象学的研究</title>
+    <title>瞑想の発達と心理的有害影響：上級瞑想者の挑戦的・不快・否定的体験に関する現象学的研究</title>
     <link>https://osf.io/9n845</link>
     <guid isPermaLink="false">https://osf.io/9n845#ja</guid>
     <pubDate>Mon, 22 Jun 2026 14:17:58 +0000</pubDate>
     <description>Meditative Development and Psychological Adverse Effects, Challenging, Unpleasant, and Negative Experiences: A Phenomenological Study of Advanced Meditators</description>
   </item>
   <item>
-    <title>新たな認知形成：心理教育的メンタライゼーション治療モジュール後の敵意帰属変化に関する予備的多方法的検討</title>
+    <title>新たな認知形成：精神化に基づく心理教育的治療モジュール後の敵意帰属変化に関する予備的多方法的検討</title>
     <link>https://osf.io/sdxuq</link>
     <guid isPermaLink="false">https://osf.io/sdxuq#ja</guid>
     <pubDate>Mon, 22 Jun 2026 14:17:58 +0000</pubDate>
     <description>Shaping New Perceptions: A Preliminary Multi-Method Investigation of Changes in Hostile Attributions following a Psychoeducational Mentalization-Based Treatment Module</description>
   </item>
   <item>
-    <title>ボルダリング熟練度の指標としての眼頭協調：具現化認知アプローチによる検討</title>
+    <title>ボルダリング熟達者の特徴としての眼頭協調：身体化認知アプローチによる検討</title>
     <link>https://osf.io/pmzv3</link>
     <guid isPermaLink="false">https://osf.io/pmzv3#ja</guid>
     <pubDate>Mon, 22 Jun 2026 14:17:57 +0000</pubDate>
     <description>Eye-head Coordination as a Signature of Bouldering Expertise: an Embodied Cognition Approach</description>
   </item>
   <item>
-    <title>オランダにおけるCOVID-19パンデミック中の身体的健康、精神的健康およびライフスタイルの世代間比較：ネットワーク分析による検討</title>
+    <title>オランダにおけるCOVID-19パンデミック中の身体的健康、精神的健康および生活様式の世代間比較：ネットワーク分析による検討</title>
     <link>https://osf.io/ntyg9</link>
     <guid isPermaLink="false">https://osf.io/ntyg9#ja</guid>
     <pubDate>Mon, 22 Jun 2026 14:17:57 +0000</pubDate>
@@ -202,14 +251,14 @@
     <description>Touch of Loneliness Hurts the Most: The Implications of Loneliness and Social Touch</description>
   </item>
   <item>
-    <title>集団トラウマにおける快楽消失：2023年10月7日以降のイスラエルの治療希望者における特定のうつ症状の増加</title>
+    <title>集団トラウマにおける快楽消失：2023年10月7日以降のイスラエル治療希望者における特定の抑うつ症状の増加</title>
     <link>https://osf.io/e65mq</link>
     <guid isPermaLink="false">https://osf.io/e65mq#ja</guid>
     <pubDate>Sun, 21 Jun 2026 16:21:07 +0000</pubDate>
     <description>The Anhedonia of Collective Trauma: A Rise in Specific Depression Symptoms Among Israeli Treatment-Seekers After October 7, 2023</description>
   </item>
   <item>
-    <title>悪魔・悪霊・サタンの宗教的・霊的体験：特徴の分析と精神病理および文化との関連性</title>
+    <title>悪魔・魔物・サタンの宗教的・霊的体験：特徴の分析と精神病理および文化との関連性</title>
     <link>https://osf.io/g3spn</link>
     <guid isPermaLink="false">https://osf.io/g3spn#ja</guid>
     <pubDate>Sun, 21 Jun 2026 16:21:06 +0000</pubDate>
@@ -223,7 +272,7 @@
     <description>Positive Emotion Regulation Strategies Predict Suicidal Thoughts across and within Individuals: An Ecological Momentary Assessment Study</description>
   </item>
   <item>
-    <title>心拍知覚は主観的検知と時間的判断に分離可能である</title>
+    <title>心拍知覚は主観的検出と時間的判断に分離可能である</title>
     <link>https://osf.io/kr6fx</link>
     <guid isPermaLink="false">https://osf.io/kr6fx#ja</guid>
     <pubDate>Sun, 21 Jun 2026 14:40:30 +0000</pubDate>
@@ -237,7 +286,7 @@
     <description>There is only one correct analysis</description>
   </item>
   <item>
-    <title>自閉スペクトラム障害成人における他者の痛みの認知的評価は保持されるが、感情的および感覚運動的共鳴は低下していることを示す脳波および自己報告の研究</title>
+    <title>自閉スペクトラム障害成人における他者の痛みの認知的評価は保持されるが、情動的および感覚運動的共感は低下していることを示すEEGおよび自己報告の検討</title>
     <link>https://osf.io/pabxs</link>
     <guid isPermaLink="false">https://osf.io/pabxs#ja</guid>
     <pubDate>Sat, 20 Jun 2026 19:50:50 +0000</pubDate>
@@ -258,7 +307,7 @@
     <description>Not All Those Who Wonder Distrust: How environmental citizen scientists view their own relationship with science</description>
   </item>
   <item>
-    <title>HiTOP-TBIモデルの適用：外傷性脳損傷後の横断的精神病理のスコアリング方法と外的相関因子</title>
+    <title>HiTOP-TBIモデルの適用：外傷性脳損傷後の横断的精神病理におけるスコアリング方法と外的相関因子</title>
     <link>https://osf.io/mszyh</link>
     <guid isPermaLink="false">https://osf.io/mszyh#ja</guid>
     <pubDate>Sat, 20 Jun 2026 06:11:51 +0000</pubDate>
@@ -272,7 +321,7 @@
     <description>The Memory We Miss: Exploratory Behavior as a Window into Developmental Recognition Processes</description>
   </item>
   <item>
-    <title>局所基準化された中央クルド語（ソラニ）認知能力検査の開発、標準化および妥当性検証</title>
+    <title>局所基準化された中央クルド語（ソラニ）認知能力検査の開発、較正および検証</title>
     <link>https://osf.io/5e7qz</link>
     <guid isPermaLink="false">https://osf.io/5e7qz#ja</guid>
     <pubDate>Fri, 19 Jun 2026 20:11:13 +0000</pubDate>
@@ -286,7 +335,7 @@
     <description>Risk perception is unlikely to drive underuse of social information in lab studies</description>
   </item>
   <item>
-    <title>架け橋を築く：精神健康ニーズに対するソーシャルプリスクリプションにおけるリンクワーカーの研修ニーズと障壁に関する体系的レビュー</title>
+    <title>架け橋を築く：精神健康ニーズに対するソーシャルプリスクリプションにおけるリンクワーカーの研修ニーズと障壁の体系的レビュー</title>
     <link>https://osf.io/7qcw2</link>
     <guid isPermaLink="false">https://osf.io/7qcw2#ja</guid>
     <pubDate>Fri, 19 Jun 2026 18:23:41 +0000</pubDate>
@@ -300,60 +349,11 @@
     <description>Global Mapping of Happiness: Mechanisms, Drivers, and Pathways to Societal Happiness</description>
   </item>
   <item>
-    <title>ウクライナ戦争（2022–2025）に対する感情的予測因子：ヨーロッパ人の外集団連帯、内集団防衛、および外集団軽視の心理メカニズム</title>
+    <title>ウクライナ戦争（2022–2025）に対する感情的予測因子としての外集団連帯、内集団防衛、および外集団軽視の心理メカニズム：ヨーロッパ人の自己防衛の視点から</title>
     <link>https://osf.io/mfzg7</link>
     <guid isPermaLink="false">https://osf.io/mfzg7#ja</guid>
     <pubDate>Fri, 19 Jun 2026 11:14:20 +0000</pubDate>
     <description>Let’s protect us Europeans from them: Emotional predictors of outgroup solidarity, ingroup defense, and outgroup derogation in response to the Ukrainian war (2022 – 2025)</description>
-  </item>
-  <item>
-    <title>大学生の主体性理解の拡張：学生が認識する資源・姿勢・行動の多次元分析と教育実践との関連性</title>
-    <link>https://osf.io/vkpze</link>
-    <guid isPermaLink="false">https://osf.io/vkpze#ja</guid>
-    <pubDate>Thu, 18 Jun 2026 18:37:06 +0000</pubDate>
-    <description>Expanding Understanding of University Students&#x27; Agency: A Multidimensional Analysis of Student-Perceived Resources, Stances, and Actions of Agency, and Their Relation to Teaching Practices</description>
-  </item>
-  <item>
-    <title>記憶誘導型注意捕捉は非効率的な課題切り替えによって説明されない</title>
-    <link>https://osf.io/8n9vt</link>
-    <guid isPermaLink="false">https://osf.io/8n9vt#ja</guid>
-    <pubDate>Thu, 18 Jun 2026 18:37:05 +0000</pubDate>
-    <description>Memory-driven attentional capture is not explained by inefficiënt task switching</description>
-  </item>
-  <item>
-    <title>報告可能性からの経験の分離：目標指向的注意外の視覚経験に関する大規模報告パラダイム</title>
-    <link>https://osf.io/v9j8d</link>
-    <guid isPermaLink="false">https://osf.io/v9j8d#ja</guid>
-    <pubDate>Thu, 18 Jun 2026 18:37:05 +0000</pubDate>
-    <description>Disentangling experience from reportability: A massive-report paradigm for visual experience outside goal-oriented attention</description>
-  </item>
-  <item>
-    <title>遺産バイリンガリズムにおける適応的予測：トルコ語の形態統語的手がかり、語順および言語関与の検討</title>
-    <link>https://osf.io/cjbpm</link>
-    <guid isPermaLink="false">https://osf.io/cjbpm#ja</guid>
-    <pubDate>Thu, 18 Jun 2026 18:37:04 +0000</pubDate>
-    <description>Adaptive Prediction in Heritage Bilingualism: Morphosyntactic Cues, Word Order and Language Engagement in Turkish</description>
-  </item>
-  <item>
-    <title>自閉スペクトラム症者に対する模倣訓練の有効性：システマティックレビュー</title>
-    <link>https://osf.io/9678h</link>
-    <guid isPermaLink="false">https://osf.io/9678h#ja</guid>
-    <pubDate>Wed, 17 Jun 2026 21:32:36 +0000</pubDate>
-    <description>Efficacy of Imitation Training for Individuals with Autism Spectrum Disorder: A Systematic Review</description>
-  </item>
-  <item>
-    <title>「臨床的に有意な変化とは何か」</title>
-    <link>https://osf.io/d82gb</link>
-    <guid isPermaLink="false">https://osf.io/d82gb#ja</guid>
-    <pubDate>Wed, 17 Jun 2026 21:32:36 +0000</pubDate>
-    <description>When I say... clinically significant change</description>
-  </item>
-  <item>
-    <title>携帯電話依存、就寝遅延、身体活動の予測的関連性の再評価：XuおよびLi（2026）へのコメント</title>
-    <link>https://osf.io/7g4rf</link>
-    <guid isPermaLink="false">https://osf.io/7g4rf#ja</guid>
-    <pubDate>Wed, 17 Jun 2026 21:32:35 +0000</pubDate>
-    <description>Reassessing purported prospective links between mobile phone addiction, bedtime procrastination, and physical activity: A commentary on Xu and Li (2026)</description>
   </item>
 </channel>
 </rss>
