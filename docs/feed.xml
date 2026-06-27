@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>治療待機中の子ども支援：子どもの不安に対する親向けウェブベース単回セッション介入のランダム化比較試験</title>
+    <title>治療待機中の子ども支援：子どもの不安に対する親対象ウェブベース単回セッション介入のランダム化比較試験</title>
     <link>https://osf.io/w8j2d</link>
     <guid isPermaLink="false">https://osf.io/w8j2d#ja</guid>
     <pubDate>Fri, 26 Jun 2026 20:15:28 +0000</pubDate>
@@ -41,7 +41,7 @@
     <description>Forbidden Causes: Science as a Restrictive Cognitive System</description>
   </item>
   <item>
-    <title>文法のトポロジー：階層的反転、数的大小、および統語的・数的指標付けに共通する注意資源に関する登録報告</title>
+    <title>文法のトポロジー：階層的倒置、数的大小、および統語的・数的指標付けに共通する注意資源に関する登録報告</title>
     <link>https://osf.io/dztvp</link>
     <guid isPermaLink="false">https://osf.io/dztvp#ja</guid>
     <pubDate>Fri, 26 Jun 2026 20:15:27 +0000</pubDate>
@@ -55,7 +55,7 @@
     <description>The Other-Race Effect in Implicit Memory for Face Combinations</description>
   </item>
   <item>
-    <title>言語的アライメントの社会的伝達：観察的強化学習の役割</title>
+    <title>言語的整合性の社会的伝達：観察的強化学習の役割</title>
     <link>https://osf.io/nwkag</link>
     <guid isPermaLink="false">https://osf.io/nwkag#ja</guid>
     <pubDate>Fri, 26 Jun 2026 20:15:26 +0000</pubDate>
@@ -76,7 +76,7 @@
     <description>Influence campaigns in a custom social media platform affect beliefs, trust, and engagement</description>
   </item>
   <item>
-    <title>ギリシャにおける精神健康支援のための人工知能チャットボットに対する人々の信念の実態</title>
+    <title>ギリシャにおけるメンタルヘルス支援のための人工知能チャットボットに対する人々の信念</title>
     <link>https://osf.io/zbwsx</link>
     <guid isPermaLink="false">https://osf.io/zbwsx#ja</guid>
     <pubDate>Fri, 26 Jun 2026 18:23:32 +0000</pubDate>
@@ -97,7 +97,7 @@
     <description>Development of an Abbreviated Form of the Extended Strengths and Weaknesses Assessment of Normal Behavior for Disruptive Mood Dysregulation Disorder (E-SWAN DMDD)</description>
   </item>
   <item>
-    <title>脳を身体に戻す：多モーダル言語研究における内的身体信号の統合</title>
+    <title>身体に脳を取り戻す：多モーダル言語研究における内部身体信号の統合</title>
     <link>https://osf.io/s26aq</link>
     <guid isPermaLink="false">https://osf.io/s26aq#ja</guid>
     <pubDate>Fri, 26 Jun 2026 18:23:31 +0000</pubDate>
@@ -118,21 +118,21 @@
     <description>Trait absorption as predictor of altered states of consciousness across three relaxation induction methods</description>
   </item>
   <item>
-    <title>潜在的プライミングによる先行意識的観察の検出：異なる刺激デザインを用いた探索的検証および6実験の統合解析</title>
+    <title>潜在的プライミングによる事前意識的観察の検出：異なる刺激デザインを用いた探索的検証と6実験の統合解析</title>
     <link>https://osf.io/kad5q</link>
     <guid isPermaLink="false">https://osf.io/kad5q#ja</guid>
     <pubDate>Fri, 26 Jun 2026 18:23:31 +0000</pubDate>
     <description>Detection of Prior Conscious Observation With Subliminal Priming: Exploratory Evidence Across Alternative Stimulus Designs and a Pooled Analysis of Six Experiments</description>
   </item>
   <item>
-    <title>概念システムの整合による自然主義的概念のゼロショット学習</title>
+    <title>概念システムの整合による自然概念のゼロショット学習</title>
     <link>https://osf.io/4e8un</link>
     <guid isPermaLink="false">https://osf.io/4e8un#ja</guid>
     <pubDate>Fri, 26 Jun 2026 18:23:30 +0000</pubDate>
     <description>Zero-shot learning of naturalistic concepts via conceptual systems alignment</description>
   </item>
   <item>
-    <title>トニック瞳孔連動覚醒は空間的注意ではなく全体的反応効率を調節する</title>
+    <title>トニック瞳孔連動覚醒は空間的指向性ではなく全体的反応効率を調節する</title>
     <link>https://osf.io/3wdtp</link>
     <guid isPermaLink="false">https://osf.io/3wdtp#ja</guid>
     <pubDate>Fri, 26 Jun 2026 18:23:30 +0000</pubDate>
@@ -160,7 +160,7 @@
     <description>Emotional Composition Of Sleep-Related Out-Of-Body Experiences In Relation To Sleep Paralysis And Lucid Dreaming</description>
   </item>
   <item>
-    <title>PLFest：注意喚起条件下での検証を含む再現可能な知覚学習研究のための携帯型クロスプラットフォームツール</title>
+    <title>PLFest：注意キュー条件下での検証を含む再現可能な知覚学習研究のための携帯型クロスプラットフォームツール</title>
     <link>https://osf.io/jqzus</link>
     <guid isPermaLink="false">https://osf.io/jqzus#ja</guid>
     <pubDate>Thu, 25 Jun 2026 22:02:17 +0000</pubDate>
@@ -174,28 +174,28 @@
     <description>Psychotic-like experiences and neurobehavioral reward processing in adolescents who use cannabis</description>
   </item>
   <item>
-    <title>運動遂行なしに内的行動表象が形成されうること</title>
+    <title>運動遂行を伴わない内部行動表象の形成</title>
     <link>https://osf.io/47dx2</link>
     <guid isPermaLink="false">https://osf.io/47dx2#ja</guid>
     <pubDate>Thu, 25 Jun 2026 18:22:15 +0000</pubDate>
     <description>Internal action representations can emerge without motor execution</description>
   </item>
   <item>
-    <title>疾病感受性認知尺度（PVD-Kr-10）の10項目韓国語版の心理測定特性の検討</title>
+    <title>疾病感受性認知尺度（PVD-Kr-10）韓国語版10項目の心理計量学的評価</title>
     <link>https://osf.io/ausr4</link>
     <guid isPermaLink="false">https://osf.io/ausr4#ja</guid>
     <pubDate>Thu, 25 Jun 2026 18:22:15 +0000</pubDate>
     <description>Psychometric Evaluation of a 10-Item Korean Adaptation of the Perceived Vulnerability to Disease Scale (PVD-Kr-10)</description>
   </item>
   <item>
-    <title>女性のオーガズム体験における内受容感覚認識と関係満足度の役割</title>
+    <title>内受容感覚認識と関係満足度が女性のオーガズム体験に果たす役割</title>
     <link>https://osf.io/pvyfm</link>
     <guid isPermaLink="false">https://osf.io/pvyfm#ja</guid>
     <pubDate>Thu, 25 Jun 2026 18:22:15 +0000</pubDate>
     <description>The Role of Interoceptive Awareness and Relationship Satisfaction in Female Orgasm Experience</description>
   </item>
   <item>
-    <title>赤と青、そして道徳的類似性：誤った前提を排した気候変動の道徳的再構築の効果</title>
+    <title>赤と青、そして道徳的類似性：誤った仮定を排した気候変動の道徳的再構成の効果</title>
     <link>https://osf.io/a9wpd</link>
     <guid isPermaLink="false">https://osf.io/a9wpd#ja</guid>
     <pubDate>Thu, 25 Jun 2026 18:22:14 +0000</pubDate>
@@ -209,7 +209,7 @@
     <description>PLFest: A Multi-Site Validation of an Open Platform for Visual and Cognitive Assessment</description>
   </item>
   <item>
-    <title>環境行動変容における効力信念の系統的レビューとメタアナリシス</title>
+    <title>環境行動変容における効力感の体系的レビューとメタ分析</title>
     <link>https://osf.io/f6xys</link>
     <guid isPermaLink="false">https://osf.io/f6xys#ja</guid>
     <pubDate>Thu, 25 Jun 2026 18:22:14 +0000</pubDate>
@@ -223,7 +223,7 @@
     <description>Self-reports of personality functioning and depression are practically fungible. A commentary on Kerber et al. (2026)</description>
   </item>
   <item>
-    <title>ゲーム障害：関連事例研究の質的メタシンセシス</title>
+    <title>ゲーム障害：関連症例研究の質的メタシンセシス</title>
     <link>https://osf.io/4fkn2</link>
     <guid isPermaLink="false">https://osf.io/4fkn2#ja</guid>
     <pubDate>Thu, 25 Jun 2026 16:05:31 +0000</pubDate>
@@ -244,7 +244,7 @@
     <description>Introducing LexTurk: A quick lexical test for learners of Turkish</description>
   </item>
   <item>
-    <title>生成AI時代の青少年：半世紀にわたる体系的レビュー</title>
+    <title>生成AI時代の青年期：半世紀にわたる系統的レビュー</title>
     <link>https://osf.io/fxbtp</link>
     <guid isPermaLink="false">https://osf.io/fxbtp#ja</guid>
     <pubDate>Thu, 25 Jun 2026 16:05:29 +0000</pubDate>
@@ -286,7 +286,7 @@
     <description>Individual differences in Speech-in-Noise perception in adults with healthy hearing: auditory, cognitive, and neural mechanisms</description>
   </item>
   <item>
-    <title>自閉症スペクトラム障害および注意欠陥・多動性障害の有病率推定：過剰診断への懸念と過小検出の歴史の均衡</title>
+    <title>自閉症およびADHDの有病率推定：過剰診断への懸念と過小検出の歴史のバランス調整</title>
     <link>https://osf.io/qte5z</link>
     <guid isPermaLink="false">https://osf.io/qte5z#ja</guid>
     <pubDate>Wed, 24 Jun 2026 19:11:40 +0000</pubDate>
@@ -300,7 +300,7 @@
     <description>Believing What We Want? Myside Bias and the Role of Open Science Practices in Public Trust in Science</description>
   </item>
   <item>
-    <title>VR交通シナリオにおける欠如の錯覚：Aピラーの死角がもたらす魔法のような錯覚効果</title>
+    <title>VR交通シナリオにおける消失の錯覚：Aピラーの死角がもたらす魔法のような錯覚効果</title>
     <link>https://osf.io/ucjz7</link>
     <guid isPermaLink="false">https://osf.io/ucjz7#ja</guid>
     <pubDate>Wed, 24 Jun 2026 19:11:39 +0000</pubDate>
@@ -328,7 +328,7 @@
     <description>‘Good Work’ through Good Relationships? A Longitudinal  Field Intervention Study about the Effectiveness of Group Coaching on Well-Being and Resilience at Work</description>
   </item>
   <item>
-    <title>認知源のステレオタイプと陰謀論信念：知覚される道徳性の優位性</title>
+    <title>認知源のステレオタイプと陰謀論信念：知覚された道徳性の優位性</title>
     <link>https://osf.io/h4z3w</link>
     <guid isPermaLink="false">https://osf.io/h4z3w#ja</guid>
     <pubDate>Wed, 24 Jun 2026 19:11:38 +0000</pubDate>
