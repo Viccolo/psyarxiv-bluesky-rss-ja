@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>習慣形成の要因に関する検討：習慣は何によって形成されるのか</title>
+    <title>習慣形成の要因に関する検討：習慣とは何か</title>
     <link>https://osf.io/c7x4s</link>
     <guid isPermaLink="false">https://osf.io/c7x4s#ja</guid>
     <pubDate>Fri, 03 Jul 2026 11:06:08 +0000</pubDate>
@@ -20,7 +20,7 @@
     <description>Comments on “Animal personality is a class of variation not a set of traits” by Réale, Dall, and Dingemanse (2026). Praise, and a pathway for integrating the study of personality evolution</description>
   </item>
   <item>
-    <title>行動脳科学研究者がデータ収集中に安全に任意停止を行うためのe値の活用法</title>
+    <title>行動脳科学研究者はデータ収集中に安全に任意停止できるe値を活用できる</title>
     <link>https://osf.io/632re</link>
     <guid isPermaLink="false">https://osf.io/632re#ja</guid>
     <pubDate>Thu, 02 Jul 2026 20:45:53 +0000</pubDate>
@@ -34,7 +34,7 @@
     <description>Empathy shapes multimodal child-directed communication and children’s language comprehension</description>
   </item>
   <item>
-    <title>評価条件付けとは何か？De Houwer（2026）への応答</title>
+    <title>評価条件付けとは何か―De Houwer（2026）への応答</title>
     <link>https://osf.io/drtvb</link>
     <guid isPermaLink="false">https://osf.io/drtvb#ja</guid>
     <pubDate>Thu, 02 Jul 2026 19:48:01 +0000</pubDate>
@@ -62,7 +62,7 @@
     <description>Revisiting the Blind Implantation Paradigm: Robustness of False Memory Induction Under Controlled Conditions</description>
   </item>
   <item>
-    <title>外国語としての英語リテラシーの基礎：ドイツ人幼児学習者における英語の読解と綴りに対する認知的・言語的要因の寄与</title>
+    <title>外国語としての英語リテラシーの基礎：若年ドイツ語学習者における英語の読解と綴りに対する認知的および言語的要因の寄与</title>
     <link>https://osf.io/khfnj</link>
     <guid isPermaLink="false">https://osf.io/khfnj#ja</guid>
     <pubDate>Wed, 01 Jul 2026 16:17:45 +0000</pubDate>
@@ -83,7 +83,7 @@
     <description>Handing over control: A longitudinal study of delegation and disclosure in human-AI interaction</description>
   </item>
   <item>
-    <title>学校課題における生成型AI依存の個人差：実行機能障害、有用感知、習慣的使用の役割</title>
+    <title>学校課題における生成型AI依存の個人差：実行機能障害、有用性の認知、習慣的使用の役割</title>
     <link>https://osf.io/2rafb</link>
     <guid isPermaLink="false">https://osf.io/2rafb#ja</guid>
     <pubDate>Wed, 01 Jul 2026 16:17:45 +0000</pubDate>
@@ -97,21 +97,21 @@
     <description>Temporal interval judgments are affected by stimulus order but not spatial distance</description>
   </item>
   <item>
-    <title>気候変動メディアコンテンツ視聴時における感覚処理感受性は反芻思考ではなく感情反応の亢進と関連する</title>
+    <title>気候変動メディアコンテンツ視聴時における感覚処理感受性は、反芻思考ではなく情動反応の亢進と関連する</title>
     <link>https://osf.io/k65bu</link>
     <guid isPermaLink="false">https://osf.io/k65bu#ja</guid>
     <pubDate>Wed, 01 Jul 2026 16:17:44 +0000</pubDate>
     <description>Sensory Processing Sensitivity is associated with Heightened Emotional Response, not Rumination when viewing Climate‑Change Media Content</description>
   </item>
   <item>
-    <title>物語の作者は誰か？AIによる著作信念が脳の意味的予測に与える影響</title>
+    <title>物語の作者は誰か？AIによる著作信念が脳の意味予測に及ぼす影響</title>
     <link>https://osf.io/5j4qt</link>
     <guid isPermaLink="false">https://osf.io/5j4qt#ja</guid>
     <pubDate>Wed, 01 Jul 2026 16:17:44 +0000</pubDate>
     <description>Who wrote the story? AI authorship beliefs alter the brain&#x27;s semantic prediction</description>
   </item>
   <item>
-    <title>日本語の歌唱と会話における音響的および社会的結束の差異：尾崎ら（2024）の登録報告の再現研究</title>
+    <title>日本語の歌唱と会話における音響的および社会的結びつきの差異：尾崎ら（2024）の登録報告の再現研究</title>
     <link>https://osf.io/9he86</link>
     <guid isPermaLink="false">https://osf.io/9he86#ja</guid>
     <pubDate>Wed, 01 Jul 2026 16:17:44 +0000</pubDate>
@@ -160,7 +160,7 @@
     <description>Investigating prospective associations between household food insecurity and eating disorder pathology in young people in the UK: Evidence from Understanding Society</description>
   </item>
   <item>
-    <title>測定誤差とモデル誤指定が統計的相互作用に及ぼす共同影響</title>
+    <title>測定誤差とモデル誤指定が統計的相互作用に及ぼす複合的影響</title>
     <link>https://osf.io/s47xz</link>
     <guid isPermaLink="false">https://osf.io/s47xz#ja</guid>
     <pubDate>Wed, 01 Jul 2026 13:54:50 +0000</pubDate>
@@ -188,14 +188,14 @@
     <description>Interictal Epileptiform Discharges and Long-Term Neurodevelopmental Outcomes in Children with Early-Onset Epilepsy: A Systematic Review and Narrative Synthesis</description>
   </item>
   <item>
-    <title>誤信念課題において想定される全脳の解剖学的および時間的パターン</title>
+    <title>誤信念課題において誘発されると仮定される全脳の解剖学的および時間的パターン</title>
     <link>https://osf.io/9nf7t</link>
     <guid isPermaLink="false">https://osf.io/9nf7t#ja</guid>
     <pubDate>Wed, 01 Jul 2026 08:40:59 +0000</pubDate>
     <description>Whole-brain anatomical and temporal patterns  hypothesized to be evoked during a false-belief fMRI task</description>
   </item>
   <item>
-    <title>アルコール使用障害における夜間飲酒の追跡：28日間のモバイルマルチモーダル測定と遅延割引の一日変動に関するモニタリング研究</title>
+    <title>アルコール使用障害における夜間飲酒の追跡：28日間のモバイル多モーダル測定と遅延割引の一日変動に関する研究</title>
     <link>https://osf.io/he7rn</link>
     <guid isPermaLink="false">https://osf.io/he7rn#ja</guid>
     <pubDate>Tue, 30 Jun 2026 21:47:15 +0000</pubDate>
@@ -216,14 +216,14 @@
     <description>Development of the Japanese version of online computerized adaptive tests of young children’s vocabulary: Japanese CDI-CAT</description>
   </item>
   <item>
-    <title>生成AIは文章作成に有用か？堅牢なメタアナリシス（RoBMA）による再解析</title>
+    <title>生成AIは文章作成に有用か？ロバストメタアナリシス（RoBMA）による再解析</title>
     <link>https://osf.io/uk3vf</link>
     <guid isPermaLink="false">https://osf.io/uk3vf#ja</guid>
     <pubDate>Tue, 30 Jun 2026 21:47:14 +0000</pubDate>
     <description>Is GenAI Helpful for Writing? A Re-Analysis Using Robust Meta-Analysis (RoBMA)</description>
   </item>
   <item>
-    <title>解釈可能な機械学習によるモデル誤特定、適合指標、および雑音パラメータの相互作用に関する知見</title>
+    <title>解釈可能な機械学習によるモデル誤指定、適合指標、および雑音パラメータの相互作用に関する知見</title>
     <link>https://osf.io/yfx6s</link>
     <guid isPermaLink="false">https://osf.io/yfx6s#ja</guid>
     <pubDate>Tue, 30 Jun 2026 21:47:14 +0000</pubDate>
@@ -258,56 +258,56 @@
     <description>Milestones in the Wild: Mapping Early Gross Motor Development With the Pebbles App</description>
   </item>
   <item>
-    <title>発達の社会生態学：就学前児の日常経験の構造変化</title>
+    <title>発達の社会生態学：幼児の日常経験の構造変化</title>
     <link>https://osf.io/bmz3e</link>
     <guid isPermaLink="false">https://osf.io/bmz3e#ja</guid>
     <pubDate>Tue, 30 Jun 2026 20:12:48 +0000</pubDate>
     <description>The social ecology of development: The changing structure of preschoolers’ everyday experiences</description>
   </item>
   <item>
-    <title>職業世界の視点と知識：計画的偶発性スキルを育成するキャリア講義</title>
+    <title>職業世界の視点と知識：計画的偶発性スキルを育成するキャリアコース</title>
     <link>https://osf.io/ekqhr</link>
     <guid isPermaLink="false">https://osf.io/ekqhr#ja</guid>
     <pubDate>Tue, 30 Jun 2026 20:12:48 +0000</pubDate>
     <description>Perspectives et connaissances des mondes professionnels : un cours de carrière développant les compétences de hasard planifié</description>
   </item>
   <item>
-    <title>集約の迷宮：スコアベースから表象的メンタライゼーションへ</title>
+    <title>集約の迷宮：スコアベースから表象的メンタライゼーションへの展開</title>
     <link>https://osf.io/4nh62</link>
     <guid isPermaLink="false">https://osf.io/4nh62#ja</guid>
     <pubDate>Tue, 30 Jun 2026 20:12:48 +0000</pubDate>
     <description>Lost in aggregation: from score-based to representational mentalization</description>
   </item>
   <item>
-    <title>外傷性脳損傷後の安静時fMRIに関する系統的レビュー：ノイズ中の信号同定</title>
+    <title>騒音の中の信号を識別する：外傷性脳損傷後の安静時fMRIに関する体系的レビュー</title>
     <link>https://osf.io/wfmbs</link>
     <guid isPermaLink="false">https://osf.io/wfmbs#ja</guid>
     <pubDate>Tue, 30 Jun 2026 20:12:48 +0000</pubDate>
     <description>Identifying Signal in the Noise: A Systematic Review of Resting State fMRI after Traumatic Brain Injury</description>
   </item>
   <item>
-    <title>一般集団および小児性愛サブサンプルにおけるパラフィリア興味の相互相関分析</title>
+    <title>一般集団および小児性愛サブサンプルにおけるパラフィリア興味の相互相関</title>
     <link>https://osf.io/pbfvn</link>
     <guid isPermaLink="false">https://osf.io/pbfvn#ja</guid>
     <pubDate>Tue, 30 Jun 2026 20:12:47 +0000</pubDate>
     <description>Intercorrelations of Paraphilic Interests in a General Population and a Pedophilic Subsample</description>
   </item>
   <item>
-    <title>芸術における曖昧さの評価：意味的距離と洞察確信度が美的評価に与える影響</title>
+    <title>芸術における曖昧性の評価：意味的距離と洞察確信度が美的評価に及ぼす影響</title>
     <link>https://osf.io/h8ztf</link>
     <guid isPermaLink="false">https://osf.io/h8ztf#ja</guid>
     <pubDate>Tue, 30 Jun 2026 20:12:47 +0000</pubDate>
     <description>Appreciating Ambiguity in Art: The effects of semantic distance and insight confidence on aesthetic appreciation</description>
   </item>
   <item>
-    <title>パンデミック段階におけるレジリエンス：青年期における心理社会的関連因子とストレス緩衝効果の識別</title>
+    <title>パンデミック期におけるレジリエンス：若年層の心理社会的関連要因とストレス緩衝効果の識別</title>
     <link>https://osf.io/3ed7s</link>
     <guid isPermaLink="false">https://osf.io/3ed7s#ja</guid>
     <pubDate>Tue, 30 Jun 2026 20:12:47 +0000</pubDate>
     <description>Resilience across pandemic phases: distinguishing psychosocial correlates from stress-buffering effects in youth</description>
   </item>
   <item>
-    <title>コンピュータ適応検査における停止規則を用いた従来の逐次検査：潜在的利点は追加の複雑性を上回るか？</title>
+    <title>コンピュータ適応検査における停止規則を用いた従来の逐次進行検査：潜在的利点は追加の複雑性を上回るか？</title>
     <link>https://osf.io/e4y5h</link>
     <guid isPermaLink="false">https://osf.io/e4y5h#ja</guid>
     <pubDate>Tue, 30 Jun 2026 20:12:47 +0000</pubDate>
