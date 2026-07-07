@@ -6,21 +6,21 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>第二言語における比喩的思考：比喩がL2学習者の科学学習に与える効果の検討（比喩と直説的説明の比較）</title>
+    <title>第二言語におけるメタファー思考：比喩表現がL2学習者の科学学習に与える効果の検証（直説的説明との比較）</title>
     <link>https://osf.io/6b4ej</link>
     <guid isPermaLink="false">https://osf.io/6b4ej#ja</guid>
     <pubDate>Mon, 06 Jul 2026 18:18:33 +0000</pubDate>
     <description>Thinking through metaphor in a second language: A study of whether metaphors benefit the science learning of L2 students compared to literal explanations</description>
   </item>
   <item>
-    <title>偏った判断者：GPT-4oの法的決定における最新情報効果、慎重な有罪判決、および保守的な情報更新</title>
+    <title>偏った判断者：GPT-4oの法的判断における最新情報効果、慎重な有罪判決、および保守的な情報更新</title>
     <link>https://osf.io/gcd6k</link>
     <guid isPermaLink="false">https://osf.io/gcd6k#ja</guid>
     <pubDate>Mon, 06 Jul 2026 18:18:33 +0000</pubDate>
     <description>Biased Judge: Recency Effects, Cautious Convictions, and Conservative Updating in GPT-4o’s Legal Decisions</description>
   </item>
   <item>
-    <title>自閉症者と非自閉症者における自傷行為：ネットワーク構造と自殺念慮の時間的予測</title>
+    <title>自閉症者および非自閉症者における自傷行為：ネットワーク構造と自殺念慮の時間的予測</title>
     <link>https://osf.io/2zwm9</link>
     <guid isPermaLink="false">https://osf.io/2zwm9#ja</guid>
     <pubDate>Mon, 06 Jul 2026 18:18:33 +0000</pubDate>
@@ -62,7 +62,7 @@
     <description>The Effect of Psychological Distance on Level of Construal: What do we Learn from the CLIMR Failed Replication?</description>
   </item>
   <item>
-    <title>実験的文脈における行動および選択指標が示す自己利益志向と環境保護志向の強い選好差</title>
+    <title>実験的文脈における行動および選択指標は、環境保護よりも自己利益を優先する強い嗜好を示す</title>
     <link>https://osf.io/s72md</link>
     <guid isPermaLink="false">https://osf.io/s72md#ja</guid>
     <pubDate>Mon, 06 Jul 2026 18:18:31 +0000</pubDate>
@@ -76,7 +76,7 @@
     <description>From Pathogens to Paintings: A Preliminary Investigation Into the Behavioral Immune System’s Influence on Visual Aesthetic Appreciation and Perception</description>
   </item>
   <item>
-    <title>初対面の社会的出会いにおけるメタ好意の正確性：外見、行動、相互性の役割の検討</title>
+    <title>本当に私のことが好きかどうかはどう判断するか？初対面の社会的出会いにおける外見、行動、相互性がメタライク精度に果たす役割の検討</title>
     <link>https://osf.io/hf7z4</link>
     <guid isPermaLink="false">https://osf.io/hf7z4#ja</guid>
     <pubDate>Mon, 06 Jul 2026 12:36:45 +0000</pubDate>
@@ -104,7 +104,7 @@
     <description>Acute effects of competitive exercise context and competitive outcomes on mood responses</description>
   </item>
   <item>
-    <title>rおよびR²の解釈の再検討：Funder &amp; Ozer（2019）へのコメント</title>
+    <title>rおよびR²の解釈の再考：Funder &amp; Ozer（2019）へのコメント</title>
     <link>https://osf.io/7pn2t</link>
     <guid isPermaLink="false">https://osf.io/7pn2t#ja</guid>
     <pubDate>Mon, 06 Jul 2026 12:36:44 +0000</pubDate>
@@ -132,14 +132,14 @@
     <description>“We love our jobs!” Systems Thinking and Participatory Action Research for the future of neurodiversity and skilled employment</description>
   </item>
   <item>
-    <title>持続性疼痛における学際的ケアの実践方法：臨床意思決定のためのプロセスベースフレームワーク</title>
+    <title>慢性疼痛における学際的ケアの実践方法：臨床意思決定のためのプロセスベースフレームワーク</title>
     <link>https://osf.io/r8nzd</link>
     <guid isPermaLink="false">https://osf.io/r8nzd#ja</guid>
     <pubDate>Sat, 04 Jul 2026 19:48:18 +0000</pubDate>
     <description>How to Implement Interdisciplinary Care in Persistent Pain: A Process-Based Framework for Clinical Decision-Making</description>
   </item>
   <item>
-    <title>協力と意図に基づく公正性のトレードオフ</title>
+    <title>協力と意図に基づく公平性のトレードオフ</title>
     <link>https://osf.io/jbuhy</link>
     <guid isPermaLink="false">https://osf.io/jbuhy#ja</guid>
     <pubDate>Sat, 04 Jul 2026 19:48:18 +0000</pubDate>
@@ -153,7 +153,7 @@
     <description>Sociocultural Correlates of Infant Visual Attention</description>
   </item>
   <item>
-    <title>脳の健康研究のための文化生態社会的枠組み</title>
+    <title>脳の健康研究における文化生態社会的枠組み</title>
     <link>https://osf.io/7f5c3</link>
     <guid isPermaLink="false">https://osf.io/7f5c3#ja</guid>
     <pubDate>Sat, 04 Jul 2026 19:48:17 +0000</pubDate>
@@ -167,7 +167,7 @@
     <description>From suspicion to violent action: A multi-category framework of fear speech using qualitative content analysis and machine learning</description>
   </item>
   <item>
-    <title>習慣形成の要因に関する検討：習慣とは何か</title>
+    <title>習慣形成の要因に関する検討：習慣とは何か？</title>
     <link>https://osf.io/c7x4s</link>
     <guid isPermaLink="false">https://osf.io/c7x4s#ja</guid>
     <pubDate>Fri, 03 Jul 2026 11:06:08 +0000</pubDate>
@@ -181,7 +181,7 @@
     <description>Comments on “Animal personality is a class of variation not a set of traits” by Réale, Dall, and Dingemanse (2026). Praise, and a pathway for integrating the study of personality evolution</description>
   </item>
   <item>
-    <title>行動脳科学研究者がデータ収集中に安全に任意停止を行うためのe値の活用法</title>
+    <title>行動脳科学におけるデータ収集中の安全な任意停止のためのe値の活用法</title>
     <link>https://osf.io/632re</link>
     <guid isPermaLink="false">https://osf.io/632re#ja</guid>
     <pubDate>Thu, 02 Jul 2026 20:45:53 +0000</pubDate>
@@ -223,7 +223,7 @@
     <description>Revisiting the Blind Implantation Paradigm: Robustness of False Memory Induction Under Controlled Conditions</description>
   </item>
   <item>
-    <title>外国語としての英語リテラシーの基礎：ドイツ人幼児学習者における英語の読解と綴りに対する認知的・言語的要因の寄与</title>
+    <title>外国語としての英語リテラシーの基礎：若年ドイツ語学習者における英語の読解と綴りに対する認知的および言語的要因の寄与</title>
     <link>https://osf.io/khfnj</link>
     <guid isPermaLink="false">https://osf.io/khfnj#ja</guid>
     <pubDate>Wed, 01 Jul 2026 16:17:45 +0000</pubDate>
@@ -265,14 +265,14 @@
     <description>Sensory Processing Sensitivity is associated with Heightened Emotional Response, not Rumination when viewing Climate‑Change Media Content</description>
   </item>
   <item>
-    <title>物語の作者は誰か？AIによる著作信念が脳の意味予測に与える影響</title>
+    <title>物語の作者は誰か？AIによる著作信念が脳の意味予測に及ぼす影響</title>
     <link>https://osf.io/5j4qt</link>
     <guid isPermaLink="false">https://osf.io/5j4qt#ja</guid>
     <pubDate>Wed, 01 Jul 2026 16:17:44 +0000</pubDate>
     <description>Who wrote the story? AI authorship beliefs alter the brain&#x27;s semantic prediction</description>
   </item>
   <item>
-    <title>日本語歌唱と会話における音響的および社会的結びつきの差異：尾崎ら（2024）の登録報告の再現研究</title>
+    <title>日本語歌唱と会話における音響的および社会的結合の差異：尾崎ら（2024）の再現研究（登録報告）</title>
     <link>https://osf.io/9he86</link>
     <guid isPermaLink="false">https://osf.io/9he86#ja</guid>
     <pubDate>Wed, 01 Jul 2026 16:17:44 +0000</pubDate>
@@ -286,7 +286,7 @@
     <description>Realistic deepfakes are detected better from a single glance than deliberate inspection</description>
   </item>
   <item>
-    <title>構成性評価における行動からの逃避は不可能である</title>
+    <title>構成性評価における行動からの逃避不可能性</title>
     <link>https://osf.io/u6tnx</link>
     <guid isPermaLink="false">https://osf.io/u6tnx#ja</guid>
     <pubDate>Wed, 01 Jul 2026 13:54:51 +0000</pubDate>
@@ -314,7 +314,7 @@
     <description>Developing a measure for the need for sex</description>
   </item>
   <item>
-    <title>英国の若年層における家庭の食料不安と摂食障害病理の将来的関連性の検討：Understanding Societyデータによる証拠</title>
+    <title>英国における若年層の家庭内食料不安と摂食障害病理の将来的関連性の検討：Understanding Societyデータによる証拠</title>
     <link>https://osf.io/wy74h</link>
     <guid isPermaLink="false">https://osf.io/wy74h#ja</guid>
     <pubDate>Wed, 01 Jul 2026 13:54:50 +0000</pubDate>
@@ -328,7 +328,7 @@
     <description>The Joint Effects of Measurement Error and Model Misspecification on Statistical Interactions</description>
   </item>
   <item>
-    <title>反復可能な社会的ストレステスト（ReSST）：人間における反復的ストレス反応を誘発する新規パラダイムの指針と検証</title>
+    <title>反復可能な社会的ストレステスト（ReSST）：人間における反復的ストレス反応を誘発する新規パラダイムのガイドと検証</title>
     <link>https://osf.io/s89xa</link>
     <guid isPermaLink="false">https://osf.io/s89xa#ja</guid>
     <pubDate>Wed, 01 Jul 2026 13:54:50 +0000</pubDate>
@@ -342,14 +342,14 @@
     <description>Development, Content Validation, and Preliminary Accessibility Testing of a Workplace Well-Being Assessment Tool for Workers with Intellectual Disabilities</description>
   </item>
   <item>
-    <title>早期発症てんかん児における発作間てんかん性放電と長期神経発達転帰：系統的レビューと叙述的統合</title>
+    <title>早期発症てんかん児における発作間てんかん性放電と長期神経発達転帰：系統的レビューとナラティブシンセシス</title>
     <link>https://osf.io/hkeaq</link>
     <guid isPermaLink="false">https://osf.io/hkeaq#ja</guid>
     <pubDate>Wed, 01 Jul 2026 13:54:50 +0000</pubDate>
     <description>Interictal Epileptiform Discharges and Long-Term Neurodevelopmental Outcomes in Children with Early-Onset Epilepsy: A Systematic Review and Narrative Synthesis</description>
   </item>
   <item>
-    <title>誤信念課題において想定される全脳の解剖学的および時間的パターン</title>
+    <title>誤信念課題において想定される全脳の解剖学的および時間的パターンの検討</title>
     <link>https://osf.io/9nf7t</link>
     <guid isPermaLink="false">https://osf.io/9nf7t#ja</guid>
     <pubDate>Wed, 01 Jul 2026 08:40:59 +0000</pubDate>
