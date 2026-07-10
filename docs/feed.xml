@@ -6,6 +6,20 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>大規模言語モデル（LLM）搭載統計チャットボットとの心理学学生の対話のマッピング</title>
+    <link>https://osf.io/bvfy7</link>
+    <guid isPermaLink="false">https://osf.io/bvfy7#ja</guid>
+    <pubDate>Fri, 10 Jul 2026 10:38:55 +0000</pubDate>
+    <description>Mapping Psychology Students’ Conversations with a  Large Language Model (LLM)-Powered Statistics Chatbot</description>
+  </item>
+  <item>
+    <title>パワーリフターにおける経皮的耳介迷走神経刺激後の心理的健康および認知機能向上</title>
+    <link>https://osf.io/hdkzb</link>
+    <guid isPermaLink="false">https://osf.io/hdkzb#ja</guid>
+    <pubDate>Fri, 10 Jul 2026 10:38:54 +0000</pubDate>
+    <description>Psychological Health and Cognitive Performance Gains after Transcutaneous Auricular Vagus Nerve Stimulation in Powerlifters</description>
+  </item>
+  <item>
     <title>統合失調質パーソナリティ障害と人間－ペット愛着：テーマ分析</title>
     <link>https://osf.io/vwrzd</link>
     <guid isPermaLink="false">https://osf.io/vwrzd#ja</guid>
@@ -13,14 +27,14 @@
     <description>Schizoid Personality Disorder and Human-Pet Attachment: A Thematic Analysis</description>
   </item>
   <item>
-    <title>医療機関外で薬物使用者に提供される非専門職者による心理社会的介入の効果に関する一貫性のない証拠：システマティックレビュー</title>
+    <title>医療機関外での違法薬物使用者に対する非専門家による心理社会的介入の効果に関する一貫性のない証拠：システマティックレビュー</title>
     <link>https://osf.io/6qxbn</link>
     <guid isPermaLink="false">https://osf.io/6qxbn#ja</guid>
     <pubDate>Thu, 09 Jul 2026 22:57:43 +0000</pubDate>
     <description>Inconsistent evidence on lay worker-delivered psychosocial interventions for people who use illicit drugs outside healthcare settings: a systematic review</description>
   </item>
   <item>
-    <title>精神疾患を有する人々の性的・生殖医療へのアクセス：認知度、利用状況、体験および公平性に関する系統的レビュー</title>
+    <title>精神疾患を有する人々の性と生殖に関する医療へのアクセス：認知度、利用状況、体験および公平性の系統的レビュー</title>
     <link>https://osf.io/qye9z</link>
     <guid isPermaLink="false">https://osf.io/qye9z#ja</guid>
     <pubDate>Thu, 09 Jul 2026 21:48:38 +0000</pubDate>
@@ -34,7 +48,7 @@
     <description>Semantic alignment between clients and therapists predicts therapeutic alliance and treatment outcomes in message-based psychotherapy</description>
   </item>
   <item>
-    <title>彼らの視点を通して：視点編集による没入感向上の神経および行動的証拠</title>
+    <title>彼らの視点を通して：視点編集による没入感増強の神経および行動的証拠</title>
     <link>https://osf.io/23p68</link>
     <guid isPermaLink="false">https://osf.io/23p68#ja</guid>
     <pubDate>Thu, 09 Jul 2026 21:48:37 +0000</pubDate>
@@ -48,14 +62,14 @@
     <description>Neural Racing Accumulator Model Estimation With Lightweight Monotonic Flows</description>
   </item>
   <item>
-    <title>低品質合成音声におけるイントネーション処理：文型、語順、音楽訓練の影響</title>
+    <title>低品質合成音声におけるイントネーション処理：文型、語順および音楽訓練の影響</title>
     <link>https://osf.io/69rjq</link>
     <guid isPermaLink="false">https://osf.io/69rjq#ja</guid>
     <pubDate>Thu, 09 Jul 2026 21:48:37 +0000</pubDate>
     <description>Intonation processing in low-quality synthesised speech: effects of sentence type, word order, and music training</description>
   </item>
   <item>
-    <title>対話型AIが懐疑的立場の社会的争点における信念と政策支持に与える影響</title>
+    <title>対話型AIが懐疑的立場の社会的争点に関する信念と政策支持に与える影響</title>
     <link>https://osf.io/7szrn</link>
     <guid isPermaLink="false">https://osf.io/7szrn#ja</guid>
     <pubDate>Thu, 09 Jul 2026 21:48:36 +0000</pubDate>
@@ -97,14 +111,14 @@
     <description>The role of interoceptive body trusting in the link between trauma, resilience, mental health and somatic symptoms in children</description>
   </item>
   <item>
-    <title>子どもへの具体語と抽象語の教授：家族とのインタラクティブな課題</title>
+    <title>子どもへの具体語と抽象語の教授：家族との双方向的課題</title>
     <link>https://osf.io/rpkc9</link>
     <guid isPermaLink="false">https://osf.io/rpkc9#ja</guid>
     <pubDate>Wed, 08 Jul 2026 17:52:58 +0000</pubDate>
     <description>Insegnare parole concrete e astratte alla tua bambina/o: un compito interattivo con le famiglie</description>
   </item>
   <item>
-    <title>記憶における自己の視覚化：視点の違いと想起された自己</title>
+    <title>記憶における自己の視覚的視点と想起された自己感覚</title>
     <link>https://osf.io/a28kw</link>
     <guid isPermaLink="false">https://osf.io/a28kw#ja</guid>
     <pubDate>Tue, 07 Jul 2026 21:02:15 +0000</pubDate>
@@ -118,14 +132,14 @@
     <description>Integrating Social Determinants in Brain Health Research: A Framework and Toolkit</description>
   </item>
   <item>
-    <title>ワンショットダウンロード課題の導入：オンライン環境配慮行動の新規かつ簡便な測定法の妥当性検証</title>
+    <title>ワンショットダウンロード課題の導入：オンラインにおける環境配慮行動の新規かつ簡便な測定法の妥当性検証</title>
     <link>https://osf.io/23w84</link>
     <guid isPermaLink="false">https://osf.io/23w84#ja</guid>
     <pubDate>Tue, 07 Jul 2026 21:02:15 +0000</pubDate>
     <description>Introducing the One-Shot Download Task: Testing the validity of a new and simple measure of online pro-environmental behavior</description>
   </item>
   <item>
-    <title>経験サンプリング研究における説明方法が参加者の体験、データの質および量に及ぼす影響の検討</title>
+    <title>体験サンプリング研究における説明方法が参加者の体験、データの質および量に与える影響の検討</title>
     <link>https://osf.io/vgpm6</link>
     <guid isPermaLink="false">https://osf.io/vgpm6#ja</guid>
     <pubDate>Tue, 07 Jul 2026 19:25:18 +0000</pubDate>
@@ -146,7 +160,7 @@
     <description>Handling of reputation-damaging information in adolescents and young adults with autism</description>
   </item>
   <item>
-    <title>私たちは同じ排他性を測定しているのか？集団レベルの社会的選好の二つの測定手法の比較</title>
+    <title>私たちは同じ排他主義を測定しているのか？集団レベルの社会的選好の二つの測定方法の比較</title>
     <link>https://osf.io/gr67n</link>
     <guid isPermaLink="false">https://osf.io/gr67n#ja</guid>
     <pubDate>Tue, 07 Jul 2026 19:25:17 +0000</pubDate>
@@ -167,21 +181,21 @@
     <description>Directed Recognizability in AI-Biographical Conversational Agents: Design and Evaluation in the Digital Afterlife Context</description>
   </item>
   <item>
-    <title>ちょっと待って：内省と摩擦がソーシャルメディアの利用、気分、幸福感に与える影響</title>
+    <title>ちょっと待って：内省と摩擦がソーシャルメディア利用、気分、幸福感に与える影響</title>
     <link>https://osf.io/ngbue</link>
     <guid isPermaLink="false">https://osf.io/ngbue#ja</guid>
     <pubDate>Tue, 07 Jul 2026 19:25:16 +0000</pubDate>
     <description>Wait a sec: How reflection and friction impact social media use, mood, and well-being</description>
   </item>
   <item>
-    <title>ホームレスの性別による認知の違い：ホームレス男性と女性のステレオタイプおよび行動可能性の相違点</title>
+    <title>ホームレスの性別による認知の違い：ホームレス男性と女性のステレオタイプおよび行動可能性の比較分析</title>
     <link>https://osf.io/67jg8</link>
     <guid isPermaLink="false">https://osf.io/67jg8#ja</guid>
     <pubDate>Tue, 07 Jul 2026 19:25:15 +0000</pubDate>
     <description>Gendered Perceptions of the Homeless: How Do Homeless Men and Women Differ in Terms of Stereotypes and Affordances?</description>
   </item>
   <item>
-    <title>生成AIを活用した数学における学生の所属感醸成</title>
+    <title>生成AIを活用した数学における学生の帰属意識の醸成</title>
     <link>https://osf.io/p3y7m</link>
     <guid isPermaLink="false">https://osf.io/p3y7m#ja</guid>
     <pubDate>Tue, 07 Jul 2026 17:45:34 +0000</pubDate>
@@ -216,7 +230,7 @@
     <description>On the relationship between pain and the sense of body ownership: a systematic review</description>
   </item>
   <item>
-    <title>異なる刺激タイプ・課題・応答様式におけるブロック循環語産出における意味的干渉</title>
+    <title>異なる刺激タイプ・課題・応答様式におけるブロック循環型語産出における意味的干渉</title>
     <link>https://osf.io/a4vdb</link>
     <guid isPermaLink="false">https://osf.io/a4vdb#ja</guid>
     <pubDate>Tue, 07 Jul 2026 17:45:33 +0000</pubDate>
@@ -230,21 +244,21 @@
     <description>Emerging Stressors and Adolescent Depression and Anxiety: Associations and Cumulative Burden Among Kenyan Adolescents</description>
   </item>
   <item>
-    <title>スリランカにおけるシンハラ語およびタミル語の自殺行動および対人自殺リスク構成概念の心理計測評価</title>
+    <title>スリランカにおけるシンハラ語およびタミル語の自殺行動および対人自殺リスク構成概念の心理測定学的評価</title>
     <link>https://osf.io/hcxkn</link>
     <guid isPermaLink="false">https://osf.io/hcxkn#ja</guid>
     <pubDate>Tue, 07 Jul 2026 17:45:33 +0000</pubDate>
     <description>Psychometric Evaluation of Sinhala and Tamil Measures of Suicidal Behaviour and Interpersonal Suicide Risk Constructs in Sri Lanka</description>
   </item>
   <item>
-    <title>第二言語における比喩的思考：比喩がL2学習者の科学学習に与える効果の検討（直説的説明との比較）</title>
+    <title>第二言語における比喩的思考：比喩がL2学習者の科学学習に与える効果の検討（比喩と直説的説明の比較）</title>
     <link>https://osf.io/6b4ej</link>
     <guid isPermaLink="false">https://osf.io/6b4ej#ja</guid>
     <pubDate>Mon, 06 Jul 2026 18:18:33 +0000</pubDate>
     <description>Thinking through metaphor in a second language: A study of whether metaphors benefit the science learning of L2 students compared to literal explanations</description>
   </item>
   <item>
-    <title>偏った裁判官：GPT-4oの法的判断における最新情報効果、慎重な有罪判決、および保守的な情報更新</title>
+    <title>偏った判断者：GPT-4oの法的判断における最新情報効果、慎重な有罪判決、および保守的な情報更新</title>
     <link>https://osf.io/gcd6k</link>
     <guid isPermaLink="false">https://osf.io/gcd6k#ja</guid>
     <pubDate>Mon, 06 Jul 2026 18:18:33 +0000</pubDate>
@@ -286,35 +300,35 @@
     <description>What’s Wrong with Motivated Reasoning?</description>
   </item>
   <item>
-    <title>心理的距離が構成レベルに及ぼす影響：CLIMRの再現失敗から得られる知見</title>
+    <title>心理的距離が構成レベルに及ぼす影響：CLIMR失敗再現実験から得られる知見</title>
     <link>https://osf.io/8uk67</link>
     <guid isPermaLink="false">https://osf.io/8uk67#ja</guid>
     <pubDate>Mon, 06 Jul 2026 18:18:31 +0000</pubDate>
     <description>The Effect of Psychological Distance on Level of Construal: What do we Learn from the CLIMR Failed Replication?</description>
   </item>
   <item>
-    <title>実験的文脈におけるパフォーマンスおよび選択指標が示す自己利益志向と環境保護志向の強い選好差</title>
+    <title>実験的文脈における行動および選択指標が示す自己利益志向と環境保護志向の強い選好差</title>
     <link>https://osf.io/s72md</link>
     <guid isPermaLink="false">https://osf.io/s72md#ja</guid>
     <pubDate>Mon, 06 Jul 2026 18:18:31 +0000</pubDate>
     <description>Performance and choice measures in an experimental context reveal strong preferences for self-benefitting compared to pro-environmental outcomes</description>
   </item>
   <item>
-    <title>病原体から絵画へ：行動免疫システムが視覚的美的評価と知覚に与える影響の予備的検討</title>
+    <title>病原体から絵画へ：行動免疫システムが視覚的美的評価と知覚に及ぼす影響の予備的検討</title>
     <link>https://osf.io/6szky</link>
     <guid isPermaLink="false">https://osf.io/6szky#ja</guid>
     <pubDate>Mon, 06 Jul 2026 18:18:30 +0000</pubDate>
     <description>From Pathogens to Paintings: A Preliminary Investigation Into the Behavioral Immune System’s Influence on Visual Aesthetic Appreciation and Perception</description>
   </item>
   <item>
-    <title>本当に私のことを好いているかどうかはどう判断するか？初対面の社会的出会いにおける外見、行動、相互性がメタ好意認知の正確性に果たす役割の検討</title>
+    <title>初対面の社会的出会いにおけるメタ好意の正確性：外見、行動、相互性の役割の検討</title>
     <link>https://osf.io/hf7z4</link>
     <guid isPermaLink="false">https://osf.io/hf7z4#ja</guid>
     <pubDate>Mon, 06 Jul 2026 12:36:45 +0000</pubDate>
     <description>How Will I Know If You Really Like Me? Assessing the Role of Appearance, Behavior, and Reciprocity for Meta-Liking Accuracy in Initial Social Encounters</description>
   </item>
   <item>
-    <title>ASMRが不快に感じられるとき：食事音に対する感情反応に及ぼす音響特徴と視覚的文脈の影響</title>
+    <title>ASMRが不快になるとき：食事音に対する感情反応に及ぼす音響特徴と視覚的文脈の影響</title>
     <link>https://osf.io/fd37t</link>
     <guid isPermaLink="false">https://osf.io/fd37t#ja</guid>
     <pubDate>Mon, 06 Jul 2026 12:36:45 +0000</pubDate>
@@ -335,25 +349,11 @@
     <description>Acute effects of competitive exercise context and competitive outcomes on mood responses</description>
   </item>
   <item>
-    <title>rおよびR²の解釈の再検討：Funder &amp; Ozer（2019）へのコメント</title>
+    <title>rおよびR²の解釈の再考：Funder &amp; Ozer（2019）へのコメント</title>
     <link>https://osf.io/7pn2t</link>
     <guid isPermaLink="false">https://osf.io/7pn2t#ja</guid>
     <pubDate>Mon, 06 Jul 2026 12:36:44 +0000</pubDate>
     <description>Revisiting the Interpretation of r and R2: A Comment on Funder &amp;amp; Ozer (2019)</description>
-  </item>
-  <item>
-    <title>比喩的意味の構造：動的かつ柔軟なイメージベース表象に関する神経生理学的証拠</title>
-    <link>https://osf.io/8quzg</link>
-    <guid isPermaLink="false">https://osf.io/8quzg#ja</guid>
-    <pubDate>Mon, 06 Jul 2026 12:36:44 +0000</pubDate>
-    <description>The format of metaphorical meaning: Neurophysiological evidence for dynamic and flexible image-based representations</description>
-  </item>
-  <item>
-    <title>イランにおける六側面好奇心尺度（5DCR）の異文化検証：ドイツおよび英国との心理計測的評価と測定不変性の比較</title>
-    <link>https://osf.io/zycts</link>
-    <guid isPermaLink="false">https://osf.io/zycts#ja</guid>
-    <pubDate>Sun, 05 Jul 2026 21:04:12 +0000</pubDate>
-    <description>Cross-cultural validation of the six-facet curiosity inventory (5DCR) in Iran: Psychometric evaluation and measurement invariance compared to Germany and the UK</description>
   </item>
 </channel>
 </rss>
