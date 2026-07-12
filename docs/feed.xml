@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>イタリア語語彙における形態と意味の対応：11,000語以上の語彙に関する象徴性規範</title>
+    <title>イタリア語語彙における形態と意味の対応：11,000語以上のアイコニシティ規範</title>
     <link>https://osf.io/83nvu</link>
     <guid isPermaLink="false">https://osf.io/83nvu#ja</guid>
     <pubDate>Sun, 12 Jul 2026 16:13:06 +0000</pubDate>
@@ -27,14 +27,14 @@
     <description>Divine Verification: Introducing a CAPTCHA-based Religious Priming Technique</description>
   </item>
   <item>
-    <title>生成AIにおける信頼と不信の集団的交渉：ChatGPTおよびClaudeに関するReddit議論の証拠</title>
+    <title>生成AIにおける信頼と不信の集団的交渉：RedditにおけるChatGPTとClaudeの議論からの証拠</title>
     <link>https://osf.io/dnxyk</link>
     <guid isPermaLink="false">https://osf.io/dnxyk#ja</guid>
     <pubDate>Sun, 12 Jul 2026 15:11:56 +0000</pubDate>
     <description>Collectively Negotiating Trust and Mistrust in Generative AI: Evidence from Reddit Discussions of ChatGPT and Claude</description>
   </item>
   <item>
-    <title>ボランティア活動の開始と中断は、ドイツ高齢者の全国的サンプルにおける2年間のパーソナリティ発達と関連する</title>
+    <title>ボランティア活動の開始と中断がドイツ高齢者の2年間のパーソナリティ発達に及ぼす影響：人口ベースサンプルによる検討</title>
     <link>https://osf.io/hxdv5</link>
     <guid isPermaLink="false">https://osf.io/hxdv5#ja</guid>
     <pubDate>Sun, 12 Jul 2026 15:11:55 +0000</pubDate>
@@ -69,35 +69,35 @@
     <description>Rational Emotive Behavior Therapy for Career Decision Regret among Muslim University Students: A Systematic Literature Review</description>
   </item>
   <item>
-    <title>ME/CFSおよびロングCOVIDに関連するTikTokコンテンツ曝露が疾病認知およびスティグマに与える影響の理解：実験的研究</title>
+    <title>ME/CFSおよびロングCOVIDに関連するTikTokコンテンツの曝露が疾病認知およびスティグマに与える影響の理解：実験的研究</title>
     <link>https://osf.io/2krwv</link>
     <guid isPermaLink="false">https://osf.io/2krwv#ja</guid>
     <pubDate>Sat, 11 Jul 2026 20:13:51 +0000</pubDate>
     <description>Understanding the effects of exposure to TikTok content related to ME/CFS and Long COVID on associated illness perceptions and stigma: An experimental study</description>
   </item>
   <item>
-    <title>集団主義的インドネシアにおける宗教性と親社会的行動：資源交換の視点からの考察</title>
+    <title>集団主義的インドネシアにおける宗教性と親社会的行動：資源の視点からの考察</title>
     <link>https://osf.io/q9csp</link>
     <guid isPermaLink="false">https://osf.io/q9csp#ja</guid>
     <pubDate>Sat, 11 Jul 2026 20:13:51 +0000</pubDate>
     <description>Religiosity and Prosocial Behavior in Collectivistic Indonesia: A Conversation of Resources Perspective</description>
   </item>
   <item>
-    <title>若年成人におけるフラストレーション誘発要因の潜在類型と精神病理との関連</title>
+    <title>若年成人における欲求不満誘発要因の潜在類型と精神病理との関連</title>
     <link>https://osf.io/rxcpy</link>
     <guid isPermaLink="false">https://osf.io/rxcpy#ja</guid>
     <pubDate>Fri, 10 Jul 2026 21:16:35 +0000</pubDate>
     <description>Latent types of frustration triggers and their links to psychopathology in young adults</description>
   </item>
   <item>
-    <title>子どもの数列処理課題における戦略使用の発達軌跡</title>
+    <title>数列処理課題における子どもの戦略使用の発達軌跡</title>
     <link>https://osf.io/2sbgt</link>
     <guid isPermaLink="false">https://osf.io/2sbgt#ja</guid>
     <pubDate>Fri, 10 Jul 2026 18:47:26 +0000</pubDate>
     <description>The developmental trajectory of children’s strategy use on number order processing tasks</description>
   </item>
   <item>
-    <title>親の語りが明かす、経済的困難の中で家族が適応する様子 ― 「世界が崩壊しても」</title>
+    <title>経済的困難下における家族の適応過程：親の語りが示す「たとえ世界が崩壊しても」</title>
     <link>https://osf.io/kstrm</link>
     <guid isPermaLink="false">https://osf.io/kstrm#ja</guid>
     <pubDate>Fri, 10 Jul 2026 18:47:25 +0000</pubDate>
@@ -125,7 +125,7 @@
     <description>A Neural Network Model of Retrieval Difficulty in Chinese Handwriting</description>
   </item>
   <item>
-    <title>精神健康と政治の連関：思春期から中年期にかけての精神健康の軌跡が政治的態度と投票行動に与える影響</title>
+    <title>精神健康と政治の連関：青年期から中年期にかけての精神健康の軌跡が政治的態度と投票行動に与える影響</title>
     <link>https://osf.io/tgbuc</link>
     <guid isPermaLink="false">https://osf.io/tgbuc#ja</guid>
     <pubDate>Fri, 10 Jul 2026 18:47:24 +0000</pubDate>
@@ -139,21 +139,21 @@
     <description>Public participation reduces resistance to system-level policies</description>
   </item>
   <item>
-    <title>テスト遂行努力、意志、動機づけ、関与、それとも別の要因か？心理的検査の差し迫った危機に取り組むことを妨げる概念的および理論的課題</title>
+    <title>テスト遂行努力、意志、動機、エンゲージメント、それとも別の要因か？心理学的検査の差し迫った危機に対処する上での概念的および理論的課題</title>
     <link>https://osf.io/kbm4t</link>
     <guid isPermaLink="false">https://osf.io/kbm4t#ja</guid>
     <pubDate>Fri, 10 Jul 2026 17:16:39 +0000</pubDate>
     <description>Is it test-taking effort, will, motivation, engagement or something else? Conceptual and theory issues keep us from tackling an imminent crisis of psychological testing</description>
   </item>
   <item>
-    <title>逆説を超えて：文化を超えたジェンダー別感情体験の比較研究</title>
+    <title>逆説を超えて：文化を超えた性別による感情体験の比較研究</title>
     <link>https://osf.io/6psv2</link>
     <guid isPermaLink="false">https://osf.io/6psv2#ja</guid>
     <pubDate>Fri, 10 Jul 2026 12:56:00 +0000</pubDate>
     <description>Beyond the Paradox: Gendered Emotion Experiences Across Cultures</description>
   </item>
   <item>
-    <title>大規模言語モデル（LLM）搭載統計チャットボットとの心理学学生の対話のマッピング</title>
+    <title>大規模言語モデル（LLM）搭載統計チャットボットを用いた心理学学生の対話内容の可視化</title>
     <link>https://osf.io/bvfy7</link>
     <guid isPermaLink="false">https://osf.io/bvfy7#ja</guid>
     <pubDate>Fri, 10 Jul 2026 10:38:55 +0000</pubDate>
@@ -167,21 +167,21 @@
     <description>Psychological Health and Cognitive Performance Gains after Transcutaneous Auricular Vagus Nerve Stimulation in Powerlifters</description>
   </item>
   <item>
-    <title>統合失調質パーソナリティ障害と人とペットの愛着：テーマ分析</title>
+    <title>統合失調質パーソナリティ障害と人間－ペット愛着：テーマ分析</title>
     <link>https://osf.io/vwrzd</link>
     <guid isPermaLink="false">https://osf.io/vwrzd#ja</guid>
     <pubDate>Fri, 10 Jul 2026 07:48:08 +0000</pubDate>
     <description>Schizoid Personality Disorder and Human-Pet Attachment: A Thematic Analysis</description>
   </item>
   <item>
-    <title>医療機関外での非専門家による薬物使用者への心理社会的介入に関する矛盾した証拠：系統的レビュー</title>
+    <title>医療機関外での違法薬物使用者に対する非専門家による心理社会的介入の効果に関する一貫性のない証拠：システマティックレビュー</title>
     <link>https://osf.io/6qxbn</link>
     <guid isPermaLink="false">https://osf.io/6qxbn#ja</guid>
     <pubDate>Thu, 09 Jul 2026 22:57:43 +0000</pubDate>
     <description>Inconsistent evidence on lay worker-delivered psychosocial interventions for people who use illicit drugs outside healthcare settings: a systematic review</description>
   </item>
   <item>
-    <title>精神疾患を有する者の性的・生殖健康ケアへのアクセス：認知、利用、経験および公平性に関する系統的レビュー</title>
+    <title>精神疾患を有する者の性的・生殖医療へのアクセス：認知度、利用状況、体験および公平性に関する系統的レビュー</title>
     <link>https://osf.io/qye9z</link>
     <guid isPermaLink="false">https://osf.io/qye9z#ja</guid>
     <pubDate>Thu, 09 Jul 2026 21:48:38 +0000</pubDate>
@@ -195,7 +195,7 @@
     <description>Semantic alignment between clients and therapists predicts therapeutic alliance and treatment outcomes in message-based psychotherapy</description>
   </item>
   <item>
-    <title>彼らの視点を通して：視点編集による没入感増強の神経学的および行動的証拠</title>
+    <title>彼らの視点を通して：視点編集による没入感増強の神経および行動的証拠</title>
     <link>https://osf.io/23p68</link>
     <guid isPermaLink="false">https://osf.io/23p68#ja</guid>
     <pubDate>Thu, 09 Jul 2026 21:48:37 +0000</pubDate>
@@ -209,21 +209,21 @@
     <description>Neural Racing Accumulator Model Estimation With Lightweight Monotonic Flows</description>
   </item>
   <item>
-    <title>低品質合成音声におけるイントネーション処理：文型、語順、および音楽訓練の影響</title>
+    <title>低品質合成音声におけるイントネーション処理：文型、語順および音楽訓練の影響</title>
     <link>https://osf.io/69rjq</link>
     <guid isPermaLink="false">https://osf.io/69rjq#ja</guid>
     <pubDate>Thu, 09 Jul 2026 21:48:37 +0000</pubDate>
     <description>Intonation processing in low-quality synthesised speech: effects of sentence type, word order, and music training</description>
   </item>
   <item>
-    <title>対話型AIが懐疑的立場の社会的争点における信念と政策支持に与える影響</title>
+    <title>対話型AIが懐疑的立場の社会的争点に関する信念と政策支持に与える影響</title>
     <link>https://osf.io/7szrn</link>
     <guid isPermaLink="false">https://osf.io/7szrn#ja</guid>
     <pubDate>Thu, 09 Jul 2026 21:48:36 +0000</pubDate>
     <description>Conversational AI shifts beliefs and policy support among skeptics across contested societal issues</description>
   </item>
   <item>
-    <title>読解力の眼球運動予測因子に関するメタ分析</title>
+    <title>読解力の眼球運動予測因子に関するメタアナリシス</title>
     <link>https://osf.io/dvhm3</link>
     <guid isPermaLink="false">https://osf.io/dvhm3#ja</guid>
     <pubDate>Thu, 09 Jul 2026 20:17:59 +0000</pubDate>
@@ -237,14 +237,14 @@
     <description>Activating Social Resources in Psychotherapy-Seeking Individuals: Protocol for a Micro-Randomized Trial Examining the Effectiveness and Timing of a Social Support Just-in-Time Adaptive Intervention</description>
   </item>
   <item>
-    <title>NOVITAS：物体および場面における絶対的および連合的新奇検出を評価するための新規課題と指標を備えた刺激データベース</title>
+    <title>NOVITAS：物体および場面における絶対的および連合的斬新性検出を評価するための新規課題と指標を備えた刺激データベース</title>
     <link>https://osf.io/vush6</link>
     <guid isPermaLink="false">https://osf.io/vush6#ja</guid>
     <pubDate>Thu, 09 Jul 2026 18:28:01 +0000</pubDate>
     <description>NOVITAS: A stimulus database with new tasks and metrics for assessing absolute and associative novelty detection in objects and scenes</description>
   </item>
   <item>
-    <title>高次精神病理次元間の共変動は併存症ではなく非併存症によって駆動される</title>
+    <title>高次精神病理次元間の共変動は併存症ではなく非併存性によって駆動される</title>
     <link>https://osf.io/3t2cm</link>
     <guid isPermaLink="false">https://osf.io/3t2cm#ja</guid>
     <pubDate>Wed, 08 Jul 2026 19:08:27 +0000</pubDate>
@@ -265,7 +265,7 @@
     <description>Insegnare parole concrete e astratte alla tua bambina/o: un compito interattivo con le famiglie</description>
   </item>
   <item>
-    <title>記憶における自己の視覚的視点と想起された自己</title>
+    <title>記憶における自己の視覚的視点と想起された自己の認知</title>
     <link>https://osf.io/a28kw</link>
     <guid isPermaLink="false">https://osf.io/a28kw#ja</guid>
     <pubDate>Tue, 07 Jul 2026 21:02:15 +0000</pubDate>
@@ -279,7 +279,7 @@
     <description>Integrating Social Determinants in Brain Health Research: A Framework and Toolkit</description>
   </item>
   <item>
-    <title>ワンショットダウンロード課題の導入：オンライン環境配慮行動の新規かつ簡便な測定法の妥当性検証</title>
+    <title>ワンショットダウンロード課題の導入：オンラインにおける環境配慮行動の新規かつ簡便な測定法の妥当性検証</title>
     <link>https://osf.io/23w84</link>
     <guid isPermaLink="false">https://osf.io/23w84#ja</guid>
     <pubDate>Tue, 07 Jul 2026 21:02:15 +0000</pubDate>
@@ -307,7 +307,7 @@
     <description>Handling of reputation-damaging information in adolescents and young adults with autism</description>
   </item>
   <item>
-    <title>私たちは同じ排他主義を測定しているのか？集団レベルの社会的選好の二つの測定方法の比較</title>
+    <title>私たちは同じ排他性を測定しているのか？集団レベルの社会的選好の二つの測定方法の比較</title>
     <link>https://osf.io/gr67n</link>
     <guid isPermaLink="false">https://osf.io/gr67n#ja</guid>
     <pubDate>Tue, 07 Jul 2026 19:25:17 +0000</pubDate>
@@ -328,28 +328,28 @@
     <description>Directed Recognizability in AI-Biographical Conversational Agents: Design and Evaluation in the Digital Afterlife Context</description>
   </item>
   <item>
-    <title>ちょっと待って：内省と摩擦がソーシャルメディア利用、気分、幸福感に与える影響</title>
+    <title>ちょっと待って：内省と摩擦がソーシャルメディアの利用、気分、幸福感に与える影響</title>
     <link>https://osf.io/ngbue</link>
     <guid isPermaLink="false">https://osf.io/ngbue#ja</guid>
     <pubDate>Tue, 07 Jul 2026 19:25:16 +0000</pubDate>
     <description>Wait a sec: How reflection and friction impact social media use, mood, and well-being</description>
   </item>
   <item>
-    <title>ホームレスに対する性別による認知の違い：ホームレス男性と女性のステレオタイプおよび行動可能性の相違点</title>
+    <title>ホームレスに対する性別による認知の違い：ホームレス男性と女性のステレオタイプおよび行動可能性の比較分析</title>
     <link>https://osf.io/67jg8</link>
     <guid isPermaLink="false">https://osf.io/67jg8#ja</guid>
     <pubDate>Tue, 07 Jul 2026 19:25:15 +0000</pubDate>
     <description>Gendered Perceptions of the Homeless: How Do Homeless Men and Women Differ in Terms of Stereotypes and Affordances?</description>
   </item>
   <item>
-    <title>生成AIを活用した数学における学生の所属感の促進</title>
+    <title>生成AIを活用した数学における学生の帰属意識の醸成</title>
     <link>https://osf.io/p3y7m</link>
     <guid isPermaLink="false">https://osf.io/p3y7m#ja</guid>
     <pubDate>Tue, 07 Jul 2026 17:45:34 +0000</pubDate>
     <description>Using Generative AI to Foster Student Sense of Belonging in Mathematics</description>
   </item>
   <item>
-    <title>社会的学習は意思決定結果が過去の成功に依存する場合にパフォーマンスを低下させ不平等を拡大する</title>
+    <title>社会的学習は意思決定の結果が過去の成功に依存する場合にパフォーマンスを低下させ不平等を拡大する</title>
     <link>https://osf.io/kqpdu</link>
     <guid isPermaLink="false">https://osf.io/kqpdu#ja</guid>
     <pubDate>Tue, 07 Jul 2026 17:45:34 +0000</pubDate>
