@@ -6,6 +6,20 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>楽観主義の自然主義的行動としての考察</title>
+    <link>https://osf.io/t2gka</link>
+    <guid isPermaLink="false">https://osf.io/t2gka#ja</guid>
+    <pubDate>Mon, 13 Jul 2026 10:00:15 +0000</pubDate>
+    <description>Optimism as naturalistic behaviour</description>
+  </item>
+  <item>
+    <title>空間内での融合：道具的融合における空間的分離の影響</title>
+    <link>https://osf.io/ryq4u</link>
+    <guid isPermaLink="false">https://osf.io/ryq4u#ja</guid>
+    <pubDate>Mon, 13 Jul 2026 10:00:14 +0000</pubDate>
+    <description>Blend in space: Effect of spatial separation on instrumental blend</description>
+  </item>
+  <item>
     <title>道徳に宗教は必要か？古典的ヒルベルト問題の再構築</title>
     <link>https://osf.io/bu2w8</link>
     <guid isPermaLink="false">https://osf.io/bu2w8#ja</guid>
@@ -34,7 +48,7 @@
     <description>Client-Identified Outcomes of Individual Psychotherapy: A Meta-Method Study</description>
   </item>
   <item>
-    <title>イタリア語語彙における形態-意味対応：11,000語以上のアイコニシティ規範</title>
+    <title>イタリア語語彙における形態と意味の対応関係：11,000語以上の語彙に対する象徴性規範</title>
     <link>https://osf.io/83nvu</link>
     <guid isPermaLink="false">https://osf.io/83nvu#ja</guid>
     <pubDate>Sun, 12 Jul 2026 16:13:06 +0000</pubDate>
@@ -97,7 +111,7 @@
     <description>Rational Emotive Behavior Therapy for Career Decision Regret among Muslim University Students: A Systematic Literature Review</description>
   </item>
   <item>
-    <title>ME/CFSおよびロングCOVIDに関連するTikTokコンテンツの曝露が疾病認知およびスティグマに与える影響の理解：実験的研究</title>
+    <title>ME/CFSおよびロングCOVIDに関連するTikTokコンテンツ曝露が疾病認知およびスティグマに与える影響の理解：実験的研究</title>
     <link>https://osf.io/2krwv</link>
     <guid isPermaLink="false">https://osf.io/2krwv#ja</guid>
     <pubDate>Sat, 11 Jul 2026 20:13:51 +0000</pubDate>
@@ -132,7 +146,7 @@
     <description>Parent narratives reveal how families adapt amid economic hardship “even if the rest of the world is falling apart”</description>
   </item>
   <item>
-    <title>軍事集団外来集中治療プログラムにおけるコホートのパーソナリティ構成が治療成果を予測する：登録報告</title>
+    <title>軍事集団外来集中治療プログラムにおけるコホートの人格構成が治療成果に及ぼす予測効果：登録報告</title>
     <link>https://osf.io/xgr8w</link>
     <guid isPermaLink="false">https://osf.io/xgr8w#ja</guid>
     <pubDate>Fri, 10 Jul 2026 18:47:25 +0000</pubDate>
@@ -167,7 +181,7 @@
     <description>Public participation reduces resistance to system-level policies</description>
   </item>
   <item>
-    <title>テスト遂行努力、意志、動機づけ、エンゲージメント、それとも別の要因か？心理学的検査の差し迫った危機に対処する上での概念的および理論的課題</title>
+    <title>受検努力、意志、動機づけ、関与、それとも別の何かか？心理検査の差し迫った危機に取り組むことを妨げる概念的および理論的課題</title>
     <link>https://osf.io/kbm4t</link>
     <guid isPermaLink="false">https://osf.io/kbm4t#ja</guid>
     <pubDate>Fri, 10 Jul 2026 17:16:39 +0000</pubDate>
@@ -181,7 +195,7 @@
     <description>Beyond the Paradox: Gendered Emotion Experiences Across Cultures</description>
   </item>
   <item>
-    <title>大規模言語モデル搭載統計チャットボットとの心理学学生の対話の可視化</title>
+    <title>大規模言語モデル（LLM）搭載統計チャットボットを用いた心理学学生の対話内容のマッピング</title>
     <link>https://osf.io/bvfy7</link>
     <guid isPermaLink="false">https://osf.io/bvfy7#ja</guid>
     <pubDate>Fri, 10 Jul 2026 10:38:55 +0000</pubDate>
@@ -202,14 +216,14 @@
     <description>Schizoid Personality Disorder and Human-Pet Attachment: A Thematic Analysis</description>
   </item>
   <item>
-    <title>医療機関外での非専門家による薬物使用者への心理社会的介入に関する一貫性のない証拠：システマティックレビュー</title>
+    <title>医療機関外で薬物使用者に提供される非専門家による心理社会的介入の効果に関する一貫性のない証拠：システマティックレビュー</title>
     <link>https://osf.io/6qxbn</link>
     <guid isPermaLink="false">https://osf.io/6qxbn#ja</guid>
     <pubDate>Thu, 09 Jul 2026 22:57:43 +0000</pubDate>
     <description>Inconsistent evidence on lay worker-delivered psychosocial interventions for people who use illicit drugs outside healthcare settings: a systematic review</description>
   </item>
   <item>
-    <title>精神疾患を有する者の性的・生殖健康ケアへのアクセス：認知度、利用状況、体験および公平性に関する系統的レビュー</title>
+    <title>精神疾患を有する人々の性的・生殖健康ケアへのアクセス：認知度、利用状況、体験および公平性に関する系統的レビュー</title>
     <link>https://osf.io/qye9z</link>
     <guid isPermaLink="false">https://osf.io/qye9z#ja</guid>
     <pubDate>Thu, 09 Jul 2026 21:48:38 +0000</pubDate>
@@ -223,7 +237,7 @@
     <description>Semantic alignment between clients and therapists predicts therapeutic alliance and treatment outcomes in message-based psychotherapy</description>
   </item>
   <item>
-    <title>彼らの視点を通して：視点編集による没入感向上の神経学的および行動的証拠</title>
+    <title>彼らの視点を通して：視点編集による没入感向上の神経および行動的証拠</title>
     <link>https://osf.io/23p68</link>
     <guid isPermaLink="false">https://osf.io/23p68#ja</guid>
     <pubDate>Thu, 09 Jul 2026 21:48:37 +0000</pubDate>
@@ -265,7 +279,7 @@
     <description>Activating Social Resources in Psychotherapy-Seeking Individuals: Protocol for a Micro-Randomized Trial Examining the Effectiveness and Timing of a Social Support Just-in-Time Adaptive Intervention</description>
   </item>
   <item>
-    <title>NOVITAS：物体および場面における絶対的および連合的新奇検出を評価するための新規課題と指標を備えた刺激データベース</title>
+    <title>NOVITAS：物体および場面における絶対的および連合的斬新性検出を評価するための新規課題と指標を備えた刺激データベース</title>
     <link>https://osf.io/vush6</link>
     <guid isPermaLink="false">https://osf.io/vush6#ja</guid>
     <pubDate>Thu, 09 Jul 2026 18:28:01 +0000</pubDate>
@@ -279,7 +293,7 @@
     <description>Covariation among higher-order psychopathology dimensions is driven by nomorbidity, not comorbidity</description>
   </item>
   <item>
-    <title>子どもにおけるトラウマ、レジリエンス、精神健康および身体症状の関連における内受容感覚の身体信頼の役割</title>
+    <title>トラウマ、レジリエンス、精神健康および身体症状における子どもの内受容感覚の身体信頼の役割</title>
     <link>https://osf.io/qcm7n</link>
     <guid isPermaLink="false">https://osf.io/qcm7n#ja</guid>
     <pubDate>Wed, 08 Jul 2026 17:52:59 +0000</pubDate>
@@ -300,7 +314,7 @@
     <description>Seeing the Self in Memory: Visual Perspective and the Remembered Self</description>
   </item>
   <item>
-    <title>脳健康研究における社会的決定要因の統合：枠組みとツールキット</title>
+    <title>脳の健康研究における社会的決定要因の統合：枠組みとツールキット</title>
     <link>https://osf.io/8f5gu</link>
     <guid isPermaLink="false">https://osf.io/8f5gu#ja</guid>
     <pubDate>Tue, 07 Jul 2026 21:02:15 +0000</pubDate>
@@ -328,32 +342,18 @@
     <description>Putting Attentional Control to a Normative Test</description>
   </item>
   <item>
-    <title>自閉症の青年期および若年成人における評判毀損情報の取り扱い</title>
+    <title>自閉症を有する青年期および若年成人における評判毀損情報の取り扱い</title>
     <link>https://osf.io/mdgh7</link>
     <guid isPermaLink="false">https://osf.io/mdgh7#ja</guid>
     <pubDate>Tue, 07 Jul 2026 19:25:17 +0000</pubDate>
     <description>Handling of reputation-damaging information in adolescents and young adults with autism</description>
   </item>
   <item>
-    <title>私たちは同じ排他主義を測定しているのか？集団レベルの社会的選好の二つの測定方法の比較</title>
+    <title>私たちは同じ排他性を測定しているのか？集団レベルの社会的選好の二つの測定方法の比較</title>
     <link>https://osf.io/gr67n</link>
     <guid isPermaLink="false">https://osf.io/gr67n#ja</guid>
     <pubDate>Tue, 07 Jul 2026 19:25:17 +0000</pubDate>
     <description>Are We Measuring the Same Parochialism? Comparing Two Measurement Approaches of Group-Level Social Preferences</description>
-  </item>
-  <item>
-    <title>ベイズ認知モデリングと視線追跡を用いた量化詞の検証戦略の検証：登録報告</title>
-    <link>https://osf.io/qzcea</link>
-    <guid isPermaLink="false">https://osf.io/qzcea#ja</guid>
-    <pubDate>Tue, 07 Jul 2026 19:25:16 +0000</pubDate>
-    <description>Verifying verification strategies of quantifiers using Bayesian cognitive modeling and eye-tracking: A Registered Report</description>
-  </item>
-  <item>
-    <title>AI伝記対話エージェントにおける指向性認識可能性：デジタルアフターライフ文脈での設計と評価</title>
-    <link>https://osf.io/4b8gy</link>
-    <guid isPermaLink="false">https://osf.io/4b8gy#ja</guid>
-    <pubDate>Tue, 07 Jul 2026 19:25:16 +0000</pubDate>
-    <description>Directed Recognizability in AI-Biographical Conversational Agents: Design and Evaluation in the Digital Afterlife Context</description>
   </item>
 </channel>
 </rss>
