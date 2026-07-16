@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>自然主義的ビデオ広告に対する神経応答からの集団レベル予測：固定表現と結果訓練表現の事前登録比較</title>
+    <title>自然主義的ビデオ広告に対する神経応答からの集団レベル予測：固定表現と結果学習表現の事前登録比較</title>
     <link>https://osf.io/vdum2</link>
     <guid isPermaLink="false">https://osf.io/vdum2#ja</guid>
     <pubDate>Thu, 16 Jul 2026 10:25:24 +0000</pubDate>
@@ -27,7 +27,7 @@
     <description>Oral Microbiome Dynamics in Health and Disease: Mechanisms and Microecological Therapeutic Strategies</description>
   </item>
   <item>
-    <title>対立解決困難および非効果的な対人関係戦略の簡易かつ横断的評価尺度の開発と初期検証</title>
+    <title>対立解決困難および非効果的な対人戦略の簡易かつ横断的評価尺度の開発と初期検証</title>
     <link>https://osf.io/37s8j</link>
     <guid isPermaLink="false">https://osf.io/37s8j#ja</guid>
     <pubDate>Thu, 16 Jul 2026 08:27:58 +0000</pubDate>
@@ -69,28 +69,28 @@
     <description>Interpolated Prequestioning, Focused Attention, Mind Wandering, and Learning During Pre-Recorded Video Lectures</description>
   </item>
   <item>
-    <title>卓越した知性の視覚的ステレオタイプ：輝きを男性的特性として捉える認知心理学的検討</title>
+    <title>卓越した知性の視覚的ステレオタイプ：輝きを男性的特性として捉える認知心理学的考察</title>
     <link>https://osf.io/hx98q</link>
     <guid isPermaLink="false">https://osf.io/hx98q#ja</guid>
     <pubDate>Wed, 15 Jul 2026 21:11:10 +0000</pubDate>
     <description>Seeing Brilliance as Masculine: Visual Stereotypes of Exceptional Intelligence</description>
   </item>
   <item>
-    <title>常に同期するわけではない：感情的文脈が母子の日常生活におけるコルチゾール同期性に及ぼす調整効果</title>
+    <title>常に同期するわけではない：情動的文脈が母子の日常生活におけるコルチゾール同期性を調整する</title>
     <link>https://osf.io/zu7mv</link>
     <guid isPermaLink="false">https://osf.io/zu7mv#ja</guid>
     <pubDate>Wed, 15 Jul 2026 18:57:11 +0000</pubDate>
     <description>Not always in sync: Affective context moderates mother-child cortisol synchrony in daily life</description>
   </item>
   <item>
-    <title>音響が睡眠中の脳に与える影響メカニズムの解明</title>
+    <title>音響刺激が睡眠中の脳に及ぼす影響メカニズムの解明</title>
     <link>https://osf.io/xgbh7</link>
     <guid isPermaLink="false">https://osf.io/xgbh7#ja</guid>
     <pubDate>Wed, 15 Jul 2026 17:55:36 +0000</pubDate>
     <description>HOW SOUND HACKS THE SLEEPING BRAIN</description>
   </item>
   <item>
-    <title>青年期の社会的相互作用におけるリーダーの出現要因：性別および性格集団構成の役割</title>
+    <title>青年期の社会的相互作用におけるリーダーの出現要因：性別とパーソナリティ集団構成の役割</title>
     <link>https://osf.io/sb2zq</link>
     <guid isPermaLink="false">https://osf.io/sb2zq#ja</guid>
     <pubDate>Wed, 15 Jul 2026 17:55:36 +0000</pubDate>
@@ -104,21 +104,21 @@
     <description>The Role of Mathematical Activities in the Classroom for Executive Function Development in Elementary School</description>
   </item>
   <item>
-    <title>負担と資源を超えて：職業性トラウマにおける調整的柔軟性が心的外傷後ストレス症状の予測因子として果たす役割</title>
+    <title>負担と資源を超えて：職業性トラウマにおける心的外傷後ストレス症状の予測因子としての調整的柔軟性</title>
     <link>https://osf.io/4pywd</link>
     <guid isPermaLink="false">https://osf.io/4pywd#ja</guid>
     <pubDate>Wed, 15 Jul 2026 16:40:58 +0000</pubDate>
     <description>Beyond Burden and Resources: Regulatory Flexibility as a Predictor of Posttraumatic Stress Symptoms in Occupational Trauma</description>
   </item>
   <item>
-    <title>臨床教育経験120年の統合的省察に基づく言語聴覚療法の実践的考察</title>
+    <title>臨床教育における120年の経験に基づく言語聴覚療法実践の省察：臨床焦点記事</title>
     <link>https://osf.io/z587d</link>
     <guid isPermaLink="false">https://osf.io/z587d#ja</guid>
     <pubDate>Wed, 15 Jul 2026 16:40:57 +0000</pubDate>
     <description>A Clinical Focus Article: A Practice-Guided Reflection on 120 Combined Years of Clinical Education Experience in Speech-Language Pathology</description>
   </item>
   <item>
-    <title>ギャンブル施設とギャンブル障害の支援求め行動発生率との関連：ベイズ空間分析による検討</title>
+    <title>ギャンブル施設とギャンブル障害の助けを求める発生率との関連：ベイズ空間分析による検討</title>
     <link>https://osf.io/p3ev2</link>
     <guid isPermaLink="false">https://osf.io/p3ev2#ja</guid>
     <pubDate>Wed, 15 Jul 2026 16:40:57 +0000</pubDate>
@@ -132,14 +132,14 @@
     <description>Teaching for creativity: What is the role of creativity knowledge? A study on Italian pre-service and in-service teachers</description>
   </item>
   <item>
-    <title>性的暴行生存者における出来事中心性と心的外傷後ストレス症状：縦断的交差遅延分析</title>
+    <title>性的暴行生存者における出来事中心性と心的外傷後ストレス症状の縦断的交差遅延分析</title>
     <link>https://osf.io/2e9wb</link>
     <guid isPermaLink="false">https://osf.io/2e9wb#ja</guid>
     <pubDate>Wed, 15 Jul 2026 16:40:56 +0000</pubDate>
     <description>Event Centrality and Post-Traumatic Stress Symptoms in Sexual Assault Survivors: A Longitudinal Cross-Lagged Analysis</description>
   </item>
   <item>
-    <title>政治的対立における尊重と軽蔑：個人化情報と知的謙虚性の異なる影響</title>
+    <title>政治的意見対立における尊重と軽蔑：個人化情報と知的謙虚性の異なる影響</title>
     <link>https://osf.io/94bhu</link>
     <guid isPermaLink="false">https://osf.io/94bhu#ja</guid>
     <pubDate>Wed, 15 Jul 2026 15:01:47 +0000</pubDate>
@@ -167,7 +167,7 @@
     <description>Interventions to support healthy movement behaviours among preschool children in early childhood education and care settings: A realist synthesis protocol</description>
   </item>
   <item>
-    <title>Shakibaeiらの「重度うつ病を有する非常に幼い子どもにおけるフルオキセチン使用：パイロット無作為化臨床試験」に対する返信文</title>
+    <title>Shakibaeiらの「大うつ病性障害を有する非常に幼い子どもにおけるフルオキセチン使用：パイロット無作為化臨床試験」に対する返信文</title>
     <link>https://osf.io/8wgy4</link>
     <guid isPermaLink="false">https://osf.io/8wgy4#ja</guid>
     <pubDate>Wed, 15 Jul 2026 15:01:45 +0000</pubDate>
@@ -188,7 +188,7 @@
     <description>Neural Dynamics of Action-Effect Predictions within Effect-Related Regions Diverge Between Stimulus-Driven and Voluntary Actions</description>
   </item>
   <item>
-    <title>適応的レジリエンスとしての認知予備力：神経心理学と認知老化における種間比較の枠組み</title>
+    <title>適応的レジリエンスとしての認知予備力：神経心理学と認知老化における種間比較フレームワーク</title>
     <link>https://osf.io/scvdm</link>
     <guid isPermaLink="false">https://osf.io/scvdm#ja</guid>
     <pubDate>Tue, 14 Jul 2026 22:36:53 +0000</pubDate>
@@ -209,7 +209,7 @@
     <description>Interpersonal coordination in unstructured conversation: Different modalities are linked with inter-partner relationship and the perceived quality of the interaction</description>
   </item>
   <item>
-    <title>慢性身体疾患を有する青少年におけるモバイルヘルスアプリを用いたメンタルヘルス促進：ランダム化待機リスト対照試験</title>
+    <title>慢性身体疾患を有する青少年におけるモバイルヘルスアプリを用いたメンタルヘルス促進：無作為化待機リスト対照試験</title>
     <link>https://osf.io/jh37y</link>
     <guid isPermaLink="false">https://osf.io/jh37y#ja</guid>
     <pubDate>Tue, 14 Jul 2026 22:36:52 +0000</pubDate>
@@ -223,7 +223,7 @@
     <description>Errors as signals: generative practice improves programming performance, metacognition, and motivation</description>
   </item>
   <item>
-    <title>退屈調整の技法：パーソナリティ特性、退屈体験、幸福感との関連性</title>
+    <title>退屈調整の技法：パーソナリティ特性、退屈体験、およびウェルビーイングとの関連性</title>
     <link>https://osf.io/3958w</link>
     <guid isPermaLink="false">https://osf.io/3958w#ja</guid>
     <pubDate>Tue, 14 Jul 2026 21:39:28 +0000</pubDate>
@@ -244,7 +244,7 @@
     <description>Children and adults monitor speaker ignorance to learn words cross-situationally</description>
   </item>
   <item>
-    <title>数学不安と技能の世代間伝達：親子比較法を統合した潜在プロファイル分析</title>
+    <title>数学不安と技能の世代間伝達：親密な対照法を統合した潜在プロファイル分析</title>
     <link>https://osf.io/gnryw</link>
     <guid isPermaLink="false">https://osf.io/gnryw#ja</guid>
     <pubDate>Tue, 14 Jul 2026 21:39:27 +0000</pubDate>
@@ -258,21 +258,21 @@
     <description>Detecting Alzheimer’s Disease through Chinese Speech: A Contrast of Manual and Automatic Linguistic Feature Extraction</description>
   </item>
   <item>
-    <title>感情調整戦略の使用と抑うつ・不安症状との関連および自閉症成人の二つの独立サンプルにおける性差分析</title>
+    <title>感情調整戦略の使用、自閉症成人のうつ・不安症状との関連および性差：二つの独立したサンプルに基づく検討</title>
     <link>https://osf.io/8h9jd</link>
     <guid isPermaLink="false">https://osf.io/8h9jd#ja</guid>
     <pubDate>Tue, 14 Jul 2026 20:43:47 +0000</pubDate>
     <description>Emotion regulation strategy use, associations with depressive and anxious symptomatology, and sex-based differences in two independent samples of autistic adults</description>
   </item>
   <item>
-    <title>大規模に精神病的体験を測定する：青年期精神病様症状スクリーナー（APSS）の項目反応理論分析</title>
+    <title>大規模に精神病的体験を測定する：青年期精神病類似症状スクリーナー（APSS）の項目反応理論分析</title>
     <link>https://osf.io/4pv75</link>
     <guid isPermaLink="false">https://osf.io/4pv75#ja</guid>
     <pubDate>Tue, 14 Jul 2026 20:43:47 +0000</pubDate>
     <description>Measuring Psychotic Experiences at Scale: An Item Response Theory Analysis of the Adolescent Psychotic-like Symptom Screener (APSS)</description>
   </item>
   <item>
-    <title>交差する社会的アイデンティティ尺度の開発：若年成人における人種・民族、性別、社会階級の調和性と融合性の認知</title>
+    <title>交差する社会的アイデンティティ尺度の開発：若年成人における人種・民族、性別、社会階級の調和性と融合性の認知に関する研究</title>
     <link>https://osf.io/43ks8</link>
     <guid isPermaLink="false">https://osf.io/43ks8#ja</guid>
     <pubDate>Tue, 14 Jul 2026 20:43:46 +0000</pubDate>
@@ -307,14 +307,14 @@
     <description>Comparing different frontal processes as predictors of older individuals’ false memory in a “cage match” between neuropsychological assessments, cortical thickness, neural activation, and representational distinctiveness</description>
   </item>
   <item>
-    <title>「GamStop非加盟：ソーシャルメディア広告から出金失敗に至る無許可ギャンブルサイト利用者の行動経路の分析」</title>
+    <title>「GamStop非登録：ソーシャルメディア広告から出金失敗に至る無認可ギャンブルサイト利用者の行動経路の分析」</title>
     <link>https://osf.io/nqwe4</link>
     <guid isPermaLink="false">https://osf.io/nqwe4#ja</guid>
     <pubDate>Mon, 13 Jul 2026 22:24:52 +0000</pubDate>
     <description>‘Not on GamStop’: Mapping unlicensed gambling websites&#x27; user journeys from social media advertisements to unsuccessful withdrawals</description>
   </item>
   <item>
-    <title>自己体験研究のための個別的動的枠組み</title>
+    <title>自己経験研究のための個別的動的枠組み</title>
     <link>https://osf.io/z3prf</link>
     <guid isPermaLink="false">https://osf.io/z3prf#ja</guid>
     <pubDate>Mon, 13 Jul 2026 20:21:54 +0000</pubDate>
@@ -328,7 +328,7 @@
     <description>Estimating Latent Vector Autoregressive Models in a Stepwise Manner With the R Package ezLVAR</description>
   </item>
   <item>
-    <title>待機空間をメンタルヘルスの「ジム」として：人・時間・インフラが交差する場における短時間ウェルビーイング実践の状況的活性化を目指したデザイン研究フレームワーク</title>
+    <title>待機空間をメンタルヘルスの「ジム」として：人・時間・インフラが交差する場における短時間ウェルビーイング実践の状況的活性化に向けたデザインリサーチフレームワーク</title>
     <link>https://osf.io/tv3qc</link>
     <guid isPermaLink="false">https://osf.io/tv3qc#ja</guid>
     <pubDate>Mon, 13 Jul 2026 20:21:53 +0000</pubDate>
