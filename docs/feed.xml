@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>AIおべっか行動の理論的基盤：お世辞とおべっか研究を対話型AIに結びつけて</title>
+    <title>AIおべっか現象の理論的基盤：お世辞とおべっか研究を対話型AIに結びつけて</title>
     <link>https://osf.io/csjad</link>
     <guid isPermaLink="false">https://osf.io/csjad#ja</guid>
     <pubDate>Thu, 16 Jul 2026 20:58:26 +0000</pubDate>
@@ -20,7 +20,7 @@
     <description>Development and Initial Validation of the Violence Desensitization Scale</description>
   </item>
   <item>
-    <title>「大丈夫でなくてもいいのか？」：Redditの体験共有コミュニティにおける意識疲労とメンタルヘルスキャンペーンへの批判</title>
+    <title>「『大丈夫でなくてもいい』？Redditの体験共有コミュニティにおける意識疲労とメンタルヘルスキャンペーンへの批判」</title>
     <link>https://osf.io/4p7ke</link>
     <guid isPermaLink="false">https://osf.io/4p7ke#ja</guid>
     <pubDate>Thu, 16 Jul 2026 20:58:26 +0000</pubDate>
@@ -62,7 +62,7 @@
     <description>Population-level prediction from neural responses to naturalistic video advertisements: A preregistered comparison of fixed and outcome-trained representations</description>
   </item>
   <item>
-    <title>巻き戻しと想起：ビデオ学習における自己調整学習と課題外思考の影響検討</title>
+    <title>巻き戻しと思い出し：ビデオ学習における自己調整学習と課題外思考の影響検討</title>
     <link>https://osf.io/am3rx</link>
     <guid isPermaLink="false">https://osf.io/am3rx#ja</guid>
     <pubDate>Thu, 16 Jul 2026 10:25:24 +0000</pubDate>
@@ -76,7 +76,7 @@
     <description>Oral Microbiome Dynamics in Health and Disease: Mechanisms and Microecological Therapeutic Strategies</description>
   </item>
   <item>
-    <title>対立解決困難および非効果的な対人戦略の簡易かつ横断的評価尺度の開発と初期検証</title>
+    <title>対立解決困難および非効果的な対人関係戦略の簡易かつ横断的評価尺度の開発と初期検証</title>
     <link>https://osf.io/37s8j</link>
     <guid isPermaLink="false">https://osf.io/37s8j#ja</guid>
     <pubDate>Thu, 16 Jul 2026 08:27:58 +0000</pubDate>
@@ -90,21 +90,21 @@
     <description>Irresistibly Logical: Automatic Logical Inferences in Visual Scene Processing</description>
   </item>
   <item>
-    <title>セラピーセッションの記録からパーソナライズドネットワークを構築するための大規模言語モデル活用の有用性検証：概念実証研究</title>
+    <title>セラピーセッション記録から個別化ネットワークを構築するための大規模言語モデル活用の有用性検証：概念実証研究</title>
     <link>https://osf.io/n8a6r</link>
     <guid isPermaLink="false">https://osf.io/n8a6r#ja</guid>
     <pubDate>Wed, 15 Jul 2026 21:11:11 +0000</pubDate>
     <description>Testing the Utility of Using Large Language Models to Create Personalized Networks From Therapy Session Transcripts: A Proof of Concept Study</description>
   </item>
   <item>
-    <title>暴走する計算モデル</title>
+    <title>暴走する計算モデルの心理学的検討</title>
     <link>https://osf.io/tc34w</link>
     <guid isPermaLink="false">https://osf.io/tc34w#ja</guid>
     <pubDate>Wed, 15 Jul 2026 21:11:11 +0000</pubDate>
     <description>Computational Models Gone Rogue</description>
   </item>
   <item>
-    <title>学部生は分散学習と交互学習について何を知り、どのように信じているのか？</title>
+    <title>大学生は分散学習と交互学習について何を知り、どのように信じているのか？</title>
     <link>https://osf.io/m3rcw</link>
     <guid isPermaLink="false">https://osf.io/m3rcw#ja</guid>
     <pubDate>Wed, 15 Jul 2026 21:11:11 +0000</pubDate>
@@ -118,28 +118,28 @@
     <description>Interpolated Prequestioning, Focused Attention, Mind Wandering, and Learning During Pre-Recorded Video Lectures</description>
   </item>
   <item>
-    <title>卓越した知性の視覚的ステレオタイプ：輝きを男性的特性として捉える認知</title>
+    <title>卓越した知性の視覚的ステレオタイプ：輝きを男性的特性として捉える心理学的考察</title>
     <link>https://osf.io/hx98q</link>
     <guid isPermaLink="false">https://osf.io/hx98q#ja</guid>
     <pubDate>Wed, 15 Jul 2026 21:11:10 +0000</pubDate>
     <description>Seeing Brilliance as Masculine: Visual Stereotypes of Exceptional Intelligence</description>
   </item>
   <item>
-    <title>常に同期するわけではない：感情的文脈が日常生活における母子コルチゾール同期に及ぼす調整効果</title>
+    <title>常に同期するわけではない：感情的文脈が母子の日常生活におけるコルチゾール同期性を調整する</title>
     <link>https://osf.io/zu7mv</link>
     <guid isPermaLink="false">https://osf.io/zu7mv#ja</guid>
     <pubDate>Wed, 15 Jul 2026 18:57:11 +0000</pubDate>
     <description>Not always in sync: Affective context moderates mother-child cortisol synchrony in daily life</description>
   </item>
   <item>
-    <title>音響刺激が睡眠中の脳に及ぼす影響メカニズムの解明</title>
+    <title>音響が睡眠中の脳に及ぼす影響メカニズムの解明</title>
     <link>https://osf.io/xgbh7</link>
     <guid isPermaLink="false">https://osf.io/xgbh7#ja</guid>
     <pubDate>Wed, 15 Jul 2026 17:55:36 +0000</pubDate>
     <description>HOW SOUND HACKS THE SLEEPING BRAIN</description>
   </item>
   <item>
-    <title>青年期の社会的相互作用におけるリーダーの出現要因：性別と性格集団構成の役割</title>
+    <title>青年期の社会的相互作用におけるリーダーの出現要因：性別とパーソナリティ集団構成の役割</title>
     <link>https://osf.io/sb2zq</link>
     <guid isPermaLink="false">https://osf.io/sb2zq#ja</guid>
     <pubDate>Wed, 15 Jul 2026 17:55:36 +0000</pubDate>
@@ -160,14 +160,14 @@
     <description>Beyond Burden and Resources: Regulatory Flexibility as a Predictor of Posttraumatic Stress Symptoms in Occupational Trauma</description>
   </item>
   <item>
-    <title>臨床教育経験120年の統合的省察に基づく言語聴覚療法の実践的考察</title>
+    <title>臨床焦点記事：言語聴覚療法における120年の臨床教育経験に基づく実践的省察</title>
     <link>https://osf.io/z587d</link>
     <guid isPermaLink="false">https://osf.io/z587d#ja</guid>
     <pubDate>Wed, 15 Jul 2026 16:40:57 +0000</pubDate>
     <description>A Clinical Focus Article: A Practice-Guided Reflection on 120 Combined Years of Clinical Education Experience in Speech-Language Pathology</description>
   </item>
   <item>
-    <title>ギャンブル施設とギャンブル障害の支援求め行動発生率との関連：ベイズ空間分析による検討</title>
+    <title>ギャンブル施設とギャンブル障害の助けを求める発生率との関連：ベイズ空間分析による検討</title>
     <link>https://osf.io/p3ev2</link>
     <guid isPermaLink="false">https://osf.io/p3ev2#ja</guid>
     <pubDate>Wed, 15 Jul 2026 16:40:57 +0000</pubDate>
@@ -202,7 +202,7 @@
     <description>Navigating the Barkley Marathons</description>
   </item>
   <item>
-    <title>不快な心、非活性化された身体―身体感覚マッピングによる退屈の独特な身体的特徴</title>
+    <title>不快な心、非活性化された身体―身体感覚マッピングによる退屈の特徴的な身体的サイン</title>
     <link>https://osf.io/pcgzh</link>
     <guid isPermaLink="false">https://osf.io/pcgzh#ja</guid>
     <pubDate>Wed, 15 Jul 2026 15:01:46 +0000</pubDate>
@@ -216,14 +216,14 @@
     <description>Interventions to support healthy movement behaviours among preschool children in early childhood education and care settings: A realist synthesis protocol</description>
   </item>
   <item>
-    <title>Shakibaeiらの「大うつ病性障害を有する非常に幼い子どもにおけるフルオキセチン使用：パイロット無作為化臨床試験」に対する返信書簡</title>
+    <title>Shakibaeiらの「重度うつ病を有する非常に幼い子どもにおけるフルオキセチン使用：パイロット無作為化臨床試験」に対する回答書簡</title>
     <link>https://osf.io/8wgy4</link>
     <guid isPermaLink="false">https://osf.io/8wgy4#ja</guid>
     <pubDate>Wed, 15 Jul 2026 15:01:45 +0000</pubDate>
     <description>Letter in response to Shakibaei et al. “Fluoxetine Use for Very Young Children with Major Depression Disorder: A Pilot Randomized Clinical Trial,” Adv Biomed Res. 2026 Mar;15(1). doi:10.4103/abr.abr_78_24</description>
   </item>
   <item>
-    <title>生物学的運動から現実世界の相互作用へ：行動知覚システムの再考</title>
+    <title>生物運動から実世界の相互作用へ：行動知覚システムの再考</title>
     <link>https://osf.io/e8rky</link>
     <guid isPermaLink="false">https://osf.io/e8rky#ja</guid>
     <pubDate>Tue, 14 Jul 2026 22:36:53 +0000</pubDate>
@@ -237,7 +237,7 @@
     <description>Neural Dynamics of Action-Effect Predictions within Effect-Related Regions Diverge Between Stimulus-Driven and Voluntary Actions</description>
   </item>
   <item>
-    <title>適応的レジリエンスとしての認知予備力：神経心理学と認知老化における種間横断的枠組み</title>
+    <title>適応的レジリエンスとしての認知予備力：神経心理学と認知老化における種間比較フレームワーク</title>
     <link>https://osf.io/scvdm</link>
     <guid isPermaLink="false">https://osf.io/scvdm#ja</guid>
     <pubDate>Tue, 14 Jul 2026 22:36:53 +0000</pubDate>
@@ -251,7 +251,7 @@
     <description>From Individual Perception to Collective Cooperation: A Synthetic Society of Kuramoto Oscillators</description>
   </item>
   <item>
-    <title>非構造的会話における対人協調：異なるモダリティがパートナー間関係および相互作用の質の知覚と関連する</title>
+    <title>非構造的会話における対人協調：異なるモダリティがパートナー間関係および相互作用の知覚的質と関連する</title>
     <link>https://osf.io/az98u</link>
     <guid isPermaLink="false">https://osf.io/az98u#ja</guid>
     <pubDate>Tue, 14 Jul 2026 22:36:52 +0000</pubDate>
@@ -265,21 +265,21 @@
     <description>Promoting mental health using a mobile Health application in adolescents with a chronic somatic illness: A randomised waitlist controlled trial</description>
   </item>
   <item>
-    <title>誤りを信号として捉える：生成的実践がプログラミング能力、メタ認知、動機付けを向上させる</title>
+    <title>誤りを信号として捉える：生成的実践がプログラミング能力、メタ認知、および動機付けを向上させる</title>
     <link>https://osf.io/gydwk</link>
     <guid isPermaLink="false">https://osf.io/gydwk#ja</guid>
     <pubDate>Tue, 14 Jul 2026 22:36:51 +0000</pubDate>
     <description>Errors as signals: generative practice improves programming performance, metacognition, and motivation</description>
   </item>
   <item>
-    <title>退屈調整の技法：パーソナリティ特性、退屈体験、ウェルビーイングとの関連性</title>
+    <title>退屈調整の技法：パーソナリティ特性、退屈体験、幸福感との関連性</title>
     <link>https://osf.io/3958w</link>
     <guid isPermaLink="false">https://osf.io/3958w#ja</guid>
     <pubDate>Tue, 14 Jul 2026 21:39:28 +0000</pubDate>
     <description>The art of boredom regulation: Associations with personality traits, boredom experience, and well-being</description>
   </item>
   <item>
-    <title>賢く歳を重ねるオンライン：高齢者の不安およびうつ症状に対するセラピスト支援型インターネット認知行動療法（iCBT）プログラムの共同設計およびランダム化比較試験</title>
+    <title>賢く歳を重ねるオンライン：高齢者の不安および抑うつに対するセラピスト支援型インターネット認知行動療法（iCBT）プログラムの共同設計およびランダム化比較試験</title>
     <link>https://osf.io/hukx9</link>
     <guid isPermaLink="false">https://osf.io/hukx9#ja</guid>
     <pubDate>Tue, 14 Jul 2026 21:39:28 +0000</pubDate>
@@ -293,14 +293,14 @@
     <description>Children and adults monitor speaker ignorance to learn words cross-situationally</description>
   </item>
   <item>
-    <title>数学不安と能力の世代間伝達：親子制御法を統合した潜在プロファイル分析</title>
+    <title>数学不安と技能の世代間伝達：親密制御法を統合した潜在プロファイル分析</title>
     <link>https://osf.io/gnryw</link>
     <guid isPermaLink="false">https://osf.io/gnryw#ja</guid>
     <pubDate>Tue, 14 Jul 2026 21:39:27 +0000</pubDate>
     <description>Intergenerational Transmission of Mathematical Anxiety and Skills: Latent Profile Analysis Integrated with the Familiar Control Method</description>
   </item>
   <item>
-    <title>中国語音声を用いたアルツハイマー病の検出：手動および自動言語特徴抽出の比較分析</title>
+    <title>中国語音声を用いたアルツハイマー病検出：手動および自動言語特徴抽出の比較</title>
     <link>https://osf.io/wqvbf</link>
     <guid isPermaLink="false">https://osf.io/wqvbf#ja</guid>
     <pubDate>Tue, 14 Jul 2026 21:39:27 +0000</pubDate>
@@ -314,14 +314,14 @@
     <description>Emotion regulation strategy use, associations with depressive and anxious symptomatology, and sex-based differences in two independent samples of autistic adults</description>
   </item>
   <item>
-    <title>大規模における精神病体験の測定：青年期精神病様症状スクリーナー（APSS）の項目反応理論分析</title>
+    <title>大規模における精神病様体験の測定：青年期精神病様症状スクリーナー（APSS）の項目反応理論分析</title>
     <link>https://osf.io/4pv75</link>
     <guid isPermaLink="false">https://osf.io/4pv75#ja</guid>
     <pubDate>Tue, 14 Jul 2026 20:43:47 +0000</pubDate>
     <description>Measuring Psychotic Experiences at Scale: An Item Response Theory Analysis of the Adolescent Psychotic-like Symptom Screener (APSS)</description>
   </item>
   <item>
-    <title>交差する社会的アイデンティティ尺度の開発：若年成人における人種・民族、性別、社会階級の調和性と融合性の認知</title>
+    <title>交差する社会的アイデンティティ尺度の開発：若年成人における人種・民族、性別、社会階級の調和性と融合性の認知に関する研究</title>
     <link>https://osf.io/43ks8</link>
     <guid isPermaLink="false">https://osf.io/43ks8#ja</guid>
     <pubDate>Tue, 14 Jul 2026 20:43:46 +0000</pubDate>
@@ -335,7 +335,7 @@
     <description>Evaluating Stability Assessment Methods for Decision Trees</description>
   </item>
   <item>
-    <title>対話場面における修正焦点：韻律的強調から韻律的緩和へ</title>
+    <title>対話場面における修正的焦点：韻律的強調から韻律的緩和へ</title>
     <link>https://osf.io/zkjhr</link>
     <guid isPermaLink="false">https://osf.io/zkjhr#ja</guid>
     <pubDate>Tue, 14 Jul 2026 20:43:46 +0000</pubDate>
