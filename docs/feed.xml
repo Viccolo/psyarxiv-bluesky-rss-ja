@@ -6,14 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>子ども中心の録音から言語発達を測定する研究</title>
+    <title>子ども中心の録音から言語発達を測定する方法</title>
     <link>https://osf.io/z3w7n</link>
     <guid isPermaLink="false">https://osf.io/z3w7n#ja</guid>
     <pubDate>Mon, 20 Jul 2026 14:51:09 +0000</pubDate>
     <description>Measuring language development from child-centered recordings</description>
   </item>
   <item>
-    <title>家族環境の予測不可能性と青年期の生理的・心理的健康：ポジティブな学校気候の緩衝効果</title>
+    <title>家族環境の予測不可能性と青年期の生理的・心理的健康：ポジティブな学校環境の緩衝効果</title>
     <link>https://osf.io/s6ygt</link>
     <guid isPermaLink="false">https://osf.io/s6ygt#ja</guid>
     <pubDate>Mon, 20 Jul 2026 10:31:01 +0000</pubDate>
@@ -27,28 +27,28 @@
     <description>Toward a mechanistic understanding of neuromodulation in addiction: A systematic review of cognitive effects following non-invasive brain stimulation</description>
   </item>
   <item>
-    <title>複数同時ベースラインデザインにおける介入効果の評価：系列内および系列間の反事実的証拠の活用</title>
+    <title>同時多重ベースラインデザインにおける介入効果の評価：系列内および系列間の反事実的証拠の活用</title>
     <link>https://osf.io/d6un8</link>
     <guid isPermaLink="false">https://osf.io/d6un8#ja</guid>
     <pubDate>Mon, 20 Jul 2026 07:45:36 +0000</pubDate>
     <description>Assessment of Intervention Effectiveness in Concurrent Multiple-Baseline Designs using Within-Series and Between-Series Counterfactual Evidence</description>
   </item>
   <item>
-    <title>単一事例データが序数尺度（または変動的）で単調傾向を示す場合の解析法</title>
+    <title>単一事例データが序数的（または変動的）で単調傾向を示す場合の解析</title>
     <link>https://osf.io/8u5ka</link>
     <guid isPermaLink="false">https://osf.io/8u5ka#ja</guid>
     <pubDate>Mon, 20 Jul 2026 07:45:35 +0000</pubDate>
     <description>When Single-Case Data are Ordinal (or Variable) and Exhibit Monotonic Trend</description>
   </item>
   <item>
-    <title>規範が不可逆的に崩壊する理由：異質ネットワークにおける遅延拡散モデルに基づく同調の凸性とキャンペーン反発</title>
+    <title>規範が不可逆的に崩壊する理由：異質ネットワークにおける遅延拡散モデルに基づく同調の凸性とキャンペーン反発効果</title>
     <link>https://osf.io/vmt68</link>
     <guid isPermaLink="false">https://osf.io/vmt68#ja</guid>
     <pubDate>Mon, 20 Jul 2026 07:45:35 +0000</pubDate>
     <description>Why Norms Collapse Irreversibly: Conformity Convexity and Campaign Reactance in a Delayed Diffusion Model on Heterogeneous Networks</description>
   </item>
   <item>
-    <title>オランダにおける創造芸術療法士および心理運動療法士の職業的ウェルビーイング：仕事要求-資源モデルの視点から</title>
+    <title>オランダにおける創造芸術療法士および心理運動療法士の職業的ウェルビーイング：職務要求-資源モデルの視点から</title>
     <link>https://osf.io/9fe2c</link>
     <guid isPermaLink="false">https://osf.io/9fe2c#ja</guid>
     <pubDate>Sun, 19 Jul 2026 21:28:34 +0000</pubDate>
@@ -69,7 +69,7 @@
     <description>Awareness is Predictably Lossy</description>
   </item>
   <item>
-    <title>精神腫瘍学における次元的かつ横断的メンタルヘルス評価の実施：がん生存者におけるHiTOP簡易報告書（HiTOP-BR）の検証</title>
+    <title>精神腫瘍学における次元的かつ横断的メンタルヘルス評価の実施：がん生存者におけるHiTOP簡易報告書（HiTOP-BR）の妥当性検証</title>
     <link>https://osf.io/5mfpx</link>
     <guid isPermaLink="false">https://osf.io/5mfpx#ja</guid>
     <pubDate>Sun, 19 Jul 2026 13:54:35 +0000</pubDate>
@@ -83,14 +83,14 @@
     <description>A Single-Arm Longitudinal Pilot Study of Brazilian Jiu-Jitsu as a Mental Health Intervention for Combat Veterans with Military-Connected Disabilities</description>
   </item>
   <item>
-    <title>マインドフルネス統合認知行動療法における治療効果予測、離脱率、および適格性評価：機械学習と生存分析の応用</title>
+    <title>マインドフルネス統合認知行動療法における治療成果、離脱、および適格性の予測：機械学習と生存分析の応用</title>
     <link>https://osf.io/gzahr</link>
     <guid isPermaLink="false">https://osf.io/gzahr#ja</guid>
     <pubDate>Sat, 18 Jul 2026 15:07:27 +0000</pubDate>
     <description>Predicting Treatment Outcomes, Attrition, and Enrolment Suitability in Mindfulness-integrated Cognitive Behavior Therapy: Machine Learning and Survival Analyses</description>
   </item>
   <item>
-    <title>知覚から自伝的記憶への歌表象の抽象化のマッピング</title>
+    <title>知覚から自伝的記憶への歌の表象の抽象化のマッピング</title>
     <link>https://osf.io/hqt5s</link>
     <guid isPermaLink="false">https://osf.io/hqt5s#ja</guid>
     <pubDate>Sat, 18 Jul 2026 15:07:27 +0000</pubDate>
@@ -139,14 +139,14 @@
     <description>Ecology of curiosity framework for adaptive and maladaptive human–AI ecosystems</description>
   </item>
   <item>
-    <title>他者を守るための予防接種：真の利他性と印象操作に関する混合的証拠</title>
+    <title>他者保護のためのワクチン接種：真の利他性と印象操作に関する混合的証拠</title>
     <link>https://osf.io/jqe53</link>
     <guid isPermaLink="false">https://osf.io/jqe53#ja</guid>
     <pubDate>Fri, 17 Jul 2026 19:03:01 +0000</pubDate>
     <description>Vaccination to Protect Others: Mixed Evidence for Authentic Prosociality and Impression Management</description>
   </item>
   <item>
-    <title>友情の質、パーソナリティ特性および精神健康：パキスタン大学生を対象とした量的研究</title>
+    <title>友情の質、パーソナリティ特性およびメンタルヘルス：パキスタン大学生の量的研究</title>
     <link>https://osf.io/a56qj</link>
     <guid isPermaLink="false">https://osf.io/a56qj#ja</guid>
     <pubDate>Fri, 17 Jul 2026 19:03:01 +0000</pubDate>
@@ -181,14 +181,14 @@
     <description>Inconclusive intergenerational transmission of posttraumatic stress disorder symptoms: A comment on Geng et al. (2026)</description>
   </item>
   <item>
-    <title>話者変動を考慮した音響対立の識別可能性の定量化</title>
+    <title>話者変動を考慮した音響対比の識別可能性の定量化</title>
     <link>https://osf.io/hbka8</link>
     <guid isPermaLink="false">https://osf.io/hbka8#ja</guid>
     <pubDate>Fri, 17 Jul 2026 19:02:59 +0000</pubDate>
     <description>Discriminability of sound contrasts in the face of speaker variation quantified</description>
   </item>
   <item>
-    <title>日常生活における異常体験の探究：幻の電話信号、精神病様体験とウェルビーイングの関連性</title>
+    <title>日常生活における異常な瞬間の探究：幻の電話信号、精神病様体験とウェルビーイング</title>
     <link>https://osf.io/tupn5</link>
     <guid isPermaLink="false">https://osf.io/tupn5#ja</guid>
     <pubDate>Fri, 17 Jul 2026 19:02:59 +0000</pubDate>
@@ -209,28 +209,28 @@
     <description>EVALUATION OF OPEN SCIENCE IN THE PEER REVIEW PROCESS</description>
   </item>
   <item>
-    <title>うつ病に対するシロシビンのランダム化試験における出版バイアス：ロバストベイズメタアナリシス</title>
+    <title>うつ病に対するシロシビンのランダム化試験における出版バイアス：ロバストベイズメタアナリシスによる検討</title>
     <link>https://osf.io/6gy8v</link>
     <guid isPermaLink="false">https://osf.io/6gy8v#ja</guid>
     <pubDate>Fri, 17 Jul 2026 19:02:58 +0000</pubDate>
     <description>Publication bias in randomized trials of psilocybin for depression: a Robust Bayesian Meta-Analysis</description>
   </item>
   <item>
-    <title>高い社会経済的地位が若年層の不安およびアルコール使用に及ぼすリスク要因としての役割：スコーピングレビュー</title>
+    <title>青少年における高い社会経済的地位が不安およびアルコール使用のリスク要因であることのスコーピングレビュー</title>
     <link>https://osf.io/2cs8a</link>
     <guid isPermaLink="false">https://osf.io/2cs8a#ja</guid>
     <pubDate>Fri, 17 Jul 2026 19:02:58 +0000</pubDate>
     <description>High socioeconomic status as a risk context for anxiety and alcohol use in youth: A scoping review</description>
   </item>
   <item>
-    <title>未知言語における新規音韻語彙表象形成に対する曝露頻度と話者変動の影響</title>
+    <title>未知言語における新規音素語彙表象形成に対する曝露頻度と話者変動の影響</title>
     <link>https://osf.io/jdyqm</link>
     <guid isPermaLink="false">https://osf.io/jdyqm#ja</guid>
     <pubDate>Fri, 17 Jul 2026 19:02:58 +0000</pubDate>
     <description>The Effect of Exposure Frequency and Talker Variability on the Formation of New Phonolexical Representations in an Unfamiliar Language</description>
   </item>
   <item>
-    <title>SAVi-M：トリガー事象に対する感情反応を調査するための標準化聴覚視覚データベース</title>
+    <title>SAVi-M：トリガー事象に対する情動反応を検証するための標準化聴覚視覚データベース</title>
     <link>https://osf.io/kmv2e</link>
     <guid isPermaLink="false">https://osf.io/kmv2e#ja</guid>
     <pubDate>Fri, 17 Jul 2026 19:02:58 +0000</pubDate>
@@ -244,7 +244,7 @@
     <description>Binaural-beat hype fails scientific scrutiny again</description>
   </item>
   <item>
-    <title>AIおべっか行動の理論的基盤：お世辞とおべっか研究を対話型AIに結びつけて</title>
+    <title>AIおべっかの理論的基盤：お世辞とおべっか研究を対話型AIに結びつけて</title>
     <link>https://osf.io/csjad</link>
     <guid isPermaLink="false">https://osf.io/csjad#ja</guid>
     <pubDate>Thu, 16 Jul 2026 20:58:26 +0000</pubDate>
@@ -258,7 +258,7 @@
     <description>Development and Initial Validation of the Violence Desensitization Scale</description>
   </item>
   <item>
-    <title>「『大丈夫じゃなくてもいい』？Redditの体験共有コミュニティにおける意識疲労とメンタルヘルスキャンペーンへの批判」</title>
+    <title>「大丈夫でなくてもいい？」：Redditの体験共有コミュニティにおける意識疲労とメンタルヘルスキャンペーンへの批判</title>
     <link>https://osf.io/4p7ke</link>
     <guid isPermaLink="false">https://osf.io/4p7ke#ja</guid>
     <pubDate>Thu, 16 Jul 2026 20:58:26 +0000</pubDate>
@@ -279,7 +279,7 @@
     <description>Modulation of gastric activity using appetizing and disgusting images</description>
   </item>
   <item>
-    <title>語彙間における通時的意味変化の推進力としての言語横断的意味安定性</title>
+    <title>語彙間の通時的意味変化を促進する言語横断的意味安定性の役割</title>
     <link>https://osf.io/h8y3g</link>
     <guid isPermaLink="false">https://osf.io/h8y3g#ja</guid>
     <pubDate>Thu, 16 Jul 2026 20:58:25 +0000</pubDate>
@@ -293,7 +293,7 @@
     <description>Sensory Saturation and Cognitive Surrender: A Theoretical Framework for Altered Perceptual States in Immersive Neurogastronomic Dining</description>
   </item>
   <item>
-    <title>自然主義的動画広告に対する神経反応からの集団レベル予測：固定表現と結果学習表現の事前登録比較</title>
+    <title>自然主義的ビデオ広告に対する神経応答からの集団レベル予測：固定表現と結果訓練表現の事前登録比較</title>
     <link>https://osf.io/vdum2</link>
     <guid isPermaLink="false">https://osf.io/vdum2#ja</guid>
     <pubDate>Thu, 16 Jul 2026 10:25:24 +0000</pubDate>
@@ -314,7 +314,7 @@
     <description>Oral Microbiome Dynamics in Health and Disease: Mechanisms and Microecological Therapeutic Strategies</description>
   </item>
   <item>
-    <title>対立解決困難および非効果的な対人戦略の簡易かつ横断的評価尺度の開発と初期検証</title>
+    <title>対立解決困難および非効果的な対人関係戦略の簡潔かつ横断的評価尺度の開発と初期検証</title>
     <link>https://osf.io/37s8j</link>
     <guid isPermaLink="false">https://osf.io/37s8j#ja</guid>
     <pubDate>Thu, 16 Jul 2026 08:27:58 +0000</pubDate>
@@ -328,14 +328,14 @@
     <description>Irresistibly Logical: Automatic Logical Inferences in Visual Scene Processing</description>
   </item>
   <item>
-    <title>セラピーセッション記録からのパーソナライズドネットワーク作成における大規模言語モデル活用の有用性検証：概念実証研究</title>
+    <title>セラピーセッション記録から個別化ネットワークを構築するための大規模言語モデル活用の有用性検証：概念実証研究</title>
     <link>https://osf.io/n8a6r</link>
     <guid isPermaLink="false">https://osf.io/n8a6r#ja</guid>
     <pubDate>Wed, 15 Jul 2026 21:11:11 +0000</pubDate>
     <description>Testing the Utility of Using Large Language Models to Create Personalized Networks From Therapy Session Transcripts: A Proof of Concept Study</description>
   </item>
   <item>
-    <title>逸脱した計算モデルの心理学的検討</title>
+    <title>暴走する計算モデルの心理学的検討</title>
     <link>https://osf.io/tc34w</link>
     <guid isPermaLink="false">https://osf.io/tc34w#ja</guid>
     <pubDate>Wed, 15 Jul 2026 21:11:11 +0000</pubDate>
