@@ -6,6 +6,55 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>認知的不安の程度に応じた予期的脅威が注意と作業記憶に及ぼす影響の再検証と拡張</title>
+    <link>https://osf.io/dr3wb</link>
+    <guid isPermaLink="false">https://osf.io/dr3wb#ja</guid>
+    <pubDate>Tue, 21 Jul 2026 18:52:18 +0000</pubDate>
+    <description>Anticipatory Threat Disrupts Attention and Working Memory as a Function of Cognitive Anxiety: A Replication and Extension</description>
+  </item>
+  <item>
+    <title>多様な感覚刺激の増加が必ずしも効果的でない理由：文字と音の連合学習における多モーダル関与の負の影響</title>
+    <link>https://osf.io/fr5a9</link>
+    <guid isPermaLink="false">https://osf.io/fr5a9#ja</guid>
+    <pubDate>Tue, 21 Jul 2026 18:52:18 +0000</pubDate>
+    <description>When More Is Not Better: Costs of Increasing Multimodal Engagement During Letter–Sound Association Learning</description>
+  </item>
+  <item>
+    <title>WordSeg：テキストからの教師なし語形分割の標準化</title>
+    <link>https://osf.io/h63xn</link>
+    <guid isPermaLink="false">https://osf.io/h63xn#ja</guid>
+    <pubDate>Tue, 21 Jul 2026 18:52:18 +0000</pubDate>
+    <description>WordSeg: Standardizing unsupervised word form segmentation from text</description>
+  </item>
+  <item>
+    <title>BoundIRT：因子得点回帰を用いた有界連続項目反応理論のためのRパッケージ</title>
+    <link>https://osf.io/ys9m2</link>
+    <guid isPermaLink="false">https://osf.io/ys9m2#ja</guid>
+    <pubDate>Tue, 21 Jul 2026 18:52:18 +0000</pubDate>
+    <description>BoundIRT: An R Package for Bounded Continuous Item Response Theory with Factor Score Regression</description>
+  </item>
+  <item>
+    <title>合意誘導エラーはバイリンガルの言語間で同様に処理されるか？イタリアの非標準変種バイリンガル話者からの知見</title>
+    <link>https://osf.io/xr6uc</link>
+    <guid isPermaLink="false">https://osf.io/xr6uc#ja</guid>
+    <pubDate>Tue, 21 Jul 2026 18:52:18 +0000</pubDate>
+    <description>Are agreement attraction errors processed in the same way across bilinguals&#x27; languages? Insights from bilingual speakers of non-standard varieties in Italy</description>
+  </item>
+  <item>
+    <title>ドローンへの信頼は成立するか？自律型技術におけるメンタルモデル形成、信頼発展、行動結果の洞察：人間とドローンの相互作用を事例として</title>
+    <link>https://osf.io/ksgbr</link>
+    <guid isPermaLink="false">https://osf.io/ksgbr#ja</guid>
+    <pubDate>Tue, 21 Jul 2026 18:52:17 +0000</pubDate>
+    <description>In drones we trust!?  Insights into mental model formation, trust development, and behavioral outcomes in autonomous technology: The case of human-drone interaction</description>
+  </item>
+  <item>
+    <title>スポーツ関連脳震盪および反復性頭部衝撃後の聴覚機能に関するスコーピングレビュー</title>
+    <link>https://osf.io/crxdu</link>
+    <guid isPermaLink="false">https://osf.io/crxdu#ja</guid>
+    <pubDate>Tue, 21 Jul 2026 18:52:17 +0000</pubDate>
+    <description>Auditory Function Following Sport-Related Concussion And Repetitive Head Impacts: A Scoping Review</description>
+  </item>
+  <item>
     <title>誤りへの懸念と個人的基準が横断的摂食障害行動表出に及ぼす影響</title>
     <link>https://osf.io/uw8a2</link>
     <guid isPermaLink="false">https://osf.io/uw8a2#ja</guid>
@@ -41,28 +90,28 @@
     <description>High/Low-Context Communication: (Re)conceptualization and Measurement</description>
   </item>
   <item>
-    <title>移転可能なスキルのメタ認知的側面チェックリスト（CheckMATS）：教育研究と実践のための新たなツール</title>
+    <title>移転可能スキルのメタ認知的側面チェックリスト（CheckMATS）：教育研究と実践のための新たなツール</title>
     <link>https://osf.io/95wef</link>
     <guid isPermaLink="false">https://osf.io/95wef#ja</guid>
     <pubDate>Mon, 20 Jul 2026 18:23:54 +0000</pubDate>
     <description>Checklist of Metacognitive Aspects of Transferable Skills (CheckMATS): A new tool for educational research and practice</description>
   </item>
   <item>
-    <title>他者への思いやりから地球への配慮へ：共感特性と環境変革措置への支持</title>
+    <title>他者への思いやりから地球への配慮へ：共感性特性と環境変革措置への支持</title>
     <link>https://osf.io/dhbta</link>
     <guid isPermaLink="false">https://osf.io/dhbta#ja</guid>
     <pubDate>Mon, 20 Jul 2026 18:23:53 +0000</pubDate>
     <description>From Caring for Others to Caring for the Planet: Empathy Trait and Support for Transformative Environmental Measures</description>
   </item>
   <item>
-    <title>分類ベースの予測モデリングにおける変数選択のための遺伝的アルゴリズムの評価：シミュレーション研究による適合度関数と内部モデルの比較</title>
+    <title>分類ベース予測モデリングにおける変数選択のための遺伝的アルゴリズムの評価：シミュレーション研究による適合度関数と内部モデルの比較</title>
     <link>https://osf.io/6rkav</link>
     <guid isPermaLink="false">https://osf.io/6rkav#ja</guid>
     <pubDate>Mon, 20 Jul 2026 18:23:53 +0000</pubDate>
     <description>Assessing Genetic Algorithms for Variable Selection in Classification-Based Predictive Modeling: Comparing Fitness Functions and Internal Models Through a Simulation Study</description>
   </item>
   <item>
-    <title>創造芸術療法および心理運動療法における職業的質の因子構造：交差検証済み確証的因子分析および探索的構造方程式モデリングの証拠</title>
+    <title>創造芸術療法および心理運動療法におけるProQOLの因子構造：交差検証型確証的因子分析および探索的構造方程式モデリングの証拠</title>
     <link>https://osf.io/6uvg9</link>
     <guid isPermaLink="false">https://osf.io/6uvg9#ja</guid>
     <pubDate>Mon, 20 Jul 2026 18:23:53 +0000</pubDate>
@@ -76,7 +125,7 @@
     <description>Occupational Stigma and the Dehumanization of Dirty Workers: Emotional and Behavioral Mechanisms</description>
   </item>
   <item>
-    <title>メタ客体化と職場特性：職場における自己客体化への影響に関するメタ分析</title>
+    <title>メタ客体化と職場の特性：職場における自己客体化への影響に関するメタ分析</title>
     <link>https://osf.io/sguf4</link>
     <guid isPermaLink="false">https://osf.io/sguf4#ja</guid>
     <pubDate>Mon, 20 Jul 2026 18:23:53 +0000</pubDate>
@@ -90,7 +139,7 @@
     <description>Evidence accumulation modeling of learning, repetition, and control adaptation processes in Stroop and contingency learning</description>
   </item>
   <item>
-    <title>高等教育における生成AI導入が教職員と学生間の社会的契約に及ぼすリスク：質的研究</title>
+    <title>高等教育における生成型AI導入が教職員と学生間の社会的契約に及ぼすリスク：質的研究</title>
     <link>https://osf.io/2m39g</link>
     <guid isPermaLink="false">https://osf.io/2m39g#ja</guid>
     <pubDate>Mon, 20 Jul 2026 18:23:52 +0000</pubDate>
@@ -104,14 +153,14 @@
     <description>Separating visual memories through learned action associations</description>
   </item>
   <item>
-    <title>メンタルヘルスリテラシーを組み込んだ内容領域の読解・作文介入が学業成績およびウェルビーイングに及ぼす影響</title>
+    <title>メンタルヘルスリテラシーを組み込んだ内容領域読解・作文介入が学業成績およびウェルビーイングに及ぼす影響</title>
     <link>https://osf.io/5r32q</link>
     <guid isPermaLink="false">https://osf.io/5r32q#ja</guid>
     <pubDate>Mon, 20 Jul 2026 18:23:52 +0000</pubDate>
     <description>Effects of a Content-Area Reading and Writing Intervention With Embedded Mental Health Literacy on Academic and Wellbeing Outcomes</description>
   </item>
   <item>
-    <title>対人外的調節障害：子ども時代における感情調節障害の再考</title>
+    <title>対人外因性調節障害：子ども時代における感情調節障害の再考</title>
     <link>https://osf.io/2u9sv</link>
     <guid isPermaLink="false">https://osf.io/2u9sv#ja</guid>
     <pubDate>Mon, 20 Jul 2026 18:23:51 +0000</pubDate>
@@ -132,14 +181,14 @@
     <description>Family environmental unpredictability and adolescent physiological and psychological health: The buffering role of positive school climate</description>
   </item>
   <item>
-    <title>依存症における神経調節の機序的理解に向けて：非侵襲的脳刺激後の認知機能変化に関する系統的レビュー</title>
+    <title>依存症における神経調節の機序的理解に向けて：非侵襲的脳刺激後の認知効果に関する系統的レビュー</title>
     <link>https://osf.io/rtwu3</link>
     <guid isPermaLink="false">https://osf.io/rtwu3#ja</guid>
     <pubDate>Mon, 20 Jul 2026 07:45:36 +0000</pubDate>
     <description>Toward a mechanistic understanding of neuromodulation in addiction: A systematic review of cognitive effects following non-invasive brain stimulation</description>
   </item>
   <item>
-    <title>同時多基準デザインにおける介入効果の評価：系列内および系列間の反事実的証拠の活用</title>
+    <title>同時多重ベースラインデザインにおける介入効果の評価：系列内および系列間の反事実的証拠の活用</title>
     <link>https://osf.io/d6un8</link>
     <guid isPermaLink="false">https://osf.io/d6un8#ja</guid>
     <pubDate>Mon, 20 Jul 2026 07:45:36 +0000</pubDate>
@@ -160,7 +209,7 @@
     <description>Why Norms Collapse Irreversibly: Conformity Convexity and Campaign Reactance in a Delayed Diffusion Model on Heterogeneous Networks</description>
   </item>
   <item>
-    <title>オランダにおける創造芸術療法士および心理運動療法士の職業的幸福感：仕事要求-資源モデルの視点から</title>
+    <title>オランダにおける創造芸術療法士および心理運動療法士の職業的ウェルビーイング：仕事要求-資源モデルの視点から</title>
     <link>https://osf.io/9fe2c</link>
     <guid isPermaLink="false">https://osf.io/9fe2c#ja</guid>
     <pubDate>Sun, 19 Jul 2026 21:28:34 +0000</pubDate>
@@ -195,14 +244,14 @@
     <description>A Single-Arm Longitudinal Pilot Study of Brazilian Jiu-Jitsu as a Mental Health Intervention for Combat Veterans with Military-Connected Disabilities</description>
   </item>
   <item>
-    <title>マインドフルネス統合認知行動療法における治療成果、離脱、および適格性の予測：機械学習と生存分析の応用</title>
+    <title>マインドフルネス統合認知行動療法における治療効果、離脱、および適格性の予測：機械学習と生存分析の応用</title>
     <link>https://osf.io/gzahr</link>
     <guid isPermaLink="false">https://osf.io/gzahr#ja</guid>
     <pubDate>Sat, 18 Jul 2026 15:07:27 +0000</pubDate>
     <description>Predicting Treatment Outcomes, Attrition, and Enrolment Suitability in Mindfulness-integrated Cognitive Behavior Therapy: Machine Learning and Survival Analyses</description>
   </item>
   <item>
-    <title>知覚から自伝的記憶への歌表象の抽象化のマッピング</title>
+    <title>歌の表象の抽象化の知覚から自伝的記憶へのマッピング</title>
     <link>https://osf.io/hqt5s</link>
     <guid isPermaLink="false">https://osf.io/hqt5s#ja</guid>
     <pubDate>Sat, 18 Jul 2026 15:07:27 +0000</pubDate>
@@ -223,21 +272,21 @@
     <description>Deception-Enabling Cognitive Capabilities in AI Systems</description>
   </item>
   <item>
-    <title>色彩手がかり、発達的結合、および遅発視覚モデルの限界：Vogelsangら（2024）へのコメント</title>
+    <title>色彩手がかり、発達的連結、および遅発視覚モデルの限界：Vogelsangら（2024）へのコメント</title>
     <link>https://osf.io/v5hy9</link>
     <guid isPermaLink="false">https://osf.io/v5hy9#ja</guid>
     <pubDate>Fri, 17 Jul 2026 19:03:05 +0000</pubDate>
     <description>Color Cues, Developmental Coupling, and the Limits of the Late-Sighted Model: A Commentary on Vogelsang et al. (2024)</description>
   </item>
   <item>
-    <title>RI-CLPMの適合だけでは不十分：個人内縦断研究における診断感度と報告慣行の検討</title>
+    <title>RI-CLPMの適合だけでは不十分：個人内縦断研究における診断感度と報告実践の検討</title>
     <link>https://osf.io/cdwgt</link>
     <guid isPermaLink="false">https://osf.io/cdwgt#ja</guid>
     <pubDate>Fri, 17 Jul 2026 19:03:05 +0000</pubDate>
     <description>Fitting RI-CLPM Is Not Enough: Diagnostic Sensitivity and Reporting Practices in Within-Person Longitudinal Research</description>
   </item>
   <item>
-    <title>sMRIおよび心理測定評価を用いたADHDにおける潜在モデルとネットワークモデルの比較研究</title>
+    <title>sMRIおよび心理計測評価を用いたADHDにおける潜在モデルとネットワークモデルの比較研究</title>
     <link>https://osf.io/5vnpc</link>
     <guid isPermaLink="false">https://osf.io/5vnpc#ja</guid>
     <pubDate>Fri, 17 Jul 2026 19:03:05 +0000</pubDate>
@@ -258,21 +307,21 @@
     <description>Vaccination to Protect Others: Mixed Evidence for Authentic Prosociality and Impression Management</description>
   </item>
   <item>
-    <title>友情の質、性格特性およびメンタルヘルス：パキスタンの大学生を対象とした量的研究</title>
+    <title>友情の質、パーソナリティ特性およびメンタルヘルス：パキスタン大学生を対象とした量的研究</title>
     <link>https://osf.io/a56qj</link>
     <guid isPermaLink="false">https://osf.io/a56qj#ja</guid>
     <pubDate>Fri, 17 Jul 2026 19:03:01 +0000</pubDate>
     <description>Friendship Quality, Personality Traits, and Mental Health: Quantitative Study of Pakistani University Students</description>
   </item>
   <item>
-    <title>ストレッサーと結果を超えて：フランダース矯正職員における望まれない行動とその文脈に関する質的研究</title>
+    <title>ストレッサーと結果を超えて：フランダース矯正官における望まれない行動とその文脈に関する質的研究</title>
     <link>https://osf.io/x6u35</link>
     <guid isPermaLink="false">https://osf.io/x6u35#ja</guid>
     <pubDate>Fri, 17 Jul 2026 19:03:00 +0000</pubDate>
     <description>Beyond Stressors and Outcomes A Qualitative Study of Unwanted Behaviors and Their Contexts in Flemish Correctional Officers</description>
   </item>
   <item>
-    <title>有病率誘発的概念変化における自信の役割</title>
+    <title>有病率誘発概念変化における自信の役割</title>
     <link>https://osf.io/uxtvr</link>
     <guid isPermaLink="false">https://osf.io/uxtvr#ja</guid>
     <pubDate>Fri, 17 Jul 2026 19:03:00 +0000</pubDate>
@@ -293,67 +342,18 @@
     <description>Inconclusive intergenerational transmission of posttraumatic stress disorder symptoms: A comment on Geng et al. (2026)</description>
   </item>
   <item>
-    <title>話者変動を考慮した音響対立の識別可能性の定量化</title>
+    <title>話者変動を考慮した音響対比の識別可能性の定量化</title>
     <link>https://osf.io/hbka8</link>
     <guid isPermaLink="false">https://osf.io/hbka8#ja</guid>
     <pubDate>Fri, 17 Jul 2026 19:02:59 +0000</pubDate>
     <description>Discriminability of sound contrasts in the face of speaker variation quantified</description>
   </item>
   <item>
-    <title>日常生活における異常な瞬間の探求：幻の電話信号、精神病様体験とウェルビーイング</title>
+    <title>日常生活における異常体験の探究：幻の電話信号、精神病様体験とウェルビーイングの関連性</title>
     <link>https://osf.io/tupn5</link>
     <guid isPermaLink="false">https://osf.io/tupn5#ja</guid>
     <pubDate>Fri, 17 Jul 2026 19:02:59 +0000</pubDate>
     <description>Exploring Unusual Moments in Daily Life: Phantom Phone Signals, psychosis-like experiences and wellbeing</description>
-  </item>
-  <item>
-    <title>社会における発達脳の理解：神経神話と発達・学習への潜在的影響</title>
-    <link>https://osf.io/73yzn</link>
-    <guid isPermaLink="false">https://osf.io/73yzn#ja</guid>
-    <pubDate>Fri, 17 Jul 2026 19:02:59 +0000</pubDate>
-    <description>How Society Understands the Developing Brain: Neuromyths and Their Potential Implications for Development and Learning</description>
-  </item>
-  <item>
-    <title>査読過程におけるオープンサイエンスの評価</title>
-    <link>https://osf.io/d42nj</link>
-    <guid isPermaLink="false">https://osf.io/d42nj#ja</guid>
-    <pubDate>Fri, 17 Jul 2026 19:02:59 +0000</pubDate>
-    <description>EVALUATION OF OPEN SCIENCE IN THE PEER REVIEW PROCESS</description>
-  </item>
-  <item>
-    <title>うつ病に対するシロシビンのランダム化試験における出版バイアス：ロバストベイズメタアナリシス</title>
-    <link>https://osf.io/6gy8v</link>
-    <guid isPermaLink="false">https://osf.io/6gy8v#ja</guid>
-    <pubDate>Fri, 17 Jul 2026 19:02:58 +0000</pubDate>
-    <description>Publication bias in randomized trials of psilocybin for depression: a Robust Bayesian Meta-Analysis</description>
-  </item>
-  <item>
-    <title>青少年における高い社会経済的地位が不安およびアルコール使用のリスク要因であることのスコーピングレビュー</title>
-    <link>https://osf.io/2cs8a</link>
-    <guid isPermaLink="false">https://osf.io/2cs8a#ja</guid>
-    <pubDate>Fri, 17 Jul 2026 19:02:58 +0000</pubDate>
-    <description>High socioeconomic status as a risk context for anxiety and alcohol use in youth: A scoping review</description>
-  </item>
-  <item>
-    <title>未知言語における新規音素語彙表象形成に対する曝露頻度と話者変動の影響</title>
-    <link>https://osf.io/jdyqm</link>
-    <guid isPermaLink="false">https://osf.io/jdyqm#ja</guid>
-    <pubDate>Fri, 17 Jul 2026 19:02:58 +0000</pubDate>
-    <description>The Effect of Exposure Frequency and Talker Variability on the Formation of New Phonolexical Representations in an Unfamiliar Language</description>
-  </item>
-  <item>
-    <title>SAVi-M：トリガー事象に対する感情反応を調査するための標準化聴覚視覚データベース</title>
-    <link>https://osf.io/kmv2e</link>
-    <guid isPermaLink="false">https://osf.io/kmv2e#ja</guid>
-    <pubDate>Fri, 17 Jul 2026 19:02:58 +0000</pubDate>
-    <description>SAVi-M: A Standardised Auditory-Visual Database to Investigate Affective Response to Trigger Events</description>
-  </item>
-  <item>
-    <title>バイノーラルビートの過剰評価は再び科学的検証に耐えられない</title>
-    <link>https://osf.io/jgwpy</link>
-    <guid isPermaLink="false">https://osf.io/jgwpy#ja</guid>
-    <pubDate>Fri, 17 Jul 2026 19:02:57 +0000</pubDate>
-    <description>Binaural-beat hype fails scientific scrutiny again</description>
   </item>
 </channel>
 </rss>
