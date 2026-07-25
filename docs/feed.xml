@@ -6,7 +6,21 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>反復学習はエピソード記憶からの明示的想起に依存する：脳波計測による証拠</title>
+    <title>jsPsychを用いたオンライン行動実験のワークフローガイド</title>
+    <link>https://osf.io/u4fhk</link>
+    <guid isPermaLink="false">https://osf.io/u4fhk#ja</guid>
+    <pubDate>Sat, 25 Jul 2026 22:27:05 +0000</pubDate>
+    <description>Online Behavioral Experiments with jsPsych: A Workflow Guide</description>
+  </item>
+  <item>
+    <title>身体的痛みに関する人間の直感的理論の形式化に向けて</title>
+    <link>https://osf.io/sb2jz</link>
+    <guid isPermaLink="false">https://osf.io/sb2jz#ja</guid>
+    <pubDate>Sat, 25 Jul 2026 22:27:05 +0000</pubDate>
+    <description>Toward a Formalization of Human Intuitive Theories of Bodily Pain</description>
+  </item>
+  <item>
+    <title>反復学習はエピソード記憶からの明示的想起に依存する：脳波（EEG）による証拠</title>
     <link>https://osf.io/367n5</link>
     <guid isPermaLink="false">https://osf.io/367n5#ja</guid>
     <pubDate>Sat, 25 Jul 2026 21:29:17 +0000</pubDate>
@@ -48,14 +62,14 @@
     <description>PupilFear: benchmarking pupillometry methods for fear conditioning on a distributed dynamical database</description>
   </item>
   <item>
-    <title>移住、環境、脳：証拠の体系的統合レビュー</title>
+    <title>移住、環境、脳：証拠の体系的統合</title>
     <link>https://osf.io/47r5n</link>
     <guid isPermaLink="false">https://osf.io/47r5n#ja</guid>
     <pubDate>Fri, 24 Jul 2026 18:46:49 +0000</pubDate>
     <description>Migration, Environment, and the Brain: A Systematic Synthesis of Evidence</description>
   </item>
   <item>
-    <title>出生体験、反芻思考および産後うつ症状の関連に関する代替的説明：Akerら（2026）へのコメント</title>
+    <title>出産体験、反すう思考および産後うつ症状の関連に関する代替的説明：Akerら（2026）へのコメント</title>
     <link>https://osf.io/ksmq4</link>
     <guid isPermaLink="false">https://osf.io/ksmq4#ja</guid>
     <pubDate>Fri, 24 Jul 2026 18:46:49 +0000</pubDate>
@@ -83,7 +97,7 @@
     <description>Understanding stakeholders’ views on 24-hour movement behaviours in early childhood in Scotland</description>
   </item>
   <item>
-    <title>最小限の反直感的特性が現代架空キャラクターの長期的人気を予測する：オリジナル151ポケモンの定量分析</title>
+    <title>最小限の反直感的特徴が現代フィクションキャラクターの長期的人気を予測する：オリジナル151ポケモンの定量分析</title>
     <link>https://osf.io/rg6h2</link>
     <guid isPermaLink="false">https://osf.io/rg6h2#ja</guid>
     <pubDate>Fri, 24 Jul 2026 15:40:29 +0000</pubDate>
@@ -118,7 +132,7 @@
     <description>Shared Identity and Felt Understanding in the Context of Sexual Minority Stress:  Who Gets Me, and Why?</description>
   </item>
   <item>
-    <title>日常生活における健康追求：社会経済的地位別の個人的プロジェクト分析</title>
+    <title>日常生活における健康追求：社会経済的地位を横断した個人的プロジェクト分析</title>
     <link>https://osf.io/tkn3b</link>
     <guid isPermaLink="false">https://osf.io/tkn3b#ja</guid>
     <pubDate>Thu, 23 Jul 2026 22:17:14 +0000</pubDate>
@@ -153,7 +167,7 @@
     <description>Change blindness in pigeons (Columba livia) and humans (Homo sapiens):  A comparative study using landscape photographs</description>
   </item>
   <item>
-    <title>個人別項目知覚的既知・新規認識予測のためのMDS-REMモデル</title>
+    <title>個人項目の知覚的既知・新規認識を予測するMDS-REMモデル</title>
     <link>https://osf.io/eafsm</link>
     <guid isPermaLink="false">https://osf.io/eafsm#ja</guid>
     <pubDate>Thu, 23 Jul 2026 21:18:21 +0000</pubDate>
@@ -181,7 +195,7 @@
     <description>Theory of mind beyond beliefs: Testing attention-based social micro-processes in LLMs</description>
   </item>
   <item>
-    <title>青年期脳認知発達研究における横断的診断および物質使用障害ポリジェニックスコアと物質使用マイルストーンの関連性</title>
+    <title>青年期脳認知発達研究における横断的診断および物質使用障害多遺伝子スコアと物質使用マイルストーンの関連性</title>
     <link>https://osf.io/9qg8k</link>
     <guid isPermaLink="false">https://osf.io/9qg8k#ja</guid>
     <pubDate>Thu, 23 Jul 2026 21:18:20 +0000</pubDate>
@@ -195,7 +209,7 @@
     <description>Object recognition in autism: Shape configuration and Category-specificity</description>
   </item>
   <item>
-    <title>伝統的な植物由来料理：持続可能な食生活への扉</title>
+    <title>伝統的な植物由来料理：持続可能な食生活への入口</title>
     <link>https://osf.io/62apg</link>
     <guid isPermaLink="false">https://osf.io/62apg#ja</guid>
     <pubDate>Thu, 23 Jul 2026 21:18:19 +0000</pubDate>
@@ -209,14 +223,14 @@
     <description>Debunking decreases mistaken causal inferences: A direct replication of Irving et al. (2022)</description>
   </item>
   <item>
-    <title>COVID-19パンデミック前後における小児の認知機能：領域特異性と学校環境の違いに関する大規模多施設サンプル研究</title>
+    <title>COVID-19パンデミック前後における小児の認知機能：大規模多施設サンプルにおける領域特異性と学校環境の違い</title>
     <link>https://osf.io/k3fr9</link>
     <guid isPermaLink="false">https://osf.io/k3fr9#ja</guid>
     <pubDate>Thu, 23 Jul 2026 21:18:18 +0000</pubDate>
     <description>Pediatric Cognitive Functioning Before, During, and After the COVID-19 Pandemic: Domain Specificity and School-Context Differences in a Large Multisite Sample</description>
   </item>
   <item>
-    <title>自閉症スペクトラムの人々は非自閉症者よりも複雑図形におけるターゲット探索（脱埋め込み）が優れているか、そしてそれは局所的処理バイアスを反映しているか？</title>
+    <title>自閉症スペクトラムの人々は非自閉症者よりも複雑図形内のターゲット探索（分離処理）が優れているか、そしてそれは局所的処理バイアスを反映しているか？</title>
     <link>https://osf.io/vqj2x</link>
     <guid isPermaLink="false">https://osf.io/vqj2x#ja</guid>
     <pubDate>Thu, 23 Jul 2026 21:18:18 +0000</pubDate>
@@ -244,7 +258,7 @@
     <description>Object recognition in autism: Within-category identification and the role of prior knowledge</description>
   </item>
   <item>
-    <title>群レベルの行動効果だけでは不十分：ハウスクリケットの自発的な大きさ選好課題へのGRIPSフレームワークの適用</title>
+    <title>群レベルの行動効果だけでは不十分：ハウスクリークにおける自発的な大きさ選好課題へのGRIPSフレームワークの適用</title>
     <link>https://osf.io/xw4jr</link>
     <guid isPermaLink="false">https://osf.io/xw4jr#ja</guid>
     <pubDate>Thu, 23 Jul 2026 21:18:17 +0000</pubDate>
@@ -258,14 +272,14 @@
     <description>Beyond Nuances: Measurement Non-Invariance as a Source of Item-Level Predictive Gains</description>
   </item>
   <item>
-    <title>空間認知における個人差：男女の16種空間能力のネットワーク分析からの知見</title>
+    <title>空間認知における個人差：男女16の空間能力のネットワーク分析からの洞察</title>
     <link>https://osf.io/ntyf9</link>
     <guid isPermaLink="false">https://osf.io/ntyf9#ja</guid>
     <pubDate>Thu, 23 Jul 2026 21:18:16 +0000</pubDate>
     <description>Individual differences in spatial cognition: insights from a network analysis of 16 spatial skills in males and females</description>
   </item>
   <item>
-    <title>注意欠陥多動性障害（ADHD）診断における注意変数検査（TOVA）の妥当性評価：教育的支援の根拠に関する批判的検討</title>
+    <title>注意欠陥多動性障害（ADHD）診断における注意変数検査（TOVA）の妥当性評価：教育的配慮の証拠に関する批判的検討</title>
     <link>https://osf.io/78k2p</link>
     <guid isPermaLink="false">https://osf.io/78k2p#ja</guid>
     <pubDate>Thu, 23 Jul 2026 21:18:16 +0000</pubDate>
@@ -300,14 +314,14 @@
     <description>Working Memory Architecture Across Verbal, Visuospatial, and Tactile Modalities: Moving Beyond Traditional Framework</description>
   </item>
   <item>
-    <title>原型原理は孤立した対象を超えた一般的視覚体験の美学を説明する</title>
+    <title>プロトタイプ原理は孤立した対象を超えた一般的視覚体験の美学を説明する</title>
     <link>https://osf.io/a5v7m</link>
     <guid isPermaLink="false">https://osf.io/a5v7m#ja</guid>
     <pubDate>Thu, 23 Jul 2026 17:47:20 +0000</pubDate>
     <description>Prototype principle explains aesthetics for general visual experiences beyond isolated objects</description>
   </item>
   <item>
-    <title>コルチゾール反応性が親から思春期青年へのうつ症状伝達に果たす役割</title>
+    <title>コルチゾール反応性が親から思春期青年への抑うつ症状伝達に果たす役割</title>
     <link>https://osf.io/gcsm4</link>
     <guid isPermaLink="false">https://osf.io/gcsm4#ja</guid>
     <pubDate>Thu, 23 Jul 2026 16:11:24 +0000</pubDate>
@@ -328,7 +342,7 @@
     <description>Music as mindfulness: Focused listening reduces negative mind-wandering and strengthens attention networks</description>
   </item>
   <item>
-    <title>就学移行期における実行機能と学校適応の縦断的関連：イングランドと香港における二波調査</title>
+    <title>就学移行期における実行機能と学校適応の縦断的関連：イギリスと香港における二波調査</title>
     <link>https://osf.io/skme8</link>
     <guid isPermaLink="false">https://osf.io/skme8#ja</guid>
     <pubDate>Thu, 23 Jul 2026 16:11:24 +0000</pubDate>
@@ -340,20 +354,6 @@
     <guid isPermaLink="false">https://osf.io/tcf3e#ja</guid>
     <pubDate>Thu, 23 Jul 2026 16:11:23 +0000</pubDate>
     <description>DBT Skills Video Intervention for Chinese/Chinese American College Students: A Randomized Controlled Trial</description>
-  </item>
-  <item>
-    <title>条件認識があるにもかかわらず映像クリップの無条件刺激に対する恐怖獲得の欠如：皮膚電気反応による恐怖条件付けへの示唆</title>
-    <link>https://osf.io/835fr</link>
-    <guid isPermaLink="false">https://osf.io/835fr#ja</guid>
-    <pubDate>Thu, 23 Jul 2026 16:11:23 +0000</pubDate>
-    <description>Lack of fear acquisition to film clip unconditional stimuli despite contingency awareness: Implications for electrodermal fear conditioning</description>
-  </item>
-  <item>
-    <title>自己の場の理論とその精神障害における役割</title>
-    <link>https://osf.io/angw6</link>
-    <guid isPermaLink="false">https://osf.io/angw6#ja</guid>
-    <pubDate>Thu, 23 Jul 2026 16:11:23 +0000</pubDate>
-    <description>A field theory of the self and its role in mental disorders</description>
   </item>
 </channel>
 </rss>
