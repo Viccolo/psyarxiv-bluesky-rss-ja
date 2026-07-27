@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>経済的繁栄への道筋：金融的幸福感に関するポジティブ経済心理学モデル</title>
+    <title>経済的繁栄への道筋：金融的幸福のためのポジティブ経済心理学モデル</title>
     <link>https://osf.io/4qaj3</link>
     <guid isPermaLink="false">https://osf.io/4qaj3#ja</guid>
     <pubDate>Sun, 26 Jul 2026 18:39:29 +0000</pubDate>
@@ -34,14 +34,14 @@
     <description>Repetition Learning Depends on the Explicit Retrieval from Episodic Memory: Evidence from EEG</description>
   </item>
   <item>
-    <title>任意の形状とラベルの関連付けにおける自己優先化は持続時間知覚の歪みを引き起こすには不十分である</title>
+    <title>任意の形状-ラベル連合における自己優先化は持続時間知覚の歪みを引き起こすには不十分である</title>
     <link>https://osf.io/uw5gs</link>
     <guid isPermaLink="false">https://osf.io/uw5gs#ja</guid>
     <pubDate>Fri, 24 Jul 2026 21:16:25 +0000</pubDate>
     <description>Self-prioritisation in arbitrary shape-label associations is not sufficient to distort duration perception</description>
   </item>
   <item>
-    <title>理解なき知覚：社会的評価の基盤としての注意深さの遅発的出現</title>
+    <title>理解なき知覚：社会的評価の基盤としての注意力の遅発的出現</title>
     <link>https://osf.io/c3fa4</link>
     <guid isPermaLink="false">https://osf.io/c3fa4#ja</guid>
     <pubDate>Fri, 24 Jul 2026 21:16:24 +0000</pubDate>
@@ -69,7 +69,7 @@
     <description>PupilFear: benchmarking pupillometry methods for fear conditioning on a distributed dynamical database</description>
   </item>
   <item>
-    <title>移住、環境、そして脳：証拠の体系的総合分析</title>
+    <title>移住、環境、そして脳：証拠の体系的統合レビュー</title>
     <link>https://osf.io/47r5n</link>
     <guid isPermaLink="false">https://osf.io/47r5n#ja</guid>
     <pubDate>Fri, 24 Jul 2026 18:46:49 +0000</pubDate>
@@ -104,7 +104,7 @@
     <description>Understanding stakeholders’ views on 24-hour movement behaviours in early childhood in Scotland</description>
   </item>
   <item>
-    <title>最小限の反直感的特性が現代フィクションキャラクターの長期的人気を予測する：初代151ポケモンの定量分析</title>
+    <title>最小限に反直感的な特性が現代架空キャラクターの長期的人気を予測する：初代151ポケモンの定量的分析</title>
     <link>https://osf.io/rg6h2</link>
     <guid isPermaLink="false">https://osf.io/rg6h2#ja</guid>
     <pubDate>Fri, 24 Jul 2026 15:40:29 +0000</pubDate>
@@ -125,21 +125,21 @@
     <description>The genetic landscape of brain ageing</description>
   </item>
   <item>
-    <title>不適応的音楽聴取：系統的レビュー、テーマ分析およびメタアナリシス</title>
+    <title>不適応的音楽聴取：系統的レビュー、テーマ別分析およびメタアナリシス</title>
     <link>https://osf.io/d7gp5</link>
     <guid isPermaLink="false">https://osf.io/d7gp5#ja</guid>
     <pubDate>Fri, 24 Jul 2026 15:40:28 +0000</pubDate>
     <description>Maladaptive Music Listening: A Systematic Review, Thematic Analyses, And Meta-analysis</description>
   </item>
   <item>
-    <title>性的マイノリティストレスの文脈における共有されたアイデンティティと感じられる理解：誰が私を理解し、その理由は何か？</title>
+    <title>性的マイノリティストレスの文脈における共有されたアイデンティティと感じられる理解：誰が私を理解し、なぜか？</title>
     <link>https://osf.io/g6chb</link>
     <guid isPermaLink="false">https://osf.io/g6chb#ja</guid>
     <pubDate>Thu, 23 Jul 2026 22:17:14 +0000</pubDate>
     <description>Shared Identity and Felt Understanding in the Context of Sexual Minority Stress:  Who Gets Me, and Why?</description>
   </item>
   <item>
-    <title>日常生活における健康追求：社会経済的地位を横断した個人的プロジェクト分析</title>
+    <title>日常生活における健康追求：社会経済的地位を横断したパーソナルプロジェクト分析</title>
     <link>https://osf.io/tkn3b</link>
     <guid isPermaLink="false">https://osf.io/tkn3b#ja</guid>
     <pubDate>Thu, 23 Jul 2026 22:17:14 +0000</pubDate>
@@ -174,14 +174,14 @@
     <description>Change blindness in pigeons (Columba livia) and humans (Homo sapiens):  A comparative study using landscape photographs</description>
   </item>
   <item>
-    <title>個人項目の知覚的既知・新規認識を予測するMDS-REMモデル</title>
+    <title>個人項目の知覚的既知・新規認識予測のためのMDS-REMモデル</title>
     <link>https://osf.io/eafsm</link>
     <guid isPermaLink="false">https://osf.io/eafsm#ja</guid>
     <pubDate>Thu, 23 Jul 2026 21:18:21 +0000</pubDate>
     <description>An MDS-REM Model for Predicting Individual-Item Perceptual Old-New Recognition</description>
   </item>
   <item>
-    <title>EPLeP：英語擬似語語彙プロジェクト－擬似語処理の研究資源</title>
+    <title>EPLeP：英語擬似語語彙プロジェクト－擬似語処理の検討に資する資源</title>
     <link>https://osf.io/yxnks</link>
     <guid isPermaLink="false">https://osf.io/yxnks#ja</guid>
     <pubDate>Thu, 23 Jul 2026 21:18:21 +0000</pubDate>
@@ -195,7 +195,7 @@
     <description>Early predictors and adolescent outcomes of a multi-informant model of general (p-factor) and informant-specific child psychopathology</description>
   </item>
   <item>
-    <title>信念を超えた心の理論：大規模言語モデルにおける注意に基づく社会的マイクロプロセスの検証</title>
+    <title>信念を超えた心の理論：大規模言語モデルにおける注意に基づく社会的ミクロプロセスの検証</title>
     <link>https://osf.io/v82a7</link>
     <guid isPermaLink="false">https://osf.io/v82a7#ja</guid>
     <pubDate>Thu, 23 Jul 2026 21:18:20 +0000</pubDate>
@@ -216,28 +216,28 @@
     <description>Object recognition in autism: Shape configuration and Category-specificity</description>
   </item>
   <item>
-    <title>伝統的な植物由来料理：持続可能な食生活への入り口</title>
+    <title>伝統的な植物由来料理：持続可能な食生活への入口</title>
     <link>https://osf.io/62apg</link>
     <guid isPermaLink="false">https://osf.io/62apg#ja</guid>
     <pubDate>Thu, 23 Jul 2026 21:18:19 +0000</pubDate>
     <description>Traditional plant-based dishes: A gateway to sustainable eating</description>
   </item>
   <item>
-    <title>誤った因果推論の減少に対する誤情報訂正の効果：Irvingら（2022）の直接再現研究</title>
+    <title>誤った因果推論の減少に対する反証の効果：Irvingら（2022）の直接再現研究</title>
     <link>https://osf.io/am6rg</link>
     <guid isPermaLink="false">https://osf.io/am6rg#ja</guid>
     <pubDate>Thu, 23 Jul 2026 21:18:19 +0000</pubDate>
     <description>Debunking decreases mistaken causal inferences: A direct replication of Irving et al. (2022)</description>
   </item>
   <item>
-    <title>COVID-19パンデミック前後における小児の認知機能：領域特異性と学校環境の違いに関する大規模多施設サンプル研究</title>
+    <title>COVID-19パンデミック前後における小児の認知機能：大規模多施設サンプルを用いた領域特異性と学校環境の差異</title>
     <link>https://osf.io/k3fr9</link>
     <guid isPermaLink="false">https://osf.io/k3fr9#ja</guid>
     <pubDate>Thu, 23 Jul 2026 21:18:18 +0000</pubDate>
     <description>Pediatric Cognitive Functioning Before, During, and After the COVID-19 Pandemic: Domain Specificity and School-Context Differences in a Large Multisite Sample</description>
   </item>
   <item>
-    <title>自閉症者は非自閉症者よりも複雑図形におけるターゲット探索（分離処理）が優れているか、そしてそれは局所処理バイアスを反映しているか？</title>
+    <title>自閉症スペクトラムの人々は複雑図形におけるターゲット探索（脱埋め込み）において非自閉症者より優れているか、そしてそれは局所的処理バイアスを反映しているか？</title>
     <link>https://osf.io/vqj2x</link>
     <guid isPermaLink="false">https://osf.io/vqj2x#ja</guid>
     <pubDate>Thu, 23 Jul 2026 21:18:18 +0000</pubDate>
@@ -251,7 +251,7 @@
     <description>Uncertainty in Psychology Research Articles: The Evolution of Its Frequency Between 2005 and 2020</description>
   </item>
   <item>
-    <title>感覚調節ネットワーク：対象指向的現象学の構造基盤としての停止可能性</title>
+    <title>感覚調節ネットワーク：対象志向的現象学の構造基盤としての停止可能性</title>
     <link>https://osf.io/yjpdn</link>
     <guid isPermaLink="false">https://osf.io/yjpdn#ja</guid>
     <pubDate>Thu, 23 Jul 2026 21:18:18 +0000</pubDate>
@@ -279,14 +279,14 @@
     <description>Beyond Nuances: Measurement Non-Invariance as a Source of Item-Level Predictive Gains</description>
   </item>
   <item>
-    <title>空間認知における個人差：男女16種の空間能力のネットワーク分析からの知見</title>
+    <title>空間認知における個人差：男女16の空間能力のネットワーク分析からの知見</title>
     <link>https://osf.io/ntyf9</link>
     <guid isPermaLink="false">https://osf.io/ntyf9#ja</guid>
     <pubDate>Thu, 23 Jul 2026 21:18:16 +0000</pubDate>
     <description>Individual differences in spatial cognition: insights from a network analysis of 16 spatial skills in males and females</description>
   </item>
   <item>
-    <title>注意変数検査（TOVA）のADHD診断における妥当性の評価：教育的配慮の証拠に関する批判的検討</title>
+    <title>注意欠陥多動性障害（ADHD）診断における注意変数検査（TOVA）の妥当性評価：教育的配慮の証拠に関する批判的検討</title>
     <link>https://osf.io/78k2p</link>
     <guid isPermaLink="false">https://osf.io/78k2p#ja</guid>
     <pubDate>Thu, 23 Jul 2026 21:18:16 +0000</pubDate>
@@ -307,7 +307,7 @@
     <description>New Alzheimer’s Disease Diagnostics and Psychological Clinical Perspectives</description>
   </item>
   <item>
-    <title>小規模自給的集団におけるうつ病の社会的決定要因</title>
+    <title>小規模自給集団におけるうつ病の社会的決定要因</title>
     <link>https://osf.io/259xu</link>
     <guid isPermaLink="false">https://osf.io/259xu#ja</guid>
     <pubDate>Thu, 23 Jul 2026 21:18:15 +0000</pubDate>
@@ -321,7 +321,7 @@
     <description>Working Memory Architecture Across Verbal, Visuospatial, and Tactile Modalities: Moving Beyond Traditional Framework</description>
   </item>
   <item>
-    <title>プロトタイプ原理は孤立した対象を超えた一般的視覚体験の美学を説明する</title>
+    <title>原型原理は孤立した対象を超えた一般的視覚体験の美学を説明する</title>
     <link>https://osf.io/a5v7m</link>
     <guid isPermaLink="false">https://osf.io/a5v7m#ja</guid>
     <pubDate>Thu, 23 Jul 2026 17:47:20 +0000</pubDate>
@@ -342,14 +342,14 @@
     <description>Integrating active inference with evolutionary systems biology: a framework for reconstructing music and language evolution</description>
   </item>
   <item>
-    <title>マインドフルネスとしての音楽：集中した聴取が否定的な心のさまよいを減少させ注意ネットワークを強化する</title>
+    <title>マインドフルネスとしての音楽：集中した聴取が否定的な心のさまよいを減少させ、注意ネットワークを強化する</title>
     <link>https://osf.io/9xfwh</link>
     <guid isPermaLink="false">https://osf.io/9xfwh#ja</guid>
     <pubDate>Thu, 23 Jul 2026 16:11:24 +0000</pubDate>
     <description>Music as mindfulness: Focused listening reduces negative mind-wandering and strengthens attention networks</description>
   </item>
   <item>
-    <title>就学移行期における実行機能と学校適応の縦断的関連：イングランドと香港における二波調査</title>
+    <title>就学移行期における実行機能と学校適応の縦断的関連：イギリスと香港における二波調査</title>
     <link>https://osf.io/skme8</link>
     <guid isPermaLink="false">https://osf.io/skme8#ja</guid>
     <pubDate>Thu, 23 Jul 2026 16:11:24 +0000</pubDate>
