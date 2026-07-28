@@ -6,42 +6,70 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>社会的アロスタティック推論としての愛着とケアギビング：単一脳から二者関係への社会神経科学の最新理論</title>
+    <title>音韻獲得のトップダウン理論とボトムアップ理論：ビッグデータアプローチによる検証</title>
+    <link>https://osf.io/uazpe</link>
+    <guid isPermaLink="false">https://osf.io/uazpe#ja</guid>
+    <pubDate>Tue, 28 Jul 2026 22:38:11 +0000</pubDate>
+    <description>Top-down versus bottom-up theories of phonological acquisition: A big data approach</description>
+  </item>
+  <item>
+    <title>パンデミック時における集団行動としてのワクチン接種：デンマークにおける610万件のCOVID-19ワクチン接種記録からの証拠</title>
+    <link>https://osf.io/ybd85</link>
+    <guid isPermaLink="false">https://osf.io/ybd85#ja</guid>
+    <pubDate>Tue, 28 Jul 2026 22:38:11 +0000</pubDate>
+    <description>Vaccination as Collective Action During a Pandemic: Evidence from 6.1 Million COVID-19 Vaccination Records in Denmark</description>
+  </item>
+  <item>
+    <title>意思決定の賭け金の不均一な影響が助言統合に及ぼす効果</title>
+    <link>https://osf.io/qnpbr</link>
+    <guid isPermaLink="false">https://osf.io/qnpbr#ja</guid>
+    <pubDate>Tue, 28 Jul 2026 22:38:11 +0000</pubDate>
+    <description>Uneven Effects of Decision Stakes on Advice Integration</description>
+  </item>
+  <item>
+    <title>具現化された協働における対話的生成：二者間の対立する知覚から洞察を共構築する微視的分析</title>
+    <link>https://osf.io/z5w4d</link>
+    <guid isPermaLink="false">https://osf.io/z5w4d#ja</guid>
+    <pubDate>Tue, 28 Jul 2026 22:38:10 +0000</pubDate>
+    <description>Dialogical Emergence in Embodied Collaboration: A Micro-Analysis of How Dyads Co-Construct Insight from Conflicting Perceptions</description>
+  </item>
+  <item>
+    <title>社会的アロスタティック推論としての愛着とケアギビング：単一脳から二者間へ拡張された社会神経科学の新展開</title>
     <link>https://osf.io/m29kq</link>
     <guid isPermaLink="false">https://osf.io/m29kq#ja</guid>
     <pubDate>Tue, 28 Jul 2026 20:22:29 +0000</pubDate>
     <description>Attachment and Caregiving as Social Allostatic Inference: An Updated Social Neuroscience Account from Single Brains to Dyads</description>
   </item>
   <item>
-    <title>多職種医療チーム会議における集団認知負荷の時間的指標としての発話持続時間のバースト性</title>
+    <title>多職種医療チーム会議における集団認知負荷の時間的指標としての発話持続時間の断続性</title>
     <link>https://osf.io/zrpk8</link>
     <guid isPermaLink="false">https://osf.io/zrpk8#ja</guid>
     <pubDate>Tue, 28 Jul 2026 16:28:48 +0000</pubDate>
     <description>Turn-Duration Burstiness as a Temporal Signature of Collective Cognitive Demand in Multidisciplinary Healthcare Team Meetings</description>
   </item>
   <item>
-    <title>選択によって誘発される嗜好変化の実証的特徴</title>
+    <title>選択によって生じる嗜好変化の実証的特徴</title>
     <link>https://osf.io/vrh3w</link>
     <guid isPermaLink="false">https://osf.io/vrh3w#ja</guid>
     <pubDate>Tue, 28 Jul 2026 16:28:48 +0000</pubDate>
     <description>Empirical Signatures of Choice-Induced Preference Change</description>
   </item>
   <item>
-    <title>クローズドブックおよびオープンブック言語モデルによる従業員体験の評価：多段階検索法と単一プロンプト法の比較による二標本収束的妥当性研究</title>
+    <title>従業員体験の言語モデル評価におけるクローズドブックおよびオープンブック方式の比較：多段階検索法と単一プロンプト法の収束的妥当性に関する二標本研究</title>
     <link>https://osf.io/e9sak</link>
     <guid isPermaLink="false">https://osf.io/e9sak#ja</guid>
     <pubDate>Tue, 28 Jul 2026 16:28:47 +0000</pubDate>
     <description>Closed-book and open-book language model assessment  of employee experience.  A two-sample convergent validity study comparing  multi-stage retrieval and single-prompt approaches</description>
   </item>
   <item>
-    <title>感情の時間構造に関する統一的生成モデル：情動価と時間的枠組みの検討</title>
+    <title>感情の価値評価と時間的枠組み：感情の時間構造に関する統一的生成モデル</title>
     <link>https://osf.io/vwszg</link>
     <guid isPermaLink="false">https://osf.io/vwszg#ja</guid>
     <pubDate>Tue, 28 Jul 2026 16:28:47 +0000</pubDate>
     <description>Affective Valence and Temporal Framing: A Unified Generative Model of the Temporal Structure of Emotion</description>
   </item>
   <item>
-    <title>「生存の一形態として」：自閉症スペクトラムおよびトランスジェンダー・ノンバイナリーの人々の摂食障害体験</title>
+    <title>「生存の一形態として」：自閉症スペクトラムのトランスジェンダーおよびノンバイナリーの人々の摂食障害体験</title>
     <link>https://osf.io/b2j5t</link>
     <guid isPermaLink="false">https://osf.io/b2j5t#ja</guid>
     <pubDate>Tue, 28 Jul 2026 14:56:18 +0000</pubDate>
@@ -55,14 +83,14 @@
     <description>Methodological Consistency and Measurement Standards in Mindfulness-Based Randomized Controlled Trials for Racial Minorities: A Systematic Review</description>
   </item>
   <item>
-    <title>一般診療における言語障壁克服のためのコミュニケーション戦略選択支援デジタルツール「MediLanguage」の言語サポートスターターの有効性評価</title>
+    <title>一般診療における言語障壁克服のためのコミュニケーション戦略選択支援デジタルツール MediLanguage の言語サポートスターターの有効性評価</title>
     <link>https://osf.io/sa9hx</link>
     <guid isPermaLink="false">https://osf.io/sa9hx#ja</guid>
     <pubDate>Tue, 28 Jul 2026 14:56:17 +0000</pubDate>
     <description>Evaluating the Effectiveness of MediLanguage’s Language Support Starter: A Digital Decision Aid to Support the Selection of Communication Strategies to Overcome Language Barriers in General Practice</description>
   </item>
   <item>
-    <title>創造性の幾何学：システム3メタ認知的足場を通じた再帰的創造的自己改善</title>
+    <title>創造性の幾何学：システム3メタ認知スキャフォールディングによる再帰的創造的自己改善</title>
     <link>https://osf.io/qkp75</link>
     <guid isPermaLink="false">https://osf.io/qkp75#ja</guid>
     <pubDate>Mon, 27 Jul 2026 21:56:54 +0000</pubDate>
@@ -76,28 +104,28 @@
     <description>Synthetic survey participants cannot substitute for sample diversity in policy</description>
   </item>
   <item>
-    <title>複数評価者による評価における評判とアイデンティティ効果の測定：特性評判アイデンティティモデルの設定に関する指針</title>
+    <title>複数評価者による評価における評判とアイデンティティ効果の測定：特性評判アイデンティティモデルの指定に関する指針</title>
     <link>https://osf.io/y825d</link>
     <guid isPermaLink="false">https://osf.io/y825d#ja</guid>
     <pubDate>Mon, 27 Jul 2026 20:55:17 +0000</pubDate>
     <description>Measuring Reputation and Identity Effects in Multiple Rater Assessments: Guidelines for Specifying Trait Reputation Identity Models</description>
   </item>
   <item>
-    <title>小児失語性構音障害における認知機能：スコーピングレビュー</title>
+    <title>小児構音運動失行における認知機能：スコーピングレビュー</title>
     <link>https://osf.io/dy2nh</link>
     <guid isPermaLink="false">https://osf.io/dy2nh#ja</guid>
     <pubDate>Mon, 27 Jul 2026 20:55:16 +0000</pubDate>
     <description>Cognitive functions in childhood apraxia of speech: A scoping review</description>
   </item>
   <item>
-    <title>瞑想が人類およびあらゆる生命形態との絆と協力を促進する</title>
+    <title>瞑想が人類およびあらゆる生命体との絆と協力を促進する</title>
     <link>https://osf.io/s82jd</link>
     <guid isPermaLink="false">https://osf.io/s82jd#ja</guid>
     <pubDate>Mon, 27 Jul 2026 20:55:16 +0000</pubDate>
     <description>Meditation Fosters Bonding and Cooperation with Humanity and All Forms of Life</description>
   </item>
   <item>
-    <title>加齢黄斑変性における歩行者の道路横断判断における視覚および聴覚手がかりの相対的重み付け</title>
+    <title>加齢黄斑変性における歩行者の道路横断判断における視覚および聴覚手がかりの相対的重みづけ</title>
     <link>https://osf.io/vtjzh</link>
     <guid isPermaLink="false">https://osf.io/vtjzh#ja</guid>
     <pubDate>Mon, 27 Jul 2026 20:55:16 +0000</pubDate>
@@ -111,14 +139,14 @@
     <description>Word-Level Measures of Syntactic Complexity in Sentence Processing: An Organizing Review</description>
   </item>
   <item>
-    <title>分極化した対話における学習目標と聴取行動：四つの研究室による検証</title>
+    <title>分極化した会話における学習目標と聴取行動：四つの研究室による検証</title>
     <link>https://osf.io/b9e2s</link>
     <guid isPermaLink="false">https://osf.io/b9e2s#ja</guid>
     <pubDate>Mon, 27 Jul 2026 18:06:18 +0000</pubDate>
     <description>Learning Goals and Listening in Polarized Conversations: A Test Across Four Labs</description>
   </item>
   <item>
-    <title>認知機能と職場復帰：ストレス関連障害における認知的持久力を検討する縦断研究のプロトコル</title>
+    <title>認知機能と職場復帰：ストレス関連障害における認知持続力を検討する縦断研究のプロトコル</title>
     <link>https://osf.io/84rfs</link>
     <guid isPermaLink="false">https://osf.io/84rfs#ja</guid>
     <pubDate>Mon, 27 Jul 2026 18:06:18 +0000</pubDate>
@@ -139,7 +167,7 @@
     <description>Pathways to Economic Flourishing: A Positive Economic Psychology Model of Financial Wellbeing</description>
   </item>
   <item>
-    <title>jsPsychを用いたオンライン行動実験：ワークフローガイド</title>
+    <title>jsPsychを用いたオンライン行動実験のワークフローガイド</title>
     <link>https://osf.io/u4fhk</link>
     <guid isPermaLink="false">https://osf.io/u4fhk#ja</guid>
     <pubDate>Sat, 25 Jul 2026 22:27:05 +0000</pubDate>
@@ -153,7 +181,7 @@
     <description>Toward a Formalization of Human Intuitive Theories of Bodily Pain</description>
   </item>
   <item>
-    <title>反復学習はエピソード記憶からの明示的想起に依存する：脳波計測による証拠</title>
+    <title>反復学習はエピソード記憶からの明示的想起に依存する：脳波（EEG）による証拠</title>
     <link>https://osf.io/367n5</link>
     <guid isPermaLink="false">https://osf.io/367n5#ja</guid>
     <pubDate>Sat, 25 Jul 2026 21:29:17 +0000</pubDate>
@@ -167,7 +195,7 @@
     <description>Self-prioritisation in arbitrary shape-label associations is not sufficient to distort duration perception</description>
   </item>
   <item>
-    <title>理解なき視覚：社会的評価の基盤としての注意力の遅発的出現</title>
+    <title>理解なき視覚：社会的評価の基盤としての注意深さの遅発的出現</title>
     <link>https://osf.io/c3fa4</link>
     <guid isPermaLink="false">https://osf.io/c3fa4#ja</guid>
     <pubDate>Fri, 24 Jul 2026 21:16:24 +0000</pubDate>
@@ -195,7 +223,7 @@
     <description>PupilFear: benchmarking pupillometry methods for fear conditioning on a distributed dynamical database</description>
   </item>
   <item>
-    <title>移住、環境、脳：証拠の体系的統合レビュー</title>
+    <title>移住、環境、そして脳：証拠の体系的統合レビュー</title>
     <link>https://osf.io/47r5n</link>
     <guid isPermaLink="false">https://osf.io/47r5n#ja</guid>
     <pubDate>Fri, 24 Jul 2026 18:46:49 +0000</pubDate>
@@ -230,7 +258,7 @@
     <description>Understanding stakeholders’ views on 24-hour movement behaviours in early childhood in Scotland</description>
   </item>
   <item>
-    <title>最小限の反直感的特性が現代フィクションキャラクターの長期的人気を予測する：オリジナル151ポケモンの定量分析</title>
+    <title>最小限の反直感的特徴が現代架空キャラクターの長期的人気を予測する：初代151ポケモンの定量分析</title>
     <link>https://osf.io/rg6h2</link>
     <guid isPermaLink="false">https://osf.io/rg6h2#ja</guid>
     <pubDate>Fri, 24 Jul 2026 15:40:29 +0000</pubDate>
@@ -251,7 +279,7 @@
     <description>The genetic landscape of brain ageing</description>
   </item>
   <item>
-    <title>不適応的音楽聴取：系統的レビュー、テーマ別分析およびメタアナリシス</title>
+    <title>不適応的音楽聴取：体系的レビュー、テーマ別分析およびメタアナリシス</title>
     <link>https://osf.io/d7gp5</link>
     <guid isPermaLink="false">https://osf.io/d7gp5#ja</guid>
     <pubDate>Fri, 24 Jul 2026 15:40:28 +0000</pubDate>
@@ -265,7 +293,7 @@
     <description>Shared Identity and Felt Understanding in the Context of Sexual Minority Stress:  Who Gets Me, and Why?</description>
   </item>
   <item>
-    <title>日常生活における健康追求：社会経済的地位を横断した個人的プロジェクト分析</title>
+    <title>日常生活における健康追求：社会経済的地位を横断したパーソナルプロジェクト分析</title>
     <link>https://osf.io/tkn3b</link>
     <guid isPermaLink="false">https://osf.io/tkn3b#ja</guid>
     <pubDate>Thu, 23 Jul 2026 22:17:14 +0000</pubDate>
@@ -326,34 +354,6 @@
     <guid isPermaLink="false">https://osf.io/v82a7#ja</guid>
     <pubDate>Thu, 23 Jul 2026 21:18:20 +0000</pubDate>
     <description>Theory of mind beyond beliefs: Testing attention-based social micro-processes in LLMs</description>
-  </item>
-  <item>
-    <title>青年期脳認知発達研究における横断的診断および物質使用障害多遺伝子スコアと物質使用マイルストーンの関連性</title>
-    <link>https://osf.io/9qg8k</link>
-    <guid isPermaLink="false">https://osf.io/9qg8k#ja</guid>
-    <pubDate>Thu, 23 Jul 2026 21:18:20 +0000</pubDate>
-    <description>Associations of transdiagnostic and substance use disorder polygenic scores with substance use milestones in the Adolescent Brain Cognitive Development study</description>
-  </item>
-  <item>
-    <title>自閉症における物体認識：形状構成とカテゴリー特異性</title>
-    <link>https://osf.io/vh4pc</link>
-    <guid isPermaLink="false">https://osf.io/vh4pc#ja</guid>
-    <pubDate>Thu, 23 Jul 2026 21:18:19 +0000</pubDate>
-    <description>Object recognition in autism: Shape configuration and Category-specificity</description>
-  </item>
-  <item>
-    <title>伝統的な植物由来料理：持続可能な食生活への入口</title>
-    <link>https://osf.io/62apg</link>
-    <guid isPermaLink="false">https://osf.io/62apg#ja</guid>
-    <pubDate>Thu, 23 Jul 2026 21:18:19 +0000</pubDate>
-    <description>Traditional plant-based dishes: A gateway to sustainable eating</description>
-  </item>
-  <item>
-    <title>誤った因果推論の減少に対する反証の効果：Irvingら（2022）の直接的再現研究</title>
-    <link>https://osf.io/am6rg</link>
-    <guid isPermaLink="false">https://osf.io/am6rg#ja</guid>
-    <pubDate>Thu, 23 Jul 2026 21:18:19 +0000</pubDate>
-    <description>Debunking decreases mistaken causal inferences: A direct replication of Irving et al. (2022)</description>
   </item>
 </channel>
 </rss>
