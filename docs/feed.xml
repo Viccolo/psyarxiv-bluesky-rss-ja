@@ -6,7 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>精神病理学の階層的分類における障害</title>
+    <title>RFT視点取得プロトコルの信頼性および他の視点取得、共感、心の理論測定との収束的妥当性の低さ：ジングル評価</title>
+    <link>https://osf.io/jb6c4</link>
+    <guid isPermaLink="false">https://osf.io/jb6c4#ja</guid>
+    <pubDate>Fri, 31 Jul 2026 14:39:27 +0000</pubDate>
+    <description>The RFT Perspective Taking Protocol has very poor reliability and convergent validity with other measures of perspective taking, empathy, and theory of mind: A jingle assessment</description>
+  </item>
+  <item>
+    <title>精神病理の階層的分類における障害</title>
     <link>https://osf.io/w4srg</link>
     <guid isPermaLink="false">https://osf.io/w4srg#ja</guid>
     <pubDate>Fri, 31 Jul 2026 10:10:20 +0000</pubDate>
@@ -20,7 +27,7 @@
     <description>Don’t throw the baby out with the bathwater! Why &quot;preregistration&quot; is still a useful term: Commentary on Mayo-Wilson et al. (2025)</description>
   </item>
   <item>
-    <title>自己側と他者側の判断：メタ予測精度が政治領域における予測精度を予測する</title>
+    <title>自己視点と他者視点の判断：メタ予測精度が政治領域における予測精度を予測する</title>
     <link>https://osf.io/8sbpv</link>
     <guid isPermaLink="false">https://osf.io/8sbpv#ja</guid>
     <pubDate>Fri, 31 Jul 2026 07:36:03 +0000</pubDate>
@@ -34,14 +41,14 @@
     <description>Sex and Ethnicity Disparities in Autism Diagnosis: Population-Level Findings from Linked Health and Education Data</description>
   </item>
   <item>
-    <title>子どもの音楽快楽：子ども向け拡張版バルセロナ音楽報酬質問票（eBMRQc）の開発</title>
+    <title>子どもの音楽快感：子ども向け拡張版バルセロナ音楽報酬質問票（eBMRQc）の開発</title>
     <link>https://osf.io/zfg62</link>
     <guid isPermaLink="false">https://osf.io/zfg62#ja</guid>
     <pubDate>Thu, 30 Jul 2026 19:45:57 +0000</pubDate>
     <description>Musical Hedonia in Children: The Child-directed extended  Barcelona Music Reward Questionnaire (eBMRQc)</description>
   </item>
   <item>
-    <title>非物質的動機による自発的消費削減尺度（NMVRC尺度）の開発と検証</title>
+    <title>消費削減の非物質的動機尺度（NMVRC尺度）の開発と検証</title>
     <link>https://osf.io/8y9hu</link>
     <guid isPermaLink="false">https://osf.io/8y9hu#ja</guid>
     <pubDate>Thu, 30 Jul 2026 12:55:36 +0000</pubDate>
@@ -55,28 +62,28 @@
     <description>Auditory and Visual Rhythms Shape Infant Attention in Infant-Directed Singing and Speech</description>
   </item>
   <item>
-    <title>屋外遊びと学び（OPAL）全校遊び時間プログラムが子どもの遊びに与える影響：イングランドの小学校2校における混合研究法による考察</title>
+    <title>屋外遊びと学び（OPAL）全校遊び時間プログラムが児童の遊びに与える影響：イングランドの小学校2校における混合研究法による考察</title>
     <link>https://osf.io/f2zx9</link>
     <guid isPermaLink="false">https://osf.io/f2zx9#ja</guid>
     <pubDate>Thu, 30 Jul 2026 12:55:36 +0000</pubDate>
     <description>How does the Outdoor Play and Learning (OPAL) whole school playtime programme affect children’s play? Mixed-methods insights from two English primary schools.</description>
   </item>
   <item>
-    <title>スティグマ、医療的ガスライティング、異性愛主義：子宮内膜症症状を持つLGBTQ+の医療アクセスと診断における障壁</title>
+    <title>スティグマ、医療ガスライティング、異性愛主義：子宮内膜症症状を有するLGBTQ+の医療アクセスと診断における障壁</title>
     <link>https://osf.io/whn7f</link>
     <guid isPermaLink="false">https://osf.io/whn7f#ja</guid>
     <pubDate>Thu, 30 Jul 2026 12:55:36 +0000</pubDate>
     <description>Stigma, medical gaslighting, and heterosexism: barriers to accessing healthcare and diagnosis in LGBTQ+ people with endometriosis symptoms</description>
   </item>
   <item>
-    <title>繰り返される出来事における内部誤情報の報告増加は、親近感と暗示受容性の向上を反映する</title>
+    <title>繰り返される出来事における内部誤情報の報告増加は、親近感と暗示受容性の高まりを反映する</title>
     <link>https://osf.io/mxzws</link>
     <guid isPermaLink="false">https://osf.io/mxzws#ja</guid>
     <pubDate>Thu, 30 Jul 2026 11:18:43 +0000</pubDate>
     <description>Greater Reporting of Internal Than External Misinformation in Repeated Events Reflects Increased Familiarity and Suggestibility</description>
   </item>
   <item>
-    <title>オンライン体験学習が中学生に及ぼす影響</title>
+    <title>オンライン体験学習が中学生の学習効果に及ぼす影響</title>
     <link>https://osf.io/ewxkv</link>
     <guid isPermaLink="false">https://osf.io/ewxkv#ja</guid>
     <pubDate>Wed, 29 Jul 2026 17:10:49 +0000</pubDate>
@@ -118,14 +125,14 @@
     <description>Effects of the distribution of acoustic cues on infants&#x27; perception of sibilants</description>
   </item>
   <item>
-    <title>苦悩の万華鏡：客観的および個別的認知課題における高いネガティブ感情多様性が青年期の精神健康の悪化と関連する</title>
+    <title>苦悩の万華鏡：客観的および個別的認知課題における高いネガティブ感情多様性が思春期の精神健康悪化と関連する</title>
     <link>https://osf.io/q26ug</link>
     <guid isPermaLink="false">https://osf.io/q26ug#ja</guid>
     <pubDate>Wed, 29 Jul 2026 17:10:47 +0000</pubDate>
     <description>The kaleidoscope of distress: elevated negative emodiversity across objective and idiographic cognitive tasks is associated with worse mental health in adolescence</description>
   </item>
   <item>
-    <title>スキーマに不一致な系列の記憶効果は違反の種類に依存する</title>
+    <title>スキーマに不一致な系列の記憶利得は違反の種類に依存する</title>
     <link>https://osf.io/56kqr</link>
     <guid isPermaLink="false">https://osf.io/56kqr#ja</guid>
     <pubDate>Wed, 29 Jul 2026 17:10:47 +0000</pubDate>
@@ -146,14 +153,14 @@
     <description>Development and Validation of a Multilevel Deep-Learning Framework for Individualized Prediction in Clustered Data</description>
   </item>
   <item>
-    <title>精神的健康回復の「方法」：第一人称オンラインナラティブのクリティカルリアリスト主題分析による内的および外的回復プロセスモデルの構築</title>
+    <title>精神的健康回復の「方法」：第一人称オンラインナラティブの批判的実在論的テーマ分析による内的および外的回復プロセスのモデル構築</title>
     <link>https://osf.io/qtwj2</link>
     <guid isPermaLink="false">https://osf.io/qtwj2#ja</guid>
     <pubDate>Wed, 29 Jul 2026 17:10:46 +0000</pubDate>
     <description>The ‘how’ of mental health recovery: Developing a model of internal and external recovery processes using critical realist thematic analysis of first-person online narratives</description>
   </item>
   <item>
-    <title>音韻習得のトップダウン理論とボトムアップ理論：ビッグデータアプローチによる検証</title>
+    <title>音韻獲得のトップダウン理論とボトムアップ理論：ビッグデータアプローチによる検討</title>
     <link>https://osf.io/uazpe</link>
     <guid isPermaLink="false">https://osf.io/uazpe#ja</guid>
     <pubDate>Tue, 28 Jul 2026 22:38:11 +0000</pubDate>
@@ -174,14 +181,14 @@
     <description>Uneven Effects of Decision Stakes on Advice Integration</description>
   </item>
   <item>
-    <title>具現化された協働における対話的創発：二者間の対立する知覚から洞察を共構築する微視的分析</title>
+    <title>具現化された協働における対話的生成：二者が対立する知覚から洞察を共構築する過程のミクロ分析</title>
     <link>https://osf.io/z5w4d</link>
     <guid isPermaLink="false">https://osf.io/z5w4d#ja</guid>
     <pubDate>Tue, 28 Jul 2026 22:38:10 +0000</pubDate>
     <description>Dialogical Emergence in Embodied Collaboration: A Micro-Analysis of How Dyads Co-Construct Insight from Conflicting Perceptions</description>
   </item>
   <item>
-    <title>社会的アロスタティック推論としての愛着とケアギビング：単一脳から二者間への社会神経科学の最新理論</title>
+    <title>社会的アロスタティック推論としての愛着とケアギビング：単一脳から二者関係への社会神経科学の最新理論</title>
     <link>https://osf.io/m29kq</link>
     <guid isPermaLink="false">https://osf.io/m29kq#ja</guid>
     <pubDate>Tue, 28 Jul 2026 20:22:29 +0000</pubDate>
@@ -195,7 +202,7 @@
     <description>Turn-Duration Burstiness as a Temporal Signature of Collective Cognitive Demand in Multidisciplinary Healthcare Team Meetings</description>
   </item>
   <item>
-    <title>選択によって誘発される嗜好変化の実証的特徴</title>
+    <title>選択によって生じる嗜好変化の実証的指標</title>
     <link>https://osf.io/vrh3w</link>
     <guid isPermaLink="false">https://osf.io/vrh3w#ja</guid>
     <pubDate>Tue, 28 Jul 2026 16:28:48 +0000</pubDate>
@@ -251,21 +258,21 @@
     <description>Synthetic survey participants cannot substitute for sample diversity in policy</description>
   </item>
   <item>
-    <title>複数評価者による評価における評判とアイデンティティ効果の測定：特性評判アイデンティティモデルの特定に関する指針</title>
+    <title>複数評価者による評価における評判およびアイデンティティ効果の測定：特性評判アイデンティティモデルの設定に関する指針</title>
     <link>https://osf.io/y825d</link>
     <guid isPermaLink="false">https://osf.io/y825d#ja</guid>
     <pubDate>Mon, 27 Jul 2026 20:55:17 +0000</pubDate>
     <description>Measuring Reputation and Identity Effects in Multiple Rater Assessments: Guidelines for Specifying Trait Reputation Identity Models</description>
   </item>
   <item>
-    <title>小児構音運動失行における認知機能：スコーピングレビュー</title>
+    <title>構音運動失行症児の認知機能に関するスコーピングレビュー</title>
     <link>https://osf.io/dy2nh</link>
     <guid isPermaLink="false">https://osf.io/dy2nh#ja</guid>
     <pubDate>Mon, 27 Jul 2026 20:55:16 +0000</pubDate>
     <description>Cognitive functions in childhood apraxia of speech: A scoping review</description>
   </item>
   <item>
-    <title>瞑想が人類およびあらゆる生命体との絆と協力を促進する</title>
+    <title>瞑想が人類およびあらゆる生命形態との絆と協力を促進する</title>
     <link>https://osf.io/s82jd</link>
     <guid isPermaLink="false">https://osf.io/s82jd#ja</guid>
     <pubDate>Mon, 27 Jul 2026 20:55:16 +0000</pubDate>
@@ -335,7 +342,7 @@
     <description>Repetition Learning Depends on the Explicit Retrieval from Episodic Memory: Evidence from EEG</description>
   </item>
   <item>
-    <title>任意の形状-ラベル連合における自己優先化は持続時間知覚の歪みを引き起こすには不十分である</title>
+    <title>任意の形状－ラベル連合における自己優先化は持続時間知覚の歪みを引き起こすには不十分である</title>
     <link>https://osf.io/uw5gs</link>
     <guid isPermaLink="false">https://osf.io/uw5gs#ja</guid>
     <pubDate>Fri, 24 Jul 2026 21:16:25 +0000</pubDate>
@@ -347,13 +354,6 @@
     <guid isPermaLink="false">https://osf.io/c3fa4#ja</guid>
     <pubDate>Fri, 24 Jul 2026 21:16:24 +0000</pubDate>
     <description>Seeing without understanding: The late emergence of attentiveness as a basis for social evaluation</description>
-  </item>
-  <item>
-    <title>数学不安と数学に対する肯定的態度は相反するものか？エリートSTEM学生を対象とした探索的研究</title>
-    <link>https://osf.io/w9jpf</link>
-    <guid isPermaLink="false">https://osf.io/w9jpf#ja</guid>
-    <pubDate>Fri, 24 Jul 2026 20:03:48 +0000</pubDate>
-    <description>Are mathematics anxiety and being positive about mathematics mutually exclusive? An exploratory study in elite STEM students</description>
   </item>
 </channel>
 </rss>
