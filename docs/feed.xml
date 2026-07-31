@@ -6,6 +6,20 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>精神病理の階層的分類における障害</title>
+    <link>https://osf.io/w4srg</link>
+    <guid isPermaLink="false">https://osf.io/w4srg#ja</guid>
+    <pubDate>Fri, 31 Jul 2026 10:10:20 +0000</pubDate>
+    <description>Impairment in the Hierarchical Taxonomy of Psychopathology</description>
+  </item>
+  <item>
+    <title>赤ちゃんを風呂水と一緒に捨てるな！「事前登録」が依然として有用な用語である理由：Mayo-Wilsonら（2025）へのコメント</title>
+    <link>https://osf.io/4e27t</link>
+    <guid isPermaLink="false">https://osf.io/4e27t#ja</guid>
+    <pubDate>Fri, 31 Jul 2026 10:10:19 +0000</pubDate>
+    <description>Don’t throw the baby out with the bathwater! Why &quot;preregistration&quot; is still a useful term: Commentary on Mayo-Wilson et al. (2025)</description>
+  </item>
+  <item>
     <title>自己側と他者側の判断：メタ予測精度が政治領域における予測精度を予測する</title>
     <link>https://osf.io/8sbpv</link>
     <guid isPermaLink="false">https://osf.io/8sbpv#ja</guid>
@@ -20,21 +34,21 @@
     <description>Sex and Ethnicity Disparities in Autism Diagnosis: Population-Level Findings from Linked Health and Education Data</description>
   </item>
   <item>
-    <title>子どもの音楽快感：子ども向け拡張版バルセロナ音楽報酬質問票（eBMRQc）の開発</title>
+    <title>子どもの音楽快楽：子ども向け拡張版バルセロナ音楽報酬質問票（eBMRQc）の開発</title>
     <link>https://osf.io/zfg62</link>
     <guid isPermaLink="false">https://osf.io/zfg62#ja</guid>
     <pubDate>Thu, 30 Jul 2026 19:45:57 +0000</pubDate>
     <description>Musical Hedonia in Children: The Child-directed extended  Barcelona Music Reward Questionnaire (eBMRQc)</description>
   </item>
   <item>
-    <title>非物質的動機による自発的消費削減尺度（NMVRC尺度）の開発と検証</title>
+    <title>消費削減の非物質的動機尺度（NMVRC尺度）の開発と検証</title>
     <link>https://osf.io/8y9hu</link>
     <guid isPermaLink="false">https://osf.io/8y9hu#ja</guid>
     <pubDate>Thu, 30 Jul 2026 12:55:36 +0000</pubDate>
     <description>Development and validation of a Scale of Non-Material Motives for Voluntarily Reducing Consumption Scale  (NMVRC Scale)</description>
   </item>
   <item>
-    <title>乳児向け歌唱と言語における聴覚および視覚リズムが乳児の注意に与える影響</title>
+    <title>乳児向け歌唱と言語における聴覚および視覚のリズムが乳児の注意に与える影響</title>
     <link>https://osf.io/4cqub</link>
     <guid isPermaLink="false">https://osf.io/4cqub#ja</guid>
     <pubDate>Thu, 30 Jul 2026 12:55:36 +0000</pubDate>
@@ -48,7 +62,7 @@
     <description>How does the Outdoor Play and Learning (OPAL) whole school playtime programme affect children’s play? Mixed-methods insights from two English primary schools.</description>
   </item>
   <item>
-    <title>スティグマ、医療のガスライティング、異性愛主義：子宮内膜症症状を持つLGBTQ+の医療アクセスと診断における障壁</title>
+    <title>スティグマ、医療におけるガスライティング、および異性愛主義：子宮内膜症症状を有するLGBTQ+の医療アクセスと診断における障壁</title>
     <link>https://osf.io/whn7f</link>
     <guid isPermaLink="false">https://osf.io/whn7f#ja</guid>
     <pubDate>Thu, 30 Jul 2026 12:55:36 +0000</pubDate>
@@ -90,7 +104,7 @@
     <description>Individual differences in silent and filled pause production in spontaneous speech: Speaker-level and speech-level factors</description>
   </item>
   <item>
-    <title>感覚過敏性が乳児の睡眠障害および異なる親の睡眠習慣と関連する：英国コホート研究</title>
+    <title>感覚過敏が乳児の睡眠障害および異なる親の睡眠習慣と関連する：英国コホート研究</title>
     <link>https://osf.io/xpq56</link>
     <guid isPermaLink="false">https://osf.io/xpq56#ja</guid>
     <pubDate>Wed, 29 Jul 2026 17:10:48 +0000</pubDate>
@@ -132,14 +146,14 @@
     <description>Development and Validation of a Multilevel Deep-Learning Framework for Individualized Prediction in Clustered Data</description>
   </item>
   <item>
-    <title>精神的健康回復の「方法」：第一人称オンラインナラティブの批判的リアリズム主題分析による内的および外的回復過程モデルの構築</title>
+    <title>精神的健康回復の「方法」：第一人称オンラインナラティブの批判的リアリズム主題分析による内的および外的回復プロセスモデルの構築</title>
     <link>https://osf.io/qtwj2</link>
     <guid isPermaLink="false">https://osf.io/qtwj2#ja</guid>
     <pubDate>Wed, 29 Jul 2026 17:10:46 +0000</pubDate>
     <description>The ‘how’ of mental health recovery: Developing a model of internal and external recovery processes using critical realist thematic analysis of first-person online narratives</description>
   </item>
   <item>
-    <title>音韻獲得のトップダウン理論とボトムアップ理論：ビッグデータアプローチによる検討</title>
+    <title>音韻獲得のトップダウン理論とボトムアップ理論：ビッグデータアプローチによる検証</title>
     <link>https://osf.io/uazpe</link>
     <guid isPermaLink="false">https://osf.io/uazpe#ja</guid>
     <pubDate>Tue, 28 Jul 2026 22:38:11 +0000</pubDate>
@@ -153,42 +167,42 @@
     <description>Vaccination as Collective Action During a Pandemic: Evidence from 6.1 Million COVID-19 Vaccination Records in Denmark</description>
   </item>
   <item>
-    <title>意思決定の重要度が助言統合に及ぼす不均一な影響</title>
+    <title>意思決定の賭け金の不均一な影響が助言統合に及ぼす効果</title>
     <link>https://osf.io/qnpbr</link>
     <guid isPermaLink="false">https://osf.io/qnpbr#ja</guid>
     <pubDate>Tue, 28 Jul 2026 22:38:11 +0000</pubDate>
     <description>Uneven Effects of Decision Stakes on Advice Integration</description>
   </item>
   <item>
-    <title>具現化された協働における対話的創発：二者間の対立する知覚から洞察を共構築する微視的分析</title>
+    <title>具現化された協働における対話的創発：二者が対立する知覚から洞察を共構築する過程のミクロ分析</title>
     <link>https://osf.io/z5w4d</link>
     <guid isPermaLink="false">https://osf.io/z5w4d#ja</guid>
     <pubDate>Tue, 28 Jul 2026 22:38:10 +0000</pubDate>
     <description>Dialogical Emergence in Embodied Collaboration: A Micro-Analysis of How Dyads Co-Construct Insight from Conflicting Perceptions</description>
   </item>
   <item>
-    <title>社会的アロスタティック推論としての愛着とケアギビング：単一脳から二者間への社会神経科学の最新理論</title>
+    <title>社会的アロスタティック推論としての愛着とケア行動：単一脳から二者関係への社会神経科学の最新理論</title>
     <link>https://osf.io/m29kq</link>
     <guid isPermaLink="false">https://osf.io/m29kq#ja</guid>
     <pubDate>Tue, 28 Jul 2026 20:22:29 +0000</pubDate>
     <description>Attachment and Caregiving as Social Allostatic Inference: An Updated Social Neuroscience Account from Single Brains to Dyads</description>
   </item>
   <item>
-    <title>多職種医療チーム会議における集団的認知負荷の時間的指標としての発話持続時間の断続性</title>
+    <title>多職種医療チーム会議における集合的認知負荷の時間的指標としての発話持続時間のバースト性</title>
     <link>https://osf.io/zrpk8</link>
     <guid isPermaLink="false">https://osf.io/zrpk8#ja</guid>
     <pubDate>Tue, 28 Jul 2026 16:28:48 +0000</pubDate>
     <description>Turn-Duration Burstiness as a Temporal Signature of Collective Cognitive Demand in Multidisciplinary Healthcare Team Meetings</description>
   </item>
   <item>
-    <title>選択によって誘発される嗜好変化の実証的特徴</title>
+    <title>選択によって誘発される嗜好変化の経験的指標</title>
     <link>https://osf.io/vrh3w</link>
     <guid isPermaLink="false">https://osf.io/vrh3w#ja</guid>
     <pubDate>Tue, 28 Jul 2026 16:28:48 +0000</pubDate>
     <description>Empirical Signatures of Choice-Induced Preference Change</description>
   </item>
   <item>
-    <title>従業員体験の言語モデル評価におけるクローズドブックおよびオープンブック方式の比較：多段階検索法と単一プロンプト法の収束的妥当性に関する二標本研究</title>
+    <title>従業員体験の言語モデル評価におけるクローズドブックおよびオープンブック方式の比較：多段階検索法と単一プロンプト法による二標本収束的妥当性研究</title>
     <link>https://osf.io/e9sak</link>
     <guid isPermaLink="false">https://osf.io/e9sak#ja</guid>
     <pubDate>Tue, 28 Jul 2026 16:28:47 +0000</pubDate>
@@ -237,7 +251,7 @@
     <description>Synthetic survey participants cannot substitute for sample diversity in policy</description>
   </item>
   <item>
-    <title>複数評価者による評価における評判およびアイデンティティ効果の測定：特性評判アイデンティティモデルの設定指針</title>
+    <title>複数評価者による評価における評判とアイデンティティ効果の測定：特性評判アイデンティティモデルの具体化に関する指針</title>
     <link>https://osf.io/y825d</link>
     <guid isPermaLink="false">https://osf.io/y825d#ja</guid>
     <pubDate>Mon, 27 Jul 2026 20:55:17 +0000</pubDate>
@@ -251,7 +265,7 @@
     <description>Cognitive functions in childhood apraxia of speech: A scoping review</description>
   </item>
   <item>
-    <title>瞑想は人類およびあらゆる生命体との絆と協力を促進する</title>
+    <title>瞑想が人類およびあらゆる生命体との絆と協力を促進する</title>
     <link>https://osf.io/s82jd</link>
     <guid isPermaLink="false">https://osf.io/s82jd#ja</guid>
     <pubDate>Mon, 27 Jul 2026 20:55:16 +0000</pubDate>
@@ -272,7 +286,7 @@
     <description>Word-Level Measures of Syntactic Complexity in Sentence Processing: An Organizing Review</description>
   </item>
   <item>
-    <title>分極化した会話における学習目標と聴取行動：四つの研究室を跨いだ検証</title>
+    <title>分極化した会話における学習目標と聴取行動の検証：四つの研究室を跨いだ実証研究</title>
     <link>https://osf.io/b9e2s</link>
     <guid isPermaLink="false">https://osf.io/b9e2s#ja</guid>
     <pubDate>Mon, 27 Jul 2026 18:06:18 +0000</pubDate>
@@ -314,7 +328,7 @@
     <description>Toward a Formalization of Human Intuitive Theories of Bodily Pain</description>
   </item>
   <item>
-    <title>反復学習はエピソード記憶からの明示的想起に依存する：脳波（EEG）による証拠</title>
+    <title>反復学習はエピソード記憶からの明示的想起に依存する：脳波計測による証拠</title>
     <link>https://osf.io/367n5</link>
     <guid isPermaLink="false">https://osf.io/367n5#ja</guid>
     <pubDate>Sat, 25 Jul 2026 21:29:17 +0000</pubDate>
@@ -328,7 +342,7 @@
     <description>Self-prioritisation in arbitrary shape-label associations is not sufficient to distort duration perception</description>
   </item>
   <item>
-    <title>理解なき視覚：社会的評価の基盤としての注意力の遅発的出現</title>
+    <title>理解なき視覚：社会的評価の基盤としての注意深さの遅発的出現</title>
     <link>https://osf.io/c3fa4</link>
     <guid isPermaLink="false">https://osf.io/c3fa4#ja</guid>
     <pubDate>Fri, 24 Jul 2026 21:16:24 +0000</pubDate>
@@ -340,20 +354,6 @@
     <guid isPermaLink="false">https://osf.io/w9jpf#ja</guid>
     <pubDate>Fri, 24 Jul 2026 20:03:48 +0000</pubDate>
     <description>Are mathematics anxiety and being positive about mathematics mutually exclusive? An exploratory study in elite STEM students</description>
-  </item>
-  <item>
-    <title>主観的な心的イメージの鮮明さと客観的な正確性がチェスのパフォーマンスを予測する</title>
-    <link>https://osf.io/x6v72</link>
-    <guid isPermaLink="false">https://osf.io/x6v72#ja</guid>
-    <pubDate>Fri, 24 Jul 2026 18:46:50 +0000</pubDate>
-    <description>Subjective mental imagery vividness and objective accuracy predict chess performance</description>
-  </item>
-  <item>
-    <title>PupilFear：分散動的データベースを用いた恐怖条件付けにおける瞳孔計測法のベンチマーク評価</title>
-    <link>https://osf.io/nqwe5</link>
-    <guid isPermaLink="false">https://osf.io/nqwe5#ja</guid>
-    <pubDate>Fri, 24 Jul 2026 18:46:49 +0000</pubDate>
-    <description>PupilFear: benchmarking pupillometry methods for fear conditioning on a distributed dynamical database</description>
   </item>
 </channel>
 </rss>
