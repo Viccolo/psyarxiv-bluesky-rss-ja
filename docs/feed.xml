@@ -6,7 +6,21 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>小児構音失行症の神経基盤：最新の知見、今後の展望、および発話運動制御モデルへの示唆</title>
+    <title>高度な瞑想の計算的神経現象学における神経臨界性の枠組み</title>
+    <link>https://osf.io/z4sbv</link>
+    <guid isPermaLink="false">https://osf.io/z4sbv#ja</guid>
+    <pubDate>Sat, 08 Aug 2026 19:59:04 +0000</pubDate>
+    <description>Neuronal criticality as a framework for the computational neurophenomenology of advanced meditation</description>
+  </item>
+  <item>
+    <title>逐次的協働のベイズモデル：専門知識と社会的影響を通じた依存的数値判断の理解</title>
+    <link>https://osf.io/78qgk</link>
+    <guid isPermaLink="false">https://osf.io/78qgk#ja</guid>
+    <pubDate>Sat, 08 Aug 2026 19:59:03 +0000</pubDate>
+    <description>A Bayesian Model of Sequential Collaboration: Understanding Dependent Numerical Judgments Through Expertise and Social Influence</description>
+  </item>
+  <item>
+    <title>小児失行性構音障害の神経基盤：最新の知見、今後の展望、および発話運動制御モデルへの示唆</title>
     <link>https://osf.io/83j6b</link>
     <guid isPermaLink="false">https://osf.io/83j6b#ja</guid>
     <pubDate>Sat, 08 Aug 2026 17:21:06 +0000</pubDate>
@@ -20,7 +34,7 @@
     <description>Improving the Comparability of Momentary Affect Assessments: The Role of Item-Specific Effects in Within-Person Affect Dynamics</description>
   </item>
   <item>
-    <title>統計プログラミングにおけるAIチューターの学生利用：縦断的研究</title>
+    <title>統計プログラミングにおけるAIチューターの学生採用：縦断的研究</title>
     <link>https://osf.io/umspj</link>
     <guid isPermaLink="false">https://osf.io/umspj#ja</guid>
     <pubDate>Fri, 07 Aug 2026 17:08:35 +0000</pubDate>
@@ -34,21 +48,21 @@
     <description>Psychiatric Symptom Severity and Performance Monitoring:  Intraindividual Variability in Neural Responses and Behavioral Adjustments to Errors</description>
   </item>
   <item>
-    <title>急性攻撃から長期戦へ：10月7日以降のイスラエルにおける精神健康負荷のスコーピングレビュー</title>
+    <title>急性発作から長期戦へ：10月7日以降のイスラエルにおける精神健康負担のスコーピングレビュー</title>
     <link>https://osf.io/n8vmx</link>
     <guid isPermaLink="false">https://osf.io/n8vmx#ja</guid>
     <pubDate>Fri, 07 Aug 2026 16:14:31 +0000</pubDate>
     <description>From Acute Attack to Prolonged War: A Scoping Review of Mental Health Burden in Israel After October 7</description>
   </item>
   <item>
-    <title>字母色覚共感覚における自伝的想起様式：空想傾向および多感覚イメージとの重なり</title>
+    <title>グラフェム・カラー共感覚における自伝的回想様式：空想傾向および多感覚イメージとの重複</title>
     <link>https://osf.io/hwbuf</link>
     <guid isPermaLink="false">https://osf.io/hwbuf#ja</guid>
     <pubDate>Fri, 07 Aug 2026 08:39:37 +0000</pubDate>
     <description>Autobiographical Recollective Style in Grapheme–Color Synesthesia: Overlap with Fantasy Proneness and Multisensory Imagery</description>
   </item>
   <item>
-    <title>腕の重量増加および反復試行に伴う把持動作の軌道高揚</title>
+    <title>腕の重量増加および反復試行下における把持動作の軌道高揚</title>
     <link>https://osf.io/wjrxt</link>
     <guid isPermaLink="false">https://osf.io/wjrxt#ja</guid>
     <pubDate>Fri, 07 Aug 2026 05:03:38 +0000</pubDate>
@@ -62,7 +76,7 @@
     <description>The crossword effect: A recall advantage for words encoded in alignment with their spatial associations</description>
   </item>
   <item>
-    <title>4年生から8年生にかけての数学における能力自己概念、内発的価値、実用的価値、感情的コストの発達軌跡プロファイル</title>
+    <title>4年生から8年生にかけての数学における能力自己概念、内発的価値、有用価値、感情的コストの成長軌跡プロファイル</title>
     <link>https://osf.io/qubzv</link>
     <guid isPermaLink="false">https://osf.io/qubzv#ja</guid>
     <pubDate>Wed, 05 Aug 2026 12:07:55 +0000</pubDate>
@@ -83,7 +97,7 @@
     <description>A Test of the 2 × 2 Model of Perfectionism in Predicting Distress among Licensure Examination Reviewees</description>
   </item>
   <item>
-    <title>リスク選択における複雑性回避の時期：利得と損失の領域比較</title>
+    <title>リスク選択における複雑性回避の時期：利益と損失の領域比較</title>
     <link>https://osf.io/n3h95</link>
     <guid isPermaLink="false">https://osf.io/n3h95#ja</guid>
     <pubDate>Tue, 04 Aug 2026 23:55:26 +0000</pubDate>
@@ -118,7 +132,7 @@
     <description>Human-Supervised LLM-Assisted Mapping of Educational Research at Scale: A Mathematics Education Demonstration</description>
   </item>
   <item>
-    <title>対立の多い分野におけるオープンサイエンス：ソーシャルメディアと青年期のメンタルヘルス研究の透明性の検証</title>
+    <title>論争の多い分野におけるオープンサイエンス：ソーシャルメディアと青年期のメンタルヘルス研究の透明性はどの程度か？</title>
     <link>https://osf.io/xcuge</link>
     <guid isPermaLink="false">https://osf.io/xcuge#ja</guid>
     <pubDate>Mon, 03 Aug 2026 14:02:09 +0000</pubDate>
@@ -132,7 +146,7 @@
     <description>From RI-CLPM to panelGVAR: Evaluating Stationarity in Network Modeling of Panel Data</description>
   </item>
   <item>
-    <title>ビジネススクールにおける職場のスピリチュアリティと学業成績：自己効力感の媒介および調整効果</title>
+    <title>ビジネススクールにおける職場のスピリチュアリティと学業成績：自己効力感の媒介および調整効果の検討</title>
     <link>https://osf.io/upvd5</link>
     <guid isPermaLink="false">https://osf.io/upvd5#ja</guid>
     <pubDate>Sat, 01 Aug 2026 21:32:30 +0000</pubDate>
@@ -146,28 +160,28 @@
     <description>A guide to evaluating LLM-based extraction and judgement tools</description>
   </item>
   <item>
-    <title>遅延割引、確率割引、および遅延・確率の同時割引の簡便かつ同時評価：喫煙における三重割引課題の初期検証 [プレプリント]</title>
+    <title>遅延割引、確率割引、および遅延・確率の同時割引の簡便かつ同時評価：喫煙における三要素割引課題の初期検証 [プレプリント]</title>
     <link>https://osf.io/zxmy9</link>
     <guid isPermaLink="false">https://osf.io/zxmy9#ja</guid>
     <pubDate>Sat, 01 Aug 2026 14:38:43 +0000</pubDate>
     <description>Brief and simultaneous assessment of delay, probability, and joint delay–probability discounting: Initial validation of the three-for-one discounting task in tobacco use [preprint]</description>
   </item>
   <item>
-    <title>遠隔他者への共感を深める学習：体系的道徳的省察介入の効果検証</title>
+    <title>遠隔他者への関心を高める学習：体系的道徳的熟考介入の効果検証</title>
     <link>https://osf.io/quxta</link>
     <guid isPermaLink="false">https://osf.io/quxta#ja</guid>
     <pubDate>Sat, 01 Aug 2026 14:38:43 +0000</pubDate>
     <description>Learning to Care More About Distant Others:  A Systematic Moral Reflection Intervention</description>
   </item>
   <item>
-    <title>気質とパーソナリティ特性は兄弟的構成概念か双子的構成概念か？生涯発達心理学に向けてのパーソナリティ発達の科学</title>
+    <title>気質とパーソナリティ特性は兄弟的構成概念か双子的構成概念か―生涯発達心理学に向けて</title>
     <link>https://osf.io/wfs94</link>
     <guid isPermaLink="false">https://osf.io/wfs94#ja</guid>
     <pubDate>Sat, 01 Aug 2026 13:03:46 +0000</pubDate>
     <description>Are Temperament and Personality Traits Sibling Constructs or Twins? Toward a Lifespan Science of Personality Development</description>
   </item>
   <item>
-    <title>住宅治療を受ける青少年の心的外傷後ストレスに対する補助的介入としてのトラウマインフォームド・ウエイトリフティング</title>
+    <title>住宅治療を受ける青少年の心的外傷後ストレスに対する補助的介入としてのトラウマ対応型ウェイトリフティング</title>
     <link>https://osf.io/m7k4w</link>
     <guid isPermaLink="false">https://osf.io/m7k4w#ja</guid>
     <pubDate>Fri, 31 Jul 2026 23:43:40 +0000</pubDate>
@@ -181,7 +195,7 @@
     <description>Differential Associations of Excellencism and Perfectionism with Mental Health Outcomes Among Licensure Examinees</description>
   </item>
   <item>
-    <title>1型糖尿病を有する小児・思春期における心理社会的介入と健康関連生活の質：システマティックレビューおよびメタアナリシス</title>
+    <title>1型糖尿病を有する小児・青年における心理社会的介入と健康関連生活の質：システマティックレビューおよびメタアナリシス</title>
     <link>https://osf.io/3sqtg</link>
     <guid isPermaLink="false">https://osf.io/3sqtg#ja</guid>
     <pubDate>Fri, 31 Jul 2026 22:43:38 +0000</pubDate>
@@ -209,7 +223,7 @@
     <description>Impairment in the Hierarchical Taxonomy of Psychopathology</description>
   </item>
   <item>
-    <title>赤ちゃんを風呂水と一緒に捨てるな！「事前登録」が依然として有用な理由：Mayo-Wilsonら（2025）へのコメント</title>
+    <title>赤ちゃんを風呂水と一緒に捨てるな！「事前登録」が依然として有用な用語である理由：Mayo-Wilsonら（2025）へのコメント</title>
     <link>https://osf.io/4e27t</link>
     <guid isPermaLink="false">https://osf.io/4e27t#ja</guid>
     <pubDate>Fri, 31 Jul 2026 10:10:19 +0000</pubDate>
@@ -251,14 +265,14 @@
     <description>Auditory and Visual Rhythms Shape Infant Attention in Infant-Directed Singing and Speech</description>
   </item>
   <item>
-    <title>屋外遊びと学び（OPAL）全校遊び時間プログラムが子どもの遊びに与える影響：イングランドの小学校2校における混合研究法による考察</title>
+    <title>屋外遊びと学び（OPAL）全校遊び時間プログラムは子どもの遊びにどのような影響を与えるか：イングランドの小学校2校における混合研究法による考察</title>
     <link>https://osf.io/f2zx9</link>
     <guid isPermaLink="false">https://osf.io/f2zx9#ja</guid>
     <pubDate>Thu, 30 Jul 2026 12:55:36 +0000</pubDate>
     <description>How does the Outdoor Play and Learning (OPAL) whole school playtime programme affect children’s play? Mixed-methods insights from two English primary schools.</description>
   </item>
   <item>
-    <title>スティグマ、医療におけるガスライティング、異性愛中心主義：子宮内膜症症状を持つLGBTQ+の医療アクセスと診断における障壁</title>
+    <title>スティグマ、医療ガスライティング、異性愛主義：子宮内膜症症状を有するLGBTQ+の医療アクセスと診断における障壁</title>
     <link>https://osf.io/whn7f</link>
     <guid isPermaLink="false">https://osf.io/whn7f#ja</guid>
     <pubDate>Thu, 30 Jul 2026 12:55:36 +0000</pubDate>
@@ -272,7 +286,7 @@
     <description>Greater Reporting of Internal Than External Misinformation in Repeated Events Reflects Increased Familiarity and Suggestibility</description>
   </item>
   <item>
-    <title>オンライン体験学習が中学生の心理に及ぼす影響</title>
+    <title>オンライン体験的教育が中学生の学習に及ぼす影響</title>
     <link>https://osf.io/ewxkv</link>
     <guid isPermaLink="false">https://osf.io/ewxkv#ja</guid>
     <pubDate>Wed, 29 Jul 2026 17:10:49 +0000</pubDate>
@@ -293,14 +307,14 @@
     <description>The cognitive foundations of food moralization</description>
   </item>
   <item>
-    <title>自発話における無音および充填間投の産出における個人差：話者レベルおよび発話レベルの要因</title>
+    <title>自発話における無音および充填間投詞産出の個人差：話者レベルおよび発話レベルの要因</title>
     <link>https://osf.io/96zsd</link>
     <guid isPermaLink="false">https://osf.io/96zsd#ja</guid>
     <pubDate>Wed, 29 Jul 2026 17:10:48 +0000</pubDate>
     <description>Individual differences in silent and filled pause production in spontaneous speech: Speaker-level and speech-level factors</description>
   </item>
   <item>
-    <title>感覚過敏性が英国コホートにおける乳児の睡眠障害および異なる親の睡眠習慣と関連する研究</title>
+    <title>感覚過敏性が英国コホートにおける乳児の睡眠障害および親の異なる睡眠習慣と関連する研究</title>
     <link>https://osf.io/xpq56</link>
     <guid isPermaLink="false">https://osf.io/xpq56#ja</guid>
     <pubDate>Wed, 29 Jul 2026 17:10:48 +0000</pubDate>
@@ -321,7 +335,7 @@
     <description>The kaleidoscope of distress: elevated negative emodiversity across objective and idiographic cognitive tasks is associated with worse mental health in adolescence</description>
   </item>
   <item>
-    <title>スキーマに不一致な系列の記憶効果は違反の種類に依存する</title>
+    <title>スキーマに不一致な連続情報の記憶効果は違反の種類に依存する</title>
     <link>https://osf.io/56kqr</link>
     <guid isPermaLink="false">https://osf.io/56kqr#ja</guid>
     <pubDate>Wed, 29 Jul 2026 17:10:47 +0000</pubDate>
@@ -340,20 +354,6 @@
     <guid isPermaLink="false">https://osf.io/783m9#ja</guid>
     <pubDate>Wed, 29 Jul 2026 17:10:46 +0000</pubDate>
     <description>Development and Validation of a Multilevel Deep-Learning Framework for Individualized Prediction in Clustered Data</description>
-  </item>
-  <item>
-    <title>精神的健康回復の「方法」：第一人称オンラインナラティブのクリティカルリアリスト主題分析による内的および外的回復プロセスのモデル構築</title>
-    <link>https://osf.io/qtwj2</link>
-    <guid isPermaLink="false">https://osf.io/qtwj2#ja</guid>
-    <pubDate>Wed, 29 Jul 2026 17:10:46 +0000</pubDate>
-    <description>The ‘how’ of mental health recovery: Developing a model of internal and external recovery processes using critical realist thematic analysis of first-person online narratives</description>
-  </item>
-  <item>
-    <title>音韻獲得のトップダウン理論とボトムアップ理論：ビッグデータアプローチによる検証</title>
-    <link>https://osf.io/uazpe</link>
-    <guid isPermaLink="false">https://osf.io/uazpe#ja</guid>
-    <pubDate>Tue, 28 Jul 2026 22:38:11 +0000</pubDate>
-    <description>Top-down versus bottom-up theories of phonological acquisition: A big data approach</description>
   </item>
 </channel>
 </rss>
