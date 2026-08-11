@@ -6,7 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>自己愛的な親を持つ成人子どもの生きた経験に関する現象学的研究</title>
+    <title>今、私たちは細工に内在する暴力を目の当たりにする</title>
+    <link>https://osf.io/nk4qv</link>
+    <guid isPermaLink="false">https://osf.io/nk4qv#ja</guid>
+    <pubDate>Tue, 11 Aug 2026 10:11:50 +0000</pubDate>
+    <description>Now we see the violence inherent in the tinkering</description>
+  </item>
+  <item>
+    <title>自己愛性パーソナリティ障害の親を持つ成人子女の生きた経験に関する現象学的研究</title>
     <link>https://osf.io/pjma6</link>
     <guid isPermaLink="false">https://osf.io/pjma6#ja</guid>
     <pubDate>Mon, 10 Aug 2026 22:58:10 +0000</pubDate>
@@ -20,7 +27,7 @@
     <description>Where are the context effects? A meta-analysis of the attraction, similarity, and compromise effects</description>
   </item>
   <item>
-    <title>脳健康研究における社会的決定要因の統合に関する倫理的考察：文化生態社会的アプローチ</title>
+    <title>脳健康研究における社会的決定要因の統合に関する倫理的考察：文化・生態社会的アプローチ</title>
     <link>https://osf.io/asx97</link>
     <guid isPermaLink="false">https://osf.io/asx97#ja</guid>
     <pubDate>Mon, 10 Aug 2026 22:17:11 +0000</pubDate>
@@ -48,21 +55,21 @@
     <description>It&#x27;s the Motive, Not the Strategy: Health and Weight-Control Motives Mediate How Reward and Punishment Sensitivity Shape Restraint and Dieting Success</description>
   </item>
   <item>
-    <title>名前に何が宿るのか？正の情動と負の情動の潜在変数分析</title>
+    <title>名前に何が宿るのか？正負の情動に関する潜在変数分析</title>
     <link>https://osf.io/2zb3v</link>
     <guid isPermaLink="false">https://osf.io/2zb3v#ja</guid>
     <pubDate>Mon, 10 Aug 2026 22:17:09 +0000</pubDate>
     <description>What&#x27;s in a Name? A Latent Variable Analysis of Positive and Negative Affect</description>
   </item>
   <item>
-    <title>乳児期初期における母親の客観的に測定されたスマートフォン使用と社会情動発達指標の縦断的変化</title>
+    <title>乳児期初期における母親の客観的スマートフォン使用と社会情動発達指標の縦断的変化</title>
     <link>https://osf.io/d4h32</link>
     <guid isPermaLink="false">https://osf.io/d4h32#ja</guid>
     <pubDate>Mon, 10 Aug 2026 22:17:09 +0000</pubDate>
     <description>Mothers’ objectively measured smartphone use around their infant and longitudinal change in markers of socioemotional development during early infancy</description>
   </item>
   <item>
-    <title>人文科学における再現性予測に関する研究者の見解</title>
+    <title>人文科学における研究者の再現性予測能力</title>
     <link>https://osf.io/dyxrk</link>
     <guid isPermaLink="false">https://osf.io/dyxrk#ja</guid>
     <pubDate>Mon, 10 Aug 2026 22:17:09 +0000</pubDate>
@@ -76,7 +83,7 @@
     <description>A No-Go Theorem for Process Theories of Consciousness</description>
   </item>
   <item>
-    <title>大学生サンプルにおける不適応心理過程と夜空愛好症の関連性：追跡調査研究</title>
+    <title>大学生サンプルにおける不適応的心理過程と夜空愛好症の関連：追跡調査研究</title>
     <link>https://osf.io/tp87a</link>
     <guid isPermaLink="false">https://osf.io/tp87a#ja</guid>
     <pubDate>Mon, 10 Aug 2026 22:17:08 +0000</pubDate>
@@ -90,7 +97,7 @@
     <description>Technical Report: Development and Validation of Stimulus Texts Representing Attitudes Toward Migration in Germany</description>
   </item>
   <item>
-    <title>学習者の評価：注意が逸れる際に学生は何を考えているのか？</title>
+    <title>学習者の評価：注意が逸れるとき学生は何を考えているのか？</title>
     <link>https://osf.io/7dr9y</link>
     <guid isPermaLink="false">https://osf.io/7dr9y#ja</guid>
     <pubDate>Mon, 10 Aug 2026 21:37:49 +0000</pubDate>
@@ -111,7 +118,7 @@
     <description>Participatory Choice Architecture: Three Mechanisms for Co-Designing Digital Environments</description>
   </item>
   <item>
-    <title>不眠症の特定と管理における地域薬剤師の役割および認知行動療法（CBT-I）へのアクセス促進に関する系統的レビュー</title>
+    <title>不眠症の特定と管理における地域薬剤師の役割および認知行動療法（CBT-I）へのアクセス促進に関するシステマティックレビュー</title>
     <link>https://osf.io/vax57</link>
     <guid isPermaLink="false">https://osf.io/vax57#ja</guid>
     <pubDate>Mon, 10 Aug 2026 21:37:48 +0000</pubDate>
@@ -132,7 +139,7 @@
     <description>Beyond the desire to know: Development and validation of the School Curiosity Inventory</description>
   </item>
   <item>
-    <title>シンガポールにおける青少年対象の単回同期型チャットベース精神保健支援プログラム理論の構築：支援者が用いる行動変容技法とその成果との関連性</title>
+    <title>シンガポールにおける若年層向け単回同期型チャットベース精神保健支援のプログラム理論構築：支援者が用いる行動変容技法とその成果との関連性</title>
     <link>https://osf.io/v6ta4</link>
     <guid isPermaLink="false">https://osf.io/v6ta4#ja</guid>
     <pubDate>Mon, 10 Aug 2026 21:37:47 +0000</pubDate>
@@ -174,7 +181,7 @@
     <description>Standardized AI Recommendations, Metacognitive Scaffolding, and Performance in Software Tasks: An Exploratory Pilot Study</description>
   </item>
   <item>
-    <title>現実を超えた推論：反実仮想のメンタルモデル理論</title>
+    <title>現実を超えた推論：反実仮想に関するメンタルモデル理論</title>
     <link>https://osf.io/6kmdp</link>
     <guid isPermaLink="false">https://osf.io/6kmdp#ja</guid>
     <pubDate>Mon, 10 Aug 2026 19:29:50 +0000</pubDate>
@@ -195,14 +202,14 @@
     <description>Machine Psychometrics for Artificial Agents</description>
   </item>
   <item>
-    <title>自閉症特性と視覚的イメージ能力が視覚的作業記憶パフォーマンスを独立して予測する</title>
+    <title>自閉症特性と視覚イメージ能力が視覚的作業記憶パフォーマンスを独立して予測する</title>
     <link>https://osf.io/jtpx2</link>
     <guid isPermaLink="false">https://osf.io/jtpx2#ja</guid>
     <pubDate>Mon, 10 Aug 2026 19:29:49 +0000</pubDate>
     <description>Autistic traits and visual imagery abilities independently predict visual working memory performance</description>
   </item>
   <item>
-    <title>キルギスのデジタルフェミニズムのインスタグラムにおける展開：量的内容分析</title>
+    <title>キルギスのデジタルフェミニズムのインスタグラム上におけるマッピング：量的内容分析</title>
     <link>https://osf.io/j7mp3</link>
     <guid isPermaLink="false">https://osf.io/j7mp3#ja</guid>
     <pubDate>Mon, 10 Aug 2026 19:29:49 +0000</pubDate>
@@ -230,7 +237,7 @@
     <description>Impaired functional double dissociation in motor-to-sensory transformation mediates aberrant predictive coding in auditory verbal hallucinations</description>
   </item>
   <item>
-    <title>高度な瞑想の計算的神経現象学の枠組みとしての神経臨界性</title>
+    <title>高度な瞑想の計算神経現象学における神経臨界性の枠組み</title>
     <link>https://osf.io/z4sbv</link>
     <guid isPermaLink="false">https://osf.io/z4sbv#ja</guid>
     <pubDate>Sat, 08 Aug 2026 19:59:04 +0000</pubDate>
@@ -258,28 +265,28 @@
     <description>Improving the Comparability of Momentary Affect Assessments: The Role of Item-Specific Effects in Within-Person Affect Dynamics</description>
   </item>
   <item>
-    <title>統計プログラミングにおけるAIチューターの学生利用：縦断的研究</title>
+    <title>統計プログラミングにおけるAIチューターの学生受容：縦断的研究</title>
     <link>https://osf.io/umspj</link>
     <guid isPermaLink="false">https://osf.io/umspj#ja</guid>
     <pubDate>Fri, 07 Aug 2026 17:08:35 +0000</pubDate>
     <description>Student Adoption of an AI Tutor for Statistical Programming: A Longitudinal Study</description>
   </item>
   <item>
-    <title>精神症状の重症度と遂行モニタリング：誤りに対する神経反応および行動調整の個人内変動</title>
+    <title>精神症状の重症度とパフォーマンスモニタリング：誤りに対する神経反応および行動調整の個人内変動</title>
     <link>https://osf.io/vzs2e</link>
     <guid isPermaLink="false">https://osf.io/vzs2e#ja</guid>
     <pubDate>Fri, 07 Aug 2026 16:14:32 +0000</pubDate>
     <description>Psychiatric Symptom Severity and Performance Monitoring:  Intraindividual Variability in Neural Responses and Behavioral Adjustments to Errors</description>
   </item>
   <item>
-    <title>急性発作から長期戦へ：10月7日以降のイスラエルにおける精神健康負荷のスコーピングレビュー</title>
+    <title>急性攻撃から長期戦へ：10月7日以降のイスラエルにおける精神健康負担のスコーピングレビュー</title>
     <link>https://osf.io/n8vmx</link>
     <guid isPermaLink="false">https://osf.io/n8vmx#ja</guid>
     <pubDate>Fri, 07 Aug 2026 16:14:31 +0000</pubDate>
     <description>From Acute Attack to Prolonged War: A Scoping Review of Mental Health Burden in Israel After October 7</description>
   </item>
   <item>
-    <title>文字–色共感覚における自伝的想起様式：空想傾向および多感覚イメージとの重なり</title>
+    <title>字母色覚共感覚における自伝的想起様式：空想傾向および多感覚イメージとの重なり</title>
     <link>https://osf.io/hwbuf</link>
     <guid isPermaLink="false">https://osf.io/hwbuf#ja</guid>
     <pubDate>Fri, 07 Aug 2026 08:39:37 +0000</pubDate>
@@ -321,7 +328,7 @@
     <description>A Test of the 2 × 2 Model of Perfectionism in Predicting Distress among Licensure Examination Reviewees</description>
   </item>
   <item>
-    <title>リスク選択における複雑性回避はいつ起こるか？利益と損失の領域比較</title>
+    <title>リスク選択における複雑性回避の時期：利得と損失の領域比較</title>
     <link>https://osf.io/n3h95</link>
     <guid isPermaLink="false">https://osf.io/n3h95#ja</guid>
     <pubDate>Tue, 04 Aug 2026 23:55:26 +0000</pubDate>
@@ -347,13 +354,6 @@
     <guid isPermaLink="false">https://osf.io/x256n#ja</guid>
     <pubDate>Tue, 04 Aug 2026 23:55:24 +0000</pubDate>
     <description>SHAP-Interpretable Random Forest Classification of Obsessive-Compulsive Disorder from Resting-State EEG: Comparing Power and Coherence Features</description>
-  </item>
-  <item>
-    <title>人間監督下における大規模教育研究マッピングのLLM支援：数学教育における実証研究</title>
-    <link>https://osf.io/6tyqw</link>
-    <guid isPermaLink="false">https://osf.io/6tyqw#ja</guid>
-    <pubDate>Mon, 03 Aug 2026 20:07:26 +0000</pubDate>
-    <description>Human-Supervised LLM-Assisted Mapping of Educational Research at Scale: A Mathematics Education Demonstration</description>
   </item>
 </channel>
 </rss>
