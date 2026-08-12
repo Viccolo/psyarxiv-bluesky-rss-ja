@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>スマートフォンおよびソーシャルメディア使用が青少年の精神健康とウェルビーイングに及ぼす影響のメカニズム：青少年、教師、保護者の視点からの質的研究</title>
+    <title>スマートフォンおよびソーシャルメディア使用が青年期の精神健康とウェルビーイングに及ぼす影響メカニズム：青年、教師、保護者の視点からの質的研究</title>
     <link>https://osf.io/g4afu</link>
     <guid isPermaLink="false">https://osf.io/g4afu#ja</guid>
     <pubDate>Tue, 11 Aug 2026 23:55:49 +0000</pubDate>
@@ -20,14 +20,14 @@
     <description>Prospective associations between sibling psychopathology in adolescence and their link to functional brain connectivity</description>
   </item>
   <item>
-    <title>人間の社会的判断のモデル化における対人知覚と人工知能</title>
+    <title>対人知覚と人工知能：人間の社会的判断のモデル化</title>
     <link>https://osf.io/gdt46</link>
     <guid isPermaLink="false">https://osf.io/gdt46#ja</guid>
     <pubDate>Tue, 11 Aug 2026 23:09:22 +0000</pubDate>
     <description>Person Perception and Artificial Intelligence: Modeling Human Social Judgment</description>
   </item>
   <item>
-    <title>アフォーダンス対象物に対する錯覚的近接空間優位性の証拠なし</title>
+    <title>アフォーダンス対象物に対する錯覚的近接空間優位の証拠なし</title>
     <link>https://osf.io/xtvuw</link>
     <guid isPermaLink="false">https://osf.io/xtvuw#ja</guid>
     <pubDate>Tue, 11 Aug 2026 23:09:22 +0000</pubDate>
@@ -48,7 +48,7 @@
     <description>Multimodal large language models encode implicit gender bias</description>
   </item>
   <item>
-    <title>脳の健康研究における多様性、交差性および代表性の検討</title>
+    <title>脳健康研究における多様性、交差性および代表性の検討</title>
     <link>https://osf.io/yuz85</link>
     <guid isPermaLink="false">https://osf.io/yuz85#ja</guid>
     <pubDate>Tue, 11 Aug 2026 20:05:35 +0000</pubDate>
@@ -69,7 +69,7 @@
     <description>A Model Fit Approach to Test the Adequacy of Interval-Level Measurement in  Psychometric Models</description>
   </item>
   <item>
-    <title>音韻処理を介さない正書法学習：聴覚障害者と健聴者成人における新規語の語彙構成と活性化</title>
+    <title>音韻処理を伴わない正書法学習：聴覚障害者と健聴者成人における新規語の語彙構成と活性化</title>
     <link>https://osf.io/evy34</link>
     <guid isPermaLink="false">https://osf.io/evy34#ja</guid>
     <pubDate>Tue, 11 Aug 2026 20:05:35 +0000</pubDate>
@@ -83,7 +83,7 @@
     <description>Now we see the violence inherent in the tinkering</description>
   </item>
   <item>
-    <title>自己愛的な親を持つ成人子どもの生きた経験に関する現象学的研究</title>
+    <title>自己愛的親を持つ成人子女の生きた経験に関する現象学的研究</title>
     <link>https://osf.io/pjma6</link>
     <guid isPermaLink="false">https://osf.io/pjma6#ja</guid>
     <pubDate>Mon, 10 Aug 2026 22:58:10 +0000</pubDate>
@@ -97,7 +97,7 @@
     <description>Where are the context effects? A meta-analysis of the attraction, similarity, and compromise effects</description>
   </item>
   <item>
-    <title>脳健康研究における社会的決定要因の統合に関する倫理的考察：文化生態社会的アプローチ</title>
+    <title>脳健康研究における社会的決定要因統合の倫理的考察：文化・生態社会的アプローチ</title>
     <link>https://osf.io/asx97</link>
     <guid isPermaLink="false">https://osf.io/asx97#ja</guid>
     <pubDate>Mon, 10 Aug 2026 22:17:11 +0000</pubDate>
@@ -118,42 +118,42 @@
     <description>Questionable prospective effects between cognitive triad and depression: A re-meta-analysis and comment on Huang et al. (2026)</description>
   </item>
   <item>
-    <title>動機が鍵：報酬・罰感受性が抑制行動とダイエット成功に及ぼす影響における健康・体重管理動機の媒介効果</title>
+    <title>動機が鍵：報酬・罰感受性が抑制行動とダイエット成功に及ぼす影響における健康および体重管理動機の媒介効果</title>
     <link>https://osf.io/zjwka</link>
     <guid isPermaLink="false">https://osf.io/zjwka#ja</guid>
     <pubDate>Mon, 10 Aug 2026 22:17:10 +0000</pubDate>
     <description>It&#x27;s the Motive, Not the Strategy: Health and Weight-Control Motives Mediate How Reward and Punishment Sensitivity Shape Restraint and Dieting Success</description>
   </item>
   <item>
-    <title>名前に何が宿るのか？正負の情動に関する潜在変数分析</title>
+    <title>名前に何が宿るのか？ポジティブ・ネガティブ情動の潜在変数分析</title>
     <link>https://osf.io/2zb3v</link>
     <guid isPermaLink="false">https://osf.io/2zb3v#ja</guid>
     <pubDate>Mon, 10 Aug 2026 22:17:09 +0000</pubDate>
     <description>What&#x27;s in a Name? A Latent Variable Analysis of Positive and Negative Affect</description>
   </item>
   <item>
-    <title>乳児期初期における母親の客観的に測定されたスマートフォン使用と社会情動発達指標の縦断的変化</title>
+    <title>乳児期初期における母親の客観的スマートフォン使用と社会情動発達指標の縦断的変化</title>
     <link>https://osf.io/d4h32</link>
     <guid isPermaLink="false">https://osf.io/d4h32#ja</guid>
     <pubDate>Mon, 10 Aug 2026 22:17:09 +0000</pubDate>
     <description>Mothers’ objectively measured smartphone use around their infant and longitudinal change in markers of socioemotional development during early infancy</description>
   </item>
   <item>
-    <title>人文科学における研究者の再現可能性予測</title>
+    <title>人文科学における研究者の再現性予測能力</title>
     <link>https://osf.io/dyxrk</link>
     <guid isPermaLink="false">https://osf.io/dyxrk#ja</guid>
     <pubDate>Mon, 10 Aug 2026 22:17:09 +0000</pubDate>
     <description>Researchers’ Predicting Replicability in the Human Sciences</description>
   </item>
   <item>
-    <title>意識のプロセス理論に関するノーゴー定理</title>
+    <title>意識の過程理論に関するノーゴー定理</title>
     <link>https://osf.io/w3n6v</link>
     <guid isPermaLink="false">https://osf.io/w3n6v#ja</guid>
     <pubDate>Mon, 10 Aug 2026 22:17:08 +0000</pubDate>
     <description>A No-Go Theorem for Process Theories of Consciousness</description>
   </item>
   <item>
-    <title>大学生サンプルにおける不適応心理過程と夜空愛好症の関連：追跡調査研究</title>
+    <title>大学生サンプルにおける不適応心理過程と夜空愛好症の関連性：追跡調査研究</title>
     <link>https://osf.io/tp87a</link>
     <guid isPermaLink="false">https://osf.io/tp87a#ja</guid>
     <pubDate>Mon, 10 Aug 2026 22:17:08 +0000</pubDate>
@@ -167,21 +167,21 @@
     <description>Technical Report: Development and Validation of Stimulus Texts Representing Attitudes Toward Migration in Germany</description>
   </item>
   <item>
-    <title>学習者の評価：注意が逸れる際に学生は何を考えているのか？</title>
+    <title>学習者の評価：注意が逸れるとき学生は何を考えているのか？</title>
     <link>https://osf.io/7dr9y</link>
     <guid isPermaLink="false">https://osf.io/7dr9y#ja</guid>
     <pubDate>Mon, 10 Aug 2026 21:37:49 +0000</pubDate>
     <description>The Learner&#x27;s Appraisal: What Are Students Thinking About When Their Mind Wanders?</description>
   </item>
   <item>
-    <title>社会的状況における視線の向け先に関する注意ネットワークを補完する眼窩前頭－前側頭ネットワーク</title>
+    <title>社会的状況における注視対象の選択において注意ネットワークを補完する眼窩前頭-前側頭ネットワーク</title>
     <link>https://osf.io/vyt97</link>
     <guid isPermaLink="false">https://osf.io/vyt97#ja</guid>
     <pubDate>Mon, 10 Aug 2026 21:37:48 +0000</pubDate>
     <description>The orbitofrontal-anterior temporal network complements the attention network for where to look in social situations</description>
   </item>
   <item>
-    <title>参加型選択アーキテクチャ：デジタル環境の共創における三つのメカニズム</title>
+    <title>参加型選択設計：デジタル環境の共創における三つのメカニズム</title>
     <link>https://osf.io/5nh4d</link>
     <guid isPermaLink="false">https://osf.io/5nh4d#ja</guid>
     <pubDate>Mon, 10 Aug 2026 21:37:48 +0000</pubDate>
@@ -202,7 +202,7 @@
     <description>Positive Affect as a Moderator of the Relationship Between Everyday Cognitive Failures and Global Self-Esteem: A Pre-Registered Cross-Sectional Study</description>
   </item>
   <item>
-    <title>知りたい欲求を超えて：学校好奇心尺度の開発と検証</title>
+    <title>知識欲を超えて：学校好奇心尺度の開発と検証</title>
     <link>https://osf.io/8b3ks</link>
     <guid isPermaLink="false">https://osf.io/8b3ks#ja</guid>
     <pubDate>Mon, 10 Aug 2026 21:37:47 +0000</pubDate>
@@ -251,14 +251,14 @@
     <description>Standardized AI Recommendations, Metacognitive Scaffolding, and Performance in Software Tasks: An Exploratory Pilot Study</description>
   </item>
   <item>
-    <title>現実を超えた推論：反実仮想のメンタルモデル理論</title>
+    <title>現実を超えた推論：反事実のメンタルモデル理論</title>
     <link>https://osf.io/6kmdp</link>
     <guid isPermaLink="false">https://osf.io/6kmdp#ja</guid>
     <pubDate>Mon, 10 Aug 2026 19:29:50 +0000</pubDate>
     <description>Reasoning Beyond Reality:  A Mental Model Theory of Counterfactuals</description>
   </item>
   <item>
-    <title>符号化意図と注意離脱が想起記憶に及ぼす影響の分離分析</title>
+    <title>符号化意図と注意離脱が想起記憶に及ぼす影響の解離</title>
     <link>https://osf.io/q7whd</link>
     <guid isPermaLink="false">https://osf.io/q7whd#ja</guid>
     <pubDate>Mon, 10 Aug 2026 19:29:50 +0000</pubDate>
@@ -279,7 +279,7 @@
     <description>Autistic traits and visual imagery abilities independently predict visual working memory performance</description>
   </item>
   <item>
-    <title>キルギスのデジタルフェミニズムのインスタグラム上における展開：量的内容分析</title>
+    <title>キルギスにおけるデジタルフェミニズムのInstagram上での展開：量的内容分析</title>
     <link>https://osf.io/j7mp3</link>
     <guid isPermaLink="false">https://osf.io/j7mp3#ja</guid>
     <pubDate>Mon, 10 Aug 2026 19:29:49 +0000</pubDate>
@@ -307,7 +307,7 @@
     <description>Impaired functional double dissociation in motor-to-sensory transformation mediates aberrant predictive coding in auditory verbal hallucinations</description>
   </item>
   <item>
-    <title>高度な瞑想の計算的神経現象学における神経臨界性の枠組み</title>
+    <title>高度な瞑想の計算神経現象学における神経臨界性の枠組み</title>
     <link>https://osf.io/z4sbv</link>
     <guid isPermaLink="false">https://osf.io/z4sbv#ja</guid>
     <pubDate>Sat, 08 Aug 2026 19:59:04 +0000</pubDate>
@@ -321,7 +321,7 @@
     <description>A Bayesian Model of Sequential Collaboration: Understanding Dependent Numerical Judgments Through Expertise and Social Influence</description>
   </item>
   <item>
-    <title>小児失語性構音障害の神経起源：最新の知見、今後の展望、および発話運動制御モデルへの示唆</title>
+    <title>小児構音運動失行の神経起源：最新の知見、今後の展望、および発話運動制御モデルへの示唆</title>
     <link>https://osf.io/83j6b</link>
     <guid isPermaLink="false">https://osf.io/83j6b#ja</guid>
     <pubDate>Sat, 08 Aug 2026 17:21:06 +0000</pubDate>
@@ -335,7 +335,7 @@
     <description>Improving the Comparability of Momentary Affect Assessments: The Role of Item-Specific Effects in Within-Person Affect Dynamics</description>
   </item>
   <item>
-    <title>統計プログラミングにおけるAIチューターの学生採用：縦断的研究</title>
+    <title>統計プログラミングにおけるAIチューターの学生受容：縦断的研究</title>
     <link>https://osf.io/umspj</link>
     <guid isPermaLink="false">https://osf.io/umspj#ja</guid>
     <pubDate>Fri, 07 Aug 2026 17:08:35 +0000</pubDate>
@@ -349,7 +349,7 @@
     <description>Psychiatric Symptom Severity and Performance Monitoring:  Intraindividual Variability in Neural Responses and Behavioral Adjustments to Errors</description>
   </item>
   <item>
-    <title>急性発作から長期戦へ：10月7日以降のイスラエルにおける精神健康負担のスコーピングレビュー</title>
+    <title>急性攻撃から長期戦へ：10月7日以降のイスラエルにおける精神健康負担のスコーピングレビュー</title>
     <link>https://osf.io/n8vmx</link>
     <guid isPermaLink="false">https://osf.io/n8vmx#ja</guid>
     <pubDate>Fri, 07 Aug 2026 16:14:31 +0000</pubDate>
