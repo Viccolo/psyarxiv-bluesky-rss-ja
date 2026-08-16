@@ -6,6 +6,13 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>身体はいつ世界をバイアスするのか？身体化された空間知覚のベイズ因果推論モデル</title>
+    <link>https://osf.io/5vrx6</link>
+    <guid isPermaLink="false">https://osf.io/5vrx6#ja</guid>
+    <pubDate>Sun, 16 Aug 2026 16:43:08 +0000</pubDate>
+    <description>When Does the Body Bias the World? A Bayesian Causal Inference Model of Embodied Spatial Perception</description>
+  </item>
+  <item>
     <title>内側からの視点：構造的アプローチのための関係的認識論</title>
     <link>https://osf.io/6dycm</link>
     <guid isPermaLink="false">https://osf.io/6dycm#ja</guid>
@@ -34,7 +41,7 @@
     <description>Language enables cumulative cultural improvement by transmitting mental models</description>
   </item>
   <item>
-    <title>目撃された自己：自己概念・感情・修正行動に関する連結と調整の理論</title>
+    <title>目撃された自己：自己概念・感情・是正行動に関する連結と調整の理論</title>
     <link>https://osf.io/wd6pr</link>
     <guid isPermaLink="false">https://osf.io/wd6pr#ja</guid>
     <pubDate>Fri, 14 Aug 2026 22:25:27 +0000</pubDate>
@@ -69,7 +76,7 @@
     <description>Cold climate predicts the childhood socialization of emotional restraint across pre-industrial societies</description>
   </item>
   <item>
-    <title>青年期における個別症状ネットワークから協働的ケース概念化へ：若者の視点を取り入れた混合法による概念実証研究</title>
+    <title>青年期における個別症状ネットワークから協働的ケース概念化へ：若者の意見を反映した混合法による概念実証研究</title>
     <link>https://osf.io/9qjpr</link>
     <guid isPermaLink="false">https://osf.io/9qjpr#ja</guid>
     <pubDate>Fri, 14 Aug 2026 20:52:30 +0000</pubDate>
@@ -83,21 +90,21 @@
     <description>Teaching Types of Sums of Squares in ANOVA: As Easy as I, II, III? A Survey and Shiny App</description>
   </item>
   <item>
-    <title>自我消失か自己拡張か？サイケデリック体験における自己認識の関係的再構築</title>
+    <title>自我消失か自己拡張か？サイケデリックな自己体験の関係的再構成</title>
     <link>https://osf.io/u7wkj</link>
     <guid isPermaLink="false">https://osf.io/u7wkj#ja</guid>
     <pubDate>Fri, 14 Aug 2026 19:08:41 +0000</pubDate>
     <description>Ego Dissolution or Self-Expansion? A Relational Reframing of Psychedelic Self-Experience</description>
   </item>
   <item>
-    <title>オンラインアイデンティティ隠蔽の多様性：手法、動機、および違法行為との関連性</title>
+    <title>オンラインアイデンティティ隠蔽の多様性：手法、動機、および違法活動との関連性</title>
     <link>https://osf.io/jbtsw</link>
     <guid isPermaLink="false">https://osf.io/jbtsw#ja</guid>
     <pubDate>Fri, 14 Aug 2026 17:12:11 +0000</pubDate>
     <description>Heterogeneity in online identity obfuscation: techniques, motivations, and links to illicit activities</description>
   </item>
   <item>
-    <title>個人レベルにおける暗号通貨採用の体系的レビューと統合的枠組み</title>
+    <title>個人レベルにおける暗号通貨採用：体系的レビューと統合的枠組み</title>
     <link>https://osf.io/3nuwa</link>
     <guid isPermaLink="false">https://osf.io/3nuwa#ja</guid>
     <pubDate>Wed, 12 Aug 2026 19:38:12 +0000</pubDate>
@@ -132,7 +139,7 @@
     <description>openVIMO: A Platform for Videoconferencing and Live Participant Management in Large-scale Online Experiments</description>
   </item>
   <item>
-    <title>スマートフォンおよびソーシャルメディア利用が思春期の精神健康とウェルビーイングに及ぼす影響メカニズム：思春期青年、教員、保護者の視点からの質的研究</title>
+    <title>スマートフォンおよびソーシャルメディア使用が青年期の精神健康とウェルビーイングに及ぼす影響メカニズム：青年、教員、保護者の視点からの質的研究</title>
     <link>https://osf.io/g4afu</link>
     <guid isPermaLink="false">https://osf.io/g4afu#ja</guid>
     <pubDate>Tue, 11 Aug 2026 23:55:49 +0000</pubDate>
@@ -146,14 +153,14 @@
     <description>Prospective associations between sibling psychopathology in adolescence and their link to functional brain connectivity</description>
   </item>
   <item>
-    <title>人間の社会的判断のモデル化における対人知覚と人工知能</title>
+    <title>対人知覚と人工知能：人間の社会的判断のモデル化</title>
     <link>https://osf.io/gdt46</link>
     <guid isPermaLink="false">https://osf.io/gdt46#ja</guid>
     <pubDate>Tue, 11 Aug 2026 23:09:22 +0000</pubDate>
     <description>Person Perception and Artificial Intelligence: Modeling Human Social Judgment</description>
   </item>
   <item>
-    <title>アフォーダンス対象物に対する錯覚的近接空間優位の証拠なし</title>
+    <title>アフォーダンス対象物に対する錯覚的近接空間優位性の証拠なし</title>
     <link>https://osf.io/xtvuw</link>
     <guid isPermaLink="false">https://osf.io/xtvuw#ja</guid>
     <pubDate>Tue, 11 Aug 2026 23:09:22 +0000</pubDate>
@@ -188,7 +195,7 @@
     <description>A novel view of microfinance: implications of the neuroscience of decision-making</description>
   </item>
   <item>
-    <title>心理計量モデルにおける間隔尺度測定の妥当性検証のためのモデル適合アプローチ</title>
+    <title>心理計量モデルにおける間隔尺度測定の適合性検証のためのモデル適合アプローチ</title>
     <link>https://osf.io/u82jq</link>
     <guid isPermaLink="false">https://osf.io/u82jq#ja</guid>
     <pubDate>Tue, 11 Aug 2026 20:05:35 +0000</pubDate>
@@ -216,7 +223,7 @@
     <description>A Phenomenological Study of Adult Children’s Lived Experiences with Narcissistic Parents</description>
   </item>
   <item>
-    <title>文脈効果はどこにあるのか？アトラクション効果、類似効果、妥協効果のメタ分析</title>
+    <title>文脈効果はどこにあるのか？魅力効果、類似効果、妥協効果のメタ分析</title>
     <link>https://osf.io/v6y7e</link>
     <guid isPermaLink="false">https://osf.io/v6y7e#ja</guid>
     <pubDate>Mon, 10 Aug 2026 22:58:09 +0000</pubDate>
@@ -237,14 +244,14 @@
     <description>Children&#x27;s Play and Independent Mobility in 2025: Results from the British Children&#x27;s Play Survey.</description>
   </item>
   <item>
-    <title>認知三要素と抑うつの疑わしい前向き効果：再メタ分析および黄ら（2026）へのコメント</title>
+    <title>認知三要素と抑うつの疑わしい前向き効果：再メタ分析およびHuangら（2026）へのコメント</title>
     <link>https://osf.io/td4g7</link>
     <guid isPermaLink="false">https://osf.io/td4g7#ja</guid>
     <pubDate>Mon, 10 Aug 2026 22:17:10 +0000</pubDate>
     <description>Questionable prospective effects between cognitive triad and depression: A re-meta-analysis and comment on Huang et al. (2026)</description>
   </item>
   <item>
-    <title>動機が鍵：報酬感受性と罰感受性が抑制行動およびダイエット成功に及ぼす影響における健康および体重管理動機の媒介効果</title>
+    <title>動機が鍵であり戦略ではない：報酬感受性と罰感受性が抑制行動およびダイエット成功に及ぼす影響における健康および体重管理動機の媒介効果</title>
     <link>https://osf.io/zjwka</link>
     <guid isPermaLink="false">https://osf.io/zjwka#ja</guid>
     <pubDate>Mon, 10 Aug 2026 22:17:10 +0000</pubDate>
@@ -265,7 +272,7 @@
     <description>Mothers’ objectively measured smartphone use around their infant and longitudinal change in markers of socioemotional development during early infancy</description>
   </item>
   <item>
-    <title>人文科学における研究者の再現可能性予測</title>
+    <title>人文科学における研究者の再現性予測能力</title>
     <link>https://osf.io/dyxrk</link>
     <guid isPermaLink="false">https://osf.io/dyxrk#ja</guid>
     <pubDate>Mon, 10 Aug 2026 22:17:09 +0000</pubDate>
@@ -279,7 +286,7 @@
     <description>A No-Go Theorem for Process Theories of Consciousness</description>
   </item>
   <item>
-    <title>大学生サンプルにおける不適応心理過程と夜空愛好症の関連：追跡調査研究</title>
+    <title>大学生サンプルにおける不適応心理過程と夜空愛好者の関連性：追跡調査研究</title>
     <link>https://osf.io/tp87a</link>
     <guid isPermaLink="false">https://osf.io/tp87a#ja</guid>
     <pubDate>Mon, 10 Aug 2026 22:17:08 +0000</pubDate>
@@ -300,14 +307,14 @@
     <description>The Learner&#x27;s Appraisal: What Are Students Thinking About When Their Mind Wanders?</description>
   </item>
   <item>
-    <title>社会的状況における視線の方向決定に関与する軌道前頭-前側頭ネットワークと注意ネットワークの補完的役割</title>
+    <title>社会的状況における注視対象の選択において注意ネットワークを補完する眼窩前頭－前側頭ネットワーク</title>
     <link>https://osf.io/vyt97</link>
     <guid isPermaLink="false">https://osf.io/vyt97#ja</guid>
     <pubDate>Mon, 10 Aug 2026 21:37:48 +0000</pubDate>
     <description>The orbitofrontal-anterior temporal network complements the attention network for where to look in social situations</description>
   </item>
   <item>
-    <title>参加型選択設計：デジタル環境の共創における三つのメカニズム</title>
+    <title>参加型選択アーキテクチャ：デジタル環境の共同設計における三つのメカニズム</title>
     <link>https://osf.io/5nh4d</link>
     <guid isPermaLink="false">https://osf.io/5nh4d#ja</guid>
     <pubDate>Mon, 10 Aug 2026 21:37:48 +0000</pubDate>
@@ -321,21 +328,21 @@
     <description>The Role of Community Pharmacists in Identifying and Managing Insomnia and Facilitating Access to Cognitive Behavioural Therapy for Insomnia (CBT-I) – a Systematic Review</description>
   </item>
   <item>
-    <title>日常的認知失敗と全般的自己評価の関係におけるポジティブ感情の調整効果：事前登録横断研究</title>
+    <title>日常的認知失敗と全般的自己肯定感の関係におけるポジティブ感情の調整効果：事前登録済み横断研究</title>
     <link>https://osf.io/n5g7f</link>
     <guid isPermaLink="false">https://osf.io/n5g7f#ja</guid>
     <pubDate>Mon, 10 Aug 2026 21:37:48 +0000</pubDate>
     <description>Positive Affect as a Moderator of the Relationship Between Everyday Cognitive Failures and Global Self-Esteem: A Pre-Registered Cross-Sectional Study</description>
   </item>
   <item>
-    <title>知識欲を超えて：学校好奇心尺度の開発と検証</title>
+    <title>知りたい欲求を超えて：学校好奇心尺度の開発と検証</title>
     <link>https://osf.io/8b3ks</link>
     <guid isPermaLink="false">https://osf.io/8b3ks#ja</guid>
     <pubDate>Mon, 10 Aug 2026 21:37:47 +0000</pubDate>
     <description>Beyond the desire to know: Development and validation of the School Curiosity Inventory</description>
   </item>
   <item>
-    <title>シンガポールにおける単回同期型チャットベース青少年メンタルヘルス支援のプログラム理論構築：支援者が用いる行動変容技法とその成果との関連</title>
+    <title>シンガポールにおける単回セッション同期型チャットベース青少年メンタルヘルス支援のプログラム理論構築：支援者が用いる行動変容技法とその成果との関連性</title>
     <link>https://osf.io/v6ta4</link>
     <guid isPermaLink="false">https://osf.io/v6ta4#ja</guid>
     <pubDate>Mon, 10 Aug 2026 21:37:47 +0000</pubDate>
@@ -347,13 +354,6 @@
     <guid isPermaLink="false">https://osf.io/wbgnr#ja</guid>
     <pubDate>Mon, 10 Aug 2026 21:37:47 +0000</pubDate>
     <description>Self-Regulatory Strategy Use in Exam Preparation: Reflection and Automaticity Shape Successful Self-Regulation</description>
-  </item>
-  <item>
-    <title>神経技術における感情認識の明確化：科学的および技術的現実の検証</title>
-    <link>https://osf.io/8x7gv</link>
-    <guid isPermaLink="false">https://osf.io/8x7gv#ja</guid>
-    <pubDate>Mon, 10 Aug 2026 21:37:46 +0000</pubDate>
-    <description>Clarifying emotion recognition in neurotechnology: A scientific and technical reality check</description>
   </item>
 </channel>
 </rss>
