@@ -6,21 +6,21 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>継続的心理療法症例検討のための枠組み</title>
+    <title>継続的心理療法ケースレビューのための枠組み</title>
     <link>https://osf.io/7wdcu</link>
     <guid isPermaLink="false">https://osf.io/7wdcu#ja</guid>
     <pubDate>Sun, 16 Aug 2026 18:20:56 +0000</pubDate>
     <description>A Framework for Ongoing Psychotherapy Case Review</description>
   </item>
   <item>
-    <title>行間を読む力：ラテラルリーディング訓練が情報識別力、分析的思考、および説得知識を促進する</title>
+    <title>行間を読む力：横断的読解訓練が情報識別力、分析的思考、および説得知識を促進する</title>
     <link>https://osf.io/sgzn6</link>
     <guid isPermaLink="false">https://osf.io/sgzn6#ja</guid>
     <pubDate>Sun, 16 Aug 2026 17:56:57 +0000</pubDate>
     <description>Read Between the Li(n)es: Lateral Reading Training Promotes Information Discernment, Analytic Thinking, and Persuasion Knowledge</description>
   </item>
   <item>
-    <title>身体はいつ世界をバイアスするのか？具現化された空間知覚のベイズ因果推論モデル</title>
+    <title>身体はいつ世界をバイアスするのか？身体化された空間知覚のベイズ因果推論モデル</title>
     <link>https://osf.io/5vrx6</link>
     <guid isPermaLink="false">https://osf.io/5vrx6#ja</guid>
     <pubDate>Sun, 16 Aug 2026 16:43:08 +0000</pubDate>
@@ -41,7 +41,7 @@
     <description>Music behind bars: Observing musical abilities of people in prison improves social attitudes towards them</description>
   </item>
   <item>
-    <title>ロジット選択とプロビット選択をつなぐ生成的架け橋としてのポアソンカウントレースモデル</title>
+    <title>ロジット選択とプロビット選択を結ぶ生成的架け橋としてのポアソンカウントレースモデル</title>
     <link>https://osf.io/r36vs</link>
     <guid isPermaLink="false">https://osf.io/r36vs#ja</guid>
     <pubDate>Fri, 14 Aug 2026 22:25:28 +0000</pubDate>
@@ -76,7 +76,7 @@
     <description>From sessions to ecosystems: real-world phenotyping of cognition, affect, and behavior</description>
   </item>
   <item>
-    <title>成人のピアおよび職場におけるレイプ・アサルト尺度の開発：修正デルファイ法による検討</title>
+    <title>成人の対人関係攻撃性尺度の開発：修正版デルファイ法の適用</title>
     <link>https://osf.io/7ytnq</link>
     <guid isPermaLink="false">https://osf.io/7ytnq#ja</guid>
     <pubDate>Fri, 14 Aug 2026 21:59:34 +0000</pubDate>
@@ -90,42 +90,42 @@
     <description>Cold climate predicts the childhood socialization of emotional restraint across pre-industrial societies</description>
   </item>
   <item>
-    <title>青年期における個別症状ネットワークから協働的ケース概念化へ：若者の意見を反映した混合方法による概念実証研究</title>
+    <title>青年期における個別症状ネットワークから共同ケース概念化へ：青年の視点を取り入れた混合方法による概念実証研究</title>
     <link>https://osf.io/9qjpr</link>
     <guid isPermaLink="false">https://osf.io/9qjpr#ja</guid>
     <pubDate>Fri, 14 Aug 2026 20:52:30 +0000</pubDate>
     <description>From Person-Specific Symptom Networks to Collaborative Case Conceptualization in Adolescents: A Youth-Informed Mixed-Methods Proof-of-Concept Study</description>
   </item>
   <item>
-    <title>分散分析における平方和の種類の教授法：I型、II型、III型は本当に簡単か？調査とShinyアプリの開発</title>
+    <title>分散分析における平方和の種類の教授法：タイプI、II、IIIは本当に簡単か？調査とShinyアプリの開発</title>
     <link>https://osf.io/z29b4</link>
     <guid isPermaLink="false">https://osf.io/z29b4#ja</guid>
     <pubDate>Fri, 14 Aug 2026 20:21:52 +0000</pubDate>
     <description>Teaching Types of Sums of Squares in ANOVA: As Easy as I, II, III? A Survey and Shiny App</description>
   </item>
   <item>
-    <title>自我消失か自己拡張か？サイケデリックな自己体験の関係的再構築</title>
+    <title>自我消失か自己拡張か？サイケデリック体験における自己経験の関係的再構築</title>
     <link>https://osf.io/u7wkj</link>
     <guid isPermaLink="false">https://osf.io/u7wkj#ja</guid>
     <pubDate>Fri, 14 Aug 2026 19:08:41 +0000</pubDate>
     <description>Ego Dissolution or Self-Expansion? A Relational Reframing of Psychedelic Self-Experience</description>
   </item>
   <item>
-    <title>オンラインアイデンティティ隠蔽の多様性：手法、動機、および違法活動との関連性</title>
+    <title>オンラインアイデンティティの曖昧化における異質性：手法、動機、および違法行為との関連性</title>
     <link>https://osf.io/jbtsw</link>
     <guid isPermaLink="false">https://osf.io/jbtsw#ja</guid>
     <pubDate>Fri, 14 Aug 2026 17:12:11 +0000</pubDate>
     <description>Heterogeneity in online identity obfuscation: techniques, motivations, and links to illicit activities</description>
   </item>
   <item>
-    <title>個人レベルにおける暗号通貨採用：体系的レビューと統合的枠組み</title>
+    <title>個人レベルにおける暗号通貨採用の体系的レビューと統合的枠組み</title>
     <link>https://osf.io/3nuwa</link>
     <guid isPermaLink="false">https://osf.io/3nuwa#ja</guid>
     <pubDate>Wed, 12 Aug 2026 19:38:12 +0000</pubDate>
     <description>Individual-Level Cryptocurrency Adoption: Systematic Review and Integrative Framework</description>
   </item>
   <item>
-    <title>音声認知能力尺度（VOCAS）－非言語的音声情報処理の自己評価尺度</title>
+    <title>音声認知能力尺度（VOCAS）－非言語的音声情報処理の自己評価尺度の開発と検証</title>
     <link>https://osf.io/cqfvr</link>
     <guid isPermaLink="false">https://osf.io/cqfvr#ja</guid>
     <pubDate>Wed, 12 Aug 2026 19:38:11 +0000</pubDate>
@@ -153,7 +153,7 @@
     <description>openVIMO: A Platform for Videoconferencing and Live Participant Management in Large-scale Online Experiments</description>
   </item>
   <item>
-    <title>スマートフォンおよびソーシャルメディア利用が思春期の精神健康とウェルビーイングに及ぼす影響メカニズム：思春期青年、教員、保護者の視点からの質的研究</title>
+    <title>スマートフォンおよびソーシャルメディア利用が思春期の精神健康とウェルビーイングに及ぼす影響メカニズム：思春期青年、教師、保護者の視点からの質的研究</title>
     <link>https://osf.io/g4afu</link>
     <guid isPermaLink="false">https://osf.io/g4afu#ja</guid>
     <pubDate>Tue, 11 Aug 2026 23:55:49 +0000</pubDate>
@@ -167,7 +167,7 @@
     <description>Prospective associations between sibling psychopathology in adolescence and their link to functional brain connectivity</description>
   </item>
   <item>
-    <title>人間の社会的判断のモデル化における対人知覚と人工知能</title>
+    <title>人物知覚と人工知能：人間の社会的判断のモデル化</title>
     <link>https://osf.io/gdt46</link>
     <guid isPermaLink="false">https://osf.io/gdt46#ja</guid>
     <pubDate>Tue, 11 Aug 2026 23:09:22 +0000</pubDate>
@@ -230,7 +230,7 @@
     <description>Now we see the violence inherent in the tinkering</description>
   </item>
   <item>
-    <title>自己愛性親を持つ成人子どもの生きた経験に関する現象学的研究</title>
+    <title>自己愛的な親を持つ成人子女の生きた経験に関する現象学的研究</title>
     <link>https://osf.io/pjma6</link>
     <guid isPermaLink="false">https://osf.io/pjma6#ja</guid>
     <pubDate>Mon, 10 Aug 2026 22:58:10 +0000</pubDate>
@@ -251,21 +251,21 @@
     <description>Ethical considerations for integrating social determinants in brain health research:  A cultural-ecosocial approach</description>
   </item>
   <item>
-    <title>2025年における子どもの遊びと自律的移動：英国子どもの遊び調査の結果</title>
+    <title>2025年における子どもの遊びと自律的移動性：英国子どもの遊び調査の結果</title>
     <link>https://osf.io/36ptm</link>
     <guid isPermaLink="false">https://osf.io/36ptm#ja</guid>
     <pubDate>Mon, 10 Aug 2026 22:17:10 +0000</pubDate>
     <description>Children&#x27;s Play and Independent Mobility in 2025: Results from the British Children&#x27;s Play Survey.</description>
   </item>
   <item>
-    <title>認知三要素と抑うつの疑わしい前向き効果：再メタ分析およびHuangら（2026）へのコメント</title>
+    <title>認知三要素と抑うつの間の疑わしい予測的効果：再メタ分析および黄ら（2026）へのコメント</title>
     <link>https://osf.io/td4g7</link>
     <guid isPermaLink="false">https://osf.io/td4g7#ja</guid>
     <pubDate>Mon, 10 Aug 2026 22:17:10 +0000</pubDate>
     <description>Questionable prospective effects between cognitive triad and depression: A re-meta-analysis and comment on Huang et al. (2026)</description>
   </item>
   <item>
-    <title>動機が鍵：報酬感受性と罰感受性が抑制行動およびダイエット成功に与える影響における健康および体重管理動機の媒介効果</title>
+    <title>動機が鍵：報酬・罰感受性が抑制行動とダイエット成功に及ぼす影響における健康および体重管理動機の媒介効果</title>
     <link>https://osf.io/zjwka</link>
     <guid isPermaLink="false">https://osf.io/zjwka#ja</guid>
     <pubDate>Mon, 10 Aug 2026 22:17:10 +0000</pubDate>
@@ -279,7 +279,7 @@
     <description>What&#x27;s in a Name? A Latent Variable Analysis of Positive and Negative Affect</description>
   </item>
   <item>
-    <title>乳児期初期における母親の客観的に測定されたスマートフォン使用と社会情動発達指標の縦断的変化</title>
+    <title>乳児期初期における母親の客観的スマートフォン使用と社会情動発達指標の縦断的変化</title>
     <link>https://osf.io/d4h32</link>
     <guid isPermaLink="false">https://osf.io/d4h32#ja</guid>
     <pubDate>Mon, 10 Aug 2026 22:17:09 +0000</pubDate>
@@ -293,14 +293,14 @@
     <description>Researchers’ Predicting Replicability in the Human Sciences</description>
   </item>
   <item>
-    <title>意識のプロセス理論に関するノーゴー定理</title>
+    <title>意識の過程理論に関するノーゴー定理</title>
     <link>https://osf.io/w3n6v</link>
     <guid isPermaLink="false">https://osf.io/w3n6v#ja</guid>
     <pubDate>Mon, 10 Aug 2026 22:17:08 +0000</pubDate>
     <description>A No-Go Theorem for Process Theories of Consciousness</description>
   </item>
   <item>
-    <title>大学生サンプルにおける不適応心理過程と夜空愛好症の関連：追跡調査研究</title>
+    <title>大学生サンプルにおける不適応心理過程と夜空愛好症の関連性：追跡調査研究</title>
     <link>https://osf.io/tp87a</link>
     <guid isPermaLink="false">https://osf.io/tp87a#ja</guid>
     <pubDate>Mon, 10 Aug 2026 22:17:08 +0000</pubDate>
@@ -314,21 +314,21 @@
     <description>Technical Report: Development and Validation of Stimulus Texts Representing Attitudes Toward Migration in Germany</description>
   </item>
   <item>
-    <title>学習者の評価：注意が逸れるとき学生は何を考えているのか？</title>
+    <title>学習者の評価：注意が逸れる際に学生は何を考えているのか？</title>
     <link>https://osf.io/7dr9y</link>
     <guid isPermaLink="false">https://osf.io/7dr9y#ja</guid>
     <pubDate>Mon, 10 Aug 2026 21:37:49 +0000</pubDate>
     <description>The Learner&#x27;s Appraisal: What Are Students Thinking About When Their Mind Wanders?</description>
   </item>
   <item>
-    <title>社会的状況における注視対象決定において注意ネットワークを補完する眼窩前頭-前側頭ネットワーク</title>
+    <title>社会的状況における注視対象決定において注意ネットワークを補完する眼窩前頭－前側頭ネットワーク</title>
     <link>https://osf.io/vyt97</link>
     <guid isPermaLink="false">https://osf.io/vyt97#ja</guid>
     <pubDate>Mon, 10 Aug 2026 21:37:48 +0000</pubDate>
     <description>The orbitofrontal-anterior temporal network complements the attention network for where to look in social situations</description>
   </item>
   <item>
-    <title>参加型選択アーキテクチャ：デジタル環境の共設計における三つのメカニズム</title>
+    <title>参加型選択アーキテクチャ：デジタル環境の共創における三つのメカニズム</title>
     <link>https://osf.io/5nh4d</link>
     <guid isPermaLink="false">https://osf.io/5nh4d#ja</guid>
     <pubDate>Mon, 10 Aug 2026 21:37:48 +0000</pubDate>
@@ -342,7 +342,7 @@
     <description>The Role of Community Pharmacists in Identifying and Managing Insomnia and Facilitating Access to Cognitive Behavioural Therapy for Insomnia (CBT-I) – a Systematic Review</description>
   </item>
   <item>
-    <title>日常的認知失敗と全般的自己評価の関係におけるポジティブ感情の調整効果：事前登録済み横断研究</title>
+    <title>日常的認知失敗と全般的自己肯定感の関係におけるポジティブ感情の調整効果：事前登録済み横断研究</title>
     <link>https://osf.io/n5g7f</link>
     <guid isPermaLink="false">https://osf.io/n5g7f#ja</guid>
     <pubDate>Mon, 10 Aug 2026 21:37:48 +0000</pubDate>
