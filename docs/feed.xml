@@ -6,6 +6,20 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>乳児の音声処理における個人差：言語獲得理論への示唆</title>
+    <link>https://osf.io/qzjx7</link>
+    <guid isPermaLink="false">https://osf.io/qzjx7#ja</guid>
+    <pubDate>Tue, 18 Aug 2026 22:12:37 +0000</pubDate>
+    <description>INDIVIDUAL VARIATION IN INFANT SPEECH PROCESSING: IMPLICATIONS FOR LANGUAGE ACQUISITION THEORIES</description>
+  </item>
+  <item>
+    <title>精神健康における理論指導型パッシブセンシング：予測前の解釈可能な指標</title>
+    <link>https://osf.io/n8vjc</link>
+    <guid isPermaLink="false">https://osf.io/n8vjc#ja</guid>
+    <pubDate>Tue, 18 Aug 2026 22:12:37 +0000</pubDate>
+    <description>Theory-guided passive sensing in mental health: interpretable indices before prediction</description>
+  </item>
+  <item>
     <title>顔認識能力の測定：パフォーマンスの極端な個人の特定</title>
     <link>https://osf.io/9adb8</link>
     <guid isPermaLink="false">https://osf.io/9adb8#ja</guid>
@@ -34,7 +48,7 @@
     <description>The Mood-Attention Feedback Loop: Bidirectional Effects of Affect and Mind Wandering</description>
   </item>
   <item>
-    <title>宣言的作業記憶と手続き的作業記憶の解明：感覚運動領域の脳波活動が未知および既知の潜在的行動を識別する</title>
+    <title>宣言的作業記憶と手続き的作業記憶の解明：感覚運動系脳波活動が未知および既知の潜在的行動を識別する</title>
     <link>https://osf.io/n9gqf</link>
     <guid isPermaLink="false">https://osf.io/n9gqf#ja</guid>
     <pubDate>Tue, 18 Aug 2026 19:46:12 +0000</pubDate>
@@ -55,21 +69,21 @@
     <description>Sharing Good Times and Recovering from Difficult Moments: Development and Validation of the Parenting Joy Scale</description>
   </item>
   <item>
-    <title>流暢な発話の代償：サブレキシカルボトルネックがもたらす不完全な言語産出</title>
+    <title>流暢に話すことの代償：サブレキシカルボトルネックがもたらす不完全な発話</title>
     <link>https://osf.io/8da26</link>
     <guid isPermaLink="false">https://osf.io/8da26#ja</guid>
     <pubDate>Tue, 18 Aug 2026 16:10:45 +0000</pubDate>
     <description>The Price of Speaking Fluently: How the Sublexical Bottleneck Makes Speech Far from Perfect</description>
   </item>
   <item>
-    <title>がん患者における数字スパン検査成績のモデル化：作業記憶容量、注意力および実行機能の検討</title>
+    <title>がん患者における数字スパン課題の遂行モデル：作業記憶容量、注意力および実行機能の検討</title>
     <link>https://osf.io/t4kgu</link>
     <guid isPermaLink="false">https://osf.io/t4kgu#ja</guid>
     <pubDate>Tue, 18 Aug 2026 16:10:45 +0000</pubDate>
     <description>Modeling Digit Span Test Performance in Cancer Patients: Working Memory Capacity, Attention &amp;amp; Executive Function</description>
   </item>
   <item>
-    <title>項目反応理論を用いた目撃者の認識記憶と識別精度の関連性分析</title>
+    <title>項目反応理論を用いた目撃者の認識記憶と識別精度の関連性検討</title>
     <link>https://osf.io/pn5cr</link>
     <guid isPermaLink="false">https://osf.io/pn5cr#ja</guid>
     <pubDate>Tue, 18 Aug 2026 16:10:45 +0000</pubDate>
@@ -83,14 +97,14 @@
     <description>Envisioning the Future of Social Robots in Education: Perceptions, Applications, and AI Literacy for the Public Good</description>
   </item>
   <item>
-    <title>どこから生じるのか？非流暢性の発生メカニズムに関する検討</title>
+    <title>言語流暢性障害の起源：メカニズム的説明に向けて</title>
     <link>https://osf.io/gj3e2</link>
     <guid isPermaLink="false">https://osf.io/gj3e2#ja</guid>
     <pubDate>Tue, 18 Aug 2026 11:55:24 +0000</pubDate>
     <description>Where do disfluencies come from? Towards a mechanistic account</description>
   </item>
   <item>
-    <title>乳児の語彙的強勢選好の計算モデル：英語におけるトロカイックバイアスはチャンク学習の創発的特性か？</title>
+    <title>乳児の語彙的強勢選好の計算モデル：英語におけるトロカイックバイアスはチャンク学習の創発的特性か</title>
     <link>https://osf.io/jwtn9</link>
     <guid isPermaLink="false">https://osf.io/jwtn9#ja</guid>
     <pubDate>Tue, 18 Aug 2026 11:35:45 +0000</pubDate>
@@ -118,7 +132,7 @@
     <description>Expecting temporal stability reconciles the serial dependence paradox</description>
   </item>
   <item>
-    <title>言語的皮肉を超えて：幼児を持つ中国語話者家庭における非文字的評価的態度の相互作用</title>
+    <title>言語的皮肉を超えて：幼児を持つ中国語話者家庭の相互作用における非文字的評価的態度</title>
     <link>https://osf.io/7vjdr</link>
     <guid isPermaLink="false">https://osf.io/7vjdr#ja</guid>
     <pubDate>Tue, 18 Aug 2026 08:00:15 +0000</pubDate>
@@ -146,7 +160,7 @@
     <description>When Does Strict Parenting Hurt? Cultural Meaning and Immigration Generation in Chinese-Canadian Families</description>
   </item>
   <item>
-    <title>知覚された教師の支援、自我消耗、および発達危機に関する疑問のある縦断的効果：Mengら（2026年）の再分析と考察</title>
+    <title>知覚された教師の支援、自我消耗、発達的危機に関する疑問のある縦断的効果：Mengら（2026年）の再分析と考察</title>
     <link>https://osf.io/sv8bn</link>
     <guid isPermaLink="false">https://osf.io/sv8bn#ja</guid>
     <pubDate>Mon, 17 Aug 2026 21:46:50 +0000</pubDate>
@@ -188,7 +202,7 @@
     <description>This Is Not the ex-Gaussian Model You Are Looking For: On the Default Parameterization of Bayesian ex-Gaussian Models in brms</description>
   </item>
   <item>
-    <title>意識における数感の内在的説明：𝛷構造における区別の結合パターンを通じた数感の現象的感覚の解明</title>
+    <title>意識における数の内在的説明：𝛷構造における区別の結合パターンを通じた数の現象的感覚の解明</title>
     <link>https://osf.io/q543k</link>
     <guid isPermaLink="false">https://osf.io/q543k#ja</guid>
     <pubDate>Mon, 17 Aug 2026 17:46:03 +0000</pubDate>
@@ -223,14 +237,14 @@
     <description>Operational Closure, Predictive Coding, and Psychosis: An Evolutionary Framework for Delusion, Hallucination, and Social Cognition</description>
   </item>
   <item>
-    <title>現在の精神的健康問題の有無にかかわらず、職場における一時的な仕事のパフォーマンスと関連する一貫性の感覚およびジョブクラフティングの関係性</title>
+    <title>現在の精神健康問題の有無にかかわらず、職場における一時的な職務遂行と関連する一貫性の感覚およびジョブクラフティングの関係性</title>
     <link>https://osf.io/9twnf</link>
     <guid isPermaLink="false">https://osf.io/9twnf#ja</guid>
     <pubDate>Mon, 17 Aug 2026 13:48:30 +0000</pubDate>
     <description>How Sense of Coherence and Job Crafting Are Associated with Momentary Job Performance Among Employees With and Without Current Mental Health Issues</description>
   </item>
   <item>
-    <title>符号化後の覚醒休息はいつどのように記憶に利益をもたらすか？体系的レビューとメタアナリシス</title>
+    <title>符号化後の覚醒休息はいつどのように記憶に有益か？体系的レビューとメタアナリシス</title>
     <link>https://osf.io/8q3br</link>
     <guid isPermaLink="false">https://osf.io/8q3br#ja</guid>
     <pubDate>Mon, 17 Aug 2026 13:48:30 +0000</pubDate>
@@ -258,7 +272,7 @@
     <description>Read Between the Li(n)es: Lateral Reading Training Promotes Information Discernment, Analytic Thinking, and Persuasion Knowledge</description>
   </item>
   <item>
-    <title>身体はいつ世界にバイアスをかけるのか？身体化された空間知覚のベイズ因果推論モデル</title>
+    <title>身体はいつ世界にバイアスをかけるのか？具現化された空間知覚のベイズ因果推論モデル</title>
     <link>https://osf.io/5vrx6</link>
     <guid isPermaLink="false">https://osf.io/5vrx6#ja</guid>
     <pubDate>Sun, 16 Aug 2026 16:43:08 +0000</pubDate>
@@ -286,21 +300,21 @@
     <description>A Poisson Count Race as a Generative Bridge Between Logit and Probit Choice</description>
   </item>
   <item>
-    <title>言語は心的モデルの伝達を通じて累積的文化的向上を可能にする</title>
+    <title>言語は心的モデルの伝達を通じて累積的文化向上を可能にする</title>
     <link>https://osf.io/6u32q</link>
     <guid isPermaLink="false">https://osf.io/6u32q#ja</guid>
     <pubDate>Fri, 14 Aug 2026 22:25:28 +0000</pubDate>
     <description>Language enables cumulative cultural improvement by transmitting mental models</description>
   </item>
   <item>
-    <title>目撃された自己：自己概念・感情・是正行動の結びつきと調整に関する理論</title>
+    <title>目撃された自己：自己概念・感情・修正行動に関する連結と調整の理論</title>
     <link>https://osf.io/wd6pr</link>
     <guid isPermaLink="false">https://osf.io/wd6pr#ja</guid>
     <pubDate>Fri, 14 Aug 2026 22:25:27 +0000</pubDate>
     <description>The Witnessed Self: A tethering-and-regulation theory of self-concept, emotion, and corrective action</description>
   </item>
   <item>
-    <title>問題的なソーシャルメディア使用と抑うつ症状：米国成人における行動的および経験的特性のネットワーク分析</title>
+    <title>問題的なソーシャルメディア使用と抑うつ症状：米国成人における行動的および経験的特徴のネットワーク分析</title>
     <link>https://osf.io/hme7a</link>
     <guid isPermaLink="false">https://osf.io/hme7a#ja</guid>
     <pubDate>Fri, 14 Aug 2026 22:25:27 +0000</pubDate>
@@ -314,46 +328,32 @@
     <description>From sessions to ecosystems: real-world phenotyping of cognition, affect, and behavior</description>
   </item>
   <item>
-    <title>成人の対人関係攻撃性尺度の開発：修正版デルファイ法による検討</title>
+    <title>成人のピアおよび職場におけるレイシャル・アグレッション尺度の開発：修正版デルファイ法の適用</title>
     <link>https://osf.io/7ytnq</link>
     <guid isPermaLink="false">https://osf.io/7ytnq#ja</guid>
     <pubDate>Fri, 14 Aug 2026 21:59:34 +0000</pubDate>
     <description>Peer and Workplace RA among Adults Scale development: A Modified Delphi Approach</description>
   </item>
   <item>
-    <title>寒冷気候が前産業社会における子どもの感情抑制の社会化を予測する</title>
+    <title>寒冷気候は前産業社会における子どもの感情抑制の社会化を予測する</title>
     <link>https://osf.io/euy42</link>
     <guid isPermaLink="false">https://osf.io/euy42#ja</guid>
     <pubDate>Fri, 14 Aug 2026 20:52:31 +0000</pubDate>
     <description>Cold climate predicts the childhood socialization of emotional restraint across pre-industrial societies</description>
   </item>
   <item>
-    <title>青年期における個別症状ネットワークから協働的症例概念化へ：若者の視点を取り入れた混合法的概念実証研究</title>
+    <title>青年期における個別症状ネットワークから協働的ケース概念化へ：若者の意見を反映した混合方法パイロット研究</title>
     <link>https://osf.io/9qjpr</link>
     <guid isPermaLink="false">https://osf.io/9qjpr#ja</guid>
     <pubDate>Fri, 14 Aug 2026 20:52:30 +0000</pubDate>
     <description>From Person-Specific Symptom Networks to Collaborative Case Conceptualization in Adolescents: A Youth-Informed Mixed-Methods Proof-of-Concept Study</description>
   </item>
   <item>
-    <title>分散分析における平方和の種類の教授法：タイプI、II、IIIは本当に簡単か？調査とShinyアプリの開発</title>
+    <title>分散分析における平方和の種類の教授法：I型、II型、III型は本当に簡単か？調査とShinyアプリの開発</title>
     <link>https://osf.io/z29b4</link>
     <guid isPermaLink="false">https://osf.io/z29b4#ja</guid>
     <pubDate>Fri, 14 Aug 2026 20:21:52 +0000</pubDate>
     <description>Teaching Types of Sums of Squares in ANOVA: As Easy as I, II, III? A Survey and Shiny App</description>
-  </item>
-  <item>
-    <title>自我消失か自己拡張か？サイケデリック体験における自己経験の関係的再構築</title>
-    <link>https://osf.io/u7wkj</link>
-    <guid isPermaLink="false">https://osf.io/u7wkj#ja</guid>
-    <pubDate>Fri, 14 Aug 2026 19:08:41 +0000</pubDate>
-    <description>Ego Dissolution or Self-Expansion? A Relational Reframing of Psychedelic Self-Experience</description>
-  </item>
-  <item>
-    <title>オンラインアイデンティティの曖昧化における異質性：手法、動機、および違法活動との関連性</title>
-    <link>https://osf.io/jbtsw</link>
-    <guid isPermaLink="false">https://osf.io/jbtsw#ja</guid>
-    <pubDate>Fri, 14 Aug 2026 17:12:11 +0000</pubDate>
-    <description>Heterogeneity in online identity obfuscation: techniques, motivations, and links to illicit activities</description>
   </item>
 </channel>
 </rss>
