@@ -6,7 +6,21 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>成人における長期抗うつ薬使用とその結果：系統的レビュー</title>
+    <title>診断分類モデルにおける変分ベイズ推論のブートストラップ信頼区間</title>
+    <link>https://osf.io/x5pa4</link>
+    <guid isPermaLink="false">https://osf.io/x5pa4#ja</guid>
+    <pubDate>Wed, 19 Aug 2026 07:40:43 +0000</pubDate>
+    <description>Bootstrap Confidence Intervals for Variational Bayesian Inference in Diagnostic Classification Models</description>
+  </item>
+  <item>
+    <title>八つのモードによるAI関与類型：認知的特徴の差異と自己報告と行動のギャップ</title>
+    <link>https://osf.io/53pwv</link>
+    <guid isPermaLink="false">https://osf.io/53pwv#ja</guid>
+    <pubDate>Wed, 19 Aug 2026 07:40:43 +0000</pubDate>
+    <description>The Eight-Mode AI Engagement Typology: Differential Cognitive Signatures and a Self-Report–Behavior Gap</description>
+  </item>
+  <item>
+    <title>成人における抗うつ薬の長期使用とその結果：系統的レビュー</title>
     <link>https://osf.io/s4ej8</link>
     <guid isPermaLink="false">https://osf.io/s4ej8#ja</guid>
     <pubDate>Tue, 18 Aug 2026 22:42:27 +0000</pubDate>
@@ -20,14 +34,14 @@
     <description>Keep It in Sight: Reward Function Compression Through Goal Visibility</description>
   </item>
   <item>
-    <title>短縮版一般的人工知能態度尺度（Short GAAIS-10）の日本語版の翻訳と検証：GAAIS-10-J</title>
+    <title>短縮版一般的人工知能に対する態度尺度（Short GAAIS-10）の日本語版の翻訳と検証：GAAIS-10-J</title>
     <link>https://osf.io/fjdn6</link>
     <guid isPermaLink="false">https://osf.io/fjdn6#ja</guid>
     <pubDate>Tue, 18 Aug 2026 22:42:26 +0000</pubDate>
     <description>Translation and Validation of a Japanese Version of the Short General Attitudes Towards Artificial Intelligence Scale (Short GAAIS-10): The GAAIS-10-J</description>
   </item>
   <item>
-    <title>小規模かつ脆弱な効果：Dwyerら（2007）の食品と身体イメージの評価条件付けに関する4つの概念的再現実験と刺激割り当て選択の影響</title>
+    <title>小規模かつ脆弱な効果：Dwyerら（2007）の身体イメージを用いた食品の評価条件付けに関する4つの概念的再現実験と刺激割当選択の影響</title>
     <link>https://osf.io/4wjch</link>
     <guid isPermaLink="false">https://osf.io/4wjch#ja</guid>
     <pubDate>Tue, 18 Aug 2026 22:42:26 +0000</pubDate>
@@ -83,14 +97,14 @@
     <description>Disentangling declarative and procedural working memory: Sensorimotor electroencephalography activity distinguishes unknown and known potential actions</description>
   </item>
   <item>
-    <title>青への挑戦：家庭におけるトイレの水洗回数削減による節水を目的としたWizso™ペレットの受容性に関する質的研究</title>
+    <title>ブルーへ：家庭におけるトイレの水洗回数削減による節水を目的としたWizso™ペレットの受容性に関する質的研究</title>
     <link>https://osf.io/yr8w5</link>
     <guid isPermaLink="false">https://osf.io/yr8w5#ja</guid>
     <pubDate>Tue, 18 Aug 2026 18:03:05 +0000</pubDate>
     <description>Into the blue: A qualitative study of the acceptability of Wizso™ pellets for saving water by reducing toilet-flushing at home</description>
   </item>
   <item>
-    <title>良い時を共有し困難な瞬間から回復する：育児喜び尺度の開発と検証</title>
+    <title>良い時を共有し困難な時を乗り越える：育児喜び尺度の開発と検証</title>
     <link>https://osf.io/uzqg2</link>
     <guid isPermaLink="false">https://osf.io/uzqg2#ja</guid>
     <pubDate>Tue, 18 Aug 2026 16:10:46 +0000</pubDate>
@@ -125,7 +139,7 @@
     <description>Envisioning the Future of Social Robots in Education: Perceptions, Applications, and AI Literacy for the Public Good</description>
   </item>
   <item>
-    <title>どこから生じるのか？非流暢性の機序的解明に向けて</title>
+    <title>言語流暢性の乱れはどこから生じるのか？メカニズム的説明に向けて</title>
     <link>https://osf.io/gj3e2</link>
     <guid isPermaLink="false">https://osf.io/gj3e2#ja</guid>
     <pubDate>Tue, 18 Aug 2026 11:55:24 +0000</pubDate>
@@ -153,49 +167,49 @@
     <description>AI licenses harm by obscuring moral perception</description>
   </item>
   <item>
-    <title>時間的安定性の期待が連続依存のパラドックスを解消する</title>
+    <title>時間的安定性の予期が連続依存のパラドックスを解消する</title>
     <link>https://osf.io/ta2y8</link>
     <guid isPermaLink="false">https://osf.io/ta2y8#ja</guid>
     <pubDate>Tue, 18 Aug 2026 08:40:58 +0000</pubDate>
     <description>Expecting temporal stability reconciles the serial dependence paradox</description>
   </item>
   <item>
-    <title>言語的皮肉を超えて：幼児を持つ中国語話者家族の相互作用における非文字通りの評価的立場</title>
+    <title>言語的皮肉を超えて：幼児を持つ中国語話者家庭における非文字的評価的態度の相互作用</title>
     <link>https://osf.io/7vjdr</link>
     <guid isPermaLink="false">https://osf.io/7vjdr#ja</guid>
     <pubDate>Tue, 18 Aug 2026 08:00:15 +0000</pubDate>
     <description>Beyond verbal irony: Nonliteral evaluative stance in Mandarin-speaking family interaction with preschool children</description>
   </item>
   <item>
-    <title>専門家の予測と一般市民の将来の地球温暖化に対する期待</title>
+    <title>専門家の予測と一般の将来の地球温暖化に対する期待</title>
     <link>https://osf.io/aycgs</link>
     <guid isPermaLink="false">https://osf.io/aycgs#ja</guid>
     <pubDate>Tue, 18 Aug 2026 08:00:14 +0000</pubDate>
     <description>Expert Forecasts and Public Expectations of Future Global Warming</description>
   </item>
   <item>
-    <title>社会的地位が集団規範への行動調整の安定性に与える影響</title>
+    <title>社会的地位が集団規範への行動調整の安定性に及ぼす影響</title>
     <link>https://osf.io/t7eup</link>
     <guid isPermaLink="false">https://osf.io/t7eup#ja</guid>
     <pubDate>Tue, 18 Aug 2026 08:00:14 +0000</pubDate>
     <description>Social Position Shapes the Stability of Behavioral Adjustment to Group Norms</description>
   </item>
   <item>
-    <title>厳格な子育てはいつ害をもたらすか？中国系カナダ人家族における文化的意味と移民世代の影響</title>
+    <title>厳格な子育てはいつ害をもたらすのか？中国系カナダ人家族における文化的意味と移民世代の影響</title>
     <link>https://osf.io/m4x56</link>
     <guid isPermaLink="false">https://osf.io/m4x56#ja</guid>
     <pubDate>Mon, 17 Aug 2026 21:46:50 +0000</pubDate>
     <description>When Does Strict Parenting Hurt? Cultural Meaning and Immigration Generation in Chinese-Canadian Families</description>
   </item>
   <item>
-    <title>知覚された教師の支援、自我消耗、発達危機間の疑わしい縦断的効果：Mengら（2026年）の再分析と考察</title>
+    <title>知覚された教師支援、自我消耗、および発達的危機の疑わしい縦断的効果：孟ら（2026年）の再分析と考察</title>
     <link>https://osf.io/sv8bn</link>
     <guid isPermaLink="false">https://osf.io/sv8bn#ja</guid>
     <pubDate>Mon, 17 Aug 2026 21:46:50 +0000</pubDate>
     <description>Questionable longitudinal effects among perceived teacher support, ego depletion, and developmental crisis: A reanalysis and commentary on Meng et al. (2026)</description>
   </item>
   <item>
-    <title>繰り返し試行後の指示的忘却の悪化</title>
+    <title>繰り返し試行後の指示忘却効果の低下</title>
     <link>https://osf.io/dmgkc</link>
     <guid isPermaLink="false">https://osf.io/dmgkc#ja</guid>
     <pubDate>Mon, 17 Aug 2026 21:46:50 +0000</pubDate>
@@ -209,7 +223,7 @@
     <description>Perceived Social Support, Pregnancy Anxiety and Prenatal Attachment Among Primiparous and Multiparous Women – A Cross-Sectional Study</description>
   </item>
   <item>
-    <title>成人における自閉症の有無と性別が友情形成に及ぼす影響</title>
+    <title>成人における自閉症状態と性別が友情発達に及ぼす影響</title>
     <link>https://osf.io/tpuxd</link>
     <guid isPermaLink="false">https://osf.io/tpuxd#ja</guid>
     <pubDate>Mon, 17 Aug 2026 21:46:49 +0000</pubDate>
@@ -230,7 +244,7 @@
     <description>This Is Not the ex-Gaussian Model You Are Looking For: On the Default Parameterization of Bayesian ex-Gaussian Models in brms</description>
   </item>
   <item>
-    <title>意識における数感の内在的説明：𝛷構造における区別の結合パターンを通じた数感の現象的感覚の解明</title>
+    <title>意識における数の内在的説明：𝛷構造における識別の結合パターンを通じた数の現象的感覚の解明</title>
     <link>https://osf.io/q543k</link>
     <guid isPermaLink="false">https://osf.io/q543k#ja</guid>
     <pubDate>Mon, 17 Aug 2026 17:46:03 +0000</pubDate>
@@ -258,7 +272,7 @@
     <description>Beyond Translation: Cross-Language Measurement Invariance of the Statistics Anxiety Rating Scale (STARS)</description>
   </item>
   <item>
-    <title>操作的閉鎖性、予測符号化、および精神病：妄想、幻覚、社会認知に関する進化的枠組み</title>
+    <title>操作的閉鎖性、予測符号化、および精神病：妄想、幻覚、社会認知の進化的枠組み</title>
     <link>https://osf.io/be53j</link>
     <guid isPermaLink="false">https://osf.io/be53j#ja</guid>
     <pubDate>Mon, 17 Aug 2026 13:48:30 +0000</pubDate>
@@ -293,14 +307,14 @@
     <description>A Framework for Ongoing Psychotherapy Case Review</description>
   </item>
   <item>
-    <title>行間を読む力：ラテラルリーディング訓練が情報識別力・分析的思考・説得知識を促進する</title>
+    <title>行間を読む力：ラテラルリーディング訓練が情報識別力、分析的思考、および説得知識を促進する</title>
     <link>https://osf.io/sgzn6</link>
     <guid isPermaLink="false">https://osf.io/sgzn6#ja</guid>
     <pubDate>Sun, 16 Aug 2026 17:56:57 +0000</pubDate>
     <description>Read Between the Li(n)es: Lateral Reading Training Promotes Information Discernment, Analytic Thinking, and Persuasion Knowledge</description>
   </item>
   <item>
-    <title>身体はいつ世界をバイアスするのか？具現化された空間知覚のベイズ因果推論モデル</title>
+    <title>身体はいつ世界にバイアスをかけるのか？具現化された空間知覚のベイズ因果推論モデル</title>
     <link>https://osf.io/5vrx6</link>
     <guid isPermaLink="false">https://osf.io/5vrx6#ja</guid>
     <pubDate>Sun, 16 Aug 2026 16:43:08 +0000</pubDate>
@@ -328,32 +342,18 @@
     <description>A Poisson Count Race as a Generative Bridge Between Logit and Probit Choice</description>
   </item>
   <item>
-    <title>言語は心的モデルの伝達を通じて累積的文化的向上を可能にする</title>
+    <title>言語は心的モデルの伝達を通じて累積的文化向上を可能にする</title>
     <link>https://osf.io/6u32q</link>
     <guid isPermaLink="false">https://osf.io/6u32q#ja</guid>
     <pubDate>Fri, 14 Aug 2026 22:25:28 +0000</pubDate>
     <description>Language enables cumulative cultural improvement by transmitting mental models</description>
   </item>
   <item>
-    <title>目撃された自己：自己概念・感情・是正行動の連結と調整理論</title>
+    <title>目撃された自己：自己概念、感情、および是正行動の結びつきと調整に関する理論</title>
     <link>https://osf.io/wd6pr</link>
     <guid isPermaLink="false">https://osf.io/wd6pr#ja</guid>
     <pubDate>Fri, 14 Aug 2026 22:25:27 +0000</pubDate>
     <description>The Witnessed Self: A tethering-and-regulation theory of self-concept, emotion, and corrective action</description>
-  </item>
-  <item>
-    <title>問題的なソーシャルメディア使用と抑うつ症状：米国成人における行動的および経験的特徴のネットワーク分析</title>
-    <link>https://osf.io/hme7a</link>
-    <guid isPermaLink="false">https://osf.io/hme7a#ja</guid>
-    <pubDate>Fri, 14 Aug 2026 22:25:27 +0000</pubDate>
-    <description>Problematic Social Media Use and Depressive Symptomatology: A Network Analysis of Behavioral and Experiential Characteristics Among U.S. Adults</description>
-  </item>
-  <item>
-    <title>セッションからエコシステムへ：認知・情動・行動の実世界フェノタイピング</title>
-    <link>https://osf.io/ae86g</link>
-    <guid isPermaLink="false">https://osf.io/ae86g#ja</guid>
-    <pubDate>Fri, 14 Aug 2026 21:59:34 +0000</pubDate>
-    <description>From sessions to ecosystems: real-world phenotyping of cognition, affect, and behavior</description>
   </item>
 </channel>
 </rss>
