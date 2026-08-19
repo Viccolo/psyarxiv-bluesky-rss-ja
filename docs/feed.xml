@@ -6,7 +6,56 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>診断分類モデルにおける変分ベイズ推論のブートストラップ信頼区間</title>
+    <title>リスクフリーな研究デザインは人間と自動化の相互作用における弱い信頼–行動連関を見逃す：二つの仮想現実実験からの証拠</title>
+    <link>https://osf.io/g4fnm</link>
+    <guid isPermaLink="false">https://osf.io/g4fnm#ja</guid>
+    <pubDate>Wed, 19 Aug 2026 17:37:10 +0000</pubDate>
+    <description>Risk-Free Study Designs Miss the Weak Trust–Behavior Link in Human–Automation Interaction: Evidence From Two Virtual Reality Experiments</description>
+  </item>
+  <item>
+    <title>デジタル実装：eラーニングを活用した心理職のデジタルメンタルヘルススキルの育成</title>
+    <link>https://osf.io/p87ay</link>
+    <guid isPermaLink="false">https://osf.io/p87ay#ja</guid>
+    <pubDate>Wed, 19 Aug 2026 17:37:10 +0000</pubDate>
+    <description>Digital implementation: Developing digital mental health skills in the psychological workforce using e-learning.</description>
+  </item>
+  <item>
+    <title>被害者物語は共感を促進し、対立する政治参加への支持を高める</title>
+    <link>https://osf.io/k5a3r</link>
+    <guid isPermaLink="false">https://osf.io/k5a3r#ja</guid>
+    <pubDate>Wed, 19 Aug 2026 17:37:10 +0000</pubDate>
+    <description>Victimhood Narratives Increase Support for Opponents’ Political  Participation by Promoting Empathy</description>
+  </item>
+  <item>
+    <title>AI媒介コミュニケーションから真正性の偽装へ：親密関係および治療関係における認知的信頼のリスクとは何か？</title>
+    <link>https://osf.io/phxvt</link>
+    <guid isPermaLink="false">https://osf.io/phxvt#ja</guid>
+    <pubDate>Wed, 19 Aug 2026 17:37:09 +0000</pubDate>
+    <description>De la communication médiatisée par l’IA à l’usurpation d’authenticité : quels risques pour la confiance épistémique dans les relations intimes et thérapeutiques ?</description>
+  </item>
+  <item>
+    <title>大規模言語モデルを用いた採点のリスク：大規模言語モデルと人間は大規模言語モデル生成の文章を人間の文章より好むが、大規模言語モデルはより強い体系的バイアスを示す</title>
+    <link>https://osf.io/35utw</link>
+    <guid isPermaLink="false">https://osf.io/35utw#ja</guid>
+    <pubDate>Wed, 19 Aug 2026 17:37:09 +0000</pubDate>
+    <description>Risks of Using Large Language Models in Grading: LLMs and Humans Prefer LLM-Generated Writing Over Human’s but LLMs Show a Stronger Systematic Bias</description>
+  </item>
+  <item>
+    <title>読書中の偶発的語彙習得における言語的文脈の影響と適応的文脈結合（ABC）理論枠組みの検討</title>
+    <link>https://osf.io/2q6yu</link>
+    <guid isPermaLink="false">https://osf.io/2q6yu#ja</guid>
+    <pubDate>Wed, 19 Aug 2026 17:37:09 +0000</pubDate>
+    <description>A Review of How Linguistic Context Shapes Incidental Word Learning During Reading and the Adaptive Binding of Context (ABC) Theoretical Framework</description>
+  </item>
+  <item>
+    <title>長期および高度な瞑想が精神健康に及ぼす影響の系統的レビュー：精神症状、ストレス、および困難な出来事に関する検討</title>
+    <link>https://osf.io/zve4w</link>
+    <guid isPermaLink="false">https://osf.io/zve4w#ja</guid>
+    <pubDate>Wed, 19 Aug 2026 17:37:09 +0000</pubDate>
+    <description>A Systematic Review of Effects of Long-Term and Advanced Meditation on Mental Health: Psychiatric Symptoms, Stress, and Challenging Events</description>
+  </item>
+  <item>
+    <title>診断分類モデルにおける変分ベイズ推論のためのブートストラップ信頼区間</title>
     <link>https://osf.io/x5pa4</link>
     <guid isPermaLink="false">https://osf.io/x5pa4#ja</guid>
     <pubDate>Wed, 19 Aug 2026 07:40:43 +0000</pubDate>
@@ -20,7 +69,7 @@
     <description>The Eight-Mode AI Engagement Typology: Differential Cognitive Signatures and a Self-Report–Behavior Gap</description>
   </item>
   <item>
-    <title>成人における長期抗うつ薬使用とその結果：系統的レビュー</title>
+    <title>成人における抗うつ薬の長期使用とその結果：系統的レビュー</title>
     <link>https://osf.io/s4ej8</link>
     <guid isPermaLink="false">https://osf.io/s4ej8#ja</guid>
     <pubDate>Tue, 18 Aug 2026 22:42:27 +0000</pubDate>
@@ -34,14 +83,14 @@
     <description>Keep It in Sight: Reward Function Compression Through Goal Visibility</description>
   </item>
   <item>
-    <title>短縮版一般的人工知能態度尺度（Short GAAIS-10）の日本語版の翻訳と検証：GAAIS-10-J</title>
+    <title>短縮版一般的人工知能態度尺度（Short GAAIS-10）の日本語版翻訳と検証：GAAIS-10-J</title>
     <link>https://osf.io/fjdn6</link>
     <guid isPermaLink="false">https://osf.io/fjdn6#ja</guid>
     <pubDate>Tue, 18 Aug 2026 22:42:26 +0000</pubDate>
     <description>Translation and Validation of a Japanese Version of the Short General Attitudes Towards Artificial Intelligence Scale (Short GAAIS-10): The GAAIS-10-J</description>
   </item>
   <item>
-    <title>小規模かつ脆弱な効果：Dwyerら（2007）の食品と身体イメージの評価条件付けに関する4つの概念的再現実験と刺激割当選択の影響</title>
+    <title>小規模かつ脆弱な効果：Dwyerら（2007）の食品と身体イメージの評価条件付けに関する4つの概念的再現実験および刺激割当選択の影響</title>
     <link>https://osf.io/4wjch</link>
     <guid isPermaLink="false">https://osf.io/4wjch#ja</guid>
     <pubDate>Tue, 18 Aug 2026 22:42:26 +0000</pubDate>
@@ -90,7 +139,7 @@
     <description>The Mood-Attention Feedback Loop: Bidirectional Effects of Affect and Mind Wandering</description>
   </item>
   <item>
-    <title>宣言的作業記憶と手続き的作業記憶の解明：感覚運動領域の脳波活動が未知および既知の潜在的行動を識別する</title>
+    <title>宣言的作業記憶と手続き的作業記憶の解明：感覚運動系脳波活動が未知および既知の潜在的行動を識別する</title>
     <link>https://osf.io/n9gqf</link>
     <guid isPermaLink="false">https://osf.io/n9gqf#ja</guid>
     <pubDate>Tue, 18 Aug 2026 19:46:12 +0000</pubDate>
@@ -111,21 +160,21 @@
     <description>Sharing Good Times and Recovering from Difficult Moments: Development and Validation of the Parenting Joy Scale</description>
   </item>
   <item>
-    <title>流暢に話すことの代償：サブレキシカルボトルネックがもたらす不完全な発話</title>
+    <title>流暢な発話の代償：サブレキシカルボトルネックがもたらす発話の不完全性</title>
     <link>https://osf.io/8da26</link>
     <guid isPermaLink="false">https://osf.io/8da26#ja</guid>
     <pubDate>Tue, 18 Aug 2026 16:10:45 +0000</pubDate>
     <description>The Price of Speaking Fluently: How the Sublexical Bottleneck Makes Speech Far from Perfect</description>
   </item>
   <item>
-    <title>がん患者における数字スパンテスト成績のモデル化：作業記憶容量、注意力および実行機能の検討</title>
+    <title>がん患者における数字スパン課題の遂行モデル：作業記憶容量、注意力および実行機能の検討</title>
     <link>https://osf.io/t4kgu</link>
     <guid isPermaLink="false">https://osf.io/t4kgu#ja</guid>
     <pubDate>Tue, 18 Aug 2026 16:10:45 +0000</pubDate>
     <description>Modeling Digit Span Test Performance in Cancer Patients: Working Memory Capacity, Attention &amp;amp; Executive Function</description>
   </item>
   <item>
-    <title>項目反応理論を用いた目撃者の認知記憶と識別精度の関連性分析</title>
+    <title>項目反応理論を用いた目撃者の認識記憶と識別精度の関連性分析</title>
     <link>https://osf.io/pn5cr</link>
     <guid isPermaLink="false">https://osf.io/pn5cr#ja</guid>
     <pubDate>Tue, 18 Aug 2026 16:10:45 +0000</pubDate>
@@ -139,7 +188,7 @@
     <description>Envisioning the Future of Social Robots in Education: Perceptions, Applications, and AI Literacy for the Public Good</description>
   </item>
   <item>
-    <title>言語流暢性障害の起源：メカニズム的説明に向けて</title>
+    <title>不流暢の起源：メカニズム的説明に向けて</title>
     <link>https://osf.io/gj3e2</link>
     <guid isPermaLink="false">https://osf.io/gj3e2#ja</guid>
     <pubDate>Tue, 18 Aug 2026 11:55:24 +0000</pubDate>
@@ -160,14 +209,14 @@
     <description>Ready and Willing? Psychological Conditions for Demand-Side Climate Policy in a High-Income Country</description>
   </item>
   <item>
-    <title>AIは道徳的認知を曖昧にし害悪を許容する</title>
+    <title>AIは道徳的認知を曖昧にし有害行為を許容する</title>
     <link>https://osf.io/pu8ef</link>
     <guid isPermaLink="false">https://osf.io/pu8ef#ja</guid>
     <pubDate>Tue, 18 Aug 2026 09:49:24 +0000</pubDate>
     <description>AI licenses harm by obscuring moral perception</description>
   </item>
   <item>
-    <title>時間的安定性の予期が連続依存のパラドックスを解消する</title>
+    <title>時間的安定性の期待が連続依存のパラドックスを解消する</title>
     <link>https://osf.io/ta2y8</link>
     <guid isPermaLink="false">https://osf.io/ta2y8#ja</guid>
     <pubDate>Tue, 18 Aug 2026 08:40:58 +0000</pubDate>
@@ -181,14 +230,14 @@
     <description>Beyond verbal irony: Nonliteral evaluative stance in Mandarin-speaking family interaction with preschool children</description>
   </item>
   <item>
-    <title>専門家の予測と一般の将来の地球温暖化に対する期待感</title>
+    <title>専門家の予測と一般市民の将来の地球温暖化に対する期待</title>
     <link>https://osf.io/aycgs</link>
     <guid isPermaLink="false">https://osf.io/aycgs#ja</guid>
     <pubDate>Tue, 18 Aug 2026 08:00:14 +0000</pubDate>
     <description>Expert Forecasts and Public Expectations of Future Global Warming</description>
   </item>
   <item>
-    <title>社会的地位が集団規範への行動調整の安定性に与える影響</title>
+    <title>社会的地位が集団規範への行動調整の安定性に及ぼす影響</title>
     <link>https://osf.io/t7eup</link>
     <guid isPermaLink="false">https://osf.io/t7eup#ja</guid>
     <pubDate>Tue, 18 Aug 2026 08:00:14 +0000</pubDate>
@@ -202,7 +251,7 @@
     <description>When Does Strict Parenting Hurt? Cultural Meaning and Immigration Generation in Chinese-Canadian Families</description>
   </item>
   <item>
-    <title>知覚された教師の支援、自我消耗、および発達危機に関する疑問のある縦断的効果：Mengら（2026年）の再分析と考察</title>
+    <title>知覚された教師の支援、自我消耗、発達危機に関する疑問のある縦断的効果：Mengら（2026年）の再分析と考察</title>
     <link>https://osf.io/sv8bn</link>
     <guid isPermaLink="false">https://osf.io/sv8bn#ja</guid>
     <pubDate>Mon, 17 Aug 2026 21:46:50 +0000</pubDate>
@@ -223,7 +272,7 @@
     <description>Perceived Social Support, Pregnancy Anxiety and Prenatal Attachment Among Primiparous and Multiparous Women – A Cross-Sectional Study</description>
   </item>
   <item>
-    <title>成人における自閉症状態と性別が友情形成に及ぼす影響</title>
+    <title>成人における自閉症状態と性別が友情発達に及ぼす影響</title>
     <link>https://osf.io/tpuxd</link>
     <guid isPermaLink="false">https://osf.io/tpuxd#ja</guid>
     <pubDate>Mon, 17 Aug 2026 21:46:49 +0000</pubDate>
@@ -244,14 +293,14 @@
     <description>This Is Not the ex-Gaussian Model You Are Looking For: On the Default Parameterization of Bayesian ex-Gaussian Models in brms</description>
   </item>
   <item>
-    <title>意識における数の内在的説明：𝛷構造における区別の連結パターンを通じた数の現象的感覚の解明</title>
+    <title>意識における数の内在的説明：𝛷構造における区別の結合パターンを通じた数の現象的感覚の解明</title>
     <link>https://osf.io/q543k</link>
     <guid isPermaLink="false">https://osf.io/q543k#ja</guid>
     <pubDate>Mon, 17 Aug 2026 17:46:03 +0000</pubDate>
     <description>Intrinsic explanation of numerosity in consciousness.  How the phenomenal feeling of numerosity can be explained through connectivity patterns of distinctions in 𝛷 -structures.</description>
   </item>
   <item>
-    <title>独立した特徴選択の重要性：機械学習を用いた脳波データによる抗うつ治療効果予測</title>
+    <title>独立した特徴選択の重要性：機械学習による脳波データ解析を用いた抗うつ治療効果の予測</title>
     <link>https://osf.io/3pzyr</link>
     <guid isPermaLink="false">https://osf.io/3pzyr#ja</guid>
     <pubDate>Mon, 17 Aug 2026 16:47:02 +0000</pubDate>
@@ -272,21 +321,21 @@
     <description>Beyond Translation: Cross-Language Measurement Invariance of the Statistics Anxiety Rating Scale (STARS)</description>
   </item>
   <item>
-    <title>操作的閉鎖、予測符号化、精神病理：妄想・幻覚・社会認知の進化的枠組み</title>
+    <title>操作的閉鎖性、予測符号化、および精神病：妄想・幻覚・社会認知に関する進化的枠組み</title>
     <link>https://osf.io/be53j</link>
     <guid isPermaLink="false">https://osf.io/be53j#ja</guid>
     <pubDate>Mon, 17 Aug 2026 13:48:30 +0000</pubDate>
     <description>Operational Closure, Predictive Coding, and Psychosis: An Evolutionary Framework for Delusion, Hallucination, and Social Cognition</description>
   </item>
   <item>
-    <title>現在の精神健康問題の有無にかかわらず、職場における一時的な仕事のパフォーマンスと関連する一貫性の感覚およびジョブクラフティングの関係性</title>
+    <title>現在の精神的健康問題の有無にかかわらず、職場における一時的な仕事のパフォーマンスと関連する一貫性の感覚およびジョブクラフティングの関係性</title>
     <link>https://osf.io/9twnf</link>
     <guid isPermaLink="false">https://osf.io/9twnf#ja</guid>
     <pubDate>Mon, 17 Aug 2026 13:48:30 +0000</pubDate>
     <description>How Sense of Coherence and Job Crafting Are Associated with Momentary Job Performance Among Employees With and Without Current Mental Health Issues</description>
   </item>
   <item>
-    <title>記憶に対する覚醒休息の効果はいつどのように現れるか？体系的レビューとメタアナリシス</title>
+    <title>記憶に対する覚醒休息の効果はいつどのように現れるか？―系統的レビューとメタアナリシス</title>
     <link>https://osf.io/8q3br</link>
     <guid isPermaLink="false">https://osf.io/8q3br#ja</guid>
     <pubDate>Mon, 17 Aug 2026 13:48:30 +0000</pubDate>
@@ -305,55 +354,6 @@
     <guid isPermaLink="false">https://osf.io/7wdcu#ja</guid>
     <pubDate>Sun, 16 Aug 2026 18:20:56 +0000</pubDate>
     <description>A Framework for Ongoing Psychotherapy Case Review</description>
-  </item>
-  <item>
-    <title>行間を読む力：ラテラルリーディング訓練が情報識別力、分析的思考、および説得知識を促進する</title>
-    <link>https://osf.io/sgzn6</link>
-    <guid isPermaLink="false">https://osf.io/sgzn6#ja</guid>
-    <pubDate>Sun, 16 Aug 2026 17:56:57 +0000</pubDate>
-    <description>Read Between the Li(n)es: Lateral Reading Training Promotes Information Discernment, Analytic Thinking, and Persuasion Knowledge</description>
-  </item>
-  <item>
-    <title>身体はいつ世界をバイアスするのか？具現化された空間知覚のベイズ因果推論モデル</title>
-    <link>https://osf.io/5vrx6</link>
-    <guid isPermaLink="false">https://osf.io/5vrx6#ja</guid>
-    <pubDate>Sun, 16 Aug 2026 16:43:08 +0000</pubDate>
-    <description>When Does the Body Bias the World? A Bayesian Causal Inference Model of Embodied Spatial Perception</description>
-  </item>
-  <item>
-    <title>内側からの視点：構造的アプローチのための関係的認識論</title>
-    <link>https://osf.io/6dycm</link>
-    <guid isPermaLink="false">https://osf.io/6dycm#ja</guid>
-    <pubDate>Sun, 16 Aug 2026 16:13:16 +0000</pubDate>
-    <description>The View from Among: a Relational Epistemology for Structural Approaches</description>
-  </item>
-  <item>
-    <title>刑務所内の音楽活動：受刑者の音楽能力の観察が対人態度に与える影響</title>
-    <link>https://osf.io/fscpd</link>
-    <guid isPermaLink="false">https://osf.io/fscpd#ja</guid>
-    <pubDate>Sat, 15 Aug 2026 16:44:10 +0000</pubDate>
-    <description>Music behind bars: Observing musical abilities of people in prison improves social attitudes towards them</description>
-  </item>
-  <item>
-    <title>ロジット選択とプロビット選択をつなぐ生成的架け橋としてのポアソンカウントレースモデル</title>
-    <link>https://osf.io/r36vs</link>
-    <guid isPermaLink="false">https://osf.io/r36vs#ja</guid>
-    <pubDate>Fri, 14 Aug 2026 22:25:28 +0000</pubDate>
-    <description>A Poisson Count Race as a Generative Bridge Between Logit and Probit Choice</description>
-  </item>
-  <item>
-    <title>言語は心的モデルの伝達を通じて累積的文化的向上を可能にする</title>
-    <link>https://osf.io/6u32q</link>
-    <guid isPermaLink="false">https://osf.io/6u32q#ja</guid>
-    <pubDate>Fri, 14 Aug 2026 22:25:28 +0000</pubDate>
-    <description>Language enables cumulative cultural improvement by transmitting mental models</description>
-  </item>
-  <item>
-    <title>目撃された自己：自己概念・感情・是正行動の結びつきと調整に関する理論</title>
-    <link>https://osf.io/wd6pr</link>
-    <guid isPermaLink="false">https://osf.io/wd6pr#ja</guid>
-    <pubDate>Fri, 14 Aug 2026 22:25:27 +0000</pubDate>
-    <description>The Witnessed Self: A tethering-and-regulation theory of self-concept, emotion, and corrective action</description>
   </item>
 </channel>
 </rss>
