@@ -6,14 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>知覚された社会的支援、学校適応、および抑うつの間の予測的効果に関する説得力のある証拠はない：Mengら（2026）への再分析とコメント</title>
+    <title>知覚された社会的支援、学校適応および抑うつの間の予測的効果に関する説得力のある証拠はない：Mengら（2026年）への再分析とコメント</title>
     <link>https://osf.io/2q5aj</link>
     <guid isPermaLink="false">https://osf.io/2q5aj#ja</guid>
     <pubDate>Wed, 19 Aug 2026 23:38:27 +0000</pubDate>
     <description>No convincing evidence for prospective effects between perceived social support, school adaptation, and depression: A reanalysis and comment on Meng et al. (2026)</description>
   </item>
   <item>
-    <title>思春期における自己効力感と抑うつの前向き関連性に関する決定的証拠の欠如：Nguyenら（2026年）の再解析と考察</title>
+    <title>青年期における自己効力感と抑うつの前向き関連性に関する決定的証拠の欠如：Nguyenら（2026年）の再解析と考察</title>
     <link>https://osf.io/kxje2</link>
     <guid isPermaLink="false">https://osf.io/kxje2#ja</guid>
     <pubDate>Wed, 19 Aug 2026 23:38:27 +0000</pubDate>
@@ -41,35 +41,35 @@
     <description>Neural Representations of Personally and Experimentally Familiar Faces Across Adulthood</description>
   </item>
   <item>
-    <title>一般集団における誤認妄想内容と異常予測誤差の関連性</title>
+    <title>一般集団における誤認妄想内容と異常予測誤差</title>
     <link>https://osf.io/wnqj4</link>
     <guid isPermaLink="false">https://osf.io/wnqj4#ja</guid>
     <pubDate>Wed, 19 Aug 2026 20:58:37 +0000</pubDate>
     <description>Misidentification Delusion Contents and Aberrant Prediction Errors in the General Population</description>
   </item>
   <item>
-    <title>ありのままの自分でいること：表現型と遺伝型の一致性とウェルビーイング</title>
+    <title>ありのままの自分であること：表現型と遺伝子型の一致性とウェルビーイングの関係</title>
     <link>https://osf.io/m96kz</link>
     <guid isPermaLink="false">https://osf.io/m96kz#ja</guid>
     <pubDate>Wed, 19 Aug 2026 18:56:46 +0000</pubDate>
     <description>Being who you are: phenotype-genotype congruency and wellbeing</description>
   </item>
   <item>
-    <title>ガスライティングにおける記憶の矛盾に関する一般人の理解：親密な関係における心理的操作の認知心理学的検討</title>
+    <title>ガスライティングにおける記憶の矛盾に関する一般人の理解：親密な関係におけるガスライティングの認知心理学的検討</title>
     <link>https://osf.io/65ahz</link>
     <guid isPermaLink="false">https://osf.io/65ahz#ja</guid>
     <pubDate>Wed, 19 Aug 2026 18:56:46 +0000</pubDate>
     <description>Gasliteracy: Lay People’s Understanding of Memory Conflicts in Relation to Gaslighting within Intimate Relationships</description>
   </item>
   <item>
-    <title>人物不在下における絵画構図の視覚的ガイダンス：視線追跡研究</title>
+    <title>図像の不在下における絵画構図の視覚的ガイダンス：視線追跡研究</title>
     <link>https://osf.io/v6ruk</link>
     <guid isPermaLink="false">https://osf.io/v6ruk#ja</guid>
     <pubDate>Wed, 19 Aug 2026 18:56:46 +0000</pubDate>
     <description>Visual Guidance of Pictorial Composition in the Absence of Figures: An Eye-Tracking Study</description>
   </item>
   <item>
-    <title>リスクフリーな研究デザインは人間と自動化の相互作用における弱い信頼–行動連関を見逃す：二つの仮想現実実験からの証拠</title>
+    <title>リスクのない研究デザインは人間と自動化の相互作用における弱い信頼–行動の関連を見逃す：二つの仮想現実実験からの証拠</title>
     <link>https://osf.io/g4fnm</link>
     <guid isPermaLink="false">https://osf.io/g4fnm#ja</guid>
     <pubDate>Wed, 19 Aug 2026 17:37:10 +0000</pubDate>
@@ -97,7 +97,7 @@
     <description>De la communication médiatisée par l’IA à l’usurpation d’authenticité : quels risques pour la confiance épistémique dans les relations intimes et thérapeutiques ?</description>
   </item>
   <item>
-    <title>大規模言語モデルを用いた採点のリスク：大規模言語モデルと人間は大規模言語モデル生成の文章を人間の文章より好むが、大規模言語モデルはより強い体系的バイアスを示す</title>
+    <title>大規模言語モデルを用いた採点のリスク：大規模言語モデルと人間は大規模言語モデル生成の文章を人間のものより好むが、大規模言語モデルはより強い体系的バイアスを示す</title>
     <link>https://osf.io/35utw</link>
     <guid isPermaLink="false">https://osf.io/35utw#ja</guid>
     <pubDate>Wed, 19 Aug 2026 17:37:09 +0000</pubDate>
@@ -132,7 +132,7 @@
     <description>The Eight-Mode AI Engagement Typology: Differential Cognitive Signatures and a Self-Report–Behavior Gap</description>
   </item>
   <item>
-    <title>成人における長期抗うつ薬使用とその結果：系統的レビュー</title>
+    <title>成人における抗うつ薬の長期使用とその結果：系統的レビュー</title>
     <link>https://osf.io/s4ej8</link>
     <guid isPermaLink="false">https://osf.io/s4ej8#ja</guid>
     <pubDate>Tue, 18 Aug 2026 22:42:27 +0000</pubDate>
@@ -146,21 +146,21 @@
     <description>Keep It in Sight: Reward Function Compression Through Goal Visibility</description>
   </item>
   <item>
-    <title>短縮版一般的人工知能態度尺度（Short GAAIS-10）の日本語版の翻訳と検証：GAAIS-10-J</title>
+    <title>短縮版一般的人工知能態度尺度（Short GAAIS-10）の日本語版翻訳と検証：GAAIS-10-J</title>
     <link>https://osf.io/fjdn6</link>
     <guid isPermaLink="false">https://osf.io/fjdn6#ja</guid>
     <pubDate>Tue, 18 Aug 2026 22:42:26 +0000</pubDate>
     <description>Translation and Validation of a Japanese Version of the Short General Attitudes Towards Artificial Intelligence Scale (Short GAAIS-10): The GAAIS-10-J</description>
   </item>
   <item>
-    <title>小規模かつ脆弱な効果：Dwyerら（2007）の身体イメージを用いた食品の評価条件付けに関する4つの概念的再現実験と刺激割当選択の影響</title>
+    <title>小規模かつ脆弱な効果：Dwyerら（2007）の食品と身体イメージの評価的条件付けに関する4つの概念的再現実験と刺激割り当ての選択がもたらす影響</title>
     <link>https://osf.io/4wjch</link>
     <guid isPermaLink="false">https://osf.io/4wjch#ja</guid>
     <pubDate>Tue, 18 Aug 2026 22:42:26 +0000</pubDate>
     <description>A Small and Fragile Effect: Four Conceptual Replications of Dwyer et al. (2007) on Evaluative Conditioning of Foods with Body Images, and the Consequences of Stimulus-Assignment Choices</description>
   </item>
   <item>
-    <title>乳児の音声処理における個人差：言語習得理論への示唆</title>
+    <title>乳児の音声処理における個人差：言語獲得理論への示唆</title>
     <link>https://osf.io/qzjx7</link>
     <guid isPermaLink="false">https://osf.io/qzjx7#ja</guid>
     <pubDate>Tue, 18 Aug 2026 22:12:37 +0000</pubDate>
@@ -181,7 +181,7 @@
     <description>Measuring Face Recognition Ability: Identifying Individuals at the Extremes of Performance</description>
   </item>
   <item>
-    <title>復讐判断における道徳性と公平性の分裂</title>
+    <title>復讐判断における道徳性と公正性の分裂</title>
     <link>https://osf.io/tbyn4</link>
     <guid isPermaLink="false">https://osf.io/tbyn4#ja</guid>
     <pubDate>Tue, 18 Aug 2026 21:02:04 +0000</pubDate>
@@ -195,7 +195,7 @@
     <description>Modeling Environmental Behavior: Lessons from Social Computational Neuroscience</description>
   </item>
   <item>
-    <title>気分と注意のフィードバックループ：感情と心のさまよいの双方向効果</title>
+    <title>気分と注意のフィードバックループ：感情と心のさまよいの双方向的影響</title>
     <link>https://osf.io/nqa5b</link>
     <guid isPermaLink="false">https://osf.io/nqa5b#ja</guid>
     <pubDate>Tue, 18 Aug 2026 20:25:47 +0000</pubDate>
@@ -223,7 +223,7 @@
     <description>Sharing Good Times and Recovering from Difficult Moments: Development and Validation of the Parenting Joy Scale</description>
   </item>
   <item>
-    <title>流暢な発話の代償：サブレキシカルボトルネックがもたらす不完全な言語産出</title>
+    <title>流暢に話すことの代償：サブレキシカルボトルネックがもたらす不完全な発話</title>
     <link>https://osf.io/8da26</link>
     <guid isPermaLink="false">https://osf.io/8da26#ja</guid>
     <pubDate>Tue, 18 Aug 2026 16:10:45 +0000</pubDate>
@@ -237,7 +237,7 @@
     <description>Modeling Digit Span Test Performance in Cancer Patients: Working Memory Capacity, Attention &amp;amp; Executive Function</description>
   </item>
   <item>
-    <title>目撃者の認知記憶と識別精度の関連性の項目反応理論による検証</title>
+    <title>目撃者の認知記憶と識別精度の関連性の項目反応理論による検討</title>
     <link>https://osf.io/pn5cr</link>
     <guid isPermaLink="false">https://osf.io/pn5cr#ja</guid>
     <pubDate>Tue, 18 Aug 2026 16:10:45 +0000</pubDate>
@@ -286,21 +286,21 @@
     <description>Expecting temporal stability reconciles the serial dependence paradox</description>
   </item>
   <item>
-    <title>言語的アイロニーを超えて：幼児を持つ北京語話者家庭における非文字通りの評価的態度</title>
+    <title>言語的皮肉を超えて：幼児を持つ中国語話者家庭における非文字的評価的態度の相互作用</title>
     <link>https://osf.io/7vjdr</link>
     <guid isPermaLink="false">https://osf.io/7vjdr#ja</guid>
     <pubDate>Tue, 18 Aug 2026 08:00:15 +0000</pubDate>
     <description>Beyond verbal irony: Nonliteral evaluative stance in Mandarin-speaking family interaction with preschool children</description>
   </item>
   <item>
-    <title>専門家の予測と一般市民の将来の地球温暖化に対する期待感</title>
+    <title>専門家の予測と一般の将来の地球温暖化に対する期待</title>
     <link>https://osf.io/aycgs</link>
     <guid isPermaLink="false">https://osf.io/aycgs#ja</guid>
     <pubDate>Tue, 18 Aug 2026 08:00:14 +0000</pubDate>
     <description>Expert Forecasts and Public Expectations of Future Global Warming</description>
   </item>
   <item>
-    <title>社会的地位が集団規範への行動調整の安定性に及ぼす影響</title>
+    <title>社会的地位が集団規範への行動調整の安定性に与える影響</title>
     <link>https://osf.io/t7eup</link>
     <guid isPermaLink="false">https://osf.io/t7eup#ja</guid>
     <pubDate>Tue, 18 Aug 2026 08:00:14 +0000</pubDate>
@@ -314,7 +314,7 @@
     <description>When Does Strict Parenting Hurt? Cultural Meaning and Immigration Generation in Chinese-Canadian Families</description>
   </item>
   <item>
-    <title>知覚された教師支援、自我消耗、発達的危機の疑わしい縦断的効果：Mengら（2026年）の再分析と考察</title>
+    <title>知覚された教師の支援、自我消耗、発達危機に関する疑問視される縦断的効果：Mengら（2026年）の再分析と考察</title>
     <link>https://osf.io/sv8bn</link>
     <guid isPermaLink="false">https://osf.io/sv8bn#ja</guid>
     <pubDate>Mon, 17 Aug 2026 21:46:50 +0000</pubDate>
@@ -335,21 +335,21 @@
     <description>Perceived Social Support, Pregnancy Anxiety and Prenatal Attachment Among Primiparous and Multiparous Women – A Cross-Sectional Study</description>
   </item>
   <item>
-    <title>成人における自閉症状態と性別が友情発達に及ぼす影響</title>
+    <title>成人における自閉症の状態と性別が友情発達に及ぼす影響</title>
     <link>https://osf.io/tpuxd</link>
     <guid isPermaLink="false">https://osf.io/tpuxd#ja</guid>
     <pubDate>Mon, 17 Aug 2026 21:46:49 +0000</pubDate>
     <description>Effects of Autism Status and Gender on Friendship Development in Adults</description>
   </item>
   <item>
-    <title>大規模言語モデルに関する六つの誤解：最小モデルと診断的分類法</title>
+    <title>大規模言語モデルに関する6つの誤解：最小モデルと診断的分類法</title>
     <link>https://osf.io/venq5</link>
     <guid isPermaLink="false">https://osf.io/venq5#ja</guid>
     <pubDate>Mon, 17 Aug 2026 21:46:49 +0000</pubDate>
     <description>Six misconceptions about large language models: A minimal model and diagnostic taxonomy</description>
   </item>
   <item>
-    <title>これはあなたが探しているex-Gaussianモデルではない：brmsにおけるベイズex-Gaussianモデルのデフォルトパラメータ化について</title>
+    <title>これはあなたが探しているex-Gaussianモデルではない：brmsにおけるベイズ的ex-Gaussianモデルのデフォルトパラメータ化について</title>
     <link>https://osf.io/kdcxa</link>
     <guid isPermaLink="false">https://osf.io/kdcxa#ja</guid>
     <pubDate>Mon, 17 Aug 2026 17:46:05 +0000</pubDate>
