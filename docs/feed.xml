@@ -6,14 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>cogmod Rパッケージ：反応時間、選択、主観的評価に対応した使いやすいベイズ認知モデルと計算神経心理学への応用</title>
+    <title>cogmod Rパッケージ：反応時間・選択・主観的評価に対応した使いやすいベイズ認知モデルと計算神経心理学への応用</title>
     <link>https://osf.io/5h62c</link>
     <guid isPermaLink="false">https://osf.io/5h62c#ja</guid>
     <pubDate>Fri, 21 Aug 2026 21:54:33 +0000</pubDate>
     <description>The cogmod R Package: Easy-to-Use Bayesian Cognitive Models for Reaction Times, Choices and Subjective Ratings, with Applications to Computational Neuropsychology</description>
   </item>
   <item>
-    <title>問題的なソーシャルメディア使用が孤独感、先延ばし行動および自尊感情に与える影響：ギリシャにおける横断的研究</title>
+    <title>問題的なソーシャルメディア使用が孤独感、先延ばし行動および自尊心に与える影響：ギリシャにおける横断的研究</title>
     <link>https://osf.io/rqcp5</link>
     <guid isPermaLink="false">https://osf.io/rqcp5#ja</guid>
     <pubDate>Fri, 21 Aug 2026 21:33:46 +0000</pubDate>
@@ -41,21 +41,21 @@
     <description>Autistic Burnout Severity Items – French Translation (ABSI-Fr)</description>
   </item>
   <item>
-    <title>回避性・制限性食欲不振症の子どもを持つ親の症状認識、支援要請行動および共同意思決定</title>
+    <title>回避性・制限性食欲不振症の子どもを持つ親の症状認識、助けを求める行動、および共同意思決定</title>
     <link>https://osf.io/uty72</link>
     <guid isPermaLink="false">https://osf.io/uty72#ja</guid>
     <pubDate>Fri, 21 Aug 2026 20:23:54 +0000</pubDate>
     <description>Symptom Recognition, Help-seeking behaviour, and Joint Decision-making among Parents of Children with Avoidant/Restrictive Food Intake Disorder</description>
   </item>
   <item>
-    <title>自己効力感が治療過程および効果に与える認知的影響：スキーマ療法士を対象とした国際的質的研究</title>
+    <title>自己効力感が治療過程および効果に与える影響の認知：スキーマ療法士を対象とした国際的質的研究</title>
     <link>https://osf.io/yu2gv</link>
     <guid isPermaLink="false">https://osf.io/yu2gv#ja</guid>
     <pubDate>Fri, 21 Aug 2026 20:23:53 +0000</pubDate>
     <description>The Perceived Impact of Confidence on Therapeutic Process and Effectiveness: An International Qualitative Exploration with Schema Therapists</description>
   </item>
   <item>
-    <title>精神病理階層の最下位レベルにおける測定不変性と社会人口統計学的差異：ドイツ版HiTOP-SRの解析</title>
+    <title>精神病理階層の最下位レベルにおける測定不変性と社会人口統計学的差異：ドイツ版HiTOP-SRの分析</title>
     <link>https://osf.io/t4ry2</link>
     <guid isPermaLink="false">https://osf.io/t4ry2#ja</guid>
     <pubDate>Fri, 21 Aug 2026 19:58:16 +0000</pubDate>
@@ -76,14 +76,14 @@
     <description>An agent’s partial knowledge of a hidden array impacts infants’ representations of object quantity</description>
   </item>
   <item>
-    <title>手がかり再生エピソード記憶課題における思考プローブの応答選択肢は思考報告の妥当性に影響するが、プローブ頻度は影響しない</title>
+    <title>思考プローブの応答選択肢は、プローブ頻度とは異なり、キュー付き想起エピソード記憶課題における思考報告の妥当性に影響を与える</title>
     <link>https://osf.io/az7jt</link>
     <guid isPermaLink="false">https://osf.io/az7jt#ja</guid>
     <pubDate>Fri, 21 Aug 2026 17:49:32 +0000</pubDate>
     <description>Thought Probe Response Options, but not Probe Frequency,  Affect Thought Report Validity in a Cued Recall Episodic Memory Task</description>
   </item>
   <item>
-    <title>異文化的視点から再考する実証的美学</title>
+    <title>異文化的視点から再考する経験的美学</title>
     <link>https://osf.io/kdhyp</link>
     <guid isPermaLink="false">https://osf.io/kdhyp#ja</guid>
     <pubDate>Fri, 21 Aug 2026 17:49:32 +0000</pubDate>
@@ -104,7 +104,7 @@
     <description>Validation Study of the Swedish Child Post-Traumatic Cognitions Inventory in Maltreated Children</description>
   </item>
   <item>
-    <title>リベラル女性のウェルビーイングの動向</title>
+    <title>リベラル女性の幸福感の動向</title>
     <link>https://osf.io/gmz5r</link>
     <guid isPermaLink="false">https://osf.io/gmz5r#ja</guid>
     <pubDate>Fri, 21 Aug 2026 17:49:31 +0000</pubDate>
@@ -118,7 +118,7 @@
     <description>Image Database for Everyday Affective Spaces (IDEAS): an open-access database of high-quality and standardized affective images of indoor environments</description>
   </item>
   <item>
-    <title>三角形ヒューマンマシンインターフェースアイコンがL3自動運転からの運転引き継ぎパフォーマンスに及ぼす影響：行動的・眼球運動・心理生理学的知見</title>
+    <title>三角形ヒューマンマシンインターフェースアイコンがレベル3自動運転からの運転引き継ぎ性能に及ぼす影響：行動的・眼球運動・心理生理学的知見</title>
     <link>https://osf.io/qjntc</link>
     <guid isPermaLink="false">https://osf.io/qjntc#ja</guid>
     <pubDate>Fri, 21 Aug 2026 17:49:30 +0000</pubDate>
@@ -132,7 +132,7 @@
     <description>Low-Level Visual and Auditory Features Predict Preferences of Commercials</description>
   </item>
   <item>
-    <title>妊娠中の母親の抑うつ・不安症状と子どもの社会情動的発達との関連における生物心理社会的調整因子：多コホート研究</title>
+    <title>妊娠中の母親の抑うつおよび不安症状と子どもの社会情動的発達との関連における生物心理社会的調整因子：多コホート研究</title>
     <link>https://osf.io/5vhcb</link>
     <guid isPermaLink="false">https://osf.io/5vhcb#ja</guid>
     <pubDate>Thu, 20 Aug 2026 19:59:32 +0000</pubDate>
@@ -146,7 +146,7 @@
     <description>FEEDBACK Faces: An Image Data Base With Communicative Facial Expressions of Appreciation and Criticism</description>
   </item>
   <item>
-    <title>思春期の神経可塑性：睡眠、レジリエンス、持続的連結性の役割</title>
+    <title>思春期における神経可塑性：睡眠、レジリエンス、持続的結合性の役割</title>
     <link>https://osf.io/2t4xp</link>
     <guid isPermaLink="false">https://osf.io/2t4xp#ja</guid>
     <pubDate>Thu, 20 Aug 2026 19:38:37 +0000</pubDate>
@@ -174,21 +174,21 @@
     <description>Vibe shift or partisanship: Unequal changes between and within American political groups’ perception of misinformation and its solutions after the 2024 US Election</description>
   </item>
   <item>
-    <title>受容性の不一致と政治的不満</title>
+    <title>正当性の不一致と政治的不満</title>
     <link>https://osf.io/384nf</link>
     <guid isPermaLink="false">https://osf.io/384nf#ja</guid>
     <pubDate>Thu, 20 Aug 2026 16:51:26 +0000</pubDate>
     <description>The Deservingness Mismatch and Political Discontent</description>
   </item>
   <item>
-    <title>未来不安が若者の民主的支持と関与に及ぼす影響</title>
+    <title>将来不安が若者の民主的支持と関与に及ぼす影響</title>
     <link>https://osf.io/d5pyk</link>
     <guid isPermaLink="false">https://osf.io/d5pyk#ja</guid>
     <pubDate>Thu, 20 Aug 2026 16:51:26 +0000</pubDate>
     <description>Future Anxiety Affects Youth’s Democratic Support and Engagement</description>
   </item>
   <item>
-    <title>特異性と共感の減衰の再検討：Västfjällら（2014）の実験1aおよび3の再現と拡張研究</title>
+    <title>特異性と共感の減衰の再検討：Västfjällら（2014）の実験1aおよび3の再現と拡張</title>
     <link>https://osf.io/4u9w7</link>
     <guid isPermaLink="false">https://osf.io/4u9w7#ja</guid>
     <pubDate>Thu, 20 Aug 2026 16:51:26 +0000</pubDate>
@@ -202,14 +202,14 @@
     <description>Articulation Through Iteration: The Career Readiness Pathway as a Boundary-Crossing Framework for Student Development and Stakeholder Alignment</description>
   </item>
   <item>
-    <title>知覚された社会的支援、学校適応および抑うつの間の予測的効果に関する説得力のある証拠はない：Mengら（2026）への再分析とコメント</title>
+    <title>知覚された社会的支援、学校適応、抑うつの間の予測的効果に関する説得力のある証拠はない：Mengら（2026年）の再解析とコメント</title>
     <link>https://osf.io/2q5aj</link>
     <guid isPermaLink="false">https://osf.io/2q5aj#ja</guid>
     <pubDate>Wed, 19 Aug 2026 23:38:27 +0000</pubDate>
     <description>No convincing evidence for prospective effects between perceived social support, school adaptation, and depression: A reanalysis and comment on Meng et al. (2026)</description>
   </item>
   <item>
-    <title>青年期における自己効力感と抑うつの前向き関連に関する決定的証拠の欠如：Nguyenら（2026年）の再解析と論評</title>
+    <title>思春期における自己効力感と抑うつの前向き関連性に関する決定的証拠の欠如：Nguyenら（2026年）の再解析と考察</title>
     <link>https://osf.io/kxje2</link>
     <guid isPermaLink="false">https://osf.io/kxje2#ja</guid>
     <pubDate>Wed, 19 Aug 2026 23:38:27 +0000</pubDate>
@@ -237,7 +237,7 @@
     <description>Neural Representations of Personally Familiar and Experimentally Familiar Faces Across Adulthood</description>
   </item>
   <item>
-    <title>一般集団における誤認妄想内容と異常予測誤差の関連性</title>
+    <title>一般集団における誤認妄想内容と異常予測誤差</title>
     <link>https://osf.io/wnqj4</link>
     <guid isPermaLink="false">https://osf.io/wnqj4#ja</guid>
     <pubDate>Wed, 19 Aug 2026 20:58:37 +0000</pubDate>
@@ -251,21 +251,21 @@
     <description>Being who you are: phenotype-genotype congruency and wellbeing</description>
   </item>
   <item>
-    <title>ガスライティングに関連する親密な関係における記憶の矛盾に対する一般人の理解：ガスリテラシーの検討</title>
+    <title>ガスライティングに関連する親密な人間関係における記憶の矛盾に対する一般人の理解：ガスリテラシーの検討</title>
     <link>https://osf.io/65ahz</link>
     <guid isPermaLink="false">https://osf.io/65ahz#ja</guid>
     <pubDate>Wed, 19 Aug 2026 18:56:46 +0000</pubDate>
     <description>Gasliteracy: Lay People’s Understanding of Memory Conflicts in Relation to Gaslighting within Intimate Relationships</description>
   </item>
   <item>
-    <title>図像構成における人物不在時の視覚的ガイダンス：視線追跡研究</title>
+    <title>図像に人物が存在しない場合の絵画構図における視覚的ガイダンス：視線追跡研究</title>
     <link>https://osf.io/v6ruk</link>
     <guid isPermaLink="false">https://osf.io/v6ruk#ja</guid>
     <pubDate>Wed, 19 Aug 2026 18:56:46 +0000</pubDate>
     <description>Visual Guidance of Pictorial Composition in the Absence of Figures: An Eye-Tracking Study</description>
   </item>
   <item>
-    <title>リスクのない研究デザインは人間と自動化の相互作用における弱い信頼－行動の関連性を見逃す：二つの仮想現実実験からの証拠</title>
+    <title>リスクのない研究デザインは人間と自動化の相互作用における弱い信頼–行動の関連を見逃す：二つのバーチャルリアリティ実験からの証拠</title>
     <link>https://osf.io/g4fnm</link>
     <guid isPermaLink="false">https://osf.io/g4fnm#ja</guid>
     <pubDate>Wed, 19 Aug 2026 17:37:10 +0000</pubDate>
@@ -279,7 +279,7 @@
     <description>Digital implementation: Developing digital mental health skills in the psychological workforce using e-learning.</description>
   </item>
   <item>
-    <title>被害者語りは共感を促進し、対立する政治参加への支持を高める</title>
+    <title>被害者物語は共感を促進し、対立する政治参加への支持を高める</title>
     <link>https://osf.io/k5a3r</link>
     <guid isPermaLink="false">https://osf.io/k5a3r#ja</guid>
     <pubDate>Wed, 19 Aug 2026 17:37:10 +0000</pubDate>
@@ -293,7 +293,7 @@
     <description>De la communication médiatisée par l’IA à l’usurpation d’authenticité : quels risques pour la confiance épistémique dans les relations intimes et thérapeutiques ?</description>
   </item>
   <item>
-    <title>採点における大規模言語モデル使用のリスク：大規模言語モデルと人間は大規模言語モデル生成の文章を人間のものより好むが、大規模言語モデルはより強い体系的バイアスを示す</title>
+    <title>採点における大規模言語モデル使用のリスク：大規模言語モデルと人間は人間作成文よりもモデル生成文を好むが、モデルはより強い体系的バイアスを示す</title>
     <link>https://osf.io/35utw</link>
     <guid isPermaLink="false">https://osf.io/35utw#ja</guid>
     <pubDate>Wed, 19 Aug 2026 17:37:09 +0000</pubDate>
@@ -314,7 +314,7 @@
     <description>A Systematic Review of Effects of Long-Term and Advanced Meditation on Mental Health: Psychiatric Symptoms, Stress, and Challenging Events</description>
   </item>
   <item>
-    <title>診断分類モデルにおける変分ベイズ推論のためのブートストラップ信頼区間</title>
+    <title>診断分類モデルにおける変分ベイズ推論のブートストラップ信頼区間</title>
     <link>https://osf.io/x5pa4</link>
     <guid isPermaLink="false">https://osf.io/x5pa4#ja</guid>
     <pubDate>Wed, 19 Aug 2026 07:40:43 +0000</pubDate>
@@ -342,14 +342,14 @@
     <description>Keep It in Sight: Reward Function Compression Through Goal Visibility</description>
   </item>
   <item>
-    <title>短縮版一般的人工知能態度尺度（Short GAAIS-10）の日本語版翻訳と検証：GAAIS-10-J</title>
+    <title>短縮版一般的人工知能態度尺度（Short GAAIS-10）の日本語版の翻訳と検証：GAAIS-10-J</title>
     <link>https://osf.io/fjdn6</link>
     <guid isPermaLink="false">https://osf.io/fjdn6#ja</guid>
     <pubDate>Tue, 18 Aug 2026 22:42:26 +0000</pubDate>
     <description>Translation and Validation of a Japanese Version of the Short General Attitudes Towards Artificial Intelligence Scale (Short GAAIS-10): The GAAIS-10-J</description>
   </item>
   <item>
-    <title>小さく脆弱な効果：Dwyerら（2007）の食品と身体イメージの評価条件付けに関する4つの概念的再現実験および刺激割り当て選択の影響</title>
+    <title>小さく脆弱な効果：Dwyerら（2007）の食品と身体イメージの評価条件付けに関する4つの概念的再現実験と刺激割当選択の影響</title>
     <link>https://osf.io/4wjch</link>
     <guid isPermaLink="false">https://osf.io/4wjch#ja</guid>
     <pubDate>Tue, 18 Aug 2026 22:42:26 +0000</pubDate>
