@@ -6,6 +6,13 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>スポーツ・運動心理学における眼球運動による脱感作および再処理療法の現状</title>
+    <link>https://osf.io/m2vay</link>
+    <guid isPermaLink="false">https://osf.io/m2vay#ja</guid>
+    <pubDate>Tue, 25 Aug 2026 21:11:39 +0000</pubDate>
+    <description>The Current State of Eye Movement Desensitization and Reprocessing Therapy in Sport and Exercise Psychology</description>
+  </item>
+  <item>
     <title>概念から教室へ：教師によるマインドフルネス介入の実践</title>
     <link>https://osf.io/jswch</link>
     <guid isPermaLink="false">https://osf.io/jswch#ja</guid>
@@ -13,14 +20,14 @@
     <description>From Concept to Classroom: Teachers Implementing Mindfulness-based Interventions</description>
   </item>
   <item>
-    <title>探すべき手がかりの認識が文脈手がかりにおける記憶連合を強化する</title>
+    <title>何を探すべきかを知ることが文脈手がかりにおける記憶連合を強化する</title>
     <link>https://osf.io/jxeq9</link>
     <guid isPermaLink="false">https://osf.io/jxeq9#ja</guid>
     <pubDate>Tue, 25 Aug 2026 20:48:53 +0000</pubDate>
     <description>Knowing what to look for strengthens memory associations in contextual cuing</description>
   </item>
   <item>
-    <title>養育者の/s/音の微細な変異が乳児の/s/カテゴリーに及ぼす影響</title>
+    <title>養育者の/s/の微細な変異が乳児の/s/カテゴリーに及ぼす予測的影響</title>
     <link>https://osf.io/3ue68</link>
     <guid isPermaLink="false">https://osf.io/3ue68#ja</guid>
     <pubDate>Tue, 25 Aug 2026 20:17:50 +0000</pubDate>
@@ -55,14 +62,14 @@
     <description>Reverse Engineering Depression: Data-Driven Discovery of Causal Dynamical Models</description>
   </item>
   <item>
-    <title>文化構成概念のコーディングにおける大規模言語モデルの検証：ポケモンを用いた最小限の反直感性の大規模検証</title>
+    <title>文化構成概念の符号化者としての大規模言語モデルの検証：ポケモンを用いた最小限の反直感性の大規模検証</title>
     <link>https://osf.io/x5qyz</link>
     <guid isPermaLink="false">https://osf.io/x5qyz#ja</guid>
     <pubDate>Tue, 25 Aug 2026 18:52:24 +0000</pubDate>
     <description>Validating LLMs as Coders of Cultural Constructs: a Large-Scale Test of Minimally Counterintuitiveness using Pokémon</description>
   </item>
   <item>
-    <title>改訂版EAWS危険度尺度記述の理解検証：大規模ヨーロッパ利用者調査に基づく雪崩リスク認知の知見</title>
+    <title>改訂版EAWS危険度尺度記述の理解度検証：大規模ヨーロッパ末端利用者調査に基づく雪崩リスク認知の知見</title>
     <link>https://osf.io/98w3z</link>
     <guid isPermaLink="false">https://osf.io/98w3z#ja</guid>
     <pubDate>Tue, 25 Aug 2026 18:52:24 +0000</pubDate>
@@ -90,7 +97,7 @@
     <description>People remember dot patterns during numerosity estimation tasks</description>
   </item>
   <item>
-    <title>ピンホール、開口部、単眼立体視、および教室内理論化の危険性：マッキントッシュ（2025）への応答</title>
+    <title>ピンホール、開口部、単眼立体視、および教室内理論化の危険性：McIntosh（2025）への応答</title>
     <link>https://osf.io/v3kz7</link>
     <guid isPermaLink="false">https://osf.io/v3kz7#ja</guid>
     <pubDate>Tue, 25 Aug 2026 18:01:22 +0000</pubDate>
@@ -111,14 +118,14 @@
     <description>Affective benefits of daily life activity and experiential diversity are associated with catecholamine systems across the adult life span</description>
   </item>
   <item>
-    <title>ルール変化時の注意の行方：フィードバック駆動型ルール再構成と注意セット安定化の眼球運動指標</title>
+    <title>ルール変更時の注意の行方：フィードバック駆動型ルール再構成と注意セットの安定化に関する視線追跡指標</title>
     <link>https://osf.io/qpdsf</link>
     <guid isPermaLink="false">https://osf.io/qpdsf#ja</guid>
     <pubDate>Tue, 25 Aug 2026 17:39:33 +0000</pubDate>
     <description>Where Attention Goes When Rules Change: Eye-Tracking Signatures of Feedback-Driven Rule Reconfiguration and Attentional-Set Stabilisation</description>
   </item>
   <item>
-    <title>限定的なクロスモーダル同意における構成概念の連続性：没入型バーチャルリアリティにおける注意ネットワークの検討</title>
+    <title>限定的なクロスモーダル同意による構成概念の連続性：没入型仮想現実における注意ネットワークの検討</title>
     <link>https://osf.io/sr95c</link>
     <guid isPermaLink="false">https://osf.io/sr95c#ja</guid>
     <pubDate>Tue, 25 Aug 2026 17:39:33 +0000</pubDate>
@@ -132,7 +139,7 @@
     <description>Changes in passion among baseball fans during and between seasons: A closer look at the seasonal attenuation of passion (SAP) hypothesis</description>
   </item>
   <item>
-    <title>すべての眼の遮蔽が同等ではない：表情的および機械的眼遮蔽が感情認識と視線追跡による視覚的注意に及ぼす異なる影響</title>
+    <title>すべての眼の遮蔽が同じではない：表情的および機械的眼遮蔽が感情認知と視線追跡による視覚的注意に及ぼす異なる影響</title>
     <link>https://osf.io/ngj2m</link>
     <guid isPermaLink="false">https://osf.io/ngj2m#ja</guid>
     <pubDate>Tue, 25 Aug 2026 17:39:32 +0000</pubDate>
@@ -146,7 +153,7 @@
     <description>Brief Summarization Improves Effectiveness of Fact-Checks, whereas a Mental-Imagery-Based Mnemonic Does Not</description>
   </item>
   <item>
-    <title>I-ROAR-Word：イタリア語単語読み検査のオンラインスクリーナーの妥当性と信頼性</title>
+    <title>I-ROAR-Word：イタリア語単語読みオンラインスクリーナーの妥当性と信頼性検証</title>
     <link>https://osf.io/a24uw</link>
     <guid isPermaLink="false">https://osf.io/a24uw#ja</guid>
     <pubDate>Tue, 25 Aug 2026 17:39:32 +0000</pubDate>
@@ -160,21 +167,21 @@
     <description>Dissociating motion adaptation and action expectation effects when viewing another&#x27;s gaze</description>
   </item>
   <item>
-    <title>自己帰属された成功が脳卒中後の高次更新を促進する：三層比較モデルの検討</title>
+    <title>自己帰属された成功が脳卒中後の高次更新を制御する：三層比較モデルの検討</title>
     <link>https://osf.io/43evh</link>
     <guid isPermaLink="false">https://osf.io/43evh#ja</guid>
     <pubDate>Mon, 24 Aug 2026 19:37:38 +0000</pubDate>
     <description>Self-attributed success gates higher-order updating after stroke: a three-layer comparator model</description>
   </item>
   <item>
-    <title>幸福感の多様な側面：幸福科学における見過ごされがちな混乱の要因への対処</title>
+    <title>ウェルビーイングの多様な側面：ウェルビーイング科学における見過ごされがちな混乱要因への対処</title>
     <link>https://osf.io/xg2hn</link>
     <guid isPermaLink="false">https://osf.io/xg2hn#ja</guid>
     <pubDate>Mon, 24 Aug 2026 19:01:10 +0000</pubDate>
     <description>Fifty Shades of Well-Being: Addressing an Overlooked Source of Confusion in the Science of Well-Being.</description>
   </item>
   <item>
-    <title>ウェルビーイングの動態に関する推論の速い変化と遅い変化のサンプリング</title>
+    <title>幸福感の動態に関する推論の速い変化と遅い変化のサンプリング</title>
     <link>https://osf.io/5khj3</link>
     <guid isPermaLink="false">https://osf.io/5khj3#ja</guid>
     <pubDate>Mon, 24 Aug 2026 19:01:10 +0000</pubDate>
@@ -188,7 +195,7 @@
     <description>A Stress Beliefs Intervention Reduces Daily Somatic Symptoms and Negative Affect: Results of a Two-Center Randomized Controlled Trial</description>
   </item>
   <item>
-    <title>研究助手から代理指導教員へ：大学院生による生成AIの多様な活用に関する質的研究</title>
+    <title>研究助手から代理指導教員へ：大学院生の多様な生成AI活用に関する質的研究</title>
     <link>https://osf.io/wf3y8</link>
     <guid isPermaLink="false">https://osf.io/wf3y8#ja</guid>
     <pubDate>Mon, 24 Aug 2026 19:01:09 +0000</pubDate>
@@ -216,7 +223,7 @@
     <description>Mood recovery via positive autobiographical recall: The roles of perceived importance and emotional intensity</description>
   </item>
   <item>
-    <title>ディスレクシアの有無による児童の語彙予測処理における類似性</title>
+    <title>ディスレクシアの有無による児童の語彙予測処理の類似性</title>
     <link>https://osf.io/yx528</link>
     <guid isPermaLink="false">https://osf.io/yx528#ja</guid>
     <pubDate>Mon, 24 Aug 2026 19:01:08 +0000</pubDate>
@@ -230,7 +237,7 @@
     <description>What parents want their children to become: Character strengths as a framework for understanding parental socialization goals</description>
   </item>
   <item>
-    <title>日常生活における情動反応性と接近-回避行動：ビネット法と移動式評価データからの知見</title>
+    <title>日常生活における情動反応性と接近-回避行動：ビネット法と携帯評価データからの知見</title>
     <link>https://osf.io/cvgu8</link>
     <guid isPermaLink="false">https://osf.io/cvgu8#ja</guid>
     <pubDate>Mon, 24 Aug 2026 16:50:10 +0000</pubDate>
@@ -244,14 +251,14 @@
     <description>Attrition in the Twins Early Development Study: predictors, consequences, and corrections</description>
   </item>
   <item>
-    <title>民主主義を強化するための枠組みの拡張</title>
+    <title>民主主義を強化するためのレシピの拡張</title>
     <link>https://osf.io/g2zfc</link>
     <guid isPermaLink="false">https://osf.io/g2zfc#ja</guid>
     <pubDate>Mon, 24 Aug 2026 16:50:09 +0000</pubDate>
     <description>Broadening the Recipe to Strengthen Democracy</description>
   </item>
   <item>
-    <title>人はAI仲介者を識別できるか？AI支援紛争解決に関するパイロットチューリングテスト研究</title>
+    <title>人はAI仲介者を識別できるか？AI支援による紛争解決のパイロットチューリングテスト研究</title>
     <link>https://osf.io/yvn3q</link>
     <guid isPermaLink="false">https://osf.io/yvn3q#ja</guid>
     <pubDate>Sun, 23 Aug 2026 17:58:44 +0000</pubDate>
@@ -272,7 +279,7 @@
     <description>Improving Brain-Behaviour Causality with Neurofeedback</description>
   </item>
   <item>
-    <title>社会的処方リンクワーカーの孤独を感じる人々支援における研修に対する認識と研修ニーズ：質的研究</title>
+    <title>社会的処方リンクワーカーの孤独感を抱える人々支援における研修に対する認識と研修ニーズ：質的研究</title>
     <link>https://osf.io/ndvx8</link>
     <guid isPermaLink="false">https://osf.io/ndvx8#ja</guid>
     <pubDate>Sat, 22 Aug 2026 18:15:25 +0000</pubDate>
@@ -286,7 +293,7 @@
     <description>The Neural Processing of Speech Temporal Modulations During Early Phonological Development</description>
   </item>
   <item>
-    <title>文明の周期性：道家の全体観に基づく人類文明発展の法則性の認知</title>
+    <title>文明の周期性：道家の全体観に基づく人類文明発展の認知的法則</title>
     <link>https://osf.io/dbzay</link>
     <guid isPermaLink="false">https://osf.io/dbzay#ja</guid>
     <pubDate>Sat, 22 Aug 2026 10:34:29 +0000</pubDate>
@@ -300,28 +307,28 @@
     <description>The Nature and Origins of Depression in Late Life: Restoring the Focus on Severe Illness</description>
   </item>
   <item>
-    <title>拡張された心から結合の柔軟性へ：教育における認知エコソーシングと生成的AIの活用</title>
+    <title>拡張された心から結合の柔軟性へ：認知エコソーシングと教育における生成的AIの活用</title>
     <link>https://osf.io/c6yuw</link>
     <guid isPermaLink="false">https://osf.io/c6yuw#ja</guid>
     <pubDate>Sat, 22 Aug 2026 10:34:29 +0000</pubDate>
     <description>From Extended Minds to Coupling Flexibility: Cognitive Eco-Sourcing and Generative AI in Education</description>
   </item>
   <item>
-    <title>反事実的言語理解における自己と他者の識別：多変量EEGデコーディングと大規模言語モデルによる証拠</title>
+    <title>反事実的言語理解における自己と他者の識別：多変量EEGデコーディングおよび大規模言語モデルからの証拠によるデフォルトモードネットワークの役割</title>
     <link>https://osf.io/y9458</link>
     <guid isPermaLink="false">https://osf.io/y9458#ja</guid>
     <pubDate>Sat, 22 Aug 2026 10:01:38 +0000</pubDate>
     <description>Default Mode Network Distinguishes Self from Other During Counterfactual Language Comprehension: Evidence from Multivariate EEG Decoding and LLMs</description>
   </item>
   <item>
-    <title>cogmod Rパッケージ：反応時間、選択、主観的評価に対する使いやすいベイズ認知モデルと計算神経心理学への応用</title>
+    <title>cogmod Rパッケージ：反応時間、選択、主観的評価に対応した使いやすいベイズ認知モデルと計算神経心理学への応用</title>
     <link>https://osf.io/5h62c</link>
     <guid isPermaLink="false">https://osf.io/5h62c#ja</guid>
     <pubDate>Fri, 21 Aug 2026 21:54:33 +0000</pubDate>
     <description>The cogmod R Package: Easy-to-Use Bayesian Cognitive Models for Reaction Times, Choices and Subjective Ratings, with Applications to Computational Neuropsychology</description>
   </item>
   <item>
-    <title>問題的なソーシャルメディア使用が孤独感、先延ばし傾向および自尊心に与える影響：ギリシャにおける横断的研究</title>
+    <title>問題的なソーシャルメディア使用が孤独感、先延ばし行動および自尊心に与える影響：ギリシャにおける横断的研究</title>
     <link>https://osf.io/rqcp5</link>
     <guid isPermaLink="false">https://osf.io/rqcp5#ja</guid>
     <pubDate>Fri, 21 Aug 2026 21:33:46 +0000</pubDate>
@@ -347,13 +354,6 @@
     <guid isPermaLink="false">https://osf.io/64epg#ja</guid>
     <pubDate>Fri, 21 Aug 2026 20:23:54 +0000</pubDate>
     <description>Autistic Burnout Severity Items – French Translation (ABSI-Fr)</description>
-  </item>
-  <item>
-    <title>回避性・制限性食欲不振症の子どもを持つ親の症状認識、助けを求める行動、および共同意思決定</title>
-    <link>https://osf.io/uty72</link>
-    <guid isPermaLink="false">https://osf.io/uty72#ja</guid>
-    <pubDate>Fri, 21 Aug 2026 20:23:54 +0000</pubDate>
-    <description>Symptom Recognition, Help-seeking behaviour, and Joint Decision-making among Parents of Children with Avoidant/Restrictive Food Intake Disorder</description>
   </item>
 </channel>
 </rss>
