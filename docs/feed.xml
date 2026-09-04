@@ -6,6 +6,76 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>ランダムフォレストを用いた項目特性差（DIF）検出の解明：DIF効果量、項目影響効果量および因子相関の役割</title>
+    <link>https://osf.io/nw4ku</link>
+    <guid isPermaLink="false">https://osf.io/nw4ku#ja</guid>
+    <pubDate>Fri, 04 Sep 2026 18:10:08 +0000</pubDate>
+    <description>Unpacking Random Forest-Based Detection of Differential Item Functioning (DIF): The Roles of DIF and Item Impact Effect Sizes and Factor Correlation</description>
+  </item>
+  <item>
+    <title>分割注意下における周辺視野依存が動的自然場面での危険位置特定を損ない、注意指示によっても改善されないこと</title>
+    <link>https://osf.io/tcz9u</link>
+    <guid isPermaLink="false">https://osf.io/tcz9u#ja</guid>
+    <pubDate>Fri, 04 Sep 2026 18:10:07 +0000</pubDate>
+    <description>Reliance on peripheral vision under divided attention impairs hazard localization in dynamic natural scenes and is not mitigated by attentional cues</description>
+  </item>
+  <item>
+    <title>子どもの成長期における母親および父親の心理的苦痛プロファイルと子の自殺未遂との関連</title>
+    <link>https://osf.io/p9rkj</link>
+    <guid isPermaLink="false">https://osf.io/p9rkj#ja</guid>
+    <pubDate>Fri, 04 Sep 2026 18:10:07 +0000</pubDate>
+    <description>Maternal and Paternal Psychological Distress Profiles Across Childhood and Offspring Suicide Attempt</description>
+  </item>
+  <item>
+    <title>パーキンソン病患者における自閉症スペクトラム特性の増加と機能的結果との関連性の検討</title>
+    <link>https://osf.io/sk8tu</link>
+    <guid isPermaLink="false">https://osf.io/sk8tu#ja</guid>
+    <pubDate>Fri, 04 Sep 2026 18:10:07 +0000</pubDate>
+    <description>Are Autistic Traits Elevated and Linked to Functional Outcomes Among People with Parkinson’s Disease?</description>
+  </item>
+  <item>
+    <title>説得戦略の注釈付きデータセットの開発とテキスト内説得戦略検出のための自然言語処理ツールの初期検証</title>
+    <link>https://osf.io/jatn4</link>
+    <guid isPermaLink="false">https://osf.io/jatn4#ja</guid>
+    <pubDate>Fri, 04 Sep 2026 18:10:07 +0000</pubDate>
+    <description>Development of an annotated dataset of persuasion strategies and initial testing of a natural language processing tool to detect persuasion strategies in text</description>
+  </item>
+  <item>
+    <title>相乗効果から冗長性へ：意識の情報関係的説明</title>
+    <link>https://osf.io/cz4bw</link>
+    <guid isPermaLink="false">https://osf.io/cz4bw#ja</guid>
+    <pubDate>Fri, 04 Sep 2026 18:10:07 +0000</pubDate>
+    <description>From synergy to redundancy: An information-relation account of consciousness</description>
+  </item>
+  <item>
+    <title>視線入力およびマウスタイピングにおける連続入力の知覚的および運動的制約</title>
+    <link>https://osf.io/xgyqz</link>
+    <guid isPermaLink="false">https://osf.io/xgyqz#ja</guid>
+    <pubDate>Fri, 04 Sep 2026 18:10:06 +0000</pubDate>
+    <description>Perceptual and Motor Constraints on Sequential Input in Gaze and Mouse Typing</description>
+  </item>
+  <item>
+    <title>成人期における意味的意思決定の決定要因の変動</title>
+    <link>https://osf.io/e2hsy</link>
+    <guid isPermaLink="false">https://osf.io/e2hsy#ja</guid>
+    <pubDate>Fri, 04 Sep 2026 18:10:06 +0000</pubDate>
+    <description>Variation in the determinants of semantic decision-making across adulthood</description>
+  </item>
+  <item>
+    <title>訂正時の誤情報の想起が高齢者および若年成人の後続記憶を促進する</title>
+    <link>https://osf.io/b72pk</link>
+    <guid isPermaLink="false">https://osf.io/b72pk#ja</guid>
+    <pubDate>Fri, 04 Sep 2026 18:10:06 +0000</pubDate>
+    <description>Reminders of False Information During Corrections Enhance Subsequent Memory in Older and Younger Adults</description>
+  </item>
+  <item>
+    <title>強化学習を用いた精神力動の解明</title>
+    <link>https://osf.io/vcnxt</link>
+    <guid isPermaLink="false">https://osf.io/vcnxt#ja</guid>
+    <pubDate>Fri, 04 Sep 2026 18:10:06 +0000</pubDate>
+    <description>Using reinforcement learning to explain psychodynamics</description>
+  </item>
+  <item>
     <title>Refbank：反復参照ゲームデータのオープンリポジトリ</title>
     <link>https://osf.io/d93gy</link>
     <guid isPermaLink="false">https://osf.io/d93gy#ja</guid>
@@ -20,7 +90,7 @@
     <description>Bounding Causal Effects in Pretest-Posttest Designs with a Control Group</description>
   </item>
   <item>
-    <title>異性愛者、ゲイ・レズビアン、バイセクシュアル個人における9つの関係関連尺度の測定不変性の検証</title>
+    <title>異性愛者、ゲイ・レズビアン、バイセクシュアル個人における9つの対人関係関連尺度の測定不変性の検証</title>
     <link>https://osf.io/qvxzu</link>
     <guid isPermaLink="false">https://osf.io/qvxzu#ja</guid>
     <pubDate>Thu, 03 Sep 2026 19:47:21 +0000</pubDate>
@@ -34,7 +104,7 @@
     <description>Men calibrate their body ideals to women’s mate preferences</description>
   </item>
   <item>
-    <title>構造的に顕著な言語項目は作業記憶において特権的な状態を保持する：迅速なアクセスの時間経過証拠</title>
+    <title>構造的に顕著な言語項目は作業記憶において特権的地位を占める：迅速なアクセスの時間経過に関する証拠</title>
     <link>https://osf.io/aphwj</link>
     <guid isPermaLink="false">https://osf.io/aphwj#ja</guid>
     <pubDate>Thu, 03 Sep 2026 19:47:20 +0000</pubDate>
@@ -48,7 +118,7 @@
     <description>Cross-cultural and Indigenous perspectives on music and social bonding</description>
   </item>
   <item>
-    <title>言語ベース評価における限定的バイアスの証拠</title>
+    <title>言語ベース評価における限定的なバイアスの証拠</title>
     <link>https://osf.io/zrb3v</link>
     <guid isPermaLink="false">https://osf.io/zrb3v#ja</guid>
     <pubDate>Thu, 03 Sep 2026 17:09:20 +0000</pubDate>
@@ -62,14 +132,14 @@
     <description>A moderated nonlinear factor analysis workflow for detecting and estimating multiple sources of differential item functioning and evaluating their impact on scale scores</description>
   </item>
   <item>
-    <title>過去50年間における子ども・青年の精神健康問題の有病率は増加したか？反復横断研究の系統的レビューとメタアナリシス</title>
+    <title>過去50年間における児童・青年の精神健康問題の有病率は増加したか？反復横断研究の系統的レビューとメタアナリシス</title>
     <link>https://osf.io/zw5y9</link>
     <guid isPermaLink="false">https://osf.io/zw5y9#ja</guid>
     <pubDate>Thu, 03 Sep 2026 17:09:20 +0000</pubDate>
     <description>Has the prevalence of mental health problems of children and adolescents increased in recent 50 years? Systematic review and meta-analysis of repeated cross-sectional studies</description>
   </item>
   <item>
-    <title>自尊感情と自己報告による性格特性：特性に対する態度が影響を及ぼす場合</title>
+    <title>自己評価と自己報告による性格特性：特性に対する態度が影響を及ぼす場合</title>
     <link>https://osf.io/8yzhe</link>
     <guid isPermaLink="false">https://osf.io/8yzhe#ja</guid>
     <pubDate>Thu, 03 Sep 2026 17:09:19 +0000</pubDate>
@@ -83,7 +153,7 @@
     <description>Ensemble feature distribution representations support visual stability</description>
   </item>
   <item>
-    <title>外国語単語学習における学習者主導のレジスター</title>
+    <title>外国語語彙習得における学習者主導の言語変種</title>
     <link>https://osf.io/yx3t7</link>
     <guid isPermaLink="false">https://osf.io/yx3t7#ja</guid>
     <pubDate>Thu, 03 Sep 2026 17:09:19 +0000</pubDate>
@@ -111,7 +181,7 @@
     <description>Positive Affect is Associated with Interactive Social Media Use: An Ecological Momentary Assessment Study</description>
   </item>
   <item>
-    <title>数えられているが理解されていない：イングランドにおけるNEET若年層に関する行政および研究データの限界と可能性の迅速レビュー</title>
+    <title>数えられているが理解されていない：イングランドにおけるNEET若年層に関する行政および研究データの可能性と限界の迅速レビュー</title>
     <link>https://osf.io/uxy27</link>
     <guid isPermaLink="false">https://osf.io/uxy27#ja</guid>
     <pubDate>Wed, 02 Sep 2026 13:49:45 +0000</pubDate>
@@ -153,14 +223,14 @@
     <description>Predictive Priority Shapes Human Statistical Learning in Multi-Regularity Environments</description>
   </item>
   <item>
-    <title>誤った証拠か？心理療法研究と実践の関連に関する臨床家の省察の反射的テーマ分析</title>
+    <title>誤った証拠か？心理療法研究と実践の関連に関する臨床家の内省的テーマ分析</title>
     <link>https://osf.io/au7pc</link>
     <guid isPermaLink="false">https://osf.io/au7pc#ja</guid>
     <pubDate>Wed, 02 Sep 2026 13:49:44 +0000</pubDate>
     <description>Misplaced Evidence? A Reflexive Thematic Analysis of Clinicians’ Reflections on the Connection Between Psychotherapy Research and Practice</description>
   </item>
   <item>
-    <title>アルコール使用の情動調節仮説の数学的・計算論的形式化</title>
+    <title>アルコール使用の情動調節仮説の数学的・計算的形式化</title>
     <link>https://osf.io/znsvf</link>
     <guid isPermaLink="false">https://osf.io/znsvf#ja</guid>
     <pubDate>Wed, 02 Sep 2026 13:49:43 +0000</pubDate>
@@ -174,21 +244,21 @@
     <description>Gradual Progress or Breakthrough Moments? Antecedents and Consequences of Sudden Gains in a Digital Neuroticism Intervention</description>
   </item>
   <item>
-    <title>類似性か累積負荷か？母子ペアにおける自閉症特性と親のストレスの応答曲面分析</title>
+    <title>類似性か累積負荷か？母子ペアにおける自閉症特性と親のストレスの応答面分析</title>
     <link>https://osf.io/dgfn7</link>
     <guid isPermaLink="false">https://osf.io/dgfn7#ja</guid>
     <pubDate>Mon, 31 Aug 2026 20:54:44 +0000</pubDate>
     <description>Similarity or Cumulative Load? A Response Surface Analysis of Autistic Traits and Parental Stress in Mother-Child Dyads</description>
   </item>
   <item>
-    <title>思いやりによる変容：善行者軽蔑、非暴力コミュニケーション、自己慈悲をつなぐ道徳主義的評価と共感的評価の導入</title>
+    <title>思いやりによる変容：善行者軽視、非暴力コミュニケーション、自己慈悲をつなぐ道徳主義的評価と共感的評価の導入</title>
     <link>https://osf.io/5z2gc</link>
     <guid isPermaLink="false">https://osf.io/5z2gc#ja</guid>
     <pubDate>Mon, 31 Aug 2026 20:54:44 +0000</pubDate>
     <description>Change by Compassion: Introducing moralistic versus compassionate evaluation as a bridge between do-gooder derogation, nonviolent communication, and self-compassion</description>
   </item>
   <item>
-    <title>心の知覚における不確実性の追跡：ロボットの精神能力の肯定と否定の役割の検討</title>
+    <title>心の知覚における不確実性の追跡：ロボットの精神能力を肯定することと否定することの役割の検討</title>
     <link>https://osf.io/aq6e2</link>
     <guid isPermaLink="false">https://osf.io/aq6e2#ja</guid>
     <pubDate>Mon, 31 Aug 2026 20:54:43 +0000</pubDate>
@@ -202,14 +272,14 @@
     <description>Seeking and integrating social information under uncertainty: the role of high stakes and risky others</description>
   </item>
   <item>
-    <title>周産期における不眠と感情調節障害：不安および抑うつとの日々および縦断的関連性</title>
+    <title>周産期における不眠症と感情調節障害：不安および抑うつとの日々および縦断的関連</title>
     <link>https://osf.io/9en24</link>
     <guid isPermaLink="false">https://osf.io/9en24#ja</guid>
     <pubDate>Mon, 31 Aug 2026 20:54:43 +0000</pubDate>
     <description>Insomnia and Emotion Dysregulation Across the Perinatal Period: Daily and Longitudinal Associations with Anxiety and Depression</description>
   </item>
   <item>
-    <title>社会的治癒のグローバル展開：56か国における社会的同一視が幸福感に及ぼす影響に対する社会経済的および文化的要因の役割</title>
+    <title>社会的治癒のグローバル展開：56か国における社会的同一視が幸福感に与える影響に対する社会経済的および文化的要因の役割</title>
     <link>https://osf.io/p7gu6</link>
     <guid isPermaLink="false">https://osf.io/p7gu6#ja</guid>
     <pubDate>Mon, 31 Aug 2026 20:54:43 +0000</pubDate>
@@ -223,7 +293,7 @@
     <description>Developmental changes in the weighting of prosodic cues</description>
   </item>
   <item>
-    <title>周産期精神健康における感情調整障害の質的研究</title>
+    <title>周産期精神健康における感情調節障害の質的研究</title>
     <link>https://osf.io/2fnrt</link>
     <guid isPermaLink="false">https://osf.io/2fnrt#ja</guid>
     <pubDate>Mon, 31 Aug 2026 20:54:42 +0000</pubDate>
@@ -265,7 +335,7 @@
     <description>(Im)moral autobiographical memory: the role of morality in past and future personal events</description>
   </item>
   <item>
-    <title>肉消費削減のための行動変容戦略：多層メタ分析</title>
+    <title>肉消費削減のための行動変容戦略：多層メタアナリシス</title>
     <link>https://osf.io/jce7w</link>
     <guid isPermaLink="false">https://osf.io/jce7w#ja</guid>
     <pubDate>Sun, 30 Aug 2026 18:23:04 +0000</pubDate>
@@ -284,76 +354,6 @@
     <guid isPermaLink="false">https://osf.io/nc4kh#ja</guid>
     <pubDate>Sat, 29 Aug 2026 01:55:26 +0000</pubDate>
     <description>Stimulus selection and sample-size calculation for statistical test of hierarchical cognitive model</description>
-  </item>
-  <item>
-    <title>保証の再検討：理論的精緻化、尺度開発、および今後の研究展望</title>
-    <link>https://osf.io/wjey7</link>
-    <guid isPermaLink="false">https://osf.io/wjey7#ja</guid>
-    <pubDate>Fri, 28 Aug 2026 18:49:05 +0000</pubDate>
-    <description>Revisiting Assurance: Theoretical Refinement, Scale Development, and Future Research</description>
-  </item>
-  <item>
-    <title>パートナーを読み手として：認知、開示リスク、および二者反射的テーマ分析における分析単位</title>
-    <link>https://osf.io/384ku</link>
-    <guid isPermaLink="false">https://osf.io/384ku#ja</guid>
-    <pubDate>Fri, 28 Aug 2026 18:49:05 +0000</pubDate>
-    <description>The partner as reader: recognition, disclosure risk, and the unit of analysis in dyadic reflexive thematic analysis</description>
-  </item>
-  <item>
-    <title>自閉症成人を対象とした自己を文脈として捉える実験的検討：自閉症アイデンティティの受容に向けて</title>
-    <link>https://osf.io/23cuq</link>
-    <guid isPermaLink="false">https://osf.io/23cuq#ja</guid>
-    <pubDate>Fri, 28 Aug 2026 18:49:05 +0000</pubDate>
-    <description>Making Room for Autistic Identity: An Experimental Investigation of Self-as-Context with Autistic Adults</description>
-  </item>
-  <item>
-    <title>孤独感と認知機能の自己知覚：大規模日次調査からの証拠</title>
-    <link>https://osf.io/a9ncj</link>
-    <guid isPermaLink="false">https://osf.io/a9ncj#ja</guid>
-    <pubDate>Fri, 28 Aug 2026 18:49:05 +0000</pubDate>
-    <description>Loneliness and Perceived Cognitive Function: Evidence from a Large-Scale Daily Study</description>
-  </item>
-  <item>
-    <title>心理学における共有研究資料は広くダウンロードされるが再利用は困難であることが多い</title>
-    <link>https://osf.io/yswku</link>
-    <guid isPermaLink="false">https://osf.io/yswku#ja</guid>
-    <pubDate>Fri, 28 Aug 2026 18:49:04 +0000</pubDate>
-    <description>Shared research materials in psychology are widely downloaded but often difficult to reuse</description>
-  </item>
-  <item>
-    <title>言語誘発視覚期待に対する神経応答を予測する視覚イメージ鮮明度の個人差</title>
-    <link>https://osf.io/q4shj</link>
-    <guid isPermaLink="false">https://osf.io/q4shj#ja</guid>
-    <pubDate>Thu, 27 Aug 2026 22:38:23 +0000</pubDate>
-    <description>Individual differences in visual imagery vividness predict neural responses to language-induced visual expectations</description>
-  </item>
-  <item>
-    <title>心理学者のための実践的因果媒介分析ワークフロー：概念から実装まで</title>
-    <link>https://osf.io/sz7vx</link>
-    <guid isPermaLink="false">https://osf.io/sz7vx#ja</guid>
-    <pubDate>Thu, 27 Aug 2026 22:38:23 +0000</pubDate>
-    <description>A Practical Causal Mediation Workflow for Psychologists: From Concepts to Implementation</description>
-  </item>
-  <item>
-    <title>注意の目的とは何か：情報サンプリングの制御としての注意理論</title>
-    <link>https://osf.io/q2nry</link>
-    <guid isPermaLink="false">https://osf.io/q2nry#ja</guid>
-    <pubDate>Thu, 27 Aug 2026 22:38:22 +0000</pubDate>
-    <description>What is attention for?  A theory of attention as control  over information sampling</description>
-  </item>
-  <item>
-    <title>人間とAIの社会的パートナーは類似した役割にもかかわらず異なる関係規範を求める</title>
-    <link>https://osf.io/zt6vh</link>
-    <guid isPermaLink="false">https://osf.io/zt6vh#ja</guid>
-    <pubDate>Thu, 27 Aug 2026 22:38:22 +0000</pubDate>
-    <description>People want human and AI social partners to follow different relational norms despite similar roles</description>
-  </item>
-  <item>
-    <title>神経画像トレーニングフレームワークおよび認定プログラムの開発</title>
-    <link>https://osf.io/r36hz</link>
-    <guid isPermaLink="false">https://osf.io/r36hz#ja</guid>
-    <pubDate>Thu, 27 Aug 2026 22:38:22 +0000</pubDate>
-    <description>Developing a Neuroimaging Training Framework and Certificate Program</description>
   </item>
 </channel>
 </rss>
