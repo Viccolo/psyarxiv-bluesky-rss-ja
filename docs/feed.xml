@@ -6,14 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>ランダムフォレストを用いた項目反応差異（DIF）検出の解明：DIF効果量、項目影響効果量および因子相関の役割</title>
+    <title>ランダムフォレストを用いた項目特性差異（DIF）検出の解明：DIF効果量、項目影響効果量および因子相関の役割</title>
     <link>https://osf.io/nw4ku</link>
     <guid isPermaLink="false">https://osf.io/nw4ku#ja</guid>
     <pubDate>Fri, 04 Sep 2026 18:10:08 +0000</pubDate>
     <description>Unpacking Random Forest-Based Detection of Differential Item Functioning (DIF): The Roles of DIF and Item Impact Effect Sizes and Factor Correlation</description>
   </item>
   <item>
-    <title>分割注意下における周辺視野への依存は動的自然場面における危険位置特定を損ない、注意キューによっても軽減されない</title>
+    <title>分割注意下における周辺視野依存は動的自然場面での危険位置特定を損ない、注意喚起によっても改善されない</title>
     <link>https://osf.io/tcz9u</link>
     <guid isPermaLink="false">https://osf.io/tcz9u#ja</guid>
     <pubDate>Fri, 04 Sep 2026 18:10:07 +0000</pubDate>
@@ -27,7 +27,7 @@
     <description>Maternal and Paternal Psychological Distress Profiles Across Childhood and Offspring Suicide Attempt</description>
   </item>
   <item>
-    <title>パーキンソン病患者における自閉症特性の増加と機能的結果との関連性検討</title>
+    <title>パーキンソン病患者における自閉症スペクトラム特性の増加と機能的成果との関連性の検討</title>
     <link>https://osf.io/sk8tu</link>
     <guid isPermaLink="false">https://osf.io/sk8tu#ja</guid>
     <pubDate>Fri, 04 Sep 2026 18:10:07 +0000</pubDate>
@@ -41,7 +41,7 @@
     <description>Development of an annotated dataset of persuasion strategies and initial testing of a natural language processing tool to detect persuasion strategies in text</description>
   </item>
   <item>
-    <title>相乗効果から冗長性へ：意識の情報関係論的考察</title>
+    <title>相乗効果から冗長性へ：意識の情報関係的解釈</title>
     <link>https://osf.io/cz4bw</link>
     <guid isPermaLink="false">https://osf.io/cz4bw#ja</guid>
     <pubDate>Fri, 04 Sep 2026 18:10:07 +0000</pubDate>
@@ -62,7 +62,7 @@
     <description>Variation in the determinants of semantic decision-making across adulthood</description>
   </item>
   <item>
-    <title>訂正時の誤情報の想起が高齢者および若年者の後続記憶を促進する</title>
+    <title>訂正時の誤情報の想起が高齢者および若年成人の後続記憶を促進する</title>
     <link>https://osf.io/b72pk</link>
     <guid isPermaLink="false">https://osf.io/b72pk#ja</guid>
     <pubDate>Fri, 04 Sep 2026 18:10:06 +0000</pubDate>
@@ -83,14 +83,14 @@
     <description>Refbank: an open repository of iterated reference game data</description>
   </item>
   <item>
-    <title>統制群を用いた事前事後測定デザインにおける因果効果の境界推定</title>
+    <title>対照群を用いた事前事後測定デザインにおける因果効果の範囲推定</title>
     <link>https://osf.io/f98ym</link>
     <guid isPermaLink="false">https://osf.io/f98ym#ja</guid>
     <pubDate>Thu, 03 Sep 2026 19:47:21 +0000</pubDate>
     <description>Bounding Causal Effects in Pretest-Posttest Designs with a Control Group</description>
   </item>
   <item>
-    <title>異性愛者、ゲイ・レズビアン、バイセクシュアル個人間における9つの対人関係関連尺度の測定不変性の検証</title>
+    <title>異性愛者、ゲイ・レズビアン、バイセクシュアル個人間における9つの関係関連尺度の測定不変性の検証</title>
     <link>https://osf.io/qvxzu</link>
     <guid isPermaLink="false">https://osf.io/qvxzu#ja</guid>
     <pubDate>Thu, 03 Sep 2026 19:47:21 +0000</pubDate>
@@ -132,7 +132,7 @@
     <description>A moderated nonlinear factor analysis workflow for detecting and estimating multiple sources of differential item functioning and evaluating their impact on scale scores</description>
   </item>
   <item>
-    <title>過去50年間における児童・思春期の精神健康問題の有病率は増加したか？反復横断研究の系統的レビューとメタアナリシス</title>
+    <title>過去50年間における子ども・青年の精神健康問題の有病率は増加したか？反復横断研究の系統的レビューとメタアナリシス</title>
     <link>https://osf.io/zw5y9</link>
     <guid isPermaLink="false">https://osf.io/zw5y9#ja</guid>
     <pubDate>Thu, 03 Sep 2026 17:09:20 +0000</pubDate>
@@ -223,14 +223,14 @@
     <description>Predictive Priority Shapes Human Statistical Learning in Multi-Regularity Environments</description>
   </item>
   <item>
-    <title>誤った証拠か？心理療法研究と実践の関連に関する臨床家の省察を対象とした反射的テーマ分析</title>
+    <title>誤った証拠か？心理療法研究と実践の関連に関する臨床家の省察のリフレクシブ・テーマ分析</title>
     <link>https://osf.io/au7pc</link>
     <guid isPermaLink="false">https://osf.io/au7pc#ja</guid>
     <pubDate>Wed, 02 Sep 2026 13:49:44 +0000</pubDate>
     <description>Misplaced Evidence? A Reflexive Thematic Analysis of Clinicians’ Reflections on the Connection Between Psychotherapy Research and Practice</description>
   </item>
   <item>
-    <title>アルコール使用の情動調節仮説の数学的・計算論的形式化</title>
+    <title>アルコール使用の情動調節仮説の数理的・計算的形式化</title>
     <link>https://osf.io/znsvf</link>
     <guid isPermaLink="false">https://osf.io/znsvf#ja</guid>
     <pubDate>Wed, 02 Sep 2026 13:49:43 +0000</pubDate>
@@ -244,14 +244,14 @@
     <description>Gradual Progress or Breakthrough Moments? Antecedents and Consequences of Sudden Gains in a Digital Neuroticism Intervention</description>
   </item>
   <item>
-    <title>類似性か累積負荷か？母子ペアにおける自閉症特性と親のストレスの応答曲面分析</title>
+    <title>類似性か累積負荷か？母子二者間における自閉症特性と親のストレスの応答曲面分析</title>
     <link>https://osf.io/dgfn7</link>
     <guid isPermaLink="false">https://osf.io/dgfn7#ja</guid>
     <pubDate>Mon, 31 Aug 2026 20:54:44 +0000</pubDate>
     <description>Similarity or Cumulative Load? A Response Surface Analysis of Autistic Traits and Parental Stress in Mother-Child Dyads</description>
   </item>
   <item>
-    <title>思いやりによる変容：善行者軽蔑、非暴力コミュニケーション、自己慈悲をつなぐ道徳的評価と共感的評価の導入</title>
+    <title>思いやりによる変化：善行者軽視、非暴力コミュニケーション、自己慈悲をつなぐ道徳的評価と共感的評価の導入</title>
     <link>https://osf.io/5z2gc</link>
     <guid isPermaLink="false">https://osf.io/5z2gc#ja</guid>
     <pubDate>Mon, 31 Aug 2026 20:54:44 +0000</pubDate>
@@ -279,7 +279,7 @@
     <description>Insomnia and Emotion Dysregulation Across the Perinatal Period: Daily and Longitudinal Associations with Anxiety and Depression</description>
   </item>
   <item>
-    <title>社会的治癒のグローバル展開：56か国における社会的同一視が幸福感に及ぼす影響に対する社会経済的および文化的要因の役割</title>
+    <title>社会的治癒のグローバル展開：56か国における社会的同一性が幸福感に与える影響に対する社会経済的および文化的要因の役割</title>
     <link>https://osf.io/p7gu6</link>
     <guid isPermaLink="false">https://osf.io/p7gu6#ja</guid>
     <pubDate>Mon, 31 Aug 2026 20:54:43 +0000</pubDate>
@@ -300,7 +300,7 @@
     <description>A Qualitative Investigation of Emotion Dysregulation in Perinatal Mental Health</description>
   </item>
   <item>
-    <title>知的障害者の回復活動と職場でのウェルビーイング：回復経験の媒介効果の検討</title>
+    <title>知的障害者の回復活動と職場でのウェルビーイング：回復体験の媒介効果の検討</title>
     <link>https://osf.io/ks8w7</link>
     <guid isPermaLink="false">https://osf.io/ks8w7#ja</guid>
     <pubDate>Mon, 31 Aug 2026 20:54:42 +0000</pubDate>
@@ -314,7 +314,7 @@
     <description>Identifying effective misperception correction messages to increase public support for biodiversity policies</description>
   </item>
   <item>
-    <title>WEIRDおよび白人中心主義を超えて：グローバルに包摂的なスポーツリーダーシップ科学の構築</title>
+    <title>WEIRDと白人を超えて：グローバルに包摂的なスポーツリーダーシップ科学の構築</title>
     <link>https://osf.io/ng2y7</link>
     <guid isPermaLink="false">https://osf.io/ng2y7#ja</guid>
     <pubDate>Mon, 31 Aug 2026 20:54:41 +0000</pubDate>
@@ -335,7 +335,7 @@
     <description>(Im)moral autobiographical memory: the role of morality in past and future personal events</description>
   </item>
   <item>
-    <title>肉消費削減のための行動変容戦略：多層メタアナリシス</title>
+    <title>肉消費削減のための行動変容戦略：多層メタ分析</title>
     <link>https://osf.io/jce7w</link>
     <guid isPermaLink="false">https://osf.io/jce7w#ja</guid>
     <pubDate>Sun, 30 Aug 2026 18:23:04 +0000</pubDate>
