@@ -6,6 +6,55 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>参加者の維持と研究への関与におけるビデオ会議による確認と受動的オンラインスクリーニングの比較：リクルートメント段階から始まるエンゲージメント</title>
+    <link>https://osf.io/5qe6c</link>
+    <guid isPermaLink="false">https://osf.io/5qe6c#ja</guid>
+    <pubDate>Wed, 16 Sep 2026 19:54:05 +0000</pubDate>
+    <description>Engagement begins at recruitment: Comparing videoconference verification to passive online screening for participant retention and study engagement</description>
+  </item>
+  <item>
+    <title>事前事後比較を超えて：時間変動モデリングによる集中的縦断介入のための包括的効果量フレームワーク</title>
+    <link>https://osf.io/tm6k8</link>
+    <guid isPermaLink="false">https://osf.io/tm6k8#ja</guid>
+    <pubDate>Wed, 16 Sep 2026 19:54:02 +0000</pubDate>
+    <description>Beyond Pre-Post Comparisons: A Comprehensive Effect Size Framework for Intensive Longitudinal Interventions via Time-Varying Modeling</description>
+  </item>
+  <item>
+    <title>COVID-19の影響と子どもの心理的苦痛：双生児の因果方向性研究</title>
+    <link>https://osf.io/b238q</link>
+    <guid isPermaLink="false">https://osf.io/b238q#ja</guid>
+    <pubDate>Wed, 16 Sep 2026 19:54:01 +0000</pubDate>
+    <description>COVID-19 Impacts and Child Psychological Distress: A Twin Direction-of-Causation Study</description>
+  </item>
+  <item>
+    <title>複雑動的システムとしての精神障害の遺伝学に向けて：症状特異的かつ症状相互作用的アプローチ</title>
+    <link>https://osf.io/ukcfq</link>
+    <guid isPermaLink="false">https://osf.io/ukcfq#ja</guid>
+    <pubDate>Wed, 16 Sep 2026 19:54:01 +0000</pubDate>
+    <description>Towards a genetics of mental disorders as complex dynamical systems: A symptom-specific and symptom-interactive approach</description>
+  </item>
+  <item>
+    <title>大規模言語モデルは子どもに類似した心の理論をシミュレートできるか？</title>
+    <link>https://osf.io/386vw</link>
+    <guid isPermaLink="false">https://osf.io/386vw#ja</guid>
+    <pubDate>Wed, 16 Sep 2026 19:54:01 +0000</pubDate>
+    <description>Can Large Language Models Simulate Child-Like Theory of Mind?</description>
+  </item>
+  <item>
+    <title>発達支援的学習に向けた生成AIの活用：SCAFFOLDフレームワークと学校現場におけるパイロット研究</title>
+    <link>https://osf.io/dwp4t</link>
+    <guid isPermaLink="false">https://osf.io/dwp4t#ja</guid>
+    <pubDate>Wed, 16 Sep 2026 19:54:00 +0000</pubDate>
+    <description>Steering Generative AI Toward Developmentally Supportive Learning: The SCAFFOLD Framework and a Pilot in a School Setting</description>
+  </item>
+  <item>
+    <title>統計的セグメンテーションの電気生理学的指標：系統的レビューとメタアナリシス</title>
+    <link>https://osf.io/edfqp</link>
+    <guid isPermaLink="false">https://osf.io/edfqp#ja</guid>
+    <pubDate>Wed, 16 Sep 2026 19:54:00 +0000</pubDate>
+    <description>Electrophysiological signatures of statistical segmentation: A systematic review and meta-analysis</description>
+  </item>
+  <item>
     <title>若年者の禁煙支援を目的としたモバイル介入プログラム「Detour」の開発における科学とデザインの統合</title>
     <link>https://osf.io/zvpxc</link>
     <guid isPermaLink="false">https://osf.io/zvpxc#ja</guid>
@@ -20,7 +69,7 @@
     <description>Normative and Maladaptive Personality Traits in Borderline Personality Disorder: A Comparative and Hierarchical Analysis of HEXACO and PID-5</description>
   </item>
   <item>
-    <title>成人向け偏食質問票（J-APEQ）の日本語版の翻訳と検証</title>
+    <title>成人の偏食傾向評価のための日本語版質問票（J-APEQ）の翻訳と検証</title>
     <link>https://osf.io/etjxz</link>
     <guid isPermaLink="false">https://osf.io/etjxz#ja</guid>
     <pubDate>Wed, 16 Sep 2026 16:59:56 +0000</pubDate>
@@ -34,7 +83,7 @@
     <description>Human outcome-irrelevant value learning is insensitive to its monetary cost</description>
   </item>
   <item>
-    <title>ワクチン義務化の社会的準備性と公共の正当性：三か国比較研究</title>
+    <title>ワクチン義務化の社会的準備性と公共の正当性：三カ国比較研究</title>
     <link>https://osf.io/25hek</link>
     <guid isPermaLink="false">https://osf.io/25hek#ja</guid>
     <pubDate>Wed, 16 Sep 2026 16:59:56 +0000</pubDate>
@@ -48,14 +97,14 @@
     <description>Narrative Entropy</description>
   </item>
   <item>
-    <title>統合モデルグラフ：心理学における統計モデルの可視化</title>
+    <title>統合モデルグラフ：心理学の統計モデルの描画法</title>
     <link>https://osf.io/mdr9n</link>
     <guid isPermaLink="false">https://osf.io/mdr9n#ja</guid>
     <pubDate>Wed, 16 Sep 2026 16:59:56 +0000</pubDate>
     <description>The Unified Model Graph: Drawing the Statistical Models of Psychology</description>
   </item>
   <item>
-    <title>文化的に促された大規模言語モデルは西洋の価値観に依然として固執する</title>
+    <title>文化的誘導を受けた大規模言語モデルは西洋的価値観に依然として固定されている</title>
     <link>https://osf.io/u5pmh</link>
     <guid isPermaLink="false">https://osf.io/u5pmh#ja</guid>
     <pubDate>Sun, 13 Sep 2026 23:28:05 +0000</pubDate>
@@ -76,14 +125,14 @@
     <description>Is virtual reality beneficial and for which outcomes? Comparing VR and 2D in higher education classroom learning</description>
   </item>
   <item>
-    <title>フィリピン国家試験受験者における完璧主義および卓越主義尺度（SCOPE）の因子構造と収束的妥当性</title>
+    <title>フィリピン国家試験受験者における完璧主義・卓越主義尺度（SCOPE）の因子構造と収束的妥当性検証</title>
     <link>https://osf.io/nhg7w</link>
     <guid isPermaLink="false">https://osf.io/nhg7w#ja</guid>
     <pubDate>Sun, 13 Sep 2026 23:28:02 +0000</pubDate>
     <description>Factor Structure and Convergent Validity of the Scale of Perfectionism and Excellencism (SCOPE) Among Filipino Licensure Examination Reviewees</description>
   </item>
   <item>
-    <title>乳児向け歌唱が言語入力源として果たす役割：乳児は遊び歌から単語を区切るか？</title>
+    <title>乳児向け歌唱が言語入力源として果たす役割：乳児は遊び歌から単語を切り出せるか？</title>
     <link>https://osf.io/n36us</link>
     <guid isPermaLink="false">https://osf.io/n36us#ja</guid>
     <pubDate>Fri, 11 Sep 2026 23:12:08 +0000</pubDate>
@@ -97,49 +146,49 @@
     <description>The Long Shadow of the Wall: Socialization Signatures in Public-Events Knowledge Across East and West Germany</description>
   </item>
   <item>
-    <title>青年期における同輩被害の親社会的行動への媒介効果の疑義：Guoら（2026年）の再解析</title>
+    <title>思春期における同輩被害の親切行動への媒介効果の再検討：Guoら（2026年）の再解析</title>
     <link>https://osf.io/cvtmj</link>
     <guid isPermaLink="false">https://osf.io/cvtmj#ja</guid>
     <pubDate>Fri, 11 Sep 2026 23:12:07 +0000</pubDate>
     <description>Questionable mediated effect of peer victimization on prosocial behavior in adolescents: A reanalysis of Guo et al. (2026)</description>
   </item>
   <item>
-    <title>胃の状態が知覚的および態度的身体イメージ次元に与える影響と摂食障害によるその調整効果</title>
+    <title>胃の状態が知覚的および態度的身体イメージの次元に与える影響と摂食障害によるその調整効果</title>
     <link>https://osf.io/bfnve</link>
     <guid isPermaLink="false">https://osf.io/bfnve#ja</guid>
     <pubDate>Fri, 11 Sep 2026 23:12:07 +0000</pubDate>
     <description>The Impact of Gastric State on Perceptual and Attitudinal Body Image Dimensions and Their Moderation by Eating Pathology</description>
   </item>
   <item>
-    <title>学校メンタルヘルス支援チームによるエビデンスに基づく「識別から介入まで」アプローチの実施：期待される実施要因の質的研究</title>
+    <title>学校メンタルヘルス支援チームによるエビデンスに基づく「識別から介入まで」アプローチの実施：期待される実施要因に関する質的研究</title>
     <link>https://osf.io/v5jsz</link>
     <guid isPermaLink="false">https://osf.io/v5jsz#ja</guid>
     <pubDate>Fri, 11 Sep 2026 23:12:07 +0000</pubDate>
     <description>Implementing an evidence-based &#x27;identification-to-intervention&#x27; approach through school Mental Health Support Teams: A qualitative study of expected implementation determinants</description>
   </item>
   <item>
-    <title>「軽度失語症」の心理的負担：言語重症度よりも心理社会的ウェルビーイングとの関連性の強さ</title>
+    <title>「軽度失語症」の心理的負担：言語重症度よりも心理社会的福祉との関連の強さ</title>
     <link>https://osf.io/yh2u8</link>
     <guid isPermaLink="false">https://osf.io/yh2u8#ja</guid>
     <pubDate>Fri, 11 Sep 2026 23:12:07 +0000</pubDate>
     <description>The psychological burden of “mild” aphasia: Greater associations with psychosocial well-being than with language severity</description>
   </item>
   <item>
-    <title>子どもは成人に比べ情報の統合ではなく記憶の保持に優れる</title>
+    <title>子どもは成人に比べて情報の統合ではなく記憶の保持に優れる</title>
     <link>https://osf.io/njydq</link>
     <guid isPermaLink="false">https://osf.io/njydq#ja</guid>
     <pubDate>Fri, 11 Sep 2026 23:12:06 +0000</pubDate>
     <description>Superior retention but not integration of information in memory in children versus adults</description>
   </item>
   <item>
-    <title>音韻的地位の音響的相関因子</title>
+    <title>音韻的地位の音響的相関要因</title>
     <link>https://osf.io/fzkte</link>
     <guid isPermaLink="false">https://osf.io/fzkte#ja</guid>
     <pubDate>Fri, 11 Sep 2026 23:12:06 +0000</pubDate>
     <description>Acoustic correlates of phonological status</description>
   </item>
   <item>
-    <title>6か月時の韻律感受性は24か月時の語彙発達を予測する</title>
+    <title>6か月時の韻律感受性が24か月時の語彙発達を予測する</title>
     <link>https://osf.io/9wces</link>
     <guid isPermaLink="false">https://osf.io/9wces#ja</guid>
     <pubDate>Fri, 11 Sep 2026 23:12:06 +0000</pubDate>
@@ -153,21 +202,21 @@
     <description>Ethical Considerations Around Surveillance Technologies for Suicide Prevention in Public Places: Bringing Together Staff and Lived/Living Experience Perspectives</description>
   </item>
   <item>
-    <title>観察者はどのように顔の反応から痛みを読み取るか：自然表情および合成表情における顔面筋収縮の分布パターンが痛みの判断を促進する</title>
+    <title>観察者は顔の反応からどのように痛みを読み取るか：自然表情および合成表情における顔面筋収縮の分布パターンが痛みの判断を促すメカニズム</title>
     <link>https://osf.io/vswq8</link>
     <guid isPermaLink="false">https://osf.io/vswq8#ja</guid>
     <pubDate>Fri, 11 Sep 2026 23:12:06 +0000</pubDate>
     <description>How observers decode pain from facial reactions. Distributed patterns of facial muscle contractions drive pain judgments in both naturalistic and synthetic expressions.</description>
   </item>
   <item>
-    <title>情報分配問題としての知覚的気づき</title>
+    <title>知覚的気づきの情報分配問題としての検討</title>
     <link>https://osf.io/zmf5h</link>
     <guid isPermaLink="false">https://osf.io/zmf5h#ja</guid>
     <pubDate>Fri, 11 Sep 2026 23:12:05 +0000</pubDate>
     <description>Perceptual awareness as an information-distribution problem</description>
   </item>
   <item>
-    <title>社会不安障害に対するMDMA補助療法における治療同盟と知覚された親密感</title>
+    <title>社会不安障害に対するMDMA補助療法における治療同盟と知覚された親密さ</title>
     <link>https://osf.io/tezgw</link>
     <guid isPermaLink="false">https://osf.io/tezgw#ja</guid>
     <pubDate>Fri, 11 Sep 2026 23:12:05 +0000</pubDate>
@@ -188,7 +237,7 @@
     <description>Combined sleep deprivation and light therapy for depression in major depressive disorder and bipolar disorder</description>
   </item>
   <item>
-    <title>偽記憶の推測：提示されていない単語の「想起」</title>
+    <title>偽りの記憶の推測：提示されなかった単語の「想起」</title>
     <link>https://osf.io/txyqe</link>
     <guid isPermaLink="false">https://osf.io/txyqe#ja</guid>
     <pubDate>Tue, 08 Sep 2026 20:19:49 +0000</pubDate>
@@ -209,21 +258,21 @@
     <description>Ritual and Musical Sounds Among Spiritual but Not Religious Practitioners in Glastonbury, UK</description>
   </item>
   <item>
-    <title>二者の相互作用：社会不安とパートナーの影響が社会的相互行動に同等に及ぼす影響</title>
+    <title>二者の影響：社会不安とパートナーの影響が社会的相互作用行動に同等に及ぼす影響</title>
     <link>https://osf.io/t4ksm</link>
     <guid isPermaLink="false">https://osf.io/t4ksm#ja</guid>
     <pubDate>Tue, 08 Sep 2026 20:19:48 +0000</pubDate>
     <description>It takes two: Social anxiety and partner influences comparably shape social interaction behavior</description>
   </item>
   <item>
-    <title>主観的評価の信頼性はいかに：ドイツ手話（DGS）における手話頻度および象徴性の心理言語学的測定の信頼性問題</title>
+    <title>主観的評価の信頼性はいかに：ドイツ手話（DGS）における手話頻度と象徴性の心理言語学的測定の信頼性問題</title>
     <link>https://osf.io/nfd9g</link>
     <guid isPermaLink="false">https://osf.io/nfd9g#ja</guid>
     <pubDate>Tue, 08 Sep 2026 17:49:28 +0000</pubDate>
     <description>How reliable are subjective ratings? The issue of reliability in psycholinguistic measures of sign frequency and iconicity in German Sign Language (DGS)</description>
   </item>
   <item>
-    <title>実験用の微妙な音声刺激を作成するためのAI音声生成の活用</title>
+    <title>実験用の微妙な音声刺激を生成するためのAI音声合成の活用</title>
     <link>https://osf.io/qhu54</link>
     <guid isPermaLink="false">https://osf.io/qhu54#ja</guid>
     <pubDate>Tue, 08 Sep 2026 17:49:28 +0000</pubDate>
@@ -251,7 +300,7 @@
     <description>Adaptation-Induced Shifts of Causal Agent–Patient Relationships in Visual Separation Events</description>
   </item>
   <item>
-    <title>インドにおけるコンサルティングおよびコーチング心理学の構築：専門職化に向けた科学者-実践者のロードマップ</title>
+    <title>インドにおけるコンサルティング・コーチング心理学の構築：専門職化に向けた科学者-実践者のロードマップ</title>
     <link>https://osf.io/2um8r</link>
     <guid isPermaLink="false">https://osf.io/2um8r#ja</guid>
     <pubDate>Tue, 08 Sep 2026 17:49:27 +0000</pubDate>
@@ -279,14 +328,14 @@
     <description>Unpacking Random Forest-Based Detection of Differential Item Functioning (DIF): The Roles of DIF and Item Impact Effect Sizes and Factor Correlation</description>
   </item>
   <item>
-    <title>分割注意下における周辺視野依存が動的自然場面での危険位置特定を損ない、注意キューによっても軽減されないこと</title>
+    <title>分割注意下における周辺視野への依存は動的自然場面における危険位置特定を損ない、注意キューによっても軽減されない</title>
     <link>https://osf.io/tcz9u</link>
     <guid isPermaLink="false">https://osf.io/tcz9u#ja</guid>
     <pubDate>Fri, 04 Sep 2026 18:10:07 +0000</pubDate>
     <description>Reliance on peripheral vision under divided attention impairs hazard localization in dynamic natural scenes and is not mitigated by attentional cues</description>
   </item>
   <item>
-    <title>子どもの発達期における母親および父親の心理的苦痛プロファイルと子の自殺未遂との関連</title>
+    <title>子どもの成長期における母親および父親の心理的苦痛プロファイルと子の自殺未遂との関連</title>
     <link>https://osf.io/p9rkj</link>
     <guid isPermaLink="false">https://osf.io/p9rkj#ja</guid>
     <pubDate>Fri, 04 Sep 2026 18:10:07 +0000</pubDate>
@@ -305,55 +354,6 @@
     <guid isPermaLink="false">https://osf.io/jatn4#ja</guid>
     <pubDate>Fri, 04 Sep 2026 18:10:07 +0000</pubDate>
     <description>Development of an annotated dataset of persuasion strategies and initial testing of a natural language processing tool to detect persuasion strategies in text</description>
-  </item>
-  <item>
-    <title>相乗効果から冗長性へ：意識の情報関係論的考察</title>
-    <link>https://osf.io/cz4bw</link>
-    <guid isPermaLink="false">https://osf.io/cz4bw#ja</guid>
-    <pubDate>Fri, 04 Sep 2026 18:10:07 +0000</pubDate>
-    <description>From synergy to redundancy: An information-relation account of consciousness</description>
-  </item>
-  <item>
-    <title>視線入力およびマウスタイピングにおける連続入力の知覚的・運動的制約</title>
-    <link>https://osf.io/xgyqz</link>
-    <guid isPermaLink="false">https://osf.io/xgyqz#ja</guid>
-    <pubDate>Fri, 04 Sep 2026 18:10:06 +0000</pubDate>
-    <description>Perceptual and Motor Constraints on Sequential Input in Gaze and Mouse Typing</description>
-  </item>
-  <item>
-    <title>成人期における意味的意思決定の決定要因の変動</title>
-    <link>https://osf.io/e2hsy</link>
-    <guid isPermaLink="false">https://osf.io/e2hsy#ja</guid>
-    <pubDate>Fri, 04 Sep 2026 18:10:06 +0000</pubDate>
-    <description>Variation in the determinants of semantic decision-making across adulthood</description>
-  </item>
-  <item>
-    <title>訂正時の誤情報の想起が高齢者および若年者の後続記憶を促進する</title>
-    <link>https://osf.io/b72pk</link>
-    <guid isPermaLink="false">https://osf.io/b72pk#ja</guid>
-    <pubDate>Fri, 04 Sep 2026 18:10:06 +0000</pubDate>
-    <description>Reminders of False Information During Corrections Enhance Subsequent Memory in Older and Younger Adults</description>
-  </item>
-  <item>
-    <title>強化学習を用いた精神力動の解明</title>
-    <link>https://osf.io/vcnxt</link>
-    <guid isPermaLink="false">https://osf.io/vcnxt#ja</guid>
-    <pubDate>Fri, 04 Sep 2026 18:10:06 +0000</pubDate>
-    <description>Using reinforcement learning to explain psychodynamics</description>
-  </item>
-  <item>
-    <title>Refbank：反復参照ゲームデータのオープンリポジトリ</title>
-    <link>https://osf.io/d93gy</link>
-    <guid isPermaLink="false">https://osf.io/d93gy#ja</guid>
-    <pubDate>Thu, 03 Sep 2026 19:47:21 +0000</pubDate>
-    <description>Refbank: an open repository of iterated reference game data</description>
-  </item>
-  <item>
-    <title>統制群を用いた事前事後測定デザインにおける因果効果の境界推定</title>
-    <link>https://osf.io/f98ym</link>
-    <guid isPermaLink="false">https://osf.io/f98ym#ja</guid>
-    <pubDate>Thu, 03 Sep 2026 19:47:21 +0000</pubDate>
-    <description>Bounding Causal Effects in Pretest-Posttest Designs with a Control Group</description>
   </item>
 </channel>
 </rss>
