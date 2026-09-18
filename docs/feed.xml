@@ -6,7 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>乳児期から思春期における早期逆境と安静時脳波の関連に関する系統的レビューおよびメタアナリシス</title>
+    <title>行動研究におけるコックスモデルと離散時間モデルの比較：予測性能のシミュレーション研究</title>
+    <link>https://osf.io/qf8h6</link>
+    <guid isPermaLink="false">https://osf.io/qf8h6#ja</guid>
+    <pubDate>Thu, 17 Sep 2026 23:48:17 +0000</pubDate>
+    <description>Cox versus Discrete-Time Models in Behavioral Research: A Simulation Study of Predictive Performance</description>
+  </item>
+  <item>
+    <title>乳児期から思春期における早期逆境と安静時脳波の関連に関する系統的レビューとメタアナリシス</title>
     <link>https://osf.io/s6vhm</link>
     <guid isPermaLink="false">https://osf.io/s6vhm#ja</guid>
     <pubDate>Thu, 17 Sep 2026 21:55:19 +0000</pubDate>
@@ -20,7 +27,7 @@
     <description>‘Why me?’ - The influence of perceived fairness of climate policies on adoption intentions of high impact climate actions across cultural contexts</description>
   </item>
   <item>
-    <title>混合トラウマサンプルにおける国際トラウマ質問票（ITQ）スウェーデン語版の心理測定特性－包括的評価</title>
+    <title>混合トラウマサンプルにおける国際トラウマ質問票（ITQ）スウェーデン語版の心理測定特性―包括的評価</title>
     <link>https://osf.io/8xcdm</link>
     <guid isPermaLink="false">https://osf.io/8xcdm#ja</guid>
     <pubDate>Thu, 17 Sep 2026 21:55:19 +0000</pubDate>
@@ -34,7 +41,7 @@
     <description>AI’s Frontline</description>
   </item>
   <item>
-    <title>インド・グレーター・ノイダ地域の大学生を対象とした文化適応型集団認知行動療法のADHD治療効果に関する大規模比較研究</title>
+    <title>インド・グレーター・ノイダ地域の大学生を対象とした文化適応型集団認知行動療法のADHDに対する有効性：大規模比較研究</title>
     <link>https://osf.io/9seub</link>
     <guid isPermaLink="false">https://osf.io/9seub#ja</guid>
     <pubDate>Thu, 17 Sep 2026 21:55:19 +0000</pubDate>
@@ -48,7 +55,7 @@
     <description>What are the merits of identifying as neurodivergent? Assessing the effects of neurodiversity labels on the evaluation of and stigmatizing attitudes towards people exhibiting autistic traits.</description>
   </item>
   <item>
-    <title>IPCC気候マップへの視線は意図された低炭素行動に特有の行動信号を含む</title>
+    <title>IPCC気候マップへの注視は意図された低炭素行動に特有の行動信号を示す</title>
     <link>https://osf.io/xwpc7</link>
     <guid isPermaLink="false">https://osf.io/xwpc7#ja</guid>
     <pubDate>Thu, 17 Sep 2026 21:55:18 +0000</pubDate>
@@ -83,7 +90,7 @@
     <description>A scoping review of community engagement and implementation outcomes for approaches  to adapt mental and behavioral health evidence-based practices (EBPs) for autistic youth</description>
   </item>
   <item>
-    <title>経頭蓋超音波刺激法によるヒト海馬の因果的変調ツールとしての応用</title>
+    <title>経頭蓋超音波刺激法によるヒト海馬の因果的調節ツールとしての応用</title>
     <link>https://osf.io/d7uqw</link>
     <guid isPermaLink="false">https://osf.io/d7uqw#ja</guid>
     <pubDate>Thu, 17 Sep 2026 21:55:17 +0000</pubDate>
@@ -118,7 +125,7 @@
     <description>Towards a genetics of mental disorders as complex dynamical systems: A symptom-specific and symptom-interactive approach</description>
   </item>
   <item>
-    <title>大規模言語モデルは子どもに類似した心の理論をシミュレートできるか？</title>
+    <title>大規模言語モデルは子どもに似た心の理論をシミュレートできるか？</title>
     <link>https://osf.io/386vw</link>
     <guid isPermaLink="false">https://osf.io/386vw#ja</guid>
     <pubDate>Wed, 16 Sep 2026 19:54:01 +0000</pubDate>
@@ -139,7 +146,7 @@
     <description>Electrophysiological signatures of statistical segmentation: A systematic review and meta-analysis</description>
   </item>
   <item>
-    <title>若年者の禁煙支援を目的としたモバイル介入プログラム「Detour」の開発における科学とデザインの統合</title>
+    <title>若年者の禁煙支援のためのモバイル介入プログラム「Detour」開発における科学とデザインの統合</title>
     <link>https://osf.io/zvpxc</link>
     <guid isPermaLink="false">https://osf.io/zvpxc#ja</guid>
     <pubDate>Wed, 16 Sep 2026 16:59:57 +0000</pubDate>
@@ -181,21 +188,21 @@
     <description>Narrative Entropy</description>
   </item>
   <item>
-    <title>統合モデルグラフ：心理学における統計モデルの描画法</title>
+    <title>統合モデルグラフ：心理学における統計モデルの可視化</title>
     <link>https://osf.io/mdr9n</link>
     <guid isPermaLink="false">https://osf.io/mdr9n#ja</guid>
     <pubDate>Wed, 16 Sep 2026 16:59:56 +0000</pubDate>
     <description>The Unified Model Graph: Drawing the Statistical Models of Psychology</description>
   </item>
   <item>
-    <title>文化的誘導を受けた大規模言語モデルは依然として西洋の価値観に基づく</title>
+    <title>文化的に促進された大規模言語モデルは西洋の価値観に依然として固執する</title>
     <link>https://osf.io/u5pmh</link>
     <guid isPermaLink="false">https://osf.io/u5pmh#ja</guid>
     <pubDate>Sun, 13 Sep 2026 23:28:05 +0000</pubDate>
     <description>Culturally Prompted Large Language Models Remain Anchored to Western Values</description>
   </item>
   <item>
-    <title>真実の無実の容疑者が口を閉ざすとき：SUE法に基づく模擬面接における記憶制約の影響</title>
+    <title>真実を語る無実の容疑者が口を閉ざすとき：SUE法に基づく模擬面接における記憶制約の影響</title>
     <link>https://osf.io/czsxp</link>
     <guid isPermaLink="false">https://osf.io/czsxp#ja</guid>
     <pubDate>Sun, 13 Sep 2026 23:28:05 +0000</pubDate>
@@ -216,14 +223,14 @@
     <description>Factor Structure and Convergent Validity of the Scale of Perfectionism and Excellencism (SCOPE) Among Filipino Licensure Examination Reviewees</description>
   </item>
   <item>
-    <title>乳児向け歌唱が言語入力源として果たす役割：乳児は遊び歌から単語を区切るか？</title>
+    <title>乳児向け歌唱が言語入力源として果たす役割：乳児は遊び歌から単語を区切れるか？</title>
     <link>https://osf.io/n36us</link>
     <guid isPermaLink="false">https://osf.io/n36us#ja</guid>
     <pubDate>Fri, 11 Sep 2026 23:12:08 +0000</pubDate>
     <description>Infant-directed songs as a source of language input: Do infants segment words from playsongs?</description>
   </item>
   <item>
-    <title>壁の長い影：東西ドイツにおける社会化の特徴と公共イベント知識の比較</title>
+    <title>壁の長い影：東西ドイツにおける社会化の痕跡と公共イベント知識の比較</title>
     <link>https://osf.io/h82zt</link>
     <guid isPermaLink="false">https://osf.io/h82zt#ja</guid>
     <pubDate>Fri, 11 Sep 2026 23:12:07 +0000</pubDate>
@@ -244,7 +251,7 @@
     <description>The Impact of Gastric State on Perceptual and Attitudinal Body Image Dimensions and Their Moderation by Eating Pathology</description>
   </item>
   <item>
-    <title>学校メンタルヘルス支援チームによるエビデンスに基づく「識別から介入まで」アプローチの実施：期待される実施要因に関する質的研究</title>
+    <title>学校メンタルヘルス支援チームによるエビデンスに基づく「識別から介入まで」アプローチの実施：期待される実施決定要因に関する質的研究</title>
     <link>https://osf.io/v5jsz</link>
     <guid isPermaLink="false">https://osf.io/v5jsz#ja</guid>
     <pubDate>Fri, 11 Sep 2026 23:12:07 +0000</pubDate>
@@ -272,7 +279,7 @@
     <description>Acoustic correlates of phonological status</description>
   </item>
   <item>
-    <title>6ヶ月時の韻律感受性が24ヶ月時の語彙発達を予測する</title>
+    <title>6か月時の韻律感受性が24か月時の語彙発達を予測する</title>
     <link>https://osf.io/9wces</link>
     <guid isPermaLink="false">https://osf.io/9wces#ja</guid>
     <pubDate>Fri, 11 Sep 2026 23:12:06 +0000</pubDate>
@@ -286,7 +293,7 @@
     <description>Ethical Considerations Around Surveillance Technologies for Suicide Prevention in Public Places: Bringing Together Staff and Lived/Living Experience Perspectives</description>
   </item>
   <item>
-    <title>観察者は顔の反応からどのように痛みを読み取るか：自然表情および合成表情における顔面筋収縮の分布パターンが痛みの判断を促す</title>
+    <title>観察者が顔の反応から痛みを解読する方法：自然表情および合成表情における顔面筋収縮の分布パターンが痛みの判断を促進する</title>
     <link>https://osf.io/vswq8</link>
     <guid isPermaLink="false">https://osf.io/vswq8#ja</guid>
     <pubDate>Fri, 11 Sep 2026 23:12:06 +0000</pubDate>
@@ -300,7 +307,7 @@
     <description>Perceptual awareness as an information-distribution problem</description>
   </item>
   <item>
-    <title>社会不安障害に対するMDMA補助療法における治療的同盟と知覚された親密さ</title>
+    <title>社会不安障害に対するMDMA補助療法における治療同盟と知覚された親密さ</title>
     <link>https://osf.io/tezgw</link>
     <guid isPermaLink="false">https://osf.io/tezgw#ja</guid>
     <pubDate>Fri, 11 Sep 2026 23:12:05 +0000</pubDate>
@@ -328,32 +335,25 @@
     <description>Inferring false memories: “remembering” words not presented in lists</description>
   </item>
   <item>
-    <title>グラストンベリーにおけるスピリチュアルだが宗教的でない実践者の儀式と音響慣習に関する民族誌研究</title>
+    <title>グラストンベリーにおけるスピリチュアルだが宗教的でない実践者の儀式と音響慣習に関するエスノグラフィー</title>
     <link>https://osf.io/bxwe4</link>
     <guid isPermaLink="false">https://osf.io/bxwe4#ja</guid>
     <pubDate>Tue, 08 Sep 2026 20:19:49 +0000</pubDate>
     <description>An Ethnography of Rituals and Sound Practices among Spiritual-But-Not-Religious Practitioners in Glastonbury</description>
   </item>
   <item>
-    <title>英国グラストンベリーにおける宗教的信仰を持たない精神的実践者の儀式と音楽音響の研究</title>
+    <title>英国グラストンベリーにおける宗教的信仰を持たない精神的実践者の儀式および音楽音響の研究</title>
     <link>https://osf.io/5fjaz</link>
     <guid isPermaLink="false">https://osf.io/5fjaz#ja</guid>
     <pubDate>Tue, 08 Sep 2026 20:19:49 +0000</pubDate>
     <description>Ritual and Musical Sounds Among Spiritual but Not Religious Practitioners in Glastonbury, UK</description>
   </item>
   <item>
-    <title>二者の相互作用：社会不安とパートナーの影響が社会的相互行動に与える同等の役割</title>
+    <title>二者の相互作用：社会不安とパートナーの影響が社会的相互行動に同等に及ぼす影響</title>
     <link>https://osf.io/t4ksm</link>
     <guid isPermaLink="false">https://osf.io/t4ksm#ja</guid>
     <pubDate>Tue, 08 Sep 2026 20:19:48 +0000</pubDate>
     <description>It takes two: Social anxiety and partner influences comparably shape social interaction behavior</description>
-  </item>
-  <item>
-    <title>主観的評価の信頼性はいかに：ドイツ手話（DGS）における手話頻度および象徴性の心理言語学的測定の信頼性問題</title>
-    <link>https://osf.io/nfd9g</link>
-    <guid isPermaLink="false">https://osf.io/nfd9g#ja</guid>
-    <pubDate>Tue, 08 Sep 2026 17:49:28 +0000</pubDate>
-    <description>How reliable are subjective ratings? The issue of reliability in psycholinguistic measures of sign frequency and iconicity in German Sign Language (DGS)</description>
   </item>
 </channel>
 </rss>
