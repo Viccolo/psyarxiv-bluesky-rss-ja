@@ -6,6 +6,34 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>安全性、適合性、再接続：慢性腰痛の視点から理解する回復的本質</title>
+    <link>https://osf.io/eckup</link>
+    <guid isPermaLink="false">https://osf.io/eckup#ja</guid>
+    <pubDate>Fri, 18 Sep 2026 18:30:40 +0000</pubDate>
+    <description>Safety, Compatibility and Reconnection: Understanding Restorative Nature Through the Lens of Chronic Low Back Pain</description>
+  </item>
+  <item>
+    <title>移民に対する態度の社会機能モデル：制度不信感、脅威感覚および陰謀論的思考の役割</title>
+    <link>https://osf.io/wtz5f</link>
+    <guid isPermaLink="false">https://osf.io/wtz5f#ja</guid>
+    <pubDate>Fri, 18 Sep 2026 18:30:40 +0000</pubDate>
+    <description>Socio-functional model of attitudes towards migrants: the role of institutional distrust, sense of threat and conspiratorial thinking</description>
+  </item>
+  <item>
+    <title>表示された判断確信度が自己形成ネットワークにおける情報源選択を再編成する</title>
+    <link>https://osf.io/fja3d</link>
+    <guid isPermaLink="false">https://osf.io/fja3d#ja</guid>
+    <pubDate>Fri, 18 Sep 2026 18:30:40 +0000</pubDate>
+    <description>Displayed judgment certainty reorganizes source selection in self-formed networks</description>
+  </item>
+  <item>
+    <title>サディズムは他者の不幸に対する快感の習慣化と関連する</title>
+    <link>https://osf.io/me6vf</link>
+    <guid isPermaLink="false">https://osf.io/me6vf#ja</guid>
+    <pubDate>Fri, 18 Sep 2026 18:30:40 +0000</pubDate>
+    <description>Sadism is Linked to Greater Habituation to Schadenfreude</description>
+  </item>
+  <item>
     <title>行動研究におけるコックスモデルと離散時間モデルの比較：予測性能のシミュレーション研究</title>
     <link>https://osf.io/qf8h6</link>
     <guid isPermaLink="false">https://osf.io/qf8h6#ja</guid>
@@ -13,7 +41,7 @@
     <description>Cox versus Discrete-Time Models in Behavioral Research: A Simulation Study of Predictive Performance</description>
   </item>
   <item>
-    <title>乳幼児期から思春期における早期逆境と安静時脳波の関連に関する系統的レビューおよびメタアナリシス</title>
+    <title>乳児期から思春期における早期逆境と安静時脳波の関連に関する系統的レビューおよびメタアナリシス</title>
     <link>https://osf.io/s6vhm</link>
     <guid isPermaLink="false">https://osf.io/s6vhm#ja</guid>
     <pubDate>Thu, 17 Sep 2026 21:55:19 +0000</pubDate>
@@ -27,7 +55,7 @@
     <description>‘Why me?’ - The influence of perceived fairness of climate policies on adoption intentions of high impact climate actions across cultural contexts</description>
   </item>
   <item>
-    <title>混合トラウマサンプルにおける国際トラウマ質問票（ITQ）スウェーデン語版の心理計測特性－包括的評価</title>
+    <title>混合トラウマサンプルにおける国際トラウマ質問票（ITQ）スウェーデン語版の心理測定特性―包括的評価</title>
     <link>https://osf.io/8xcdm</link>
     <guid isPermaLink="false">https://osf.io/8xcdm#ja</guid>
     <pubDate>Thu, 17 Sep 2026 21:55:19 +0000</pubDate>
@@ -48,21 +76,21 @@
     <description>Effectiveness of Culturally Adapted Group CBT for ADHD Among Indian University Students: A Large-Scale Comparative Study from Greater Noida</description>
   </item>
   <item>
-    <title>神経多様性ラベルの効果：自閉症特性を示す人々に対する評価とスティグマ的態度への影響の検討</title>
+    <title>神経多様性ラベルの効果：自閉症特性を示す人々に対する評価およびスティグマ的態度への影響と神経発達の多様性アイデンティティの利点の検討</title>
     <link>https://osf.io/qat93</link>
     <guid isPermaLink="false">https://osf.io/qat93#ja</guid>
     <pubDate>Thu, 17 Sep 2026 21:55:18 +0000</pubDate>
     <description>What are the merits of identifying as neurodivergent? Assessing the effects of neurodiversity labels on the evaluation of and stigmatizing attitudes towards people exhibiting autistic traits.</description>
   </item>
   <item>
-    <title>IPCC気候マップへの視線は意図された低炭素行動に特有の行動信号を含む</title>
+    <title>IPCC気候地図への注視は意図された低炭素行動に特有の行動信号を含む</title>
     <link>https://osf.io/xwpc7</link>
     <guid isPermaLink="false">https://osf.io/xwpc7#ja</guid>
     <pubDate>Thu, 17 Sep 2026 21:55:18 +0000</pubDate>
     <description>Gaze on IPCC climate maps carries behaviour-specific signals for intended low-carbon action</description>
   </item>
   <item>
-    <title>時間経過に伴う証拠蓄積過程のベイズ的表現：忘却曲線モデルの事例</title>
+    <title>時間経過に伴う証拠蓄積過程のベイズ的表現：忘却曲線モデルの事例研究</title>
     <link>https://osf.io/e9zn7</link>
     <guid isPermaLink="false">https://osf.io/e9zn7#ja</guid>
     <pubDate>Thu, 17 Sep 2026 21:55:18 +0000</pubDate>
@@ -83,7 +111,7 @@
     <description>Perceptions and Outcomes of Artificial Intelligence Among Back-office Employees: A Systematic Literature Review</description>
   </item>
   <item>
-    <title>自閉症青年のための精神・行動健康のエビデンスに基づく実践（EBP）適応における地域参加と実施成果に関するスコーピングレビュー</title>
+    <title>自閉症青年のための精神・行動健康のエビデンスに基づく実践（EBP）適応におけるコミュニティ参加と実施成果に関するスコーピングレビュー</title>
     <link>https://osf.io/r3hwd</link>
     <guid isPermaLink="false">https://osf.io/r3hwd#ja</guid>
     <pubDate>Thu, 17 Sep 2026 21:55:17 +0000</pubDate>
@@ -104,7 +132,7 @@
     <description>Engagement begins at recruitment: Comparing videoconference verification to passive online screening for participant retention and study engagement</description>
   </item>
   <item>
-    <title>事前事後比較を超えて：時間変動モデリングによる集中的縦断介入のための包括的効果量フレームワーク</title>
+    <title>事前事後比較を超えて：時間変動モデリングによる集中的縦断的介入のための包括的効果量フレームワーク</title>
     <link>https://osf.io/tm6k8</link>
     <guid isPermaLink="false">https://osf.io/tm6k8#ja</guid>
     <pubDate>Wed, 16 Sep 2026 19:54:02 +0000</pubDate>
@@ -125,7 +153,7 @@
     <description>Towards a genetics of mental disorders as complex dynamical systems: A symptom-specific and symptom-interactive approach</description>
   </item>
   <item>
-    <title>大規模言語モデルは子どもに類似した心の理論をシミュレートできるか？</title>
+    <title>大規模言語モデルは子どものような心の理論をシミュレートできるか？</title>
     <link>https://osf.io/386vw</link>
     <guid isPermaLink="false">https://osf.io/386vw#ja</guid>
     <pubDate>Wed, 16 Sep 2026 19:54:01 +0000</pubDate>
@@ -146,7 +174,7 @@
     <description>Electrophysiological signatures of statistical segmentation: A systematic review and meta-analysis</description>
   </item>
   <item>
-    <title>若年者の禁煙支援を目的としたモバイル介入プログラム「Detour」の開発における科学とデザインの統合</title>
+    <title>若年者の禁煙支援に向けたモバイル介入プログラム「Detour」の開発における科学とデザインの統合</title>
     <link>https://osf.io/zvpxc</link>
     <guid isPermaLink="false">https://osf.io/zvpxc#ja</guid>
     <pubDate>Wed, 16 Sep 2026 16:59:57 +0000</pubDate>
@@ -160,14 +188,14 @@
     <description>Normative and Maladaptive Personality Traits in Borderline Personality Disorder: A Comparative and Hierarchical Analysis of HEXACO and PID-5</description>
   </item>
   <item>
-    <title>成人向け偏食質問票（J-APEQ）の日本語版の翻訳と検証</title>
+    <title>成人の偏食傾向評価のための日本語版質問票（J-APEQ）の翻訳と検証</title>
     <link>https://osf.io/etjxz</link>
     <guid isPermaLink="false">https://osf.io/etjxz#ja</guid>
     <pubDate>Wed, 16 Sep 2026 16:59:56 +0000</pubDate>
     <description>Translation and Validation of the Japanese version of the Adult Picky Eating Questionnaire (J-APEQ)</description>
   </item>
   <item>
-    <title>人間の結果非関連価値学習は金銭的コストに鈍感である</title>
+    <title>人間の結果無関係価値学習は金銭的コストに鈍感である</title>
     <link>https://osf.io/zyc8t</link>
     <guid isPermaLink="false">https://osf.io/zyc8t#ja</guid>
     <pubDate>Wed, 16 Sep 2026 16:59:56 +0000</pubDate>
@@ -188,7 +216,7 @@
     <description>Narrative Entropy</description>
   </item>
   <item>
-    <title>統合モデルグラフ：心理学の統計モデルの描画法</title>
+    <title>統合モデルグラフ：心理学における統計モデルの描画法</title>
     <link>https://osf.io/mdr9n</link>
     <guid isPermaLink="false">https://osf.io/mdr9n#ja</guid>
     <pubDate>Wed, 16 Sep 2026 16:59:56 +0000</pubDate>
@@ -223,21 +251,21 @@
     <description>Factor Structure and Convergent Validity of the Scale of Perfectionism and Excellencism (SCOPE) Among Filipino Licensure Examination Reviewees</description>
   </item>
   <item>
-    <title>乳児向け歌唱が言語入力源として果たす役割：乳児は遊び歌から単語を区切るか？</title>
+    <title>乳児向け歌唱が言語入力源として果たす役割：乳児は遊び歌から単語を切り出せるか？</title>
     <link>https://osf.io/n36us</link>
     <guid isPermaLink="false">https://osf.io/n36us#ja</guid>
     <pubDate>Fri, 11 Sep 2026 23:12:08 +0000</pubDate>
     <description>Infant-directed songs as a source of language input: Do infants segment words from playsongs?</description>
   </item>
   <item>
-    <title>壁の長い影：東西ドイツにおける社会化の痕跡としての公共イベント知識</title>
+    <title>壁の長い影：東西ドイツにおける社会化の痕跡と公共イベント知識の比較</title>
     <link>https://osf.io/h82zt</link>
     <guid isPermaLink="false">https://osf.io/h82zt#ja</guid>
     <pubDate>Fri, 11 Sep 2026 23:12:07 +0000</pubDate>
     <description>The Long Shadow of the Wall: Socialization Signatures in Public-Events Knowledge Across East and West Germany</description>
   </item>
   <item>
-    <title>思春期における同輩被害の親社会的行動への媒介効果の再検討：Guoら（2026年）の再解析</title>
+    <title>青年期における同輩被害の親社会的行動への媒介効果の再検討：Guoら（2026年）の再解析</title>
     <link>https://osf.io/cvtmj</link>
     <guid isPermaLink="false">https://osf.io/cvtmj#ja</guid>
     <pubDate>Fri, 11 Sep 2026 23:12:07 +0000</pubDate>
@@ -251,14 +279,14 @@
     <description>The Impact of Gastric State on Perceptual and Attitudinal Body Image Dimensions and Their Moderation by Eating Pathology</description>
   </item>
   <item>
-    <title>学校メンタルヘルス支援チームによるエビデンスに基づく「識別から介入まで」アプローチの実施：期待される実施要因に関する質的研究</title>
+    <title>学校メンタルヘルス支援チームによるエビデンスに基づく「識別から介入まで」のアプローチ実施：期待される実施決定要因の質的研究</title>
     <link>https://osf.io/v5jsz</link>
     <guid isPermaLink="false">https://osf.io/v5jsz#ja</guid>
     <pubDate>Fri, 11 Sep 2026 23:12:07 +0000</pubDate>
     <description>Implementing an evidence-based &#x27;identification-to-intervention&#x27; approach through school Mental Health Support Teams: A qualitative study of expected implementation determinants</description>
   </item>
   <item>
-    <title>「軽度失語症」の心理的負担：言語重症度よりも心理社会的幸福感との関連の強さ</title>
+    <title>「軽度失語症」の心理的負担：言語重症度よりも心理社会的ウェルビーイングとの関連性の強さ</title>
     <link>https://osf.io/yh2u8</link>
     <guid isPermaLink="false">https://osf.io/yh2u8#ja</guid>
     <pubDate>Fri, 11 Sep 2026 23:12:07 +0000</pubDate>
@@ -293,21 +321,21 @@
     <description>Ethical Considerations Around Surveillance Technologies for Suicide Prevention in Public Places: Bringing Together Staff and Lived/Living Experience Perspectives</description>
   </item>
   <item>
-    <title>観察者はどのように顔の反応から痛みを読み取るか：自然表情および合成表情における顔面筋収縮の分布パターンが痛みの判断に与える影響</title>
+    <title>観察者はどのように顔の反応から痛みを読み取るか：自然表情および合成表情における顔面筋収縮の分布パターンが痛みの判断を促進する</title>
     <link>https://osf.io/vswq8</link>
     <guid isPermaLink="false">https://osf.io/vswq8#ja</guid>
     <pubDate>Fri, 11 Sep 2026 23:12:06 +0000</pubDate>
     <description>How observers decode pain from facial reactions. Distributed patterns of facial muscle contractions drive pain judgments in both naturalistic and synthetic expressions.</description>
   </item>
   <item>
-    <title>情報分配問題としての知覚的気づき</title>
+    <title>知覚的気づきの情報分配問題としての検討</title>
     <link>https://osf.io/zmf5h</link>
     <guid isPermaLink="false">https://osf.io/zmf5h#ja</guid>
     <pubDate>Fri, 11 Sep 2026 23:12:05 +0000</pubDate>
     <description>Perceptual awareness as an information-distribution problem</description>
   </item>
   <item>
-    <title>社会不安障害に対するMDMA補助療法における治療的同盟と知覚された親密さ</title>
+    <title>社会不安障害に対するMDMA補助療法における治療同盟と知覚された親密さ</title>
     <link>https://osf.io/tezgw</link>
     <guid isPermaLink="false">https://osf.io/tezgw#ja</guid>
     <pubDate>Fri, 11 Sep 2026 23:12:05 +0000</pubDate>
@@ -326,34 +354,6 @@
     <guid isPermaLink="false">https://osf.io/d7bc2#ja</guid>
     <pubDate>Fri, 11 Sep 2026 23:12:04 +0000</pubDate>
     <description>Combined sleep deprivation and light therapy for depression in major depressive disorder and bipolar disorder</description>
-  </item>
-  <item>
-    <title>偽りの記憶の推測：提示されなかった単語の「想起」</title>
-    <link>https://osf.io/txyqe</link>
-    <guid isPermaLink="false">https://osf.io/txyqe#ja</guid>
-    <pubDate>Tue, 08 Sep 2026 20:19:49 +0000</pubDate>
-    <description>Inferring false memories: “remembering” words not presented in lists</description>
-  </item>
-  <item>
-    <title>グラストンベリーにおけるスピリチュアルだが宗教的でない実践者の儀式と音響慣習に関する民族誌研究</title>
-    <link>https://osf.io/bxwe4</link>
-    <guid isPermaLink="false">https://osf.io/bxwe4#ja</guid>
-    <pubDate>Tue, 08 Sep 2026 20:19:49 +0000</pubDate>
-    <description>An Ethnography of Rituals and Sound Practices among Spiritual-But-Not-Religious Practitioners in Glastonbury</description>
-  </item>
-  <item>
-    <title>イギリス・グラストンベリーにおける宗教的信仰を持たない精神的実践者の儀式および音楽音響の研究</title>
-    <link>https://osf.io/5fjaz</link>
-    <guid isPermaLink="false">https://osf.io/5fjaz#ja</guid>
-    <pubDate>Tue, 08 Sep 2026 20:19:49 +0000</pubDate>
-    <description>Ritual and Musical Sounds Among Spiritual but Not Religious Practitioners in Glastonbury, UK</description>
-  </item>
-  <item>
-    <title>二者の影響：社会不安とパートナーの影響が社会的相互作用行動に同等に作用する</title>
-    <link>https://osf.io/t4ksm</link>
-    <guid isPermaLink="false">https://osf.io/t4ksm#ja</guid>
-    <pubDate>Tue, 08 Sep 2026 20:19:48 +0000</pubDate>
-    <description>It takes two: Social anxiety and partner influences comparably shape social interaction behavior</description>
   </item>
 </channel>
 </rss>
