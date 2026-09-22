@@ -6,6 +6,27 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>大学生におけるデジタル技術の利用とライフスキル、メンタルヘルス、心理的タフネスの発達との関連性</title>
+    <link>https://osf.io/4sr2q</link>
+    <guid isPermaLink="false">https://osf.io/4sr2q#ja</guid>
+    <pubDate>Tue, 22 Sep 2026 19:13:46 +0000</pubDate>
+    <description>Usage of Digital Technology and Its linkage with the Development of Life Skills, Mental Health, and Psychological Hardiness among university students</description>
+  </item>
+  <item>
+    <title>アルコール関連典型的経験反応尺度の開発</title>
+    <link>https://osf.io/jkc8h</link>
+    <guid isPermaLink="false">https://osf.io/jkc8h#ja</guid>
+    <pubDate>Tue, 22 Sep 2026 19:13:46 +0000</pubDate>
+    <description>Development of the Alcohol-Linked Typical Experienced Responses Scale</description>
+  </item>
+  <item>
+    <title>意図はいつ行動を予測するか？意図と行動のギャップの時間的動態</title>
+    <link>https://osf.io/5djx6</link>
+    <guid isPermaLink="false">https://osf.io/5djx6#ja</guid>
+    <pubDate>Tue, 22 Sep 2026 19:13:46 +0000</pubDate>
+    <description>When do intentions predict action? The temporal dynamics of the intention–action gap</description>
+  </item>
+  <item>
     <title>より良いデータ、より良い政策：所得貧困と経済的ストレスの区別が時間的意思決定の改善を促進する可能性</title>
     <link>https://osf.io/vkfhp</link>
     <guid isPermaLink="false">https://osf.io/vkfhp#ja</guid>
@@ -20,7 +41,7 @@
     <description>From Treating to Preventing Distress through Psychological Prehabilitation – A  Novel Theoretical Framework</description>
   </item>
   <item>
-    <title>変化の表象が乳児期の対象個別化を促進する</title>
+    <title>変化の表象が乳児期の対象個別化を支援する</title>
     <link>https://osf.io/wy9a8</link>
     <guid isPermaLink="false">https://osf.io/wy9a8#ja</guid>
     <pubDate>Mon, 21 Sep 2026 22:45:05 +0000</pubDate>
@@ -48,7 +69,7 @@
     <description>Psychological Functions of Prayer: Findings from a Series of Experiments Comparing Prayer to Self-Talk</description>
   </item>
   <item>
-    <title>騒音下音声知覚における視覚的利得の音素重複分析</title>
+    <title>騒音下音声知覚における視覚的利益の音素重複分析</title>
     <link>https://osf.io/s5wbt</link>
     <guid isPermaLink="false">https://osf.io/s5wbt#ja</guid>
     <pubDate>Mon, 21 Sep 2026 19:30:08 +0000</pubDate>
@@ -76,14 +97,14 @@
     <description>Questionable mediated effect of self-efficacy on depressive symptoms among college students: A reassessment of Desai and Lueke (2026)</description>
   </item>
   <item>
-    <title>心理学学生と大規模言語モデルにおけるメンタルヘルスリテラシーの比較研究</title>
+    <title>心理学専攻学生と大規模言語モデルにおけるメンタルヘルスリテラシーの比較研究</title>
     <link>https://osf.io/e6s4t</link>
     <guid isPermaLink="false">https://osf.io/e6s4t#ja</guid>
     <pubDate>Mon, 21 Sep 2026 19:30:07 +0000</pubDate>
     <description>Mental Health Literacy Across Psychology Students and Large Language Models</description>
   </item>
   <item>
-    <title>思考のリズム：推論における熟考の動態の追跡</title>
+    <title>思考のリズム：推論における熟慮の動態の追跡</title>
     <link>https://osf.io/mf3s9</link>
     <guid isPermaLink="false">https://osf.io/mf3s9#ja</guid>
     <pubDate>Mon, 21 Sep 2026 19:30:07 +0000</pubDate>
@@ -97,14 +118,14 @@
     <description>A randomised controlled trial of Detour: a multi-component app-based intervention for youth smoking cessation</description>
   </item>
   <item>
-    <title>コネクトームベース予測モデリングによる不安感受性の内在的結合性特徴</title>
+    <title>コネクトームベース予測モデリングによる不安感受性の内在的結合特性</title>
     <link>https://osf.io/w8vm5</link>
     <guid isPermaLink="false">https://osf.io/w8vm5#ja</guid>
     <pubDate>Mon, 21 Sep 2026 19:30:07 +0000</pubDate>
     <description>Intrinsic connectivity signatures of anxiety sensitivity from connectome based predictive modeling</description>
   </item>
   <item>
-    <title>幼少期のストレスとトラウマの影響：逆境的児童期経験、PTSDおよび複雑性PTSDが成人の肥満率に与える影響の分析</title>
+    <title>幼少期のストレスとトラウマの影響：逆境的児童期経験、PTSDおよび複雑性PTSDが成人の肥満率に及ぼす影響の分析</title>
     <link>https://osf.io/cetzu</link>
     <guid isPermaLink="false">https://osf.io/cetzu#ja</guid>
     <pubDate>Mon, 21 Sep 2026 14:12:19 +0000</pubDate>
@@ -118,21 +139,21 @@
     <description>Lived Experiences of Adulthood with Foetal Alcohol Spectrum Disorder: A Qualitative  Analysis of Diagnosis, Support, Employment, and Mental Health</description>
   </item>
   <item>
-    <title>学校および教室の異質性と心理社会的学生成果：新興学際研究分野の概観</title>
+    <title>学校および教室の異質性と心理社会的学生成果：新興学際研究領域の概観</title>
     <link>https://osf.io/3kuby</link>
     <guid isPermaLink="false">https://osf.io/3kuby#ja</guid>
     <pubDate>Mon, 21 Sep 2026 14:12:19 +0000</pubDate>
     <description>School and Classroom Heterogeneity and Psychosocial Student Outcomes: Mapping an Emerging Interdisciplinary Research Field</description>
   </item>
   <item>
-    <title>目撃者面接における文脈再現促進のための仮想現実（VR）活用：記憶パフォーマンスと想起体験への影響</title>
+    <title>目撃者面接における文脈再現促進のための仮想現実（VR）活用：記憶成績と想起体験への影響</title>
     <link>https://osf.io/ryd4w</link>
     <guid isPermaLink="false">https://osf.io/ryd4w#ja</guid>
     <pubDate>Mon, 21 Sep 2026 14:12:18 +0000</pubDate>
     <description>Using Virtual Reality (VR) to Facilitate Context Reinstatement in Eyewitness Interviewing: Effects on Memory Performance and Retrieval Experience</description>
   </item>
   <item>
-    <title>反証的文章の効果はどのくらい持続するか？心理学における誤解に関する6か月間の追跡調査の証拠</title>
+    <title>反証的文章の効果はどのくらい持続するか？心理学における誤解に関する6か月間の追跡調査からの証拠</title>
     <link>https://osf.io/spu47</link>
     <guid isPermaLink="false">https://osf.io/spu47#ja</guid>
     <pubDate>Mon, 21 Sep 2026 14:12:18 +0000</pubDate>
@@ -146,7 +167,7 @@
     <description>(Un)informed Consent: To What Degree are Research Participants &#x27;Informed&#x27; by Common Consent Procedures in Psychology under EU Data Protection Law?</description>
   </item>
   <item>
-    <title>サイケデリックス使用下における記憶体験の探索的前向きオンライン調査</title>
+    <title>サイケデリックス下における記憶体験の探索的前向きオンライン研究</title>
     <link>https://osf.io/zwybe</link>
     <guid isPermaLink="false">https://osf.io/zwybe#ja</guid>
     <pubDate>Mon, 21 Sep 2026 14:12:18 +0000</pubDate>
@@ -167,14 +188,14 @@
     <description>Attention Fragmentation: Toward a Formal Construct Definition, a Differentiated Nomological Network, and a Research Agenda for Scale Development</description>
   </item>
   <item>
-    <title>不適応的パーソナリティ特性と陳述妥当性評価：DSM-5の特性領域および側面と虚偽、示唆性、自伝的記憶の質の関連性の検討</title>
+    <title>不適応的パーソナリティ特性と陳述妥当性評価：DSM-5の特性領域および側面と嘘、暗示受容性、自伝的記憶の質の関連性の検討</title>
     <link>https://osf.io/pt9jy</link>
     <guid isPermaLink="false">https://osf.io/pt9jy#ja</guid>
     <pubDate>Mon, 21 Sep 2026 14:12:17 +0000</pubDate>
     <description>Maladaptive Personality Traits and Statement Validity Assessment. Mapping DSM-5 Trait Domains and Facets onto Lying, Suggestibility, and Autobiographical Memory Quality</description>
   </item>
   <item>
-    <title>社会情動的触覚知覚の発達過程：触覚的相互作用の観察から情動価と社会的関係の推定を評価する</title>
+    <title>社会情動的触覚知覚の発達過程：触覚的相互作用の観察から情動価と社会的関係の推論を評価する</title>
     <link>https://osf.io/ba6p8</link>
     <guid isPermaLink="false">https://osf.io/ba6p8#ja</guid>
     <pubDate>Mon, 21 Sep 2026 14:12:17 +0000</pubDate>
@@ -202,35 +223,35 @@
     <description>The Impact of Puppetry on Pro-Social and Anti-Social Behaviours: A Systematic Review</description>
   </item>
   <item>
-    <title>信頼に向き合う：擬人化と個人差がロボットの顔の認知に与える影響</title>
+    <title>信頼に直面して：擬人化と個人差がロボットの顔の認知に与える影響</title>
     <link>https://osf.io/dzq28</link>
     <guid isPermaLink="false">https://osf.io/dzq28#ja</guid>
     <pubDate>Sun, 20 Sep 2026 14:49:36 +0000</pubDate>
     <description>Facing Trust: How Anthropomorphism and Individual Differences Shape Perceptions of Robot Faces</description>
   </item>
   <item>
-    <title>境界性パーソナリティ障害者における運動および認知領域での自己他者識別の変容：多施設行動研究からの証拠</title>
+    <title>境界性パーソナリティ障害者における運動および認知領域における自己他者識別の変容：多施設行動研究からの証拠</title>
     <link>https://osf.io/z768d</link>
     <guid isPermaLink="false">https://osf.io/z768d#ja</guid>
     <pubDate>Sun, 20 Sep 2026 14:49:36 +0000</pubDate>
     <description>Altered Self-Other Distinction in Motor and Cognitive Domains in Individuals with Borderline Personality Disorder: Evidence from a Multi-Site Behavioral Study</description>
   </item>
   <item>
-    <title>AI支援による執筆における散文の罰則効果</title>
+    <title>AI支援による著作における散文ペナルティの検討</title>
     <link>https://osf.io/r3t59</link>
     <guid isPermaLink="false">https://osf.io/r3t59#ja</guid>
     <pubDate>Sun, 20 Sep 2026 14:49:36 +0000</pubDate>
     <description>The prose penalty in AI-assisted authorship</description>
   </item>
   <item>
-    <title>誤り結果の知覚可能性が誤り後調整の方向性を形成する：オンラインチェス670万手の証拠</title>
+    <title>誤り結果の知覚可能性が誤り後調整の方向性に与える影響：オンラインチェス670万手の解析からの証拠</title>
     <link>https://osf.io/mvab2</link>
     <guid isPermaLink="false">https://osf.io/mvab2#ja</guid>
     <pubDate>Sun, 20 Sep 2026 14:49:36 +0000</pubDate>
     <description>Perceptibility of Error Outcomes Shapes the Direction of Post-Error Adjustment: Evidence From 6.7 Million Moves in Online Chess</description>
   </item>
   <item>
-    <title>人工知能に対する公共の関心が86か国における人間間の援助行動を予測する</title>
+    <title>人工知能への公衆の関心が86か国における人間間の助け合い行動を予測する</title>
     <link>https://osf.io/zcpmv</link>
     <guid isPermaLink="false">https://osf.io/zcpmv#ja</guid>
     <pubDate>Sun, 20 Sep 2026 14:49:35 +0000</pubDate>
@@ -265,21 +286,21 @@
     <description>Genetic Evidence Linking Prefrontal Surface Area to ADHD, Major Depression, and Smoking Initiation</description>
   </item>
   <item>
-    <title>非侵襲的脳刺激のエピジェネティック機構：ヒトおよび前臨床研究の系統的レビュー</title>
+    <title>非侵襲的脳刺激のエピジェネティックメカニズム：ヒトおよび前臨床証拠の系統的レビュー</title>
     <link>https://osf.io/27dwb</link>
     <guid isPermaLink="false">https://osf.io/27dwb#ja</guid>
     <pubDate>Sun, 20 Sep 2026 11:35:04 +0000</pubDate>
     <description>Epigenetic mechanisms of Non-Invasive Brain Stimulation: A Systematic Review of Human and Preclinical Evidence</description>
   </item>
   <item>
-    <title>集団の道徳的印象の形成と更新におけるバイアスのベイズ的構造推論モデル</title>
+    <title>集団の道徳的印象の形成と更新におけるバイアスのベイズ構造推論モデル</title>
     <link>https://osf.io/bypke</link>
     <guid isPermaLink="false">https://osf.io/bypke#ja</guid>
     <pubDate>Sat, 19 Sep 2026 21:26:50 +0000</pubDate>
     <description>A Bayesian Structure Inference Account of Biases in the Formation and Updating of Group Moral Impressions</description>
   </item>
   <item>
-    <title>優先度マップ、特徴的処理、および上丘の役割</title>
+    <title>優先地図、特徴処理、および上丘の役割</title>
     <link>https://osf.io/u7frm</link>
     <guid isPermaLink="false">https://osf.io/u7frm#ja</guid>
     <pubDate>Sat, 19 Sep 2026 21:26:49 +0000</pubDate>
@@ -293,7 +314,7 @@
     <description>Fear, Conformity, and Phantom Majorities</description>
   </item>
   <item>
-    <title>安全性、適合性および再接続：慢性腰痛の視点から修復的本質の理解</title>
+    <title>安全性、適合性、再接続：慢性腰痛の視点から理解する回復的本質</title>
     <link>https://osf.io/eckup</link>
     <guid isPermaLink="false">https://osf.io/eckup#ja</guid>
     <pubDate>Fri, 18 Sep 2026 18:30:40 +0000</pubDate>
@@ -328,32 +349,11 @@
     <description>Cox versus Discrete-Time Models in Behavioral Research: A Simulation Study of Predictive Performance</description>
   </item>
   <item>
-    <title>乳児期から思春期における早期逆境と安静時脳波の関連に関する系統的レビューおよびメタアナリシス</title>
+    <title>乳幼児期から思春期における早期逆境と安静時脳波の関連に関する系統的レビューとメタアナリシス</title>
     <link>https://osf.io/s6vhm</link>
     <guid isPermaLink="false">https://osf.io/s6vhm#ja</guid>
     <pubDate>Thu, 17 Sep 2026 21:55:19 +0000</pubDate>
     <description>A systematic review and meta-analysis on early adversity and resting-state EEG from infancy to adolescence</description>
-  </item>
-  <item>
-    <title>「なぜ私が？」－気候政策の公正感知が文化的文脈における高影響気候行動の採用意図に与える影響</title>
-    <link>https://osf.io/7k6zd</link>
-    <guid isPermaLink="false">https://osf.io/7k6zd#ja</guid>
-    <pubDate>Thu, 17 Sep 2026 21:55:19 +0000</pubDate>
-    <description>‘Why me?’ - The influence of perceived fairness of climate policies on adoption intentions of high impact climate actions across cultural contexts</description>
-  </item>
-  <item>
-    <title>混合トラウマサンプルにおける国際トラウマ質問票（ITQ）スウェーデン語版の心理計測特性－包括的評価</title>
-    <link>https://osf.io/8xcdm</link>
-    <guid isPermaLink="false">https://osf.io/8xcdm#ja</guid>
-    <pubDate>Thu, 17 Sep 2026 21:55:19 +0000</pubDate>
-    <description>Psychometric Properties of the Swedish version of the International Trauma Questionnaire (ITQ) in a mixed trauma sample – a comprehensive evaluation</description>
-  </item>
-  <item>
-    <title>AIの最前線</title>
-    <link>https://osf.io/qpbvm</link>
-    <guid isPermaLink="false">https://osf.io/qpbvm#ja</guid>
-    <pubDate>Thu, 17 Sep 2026 21:55:19 +0000</pubDate>
-    <description>AI’s Frontline</description>
   </item>
 </channel>
 </rss>
