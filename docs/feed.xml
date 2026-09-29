@@ -6,35 +6,35 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>並列短文構築における混合整数線形計画法とメタヒューリスティクスの比較検討</title>
+    <title>並列短文構築における混合整数線形計画法とメタヒューリスティクスの比較研究</title>
     <link>https://osf.io/hbn7a</link>
     <guid isPermaLink="false">https://osf.io/hbn7a#ja</guid>
     <pubDate>Tue, 29 Sep 2026 12:43:26 +0000</pubDate>
     <description>A Comparison of Mixed-Integer Linear Programming and Metaheuristics in Parallel Short-Form Construction</description>
   </item>
   <item>
-    <title>見るタイミングが動作のタイミングとは限らない：プレビューの有無が人間の複数目標探索における運動制御と視覚探索に及ぼす影響</title>
+    <title>見るタイミングが動作のタイミングとは限らない：プレビューの有無が人間の複数目標探索における運動制御と視覚探索に与える影響</title>
     <link>https://osf.io/sytbm</link>
     <guid isPermaLink="false">https://osf.io/sytbm#ja</guid>
     <pubDate>Tue, 29 Sep 2026 12:43:26 +0000</pubDate>
     <description>When You See Is Not Always When You Move: Preview Availability Influences Movement Control and Visual Search in Human Multi-Target Foraging</description>
   </item>
   <item>
-    <title>収益化の是非：意味ある経験の金銭的評価における個人差と性別の影響</title>
+    <title>収益化するか否か：意味のある経験の金銭的評価における個人差と性別の影響</title>
     <link>https://osf.io/z7g6s</link>
     <guid isPermaLink="false">https://osf.io/z7g6s#ja</guid>
     <pubDate>Tue, 29 Sep 2026 12:43:26 +0000</pubDate>
     <description>TO MONETIZE OR NOT: INFLUENCE OF INDIVIDUAL DIFFERENCES AND GENDER IN MONETARY VALUATION OF MEANINGFUL EXPERIENCES</description>
   </item>
   <item>
-    <title>探索的項目反応行列因子分解：心理計測学と機械学習の架け橋</title>
+    <title>探索的項目反応行列因子分解：心理測定学と機械学習の架け橋</title>
     <link>https://osf.io/cjy8e</link>
     <guid isPermaLink="false">https://osf.io/cjy8e#ja</guid>
     <pubDate>Tue, 29 Sep 2026 12:43:25 +0000</pubDate>
     <description>Exploratory Item Response Matrix Factorization: Bridging Psychometrics and Machine Learning</description>
   </item>
   <item>
-    <title>共同（個別）課題表象は自発的かつ選択的に活性化される：スイッチコスト非対称性からの証拠</title>
+    <title>共同（個別）課題表象は自発的かつ選択的に活性化される：切り替えコストの非対称性からの証拠</title>
     <link>https://osf.io/5cz2j</link>
     <guid isPermaLink="false">https://osf.io/5cz2j#ja</guid>
     <pubDate>Tue, 29 Sep 2026 12:43:25 +0000</pubDate>
@@ -83,7 +83,7 @@
     <description>Estimating the Hyperlocal Patterning of Environmental Quality and Health and Wellbeing</description>
   </item>
   <item>
-    <title>音楽聴取における没入感が気分調節に及ぼす影響</title>
+    <title>音楽聴取における没入感を通じた気分の調節</title>
     <link>https://osf.io/ur2pk</link>
     <guid isPermaLink="false">https://osf.io/ur2pk#ja</guid>
     <pubDate>Mon, 28 Sep 2026 20:43:54 +0000</pubDate>
@@ -104,21 +104,21 @@
     <description>Selflessness, Self-Centeredness, and Mental Health in Dyads: Indirect Associations Through Affective and Functional Pathways</description>
   </item>
   <item>
-    <title>有機農家と慣行農家のスティグマ理解：職業的汚名化、非人間化、および認知された負担</title>
+    <title>有機農家と慣行農家のスティグマ理解：職業的汚名、非人間化、および認知された負担</title>
     <link>https://osf.io/3aqk7</link>
     <guid isPermaLink="false">https://osf.io/3aqk7#ja</guid>
     <pubDate>Mon, 28 Sep 2026 20:43:53 +0000</pubDate>
     <description>Understanding Stigmatization of Organic and Conventional Farmers: Occupational Taint, Dehumanization, and Perceived Burden</description>
   </item>
   <item>
-    <title>文化適応ストレス要因と適応の関係に関する生態学的説明のメタ分析的証拠</title>
+    <title>文化適応ストレス要因と適応の関係に関する生態学的説明のメタアナリシス的証拠</title>
     <link>https://osf.io/fpm6z</link>
     <guid isPermaLink="false">https://osf.io/fpm6z#ja</guid>
     <pubDate>Mon, 28 Sep 2026 20:43:53 +0000</pubDate>
     <description>Meta-Analytic Evidence for an Ecological Account of the Relationship between Acculturative Stressors and Adaptation</description>
   </item>
   <item>
-    <title>ケベック州における240名の著名人顔画像の標準化刺激セットの開発と特性評価</title>
+    <title>ケベック州における240名の有名人顔画像の標準化刺激セットの開発と特性評価</title>
     <link>https://osf.io/27csj</link>
     <guid isPermaLink="false">https://osf.io/27csj#ja</guid>
     <pubDate>Mon, 28 Sep 2026 20:43:53 +0000</pubDate>
@@ -139,14 +139,14 @@
     <description>A Revolution in Search of an Estimand: On the Idionomic Proposal of Hayes et al. (2026)</description>
   </item>
   <item>
-    <title>推論およびメタ推論における作業記憶の役割の検討：ファジィトレース理論のアプローチ</title>
+    <title>推論およびメタ推論における作業記憶の役割の検討：ファジートレース理論のアプローチ</title>
     <link>https://osf.io/sv3kf</link>
     <guid isPermaLink="false">https://osf.io/sv3kf#ja</guid>
     <pubDate>Mon, 28 Sep 2026 14:31:46 +0000</pubDate>
     <description>Examining the Role of Working Memory in Reasoning and Meta-reasoning:  A Fuzzy-trace approach</description>
   </item>
   <item>
-    <title>ストイックトレーニングが否定的評価への恐怖および社会的評価ストレスへの反応に及ぼす影響：ランダム化比較試験</title>
+    <title>ストイックトレーニングが否定的評価への恐怖および社会的評価ストレス反応に及ぼす影響：ランダム化比較試験</title>
     <link>https://osf.io/egra2</link>
     <guid isPermaLink="false">https://osf.io/egra2#ja</guid>
     <pubDate>Mon, 28 Sep 2026 14:31:46 +0000</pubDate>
@@ -160,7 +160,7 @@
     <description>Is it Difficult to be a People Pleaser? An Item Response-Theoretical Examination of the People Pleasing Scale</description>
   </item>
   <item>
-    <title>困惑する状況：協力と社会的観察が視空間的問題解決に及ぼす影響</title>
+    <title>困惑する状況：協力と社会的観察が視空間的問題解決に与える影響</title>
     <link>https://osf.io/54f8u</link>
     <guid isPermaLink="false">https://osf.io/54f8u#ja</guid>
     <pubDate>Mon, 28 Sep 2026 14:31:45 +0000</pubDate>
@@ -202,35 +202,35 @@
     <description>“It&#x27;s my destiny.”: A Qualitative Exploration of Motivating Factors for submissives who Hold BDSM and Kink Identities</description>
   </item>
   <item>
-    <title>ライフセーバーズネオンガミの色彩における風味分布と消費者知覚の分析</title>
+    <title>ライフセーバーズネオンガミにおける味の分布と色彩が消費者知覚に及ぼす影響の分析</title>
     <link>https://osf.io/b9hv6</link>
     <guid isPermaLink="false">https://osf.io/b9hv6#ja</guid>
     <pubDate>Sun, 27 Sep 2026 19:43:39 +0000</pubDate>
     <description>An Analysis of Flavor Distribution and Consumer Perception On Color In Life Savers Neon Gummies</description>
   </item>
   <item>
-    <title>研究慣行の倫理観や硬直したチェックリストを超えて：バイオメディカル研究倫理の枠組みに基づくオープンサイエンスの確立</title>
+    <title>研究慣行の倫理観や硬直的チェックリストを超えて：バイオメディカル研究倫理の枠組みに基づくオープンサイエンスの確立</title>
     <link>https://osf.io/ctwzb</link>
     <guid isPermaLink="false">https://osf.io/ctwzb#ja</guid>
     <pubDate>Sun, 27 Sep 2026 19:43:39 +0000</pubDate>
     <description>Beyond an Ethos or Inflexible Checklist of Research Practices: Grounding Open Science in a Biomedical Research Ethics Framework</description>
   </item>
   <item>
-    <title>同一リーダーの支援と害悪：チーム会議における一貫性のないリーダーシップ行動</title>
+    <title>同一リーダーによる支援と害悪：チーム会議における一貫性のないリーダーシップ行動</title>
     <link>https://osf.io/9pgk7</link>
     <guid isPermaLink="false">https://osf.io/9pgk7#ja</guid>
     <pubDate>Sat, 26 Sep 2026 13:51:11 +0000</pubDate>
     <description>When the Same Leader Helps and Harms: Inconsistent Leadership Behavior in Team Meetings</description>
   </item>
   <item>
-    <title>「狂気の医師」と結婚するのは誰か？：インドの精神保健専門職における連想的スティグマの質的研究</title>
+    <title>「狂気の医師と結婚するのは誰か？」：インドの精神保健専門職における連想汚名に関する質的研究</title>
     <link>https://osf.io/5edyb</link>
     <guid isPermaLink="false">https://osf.io/5edyb#ja</guid>
     <pubDate>Sat, 26 Sep 2026 13:51:11 +0000</pubDate>
     <description>“Who Will Marry a Mad Doctor?”: A Qualitative Study of Associative Stigma Among Mental Health Professionals in India</description>
   </item>
   <item>
-    <title>利益追求の認知：社会的利益が明示されても営利企業は非営利組織よりも低く評価される心理的メカニズム</title>
+    <title>利益動機の認知：社会的利益が明示されても営利企業は非営利組織よりも否定的に評価される</title>
     <link>https://osf.io/2aczp</link>
     <guid isPermaLink="false">https://osf.io/2aczp#ja</guid>
     <pubDate>Sat, 26 Sep 2026 13:51:11 +0000</pubDate>
@@ -244,7 +244,7 @@
     <description>The precision hierarchy hypothesis: A unifying framework to explain opposing serial effects</description>
   </item>
   <item>
-    <title>行動制御における結合と検索の神経生理学およびトゥレット症候群におけるその変容</title>
+    <title>行動制御における結合と検索の神経生理学およびトゥレット症候群におけるその変化</title>
     <link>https://osf.io/927xf</link>
     <guid isPermaLink="false">https://osf.io/927xf#ja</guid>
     <pubDate>Fri, 25 Sep 2026 21:29:15 +0000</pubDate>
@@ -258,21 +258,21 @@
     <description>Large Language Models for Test-Enhanced Learning: A Tutorial and Proof of Concept</description>
   </item>
   <item>
-    <title>パーキンソン病患者における遅延フィードバックが学習に及ぼす効果</title>
+    <title>パーキンソン病患者における遅延フィードバックが学習に与える効果</title>
     <link>https://osf.io/dvq2a</link>
     <guid isPermaLink="false">https://osf.io/dvq2a#ja</guid>
     <pubDate>Fri, 25 Sep 2026 21:29:15 +0000</pubDate>
     <description>Delayed Feedback Improves Learning in Individuals with Parkinson’s Disease</description>
   </item>
   <item>
-    <title>不公正な世界理論：正義の世界観の三分割モデルと不平等の道徳化</title>
+    <title>不公正な世界理論：正義の世界観の三分モデルと不平等の道徳化</title>
     <link>https://osf.io/pqdv4</link>
     <guid isPermaLink="false">https://osf.io/pqdv4#ja</guid>
     <pubDate>Fri, 25 Sep 2026 18:05:09 +0000</pubDate>
     <description>Unjust World Theory: A Tripartite Model of Justice Worldviews and the Moralization of Inequality</description>
   </item>
   <item>
-    <title>禁酒維持を目指す成人におけるモバイル回復支援アプリの物質使用および関連影響への効果：ランダム化比較試験</title>
+    <title>禁酒維持を目指す成人におけるモバイル回復支援アプリの物質使用および関連する影響に関するランダム化比較試験</title>
     <link>https://osf.io/wp9vg</link>
     <guid isPermaLink="false">https://osf.io/wp9vg#ja</guid>
     <pubDate>Thu, 24 Sep 2026 21:13:33 +0000</pubDate>
@@ -286,14 +286,14 @@
     <description>Measuring a dreaming population: multilevel temporal organization in 75,000 dream reports</description>
   </item>
   <item>
-    <title>知能の一般概念は包括的かつ階層的である</title>
+    <title>知能の通常概念は包括的かつ階層的である</title>
     <link>https://osf.io/eky89</link>
     <guid isPermaLink="false">https://osf.io/eky89#ja</guid>
     <pubDate>Thu, 24 Sep 2026 21:13:33 +0000</pubDate>
     <description>The ordinary concept of intelligence is inclusive but hierarchical</description>
   </item>
   <item>
-    <title>認知的に疑わしい信念の抑制に向けた統合的・学際的・多次元的アプローチの提案：Bronsteinら（2026）へのコメント</title>
+    <title>認知的に疑わしい信念抑制に向けた統合的・学際的・多次元的アプローチの提案：Bronsteinら（2026）へのコメント</title>
     <link>https://osf.io/w6phu</link>
     <guid isPermaLink="false">https://osf.io/w6phu#ja</guid>
     <pubDate>Thu, 24 Sep 2026 21:13:32 +0000</pubDate>
