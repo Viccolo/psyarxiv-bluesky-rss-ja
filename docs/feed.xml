@@ -6,14 +6,105 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>温かい輝きと環境配慮行動の関連性：スコーピングレビューとメタアナリシスによる検証</title>
+    <title>意思決定研究のための主観的評価評価データベース</title>
+    <link>https://osf.io/af2nr</link>
+    <guid isPermaLink="false">https://osf.io/af2nr#ja</guid>
+    <pubDate>Thu, 01 Oct 2026 19:46:58 +0000</pubDate>
+    <description>A database of subjective evaluation ratings for decision-making research</description>
+  </item>
+  <item>
+    <title>子どもが非行に走る要因とは何か？遺伝、選択、そして原罪における罰の役割</title>
+    <link>https://osf.io/yb2gp</link>
+    <guid isPermaLink="false">https://osf.io/yb2gp#ja</guid>
+    <pubDate>Thu, 01 Oct 2026 19:46:58 +0000</pubDate>
+    <description>What Makes a Child Go Bad? Genes, Choice, and Punishment in Original Sin</description>
+  </item>
+  <item>
+    <title>快楽的信念と快楽的信念に基づく効用</title>
+    <link>https://osf.io/c2f6p</link>
+    <guid isPermaLink="false">https://osf.io/c2f6p#ja</guid>
+    <pubDate>Thu, 01 Oct 2026 19:46:57 +0000</pubDate>
+    <description>Pleasurable beliefs and hedonic belief-based utility</description>
+  </item>
+  <item>
+    <title>問題解決を超えて：人間と人工知能における適応的リフレーミング</title>
+    <link>https://osf.io/5xame</link>
+    <guid isPermaLink="false">https://osf.io/5xame#ja</guid>
+    <pubDate>Thu, 01 Oct 2026 19:46:57 +0000</pubDate>
+    <description>Beyond problem solving: Adaptive reframing in human and artificial intelligence</description>
+  </item>
+  <item>
+    <title>神経性無食欲症における自己同一性</title>
+    <link>https://osf.io/u5439</link>
+    <guid isPermaLink="false">https://osf.io/u5439#ja</guid>
+    <pubDate>Thu, 01 Oct 2026 19:46:57 +0000</pubDate>
+    <description>Self-identity in anorexia nervosa</description>
+  </item>
+  <item>
+    <title>軽度認知障害、アルツハイマー病、前頭側頭型認知症における共有および異なる多感覚情動知覚障害：系統的レビューと階層ベイズメタアナリシス</title>
+    <link>https://osf.io/8gp9e</link>
+    <guid isPermaLink="false">https://osf.io/8gp9e#ja</guid>
+    <pubDate>Thu, 01 Oct 2026 19:46:56 +0000</pubDate>
+    <description>Shared and Divergent Multisensory Emotion Perception Deficits across Mild Cognitive Impairment, Alzheimer’s Disease, and Frontotemporal Dementia: A Systematic Review and Hierarchical Bayesian Meta-Analysis</description>
+  </item>
+  <item>
+    <title>回帰効果を超えて：グローバル心理物理理論における明るさと音の大きさのクロスモーダル対応に対する時間順序効果の検討</title>
+    <link>https://osf.io/jsgu8</link>
+    <guid isPermaLink="false">https://osf.io/jsgu8#ja</guid>
+    <pubDate>Thu, 01 Oct 2026 19:46:56 +0000</pubDate>
+    <description>Beyond the Regression Effect: Investigating Time-Order Effects on the Cross-Modal Correspondence of Brightness and Loudness Within the Global Psychophysical Theory</description>
+  </item>
+  <item>
+    <title>人事意思決定における生成型言語モデルに関する課題</title>
+    <link>https://osf.io/ezrd6</link>
+    <guid isPermaLink="false">https://osf.io/ezrd6#ja</guid>
+    <pubDate>Thu, 01 Oct 2026 19:46:56 +0000</pubDate>
+    <description>Questions about Generative Language Models for Human Resources Decision Making</description>
+  </item>
+  <item>
+    <title>北米、南米およびオセアニアの先住民集団向けに開発または適応された認知評価ツールの系統的レビュー</title>
+    <link>https://osf.io/hqvz6</link>
+    <guid isPermaLink="false">https://osf.io/hqvz6#ja</guid>
+    <pubDate>Thu, 01 Oct 2026 19:46:55 +0000</pubDate>
+    <description>Cognitive Assessment Tools Developed or Adapted for Indigenous Populations in North America, South America, and Oceania: A Systematic Review</description>
+  </item>
+  <item>
+    <title>対話型AIと共に育つ：対話型AI利用における青年期の主体性発達フレームワーク</title>
+    <link>https://osf.io/edyfr</link>
+    <guid isPermaLink="false">https://osf.io/edyfr#ja</guid>
+    <pubDate>Thu, 01 Oct 2026 19:46:55 +0000</pubDate>
+    <description>Growing Up With Conversational AI: A Developmental Framework for Adolescent Agency Over Conversational AI Use</description>
+  </item>
+  <item>
+    <title>差別経験と集団行動参加がもたらす感情的およびウェルビーイングへの影響</title>
+    <link>https://osf.io/kv3ry</link>
+    <guid isPermaLink="false">https://osf.io/kv3ry#ja</guid>
+    <pubDate>Thu, 01 Oct 2026 19:46:55 +0000</pubDate>
+    <description>Emotional and Well-being Consequences of Discrimination and Collective Action Engagement</description>
+  </item>
+  <item>
+    <title>幸福感の低い人々はスマートフォンの使用時間が長く安定性に欠ける：12のデータセットによる大規模分析</title>
+    <link>https://osf.io/ev8gw</link>
+    <guid isPermaLink="false">https://osf.io/ev8gw#ja</guid>
+    <pubDate>Thu, 01 Oct 2026 19:46:54 +0000</pubDate>
+    <description>People With Lower Well-Being Show Longer and Less Stable Smartphone Use: A Large-Scale Analysis of 12 Datasets</description>
+  </item>
+  <item>
+    <title>説得を促されない場合におけるAIチャットボットが政治的態度に与える影響</title>
+    <link>https://osf.io/7xtzy</link>
+    <guid isPermaLink="false">https://osf.io/7xtzy#ja</guid>
+    <pubDate>Thu, 01 Oct 2026 19:46:54 +0000</pubDate>
+    <description>How AI chatbots shape political attitudes when they are not prompted to persuade</description>
+  </item>
+  <item>
+    <title>温かい感情と環境配慮行動の関連性：スコーピングレビューとメタアナリシスによる検証</title>
     <link>https://osf.io/pka7q</link>
     <guid isPermaLink="false">https://osf.io/pka7q#ja</guid>
     <pubDate>Wed, 30 Sep 2026 18:28:20 +0000</pubDate>
     <description>The Link between Warm Glow and Pro-Environmental Behaviors is Positive and Robust: A Scoping Review and Meta-Analysis</description>
   </item>
   <item>
-    <title>GenAIを用いた任意テキストからの構造化意味知識の抽出</title>
+    <title>GenAIを用いた任意テキストからの構造化意味知識の解析</title>
     <link>https://osf.io/wq48t</link>
     <guid isPermaLink="false">https://osf.io/wq48t#ja</guid>
     <pubDate>Wed, 30 Sep 2026 18:28:20 +0000</pubDate>
@@ -34,7 +125,7 @@
     <description>Embodied mirroring increases interpersonal synchrony of movement and positive experience in subsequent conversations</description>
   </item>
   <item>
-    <title>西オーストラリアにおける出生前乳児睡眠情報：親が受け取った情報と求めた情報の混合方法研究</title>
+    <title>西オーストラリアにおける出生前乳児睡眠情報の実態：親が受け取った情報と求めた情報に関する混合方法研究</title>
     <link>https://osf.io/twqfx</link>
     <guid isPermaLink="false">https://osf.io/twqfx#ja</guid>
     <pubDate>Wed, 30 Sep 2026 18:28:19 +0000</pubDate>
@@ -48,7 +139,7 @@
     <description>Roles of conceptual development in the training and acquisition of compassion practices</description>
   </item>
   <item>
-    <title>並列短文構築における混合整数線形計画法とメタヒューリスティクスの比較研究</title>
+    <title>並列短文構築における混合整数線形計画法とメタヒューリスティクスの比較検討</title>
     <link>https://osf.io/hbn7a</link>
     <guid isPermaLink="false">https://osf.io/hbn7a#ja</guid>
     <pubDate>Tue, 29 Sep 2026 12:43:26 +0000</pubDate>
@@ -90,14 +181,14 @@
     <description>Effect of an online music program on behavioral co-regulation in mothers and children with cochlear implants and with normal hearing</description>
   </item>
   <item>
-    <title>動機付け性および消費性アヘドニアは日常生活における努力的活動と報酬的活動に対する異なる情動的・行動的反応を示す</title>
+    <title>動機付け性および消費性アヘドニアは日常生活における努力的かつ報酬的活動に対する異なる情動的・行動的反応を示す</title>
     <link>https://osf.io/qkn2j</link>
     <guid isPermaLink="false">https://osf.io/qkn2j#ja</guid>
     <pubDate>Tue, 29 Sep 2026 12:43:24 +0000</pubDate>
     <description>Motivational and Consummatory Anhedonia Represent Distinct Affective and Behavioral Responses to Effortful and Rewarding Activities in Daily Life</description>
   </item>
   <item>
-    <title>思春期の不安とゲーム利用：安定ループの事例研究</title>
+    <title>思春期の不安とゲーム利用：安定性ループの事例研究</title>
     <link>https://osf.io/tczsv</link>
     <guid isPermaLink="false">https://osf.io/tczsv#ja</guid>
     <pubDate>Tue, 29 Sep 2026 12:43:24 +0000</pubDate>
@@ -125,14 +216,14 @@
     <description>Estimating the Hyperlocal Patterning of Environmental Quality and Health and Wellbeing</description>
   </item>
   <item>
-    <title>音楽聴取における没入感が気分調節に及ぼす影響</title>
+    <title>音楽聴取における没入感を通じた気分の調節</title>
     <link>https://osf.io/ur2pk</link>
     <guid isPermaLink="false">https://osf.io/ur2pk#ja</guid>
     <pubDate>Mon, 28 Sep 2026 20:43:54 +0000</pubDate>
     <description>The Modulation of Mood Through Absorption in Music Listening</description>
   </item>
   <item>
-    <title>戦略ゲームにおける準ランダム行動の研究</title>
+    <title>戦略ゲームにおけるほぼランダムな行動</title>
     <link>https://osf.io/zhv5j</link>
     <guid isPermaLink="false">https://osf.io/zhv5j#ja</guid>
     <pubDate>Mon, 28 Sep 2026 20:43:53 +0000</pubDate>
@@ -146,14 +237,14 @@
     <description>Selflessness, Self-Centeredness, and Mental Health in Dyads: Indirect Associations Through Affective and Functional Pathways</description>
   </item>
   <item>
-    <title>有機農家と慣行農家のスティグマ理解：職業的汚名、非人間化、及び認知された負担感</title>
+    <title>有機農家と慣行農家のスティグマ理解：職業的汚名、非人間化、および認知された負担</title>
     <link>https://osf.io/3aqk7</link>
     <guid isPermaLink="false">https://osf.io/3aqk7#ja</guid>
     <pubDate>Mon, 28 Sep 2026 20:43:53 +0000</pubDate>
     <description>Understanding Stigmatization of Organic and Conventional Farmers: Occupational Taint, Dehumanization, and Perceived Burden</description>
   </item>
   <item>
-    <title>文化適応ストレス要因と適応の関係に関する生態学的説明のメタ分析的証拠</title>
+    <title>文化適応ストレス要因と適応との関係に関する生態学的説明のメタアナリシス的証拠</title>
     <link>https://osf.io/fpm6z</link>
     <guid isPermaLink="false">https://osf.io/fpm6z#ja</guid>
     <pubDate>Mon, 28 Sep 2026 20:43:53 +0000</pubDate>
@@ -181,14 +272,14 @@
     <description>A Revolution in Search of an Estimand: On the Idionomic Proposal of Hayes et al. (2026)</description>
   </item>
   <item>
-    <title>推論およびメタ推論における作業記憶の役割の検討：ファジィトレース理論のアプローチ</title>
+    <title>推論およびメタ推論における作業記憶の役割の検討：ファジートレース理論のアプローチ</title>
     <link>https://osf.io/sv3kf</link>
     <guid isPermaLink="false">https://osf.io/sv3kf#ja</guid>
     <pubDate>Mon, 28 Sep 2026 14:31:46 +0000</pubDate>
     <description>Examining the Role of Working Memory in Reasoning and Meta-reasoning:  A Fuzzy-trace approach</description>
   </item>
   <item>
-    <title>ストイックトレーニングが否定的評価への恐怖および社会的評価ストレス反応に及ぼす影響：ランダム化比較試験</title>
+    <title>ストイックトレーニングが否定的評価への恐怖および社会的評価ストレスへの反応に及ぼす影響：ランダム化比較試験</title>
     <link>https://osf.io/egra2</link>
     <guid isPermaLink="false">https://osf.io/egra2#ja</guid>
     <pubDate>Mon, 28 Sep 2026 14:31:46 +0000</pubDate>
@@ -202,14 +293,14 @@
     <description>Is it Difficult to be a People Pleaser? An Item Response-Theoretical Examination of the People Pleasing Scale</description>
   </item>
   <item>
-    <title>謎めいた状況：協力と社会的観察が視空間的問題解決に与える影響</title>
+    <title>困惑する状況：協力と社会的観察が視空間的問題解決に与える影響</title>
     <link>https://osf.io/54f8u</link>
     <guid isPermaLink="false">https://osf.io/54f8u#ja</guid>
     <pubDate>Mon, 28 Sep 2026 14:31:45 +0000</pubDate>
     <description>A puzzling situation: How cooperation and social observation influence visuospatial problem-solving</description>
   </item>
   <item>
-    <title>社会横断的オンライン行動経済ゲーム（CoBEx）によるグローバル社会科学の発展：得られた知見と実践的ガイド</title>
+    <title>社会横断的オンライン行動経済ゲーム（CoBEx）によるグローバル社会科学の推進：得られた知見と実践的ガイド</title>
     <link>https://osf.io/89c7p</link>
     <guid isPermaLink="false">https://osf.io/89c7p#ja</guid>
     <pubDate>Sun, 27 Sep 2026 22:34:42 +0000</pubDate>
@@ -223,14 +314,14 @@
     <description>Resting-State Functional Connectivity in Antipsychotic-Naïve First-Episode Psychosis: A Systematic Review of Network Alterations and Preprocessing Heterogeneity</description>
   </item>
   <item>
-    <title>うつ病患者における瞬間的社会的支援の種類別効果：気分および不安への影響の差異</title>
+    <title>うつ病患者における瞬間的社会的支援の種類別効果：気分および不安への影響</title>
     <link>https://osf.io/58gvq</link>
     <guid isPermaLink="false">https://osf.io/58gvq#ja</guid>
     <pubDate>Sun, 27 Sep 2026 22:34:42 +0000</pubDate>
     <description>Differential Effects of Types of Momentary Social Support on Mood and Anxiety in Patients with Depression</description>
   </item>
   <item>
-    <title>フェミニスト・アイデンティティの多次元的操作的定義に向けて：性差別および体重バイアスとの関連性</title>
+    <title>フェミニスト・アイデンティティの多次元的操作化に向けて：性差別および体重バイアスとの関連性</title>
     <link>https://osf.io/k48fz</link>
     <guid isPermaLink="false">https://osf.io/k48fz#ja</guid>
     <pubDate>Sun, 27 Sep 2026 22:34:42 +0000</pubDate>
@@ -244,14 +335,14 @@
     <description>“It&#x27;s my destiny.”: A Qualitative Exploration of Motivating Factors for submissives who Hold BDSM and Kink Identities</description>
   </item>
   <item>
-    <title>ライフセーバーズネオンガミにおけるフレーバー分布と色彩が消費者知覚に与える影響の分析</title>
+    <title>ライフセーバーズネオンガミにおけるフレーバー分布と色彩の消費者知覚の分析</title>
     <link>https://osf.io/b9hv6</link>
     <guid isPermaLink="false">https://osf.io/b9hv6#ja</guid>
     <pubDate>Sun, 27 Sep 2026 19:43:39 +0000</pubDate>
     <description>An Analysis of Flavor Distribution and Consumer Perception On Color In Life Savers Neon Gummies</description>
   </item>
   <item>
-    <title>研究慣行の倫理観や硬直的チェックリストを超えて：バイオメディカル研究倫理の枠組みに基づくオープンサイエンスの確立</title>
+    <title>研究慣行の倫理観や硬直的なチェックリストを超えて：バイオメディカル研究倫理の枠組みに基づくオープンサイエンスの確立</title>
     <link>https://osf.io/ctwzb</link>
     <guid isPermaLink="false">https://osf.io/ctwzb#ja</guid>
     <pubDate>Sun, 27 Sep 2026 19:43:39 +0000</pubDate>
@@ -263,97 +354,6 @@
     <guid isPermaLink="false">https://osf.io/9pgk7#ja</guid>
     <pubDate>Sat, 26 Sep 2026 13:51:11 +0000</pubDate>
     <description>When the Same Leader Helps and Harms: Inconsistent Leadership Behavior in Team Meetings</description>
-  </item>
-  <item>
-    <title>「狂気の医師」と結婚するのは誰か？：インドの精神保健専門職における連想汚名に関する質的研究</title>
-    <link>https://osf.io/5edyb</link>
-    <guid isPermaLink="false">https://osf.io/5edyb#ja</guid>
-    <pubDate>Sat, 26 Sep 2026 13:51:11 +0000</pubDate>
-    <description>“Who Will Marry a Mad Doctor?”: A Qualitative Study of Associative Stigma Among Mental Health Professionals in India</description>
-  </item>
-  <item>
-    <title>利益追求の認知：社会的利益が明示されても営利企業は非営利組織よりも否定的に評価される</title>
-    <link>https://osf.io/2aczp</link>
-    <guid isPermaLink="false">https://osf.io/2aczp#ja</guid>
-    <pubDate>Sat, 26 Sep 2026 13:51:11 +0000</pubDate>
-    <description>Perceptions of Profit Motive: For-Profit Companies are Judged Less Favourably Than Non-Profits Even When the Societal Benefits of Profit-Seeking are Made Salient</description>
-  </item>
-  <item>
-    <title>精度階層仮説：相反する連続効果を説明する統合的枠組み</title>
-    <link>https://osf.io/7ckfw</link>
-    <guid isPermaLink="false">https://osf.io/7ckfw#ja</guid>
-    <pubDate>Fri, 25 Sep 2026 21:29:16 +0000</pubDate>
-    <description>The precision hierarchy hypothesis: A unifying framework to explain opposing serial effects</description>
-  </item>
-  <item>
-    <title>行動制御における結合と検索の神経生理学およびトゥレット症候群におけるその変化</title>
-    <link>https://osf.io/927xf</link>
-    <guid isPermaLink="false">https://osf.io/927xf#ja</guid>
-    <pubDate>Fri, 25 Sep 2026 21:29:15 +0000</pubDate>
-    <description>The Neurophysiology of Binding and Retrieval in Action Control and Its Alterations in Tourette Syndrome</description>
-  </item>
-  <item>
-    <title>テスト強化学習のための大規模言語モデル：チュートリアルと概念実証</title>
-    <link>https://osf.io/h5r4w</link>
-    <guid isPermaLink="false">https://osf.io/h5r4w#ja</guid>
-    <pubDate>Fri, 25 Sep 2026 21:29:15 +0000</pubDate>
-    <description>Large Language Models for Test-Enhanced Learning: A Tutorial and Proof of Concept</description>
-  </item>
-  <item>
-    <title>パーキンソン病患者における遅延フィードバックが学習に及ぼす効果</title>
-    <link>https://osf.io/dvq2a</link>
-    <guid isPermaLink="false">https://osf.io/dvq2a#ja</guid>
-    <pubDate>Fri, 25 Sep 2026 21:29:15 +0000</pubDate>
-    <description>Delayed Feedback Improves Learning in Individuals with Parkinson’s Disease</description>
-  </item>
-  <item>
-    <title>不公正な世界理論：正義の世界観の三分割モデルと不平等の道徳化</title>
-    <link>https://osf.io/pqdv4</link>
-    <guid isPermaLink="false">https://osf.io/pqdv4#ja</guid>
-    <pubDate>Fri, 25 Sep 2026 18:05:09 +0000</pubDate>
-    <description>Unjust World Theory: A Tripartite Model of Justice Worldviews and the Moralization of Inequality</description>
-  </item>
-  <item>
-    <title>禁酒維持を目指す成人におけるモバイル回復支援アプリの薬物使用および関連影響に対する効果：ランダム化比較試験</title>
-    <link>https://osf.io/wp9vg</link>
-    <guid isPermaLink="false">https://osf.io/wp9vg#ja</guid>
-    <pubDate>Thu, 24 Sep 2026 21:13:33 +0000</pubDate>
-    <description>Effects of a Mobile Recovery Support App on Substance Use and Related Consequences Among Adults Seeking to Maintain Sobriety: A Randomized Controlled Trial</description>
-  </item>
-  <item>
-    <title>夢報告7万5千件における多層的時間構造の測定</title>
-    <link>https://osf.io/tg29q</link>
-    <guid isPermaLink="false">https://osf.io/tg29q#ja</guid>
-    <pubDate>Thu, 24 Sep 2026 21:13:33 +0000</pubDate>
-    <description>Measuring a dreaming population: multilevel temporal organization in 75,000 dream reports</description>
-  </item>
-  <item>
-    <title>知能の一般概念は包括的かつ階層的である</title>
-    <link>https://osf.io/eky89</link>
-    <guid isPermaLink="false">https://osf.io/eky89#ja</guid>
-    <pubDate>Thu, 24 Sep 2026 21:13:33 +0000</pubDate>
-    <description>The ordinary concept of intelligence is inclusive but hierarchical</description>
-  </item>
-  <item>
-    <title>認知的に疑わしい信念の抑制に向けた統合的・学際的・多次元的アプローチの提案：Bronsteinら（2026）へのコメント</title>
-    <link>https://osf.io/w6phu</link>
-    <guid isPermaLink="false">https://osf.io/w6phu#ja</guid>
-    <pubDate>Thu, 24 Sep 2026 21:13:32 +0000</pubDate>
-    <description>Towards an Integrative, Interdisciplinary, and Multidimensional Approach to Curbing Epistemically Suspect Beliefs: A Commentary on Bronstein et al. (2026)</description>
-  </item>
-  <item>
-    <title>性的少数男性のトライブアイデンティティにおける摂食障害とリスク要因の検討</title>
-    <link>https://osf.io/urzn5</link>
-    <guid isPermaLink="false">https://osf.io/urzn5#ja</guid>
-    <pubDate>Thu, 24 Sep 2026 21:13:32 +0000</pubDate>
-    <description>Disordered Eating and Risk Factors Across Sexual Minority Men’s Tribe Identities</description>
-  </item>
-  <item>
-    <title>脳と環境のリズム同期：脳と環境間のリズム結合に関する学際的レビュー</title>
-    <link>https://osf.io/2gc6d</link>
-    <guid isPermaLink="false">https://osf.io/2gc6d#ja</guid>
-    <pubDate>Wed, 23 Sep 2026 14:33:26 +0000</pubDate>
-    <description>Brain–Environment Rhythmic Coupling: An Interdisciplinary Review of Rhythm Synchronization between the brain and the environment</description>
   </item>
 </channel>
 </rss>
