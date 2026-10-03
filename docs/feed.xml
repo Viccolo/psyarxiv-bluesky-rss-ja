@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>結果的意思決定課題における環境的および個人的成果の努力割引効果</title>
+    <title>結果的意思決定課題における環境的および個人的結果の努力割引効果</title>
     <link>https://osf.io/wp9tq</link>
     <guid isPermaLink="false">https://osf.io/wp9tq#ja</guid>
     <pubDate>Fri, 02 Oct 2026 23:25:36 +0000</pubDate>
@@ -76,14 +76,14 @@
     <description>Perceptual Cues Can Influence Curiosity, Metamemory, and Memory Processes</description>
   </item>
   <item>
-    <title>アルコール特異的エピソード記憶とアルコールキュー曝露が価値に基づく意思決定および自由摂取アルコール消費に及ぼす影響</title>
+    <title>アルコール特異的エピソード記憶とアルコールキュー曝露が価値基準意思決定および自由摂取アルコール消費に及ぼす影響</title>
     <link>https://osf.io/3ka57</link>
     <guid isPermaLink="false">https://osf.io/3ka57#ja</guid>
     <pubDate>Fri, 02 Oct 2026 23:25:34 +0000</pubDate>
     <description>The effect of alcohol-specific episodic memories and alcohol cue exposure on value-based decision-making and ad libitum alcohol consumption</description>
   </item>
   <item>
-    <title>ルーチン測定に基づくケアデータを用いた心理療法中断の予測：どの患者がより複雑な予測モデルの恩恵を受けるか？</title>
+    <title>ルーチン測定に基づくケアデータを用いた心理療法中断予測：どの患者がより複雑な予測モデルの恩恵を受けるか？</title>
     <link>https://osf.io/ny5rq</link>
     <guid isPermaLink="false">https://osf.io/ny5rq#ja</guid>
     <pubDate>Fri, 02 Oct 2026 23:25:33 +0000</pubDate>
@@ -104,7 +104,7 @@
     <description>Psychiatric Overdiagnosis as Diagnostic Stretching in Response to Clinical Need</description>
   </item>
   <item>
-    <title>極めて鮮明な心的イメージの精神健康への影響：ハイパーファンタジアによる不安管理の質的検討</title>
+    <title>極めて鮮明な心的イメージの精神健康への影響：ハイパーファンタジアによる不安管理の質的研究</title>
     <link>https://osf.io/e4mvn</link>
     <guid isPermaLink="false">https://osf.io/e4mvn#ja</guid>
     <pubDate>Fri, 02 Oct 2026 23:25:33 +0000</pubDate>
@@ -132,7 +132,7 @@
     <description>Characterizing deaf and hard-of-hearing language experiences as arousal-regulation processes</description>
   </item>
   <item>
-    <title>8週間の慣習を超えて：マインドフルネスプログラムの構造と時間的変化に関する迅速レビュー</title>
+    <title>8週間の慣例を超えて：マインドフルネスプログラムの構造と時間的変化に関する迅速レビュー</title>
     <link>https://osf.io/y73uk</link>
     <guid isPermaLink="false">https://osf.io/y73uk#ja</guid>
     <pubDate>Fri, 02 Oct 2026 19:53:17 +0000</pubDate>
@@ -209,21 +209,21 @@
     <description>Cognitive Assessment Tools Developed or Adapted for Indigenous Populations in North America, South America, and Oceania: A Systematic Review</description>
   </item>
   <item>
-    <title>対話型AIと共に育つ：思春期の対話型AI利用における主体性の発達的枠組み</title>
+    <title>会話型AIとの共育：思春期における会話型AI利用の主体性発達フレームワーク</title>
     <link>https://osf.io/edyfr</link>
     <guid isPermaLink="false">https://osf.io/edyfr#ja</guid>
     <pubDate>Thu, 01 Oct 2026 19:46:55 +0000</pubDate>
     <description>Growing Up With Conversational AI: A Developmental Framework for Adolescent Agency Over Conversational AI Use</description>
   </item>
   <item>
-    <title>差別と集団行動参加がもたらす感情的およびウェルビーイングへの影響</title>
+    <title>差別経験と集団行動参加が感情およびウェルビーイングに及ぼす影響</title>
     <link>https://osf.io/kv3ry</link>
     <guid isPermaLink="false">https://osf.io/kv3ry#ja</guid>
     <pubDate>Thu, 01 Oct 2026 19:46:55 +0000</pubDate>
     <description>Emotional and Well-being Consequences of Discrimination and Collective Action Engagement</description>
   </item>
   <item>
-    <title>幸福感の低い人々はスマートフォンの使用時間が長く安定性に欠ける：12データセットによる大規模解析</title>
+    <title>幸福感の低い人々はスマートフォンの使用時間が長く安定性に欠ける：12のデータセットによる大規模解析</title>
     <link>https://osf.io/ev8gw</link>
     <guid isPermaLink="false">https://osf.io/ev8gw#ja</guid>
     <pubDate>Thu, 01 Oct 2026 19:46:54 +0000</pubDate>
@@ -251,7 +251,7 @@
     <description>Parsing structured semantic knowledge from arbitrary text with GenAI</description>
   </item>
   <item>
-    <title>包摂的発達科学に向けて：コミュニティの視点を研究実践に翻訳する試み</title>
+    <title>包摂的発達科学に向けて：地域社会の視点を研究実践に反映する試み</title>
     <link>https://osf.io/s3w89</link>
     <guid isPermaLink="false">https://osf.io/s3w89#ja</guid>
     <pubDate>Wed, 30 Sep 2026 18:28:20 +0000</pubDate>
@@ -265,7 +265,7 @@
     <description>Embodied mirroring increases interpersonal synchrony of movement and positive experience in subsequent conversations</description>
   </item>
   <item>
-    <title>西オーストラリアにおける出生前乳児睡眠情報の実態：親が受け取った情報と求めた情報に関する混合研究</title>
+    <title>西オーストラリアにおける出生前乳児睡眠情報：親が受け取った情報と求めた情報の混合方法研究</title>
     <link>https://osf.io/twqfx</link>
     <guid isPermaLink="false">https://osf.io/twqfx#ja</guid>
     <pubDate>Wed, 30 Sep 2026 18:28:19 +0000</pubDate>
@@ -279,35 +279,35 @@
     <description>Roles of conceptual development in the training and acquisition of compassion practices</description>
   </item>
   <item>
-    <title>並列短文構築における混合整数線形計画法とメタヒューリスティクスの比較検討</title>
+    <title>並列短形構築における混合整数線形計画法とメタヒューリスティクスの比較</title>
     <link>https://osf.io/hbn7a</link>
     <guid isPermaLink="false">https://osf.io/hbn7a#ja</guid>
     <pubDate>Tue, 29 Sep 2026 12:43:26 +0000</pubDate>
     <description>A Comparison of Mixed-Integer Linear Programming and Metaheuristics in Parallel Short-Form Construction</description>
   </item>
   <item>
-    <title>見るタイミングが必ずしも動くタイミングではない：プレビューの有無が人間の複数目標探索における運動制御と視覚探索に与える影響</title>
+    <title>視覚情報の先行提示が人間の複数目標探索における運動制御と視覚探索に及ぼす影響：見るタイミングと動くタイミングの不一致</title>
     <link>https://osf.io/sytbm</link>
     <guid isPermaLink="false">https://osf.io/sytbm#ja</guid>
     <pubDate>Tue, 29 Sep 2026 12:43:26 +0000</pubDate>
     <description>When You See Is Not Always When You Move: Preview Availability Influences Movement Control and Visual Search in Human Multi-Target Foraging</description>
   </item>
   <item>
-    <title>収益化するか否か：意味のある体験の金銭的評価における個人差と性別の影響</title>
+    <title>意味のある経験の金銭的評価における個人差と性別の影響：収益化の是非に関する検討</title>
     <link>https://osf.io/z7g6s</link>
     <guid isPermaLink="false">https://osf.io/z7g6s#ja</guid>
     <pubDate>Tue, 29 Sep 2026 12:43:26 +0000</pubDate>
     <description>TO MONETIZE OR NOT: INFLUENCE OF INDIVIDUAL DIFFERENCES AND GENDER IN MONETARY VALUATION OF MEANINGFUL EXPERIENCES</description>
   </item>
   <item>
-    <title>探索的項目反応行列因子分解：心理計量学と機械学習の架け橋</title>
+    <title>探索的項目反応行列因子分解：心理測定学と機械学習の架け橋</title>
     <link>https://osf.io/cjy8e</link>
     <guid isPermaLink="false">https://osf.io/cjy8e#ja</guid>
     <pubDate>Tue, 29 Sep 2026 12:43:25 +0000</pubDate>
     <description>Exploratory Item Response Matrix Factorization: Bridging Psychometrics and Machine Learning</description>
   </item>
   <item>
-    <title>共同（個別）課題表象は自発的かつ選択的に活性化される：スイッチコスト非対称性の証拠</title>
+    <title>共同（個別）課題表象は自発的かつ選択的に活性化される：切り替えコストの非対称性からの証拠</title>
     <link>https://osf.io/5cz2j</link>
     <guid isPermaLink="false">https://osf.io/5cz2j#ja</guid>
     <pubDate>Tue, 29 Sep 2026 12:43:25 +0000</pubDate>
@@ -321,7 +321,7 @@
     <description>Effect of an online music program on behavioral co-regulation in mothers and children with cochlear implants and with normal hearing</description>
   </item>
   <item>
-    <title>動機付け性および消費性無快感症は、日常生活における努力を要する活動と報酬活動に対する異なる感情的および行動的反応を示す</title>
+    <title>動機付け性無快感症と消費性無快感症は日常生活における努力的および報酬的活動に対する異なる感情的・行動的反応を示す</title>
     <link>https://osf.io/qkn2j</link>
     <guid isPermaLink="false">https://osf.io/qkn2j#ja</guid>
     <pubDate>Tue, 29 Sep 2026 12:43:24 +0000</pubDate>
@@ -342,14 +342,14 @@
     <description>Neural representations of emotional working memory in athletes</description>
   </item>
   <item>
-    <title>精神疾患における神経炎症の指標としての拡散MRI指標</title>
+    <title>精神疾患における神経炎症の指標としての拡散MRI計測値</title>
     <link>https://osf.io/e8y2r</link>
     <guid isPermaLink="false">https://osf.io/e8y2r#ja</guid>
     <pubDate>Tue, 29 Sep 2026 12:43:23 +0000</pubDate>
     <description>Diffusion MRI Metrics as Markers of Neuroinflammation in Mental Illness</description>
   </item>
   <item>
-    <title>環境質および健康・福祉の超局所的パターン推定</title>
+    <title>環境質および健康・福祉のハイパーローカルパターンの推定</title>
     <link>https://osf.io/mkdjy</link>
     <guid isPermaLink="false">https://osf.io/mkdjy#ja</guid>
     <pubDate>Tue, 29 Sep 2026 12:43:23 +0000</pubDate>
