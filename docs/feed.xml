@@ -6,7 +6,63 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>心理療法の再構築：関係的癒しと実践のための統合的アフロセントリック脱植民地枠組みへ</title>
+    <title>画面越しに私のことがわかりますか？対面およびビデオ会議における外向性のみが示す特徴的な人格認知の正確性</title>
+    <link>https://osf.io/8u3f5</link>
+    <guid isPermaLink="false">https://osf.io/8u3f5#ja</guid>
+    <pubDate>Mon, 05 Oct 2026 20:48:00 +0000</pubDate>
+    <description>Can You Read Me Through the Screen? Only Extraversion Shows Distinctive Personality Accuracy in Face-to-Face and Videoconferencing Interactions</description>
+  </item>
+  <item>
+    <title>政策のための新たな行動洞察の世代へ：人々が社会に参加でき、参加したいと考える方法についての考察</title>
+    <link>https://osf.io/8bfeq</link>
+    <guid isPermaLink="false">https://osf.io/8bfeq#ja</guid>
+    <pubDate>Mon, 05 Oct 2026 20:48:00 +0000</pubDate>
+    <description>Naar een nieuwe generatie gedragsinzichten voor beleid: Denk na over hoe mensen kunnen en willen meedoen in de samenleving</description>
+  </item>
+  <item>
+    <title>心理診断尺度の内容重複度定量化における大規模言語モデルの検証</title>
+    <link>https://osf.io/v8t9x</link>
+    <guid isPermaLink="false">https://osf.io/v8t9x#ja</guid>
+    <pubDate>Mon, 05 Oct 2026 20:47:59 +0000</pubDate>
+    <description>Validácia veľkých jazykových modelov pri kvantifikácii obsahového prekryvu psychodiagnostických škál</description>
+  </item>
+  <item>
+    <title>高熟練および低熟練のファーストパーソンシューティングゲームプレイヤーのパフォーマンスに関連する注意制御メカニズムの特定：高齢のエキスパートeスポーツプレイヤーに関する探索的データを用いて</title>
+    <link>https://osf.io/mxvbf</link>
+    <guid isPermaLink="false">https://osf.io/mxvbf#ja</guid>
+    <pubDate>Mon, 05 Oct 2026 20:47:59 +0000</pubDate>
+    <description>Identifying attentional control mechanisms related to the performance of high- and low-skilled First-Person Shooter game players: With exploratory data on expert older-adult esports players</description>
+  </item>
+  <item>
+    <title>高齢期における適応的記憶とメタ認知：成功する老化への道筋</title>
+    <link>https://osf.io/kr65m</link>
+    <guid isPermaLink="false">https://osf.io/kr65m#ja</guid>
+    <pubDate>Mon, 05 Oct 2026 20:47:59 +0000</pubDate>
+    <description>Adaptive Memory and Metacognition in Older Adulthood: A Path Towards Successful Aging</description>
+  </item>
+  <item>
+    <title>mlstats：多層記述統計およびデータ準備のためのRパッケージ</title>
+    <link>https://osf.io/hdz5e</link>
+    <guid isPermaLink="false">https://osf.io/hdz5e#ja</guid>
+    <pubDate>Mon, 05 Oct 2026 20:47:59 +0000</pubDate>
+    <description>mlstats: An R package for multilevel descriptive statistics and data preparation</description>
+  </item>
+  <item>
+    <title>若者の実体験に即したソーシャルメディア依存の測定と支援の整合化</title>
+    <link>https://osf.io/wahf5</link>
+    <guid isPermaLink="false">https://osf.io/wahf5#ja</guid>
+    <pubDate>Mon, 05 Oct 2026 20:47:59 +0000</pubDate>
+    <description>Aligning how we measure and support social media addiction with young people&#x27;s lived experience</description>
+  </item>
+  <item>
+    <title>レトロキューの特性と視覚マスキングが自発的注意と非自発的注意に及ぼす異なる影響</title>
+    <link>https://osf.io/qy6pc</link>
+    <guid isPermaLink="false">https://osf.io/qy6pc#ja</guid>
+    <pubDate>Mon, 05 Oct 2026 20:47:58 +0000</pubDate>
+    <description>Retro-cue Characteristics and Visual Masking Differentially Influence Voluntary and Involuntary Attention</description>
+  </item>
+  <item>
+    <title>心理療法の再構築：関係性の癒しと実践に向けた統合的アフロセントリック脱植民地化フレームワーク</title>
     <link>https://osf.io/rac8d</link>
     <guid isPermaLink="false">https://osf.io/rac8d#ja</guid>
     <pubDate>Mon, 05 Oct 2026 12:27:09 +0000</pubDate>
@@ -27,14 +83,14 @@
     <description>Moment-to-Moment Affect During Film-Induced Somatic Anxiety</description>
   </item>
   <item>
-    <title>メンタルヘルスにおける社交ダンスのもう一つの側面：脆弱な集団に提供する前に解決すべき課題とは何か？</title>
+    <title>メンタルヘルスにおける社交ダンスのもう一つの側面：脆弱な集団に提供する前に検討すべき課題とは</title>
     <link>https://osf.io/28awv</link>
     <guid isPermaLink="false">https://osf.io/28awv#ja</guid>
     <pubDate>Sun, 04 Oct 2026 21:28:54 +0000</pubDate>
     <description>The other side of social dance for mental health: What needs to be addressed before it can be offered to vulnerable populations?</description>
   </item>
   <item>
-    <title>境界性パーソナリティ障害に関連する症状に対する犬介在療法のスコーピングレビュー</title>
+    <title>境界性パーソナリティ障害に関連する症状と犬介在療法：スコーピングレビュー</title>
     <link>https://osf.io/evz65</link>
     <guid isPermaLink="false">https://osf.io/evz65#ja</guid>
     <pubDate>Sun, 04 Oct 2026 21:28:54 +0000</pubDate>
@@ -48,28 +104,28 @@
     <description>Changes in Single People’s Attachment Models and Co-Development with Life Satisfaction</description>
   </item>
   <item>
-    <title>精神的疲労と認知的努力を結ぶ横断的診断的計算モデルの検討</title>
+    <title>精神的疲労と認知的努力を結ぶ横断的診断的計算モデルの提案</title>
     <link>https://osf.io/98pfs</link>
     <guid isPermaLink="false">https://osf.io/98pfs#ja</guid>
     <pubDate>Sat, 03 Oct 2026 17:25:13 +0000</pubDate>
     <description>A transdiagnostic computational account linking mental fatigue and cognitive effort</description>
   </item>
   <item>
-    <title>ステレオタイプに一致する判断における顔の証拠の影響の低減：黒人顔と白人顔における威圧性と攻撃性の関連の弱さ</title>
+    <title>ステレオタイプに一致する判断における顔情報の影響の低減：黒人顔と白人顔における威圧性と攻撃性の関連の弱さ</title>
     <link>https://osf.io/y6nc7</link>
     <guid isPermaLink="false">https://osf.io/y6nc7#ja</guid>
     <pubDate>Sat, 03 Oct 2026 17:25:12 +0000</pubDate>
     <description>Facial evidence matters less for stereotype-consistent judgments: Weaker formidability-aggression associations in Black vs. White faces</description>
   </item>
   <item>
-    <title>知覚および美的評価の多次元構造：独立した特徴、相互作用する特徴値、そして知覚的統一性</title>
+    <title>知覚的および美的評価の多次元構造：独立した特徴、相互作用する特徴値、および知覚的統一性</title>
     <link>https://osf.io/xwyza</link>
     <guid isPermaLink="false">https://osf.io/xwyza#ja</guid>
     <pubDate>Sat, 03 Oct 2026 17:25:12 +0000</pubDate>
     <description>The multidimensional structure of perceptual and aesthetic evaluation: Independent features, interacting feature values, and perceptual unity</description>
   </item>
   <item>
-    <title>結果的意思決定課題における環境的および個人的成果の努力割引効果</title>
+    <title>結果的意思決定課題における環境的および個人的結果の努力割引効果</title>
     <link>https://osf.io/wp9tq</link>
     <guid isPermaLink="false">https://osf.io/wp9tq#ja</guid>
     <pubDate>Fri, 02 Oct 2026 23:25:36 +0000</pubDate>
@@ -111,14 +167,14 @@
     <description>Towards a Cognitive Science of Practical Wisdom for Ill-Defined Decisions</description>
   </item>
   <item>
-    <title>2024年米国選挙、性的・性別少数者の引越し計画および精神健康症状に関する混合方法分析</title>
+    <title>2024年米国選挙、性的・性別少数者成人の引越し計画および精神健康症状に関する混合方法分析</title>
     <link>https://osf.io/4kcda</link>
     <guid isPermaLink="false">https://osf.io/4kcda#ja</guid>
     <pubDate>Fri, 02 Oct 2026 23:25:35 +0000</pubDate>
     <description>The 2024 U.S. Election, Sexual and Gender Minority Adults’ Moving Plans, and Mental Health Symptoms: A Mixed-Methods Analysis</description>
   </item>
   <item>
-    <title>美的関与のプロファイル：新たな調査とアメリカにおける行動の現状分析</title>
+    <title>美的関与のプロファイル：新たな調査と米国における行動の現状分析</title>
     <link>https://osf.io/6uxje</link>
     <guid isPermaLink="false">https://osf.io/6uxje#ja</guid>
     <pubDate>Fri, 02 Oct 2026 23:25:34 +0000</pubDate>
@@ -139,7 +195,7 @@
     <description>Perceptual Cues Can Influence Curiosity, Metamemory, and Memory Processes</description>
   </item>
   <item>
-    <title>アルコール特異的エピソード記憶とアルコールキュー曝露が価値に基づく意思決定および自由飲酒量に及ぼす影響</title>
+    <title>アルコール特異的エピソード記憶とアルコールキュー曝露が価値に基づく意思決定および自由摂取アルコール消費に及ぼす影響</title>
     <link>https://osf.io/3ka57</link>
     <guid isPermaLink="false">https://osf.io/3ka57#ja</guid>
     <pubDate>Fri, 02 Oct 2026 23:25:34 +0000</pubDate>
@@ -174,21 +230,21 @@
     <description>Mental health consequences of extremely vivid mental imagery: A qualitative investigation of managing anxiety with hyperphantasia</description>
   </item>
   <item>
-    <title>特性を超えて成長する：意志的なパーソナリティ変容へのスキルベースアプローチ</title>
+    <title>特性を超えて成長する：意志的なパーソナリティ変容におけるスキルベースのアプローチ</title>
     <link>https://osf.io/khm9n</link>
     <guid isPermaLink="false">https://osf.io/khm9n#ja</guid>
     <pubDate>Fri, 02 Oct 2026 23:25:32 +0000</pubDate>
     <description>Growing Beyond Traits: A Skill-Based Approach to Volitional Personality Change</description>
   </item>
   <item>
-    <title>すべての人のための清浄な空気（CLAIRE）：パンデミック準備における換気と空気清浄</title>
+    <title>すべての人のための清浄な空気（CLAIRE）：パンデミック対策における換気と空気清浄</title>
     <link>https://osf.io/scxjr</link>
     <guid isPermaLink="false">https://osf.io/scxjr#ja</guid>
     <pubDate>Fri, 02 Oct 2026 19:53:18 +0000</pubDate>
     <description>‘Clean Air for Everyone (CLAIRE): Ventilatie en luchtreiniging voor pandemische paraatheid’</description>
   </item>
   <item>
-    <title>聴覚障害者の言語経験の覚醒調節過程としての特徴づけ</title>
+    <title>聴覚障害者の言語経験の覚醒調節過程としての特徴付け</title>
     <link>https://osf.io/bs2kp</link>
     <guid isPermaLink="false">https://osf.io/bs2kp#ja</guid>
     <pubDate>Fri, 02 Oct 2026 19:53:17 +0000</pubDate>
@@ -216,7 +272,7 @@
     <description>A database of subjective evaluation ratings for decision-making research</description>
   </item>
   <item>
-    <title>子どもが非行に走る要因とは何か？遺伝、選択、そして原罪における罰の役割</title>
+    <title>子どもが非行に走る理由とは何か？原罪における遺伝、選択、そして罰の役割</title>
     <link>https://osf.io/yb2gp</link>
     <guid isPermaLink="false">https://osf.io/yb2gp#ja</guid>
     <pubDate>Thu, 01 Oct 2026 19:46:58 +0000</pubDate>
@@ -265,14 +321,14 @@
     <description>Questions about Generative Language Models for Human Resources Decision Making</description>
   </item>
   <item>
-    <title>北米、南米およびオセアニアの先住民集団向けに開発または適応された認知評価ツールの体系的レビュー</title>
+    <title>北米・南米・オセアニアの先住民集団向けに開発または適応された認知評価ツールの体系的レビュー</title>
     <link>https://osf.io/hqvz6</link>
     <guid isPermaLink="false">https://osf.io/hqvz6#ja</guid>
     <pubDate>Thu, 01 Oct 2026 19:46:55 +0000</pubDate>
     <description>Cognitive Assessment Tools Developed or Adapted for Indigenous Populations in North America, South America, and Oceania: A Systematic Review</description>
   </item>
   <item>
-    <title>会話型AIと共に育つ：思春期の会話型AI利用における主体性の発達的枠組み</title>
+    <title>対話型AIと共に育つ：青年期における対話型AI利用の主体性発達フレームワーク</title>
     <link>https://osf.io/edyfr</link>
     <guid isPermaLink="false">https://osf.io/edyfr#ja</guid>
     <pubDate>Thu, 01 Oct 2026 19:46:55 +0000</pubDate>
@@ -298,62 +354,6 @@
     <guid isPermaLink="false">https://osf.io/7xtzy#ja</guid>
     <pubDate>Thu, 01 Oct 2026 19:46:54 +0000</pubDate>
     <description>How AI chatbots shape political attitudes when they are not prompted to persuade</description>
-  </item>
-  <item>
-    <title>温かい感情と環境配慮行動の関連性：スコーピングレビューとメタアナリシスによる検証</title>
-    <link>https://osf.io/pka7q</link>
-    <guid isPermaLink="false">https://osf.io/pka7q#ja</guid>
-    <pubDate>Wed, 30 Sep 2026 18:28:20 +0000</pubDate>
-    <description>The Link between Warm Glow and Pro-Environmental Behaviors is Positive and Robust: A Scoping Review and Meta-Analysis</description>
-  </item>
-  <item>
-    <title>GenAIを用いた任意テキストからの構造化意味知識の解析</title>
-    <link>https://osf.io/wq48t</link>
-    <guid isPermaLink="false">https://osf.io/wq48t#ja</guid>
-    <pubDate>Wed, 30 Sep 2026 18:28:20 +0000</pubDate>
-    <description>Parsing structured semantic knowledge from arbitrary text with GenAI</description>
-  </item>
-  <item>
-    <title>包摂的発達科学に向けて：コミュニティの視点を研究実践に反映する試み</title>
-    <link>https://osf.io/s3w89</link>
-    <guid isPermaLink="false">https://osf.io/s3w89#ja</guid>
-    <pubDate>Wed, 30 Sep 2026 18:28:20 +0000</pubDate>
-    <description>Towards Inclusive Developmental Science: Translating Community Perspectives into Research Practice</description>
-  </item>
-  <item>
-    <title>身体的ミラーリングは動作の対人同期性とその後の会話における肯定的体験を増加させる</title>
-    <link>https://osf.io/r4pgv</link>
-    <guid isPermaLink="false">https://osf.io/r4pgv#ja</guid>
-    <pubDate>Wed, 30 Sep 2026 18:28:19 +0000</pubDate>
-    <description>Embodied mirroring increases interpersonal synchrony of movement and positive experience in subsequent conversations</description>
-  </item>
-  <item>
-    <title>西オーストラリアにおける出生前乳児睡眠情報の実態：親が受け取った情報と求めた情報に関する混合方法研究</title>
-    <link>https://osf.io/twqfx</link>
-    <guid isPermaLink="false">https://osf.io/twqfx#ja</guid>
-    <pubDate>Wed, 30 Sep 2026 18:28:19 +0000</pubDate>
-    <description>Antenatal infant sleep information in Western Australia: A mixed-methods study of what parents received and what they wanted</description>
-  </item>
-  <item>
-    <title>共感実践の訓練と習得における概念発達の役割</title>
-    <link>https://osf.io/k8w5a</link>
-    <guid isPermaLink="false">https://osf.io/k8w5a#ja</guid>
-    <pubDate>Wed, 30 Sep 2026 18:28:19 +0000</pubDate>
-    <description>Roles of conceptual development in the training and acquisition of compassion practices</description>
-  </item>
-  <item>
-    <title>並列短形構築における混合整数線形計画法とメタヒューリスティクスの比較</title>
-    <link>https://osf.io/hbn7a</link>
-    <guid isPermaLink="false">https://osf.io/hbn7a#ja</guid>
-    <pubDate>Tue, 29 Sep 2026 12:43:26 +0000</pubDate>
-    <description>A Comparison of Mixed-Integer Linear Programming and Metaheuristics in Parallel Short-Form Construction</description>
-  </item>
-  <item>
-    <title>見るタイミングが動作のタイミングとは限らない：プレビューの有無が人間の複数目標探索における運動制御と視覚探索に及ぼす影響</title>
-    <link>https://osf.io/sytbm</link>
-    <guid isPermaLink="false">https://osf.io/sytbm#ja</guid>
-    <pubDate>Tue, 29 Sep 2026 12:43:26 +0000</pubDate>
-    <description>When You See Is Not Always When You Move: Preview Availability Influences Movement Control and Visual Search in Human Multi-Target Foraging</description>
   </item>
 </channel>
 </rss>
