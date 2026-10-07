@@ -6,6 +6,13 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>インスタグラムのインフルエンサーにおけるアルコール言及およびアルコール関連ブランド言及の頻度推定に人工知能を活用する研究</title>
+    <link>https://osf.io/q3pb5</link>
+    <guid isPermaLink="false">https://osf.io/q3pb5#ja</guid>
+    <pubDate>Wed, 07 Oct 2026 02:26:45 +0000</pubDate>
+    <description>Using Artificial Intelligence to estimate how common alcohol references and alcohol-related brand references are among influencers on Instagram</description>
+  </item>
+  <item>
     <title>地域暖房改修における住民参加の促進：英国における鉱山水熱ネットワークプロジェクトの質的評価</title>
     <link>https://osf.io/fb8vs</link>
     <guid isPermaLink="false">https://osf.io/fb8vs#ja</guid>
@@ -13,7 +20,7 @@
     <description>Engaging residents in district heating retrofit:  A qualitative evaluation of a mine water heat network project in the United Kingdom</description>
   </item>
   <item>
-    <title>AIチャットボットに対する態度の文化的および人格的予測因子：系統的文献レビュー</title>
+    <title>AIチャットボットに対する態度の文化的および人格的予測因子：体系的文献レビュー</title>
     <link>https://osf.io/fnvzm</link>
     <guid isPermaLink="false">https://osf.io/fnvzm#ja</guid>
     <pubDate>Tue, 06 Oct 2026 23:17:24 +0000</pubDate>
@@ -41,14 +48,14 @@
     <description>Voice Class but Not Fach: Acoustic Correlates of Operatic Voice Types in 8,681 Historical Recordings</description>
   </item>
   <item>
-    <title>文化が生み出すもの、声ではない：リリカルキャンプ、プロダクションテクスチャー、そしてポピュラーソングのクィア賛歌化</title>
+    <title>声ではなく文化で作られる：リリカルキャンプ、プロダクションテクスチャー、そしてポピュラーソングのクィア賛歌化</title>
     <link>https://osf.io/mh4dw</link>
     <guid isPermaLink="false">https://osf.io/mh4dw#ja</guid>
     <pubDate>Tue, 06 Oct 2026 23:17:23 +0000</pubDate>
     <description>Made in the Culture, Not the Voice: Lyrical Camp, Production Texture, and the Queer Anthemization of Popular Songs</description>
   </item>
   <item>
-    <title>トランスジェンダーおよびジェンダー多様な歌手の独立サンプルにおける歌唱不一致性とジェンダー（SInG）尺度の検証的妥当性確認</title>
+    <title>トランスジェンダーおよびジェンダー多様な歌手の独立サンプルにおける歌唱不一致性と性別（SInG）尺度の確証的検証</title>
     <link>https://osf.io/n2rt7</link>
     <guid isPermaLink="false">https://osf.io/n2rt7#ja</guid>
     <pubDate>Tue, 06 Oct 2026 23:17:23 +0000</pubDate>
@@ -62,14 +69,14 @@
     <description>Measuring musicality at home: Preliminary validation of the Music@Home questionnaires in a Greek population</description>
   </item>
   <item>
-    <title>確証的因子分析におけるデータマトリックス基盤の全体的適合度検定：観測変数のサンプル内予測誤差の検討</title>
+    <title>確証的因子分析におけるデータマトリックス基盤の全体的適合度検定：観測変数のサンプル内予測誤差</title>
     <link>https://osf.io/wav2b</link>
     <guid isPermaLink="false">https://osf.io/wav2b#ja</guid>
     <pubDate>Tue, 06 Oct 2026 23:17:22 +0000</pubDate>
     <description>Data-Matrix-Based Overall Goodness-of-Fit Testing for Confirmatory Factor Analysis: In-Sample Prediction Error for Observed Variables</description>
   </item>
   <item>
-    <title>人間参加者と役割ベースLLM対話エージェントを用いた多者シミュレーション：組織研究のための設計フレームワークと妥当性証拠</title>
+    <title>人間参加者と役割ベースLLM対話エージェントを用いた多者シミュレーション：組織研究のための設計枠組みと妥当性証拠</title>
     <link>https://osf.io/84atj</link>
     <guid isPermaLink="false">https://osf.io/84atj#ja</guid>
     <pubDate>Tue, 06 Oct 2026 19:43:35 +0000</pubDate>
@@ -104,7 +111,7 @@
     <description>A Transcultural, Digital, and Global Perspective: Beyond Family Risk Environments in Adolescent Alcohol Use Disorders</description>
   </item>
   <item>
-    <title>画面越しに私のことがわかる？対面およびビデオ会議における外向性のみが示す特徴的な人格認知の正確性</title>
+    <title>画面越しに私のことがわかりますか？対面およびビデオ会議における外向性のみが示す特徴的な人格認知の正確性</title>
     <link>https://osf.io/8u3f5</link>
     <guid isPermaLink="false">https://osf.io/8u3f5#ja</guid>
     <pubDate>Mon, 05 Oct 2026 20:48:00 +0000</pubDate>
@@ -125,7 +132,7 @@
     <description>Validácia veľkých jazykových modelov pri kvantifikácii obsahového prekryvu psychodiagnostických škál</description>
   </item>
   <item>
-    <title>高技能および低技能のファーストパーソンシューティングゲームプレイヤーのパフォーマンスに関連する注意制御メカニズムの特定：熟練高齢eスポーツプレイヤーの探索的データを用いて</title>
+    <title>高熟練および低熟練のファーストパーソンシューティングゲームプレイヤーのパフォーマンスに関連する注意制御メカニズムの同定：高齢熟練eスポーツプレイヤーの探索的データを用いて</title>
     <link>https://osf.io/mxvbf</link>
     <guid isPermaLink="false">https://osf.io/mxvbf#ja</guid>
     <pubDate>Mon, 05 Oct 2026 20:47:59 +0000</pubDate>
@@ -146,7 +153,7 @@
     <description>mlstats: An R package for multilevel descriptive statistics and data preparation</description>
   </item>
   <item>
-    <title>若者の実体験に即したソーシャルメディア依存の測定と支援の整合性</title>
+    <title>若者の実体験に即したソーシャルメディア依存の測定と支援の整合化</title>
     <link>https://osf.io/wahf5</link>
     <guid isPermaLink="false">https://osf.io/wahf5#ja</guid>
     <pubDate>Mon, 05 Oct 2026 20:47:59 +0000</pubDate>
@@ -160,7 +167,7 @@
     <description>Retro-cue Characteristics and Visual Masking Differentially Influence Voluntary and Involuntary Attention</description>
   </item>
   <item>
-    <title>心理療法の再構築：関係的癒しと実践のための統合的アフロセントリック脱植民地化フレームワークに向けて</title>
+    <title>心理療法の再構築：関係性の癒しと実践に向けた統合的アフロセントリック脱植民地化フレームワーク</title>
     <link>https://osf.io/rac8d</link>
     <guid isPermaLink="false">https://osf.io/rac8d#ja</guid>
     <pubDate>Mon, 05 Oct 2026 12:27:09 +0000</pubDate>
@@ -174,14 +181,14 @@
     <description>Seeing good and bad for what they are: Preverbal infants discern valence in geometric-agent interactions</description>
   </item>
   <item>
-    <title>映画誘発体性感覚不安における瞬間的情動変動</title>
+    <title>映画誘発体性感覚不安における瞬間的感情変動</title>
     <link>https://osf.io/szv9e</link>
     <guid isPermaLink="false">https://osf.io/szv9e#ja</guid>
     <pubDate>Mon, 05 Oct 2026 12:27:09 +0000</pubDate>
     <description>Moment-to-Moment Affect During Film-Induced Somatic Anxiety</description>
   </item>
   <item>
-    <title>メンタルヘルスにおける社交ダンスのもう一つの側面：脆弱な集団に提供する前に解決すべき課題とは何か？</title>
+    <title>メンタルヘルスにおける社交ダンスのもう一つの側面：脆弱な集団に提供する前に解決すべき課題とは</title>
     <link>https://osf.io/28awv</link>
     <guid isPermaLink="false">https://osf.io/28awv#ja</guid>
     <pubDate>Sun, 04 Oct 2026 21:28:54 +0000</pubDate>
@@ -237,7 +244,7 @@
     <description>What makes up the moral domain? Theory must answer to data</description>
   </item>
   <item>
-    <title>視線動態が示す音声理解におけるリアルタイムノイズチャネル推論の適応的性質</title>
+    <title>視線動態が示す音声理解におけるリアルタイム雑音チャネル推論の適応的性質</title>
     <link>https://osf.io/be2ft</link>
     <guid isPermaLink="false">https://osf.io/be2ft#ja</guid>
     <pubDate>Fri, 02 Oct 2026 23:25:36 +0000</pubDate>
@@ -251,7 +258,7 @@
     <description>A Step-by-Step Tutorial on the Stochastic Cusp Model in R</description>
   </item>
   <item>
-    <title>若者のレジリエンス支援に向けた全校的予防アプローチ：「レジリエンス・リュックサック」の共創と開発</title>
+    <title>若者のレジリエンス支援に向けた学校全体の予防的アプローチ：「レジリエンス・リュックサック」の共創と開発</title>
     <link>https://osf.io/8hvc3</link>
     <guid isPermaLink="false">https://osf.io/8hvc3#ja</guid>
     <pubDate>Fri, 02 Oct 2026 23:25:35 +0000</pubDate>
@@ -265,21 +272,21 @@
     <description>Towards a Cognitive Science of Practical Wisdom for Ill-Defined Decisions</description>
   </item>
   <item>
-    <title>2024年米国選挙、性的・性別少数者成人の移動計画および精神健康症状に関する混合方法分析</title>
+    <title>2024年米国選挙、性的・性別少数者成人の転居計画および精神健康症状に関する混合方法分析</title>
     <link>https://osf.io/4kcda</link>
     <guid isPermaLink="false">https://osf.io/4kcda#ja</guid>
     <pubDate>Fri, 02 Oct 2026 23:25:35 +0000</pubDate>
     <description>The 2024 U.S. Election, Sexual and Gender Minority Adults’ Moving Plans, and Mental Health Symptoms: A Mixed-Methods Analysis</description>
   </item>
   <item>
-    <title>美的関与のプロファイル：新たな調査と米国における行動の現状分析</title>
+    <title>美的関与のプロファイル：新たな調査とアメリカにおける行動の現状分析</title>
     <link>https://osf.io/6uxje</link>
     <guid isPermaLink="false">https://osf.io/6uxje#ja</guid>
     <pubDate>Fri, 02 Oct 2026 23:25:34 +0000</pubDate>
     <description>Profiles in aesthetic engagement: A new survey and a snapshot of behavior in the United States</description>
   </item>
   <item>
-    <title>認知能力構成概念の検証：理論的根拠に基づく利用者向けガイド</title>
+    <title>認知能力構成概念の検証：理論的根拠に基づく実践者向けガイド</title>
     <link>https://osf.io/eamhj</link>
     <guid isPermaLink="false">https://osf.io/eamhj#ja</guid>
     <pubDate>Fri, 02 Oct 2026 23:25:34 +0000</pubDate>
@@ -335,25 +342,18 @@
     <description>Growing Beyond Traits: A Skill-Based Approach to Volitional Personality Change</description>
   </item>
   <item>
-    <title>すべての人のための清浄な空気（CLAIRE）：パンデミック対応における換気と空気清浄</title>
+    <title>すべての人のための清浄な空気（CLAIRE）：パンデミック対策における換気と空気清浄</title>
     <link>https://osf.io/scxjr</link>
     <guid isPermaLink="false">https://osf.io/scxjr#ja</guid>
     <pubDate>Fri, 02 Oct 2026 19:53:18 +0000</pubDate>
     <description>‘Clean Air for Everyone (CLAIRE): Ventilatie en luchtreiniging voor pandemische paraatheid’</description>
   </item>
   <item>
-    <title>聴覚障害者の言語経験の覚醒調節過程としての特性化</title>
+    <title>聴覚障害者の言語経験の覚醒調節過程としての特徴づけ</title>
     <link>https://osf.io/bs2kp</link>
     <guid isPermaLink="false">https://osf.io/bs2kp#ja</guid>
     <pubDate>Fri, 02 Oct 2026 19:53:17 +0000</pubDate>
     <description>Characterizing deaf and hard-of-hearing language experiences as arousal-regulation processes</description>
-  </item>
-  <item>
-    <title>8週間の慣習を超えて：マインドフルネスプログラムの構造と時間的変化に関する迅速レビュー</title>
-    <link>https://osf.io/y73uk</link>
-    <guid isPermaLink="false">https://osf.io/y73uk#ja</guid>
-    <pubDate>Fri, 02 Oct 2026 19:53:17 +0000</pubDate>
-    <description>Beyond the eight-week convention: A rapid review of assigned program architecture and temporal change in mindfulness-based programs</description>
   </item>
 </channel>
 </rss>
