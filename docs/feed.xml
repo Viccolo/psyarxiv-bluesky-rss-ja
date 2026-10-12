@@ -6,14 +6,70 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>解釈可能性の限界：機械理解が人間の言語理解にどのように寄与するか</title>
+    <title>青年期の経済状況と精神健康：文献レビューと専門家協議による因果メカニズムの候補特定</title>
+    <link>https://osf.io/us2df</link>
+    <guid isPermaLink="false">https://osf.io/us2df#ja</guid>
+    <pubDate>Mon, 12 Oct 2026 16:52:17 +0000</pubDate>
+    <description>Adolescents’ Economic Circumstances and their Mental Health: Identifying Candidate Causal Mechanisms through Review and Expert Consultation</description>
+  </item>
+  <item>
+    <title>日常生活における感情調整の三段階と全般的感情信念との関連性</title>
+    <link>https://osf.io/zgxfr</link>
+    <guid isPermaLink="false">https://osf.io/zgxfr#ja</guid>
+    <pubDate>Mon, 12 Oct 2026 16:52:17 +0000</pubDate>
+    <description>Associations Between Global Emotion Beliefs and Three Stages of Emotion Regulation in Everyday Life</description>
+  </item>
+  <item>
+    <title>社会的ネットワークの規模と就学前児童の視覚的視点取得および非言語的手がかり理解との関連性</title>
+    <link>https://osf.io/2hjbr</link>
+    <guid isPermaLink="false">https://osf.io/2hjbr#ja</guid>
+    <pubDate>Mon, 12 Oct 2026 16:52:16 +0000</pubDate>
+    <description>The Associations between Social Network Size and Preschool Children’s Visual Perspective-Taking and Non-Verbal Cue Understanding</description>
+  </item>
+  <item>
+    <title>加齢と聴覚障害が感情的韻律処理に及ぼす影響：神経適応と行動パフォーマンスの乖離</title>
+    <link>https://osf.io/z7624</link>
+    <guid isPermaLink="false">https://osf.io/z7624#ja</guid>
+    <pubDate>Mon, 12 Oct 2026 16:52:16 +0000</pubDate>
+    <description>Aging and Hearing Loss in Emotional Prosody Processing: Divergent Neural Adaptation and Behavioral Performance</description>
+  </item>
+  <item>
+    <title>高い客観的身体活動量は日常的ストレスと反すう思考の関連を緩和する</title>
+    <link>https://osf.io/ukdy9</link>
+    <guid isPermaLink="false">https://osf.io/ukdy9#ja</guid>
+    <pubDate>Mon, 12 Oct 2026 16:52:16 +0000</pubDate>
+    <description>Higher Objective Physical Activity Attenuates the Association Between Daily Stress and Rumination</description>
+  </item>
+  <item>
+    <title>運動学習障害を持つ幼児への早期介入：デイム・ヴェラ・リン児童慈善団体のアプローチとプロセス</title>
+    <link>https://osf.io/prbf5</link>
+    <guid isPermaLink="false">https://osf.io/prbf5#ja</guid>
+    <pubDate>Mon, 12 Oct 2026 16:52:16 +0000</pubDate>
+    <description>Early intervention for young children with motor learning impairments: the approach and processes of Dame Vera Lynn Children’s Charity</description>
+  </item>
+  <item>
+    <title>顔認識を支える計算過程における個人差</title>
+    <link>https://osf.io/q9gcu</link>
+    <guid isPermaLink="false">https://osf.io/q9gcu#ja</guid>
+    <pubDate>Mon, 12 Oct 2026 16:52:15 +0000</pubDate>
+    <description>Individual differences in the computational processes that support face recognition</description>
+  </item>
+  <item>
+    <title>自己比較における非対称性：比較判断における焦点自己バイアス</title>
+    <link>https://osf.io/fs52k</link>
+    <guid isPermaLink="false">https://osf.io/fs52k#ja</guid>
+    <pubDate>Mon, 12 Oct 2026 16:52:15 +0000</pubDate>
+    <description>Asymmetry in self-comparisons: Focal self bias in comparative judgment</description>
+  </item>
+  <item>
+    <title>限界における解釈可能性：機械理解が人間の言語理解にどのように寄与するか</title>
     <link>https://osf.io/5x6zj</link>
     <guid isPermaLink="false">https://osf.io/5x6zj#ja</guid>
     <pubDate>Sun, 11 Oct 2026 22:06:34 +0000</pubDate>
     <description>Interpretability in the Limit: How Can Understanding Machines Help us Understand Human Language?</description>
   </item>
   <item>
-    <title>生成AI教育研究における初期エビデンス統合の批判的認識論的検証：系統的レビューとメタアナリシス</title>
+    <title>生成AI教育研究における初期エビデンス統合の批判的認識論的監査：系統的レビューとメタアナリシス</title>
     <link>https://osf.io/47ks6</link>
     <guid isPermaLink="false">https://osf.io/47ks6#ja</guid>
     <pubDate>Sun, 11 Oct 2026 22:06:33 +0000</pubDate>
@@ -27,7 +83,7 @@
     <description>Beyond Initial Crisis Recognition: Suicide-Risk Responses of ChatGPT, Claude, and Gemini Across 14-Turn Ukrainian-Language Conversations</description>
   </item>
   <item>
-    <title>重篤かつ生命制限性疾患における実存的苦痛に対するシロシビン補助療法：最新の試験証拠、アクセス障壁、および個別適格性の必要性</title>
+    <title>重篤かつ生命制限性疾患における実存的苦痛に対するシロシビン補助療法：新たな臨床試験の証拠、アクセス障壁、および個別適格性の必要性</title>
     <link>https://osf.io/jktdh</link>
     <guid isPermaLink="false">https://osf.io/jktdh#ja</guid>
     <pubDate>Sun, 11 Oct 2026 22:06:33 +0000</pubDate>
@@ -55,21 +111,21 @@
     <description>The Impact of Multilingualism on Self-esteem and Linguistic Identity</description>
   </item>
   <item>
-    <title>親の怒り反応の一致性と親子双方の精神病理症状との関連性</title>
+    <title>親の怒り反応の一致性は親子双方の精神病理症状と関連する</title>
     <link>https://osf.io/z74gd</link>
     <guid isPermaLink="false">https://osf.io/z74gd#ja</guid>
     <pubDate>Sun, 11 Oct 2026 13:29:18 +0000</pubDate>
     <description>Concordance of Parents’ Anger Responses are Linked with Parents’ and Adolescents’ Psychopathology Symptoms</description>
   </item>
   <item>
-    <title>同一記憶の異なる想起：競合が海馬類似ネットワークにおける柔軟な一般化を促進する</title>
+    <title>同一記憶の異なる想起：競合が海馬類似ネットワークにおける柔軟な一般化を可能にする</title>
     <link>https://osf.io/rsq7g</link>
     <guid isPermaLink="false">https://osf.io/rsq7g#ja</guid>
     <pubDate>Sun, 11 Oct 2026 13:29:17 +0000</pubDate>
     <description>The Same Memory Retrieved Differently: Competition Enables Flexible Generalization in Hippocampus-like Networks</description>
   </item>
   <item>
-    <title>持続可能な発展のための統計不安とデータリテラシー：インドネシア統計不安評価尺度の予備的心理計量学的検証</title>
+    <title>持続可能な開発のための統計不安とデータリテラシー：インドネシア統計不安評価尺度の予備的心理計量評価</title>
     <link>https://osf.io/3h6kq</link>
     <guid isPermaLink="false">https://osf.io/3h6kq#ja</guid>
     <pubDate>Sun, 11 Oct 2026 13:29:17 +0000</pubDate>
@@ -90,42 +146,42 @@
     <description>From Impulse to Goal-Consistent Action: Testing an Intervention Targeting Predictions About One’s Own Behavior</description>
   </item>
   <item>
-    <title>文脈およびうつ症状にわたる経験的状態空間における個別化されたデフォルトを中心とした継続的思考の変動</title>
+    <title>経験的状態空間における個別化されたデフォルトを中心とした持続的思考の文脈および抑うつ症状に伴う変動</title>
     <link>https://osf.io/hmve6</link>
     <guid isPermaLink="false">https://osf.io/hmve6#ja</guid>
     <pubDate>Sat, 10 Oct 2026 18:48:11 +0000</pubDate>
     <description>Ongoing thought varies around individualised defaults in an experiential state space across contexts and depressive symptoms</description>
   </item>
   <item>
-    <title>中国の小学生における失敗恐怖、学業回復力、および学業先延ばしの予測的関連性の再検討：Fangら（2026）の研究を踏まえて</title>
+    <title>中国の小学生における失敗恐怖、学業回復力、および学業先延ばし行動の予測的関係の不確定性：Fangら（2026）の再評価</title>
     <link>https://osf.io/f472x</link>
     <guid isPermaLink="false">https://osf.io/f472x#ja</guid>
     <pubDate>Sat, 10 Oct 2026 18:48:11 +0000</pubDate>
     <description>Inconclusive prospective effects between fear of failure, academic buoyancy, and academic procrastination among Chinese primary school students: A reassessment of Fang et al. (2026)</description>
   </item>
   <item>
-    <title>思春期における社会的帰属意識と音楽的主体性が運動および対人協調に与える影響</title>
+    <title>思春期における社会的帰属感と音楽的主体性が運動および対人協調に与える影響</title>
     <link>https://osf.io/9jqx8</link>
     <guid isPermaLink="false">https://osf.io/9jqx8#ja</guid>
     <pubDate>Sat, 10 Oct 2026 18:48:11 +0000</pubDate>
     <description>Impact of social affiliation and musical agency on movement and interpersonal coordination in adolescence</description>
   </item>
   <item>
-    <title>熟練実践者の視点を通して見る：オンライン研修が新人卒業者の専門性向上と意思決定の質を加速させる方法</title>
+    <title>熟練実践者の視点を通して見る：オンライン研修が新人卒業生の専門性発達と意思決定の質を向上させる方法</title>
     <link>https://osf.io/waqyz</link>
     <guid isPermaLink="false">https://osf.io/waqyz#ja</guid>
     <pubDate>Sat, 10 Oct 2026 18:48:10 +0000</pubDate>
     <description>Seeing Through the Eyes of Experienced Practitioners: How online training can accelerate expertise development and improve decision quality of novice graduates</description>
   </item>
   <item>
-    <title>単一システムによる侵入的記憶と随意的記憶：トラウマ映像パラダイムにおける選択的干渉の想起文脈理論</title>
+    <title>単一システムによる侵入的記憶と自発的記憶：トラウマ映像パラダイムにおける選択的干渉の想起文脈理論</title>
     <link>https://osf.io/9tvkw</link>
     <guid isPermaLink="false">https://osf.io/9tvkw#ja</guid>
     <pubDate>Fri, 09 Oct 2026 18:53:26 +0000</pubDate>
     <description>Intrusive and voluntary memory from a single system: A retrieved-context account of selective interference in the trauma-film paradigm</description>
   </item>
   <item>
-    <title>MBB-AVR：没入型仮想現実における動的情動状態を含む心・脳・身体データセット</title>
+    <title>MBB-AVR：没入型仮想現実における動的情動状態を含む心-脳-身体データセット</title>
     <link>https://osf.io/vg2qc</link>
     <guid isPermaLink="false">https://osf.io/vg2qc#ja</guid>
     <pubDate>Fri, 09 Oct 2026 18:53:26 +0000</pubDate>
@@ -139,35 +195,35 @@
     <description>Visual Deprivation Alters Parent-Specific  Autonomic Tuning During Infancy</description>
   </item>
   <item>
-    <title>推測の影響か？認知に基づくメタ記憶判断における低下したモニタリング精度の二つの説明の比較</title>
+    <title>推測が原因か？認知に基づくメタ記憶判断における低下したモニタリング精度の二つの説明の比較</title>
     <link>https://osf.io/xdu98</link>
     <guid isPermaLink="false">https://osf.io/xdu98#ja</guid>
     <pubDate>Fri, 09 Oct 2026 18:53:25 +0000</pubDate>
     <description>Is Guessing to Blame? Comparing Two Accounts of Attenuated Monitoring Accuracy in Recognition-Based Metamemory Judgments</description>
   </item>
   <item>
-    <title>認知機能と脳の健康のための音楽療法介入：ARMフレームワークの提案</title>
+    <title>認知機能と脳の健康に対する音楽療法介入：ARMフレームワークの提案</title>
     <link>https://osf.io/2mfzk</link>
     <guid isPermaLink="false">https://osf.io/2mfzk#ja</guid>
     <pubDate>Fri, 09 Oct 2026 18:53:25 +0000</pubDate>
     <description>Music-Based Interventions for  Cognition and Brain Health: the ARM framework</description>
   </item>
   <item>
-    <title>視覚探索は注意の誘導から検証へと視覚階層の重みをシフトさせる</title>
+    <title>視覚探索は注意の誘導から検証へと視覚階層の重みを上方にシフトさせる</title>
     <link>https://osf.io/9ye3r</link>
     <guid isPermaLink="false">https://osf.io/9ye3r#ja</guid>
     <pubDate>Fri, 09 Oct 2026 18:53:25 +0000</pubDate>
     <description>Visual search shifts weight up the visual hierarchy from attentional guidance to verification</description>
   </item>
   <item>
-    <title>回避性/制限性食欲不振症に対する家族療法における体重増加を超えて：Lockら（2026）への応答</title>
+    <title>回避・制限性食物摂取障害に対する家族療法における体重増加を超えて：Lockら（2026）への応答</title>
     <link>https://osf.io/ertjh</link>
     <guid isPermaLink="false">https://osf.io/ertjh#ja</guid>
     <pubDate>Fri, 09 Oct 2026 18:53:24 +0000</pubDate>
     <description>Beyond Weight Gain in Family-Based Treatment for Avoidant/Restrictive Food Intake Disorder: A Response to Lock et al. (2026)</description>
   </item>
   <item>
-    <title>タンザニア小学校における学校ベース介入法の効果検証：教員および保護者による児童への暴力防止を目的としたクラスター無作為化比較試験</title>
+    <title>タンザニア小学校における教員および保護者による児童への暴力防止：学校ベース介入のクラスター無作為化比較試験</title>
     <link>https://osf.io/ukw6t</link>
     <guid isPermaLink="false">https://osf.io/ukw6t#ja</guid>
     <pubDate>Fri, 09 Oct 2026 18:53:24 +0000</pubDate>
@@ -181,7 +237,7 @@
     <description>Synchrony under uncertainty. The effects of auditory context on the perception of the temporal location of quasi-musical sounds</description>
   </item>
   <item>
-    <title>青年期の自己報告によるソーシャルメディア体験尺度の開発：認知面接からの知見</title>
+    <title>思春期の自己報告によるソーシャルメディア体験尺度の開発：認知面接からの知見</title>
     <link>https://osf.io/uzrc9</link>
     <guid isPermaLink="false">https://osf.io/uzrc9#ja</guid>
     <pubDate>Fri, 09 Oct 2026 18:53:24 +0000</pubDate>
@@ -216,7 +272,7 @@
     <description>Questionable mediated effect of police work stress on life satisfaction: A comment on Qiu et al. (2026)</description>
   </item>
   <item>
-    <title>ドイツ語名詞の体験的評価に関する多次元規範データベース</title>
+    <title>ドイツ語名詞の経験的評価に関する多次元規範データベース</title>
     <link>https://osf.io/8kzu6</link>
     <guid isPermaLink="false">https://osf.io/8kzu6#ja</guid>
     <pubDate>Wed, 07 Oct 2026 21:24:54 +0000</pubDate>
@@ -230,7 +286,7 @@
     <description>Iconicity and Age Make Distinct Contributions to Symbolic Correspondence in Early Childhood</description>
   </item>
   <item>
-    <title>臨床面接における感情分析が示すパーソナリティ障害を有する青年期の自己同一性拡散の言語的指標</title>
+    <title>臨床面接における感情分析が示すパーソナリティ障害を有する青年期のアイデンティティ拡散の言語マーカー</title>
     <link>https://osf.io/dqbz2</link>
     <guid isPermaLink="false">https://osf.io/dqbz2#ja</guid>
     <pubDate>Wed, 07 Oct 2026 21:24:54 +0000</pubDate>
@@ -251,14 +307,14 @@
     <description>Calling Development: A Systematic Review of Longitudinal Evidence</description>
   </item>
   <item>
-    <title>正字情報の検索は単語産出と並行して進行する</title>
+    <title>正書法情報の検索は単語産出と並行して進行する</title>
     <link>https://osf.io/ctgdw</link>
     <guid isPermaLink="false">https://osf.io/ctgdw#ja</guid>
     <pubDate>Wed, 07 Oct 2026 21:24:53 +0000</pubDate>
     <description>Orthographic retrieval unfolds in parallel with single-word production</description>
   </item>
   <item>
-    <title>睡眠ピラミッド：健康的な睡眠促進のための習慣に基づくコミュニケーションツールの開発と全国展開</title>
+    <title>睡眠のピラミッド：健康的な睡眠促進のための習慣に基づくコミュニケーションツールの開発と全国的普及</title>
     <link>https://osf.io/pzmfu</link>
     <guid isPermaLink="false">https://osf.io/pzmfu#ja</guid>
     <pubDate>Wed, 07 Oct 2026 21:24:53 +0000</pubDate>
@@ -286,7 +342,7 @@
     <description>Health care practitioners’ knowledge, attitudes and perceptions of psychedelic treatments for mental disorders: A scoping review</description>
   </item>
   <item>
-    <title>コンサートホールにおけるクラシック歌唱の声評価：男女歌手の総合評価と知覚的・音響的関連性</title>
+    <title>コンサートホールにおけるクラシック歌唱の声評価：男女歌手の総合評価における知覚的および音響的関連性</title>
     <link>https://osf.io/n7mfc</link>
     <guid isPermaLink="false">https://osf.io/n7mfc#ja</guid>
     <pubDate>Wed, 07 Oct 2026 16:21:12 +0000</pubDate>
@@ -298,62 +354,6 @@
     <guid isPermaLink="false">https://osf.io/twjgn#ja</guid>
     <pubDate>Wed, 07 Oct 2026 16:21:12 +0000</pubDate>
     <description>NICE’s 2026 Consultation Draft Guideline for OCD and BDD (GID-NG10435): A Critical Appraisal with Secondary Analysis of NICE’s Published Data</description>
-  </item>
-  <item>
-    <title>どこで、どれだけ遠くでなく：ジェンダー多様な代名詞使用と理想的な歌声</title>
-    <link>https://osf.io/3kesu</link>
-    <guid isPermaLink="false">https://osf.io/3kesu#ja</guid>
-    <pubDate>Wed, 07 Oct 2026 09:00:57 +0000</pubDate>
-    <description>Where, Not How Far: Gender-Diverse Pronoun Use and the Ideal Singing Voice</description>
-  </item>
-  <item>
-    <title>一つの性別軸、二つの語彙：人々は性別化された話声と歌声をどのように概念化するか</title>
-    <link>https://osf.io/4g2xc</link>
-    <guid isPermaLink="false">https://osf.io/4g2xc#ja</guid>
-    <pubDate>Wed, 07 Oct 2026 09:00:56 +0000</pubDate>
-    <description>One Gender Axis, Two Vocabularies: How People Conceptualize Gendered Speaking and Singing Voices</description>
-  </item>
-  <item>
-    <title>誤った音、誤ったタイミング：年齢および音楽経験がリズムと旋律のタイミングに及ぼす影響</title>
-    <link>https://osf.io/jvunp</link>
-    <guid isPermaLink="false">https://osf.io/jvunp#ja</guid>
-    <pubDate>Wed, 07 Oct 2026 09:00:56 +0000</pubDate>
-    <description>Wrong Note, Wrong Time: Age and Musicianship-Related Influences on Rhythmic and Melodic Timing</description>
-  </item>
-  <item>
-    <title>インスタグラムのインフルエンサーにおけるアルコール言及およびアルコール関連ブランド言及の頻度推定に人工知能を活用する研究</title>
-    <link>https://osf.io/q3pb5</link>
-    <guid isPermaLink="false">https://osf.io/q3pb5#ja</guid>
-    <pubDate>Wed, 07 Oct 2026 02:26:45 +0000</pubDate>
-    <description>Using Artificial Intelligence to estimate how common alcohol references and alcohol-related brand references are among influencers on Instagram</description>
-  </item>
-  <item>
-    <title>地域暖房改修における住民参加の促進：英国における鉱山水熱ネットワークプロジェクトの質的評価</title>
-    <link>https://osf.io/fb8vs</link>
-    <guid isPermaLink="false">https://osf.io/fb8vs#ja</guid>
-    <pubDate>Tue, 06 Oct 2026 23:17:24 +0000</pubDate>
-    <description>Engaging residents in district heating retrofit:  A qualitative evaluation of a mine water heat network project in the United Kingdom</description>
-  </item>
-  <item>
-    <title>AIチャットボットに対する態度の文化的および人格的予測因子：系統的文献レビュー</title>
-    <link>https://osf.io/fnvzm</link>
-    <guid isPermaLink="false">https://osf.io/fnvzm#ja</guid>
-    <pubDate>Tue, 06 Oct 2026 23:17:24 +0000</pubDate>
-    <description>Cultural and Personality Predictors of Attitudes Toward AI Chatbots: A Systematic Literature  Review</description>
-  </item>
-  <item>
-    <title>行き詰まりモデル：心理的行き詰まりの理解と動きの回復のための臨床的構成枠組み</title>
-    <link>https://osf.io/wpzq6</link>
-    <guid isPermaLink="false">https://osf.io/wpzq6#ja</guid>
-    <pubDate>Tue, 06 Oct 2026 23:17:24 +0000</pubDate>
-    <description>The Impasse Model: A Clinical Formulation Framework for Understanding Psychological Impasse and Restoring Movement</description>
-  </item>
-  <item>
-    <title>子どもの記憶過程の発達軌跡の解明：COMICデータセットによる検討</title>
-    <link>https://osf.io/d6e2w</link>
-    <guid isPermaLink="false">https://osf.io/d6e2w#ja</guid>
-    <pubDate>Tue, 06 Oct 2026 23:17:24 +0000</pubDate>
-    <description>Charting the ontogeny of mnemonic processes in childhood: the COMIC dataset</description>
   </item>
 </channel>
 </rss>
