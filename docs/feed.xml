@@ -6,6 +6,34 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>若年成人の自殺念慮および精神症状治療における個別化・個人特性適応型補助介入PRECISEの予備的効果：オープントライアル</title>
+    <link>https://osf.io/ut2bv</link>
+    <guid isPermaLink="false">https://osf.io/ut2bv#ja</guid>
+    <pubDate>Wed, 14 Oct 2026 12:10:57 +0000</pubDate>
+    <description>Preliminary Effects of PRECISE, a Personalized and Idiographically-Tailored Adjunctive Intervention for Treating Suicidal Ideation and Psychiatric Symptoms in Young Adults: Open Trial</description>
+  </item>
+  <item>
+    <title>住宅型薬物使用治療におけるパーソナライズドアバターの有無によるスマートフォン配信ヨガイメージ療法の実現可能性とエンゲージメント：AT-REACH非ランダム化パイロット研究</title>
+    <link>https://osf.io/vb8hs</link>
+    <guid isPermaLink="false">https://osf.io/vb8hs#ja</guid>
+    <pubDate>Wed, 14 Oct 2026 12:10:57 +0000</pubDate>
+    <description>Feasibility and engagement of smartphone delivered yoga imagery with or without personalized avatars in residential substance use treatment: The AT-REACH nonrandomized pilot</description>
+  </item>
+  <item>
+    <title>統合的リトリート環境における集団シロシビン投与が社会的つながりを促進する：観察的症例報告</title>
+    <link>https://osf.io/rt5u9</link>
+    <guid isPermaLink="false">https://osf.io/rt5u9#ja</guid>
+    <pubDate>Wed, 14 Oct 2026 12:10:56 +0000</pubDate>
+    <description>Group psilocybin in an integrative retreat setting enhances social connection: an observational case report</description>
+  </item>
+  <item>
+    <title>最適な注意戦略の採用を促進する要因の検討</title>
+    <link>https://osf.io/hjb2d</link>
+    <guid isPermaLink="false">https://osf.io/hjb2d#ja</guid>
+    <pubDate>Wed, 14 Oct 2026 12:10:56 +0000</pubDate>
+    <description>Investigating the Factors Motivating the Adoption of Optimal Attentional Strategies</description>
+  </item>
+  <item>
     <title>「『この価格を提示する理由は…』：交渉における合理的説明が譲歩を引き出す一方で関係性に及ぼす影響」</title>
     <link>https://osf.io/5b6nz</link>
     <guid isPermaLink="false">https://osf.io/5b6nz#ja</guid>
@@ -13,14 +41,14 @@
     <description>“I’m Asking This Price Because…”: When Negotiation Rationales  Win Concessions but Cost the Relationship</description>
   </item>
   <item>
-    <title>ソーシャルメディア利用プロファイルの多次元的分析：クラスター分析を用いた検討</title>
+    <title>ソーシャルメディア利用プロファイルの多次元的検討：クラスター分析によるアプローチ</title>
     <link>https://osf.io/unvfm</link>
     <guid isPermaLink="false">https://osf.io/unvfm#ja</guid>
     <pubDate>Tue, 13 Oct 2026 22:47:02 +0000</pubDate>
     <description>Social Media Usage Profiles: A Multidimensional Approach Using Cluster Analysis</description>
   </item>
   <item>
-    <title>時間基準および出来事基準の生態学的瞬間評価による日常的ストレッサーの比較</title>
+    <title>時間基準および事象基準の生態学的瞬間評価による日常的ストレッサーの比較</title>
     <link>https://osf.io/cvby5</link>
     <guid isPermaLink="false">https://osf.io/cvby5#ja</guid>
     <pubDate>Tue, 13 Oct 2026 22:47:01 +0000</pubDate>
@@ -55,7 +83,7 @@
     <description>CAVL: A Cognitive Architecture for Vigilant Learning</description>
   </item>
   <item>
-    <title>感情識別の測定：現行の実践、方法論的課題、および今後の研究の方向性に関する体系的レビュー</title>
+    <title>感情分化の測定：現行手法の体系的レビュー、方法論的課題および今後の研究展望</title>
     <link>https://osf.io/xydj3</link>
     <guid isPermaLink="false">https://osf.io/xydj3#ja</guid>
     <pubDate>Tue, 13 Oct 2026 18:13:42 +0000</pubDate>
@@ -69,14 +97,14 @@
     <description>Achievement Goals for Teaching</description>
   </item>
   <item>
-    <title>機能性神経症状障害における解離の候補メカニズム：日常生活におけるデジタル遠隔モニタリングからの証拠</title>
+    <title>機能性神経症状における解離の候補メカニズム：日常生活におけるデジタル遠隔モニタリングからの証拠</title>
     <link>https://osf.io/awruc</link>
     <guid isPermaLink="false">https://osf.io/awruc#ja</guid>
     <pubDate>Tue, 13 Oct 2026 18:13:41 +0000</pubDate>
     <description>Dissociation as a candidate mechanism in functional neurological disorder:  Evidence from digital remote monitoring in everyday life</description>
   </item>
   <item>
-    <title>食品の二酸化炭素排出量の認知が肉類課税支持に与える影響</title>
+    <title>食品の二酸化炭素排出量の知識は肉類課税支持を高めるか？</title>
     <link>https://osf.io/rdthj</link>
     <guid isPermaLink="false">https://osf.io/rdthj#ja</guid>
     <pubDate>Tue, 13 Oct 2026 18:13:41 +0000</pubDate>
@@ -104,7 +132,7 @@
     <description>When Better Treatment Is Not Enough: Relearning Expectations of Harm at Work</description>
   </item>
   <item>
-    <title>観察された相互作用における「私たちモード」の検出：9か月から18か月にかけて乳児の「真の」共同注意の手がかりに対する選択性の増加</title>
+    <title>観察された相互作用における「私たちモード」の検出：9か月から18か月にかけて乳児の「真の」共同注意手がかりへの選択性の増加</title>
     <link>https://osf.io/u7wxf</link>
     <guid isPermaLink="false">https://osf.io/u7wxf#ja</guid>
     <pubDate>Tue, 13 Oct 2026 18:13:40 +0000</pubDate>
@@ -125,7 +153,7 @@
     <description>Psychosocial interventions for school refusal in children and adolescents: a protocol for a systematic review and meta-analysis</description>
   </item>
   <item>
-    <title>認知機能最適化におけるトップダウン型マインドフルネスとボトムアップ型報酬システムの時間的ダイナミクスの比較</title>
+    <title>認知機能最適化におけるトップダウン型マインドフルネスとボトムアップ型報酬システムの時間的動態の比較</title>
     <link>https://osf.io/rejqg</link>
     <guid isPermaLink="false">https://osf.io/rejqg#ja</guid>
     <pubDate>Tue, 13 Oct 2026 18:13:40 +0000</pubDate>
@@ -146,7 +174,7 @@
     <description>Is Insomnia a Western-centered disorder? A cross-cultural study of sleep satisfaction and perceived sleep duration</description>
   </item>
   <item>
-    <title>日本語第二言語学習者における有声音閉鎖音知覚：母語話者でなくともサイズを聴き取れる証拠</title>
+    <title>母語話者でなくてもサイズを知覚できる：日本語第二言語学習者における有声音閉鎖音の知覚証拠</title>
     <link>https://osf.io/fy578</link>
     <guid isPermaLink="false">https://osf.io/fy578#ja</guid>
     <pubDate>Tue, 13 Oct 2026 18:13:39 +0000</pubDate>
@@ -167,7 +195,7 @@
     <description>A Dynamic and Recursive Allocative Model of Talent Development and Expression</description>
   </item>
   <item>
-    <title>AI媒介意思決定の文化的修復可能性の探求</title>
+    <title>AI媒介意思決定の文化的修復可能性の探究</title>
     <link>https://osf.io/3dknf</link>
     <guid isPermaLink="false">https://osf.io/3dknf#ja</guid>
     <pubDate>Tue, 13 Oct 2026 18:13:39 +0000</pubDate>
@@ -188,14 +216,14 @@
     <description>Valence Automatically Elicits Vowel Articulation</description>
   </item>
   <item>
-    <title>中等学校教職員の自傷行為を行う生徒支援に関する知識と態度の検討</title>
+    <title>中等教育教職員の自傷行為を行う生徒支援に関する知識と態度の検討</title>
     <link>https://osf.io/nqdsv</link>
     <guid isPermaLink="false">https://osf.io/nqdsv#ja</guid>
     <pubDate>Tue, 13 Oct 2026 18:13:38 +0000</pubDate>
     <description>Exploring Secondary School Staff’s Knowledge and Attitudes About Supporting Students Who Self-harm</description>
   </item>
   <item>
-    <title>会話において異なるAIとの関係経験が顕在化する時：自然発生的ChatGPT対話における言語的および二者関係的証拠</title>
+    <title>会話において異なるAIとの関係経験が顕在化する時：自然発生的ChatGPT対話における言語的および二者間証拠</title>
     <link>https://osf.io/hr7gc</link>
     <guid isPermaLink="false">https://osf.io/hr7gc#ja</guid>
     <pubDate>Mon, 12 Oct 2026 23:22:39 +0000</pubDate>
@@ -209,14 +237,14 @@
     <description>Questionable necessity effects on patient safety competency among nursing students: Re-examining Yang et al. (2027)</description>
   </item>
   <item>
-    <title>非伝統的ジェンダーロール広告（フェムバタイジング）が女性の購買意図およびブランド態度に与える影響：母性観と文化の比較－韓国と英国の場合</title>
+    <title>非伝統的ジェンダーロール広告（フェムバタイジング）が女性の購買意図およびブランド態度に与える影響：母性観と文化の比較―韓国と英国の場合</title>
     <link>https://osf.io/n68j5</link>
     <guid isPermaLink="false">https://osf.io/n68j5#ja</guid>
     <pubDate>Mon, 12 Oct 2026 23:22:39 +0000</pubDate>
     <description>The effect of unconventional gender role advertisements (femvertising) on female purchase intentions and brand attitude: attitudes towards motherhood and culture: Korea vs. UK</description>
   </item>
   <item>
-    <title>冠動脈疾患患者における抑うつおよび不安症状の2年間の動態マッピング：ネットワーク分析による検討</title>
+    <title>冠動脈疾患における抑うつおよび不安症状の2年間の動態マッピング：ネットワーク分析による検討</title>
     <link>https://osf.io/7nytd</link>
     <guid isPermaLink="false">https://osf.io/7nytd#ja</guid>
     <pubDate>Mon, 12 Oct 2026 23:22:38 +0000</pubDate>
@@ -237,21 +265,21 @@
     <description>Teacher Help and the Development of Socioeconomic Ability Stereotypes: Longitudinal Evidence From Real Classrooms</description>
   </item>
   <item>
-    <title>システム関与成人における外在化構成概念の人種および不利環境による測定不変性</title>
+    <title>システム関与成人における外在化構成概念の人種および社会的困難状況による測定不変性</title>
     <link>https://osf.io/gu8q6</link>
     <guid isPermaLink="false">https://osf.io/gu8q6#ja</guid>
     <pubDate>Mon, 12 Oct 2026 23:22:38 +0000</pubDate>
     <description>Measurement Invariance of the Externalizing Construct by Racial and Disadvantaged Contexts in System-Involved Adults</description>
   </item>
   <item>
-    <title>青年期の経済状況と精神健康：文献レビューと専門家協議による因果メカニズムの候補特定</title>
+    <title>青年期の経済状況と精神健康：文献レビューと専門家協議による因果メカニズムの検討</title>
     <link>https://osf.io/us2df</link>
     <guid isPermaLink="false">https://osf.io/us2df#ja</guid>
     <pubDate>Mon, 12 Oct 2026 16:52:17 +0000</pubDate>
     <description>Adolescents’ Economic Circumstances and their Mental Health: Identifying Candidate Causal Mechanisms through Review and Expert Consultation</description>
   </item>
   <item>
-    <title>日常生活における感情に関する全般的信念と感情調整の三段階との関連性</title>
+    <title>日常生活における感情調整の三段階と全般的感情信念との関連性</title>
     <link>https://osf.io/zgxfr</link>
     <guid isPermaLink="false">https://osf.io/zgxfr#ja</guid>
     <pubDate>Mon, 12 Oct 2026 16:52:17 +0000</pubDate>
@@ -265,7 +293,7 @@
     <description>The Associations between Social Network Size and Preschool Children’s Visual Perspective-Taking and Non-Verbal Cue Understanding</description>
   </item>
   <item>
-    <title>加齢と聴覚障害が感情的韻律処理に及ぼす影響：神経適応の分岐と行動パフォーマンスの変化</title>
+    <title>加齢と聴覚障害が感情的韻律処理に及ぼす影響：神経適応の相違と行動パフォーマンスの変化</title>
     <link>https://osf.io/z7624</link>
     <guid isPermaLink="false">https://osf.io/z7624#ja</guid>
     <pubDate>Mon, 12 Oct 2026 16:52:16 +0000</pubDate>
@@ -300,14 +328,14 @@
     <description>Asymmetry in self-comparisons: Focal self bias in comparative judgment</description>
   </item>
   <item>
-    <title>限界における解釈可能性：機械理解が人間の言語理解にどのように寄与するか</title>
+    <title>解釈可能性の限界：機械理解が人間の言語理解にどのように寄与するか</title>
     <link>https://osf.io/5x6zj</link>
     <guid isPermaLink="false">https://osf.io/5x6zj#ja</guid>
     <pubDate>Sun, 11 Oct 2026 22:06:34 +0000</pubDate>
     <description>Interpretability in the Limit: How Can Understanding Machines Help us Understand Human Language?</description>
   </item>
   <item>
-    <title>生成AI教育研究における初期エビデンス統合の批判的認識論的監査：系統的レビューとメタアナリシス</title>
+    <title>生成AI教育研究における初期エビデンス総合の批判的認識論的検証：系統的レビューとメタアナリシス</title>
     <link>https://osf.io/47ks6</link>
     <guid isPermaLink="false">https://osf.io/47ks6#ja</guid>
     <pubDate>Sun, 11 Oct 2026 22:06:33 +0000</pubDate>
@@ -321,39 +349,11 @@
     <description>Beyond Initial Crisis Recognition: Suicide-Risk Responses of ChatGPT, Claude, and Gemini Across 14-Turn Ukrainian-Language Conversations</description>
   </item>
   <item>
-    <title>重篤かつ生命を制限する疾患における実存的苦悩に対するシロシビン補助療法：新たな臨床試験の証拠、アクセス障壁、および個別適格性の必要性</title>
+    <title>重篤かつ生命制限性疾患における実存的苦悩に対するシロシビン補助療法：新たな臨床試験の証拠、アクセスの障壁、および個別化適格性の必要性</title>
     <link>https://osf.io/jktdh</link>
     <guid isPermaLink="false">https://osf.io/jktdh#ja</guid>
     <pubDate>Sun, 11 Oct 2026 22:06:33 +0000</pubDate>
     <description>Psilocybin-Assisted Therapy for Existential Distress in Serious and Life-Limiting Illness: Emerging Trial Evidence, Barriers to Access, and the Case for Individualized Eligibility</description>
-  </item>
-  <item>
-    <title>音声知覚の動的社会音響モデルに関する予備的枠組み</title>
-    <link>https://osf.io/k5f7d</link>
-    <guid isPermaLink="false">https://osf.io/k5f7d#ja</guid>
-    <pubDate>Sun, 11 Oct 2026 22:06:32 +0000</pubDate>
-    <description>PRELIMINARY FRAMEWORK FOR A DYNAMIC SOCIO-ACOUSTIC MODEL OF SPEECH PERCEPTION</description>
-  </item>
-  <item>
-    <title>言語特有の偏りの出現：二文化における未就学前幼児の視覚的注意に関する研究</title>
-    <link>https://osf.io/5yzqx</link>
-    <guid isPermaLink="false">https://osf.io/5yzqx#ja</guid>
-    <pubDate>Sun, 11 Oct 2026 22:06:32 +0000</pubDate>
-    <description>The emergence of language-specific biases in visual attention in pre-reading toddlers from two cultures</description>
-  </item>
-  <item>
-    <title>多言語使用が自尊心および言語的アイデンティティに与える影響</title>
-    <link>https://osf.io/vc9yj</link>
-    <guid isPermaLink="false">https://osf.io/vc9yj#ja</guid>
-    <pubDate>Sun, 11 Oct 2026 22:06:32 +0000</pubDate>
-    <description>The Impact of Multilingualism on Self-esteem and Linguistic Identity</description>
-  </item>
-  <item>
-    <title>親の怒り反応の一致は親子双方の精神病理症状と関連する</title>
-    <link>https://osf.io/z74gd</link>
-    <guid isPermaLink="false">https://osf.io/z74gd#ja</guid>
-    <pubDate>Sun, 11 Oct 2026 13:29:18 +0000</pubDate>
-    <description>Concordance of Parents’ Anger Responses are Linked with Parents’ and Adolescents’ Psychopathology Symptoms</description>
   </item>
 </channel>
 </rss>
