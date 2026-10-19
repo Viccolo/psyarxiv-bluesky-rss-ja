@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>日常生活における母子情動同期の社会的文脈による調整：エコロジカルモーメンタリーアセスメント研究</title>
+    <title>社会的文脈が日常生活における母子情動同期に及ぼす影響：エコロジカルモーメンタリーアセスメント研究</title>
     <link>https://osf.io/6e2xb</link>
     <guid isPermaLink="false">https://osf.io/6e2xb#ja</guid>
     <pubDate>Fri, 16 Oct 2026 09:41:37 +0000</pubDate>
@@ -20,14 +20,14 @@
     <description>The Effects of Cognitive Load on Intergroup Empathy Biases [Registered Report Stage 1, Version 2]</description>
   </item>
   <item>
-    <title>注意欠陥・多動性障害を有する児童・青少年に対する非薬理学的学校介入の教育成果への影響：メタアナリシス</title>
+    <title>注意欠陥・多動性障害を有する児童・青少年に対する非薬物的学校介入が教育成果に及ぼす影響：メタアナリシス</title>
     <link>https://osf.io/fesjy</link>
     <guid isPermaLink="false">https://osf.io/fesjy#ja</guid>
     <pubDate>Thu, 15 Oct 2026 22:32:27 +0000</pubDate>
     <description>The effects of non-pharmacological school-based interventions on educational outcomes in children and young people with attention-deficit/hyperactivity disorder: a meta-analysis</description>
   </item>
   <item>
-    <title>イギリスにおけるギャンブル関連の自殺および重篤な自殺未遂：心理学的検死と質的調査</title>
+    <title>イギリスにおけるギャンブル関連自殺および重度自殺未遂：心理学的検死と質的調査</title>
     <link>https://osf.io/ejdv5</link>
     <guid isPermaLink="false">https://osf.io/ejdv5#ja</guid>
     <pubDate>Thu, 15 Oct 2026 22:32:26 +0000</pubDate>
@@ -48,35 +48,35 @@
     <description>Passive Smartphone-Based Digital Phenotyping for the Identification of PTSD Symptoms: Initial Validation of a Digital Behavioral Marker</description>
   </item>
   <item>
-    <title>アプリシアにおける感作強化訓練は、記憶維持中にほとんど消失する、集中かつ特徴的な転写変化のセットを生み出す</title>
+    <title>アプリシアにおける感作強化訓練は、記憶維持中にほとんど消失する、焦点を絞った特徴的な転写変化のセットを生み出す</title>
     <link>https://osf.io/6kyjh</link>
     <guid isPermaLink="false">https://osf.io/6kyjh#ja</guid>
     <pubDate>Thu, 15 Oct 2026 22:32:25 +0000</pubDate>
     <description>Enhanced Sensitization Training in Aplysia Produces a Focused, Distinctive Set of Transcriptional Changes that Mostly Decays as Memory is Maintained</description>
   </item>
   <item>
-    <title>日常出来事は主観的幸福感とどのように関連しているか？集中的縦断研究のメタアナリシス的検討</title>
+    <title>日常出来事は主観的幸福感とどのように関連しているか？集中的縦断研究のメタアナリシス的総合レビュー</title>
     <link>https://osf.io/mcy7q</link>
     <guid isPermaLink="false">https://osf.io/mcy7q#ja</guid>
     <pubDate>Thu, 15 Oct 2026 22:32:25 +0000</pubDate>
     <description>How Are Daily Events Related to Subjective Well-Being? A Meta-Analytic Review of Intensive Longitudinal Studies</description>
   </item>
   <item>
-    <title>気づきは呼吸変化と主観的覚醒の関連を促進する：見逃した情報は覚醒に影響しない</title>
+    <title>気づきは呼吸変化と主観的覚醒の連結を促す：気づかなければ変化は影響しない</title>
     <link>https://osf.io/tpjx3</link>
     <guid isPermaLink="false">https://osf.io/tpjx3#ja</guid>
     <pubDate>Thu, 15 Oct 2026 19:26:31 +0000</pubDate>
     <description>What You Miss Won’t Move You: Awareness Connects Respiratory Change to Subjective Arousal</description>
   </item>
   <item>
-    <title>高等教育過程における学生の人格成長の実態：大規模多機関共同研究からの証拠</title>
+    <title>大学教育過程における学生の人格成長の実態：大規模多機関共同研究からの証拠</title>
     <link>https://osf.io/h35t4</link>
     <guid isPermaLink="false">https://osf.io/h35t4#ja</guid>
     <pubDate>Thu, 15 Oct 2026 19:26:31 +0000</pubDate>
     <description>Do Students Experience Character Growth During Higher Education? Evidence From a Large, Multi-Institutional Study</description>
   </item>
   <item>
-    <title>計算モデルによる揺動語彙ネットワーク：大規模絵語干渉データセットにおけるコホート集中度が意味的干渉を予測する</title>
+    <title>計算モデルによる揺動語彙ネットワーク：コホート集中度が大規模絵語干渉データセットにおける意味的干渉を予測する</title>
     <link>https://osf.io/whu3d</link>
     <guid isPermaLink="false">https://osf.io/whu3d#ja</guid>
     <pubDate>Thu, 15 Oct 2026 19:26:31 +0000</pubDate>
@@ -104,21 +104,21 @@
     <description>Hallucination-proneness is associated with more extreme social evaluations of external voices</description>
   </item>
   <item>
-    <title>リスク要因が競合する場合：領域・発達段階・性別を横断した青少年非行の先行要因同定における機械学習アプローチ</title>
+    <title>リスク要因が競合する場合：領域・発達段階・性別を横断した思春期非行の先行要因特定に向けた機械学習アプローチ</title>
     <link>https://osf.io/pd9s2</link>
     <guid isPermaLink="false">https://osf.io/pd9s2#ja</guid>
     <pubDate>Thu, 15 Oct 2026 19:26:29 +0000</pubDate>
     <description>When Risk Factors Compete: A Machine Learning Approach to Identifying Antecedents of Adolescent Delinquency Across Domains, Development, and Gender</description>
   </item>
   <item>
-    <title>教室内集団瞑想と前頭部EEGパワーエンベロープネットワーク：12回セッションによる単一チャネルハイパースキャン研究</title>
+    <title>教室内集団瞑想と前頭部EEGパワーエンベロープネットワーク：12回セッション単一チャネルハイパースキャニング研究</title>
     <link>https://osf.io/5ghrb</link>
     <guid isPermaLink="false">https://osf.io/5ghrb#ja</guid>
     <pubDate>Thu, 15 Oct 2026 19:26:29 +0000</pubDate>
     <description>Classroom Group Meditation and Frontal EEG Power-Envelope Networks: A Twelve-Session Single-Channel Hyperscanning Study</description>
   </item>
   <item>
-    <title>持続的な市民参加の社会的・心理的影響：2024/25年セルビア学生ストライキからの知見</title>
+    <title>継続的な市民参加の社会的・心理的影響：2024/25年セルビア学生ストライキからの知見</title>
     <link>https://osf.io/vujys</link>
     <guid isPermaLink="false">https://osf.io/vujys#ja</guid>
     <pubDate>Thu, 15 Oct 2026 19:26:29 +0000</pubDate>
@@ -146,14 +146,14 @@
     <description>From Phonological Skills to Reading Fluency: The Mediating Role of Reading Prosody</description>
   </item>
   <item>
-    <title>妥当性を超えて：認識記憶におけるdaの統計的検出力の実証的検討</title>
+    <title>妥当性を超えて：認知記憶におけるdaの統計的検出力の実証的検討</title>
     <link>https://osf.io/jzkdc</link>
     <guid isPermaLink="false">https://osf.io/jzkdc#ja</guid>
     <pubDate>Thu, 15 Oct 2026 11:49:26 +0000</pubDate>
     <description>Beyond validity: Empirical investigations of the statistical power of da in Recognition Memory</description>
   </item>
   <item>
-    <title>皮膚伝導反応を用いた差次的条件付け反応軌跡のクラスタリング：恐怖条件付け研究は既存の特性に影響されるか？</title>
+    <title>皮膚伝導反応を用いた条件付け反応軌跡のクラスタリング：恐怖条件付け研究は既存の特性に影響されるか？</title>
     <link>https://osf.io/bsgwp</link>
     <guid isPermaLink="false">https://osf.io/bsgwp#ja</guid>
     <pubDate>Thu, 15 Oct 2026 06:23:50 +0000</pubDate>
@@ -167,7 +167,7 @@
     <description>Does creative engagement spill over into risk-taking behavior?</description>
   </item>
   <item>
-    <title>被害者の性別と職業アイデンティティがAI生成画像の虐待認知に及ぼす影響</title>
+    <title>被害者の性別と職業アイデンティティがAI生成画像の虐待認知に与える影響</title>
     <link>https://osf.io/vebyw</link>
     <guid isPermaLink="false">https://osf.io/vebyw#ja</guid>
     <pubDate>Wed, 14 Oct 2026 20:42:49 +0000</pubDate>
@@ -188,7 +188,7 @@
     <description>Using Language Models to Predict Values, Personality, Well-Being, and Meaning in Life From Ideal-Life Descriptions</description>
   </item>
   <item>
-    <title>パーキンソン病における脳波（EEG）：メカニズム、バイオマーカー、および臨床応用の可能性</title>
+    <title>パーキンソン病における脳波（EEG）：メカニズム、バイオマーカーおよび臨床応用の可能性</title>
     <link>https://osf.io/pqzt9</link>
     <guid isPermaLink="false">https://osf.io/pqzt9#ja</guid>
     <pubDate>Wed, 14 Oct 2026 20:42:48 +0000</pubDate>
@@ -237,14 +237,14 @@
     <description>Supporting creativity education in the age of AI: The role of perceived exemplar source</description>
   </item>
   <item>
-    <title>運動継続の幅と量の指標は同一の概念を測定しているか？未記録セッションの符号化方法による影響</title>
+    <title>運動継続の幅と量の指標は同一の概念を測定しているか？記録されていないセッションの符号化方法による影響</title>
     <link>https://osf.io/b9hd2</link>
     <guid isPermaLink="false">https://osf.io/b9hd2#ja</guid>
     <pubDate>Wed, 14 Oct 2026 17:13:15 +0000</pubDate>
     <description>Do breadth and dose indices of exercise adherence measure the same thing? It depends on how unrecorded sessions are coded</description>
   </item>
   <item>
-    <title>非臨床の青年期および若年成人における身体活動とストレス耐性の関連性：系統的レビュー</title>
+    <title>非臨床の青年期および若年成人における身体活動とストレス耐性の関係：系統的レビュー</title>
     <link>https://osf.io/x2f5j</link>
     <guid isPermaLink="false">https://osf.io/x2f5j#ja</guid>
     <pubDate>Wed, 14 Oct 2026 17:13:15 +0000</pubDate>
@@ -258,7 +258,7 @@
     <description>Preliminary Effects of PRECISE, a Personalized and Idiographically-Tailored Adjunctive Intervention for Treating Suicidal Ideation and Psychiatric Symptoms in Young Adults: Open Trial</description>
   </item>
   <item>
-    <title>住宅型薬物使用治療におけるパーソナライズドアバターの有無によるスマートフォン配信ヨガイメージ療法の実現可能性とエンゲージメント：AT-REACH非無作為化パイロット研究</title>
+    <title>居住型薬物使用治療におけるパーソナライズドアバターの有無によるスマートフォン配信ヨガイメージ療法の実現可能性と関与度：AT-REACH非無作為化パイロット研究</title>
     <link>https://osf.io/vb8hs</link>
     <guid isPermaLink="false">https://osf.io/vb8hs#ja</guid>
     <pubDate>Wed, 14 Oct 2026 12:10:57 +0000</pubDate>
@@ -279,21 +279,21 @@
     <description>Investigating the Factors Motivating the Adoption of Optimal Attentional Strategies</description>
   </item>
   <item>
-    <title>「『この価格を提示する理由は…』：交渉における合理的説明が譲歩を引き出す一方で関係性に及ぼす影響」</title>
+    <title>「『この価格をお願いする理由は…』：交渉における合理的説明が譲歩を引き出す一方で関係性に及ぼす影響」</title>
     <link>https://osf.io/5b6nz</link>
     <guid isPermaLink="false">https://osf.io/5b6nz#ja</guid>
     <pubDate>Tue, 13 Oct 2026 22:47:05 +0000</pubDate>
     <description>“I’m Asking This Price Because…”: When Negotiation Rationales  Win Concessions but Cost the Relationship</description>
   </item>
   <item>
-    <title>ソーシャルメディア利用プロファイルの多次元的分析：クラスター分析によるアプローチ</title>
+    <title>ソーシャルメディア利用プロファイルの多次元的解析：クラスター分析によるアプローチ</title>
     <link>https://osf.io/unvfm</link>
     <guid isPermaLink="false">https://osf.io/unvfm#ja</guid>
     <pubDate>Tue, 13 Oct 2026 22:47:02 +0000</pubDate>
     <description>Social Media Usage Profiles: A Multidimensional Approach Using Cluster Analysis</description>
   </item>
   <item>
-    <title>時間基準および事象基準の生態学的瞬間評価による日常的ストレッサーの比較</title>
+    <title>時間基準および出来事基準の生態学的瞬間評価による日常的ストレッサーの比較</title>
     <link>https://osf.io/cvby5</link>
     <guid isPermaLink="false">https://osf.io/cvby5#ja</guid>
     <pubDate>Tue, 13 Oct 2026 22:47:01 +0000</pubDate>
@@ -328,28 +328,28 @@
     <description>CAVL: A Cognitive Architecture for Vigilant Learning</description>
   </item>
   <item>
-    <title>感情分化の測定：現行の実践、方法論的課題、および今後の研究の方向性に関する体系的レビュー</title>
+    <title>感情識別の測定：現行手法の体系的レビュー、方法論的課題および今後の研究方向性</title>
     <link>https://osf.io/xydj3</link>
     <guid isPermaLink="false">https://osf.io/xydj3#ja</guid>
     <pubDate>Tue, 13 Oct 2026 18:13:42 +0000</pubDate>
     <description>Measuring Emotion Differentiation: A Systematic Review of Current Practices, Methodological Concerns, and Directions for Future Research</description>
   </item>
   <item>
-    <title>教授における達成目標</title>
+    <title>教育における達成目標</title>
     <link>https://osf.io/npxeh</link>
     <guid isPermaLink="false">https://osf.io/npxeh#ja</guid>
     <pubDate>Tue, 13 Oct 2026 18:13:42 +0000</pubDate>
     <description>Achievement Goals for Teaching</description>
   </item>
   <item>
-    <title>機能性神経症状における解離の候補機序：日常生活におけるデジタル遠隔モニタリングからの証拠</title>
+    <title>機能性神経障害における解離の候補機序：日常生活におけるデジタル遠隔モニタリングからの証拠</title>
     <link>https://osf.io/awruc</link>
     <guid isPermaLink="false">https://osf.io/awruc#ja</guid>
     <pubDate>Tue, 13 Oct 2026 18:13:41 +0000</pubDate>
     <description>Dissociation as a candidate mechanism in functional neurological disorder:  Evidence from digital remote monitoring in everyday life</description>
   </item>
   <item>
-    <title>食品の二酸化炭素排出量の知識は肉類課税支持を高めるか？</title>
+    <title>食品のCO₂排出量の知識は肉税支持を高めるか？</title>
     <link>https://osf.io/rdthj</link>
     <guid isPermaLink="false">https://osf.io/rdthj#ja</guid>
     <pubDate>Tue, 13 Oct 2026 18:13:41 +0000</pubDate>
