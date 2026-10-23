@@ -6,21 +6,56 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>木材張りおよび石膏ボード内装環境に対する主観的および移動型脳波反応：現場クロスオーバー研究</title>
+    <title>エコーチェンバーからエコーマシンへ？AIとの対話における支持、証拠、そして信念の確信度の検討</title>
+    <link>https://osf.io/7et5g</link>
+    <guid isPermaLink="false">https://osf.io/7et5g#ja</guid>
+    <pubDate>Fri, 23 Oct 2026 20:28:08 +0000</pubDate>
+    <description>From Echo Chambers to Echo Machines? Endorsement, Evidence, and the Certainty of Belief in Conversations With AI</description>
+  </item>
+  <item>
+    <title>働くことの代償？ADHD症状、自傷的労働行動および職業的ウェルビーイング</title>
+    <link>https://osf.io/nfpej</link>
+    <guid isPermaLink="false">https://osf.io/nfpej#ja</guid>
+    <pubDate>Fri, 23 Oct 2026 20:28:08 +0000</pubDate>
+    <description>Working at a Cost? ADHD Symptoms, Self-Endangering Work Behavior, and Occupational Well-Being</description>
+  </item>
+  <item>
+    <title>自己管理の運動パフォーマンスへの媒介効果に関する疑義：Fanら（2026）へのコメント</title>
+    <link>https://osf.io/qzm5p</link>
+    <guid isPermaLink="false">https://osf.io/qzm5p#ja</guid>
+    <pubDate>Fri, 23 Oct 2026 20:28:08 +0000</pubDate>
+    <description>Questionable mediated effect of self-management on athletic performance: A comment on Fan et al. (2026)</description>
+  </item>
+  <item>
+    <title>ソーシャルメディア利用が後の注意障害に及ぼす感情メカニズムの関連率モデル</title>
+    <link>https://osf.io/7hn6d</link>
+    <guid isPermaLink="false">https://osf.io/7hn6d#ja</guid>
+    <pubDate>Fri, 23 Oct 2026 20:28:07 +0000</pubDate>
+    <description>A Relevance Rate Model of the affective mechanisms linking social media use to later attentional disruption</description>
+  </item>
+  <item>
+    <title>符号化後の意味処理がエピソード記憶に系統的歪みをもたらす</title>
+    <link>https://osf.io/25ab4</link>
+    <guid isPermaLink="false">https://osf.io/25ab4#ja</guid>
+    <pubDate>Fri, 23 Oct 2026 20:28:07 +0000</pubDate>
+    <description>Post-Encoding Semantic Processing Produces Systematic Distortions in Episodic Memory</description>
+  </item>
+  <item>
+    <title>木材貼りおよび石膏ボード内装環境に対する主観的および移動型脳波反応：現場クロスオーバー研究</title>
     <link>https://osf.io/9w7gx</link>
     <guid isPermaLink="false">https://osf.io/9w7gx#ja</guid>
     <pubDate>Fri, 23 Oct 2026 17:10:45 +0000</pubDate>
     <description>Subjective and mobile EEG responses to wood-clad and drywall interior environments: An in situ crossover study</description>
   </item>
   <item>
-    <title>不確実性下における母親の虐待報告：親権裁判所の初期対応が子どもに及ぼす影響</title>
+    <title>不確実性下における母親の虐待申告：親権裁判所の初期対応が子どもに及ぼす影響</title>
     <link>https://osf.io/tvpku</link>
     <guid isPermaLink="false">https://osf.io/tvpku#ja</guid>
     <pubDate>Fri, 23 Oct 2026 17:10:45 +0000</pubDate>
     <description>Mothers’ Abuse Reports Under Uncertainty: Why Custody Courts’ Default Response Fails the Child</description>
   </item>
   <item>
-    <title>食事が身体的および精神的健康に影響を与えると人々は信じているか？食事と健康信念尺度（DHBS）の開発と検証</title>
+    <title>食事が身体的および精神的健康に与える影響に関する信念の検討：食事健康信念尺度（DHBS）の開発と検証</title>
     <link>https://osf.io/kx2ht</link>
     <guid isPermaLink="false">https://osf.io/kx2ht#ja</guid>
     <pubDate>Fri, 23 Oct 2026 17:10:45 +0000</pubDate>
@@ -41,7 +76,7 @@
     <description>Mel-frequency cepstral coefficients and spectral features directly drive micro-level autonomic reflexes during brief respiration practices</description>
   </item>
   <item>
-    <title>成人の読字・綴字能力の予測因子：音韻技能が視覚的注意幅を上回る</title>
+    <title>成人の読字・綴字能力の予測因子：音韻スキルは視覚的注意幅を上回る</title>
     <link>https://osf.io/x5qj7</link>
     <guid isPermaLink="false">https://osf.io/x5qj7#ja</guid>
     <pubDate>Fri, 23 Oct 2026 17:10:44 +0000</pubDate>
@@ -55,7 +90,7 @@
     <description>Brief Exposure Therapy With Exercise For PTSD: A Pilot Study Using Single Case Experimental Design</description>
   </item>
   <item>
-    <title>聴覚障害の有無による子どもの数学能力および社会情動的健康の発達軌跡</title>
+    <title>聴覚障害の有無による子どもの数学能力と社会情動的健康の発達軌跡</title>
     <link>https://osf.io/k587y</link>
     <guid isPermaLink="false">https://osf.io/k587y#ja</guid>
     <pubDate>Fri, 23 Oct 2026 17:10:43 +0000</pubDate>
@@ -90,7 +125,7 @@
     <description>CortexLens: Systematically Decoding Interpretable Visual Patterns from Human Visual Cortex</description>
   </item>
   <item>
-    <title>予測的言語理解における文法性の利用：若年者と高齢者の証拠</title>
+    <title>予測的言語理解における文法的性の利用：若年者と高齢者の証拠</title>
     <link>https://osf.io/rf9ku</link>
     <guid isPermaLink="false">https://osf.io/rf9ku#ja</guid>
     <pubDate>Fri, 23 Oct 2026 17:10:42 +0000</pubDate>
@@ -118,7 +153,7 @@
     <description>Suppressing Distractors, Enhancing Targets: Template Tuning in Ensemble Perception</description>
   </item>
   <item>
-    <title>自己理解における発話モニタリング</title>
+    <title>自己理解過程における発話モニタリング</title>
     <link>https://osf.io/2edgj</link>
     <guid isPermaLink="false">https://osf.io/2edgj#ja</guid>
     <pubDate>Fri, 23 Oct 2026 17:10:41 +0000</pubDate>
@@ -132,7 +167,7 @@
     <description>Conventionality and transparency in human language</description>
   </item>
   <item>
-    <title>多様性の可視化促進？教育心理学ジャーナルにおけるLGBTQ+表象の系統的レビュー</title>
+    <title>多様性の可視化促進？教育心理学ジャーナルにおけるLGBTQ+表象の体系的レビュー</title>
     <link>https://osf.io/qv3nw</link>
     <guid isPermaLink="false">https://osf.io/qv3nw#ja</guid>
     <pubDate>Thu, 22 Oct 2026 23:38:07 +0000</pubDate>
@@ -160,35 +195,35 @@
     <description>Multi-Dimensional Reading Anxiety in Adolescence</description>
   </item>
   <item>
-    <title>強迫性次元における認知的柔軟性障害の基盤としての潜在的構造的連合の更新および維持機能障害</title>
+    <title>強迫性次元に沿った認知的柔軟性障害の基盤としての潜在的構造連合の更新および維持機能障害</title>
     <link>https://osf.io/5dnce</link>
     <guid isPermaLink="false">https://osf.io/5dnce#ja</guid>
     <pubDate>Thu, 22 Oct 2026 23:38:06 +0000</pubDate>
     <description>Impaired Updating and Maintenance of Latent Structural Associations Underlie Cognitive Inflexibility along an Obsessive–Compulsive Dimension</description>
   </item>
   <item>
-    <title>職場における排除の多様的枠組みの拡張：言語的排除を独立したモダリティとして統合する試み</title>
+    <title>職場における排除の多様モーダル枠組みの拡張：言語的排除を独立したモダリティとして統合する試み</title>
     <link>https://osf.io/5ycev</link>
     <guid isPermaLink="false">https://osf.io/5ycev#ja</guid>
     <pubDate>Thu, 22 Oct 2026 23:38:06 +0000</pubDate>
     <description>Expanding the Multimodal Framework of Workplace Ostracism: Integrating Linguistic Ostracism as a Distinct Modality</description>
   </item>
   <item>
-    <title>成人期における認知的好奇心に対する既存知識の役割</title>
+    <title>成人期における認識的好奇心に対する事前知識の役割</title>
     <link>https://osf.io/75q8w</link>
     <guid isPermaLink="false">https://osf.io/75q8w#ja</guid>
     <pubDate>Thu, 22 Oct 2026 23:38:05 +0000</pubDate>
     <description>The Role of Prior Knowledge in Epistemic Curiosity Across Adulthood</description>
   </item>
   <item>
-    <title>人工エージェントのリーダーシップとフォロワーシップ：役割適合性に関する統合的検討</title>
+    <title>人工エージェントのリーダーシップとフォロワーシップ：役割適合性に関する統合的レビュー</title>
     <link>https://osf.io/294vn</link>
     <guid isPermaLink="false">https://osf.io/294vn#ja</guid>
     <pubDate>Thu, 22 Oct 2026 23:38:05 +0000</pubDate>
     <description>Artificial Agents as Leaders and Followers: An Integrative Role-Congruity Review</description>
   </item>
   <item>
-    <title>看護師の知覚ストレスに対する共感の媒介効果の不確定性：Wangら（2026）へのコメント</title>
+    <title>看護師における共感が知覚ストレスに与える媒介効果の不確定性：Wangら（2026）へのコメント</title>
     <link>https://osf.io/syn4k</link>
     <guid isPermaLink="false">https://osf.io/syn4k#ja</guid>
     <pubDate>Thu, 22 Oct 2026 23:38:01 +0000</pubDate>
@@ -202,7 +237,7 @@
     <description>Is Change in Motivation in College a Normative Calibration Process or an Early Warning Sign?</description>
   </item>
   <item>
-    <title>みんなやっているの？音楽心理学における自己申告および認知された疑わしい研究慣行</title>
+    <title>他者も行っているのか？音楽心理学における自己申告および認知された疑わしい研究慣行</title>
     <link>https://osf.io/mbk5y</link>
     <guid isPermaLink="false">https://osf.io/mbk5y#ja</guid>
     <pubDate>Thu, 22 Oct 2026 23:38:00 +0000</pubDate>
@@ -216,7 +251,7 @@
     <description>Measuring Cognitive Noise: Separating Signal Strength from Random Fluctuations in Evidence Accumulation</description>
   </item>
   <item>
-    <title>ゲームのルールを知ること：政治的知識が国家ナルシシズムと反民主主義的感情に対する緩衝材として機能する役割</title>
+    <title>ゲームのルールを知ること：政治的知識が国家ナルシシズムおよび反民主主義的感情に対する緩衝材として果たす役割</title>
     <link>https://osf.io/2zxhg</link>
     <guid isPermaLink="false">https://osf.io/2zxhg#ja</guid>
     <pubDate>Thu, 22 Oct 2026 23:38:00 +0000</pubDate>
@@ -230,14 +265,14 @@
     <description>Avoiding the worst leaders is more important than getting the best</description>
   </item>
   <item>
-    <title>ディープフェイク割引効果：エロティック画像がAI生成と信じることが感情反応を低減する</title>
+    <title>ディープフェイク割引効果：エロティック画像がAI生成と信じることが情動反応を低減する</title>
     <link>https://osf.io/wvds8</link>
     <guid isPermaLink="false">https://osf.io/wvds8#ja</guid>
     <pubDate>Thu, 22 Oct 2026 23:37:59 +0000</pubDate>
     <description>The Deepfake Discount: Believing Erotic Images Are AI-Generated Reduces Affective Responses</description>
   </item>
   <item>
-    <title>4～12歳児の自閉症特性に関する介護者報告尺度の批判的検討：研究および臨床実践への示唆</title>
+    <title>4歳から12歳児の自閉症特性に関する養育者報告尺度の批判的検討：研究および臨床実践への示唆</title>
     <link>https://osf.io/na3e9</link>
     <guid isPermaLink="false">https://osf.io/na3e9#ja</guid>
     <pubDate>Thu, 22 Oct 2026 23:37:59 +0000</pubDate>
@@ -258,7 +293,7 @@
     <description>A Practical Guide to Cross-Cultural Research with eHRAF</description>
   </item>
   <item>
-    <title>「たぶん悪者になりたくない」幼児の不道徳行動への抵抗感</title>
+    <title>「たぶん悪者になりたくない」：幼児の不道徳行動への抵抗感</title>
     <link>https://osf.io/72gqf</link>
     <guid isPermaLink="false">https://osf.io/72gqf#ja</guid>
     <pubDate>Thu, 22 Oct 2026 23:37:58 +0000</pubDate>
@@ -279,7 +314,7 @@
     <description>Ocular Phototherapy and Mental Health: What Vision Scientists and Clinicians Need to Know</description>
   </item>
   <item>
-    <title>他者の非中核製品属性への注目過大評価に関する研究</title>
+    <title>他者の非中核製品属性への注目の過大評価</title>
     <link>https://osf.io/xpmkg</link>
     <guid isPermaLink="false">https://osf.io/xpmkg#ja</guid>
     <pubDate>Tue, 20 Oct 2026 23:11:54 +0000</pubDate>
@@ -293,14 +328,14 @@
     <description>Family Educational and Cultural Practices Amplify Rather than Buffer Socioeconomic Inequalities in Academic Achievement in France</description>
   </item>
   <item>
-    <title>学習性無力感モデルの人間への翻訳的妥当性の検証：ストレッサーの制御可能性が報酬処理および社会機能に及ぼす影響</title>
+    <title>学習性無力感モデルの人間への翻訳的妥当性の検証：ストレッサー制御可能性が報酬処理および社会機能に及ぼす影響</title>
     <link>https://osf.io/cpn6v</link>
     <guid isPermaLink="false">https://osf.io/cpn6v#ja</guid>
     <pubDate>Tue, 20 Oct 2026 23:11:53 +0000</pubDate>
     <description>Testing the Translational Validity of the Learned Helplessness Model in Humans: Effects of Stressor Controllability on Reward Processing and Social Functioning</description>
   </item>
   <item>
-    <title>潜在状態と応答様式（LASARS）モデル：入門チュートリアル</title>
+    <title>潜在状態および応答様式（LASARS）モデル：入門チュートリアル</title>
     <link>https://osf.io/5zqdh</link>
     <guid isPermaLink="false">https://osf.io/5zqdh#ja</guid>
     <pubDate>Tue, 20 Oct 2026 23:11:53 +0000</pubDate>
@@ -314,46 +349,11 @@
     <description>Discourse prominent entities are not cognitively more prominent</description>
   </item>
   <item>
-    <title>多くのターゲットを念頭に置いた視覚探索：Drew, Boettcher, and Wolfe (2017) の成功した再現研究</title>
+    <title>多数のターゲットを念頭に置いた視覚探索：Drew, Boettcher, Wolfe（2017）の成功した再現研究</title>
     <link>https://osf.io/erp9w</link>
     <guid isPermaLink="false">https://osf.io/erp9w#ja</guid>
     <pubDate>Tue, 20 Oct 2026 20:13:11 +0000</pubDate>
     <description>Visual search with many targets in mind: A successful replication of Drew, Boettcher, and Wolfe (2017)</description>
-  </item>
-  <item>
-    <title>痛みの体験、ケアの追求、そして信頼されること：自閉症成人の質的研究</title>
-    <link>https://osf.io/dm2g7</link>
-    <guid isPermaLink="false">https://osf.io/dm2g7#ja</guid>
-    <pubDate>Tue, 20 Oct 2026 20:13:11 +0000</pubDate>
-    <description>Experiencing Pain, Seeking Care, and Being Believed: A Qualitative Study of Autistic Adults</description>
-  </item>
-  <item>
-    <title>症状軽減を超えて：MDMAセッション中の相互連結性と自己超越的感情が社会不安障害治療における症状変化ではなく繁栄を予測する</title>
-    <link>https://osf.io/kbxdq</link>
-    <guid isPermaLink="false">https://osf.io/kbxdq#ja</guid>
-    <pubDate>Tue, 20 Oct 2026 20:13:11 +0000</pubDate>
-    <description>Beyond Symptom Reduction: Interconnectedness and Self-Transcendent Emotions During MDMA Sessions Predict Flourishing, Not Symptom Change, in Social Anxiety Disorder Treatment</description>
-  </item>
-  <item>
-    <title>経験に基づくリスク意思決定において、人は事前情報を用いて最適な速度-正確性のトレードオフを採用するか？</title>
-    <link>https://osf.io/yt65f</link>
-    <guid isPermaLink="false">https://osf.io/yt65f#ja</guid>
-    <pubDate>Tue, 20 Oct 2026 20:13:10 +0000</pubDate>
-    <description>Do People Use Prior Information to Adopt an Optimal Speed-Accuracy Tradeoff in Experience-Based Risky Decisions?</description>
-  </item>
-  <item>
-    <title>予測不可能を予測する：心理療法成果アルゴリズムにおける患者レベルの予測誤差要因の特定</title>
-    <link>https://osf.io/fdeay</link>
-    <guid isPermaLink="false">https://osf.io/fdeay#ja</guid>
-    <pubDate>Tue, 20 Oct 2026 20:13:10 +0000</pubDate>
-    <description>Predicting the Unpredictable: Identifying Patient-Level Drivers of Predictive Error Across Psychotherapy Outcome Algorithms</description>
-  </item>
-  <item>
-    <title>単なる一線ではない：使用頻度別にみる娯楽的コカイン使用と被害軽減行動の関連―オンライン横断研究</title>
-    <link>https://osf.io/6ru2p</link>
-    <guid isPermaLink="false">https://osf.io/6ru2p#ja</guid>
-    <pubDate>Tue, 20 Oct 2026 20:13:10 +0000</pubDate>
-    <description>Not Just a Line: Correlates of Recreational Cocaine Use and Harm-Reduction Practices Across Use Frequencies – An Online Cross-Sectional Study</description>
   </item>
 </channel>
 </rss>
