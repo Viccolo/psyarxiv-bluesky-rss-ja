@@ -6,6 +6,34 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>不眠症と悪夢傾向の関係における生理的過覚醒の検討</title>
+    <link>https://osf.io/8kp92</link>
+    <guid isPermaLink="false">https://osf.io/8kp92#ja</guid>
+    <pubDate>Sat, 24 Oct 2026 21:55:39 +0000</pubDate>
+    <description>Examining Physiological Hyperarousal in the Relationship Between Insomnia and Nightmare Proneness</description>
+  </item>
+  <item>
+    <title>オンラインにおける誤解を招くメンタルヘルス情報の分類体系</title>
+    <link>https://osf.io/pza9b</link>
+    <guid isPermaLink="false">https://osf.io/pza9b#ja</guid>
+    <pubDate>Sat, 24 Oct 2026 21:55:38 +0000</pubDate>
+    <description>A Taxonomy of Misleading Mental Health Content Online</description>
+  </item>
+  <item>
+    <title>社会・行動科学の再現性過小評価：6件の驚くべきSCORE再現失敗の監査</title>
+    <link>https://osf.io/wtnsq</link>
+    <guid isPermaLink="false">https://osf.io/wtnsq#ja</guid>
+    <pubDate>Sat, 24 Oct 2026 21:55:38 +0000</pubDate>
+    <description>Underestimating the replicability of the social and behavioural sciences: an audit of six surprising SCORE replication failures.</description>
+  </item>
+  <item>
+    <title>加齢に伴う神経の非分化化は信頼性の低下によって引き起こされる</title>
+    <link>https://osf.io/jb5zn</link>
+    <guid isPermaLink="false">https://osf.io/jb5zn#ja</guid>
+    <pubDate>Sat, 24 Oct 2026 21:55:38 +0000</pubDate>
+    <description>Age-Related Neural Dedifferentiation Is Driven by Declining Reliability</description>
+  </item>
+  <item>
     <title>エコーチェンバーからエコーマシンへ？AIとの対話における支持、証拠、そして信念の確信性</title>
     <link>https://osf.io/7et5g</link>
     <guid isPermaLink="false">https://osf.io/7et5g#ja</guid>
@@ -13,7 +41,7 @@
     <description>From Echo Chambers to Echo Machines? Endorsement, Evidence, and the Certainty of Belief in Conversations With AI</description>
   </item>
   <item>
-    <title>働くことの代償？ADHD症状、自傷的労働行動および職業的ウェルビーイングの関連性</title>
+    <title>働くことの代償？ADHD症状、自傷的労働行動および職業的ウェルビーイング</title>
     <link>https://osf.io/nfpej</link>
     <guid isPermaLink="false">https://osf.io/nfpej#ja</guid>
     <pubDate>Fri, 23 Oct 2026 20:28:08 +0000</pubDate>
@@ -27,14 +55,14 @@
     <description>Questionable mediated effect of self-management on athletic performance: A comment on Fan et al. (2026)</description>
   </item>
   <item>
-    <title>社会的メディア利用が後の注意障害に及ぼす感情メカニズムの関連率モデル</title>
+    <title>社会的メディア利用と後の注意障害を結ぶ情動メカニズムの関連率モデル</title>
     <link>https://osf.io/7hn6d</link>
     <guid isPermaLink="false">https://osf.io/7hn6d#ja</guid>
     <pubDate>Fri, 23 Oct 2026 20:28:07 +0000</pubDate>
     <description>A Relevance Rate Model of the affective mechanisms linking social media use to later attentional disruption</description>
   </item>
   <item>
-    <title>符号化後の意味処理がエピソード記憶に系統的歪みをもたらす</title>
+    <title>符号化後の意味処理がエピソード記憶に体系的歪みをもたらす</title>
     <link>https://osf.io/25ab4</link>
     <guid isPermaLink="false">https://osf.io/25ab4#ja</guid>
     <pubDate>Fri, 23 Oct 2026 20:28:07 +0000</pubDate>
@@ -48,7 +76,7 @@
     <description>Subjective and mobile EEG responses to wood-clad and drywall interior environments: An in situ crossover study</description>
   </item>
   <item>
-    <title>不確実性下における母親の虐待申告：親権裁判所の初期対応が子どもに及ぼす影響</title>
+    <title>不確実性下における母親の虐待報告：親権裁判所の初期対応が子どもに及ぼす影響</title>
     <link>https://osf.io/tvpku</link>
     <guid isPermaLink="false">https://osf.io/tvpku#ja</guid>
     <pubDate>Fri, 23 Oct 2026 17:10:45 +0000</pubDate>
@@ -69,21 +97,21 @@
     <description>Age-related changes in strategy use during reinforcement learning</description>
   </item>
   <item>
-    <title>メル周波数ケプストラム係数およびスペクトル特徴が短時間呼吸法中の微細自律神経反射を直接駆動する</title>
+    <title>メル周波数ケプストラム係数およびスペクトル特徴が短時間呼吸法中の微細な自律神経反射を直接駆動する</title>
     <link>https://osf.io/5v7y3</link>
     <guid isPermaLink="false">https://osf.io/5v7y3#ja</guid>
     <pubDate>Fri, 23 Oct 2026 17:10:44 +0000</pubDate>
     <description>Mel-frequency cepstral coefficients and spectral features directly drive micro-level autonomic reflexes during brief respiration practices</description>
   </item>
   <item>
-    <title>成人の読字および綴字能力の予測因子：音韻技能は視覚的注意幅を上回る</title>
+    <title>成人の読字・綴字能力の予測因子：音韻スキルは視覚的注意幅を上回る</title>
     <link>https://osf.io/x5qj7</link>
     <guid isPermaLink="false">https://osf.io/x5qj7#ja</guid>
     <pubDate>Fri, 23 Oct 2026 17:10:44 +0000</pubDate>
     <description>Predictors of Reading and Spelling ability in adults: Phonological skills outweigh Visual Attention Span</description>
   </item>
   <item>
-    <title>単一事例実験デザインを用いたPTSDに対する運動併用短時間曝露療法のパイロット研究</title>
+    <title>運動を併用した短時間曝露療法によるPTSD治療：単一事例実験デザインを用いたパイロット研究</title>
     <link>https://osf.io/nyh8f</link>
     <guid isPermaLink="false">https://osf.io/nyh8f#ja</guid>
     <pubDate>Fri, 23 Oct 2026 17:10:44 +0000</pubDate>
@@ -125,14 +153,14 @@
     <description>CortexLens: Systematically Decoding Interpretable Visual Patterns from Human Visual Cortex</description>
   </item>
   <item>
-    <title>予測的言語理解における文法的性の利用：若年成人と高齢成人の証拠</title>
+    <title>予測的言語理解における文法的性の利用：若年者と高齢者の証拠</title>
     <link>https://osf.io/rf9ku</link>
     <guid isPermaLink="false">https://osf.io/rf9ku#ja</guid>
     <pubDate>Fri, 23 Oct 2026 17:10:42 +0000</pubDate>
     <description>The use of Grammatical Gender in Predictive language comprehension: Evidence from Young and Older adults</description>
   </item>
   <item>
-    <title>紹介を超えて：孤独を感じる若者のための学校ベースの社会処方における身体活動機会の活用促進</title>
+    <title>紹介を超えて：孤独を感じる若者のための学校ベースの社会的処方における身体活動機会の活用促進</title>
     <link>https://osf.io/b5yrk</link>
     <guid isPermaLink="false">https://osf.io/b5yrk#ja</guid>
     <pubDate>Fri, 23 Oct 2026 17:10:42 +0000</pubDate>
@@ -167,7 +195,7 @@
     <description>Conventionality and transparency in human language</description>
   </item>
   <item>
-    <title>多様性の可視化促進？教育心理学ジャーナルにおけるLGBTQ+表象の系統的レビュー</title>
+    <title>多様性の可視化促進？教育心理学ジャーナルにおけるLGBTQ+表象の体系的レビュー</title>
     <link>https://osf.io/qv3nw</link>
     <guid isPermaLink="false">https://osf.io/qv3nw#ja</guid>
     <pubDate>Thu, 22 Oct 2026 23:38:07 +0000</pubDate>
@@ -181,7 +209,7 @@
     <description>Day by Day, Bit by Bit: Knowledge Building Mechanisms Evolve with Development</description>
   </item>
   <item>
-    <title>サイケデリックス、スピリチュアリティ、薬物政策：強制的医療化を伴わないハームリダクションの可能性</title>
+    <title>サイケデリックス、スピリチュアリティおよび薬物政策：強制的医療化を伴わないハームリダクション</title>
     <link>https://osf.io/jxky8</link>
     <guid isPermaLink="false">https://osf.io/jxky8#ja</guid>
     <pubDate>Thu, 22 Oct 2026 23:38:06 +0000</pubDate>
@@ -202,7 +230,7 @@
     <description>Impaired Updating and Maintenance of Latent Structural Associations Underlie Cognitive Inflexibility along an Obsessive–Compulsive Dimension</description>
   </item>
   <item>
-    <title>職場における排除の多様的枠組みの拡張：言語的排除を独立したモダリティとして統合する試み</title>
+    <title>職場における排除の多様モーダル枠組みの拡張：言語的排除を独立したモダリティとして統合する試み</title>
     <link>https://osf.io/5ycev</link>
     <guid isPermaLink="false">https://osf.io/5ycev#ja</guid>
     <pubDate>Thu, 22 Oct 2026 23:38:06 +0000</pubDate>
@@ -216,7 +244,7 @@
     <description>The Role of Prior Knowledge in Epistemic Curiosity Across Adulthood</description>
   </item>
   <item>
-    <title>人工エージェントのリーダーシップとフォロワーシップ：役割適合性に関する統合的レビュー</title>
+    <title>人工エージェントのリーダーシップとフォロワーシップ：役割適合性に関する統合的検討</title>
     <link>https://osf.io/294vn</link>
     <guid isPermaLink="false">https://osf.io/294vn#ja</guid>
     <pubDate>Thu, 22 Oct 2026 23:38:05 +0000</pubDate>
@@ -251,7 +279,7 @@
     <description>Measuring Cognitive Noise: Separating Signal Strength from Random Fluctuations in Evidence Accumulation</description>
   </item>
   <item>
-    <title>ゲームのルールを知ること：政治的知識が国家ナルシシズムおよび反民主主義的感情に対する緩衝材として機能するメカニズム</title>
+    <title>ゲームのルールを知ること：政治的知識が国家ナルシシズムおよび反民主主義的感情に対する緩衝材としての役割</title>
     <link>https://osf.io/2zxhg</link>
     <guid isPermaLink="false">https://osf.io/2zxhg#ja</guid>
     <pubDate>Thu, 22 Oct 2026 23:38:00 +0000</pubDate>
@@ -265,7 +293,7 @@
     <description>Avoiding the worst leaders is more important than getting the best</description>
   </item>
   <item>
-    <title>ディープフェイク割引効果：エロティック画像がAI生成と信じることが情動反応を低減する</title>
+    <title>ディープフェイク割引効果：エロティック画像がAI生成と信じることによる情動反応の減少</title>
     <link>https://osf.io/wvds8</link>
     <guid isPermaLink="false">https://osf.io/wvds8#ja</guid>
     <pubDate>Thu, 22 Oct 2026 23:37:59 +0000</pubDate>
@@ -279,7 +307,7 @@
     <description>A Critical Review of Caregiver Report Measures of Autistic Traits in Children (4 to 12 years): Considerations for Research and Clinical Practice</description>
   </item>
   <item>
-    <title>AIは直感を信頼すべきか？人間とAIにおける熟慮的道徳推論のコスト</title>
+    <title>AIは直感を信頼すべきか？人間とAIにおける熟慮的道徳判断のコスト</title>
     <link>https://osf.io/2fv9t</link>
     <guid isPermaLink="false">https://osf.io/2fv9t#ja</guid>
     <pubDate>Thu, 22 Oct 2026 23:37:59 +0000</pubDate>
@@ -321,39 +349,11 @@
     <description>Overestimating Others’ Focus on Non-Core Product Attributes</description>
   </item>
   <item>
-    <title>フランスにおける家族の教育的・文化的実践が学業成績の社会経済的不平等を緩和するのではなく増幅する要因としての役割</title>
+    <title>フランスにおける家族の教育的・文化的実践が学業成績の社会経済的不平等を緩和するのではなく増幅するメカニズム</title>
     <link>https://osf.io/9mpw2</link>
     <guid isPermaLink="false">https://osf.io/9mpw2#ja</guid>
     <pubDate>Tue, 20 Oct 2026 23:11:54 +0000</pubDate>
     <description>Family Educational and Cultural Practices Amplify Rather than Buffer Socioeconomic Inequalities in Academic Achievement in France</description>
-  </item>
-  <item>
-    <title>学習性無力感モデルの人間への翻訳的妥当性の検証：ストレッサーの制御可能性が報酬処理および社会機能に与える影響</title>
-    <link>https://osf.io/cpn6v</link>
-    <guid isPermaLink="false">https://osf.io/cpn6v#ja</guid>
-    <pubDate>Tue, 20 Oct 2026 23:11:53 +0000</pubDate>
-    <description>Testing the Translational Validity of the Learned Helplessness Model in Humans: Effects of Stressor Controllability on Reward Processing and Social Functioning</description>
-  </item>
-  <item>
-    <title>潜在状態および応答様式（LASARS）モデル：入門チュートリアル</title>
-    <link>https://osf.io/5zqdh</link>
-    <guid isPermaLink="false">https://osf.io/5zqdh#ja</guid>
-    <pubDate>Tue, 20 Oct 2026 23:11:53 +0000</pubDate>
-    <description>The Latent State and Response Style (LASARS) Model: An Introductory Tutorial</description>
-  </item>
-  <item>
-    <title>談話における顕著な対象は認知的により顕著ではない</title>
-    <link>https://osf.io/mkqct</link>
-    <guid isPermaLink="false">https://osf.io/mkqct#ja</guid>
-    <pubDate>Tue, 20 Oct 2026 23:11:53 +0000</pubDate>
-    <description>Discourse prominent entities are not cognitively more prominent</description>
-  </item>
-  <item>
-    <title>多くのターゲットを念頭に置いた視覚探索：Drew, Boettcher, and Wolfe（2017）の成功した再現研究</title>
-    <link>https://osf.io/erp9w</link>
-    <guid isPermaLink="false">https://osf.io/erp9w#ja</guid>
-    <pubDate>Tue, 20 Oct 2026 20:13:11 +0000</pubDate>
-    <description>Visual search with many targets in mind: A successful replication of Drew, Boettcher, and Wolfe (2017)</description>
   </item>
 </channel>
 </rss>
