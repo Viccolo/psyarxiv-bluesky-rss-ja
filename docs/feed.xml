@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>エコーチェンバーからエコーマシンへ？AIとの対話における支持、証拠、そして信念の確信性</title>
+    <title>エコーチェンバーからエコーマシンへ？AIとの対話における支持、証拠、および信念の確信度の検討</title>
     <link>https://osf.io/7et5g</link>
     <guid isPermaLink="false">https://osf.io/7et5g#ja</guid>
     <pubDate>Fri, 23 Oct 2026 20:28:08 +0000</pubDate>
@@ -27,7 +27,7 @@
     <description>Questionable mediated effect of self-management on athletic performance: A comment on Fan et al. (2026)</description>
   </item>
   <item>
-    <title>社会的メディア利用と後の注意障害を結ぶ情動メカニズムの関連率モデル</title>
+    <title>社会的メディア利用と後の注意障害を結ぶ感情メカニズムの関連率モデル</title>
     <link>https://osf.io/7hn6d</link>
     <guid isPermaLink="false">https://osf.io/7hn6d#ja</guid>
     <pubDate>Fri, 23 Oct 2026 20:28:07 +0000</pubDate>
@@ -48,14 +48,14 @@
     <description>Subjective and mobile EEG responses to wood-clad and drywall interior environments: An in situ crossover study</description>
   </item>
   <item>
-    <title>不確実性下における母親の虐待申告：親権裁判所の初期対応が子どもに及ぼす影響</title>
+    <title>不確実性下における母親の虐待報告：親権裁判所の初期対応が子どもに及ぼす影響</title>
     <link>https://osf.io/tvpku</link>
     <guid isPermaLink="false">https://osf.io/tvpku#ja</guid>
     <pubDate>Fri, 23 Oct 2026 17:10:45 +0000</pubDate>
     <description>Mothers’ Abuse Reports Under Uncertainty: Why Custody Courts’ Default Response Fails the Child</description>
   </item>
   <item>
-    <title>食事が身体的および精神的健康に影響を与えると人々は信じているか？食事と健康信念尺度（DHBS）の開発と検証</title>
+    <title>食事が身体的および精神的健康に影響を与えると人々は信じているか？食事健康信念尺度（DHBS）の開発と検証</title>
     <link>https://osf.io/kx2ht</link>
     <guid isPermaLink="false">https://osf.io/kx2ht#ja</guid>
     <pubDate>Fri, 23 Oct 2026 17:10:45 +0000</pubDate>
@@ -76,35 +76,35 @@
     <description>Mel-frequency cepstral coefficients and spectral features directly drive micro-level autonomic reflexes during brief respiration practices</description>
   </item>
   <item>
-    <title>成人の読字・綴字能力の予測因子：音韻技能が視覚的注意幅を上回る</title>
+    <title>成人の読字・綴字能力の予測因子：音韻的スキルは視覚的注意幅を上回る</title>
     <link>https://osf.io/x5qj7</link>
     <guid isPermaLink="false">https://osf.io/x5qj7#ja</guid>
     <pubDate>Fri, 23 Oct 2026 17:10:44 +0000</pubDate>
     <description>Predictors of Reading and Spelling ability in adults: Phonological skills outweigh Visual Attention Span</description>
   </item>
   <item>
-    <title>運動を併用した短時間曝露療法によるPTSD治療：単一事例実験デザインを用いたパイロット研究</title>
+    <title>PTSDに対する運動を併用した短時間曝露療法：単一事例実験デザインによるパイロット研究</title>
     <link>https://osf.io/nyh8f</link>
     <guid isPermaLink="false">https://osf.io/nyh8f#ja</guid>
     <pubDate>Fri, 23 Oct 2026 17:10:44 +0000</pubDate>
     <description>Brief Exposure Therapy With Exercise For PTSD: A Pilot Study Using Single Case Experimental Design</description>
   </item>
   <item>
-    <title>聴覚障害の有無による子どもの数学能力および社会情動的健康の発達軌跡</title>
+    <title>聴覚障害の有無による子どもの数学能力と社会情動的健康の発達軌跡</title>
     <link>https://osf.io/k587y</link>
     <guid isPermaLink="false">https://osf.io/k587y#ja</guid>
     <pubDate>Fri, 23 Oct 2026 17:10:43 +0000</pubDate>
     <description>Developmental Trajectories of Maths Ability and Socio-Emotional Health in Children with and without Hearing Difficulties</description>
   </item>
   <item>
-    <title>GPT-4は対象物については乳児のように推論するが、エージェントについてはそうではない</title>
+    <title>GPT-4は対象物については乳児のように推論するが、主体についてはそうではない</title>
     <link>https://osf.io/vg5p9</link>
     <guid isPermaLink="false">https://osf.io/vg5p9#ja</guid>
     <pubDate>Fri, 23 Oct 2026 17:10:43 +0000</pubDate>
     <description>GPT-4 reasons like infants about objects but not agents</description>
   </item>
   <item>
-    <title>人種的憤慨が白人アメリカ人のドナルド・トランプ支持を持続的に特徴づける</title>
+    <title>白人アメリカ人のドナルド・トランプ支持における人種的憤慨の持続的影響</title>
     <link>https://osf.io/4r2hv</link>
     <guid isPermaLink="false">https://osf.io/4r2hv#ja</guid>
     <pubDate>Fri, 23 Oct 2026 17:10:43 +0000</pubDate>
@@ -125,7 +125,7 @@
     <description>CortexLens: Systematically Decoding Interpretable Visual Patterns from Human Visual Cortex</description>
   </item>
   <item>
-    <title>予測的言語理解における文法的性の利用：若年成人と高齢成人の証拠</title>
+    <title>予測的言語理解における文法的性の利用：若年者と高齢者の証拠</title>
     <link>https://osf.io/rf9ku</link>
     <guid isPermaLink="false">https://osf.io/rf9ku#ja</guid>
     <pubDate>Fri, 23 Oct 2026 17:10:42 +0000</pubDate>
@@ -160,7 +160,7 @@
     <description>Speech Monitoring During Self-Comprehension</description>
   </item>
   <item>
-    <title>人間の言語における慣習性と透明性</title>
+    <title>人間言語における慣習性と透明性</title>
     <link>https://osf.io/j5nfg</link>
     <guid isPermaLink="false">https://osf.io/j5nfg#ja</guid>
     <pubDate>Fri, 23 Oct 2026 17:10:40 +0000</pubDate>
@@ -188,7 +188,7 @@
     <description>Psychedelics, spirituality and drug policy: Harm reduction without compulsory medicalisation</description>
   </item>
   <item>
-    <title>思春期における多次元的読書不安</title>
+    <title>青年期における多次元的読書不安</title>
     <link>https://osf.io/ws6fd</link>
     <guid isPermaLink="false">https://osf.io/ws6fd#ja</guid>
     <pubDate>Thu, 22 Oct 2026 23:38:06 +0000</pubDate>
@@ -202,14 +202,14 @@
     <description>Impaired Updating and Maintenance of Latent Structural Associations Underlie Cognitive Inflexibility along an Obsessive–Compulsive Dimension</description>
   </item>
   <item>
-    <title>職場における排除の多様モーダル枠組みの拡張：言語的排除を独立したモダリティとして統合する試み</title>
+    <title>職場における排除の多様的枠組みの拡張：言語的排除を独立したモダリティとして統合する試み</title>
     <link>https://osf.io/5ycev</link>
     <guid isPermaLink="false">https://osf.io/5ycev#ja</guid>
     <pubDate>Thu, 22 Oct 2026 23:38:06 +0000</pubDate>
     <description>Expanding the Multimodal Framework of Workplace Ostracism: Integrating Linguistic Ostracism as a Distinct Modality</description>
   </item>
   <item>
-    <title>成人期における認識的好奇心に対する先行知識の役割</title>
+    <title>成人期における認識的好奇心に対する事前知識の役割</title>
     <link>https://osf.io/75q8w</link>
     <guid isPermaLink="false">https://osf.io/75q8w#ja</guid>
     <pubDate>Thu, 22 Oct 2026 23:38:05 +0000</pubDate>
@@ -237,7 +237,7 @@
     <description>Is Change in Motivation in College a Normative Calibration Process or an Early Warning Sign?</description>
   </item>
   <item>
-    <title>他者も行っているのか？音楽心理学における自己申告および認知された疑わしい研究慣行</title>
+    <title>他者も行っているのか？音楽心理学における自己申告および知覚された疑わしい研究慣行</title>
     <link>https://osf.io/mbk5y</link>
     <guid isPermaLink="false">https://osf.io/mbk5y#ja</guid>
     <pubDate>Thu, 22 Oct 2026 23:38:00 +0000</pubDate>
@@ -251,7 +251,7 @@
     <description>Measuring Cognitive Noise: Separating Signal Strength from Random Fluctuations in Evidence Accumulation</description>
   </item>
   <item>
-    <title>ゲームのルールを知ること：政治的知識が国家ナルシシズムおよび反民主主義的感情に対する緩衝材として果たす役割</title>
+    <title>ゲームのルールを知ること：政治的知識が国家ナルシシズムおよび反民主主義的感情に対する緩衝効果として機能する役割</title>
     <link>https://osf.io/2zxhg</link>
     <guid isPermaLink="false">https://osf.io/2zxhg#ja</guid>
     <pubDate>Thu, 22 Oct 2026 23:38:00 +0000</pubDate>
@@ -265,7 +265,7 @@
     <description>Avoiding the worst leaders is more important than getting the best</description>
   </item>
   <item>
-    <title>ディープフェイク割引効果：エロティック画像がAI生成と信じることによる感情反応の減少</title>
+    <title>ディープフェイク割引効果：エロティック画像がAI生成と信じることが情動反応を低減する</title>
     <link>https://osf.io/wvds8</link>
     <guid isPermaLink="false">https://osf.io/wvds8#ja</guid>
     <pubDate>Thu, 22 Oct 2026 23:37:59 +0000</pubDate>
@@ -293,14 +293,14 @@
     <description>A Practical Guide to Cross-Cultural Research with eHRAF</description>
   </item>
   <item>
-    <title>「たぶん悪者になりたくない」：幼児の不道徳行動への抵抗感</title>
+    <title>「たぶん悪者になりたくない」幼児の不道徳行動への抵抗感</title>
     <link>https://osf.io/72gqf</link>
     <guid isPermaLink="false">https://osf.io/72gqf#ja</guid>
     <pubDate>Thu, 22 Oct 2026 23:37:58 +0000</pubDate>
     <description>“Maybe I don’t wanna be the bad guy”;  Young Children’s Resistance to Immoral Actions</description>
   </item>
   <item>
-    <title>人間と大規模言語モデルにおける道徳的動機づけの多次元構造の推論</title>
+    <title>人間と大規模言語モデルにおける道徳的動機の多次元構造の推論</title>
     <link>https://osf.io/u4r3q</link>
     <guid isPermaLink="false">https://osf.io/u4r3q#ja</guid>
     <pubDate>Thu, 22 Oct 2026 23:37:57 +0000</pubDate>
@@ -321,14 +321,14 @@
     <description>Overestimating Others’ Focus on Non-Core Product Attributes</description>
   </item>
   <item>
-    <title>フランスにおける家族の教育的・文化的慣習が学業成績の社会経済的不平等を緩和するのではなく増幅する役割を果たすこと</title>
+    <title>フランスにおける家族の教育的・文化的実践が学業成績の社会経済的不平等を緩和するのではなく増幅するメカニズム</title>
     <link>https://osf.io/9mpw2</link>
     <guid isPermaLink="false">https://osf.io/9mpw2#ja</guid>
     <pubDate>Tue, 20 Oct 2026 23:11:54 +0000</pubDate>
     <description>Family Educational and Cultural Practices Amplify Rather than Buffer Socioeconomic Inequalities in Academic Achievement in France</description>
   </item>
   <item>
-    <title>学習性無力感モデルの人間への翻訳的妥当性の検証：ストレッサーの制御可能性が報酬処理および社会機能に与える影響</title>
+    <title>学習性無力感モデルの人間への翻訳的妥当性の検証：ストレッサー制御可能性が報酬処理および社会機能に与える影響</title>
     <link>https://osf.io/cpn6v</link>
     <guid isPermaLink="false">https://osf.io/cpn6v#ja</guid>
     <pubDate>Tue, 20 Oct 2026 23:11:53 +0000</pubDate>
@@ -349,7 +349,7 @@
     <description>Discourse prominent entities are not cognitively more prominent</description>
   </item>
   <item>
-    <title>多数のターゲットを念頭に置いた視覚探索：Drew, Boettcher, and Wolfe (2017)の成功した再現研究</title>
+    <title>多くのターゲットを念頭に置いた視覚探索：Drew, Boettcher, Wolfe（2017）の成功した再現研究</title>
     <link>https://osf.io/erp9w</link>
     <guid isPermaLink="false">https://osf.io/erp9w#ja</guid>
     <pubDate>Tue, 20 Oct 2026 20:13:11 +0000</pubDate>
