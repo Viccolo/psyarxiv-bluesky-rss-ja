@@ -6,6 +6,41 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>低識字率かつ多言語環境における二言語識字能力と双方向の言語間転移の検討：ナイジェリア北東部の国内避難児童からの知見</title>
+    <link>https://osf.io/wh8nz</link>
+    <guid isPermaLink="false">https://osf.io/wh8nz#ja</guid>
+    <pubDate>Wed, 28 Oct 2026 23:38:31 +0000</pubDate>
+    <description>Examining Biliteracy and Bidirectional Cross-Linguistic Transfer in a Low Literacy and Multilingual Context: Insights from Internally Displaced Children in Northeast Nigeria</description>
+  </item>
+  <item>
+    <title>精神障害リスクにおけるピア効果：ノルウェー青少年の全国調査</title>
+    <link>https://osf.io/9c7jw</link>
+    <guid isPermaLink="false">https://osf.io/9c7jw#ja</guid>
+    <pubDate>Wed, 28 Oct 2026 23:38:31 +0000</pubDate>
+    <description>Peer effects on risk of psychiatric disorders: A nationwide study of Norwegian adolescents</description>
+  </item>
+  <item>
+    <title>オープンリサーチ資料には明確な再利用許諾が必要である</title>
+    <link>https://osf.io/4rjg3</link>
+    <guid isPermaLink="false">https://osf.io/4rjg3#ja</guid>
+    <pubDate>Wed, 28 Oct 2026 23:38:31 +0000</pubDate>
+    <description>Open research materials need explicit reuse licenses</description>
+  </item>
+  <item>
+    <title>単一事例データへのベイズ逐次解析の応用：概念実証研究</title>
+    <link>https://osf.io/gpf4s</link>
+    <guid isPermaLink="false">https://osf.io/gpf4s#ja</guid>
+    <pubDate>Wed, 28 Oct 2026 23:38:30 +0000</pubDate>
+    <description>Application of Bayesian Sequential Analyses to Single Case Data: A Proof-of-Principle Study</description>
+  </item>
+  <item>
+    <title>成人期全体にわたる習得年齢効果：複合語読解における眼球運動の証拠</title>
+    <link>https://osf.io/7trvs</link>
+    <guid isPermaLink="false">https://osf.io/7trvs#ja</guid>
+    <pubDate>Wed, 28 Oct 2026 23:38:30 +0000</pubDate>
+    <description>Age-of-acquisition Effects across the Adult Lifespan: Evidence from Eye Movements in Compound Word Reading</description>
+  </item>
+  <item>
     <title>食物臭は特別か？報酬反応研究における実験刺激としての食物臭に関する系統的レビュー</title>
     <link>https://osf.io/9akny</link>
     <guid isPermaLink="false">https://osf.io/9akny#ja</guid>
@@ -13,28 +48,28 @@
     <description>Are food odours special? A systematic review of food odours as experimental stimuli to study reward responses in human subjects</description>
   </item>
   <item>
-    <title>脳刺激はどの記憶を改善するか？プライミング問題の検討</title>
+    <title>脳刺激はどの記憶を改善するか？プライミングの問題</title>
     <link>https://osf.io/nmeqx</link>
     <guid isPermaLink="false">https://osf.io/nmeqx#ja</guid>
     <pubDate>Wed, 28 Oct 2026 19:49:56 +0000</pubDate>
     <description>Which memory does brain stimulation improve? The priming problem</description>
   </item>
   <item>
-    <title>完全な予測可能性にもかかわらず持続する信念更新―自閉症における非典型的反復的事前更新の説明</title>
+    <title>完全な予測可能性にもかかわらず持続する信念更新―自閉症における非典型的反復的事前確率更新の説明</title>
     <link>https://osf.io/zm4b2</link>
     <guid isPermaLink="false">https://osf.io/zm4b2#ja</guid>
     <pubDate>Wed, 28 Oct 2026 19:49:56 +0000</pubDate>
     <description>Persistent Belief Updating Despite Perfect Predictability – The Atypical Iterative Prior Updating Account Of Autism</description>
   </item>
   <item>
-    <title>ギャング取締りに対する公共の支持：ニュージーランド・アオテアロアにおける警察権限強化の規範的、道具的、情動的予測因子</title>
+    <title>ニュージーランド・アオテアロアにおけるギャング取締りへの公共支持：警察権限強化の規範的、道具的、情動的予測因子</title>
     <link>https://osf.io/5xvr8</link>
     <guid isPermaLink="false">https://osf.io/5xvr8#ja</guid>
     <pubDate>Wed, 28 Oct 2026 19:49:56 +0000</pubDate>
     <description>Public support for policing gangs: normative, instrumental, and affective predictors of police empowerment in Aotearoa New Zealand</description>
   </item>
   <item>
-    <title>善悪と復讐心：自己擁護行動と他者擁護行動の評価比較</title>
+    <title>善悪と復讐心：自己擁護と他者支援の評価比較</title>
     <link>https://osf.io/fd3g4</link>
     <guid isPermaLink="false">https://osf.io/fd3g4#ja</guid>
     <pubDate>Wed, 28 Oct 2026 19:49:56 +0000</pubDate>
@@ -48,7 +83,7 @@
     <description>No Memory Needed? Perceptual Matching Accounts for a Large Part of the Working Memory–Intelligence Link</description>
   </item>
   <item>
-    <title>エクスポージャー療法の一般化を超えて</title>
+    <title>エクスポージャーを超えて：曝露療法の一般化</title>
     <link>https://osf.io/dr8p2</link>
     <guid isPermaLink="false">https://osf.io/dr8p2#ja</guid>
     <pubDate>Wed, 28 Oct 2026 19:49:55 +0000</pubDate>
@@ -62,14 +97,14 @@
     <description>The relationship between implicit and explicit stigma of mental illness among mental health clinicians: a systematic review and meta-analysis</description>
   </item>
   <item>
-    <title>産後女性の身体イメージ改善を目的としたBODYPOSIデジタル身体イメージ介入のランダム化比較試験プロトコル</title>
+    <title>産後女性の身体イメージ改善を目的としたBODYPOSIデジタル身体イメージ介入のランダム化比較試験に関する研究プロトコル</title>
     <link>https://osf.io/zqtjy</link>
     <guid isPermaLink="false">https://osf.io/zqtjy#ja</guid>
     <pubDate>Wed, 28 Oct 2026 19:49:55 +0000</pubDate>
     <description>Study protocol for a randomised controlled trial of the BODYPOSI digital body image intervention for improving body image among postpartum women</description>
   </item>
   <item>
-    <title>教育における積極的学業ストレススクリーニング：NPRO-8コアメンタルフィットネス評価</title>
+    <title>教育における先制的学業ストレススクリーニング：NPRO-8コアメンタルフィットネス評価</title>
     <link>https://osf.io/3b2ny</link>
     <guid isPermaLink="false">https://osf.io/3b2ny#ja</guid>
     <pubDate>Wed, 28 Oct 2026 07:44:47 +0000</pubDate>
@@ -90,14 +125,14 @@
     <description>Parenting Stress and Child Anxiety: Exploring Potential Moderators</description>
   </item>
   <item>
-    <title>瞬間的および日々の飲酒に関連する動機付けおよび制御過程の個人内変動と個人間差の検討</title>
+    <title>瞬間的および日々の飲酒に関連する動機付けおよび制御過程の個人内変動と個人間差異の検討</title>
     <link>https://osf.io/6bxm3</link>
     <guid isPermaLink="false">https://osf.io/6bxm3#ja</guid>
     <pubDate>Tue, 27 Oct 2026 19:08:42 +0000</pubDate>
     <description>Examining within-person fluctuations and between-person differences in motivational and control processes associated with momentary and daily alcohol use</description>
   </item>
   <item>
-    <title>集中的縦断データに基づく安定性ランドスケープのノンパラメトリック推定</title>
+    <title>集中的縦断データからの安定性ランドスケープのノンパラメトリック推定</title>
     <link>https://osf.io/tbxue</link>
     <guid isPermaLink="false">https://osf.io/tbxue#ja</guid>
     <pubDate>Tue, 27 Oct 2026 19:08:42 +0000</pubDate>
@@ -118,35 +153,35 @@
     <description>Quantifying metacognition with the hmetad package in R</description>
   </item>
   <item>
-    <title>図像領域における指示性－幼児の矢印およびマーカーの理解</title>
+    <title>図像領域における指示性―幼児の矢印およびマーカーの理解</title>
     <link>https://osf.io/nm3wd</link>
     <guid isPermaLink="false">https://osf.io/nm3wd#ja</guid>
     <pubDate>Tue, 27 Oct 2026 19:08:42 +0000</pubDate>
     <description>Deixis in the Graphic Domain - Young Children’s Comprehension of Arrows and Markers</description>
   </item>
   <item>
-    <title>PraBat：異文化背景を持つ就学前児の語用能力の個人差を評価する項目反応理論に基づく検査バッテリー</title>
+    <title>PraBat：異文化背景を持つ就学前児童の語用能力の個人差を評価する項目反応理論に基づく検査バッテリー</title>
     <link>https://osf.io/db6u4</link>
     <guid isPermaLink="false">https://osf.io/db6u4#ja</guid>
     <pubDate>Tue, 27 Oct 2026 19:08:41 +0000</pubDate>
     <description>PraBat: An item response theory-based test battery to assess individual differences in pragmatic abilities in preschool children from different cultural backgrounds</description>
   </item>
   <item>
-    <title>自殺イメージに対する統合的スキル（I-SUIM）を用いた心理療法中の変化に関する消費者の体験と認知－混合方法ケースシリーズ研究</title>
+    <title>自殺イメージに対する統合的スキル（I-SUIM）を用いた心理療法における消費者の体験と変化の認知－混合法による症例シリーズ研究</title>
     <link>https://osf.io/tfd37</link>
     <guid isPermaLink="false">https://osf.io/tfd37#ja</guid>
     <pubDate>Tue, 27 Oct 2026 19:08:41 +0000</pubDate>
     <description>Consumer experiences and perceptions of change during psychotherapy for suicide imagery – a mixed-methods case series of Integrated skills for SUicide IMagery (I-SUIM)</description>
   </item>
   <item>
-    <title>動物介在グループ心理療法を受ける青少年における抑うつとマインドフルネスのプロファイルおよびその変遷</title>
+    <title>動物介在グループ心理療法を受ける青少年におけるうつ症状とマインドフルネスのプロファイルおよびその変遷</title>
     <link>https://osf.io/fmrkp</link>
     <guid isPermaLink="false">https://osf.io/fmrkp#ja</guid>
     <pubDate>Tue, 27 Oct 2026 19:08:41 +0000</pubDate>
     <description>Depression–Mindfulness Profiles and Transitions among Adolescents Receiving Animal Assisted Group Psychotherapy</description>
   </item>
   <item>
-    <title>共同認知記憶のREMモデル</title>
+    <title>協調的想起記憶のREMモデル</title>
     <link>https://osf.io/vfmkj</link>
     <guid isPermaLink="false">https://osf.io/vfmkj#ja</guid>
     <pubDate>Tue, 27 Oct 2026 19:08:41 +0000</pubDate>
@@ -167,7 +202,7 @@
     <description>Collective Victimhood Beliefs and Policy Support Across Conflict-Affected Societies</description>
   </item>
   <item>
-    <title>比較表現「より多く」を用いた子どもの時間の数量化</title>
+    <title>比較表現「より」を用いた子どもの時間の数量化</title>
     <link>https://osf.io/jxrfw</link>
     <guid isPermaLink="false">https://osf.io/jxrfw#ja</guid>
     <pubDate>Tue, 27 Oct 2026 19:08:40 +0000</pubDate>
@@ -202,7 +237,7 @@
     <description>CogFlow: Open-Source Solution for the Construction of Modular Cognitive Psychology Experiments</description>
   </item>
   <item>
-    <title>ニュートラルからニュートラルへ：説明不能な人間の不在としての境界的空間の不気味な現象</title>
+    <title>中立から中立へ：説明のつかない人間の不在としての境界空間の不気味な現象</title>
     <link>https://osf.io/2rgmu</link>
     <guid isPermaLink="false">https://osf.io/2rgmu#ja</guid>
     <pubDate>Mon, 26 Oct 2026 19:53:10 +0000</pubDate>
@@ -230,21 +265,21 @@
     <description>Hidden Neural Variability and the Unexplained Cochlear Implant Outcome</description>
   </item>
   <item>
-    <title>ノルトフリースラントおよびフリースラントにおける幼児期多言語主義に対する親の態度の次元性と影響</title>
+    <title>ノルトフリースラントおよびフリースラントにおける子どもの多言語主義に対する親の態度の次元性と影響</title>
     <link>https://osf.io/4tpyg</link>
     <guid isPermaLink="false">https://osf.io/4tpyg#ja</guid>
     <pubDate>Mon, 26 Oct 2026 19:53:09 +0000</pubDate>
     <description>The dimensionality and influence of parental attitudes towards childhood multilingualism in Nordfriesland and Fryslân</description>
   </item>
   <item>
-    <title>日常生活における対人過程：孤独感と社会的評価が非自殺的自己傷害の衝動および行動のリアルタイム予測因子として果たす役割</title>
+    <title>日常生活における対人過程：孤独感と社会的評価が非自殺性自傷衝動および行動のリアルタイム予測因子として果たす役割</title>
     <link>https://osf.io/4xkv8</link>
     <guid isPermaLink="false">https://osf.io/4xkv8#ja</guid>
     <pubDate>Mon, 26 Oct 2026 19:53:09 +0000</pubDate>
     <description>Interpersonal Processes in Daily Life: Loneliness and Social Appraisals as Real-Time Predictors of Non-Suicidal Self-Injury Urges and Behavior</description>
   </item>
   <item>
-    <title>ソーシャルメディアにおける性的に強調された外見および美容コンテンツへの曝露と女性思春期の身体満足度：計算的実世界アプローチ</title>
+    <title>ソーシャルメディアにおける性的に強調された外見および美のコンテンツへの曝露と女性思春期の身体満足度：計算的実世界アプローチ</title>
     <link>https://osf.io/9d6kp</link>
     <guid isPermaLink="false">https://osf.io/9d6kp#ja</guid>
     <pubDate>Mon, 26 Oct 2026 19:53:08 +0000</pubDate>
@@ -265,21 +300,21 @@
     <description>When Unusual Is Usual:  Multivariate Analysis of WAIS-5 Index Score Profiles</description>
   </item>
   <item>
-    <title>対面型とデジタル型メンタルヘルスサービスにおける知覚リスクの多地域比較―選好および行動意図の差異との関連と自己構成概念の調整効果：横断的研究</title>
+    <title>対面型とデジタル型メンタルヘルスサービスにおける知覚リスクの多地域比較－選好および行動意図の差異との関連と自己構築の調整効果に関する横断的研究</title>
     <link>https://osf.io/vjfg9</link>
     <guid isPermaLink="false">https://osf.io/vjfg9#ja</guid>
     <pubDate>Sun, 25 Oct 2026 23:44:39 +0000</pubDate>
     <description>A Multi-Regional Study Comparing Perceived Risks between Face-to-Face versus Digital Mental Health Services - Associations with Differences in Preferences and Behavioral Intentions and the Moderation of Self-Construal: A Cross-Sectional Study</description>
   </item>
   <item>
-    <title>自殺イメージのサブタイプと自殺行動との関連：混合研究法による検討</title>
+    <title>自殺イメージの亜型と自殺行動との関連：混合法による検討</title>
     <link>https://osf.io/xht6u</link>
     <guid isPermaLink="false">https://osf.io/xht6u#ja</guid>
     <pubDate>Sun, 25 Oct 2026 23:44:39 +0000</pubDate>
     <description>Suicide imagery subtypes and their relationships with suicide behaviour: a mixed-methods evaluation</description>
   </item>
   <item>
-    <title>豊かな非言語的物語における構造化された馴化を用いた成人の自発的信念一致行動予測の誘発</title>
+    <title>豊かな非言語的物語における構造化された慣熟を用いた成人の自発的信念一致行動予測の喚起</title>
     <link>https://osf.io/h3a9e</link>
     <guid isPermaLink="false">https://osf.io/h3a9e#ja</guid>
     <pubDate>Sun, 25 Oct 2026 23:44:39 +0000</pubDate>
@@ -300,7 +335,7 @@
     <description>Accelerometer-Measured Activity and Psychological Well-Being in Older Adults: A Multilevel Longitudinal Analysis of NHATS Data</description>
   </item>
   <item>
-    <title>援助求め者の関係力学を評価する課題の開発と検証</title>
+    <title>援助求め者の関係性ダイナミクス評価タスクの開発と検証</title>
     <link>https://osf.io/wypd6</link>
     <guid isPermaLink="false">https://osf.io/wypd6#ja</guid>
     <pubDate>Sun, 25 Oct 2026 23:44:38 +0000</pubDate>
@@ -314,46 +349,11 @@
     <description>The Quantitative Psychologist Is Dead, Long Live the Quantitative Psychologist</description>
   </item>
   <item>
-    <title>「境界性」は「人格」障害ではなく、「アイデンティティ」または「情動」障害である可能性が高い：Sharpら（2026）へのコメント</title>
+    <title>「境界性」は「人格」障害ではなく「アイデンティティ」または「情動」障害である可能性が高い：Sharpら（2026）へのコメント</title>
     <link>https://osf.io/frzsv</link>
     <guid isPermaLink="false">https://osf.io/frzsv#ja</guid>
     <pubDate>Sun, 25 Oct 2026 23:44:38 +0000</pubDate>
     <description>“Borderline” is likely an “identity” or “emotional” disorder, but definitely not a “personality” disorder: A commentary on Sharp et al. (2026)</description>
-  </item>
-  <item>
-    <title>アメリカにおけるシスジェンダーの人々は、平均的なジェンダーノンバイナリーの人をどの程度女性的および男性的と認識しているか？</title>
-    <link>https://osf.io/azb4x</link>
-    <guid isPermaLink="false">https://osf.io/azb4x#ja</guid>
-    <pubDate>Sun, 25 Oct 2026 23:44:38 +0000</pubDate>
-    <description>How Feminine and Masculine Do Cisgender People in the U.S. Think the Average Gender Nonbinary Person Is?</description>
-  </item>
-  <item>
-    <title>地図は領域ではない：メンタライジング、認知的信頼、感情調整の測定における構成概念名、項目、および応答の検討</title>
-    <link>https://osf.io/g9fhq</link>
-    <guid isPermaLink="false">https://osf.io/g9fhq#ja</guid>
-    <pubDate>Sun, 25 Oct 2026 23:44:38 +0000</pubDate>
-    <description>The Map Is Not the Territory: Construct Names, Items, and Responses in Measures of Mentalizing, Epistemic Trust, and Emotion Regulation</description>
-  </item>
-  <item>
-    <title>乳児発達における先天性の特定：共決定に基づく理論構築の枠組み</title>
-    <link>https://osf.io/ypwv3</link>
-    <guid isPermaLink="false">https://osf.io/ypwv3#ja</guid>
-    <pubDate>Sun, 25 Oct 2026 23:44:37 +0000</pubDate>
-    <description>Specifying Innateness in Infant Development: A Framework for Theory-Building Based on Co-Determination</description>
-  </item>
-  <item>
-    <title>リアルタイム協力中の相互作用する兄弟ペア間の脳同期：fMRIハイパースキャニング研究</title>
-    <link>https://osf.io/kjc5s</link>
-    <guid isPermaLink="false">https://osf.io/kjc5s#ja</guid>
-    <pubDate>Sun, 25 Oct 2026 23:44:37 +0000</pubDate>
-    <description>Brain synchrony between interacting sibling pairs during real-time cooperation: an fMRI hyperscanning study</description>
-  </item>
-  <item>
-    <title>不眠症と悪夢傾向の関係における生理的過覚醒の検討</title>
-    <link>https://osf.io/8kp92</link>
-    <guid isPermaLink="false">https://osf.io/8kp92#ja</guid>
-    <pubDate>Sat, 24 Oct 2026 21:55:39 +0000</pubDate>
-    <description>Examining Physiological Hyperarousal in the Relationship Between Insomnia and Nightmare Proneness</description>
   </item>
 </channel>
 </rss>
