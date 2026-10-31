@@ -6,6 +6,27 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>強迫性障害患者の紹介傾向：イングランドのプライマリケア記録における10ポイントの社会的剥奪格差</title>
+    <link>https://osf.io/9gv32</link>
+    <guid isPermaLink="false">https://osf.io/9gv32#ja</guid>
+    <pubDate>Sat, 31 Oct 2026 17:58:40 +0000</pubDate>
+    <description>Who with OCD gets referred? A 10-point deprivation gap in English primary care records</description>
+  </item>
+  <item>
+    <title>共測定実験におけるモデル選択問題の規模について</title>
+    <link>https://osf.io/qwh64</link>
+    <guid isPermaLink="false">https://osf.io/qwh64#ja</guid>
+    <pubDate>Sat, 31 Oct 2026 17:58:39 +0000</pubDate>
+    <description>On the size of the model selection problem in a conjoint measurement experiment</description>
+  </item>
+  <item>
+    <title>自発的挑戦、幻覚、イメージ、運動マインドフルネス尺度（VCHIMMS）</title>
+    <link>https://osf.io/4pybc</link>
+    <guid isPermaLink="false">https://osf.io/4pybc#ja</guid>
+    <pubDate>Sat, 31 Oct 2026 17:58:39 +0000</pubDate>
+    <description>Voluntary Challenge, Hallucination, Imagery, and Motor Mindful Scale (VCHIMMS)</description>
+  </item>
+  <item>
     <title>日々の瞑想は自己慈悲を高めるか？ベイズ階層型日誌研究による検証</title>
     <link>https://osf.io/986ht</link>
     <guid isPermaLink="false">https://osf.io/986ht#ja</guid>
@@ -13,7 +34,7 @@
     <description>Does Daily Meditation Increase Self-Compassion? A Bayesian Multilevel Diary Study</description>
   </item>
   <item>
-    <title>空間システムとしての美術館：身体運動、視覚的比較および美術鑑賞における記憶の役割</title>
+    <title>空間システムとしての美術館：身体運動、視覚的比較、そして美術鑑賞における記憶</title>
     <link>https://osf.io/4kzxd</link>
     <guid isPermaLink="false">https://osf.io/4kzxd#ja</guid>
     <pubDate>Fri, 30 Oct 2026 22:24:11 +0000</pubDate>
@@ -34,7 +55,7 @@
     <description>Are males victims of intimate partner violence in Greece? Prevalence of the phenomenon and implications for mental health</description>
   </item>
   <item>
-    <title>瞬間的なパーソナライズによる構造化セルフヘルプ：ガイド付きデジタルメンタルヘルスプラットフォームに組み込まれたAIチャットボットを用いた学生の体験</title>
+    <title>瞬間的なパーソナライズを実現する構造化セルフヘルプ：ガイド付きデジタルメンタルヘルスプラットフォームにおける学生の埋め込み型AIチャットボット体験</title>
     <link>https://osf.io/scdb5</link>
     <guid isPermaLink="false">https://osf.io/scdb5#ja</guid>
     <pubDate>Fri, 30 Oct 2026 22:24:10 +0000</pubDate>
@@ -48,7 +69,7 @@
     <description>Cannabis Use and Binge Eating in Emerging Adults: High Prevalence and High Burden Across Ten Years of the Healthy Minds Study</description>
   </item>
   <item>
-    <title>ミソフォニアにおける反応性パターン：行動的および自己報告症状のプロファイル</title>
+    <title>ミソフォニアにおける反応性パターン：行動および自己報告症状のプロファイル</title>
     <link>https://osf.io/eqkxv</link>
     <guid isPermaLink="false">https://osf.io/eqkxv#ja</guid>
     <pubDate>Fri, 30 Oct 2026 22:24:09 +0000</pubDate>
@@ -62,14 +83,14 @@
     <description>Self-Reported Precipitants of Psychosis, Mania, and Depression: An AI-Assisted Analysis of Reddit</description>
   </item>
   <item>
-    <title>性的・ジェンダー少数者の新成人におけるストレッサーの日記調査：共同設計と予備的知見</title>
+    <title>性的・ジェンダー少数者の新成人における日々のストレス要因のデイリーダイアリー研究：共同設計と予備的知見</title>
     <link>https://osf.io/3sd9y</link>
     <guid isPermaLink="false">https://osf.io/3sd9y#ja</guid>
     <pubDate>Fri, 30 Oct 2026 22:24:09 +0000</pubDate>
     <description>Daily Diary Study of Sexual and Gender Minority Emerging Adults’ Stressors:  Codesign and Preliminary Findings</description>
   </item>
   <item>
-    <title>自閉症スペクトラムの青年における拒絶感受性の特徴付けと抑うつ・不安症状への影響</title>
+    <title>自閉症スペクトラムの思春期青年における拒絶感受性の特徴づけと抑うつ・不安症状への影響</title>
     <link>https://osf.io/74u8v</link>
     <guid isPermaLink="false">https://osf.io/74u8v#ja</guid>
     <pubDate>Fri, 30 Oct 2026 22:24:08 +0000</pubDate>
@@ -83,28 +104,28 @@
     <description>Developing and Validating a Measurement Scale to Assess Knowledge of Memory and Learning Processes Among Italian Teachers</description>
   </item>
   <item>
-    <title>外国語の使用は芸術をより深遠にしない―親しみやすさが影響する</title>
+    <title>外国語の使用は芸術をより深遠にしない―馴染み深さが影響する</title>
     <link>https://osf.io/xq8tr</link>
     <guid isPermaLink="false">https://osf.io/xq8tr#ja</guid>
     <pubDate>Fri, 30 Oct 2026 18:14:37 +0000</pubDate>
     <description>Using a Foreign Language Does Not Make the Art More Profound - Familiarity Does</description>
   </item>
   <item>
-    <title>職場の緑化と住み込みシフト労働者の仕事へのエンゲージメント：Popovら（2023）の概念的再検証</title>
+    <title>職場の緑化と住み込みシフト労働者の仕事への没頭：Popovら（2023）の概念的再検証</title>
     <link>https://osf.io/b9uhq</link>
     <guid isPermaLink="false">https://osf.io/b9uhq#ja</guid>
     <pubDate>Fri, 30 Oct 2026 18:14:37 +0000</pubDate>
     <description>Workplace Greenery and Work Engagement Among Live-In Shiftworkers: A Conceptual Replication of Popov et al. (2023)</description>
   </item>
   <item>
-    <title>月経周期相がPTSDに及ぼす影響：女性の症状表出、神経心理学および心理療法反応に関するスコーピングレビュー</title>
+    <title>月経周期段階がPTSDに及ぼす影響：女性における症状表出、神経心理学および心理療法反応のスコーピングレビュー</title>
     <link>https://osf.io/a6cy2</link>
     <guid isPermaLink="false">https://osf.io/a6cy2#ja</guid>
     <pubDate>Fri, 30 Oct 2026 12:45:20 +0000</pubDate>
     <description>The Role of Menstrual Cycle Phase in PTSD: A Scoping Review of Symptom Expression, Neuropsychology and Psychotherapy Response in Women</description>
   </item>
   <item>
-    <title>心による脳内身体マッピングの心理学的探究</title>
+    <title>心による脳内身体表象のマッピング</title>
     <link>https://osf.io/wtfcq</link>
     <guid isPermaLink="false">https://osf.io/wtfcq#ja</guid>
     <pubDate>Fri, 30 Oct 2026 12:45:20 +0000</pubDate>
@@ -125,7 +146,7 @@
     <description>Human likeness is a misplaced benchmark for artificial intelligence</description>
   </item>
   <item>
-    <title>その質問を覚えている：先行質問が読解に与える影響を眼球運動追跡で検証する</title>
+    <title>その質問を覚えている：アイ・トラッキングを用いた予備質問が読解に与える影響の検証</title>
     <link>https://osf.io/sd2hq</link>
     <guid isPermaLink="false">https://osf.io/sd2hq#ja</guid>
     <pubDate>Thu, 29 Oct 2026 20:44:41 +0000</pubDate>
@@ -146,28 +167,28 @@
     <description>Peer effects on risk of psychiatric disorders: A nationwide study of Norwegian adolescents</description>
   </item>
   <item>
-    <title>オープンリサーチ資料には明確な再利用ライセンスが必要である</title>
+    <title>オープンリサーチ資料には明確な再利用許諾が必要である</title>
     <link>https://osf.io/4rjg3</link>
     <guid isPermaLink="false">https://osf.io/4rjg3#ja</guid>
     <pubDate>Wed, 28 Oct 2026 23:38:31 +0000</pubDate>
     <description>Open research materials need explicit reuse licenses</description>
   </item>
   <item>
-    <title>ベイズ逐次解析の単一事例データへの応用：概念実証研究</title>
+    <title>単一事例データへのベイズ逐次解析の応用：概念実証研究</title>
     <link>https://osf.io/gpf4s</link>
     <guid isPermaLink="false">https://osf.io/gpf4s#ja</guid>
     <pubDate>Wed, 28 Oct 2026 23:38:30 +0000</pubDate>
     <description>Application of Bayesian Sequential Analyses to Single Case Data: A Proof-of-Principle Study</description>
   </item>
   <item>
-    <title>成人期全体にわたる習得年齢効果：複合語読解における眼球運動の証拠</title>
+    <title>成人期全般にわたる習得年齢効果：複合語読解における眼球運動の証拠</title>
     <link>https://osf.io/7trvs</link>
     <guid isPermaLink="false">https://osf.io/7trvs#ja</guid>
     <pubDate>Wed, 28 Oct 2026 23:38:30 +0000</pubDate>
     <description>Age-of-acquisition Effects across the Adult Lifespan: Evidence from Eye Movements in Compound Word Reading</description>
   </item>
   <item>
-    <title>食物臭は特別か？報酬反応研究における実験刺激としての食物臭に関する系統的レビュー</title>
+    <title>食物臭は特別か？報酬反応を研究するための実験刺激としての食物臭に関する系統的レビュー</title>
     <link>https://osf.io/9akny</link>
     <guid isPermaLink="false">https://osf.io/9akny#ja</guid>
     <pubDate>Wed, 28 Oct 2026 19:49:57 +0000</pubDate>
@@ -188,7 +209,7 @@
     <description>Persistent Belief Updating Despite Perfect Predictability – The Atypical Iterative Prior Updating Account Of Autism</description>
   </item>
   <item>
-    <title>ニュージーランド・アオテアロアにおけるギャング取締りへの公共支持：警察権限強化の規範的、道具的、および情動的予測因子</title>
+    <title>ギャング取締りに対する公共の支持：ニュージーランド・アオテアロアにおける警察権限強化の規範的、道具的、情動的予測因子</title>
     <link>https://osf.io/5xvr8</link>
     <guid isPermaLink="false">https://osf.io/5xvr8#ja</guid>
     <pubDate>Wed, 28 Oct 2026 19:49:56 +0000</pubDate>
@@ -209,14 +230,14 @@
     <description>No Memory Needed? Perceptual Matching Accounts for a Large Part of the Working Memory–Intelligence Link</description>
   </item>
   <item>
-    <title>エクスポージャー療法の一般化を超えて</title>
+    <title>エクスポージャーを超えて：曝露療法の一般化</title>
     <link>https://osf.io/dr8p2</link>
     <guid isPermaLink="false">https://osf.io/dr8p2#ja</guid>
     <pubDate>Wed, 28 Oct 2026 19:49:55 +0000</pubDate>
     <description>Mehr als Expo: Expositionstherapiegeneralisierung</description>
   </item>
   <item>
-    <title>精神保健専門職における精神疾患の内在的および顕在的スティグマの関係：系統的レビューとメタアナリシス</title>
+    <title>精神保健専門職者における精神疾患の暗黙的および明示的スティグマの関係：系統的レビューとメタアナリシス</title>
     <link>https://osf.io/cm6ud</link>
     <guid isPermaLink="false">https://osf.io/cm6ud#ja</guid>
     <pubDate>Wed, 28 Oct 2026 19:49:55 +0000</pubDate>
@@ -230,7 +251,7 @@
     <description>Study protocol for a randomised controlled trial of the BODYPOSI digital body image intervention for improving body image among postpartum women</description>
   </item>
   <item>
-    <title>教育における先制的学業ストレススクリーニング：NPRO-8コアメンタルフィットネス評価</title>
+    <title>教育における積極的学業ストレススクリーニング：NPRO-8コアメンタルフィットネス評価</title>
     <link>https://osf.io/3b2ny</link>
     <guid isPermaLink="false">https://osf.io/3b2ny#ja</guid>
     <pubDate>Wed, 28 Oct 2026 07:44:47 +0000</pubDate>
@@ -251,7 +272,7 @@
     <description>Parenting Stress and Child Anxiety: Exploring Potential Moderators</description>
   </item>
   <item>
-    <title>瞬間的および日常的な飲酒に関連する動機付けおよび制御過程の個人内変動と個人間差の検討</title>
+    <title>瞬間的および日々の飲酒に関連する動機付けおよび制御過程の個人内変動と個人間差の検討</title>
     <link>https://osf.io/6bxm3</link>
     <guid isPermaLink="false">https://osf.io/6bxm3#ja</guid>
     <pubDate>Tue, 27 Oct 2026 19:08:42 +0000</pubDate>
@@ -286,21 +307,21 @@
     <description>Deixis in the Graphic Domain - Young Children’s Comprehension of Arrows and Markers</description>
   </item>
   <item>
-    <title>PraBat：異文化背景を持つ就学前児童の語用能力の個人差を評価する項目反応理論に基づく検査バッテリー</title>
+    <title>PraBat：異文化背景を持つ就学前児の語用能力の個人差を評価する項目反応理論に基づく検査バッテリー</title>
     <link>https://osf.io/db6u4</link>
     <guid isPermaLink="false">https://osf.io/db6u4#ja</guid>
     <pubDate>Tue, 27 Oct 2026 19:08:41 +0000</pubDate>
     <description>PraBat: An item response theory-based test battery to assess individual differences in pragmatic abilities in preschool children from different cultural backgrounds</description>
   </item>
   <item>
-    <title>自殺イメージに対する統合スキル（I-SUIM）を用いた心理療法中の消費者の体験と変化の認知－混合方法ケースシリーズ研究</title>
+    <title>自殺イメージに対する統合的スキル（I-SUIM）を用いた心理療法中の消費者の体験と変化の認知－混合法による症例シリーズ研究</title>
     <link>https://osf.io/tfd37</link>
     <guid isPermaLink="false">https://osf.io/tfd37#ja</guid>
     <pubDate>Tue, 27 Oct 2026 19:08:41 +0000</pubDate>
     <description>Consumer experiences and perceptions of change during psychotherapy for suicide imagery – a mixed-methods case series of Integrated skills for SUicide IMagery (I-SUIM)</description>
   </item>
   <item>
-    <title>動物介在グループ心理療法を受ける青年期における抑うつとマインドフルネスのプロファイルおよびその変遷</title>
+    <title>動物介在グループ心理療法を受ける青少年におけるうつ症状とマインドフルネスのプロファイルおよびその変遷</title>
     <link>https://osf.io/fmrkp</link>
     <guid isPermaLink="false">https://osf.io/fmrkp#ja</guid>
     <pubDate>Tue, 27 Oct 2026 19:08:41 +0000</pubDate>
@@ -314,46 +335,25 @@
     <description>A REM Model of Collaborative Recognition Memory</description>
   </item>
   <item>
-    <title>平均行動を超えて：信頼と互恵性の動態が示す異なる行動表現型</title>
+    <title>平均的行動を超えて：信頼と互恵性の動態が示す異なる行動表現型</title>
     <link>https://osf.io/jwu42</link>
     <guid isPermaLink="false">https://osf.io/jwu42#ja</guid>
     <pubDate>Tue, 27 Oct 2026 19:08:41 +0000</pubDate>
     <description>Beyond Average Behaviour: Trust and Reciprocity Dynamics Reveal Distinct Behavioural Phenotypes</description>
   </item>
   <item>
-    <title>紛争影響下社会における集団被害者意識と政策支持の関連性</title>
+    <title>紛争影響下社会における集団的被害者意識と政策支持の関連性</title>
     <link>https://osf.io/n8gjv</link>
     <guid isPermaLink="false">https://osf.io/n8gjv#ja</guid>
     <pubDate>Tue, 27 Oct 2026 19:08:41 +0000</pubDate>
     <description>Collective Victimhood Beliefs and Policy Support Across Conflict-Affected Societies</description>
   </item>
   <item>
-    <title>比較詞「より」を用いた子どもの時間の数量化</title>
+    <title>比較表現「より」を用いた子どもの時間の数量化</title>
     <link>https://osf.io/jxrfw</link>
     <guid isPermaLink="false">https://osf.io/jxrfw#ja</guid>
     <pubDate>Tue, 27 Oct 2026 19:08:40 +0000</pubDate>
     <description>Children’s quantification of time with the comparative “more”</description>
-  </item>
-  <item>
-    <title>レバノン戦時下における宗派間連帯感の心理学的検討</title>
-    <link>https://osf.io/yqwgz</link>
-    <guid isPermaLink="false">https://osf.io/yqwgz#ja</guid>
-    <pubDate>Tue, 27 Oct 2026 19:08:40 +0000</pubDate>
-    <description>Inter-Sect Solidarity in Wartime Lebanon</description>
-  </item>
-  <item>
-    <title>境界線：陰謀論と誤情報の心理学</title>
-    <link>https://osf.io/vfnmw</link>
-    <guid isPermaLink="false">https://osf.io/vfnmw#ja</guid>
-    <pubDate>Tue, 27 Oct 2026 19:08:40 +0000</pubDate>
-    <description>Demarcation: conspiracy theories and misinformation</description>
-  </item>
-  <item>
-    <title>自伝的記憶における視覚的視点の時間的軌跡</title>
-    <link>https://osf.io/9m5nu</link>
-    <guid isPermaLink="false">https://osf.io/9m5nu#ja</guid>
-    <pubDate>Tue, 27 Oct 2026 19:08:40 +0000</pubDate>
-    <description>The Temporal Trajectory of Visual Perspective in Autobiographical Memory</description>
   </item>
 </channel>
 </rss>
