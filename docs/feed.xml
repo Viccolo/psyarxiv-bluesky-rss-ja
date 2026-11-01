@@ -6,14 +6,14 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>挑戦・幻覚・イメージ・運動示唆尺度（CHIMSS）</title>
+    <title>チャレンジ・幻覚・イメージ・運動示唆尺度（CHIMSS）</title>
     <link>https://osf.io/dfgcs</link>
     <guid isPermaLink="false">https://osf.io/dfgcs#ja</guid>
     <pubDate>Sat, 31 Oct 2026 21:03:44 +0000</pubDate>
     <description>Challenge, Hallucination, Imagery, and Motor Suggestion Scale (CHIMSS)</description>
   </item>
   <item>
-    <title>評判はいつ未来に役立つのか？世代間資源ジレンマにおける観衆の存在と自己同一性の開示</title>
+    <title>評判はいつ未来に役立つのか？世代間資源ジレンマにおける観衆の存在と自己開示の影響</title>
     <link>https://osf.io/zu9ap</link>
     <guid isPermaLink="false">https://osf.io/zu9ap#ja</guid>
     <pubDate>Sat, 31 Oct 2026 21:03:44 +0000</pubDate>
@@ -27,14 +27,14 @@
     <description>Beyond the Battlefield: A Cross-Sectional Study of War-Related Stressors and Mental Health in Four Central European Countries</description>
   </item>
   <item>
-    <title>COVID-19期における性別を超えたうつ病・不安症の併存：部分不変性と不変性部分剪定の検証</title>
+    <title>COVID-19期における性別を超えたうつ病・不安症の併存：部分不変性の評価と不変性部分剪定の検討</title>
     <link>https://osf.io/gwnav</link>
     <guid isPermaLink="false">https://osf.io/gwnav#ja</guid>
     <pubDate>Sat, 31 Oct 2026 21:03:44 +0000</pubDate>
     <description>Depression-Anxiety Comorbidity Across Sex During COVID-19: An Evaluation of Partial Invariance with Invariance Partial Pruning</description>
   </item>
   <item>
-    <title>抑制的認知制御がうつ病とインターネット依存の関連に及ぼす影響：課題遂行中fMRIによる活性化および課題調整機能的結合性の証拠</title>
+    <title>抑制的認知制御がうつ病とインターネット依存の関連に及ぼす抑止効果：課題遂行型fMRIによる活性化および課題調整機能的結合性の証拠</title>
     <link>https://osf.io/a4wf5</link>
     <guid isPermaLink="false">https://osf.io/a4wf5#ja</guid>
     <pubDate>Sat, 31 Oct 2026 21:03:44 +0000</pubDate>
@@ -62,7 +62,7 @@
     <description>Predicting Personality Traits from Short Unstructured Conversations with AI</description>
   </item>
   <item>
-    <title>強迫性障害の誰が紹介されるのか？イングランドのプライマリケア記録における10ポイントの社会的剥奪格差</title>
+    <title>強迫性障害患者の紹介傾向：イングランドのプライマリケア記録における10ポイントの社会的剥奪格差</title>
     <link>https://osf.io/9gv32</link>
     <guid isPermaLink="false">https://osf.io/9gv32#ja</guid>
     <pubDate>Sat, 31 Oct 2026 17:58:40 +0000</pubDate>
@@ -90,7 +90,7 @@
     <description>Does Daily Meditation Increase Self-Compassion? A Bayesian Multilevel Diary Study</description>
   </item>
   <item>
-    <title>空間システムとしての美術館：身体運動、視覚的比較および美術鑑賞における記憶の役割</title>
+    <title>美術鑑賞における身体運動、視覚的比較、記憶：博物館を空間システムとして捉える心理学的考察</title>
     <link>https://osf.io/4kzxd</link>
     <guid isPermaLink="false">https://osf.io/4kzxd#ja</guid>
     <pubDate>Fri, 30 Oct 2026 22:24:11 +0000</pubDate>
@@ -111,7 +111,7 @@
     <description>Are males victims of intimate partner violence in Greece? Prevalence of the phenomenon and implications for mental health</description>
   </item>
   <item>
-    <title>瞬間的なパーソナライズを実現する構造化セルフヘルプ：ガイド付きデジタルメンタルヘルスプラットフォームに組み込まれたAIチャットボットを用いた学生の体験</title>
+    <title>瞬間的なパーソナライズによる構造化セルフヘルプ：ガイド付きデジタルメンタルヘルスプラットフォームに組み込まれたAIチャットボットを用いた学生の体験</title>
     <link>https://osf.io/scdb5</link>
     <guid isPermaLink="false">https://osf.io/scdb5#ja</guid>
     <pubDate>Fri, 30 Oct 2026 22:24:10 +0000</pubDate>
@@ -125,7 +125,7 @@
     <description>Cannabis Use and Binge Eating in Emerging Adults: High Prevalence and High Burden Across Ten Years of the Healthy Minds Study</description>
   </item>
   <item>
-    <title>ミソフォニアにおける反応性パターン：行動および自己報告症状のプロファイル</title>
+    <title>ミソフォニアにおける反応性パターン：行動的および自己報告症状のプロファイル</title>
     <link>https://osf.io/eqkxv</link>
     <guid isPermaLink="false">https://osf.io/eqkxv#ja</guid>
     <pubDate>Fri, 30 Oct 2026 22:24:09 +0000</pubDate>
@@ -139,7 +139,7 @@
     <description>Self-Reported Precipitants of Psychosis, Mania, and Depression: An AI-Assisted Analysis of Reddit</description>
   </item>
   <item>
-    <title>性的および性別マイノリティの若年成人における日常的ストレス要因のデイリーダイアリー研究：共同設計と予備的知見</title>
+    <title>性的・ジェンダー少数者の若年成人における日々のストレス要因のデイリーダイアリー研究：共同設計と予備的知見</title>
     <link>https://osf.io/3sd9y</link>
     <guid isPermaLink="false">https://osf.io/3sd9y#ja</guid>
     <pubDate>Fri, 30 Oct 2026 22:24:09 +0000</pubDate>
@@ -167,21 +167,21 @@
     <description>Using a Foreign Language Does Not Make the Art More Profound - Familiarity Does</description>
   </item>
   <item>
-    <title>職場の緑化と住み込みシフト労働者の仕事への没頭：Popovら（2023）の概念的再検証</title>
+    <title>職場の緑化と住み込みシフト労働者の仕事へのエンゲージメント：Popovら（2023）の概念的再検証</title>
     <link>https://osf.io/b9uhq</link>
     <guid isPermaLink="false">https://osf.io/b9uhq#ja</guid>
     <pubDate>Fri, 30 Oct 2026 18:14:37 +0000</pubDate>
     <description>Workplace Greenery and Work Engagement Among Live-In Shiftworkers: A Conceptual Replication of Popov et al. (2023)</description>
   </item>
   <item>
-    <title>月経周期段階がPTSDに果たす役割：女性の症状表出、神経心理学および心理療法反応に関するスコーピングレビュー</title>
+    <title>月経周期段階がPTSDに及ぼす影響：女性の症状表出、神経心理学および心理療法反応に関するスコーピングレビュー</title>
     <link>https://osf.io/a6cy2</link>
     <guid isPermaLink="false">https://osf.io/a6cy2#ja</guid>
     <pubDate>Fri, 30 Oct 2026 12:45:20 +0000</pubDate>
     <description>The Role of Menstrual Cycle Phase in PTSD: A Scoping Review of Symptom Expression, Neuropsychology and Psychotherapy Response in Women</description>
   </item>
   <item>
-    <title>心による脳内身体表象のマッピング</title>
+    <title>心による脳内身体地図の形成</title>
     <link>https://osf.io/wtfcq</link>
     <guid isPermaLink="false">https://osf.io/wtfcq#ja</guid>
     <pubDate>Fri, 30 Oct 2026 12:45:20 +0000</pubDate>
@@ -202,21 +202,21 @@
     <description>Human likeness is a misplaced benchmark for artificial intelligence</description>
   </item>
   <item>
-    <title>あの質問を覚えている：アイ・トラッキングを用いた予備質問が読解に与える影響の検証</title>
+    <title>あの質問を覚えている：先行質問が読解に与える影響を眼球運動追跡で検証する</title>
     <link>https://osf.io/sd2hq</link>
     <guid isPermaLink="false">https://osf.io/sd2hq#ja</guid>
     <pubDate>Thu, 29 Oct 2026 20:44:41 +0000</pubDate>
     <description>I Remember That Question: Using Eye Tracking to See How Prequestions Shape Reading</description>
   </item>
   <item>
-    <title>低識字率かつ多言語環境における二言語識字能力と双方向的言語間転移の検討：ナイジェリア北東部の国内避難児童からの知見</title>
+    <title>低識字率かつ多言語環境における二言語識字能力と双方向の言語間転移の検討：ナイジェリア北東部の国内避難児童からの知見</title>
     <link>https://osf.io/wh8nz</link>
     <guid isPermaLink="false">https://osf.io/wh8nz#ja</guid>
     <pubDate>Wed, 28 Oct 2026 23:38:31 +0000</pubDate>
     <description>Examining Biliteracy and Bidirectional Cross-Linguistic Transfer in a Low Literacy and Multilingual Context: Insights from Internally Displaced Children in Northeast Nigeria</description>
   </item>
   <item>
-    <title>精神障害リスクに及ぼすピア効果：ノルウェー青少年の全国的研究</title>
+    <title>精神障害リスクにおけるピア効果：ノルウェー青少年の全国的研究</title>
     <link>https://osf.io/9c7jw</link>
     <guid isPermaLink="false">https://osf.io/9c7jw#ja</guid>
     <pubDate>Wed, 28 Oct 2026 23:38:31 +0000</pubDate>
@@ -237,21 +237,21 @@
     <description>Application of Bayesian Sequential Analyses to Single Case Data: A Proof-of-Principle Study</description>
   </item>
   <item>
-    <title>成人期全体にわたる習得年齢効果：複合語読解における眼球運動の証拠</title>
+    <title>成人期全般にわたる習得年齢効果：複合語読解における眼球運動の証拠</title>
     <link>https://osf.io/7trvs</link>
     <guid isPermaLink="false">https://osf.io/7trvs#ja</guid>
     <pubDate>Wed, 28 Oct 2026 23:38:30 +0000</pubDate>
     <description>Age-of-acquisition Effects across the Adult Lifespan: Evidence from Eye Movements in Compound Word Reading</description>
   </item>
   <item>
-    <title>食物臭は特別か？報酬反応を研究するための実験刺激としての食物臭に関する系統的レビュー</title>
+    <title>食物臭は特別か？報酬反応研究における実験刺激としての食物臭に関する系統的レビュー</title>
     <link>https://osf.io/9akny</link>
     <guid isPermaLink="false">https://osf.io/9akny#ja</guid>
     <pubDate>Wed, 28 Oct 2026 19:49:57 +0000</pubDate>
     <description>Are food odours special? A systematic review of food odours as experimental stimuli to study reward responses in human subjects</description>
   </item>
   <item>
-    <title>脳刺激はどの記憶を改善するか？プライミングの問題</title>
+    <title>脳刺激はどの記憶を改善するか？プライミング問題の検討</title>
     <link>https://osf.io/nmeqx</link>
     <guid isPermaLink="false">https://osf.io/nmeqx#ja</guid>
     <pubDate>Wed, 28 Oct 2026 19:49:56 +0000</pubDate>
@@ -272,7 +272,7 @@
     <description>Public support for policing gangs: normative, instrumental, and affective predictors of police empowerment in Aotearoa New Zealand</description>
   </item>
   <item>
-    <title>善悪と復讐心：自己擁護と他者支援の評価比較</title>
+    <title>善悪と復讐心：自己擁護行動と他者支援行動の評価比較</title>
     <link>https://osf.io/fd3g4</link>
     <guid isPermaLink="false">https://osf.io/fd3g4#ja</guid>
     <pubDate>Wed, 28 Oct 2026 19:49:56 +0000</pubDate>
@@ -293,14 +293,14 @@
     <description>Mehr als Expo: Expositionstherapiegeneralisierung</description>
   </item>
   <item>
-    <title>精神保健専門職者における精神疾患の暗黙的および顕在的スティグマの関係：系統的レビューとメタアナリシス</title>
+    <title>精神保健専門職における精神疾患の暗黙的および顕在的スティグマの関係：システマティックレビューとメタアナリシス</title>
     <link>https://osf.io/cm6ud</link>
     <guid isPermaLink="false">https://osf.io/cm6ud#ja</guid>
     <pubDate>Wed, 28 Oct 2026 19:49:55 +0000</pubDate>
     <description>The relationship between implicit and explicit stigma of mental illness among mental health clinicians: a systematic review and meta-analysis</description>
   </item>
   <item>
-    <title>産後女性の身体イメージ改善を目的としたBODYPOSIデジタル身体イメージ介入のランダム化比較試験に関する研究プロトコール</title>
+    <title>産後女性のボディイメージ改善を目的としたBODYPOSIデジタルボディイメージ介入のランダム化比較試験に関する研究プロトコル</title>
     <link>https://osf.io/zqtjy</link>
     <guid isPermaLink="false">https://osf.io/zqtjy#ja</guid>
     <pubDate>Wed, 28 Oct 2026 19:49:55 +0000</pubDate>
