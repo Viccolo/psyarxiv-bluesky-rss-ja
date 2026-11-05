@@ -6,6 +6,41 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>航空旅行中の移動補助具損傷の根本原因と予防策に関する迅速レビュー</title>
+    <link>https://osf.io/5r8w2</link>
+    <guid isPermaLink="false">https://osf.io/5r8w2#ja</guid>
+    <pubDate>Thu, 05 Nov 2026 21:48:47 +0000</pubDate>
+    <description>Root Causes and Prevention of Mobility Device Damage During Air Travel: A Rapid Review</description>
+  </item>
+  <item>
+    <title>複数集団間の測定不変性における同意傾向バイアスの歪み：木構造因子分析法のモンテカルロ比較</title>
+    <link>https://osf.io/myk4s</link>
+    <guid isPermaLink="false">https://osf.io/myk4s#ja</guid>
+    <pubDate>Thu, 05 Nov 2026 21:48:47 +0000</pubDate>
+    <description>Does Acquiescence Bias Distort Measurement Invariance Across Multiple Groups? A Monte Carlo Comparison of Tree-Based Factor Analytic Methods</description>
+  </item>
+  <item>
+    <title>変容した時間性のマッピング：自然主義的旅行報告に基づく人間検証済み大規模言語モデル分析</title>
+    <link>https://osf.io/rfvbm</link>
+    <guid isPermaLink="false">https://osf.io/rfvbm#ja</guid>
+    <pubDate>Thu, 05 Nov 2026 21:48:47 +0000</pubDate>
+    <description>Mapping Altered Temporality: Human-Validated LLM Analysis of Naturalistic Trip Reports</description>
+  </item>
+  <item>
+    <title>再現性研究</title>
+    <link>https://osf.io/ybz9a</link>
+    <guid isPermaLink="false">https://osf.io/ybz9a#ja</guid>
+    <pubDate>Thu, 05 Nov 2026 21:48:47 +0000</pubDate>
+    <description>Replication Research</description>
+  </item>
+  <item>
+    <title>低視力者のナビゲーションにおける現行ナビゲーション枠組みの課題：実験およびデザイン提案</title>
+    <link>https://osf.io/5cmdp</link>
+    <guid isPermaLink="false">https://osf.io/5cmdp#ja</guid>
+    <pubDate>Thu, 05 Nov 2026 21:48:47 +0000</pubDate>
+    <description>Low-Vision Navigation Reveals Shortcomings of Current Navigation Frameworks: Proposals for Experiments and Design</description>
+  </item>
+  <item>
     <title>予測符号化から適応的行動へ：精度調整としての認知制御</title>
     <link>https://osf.io/b8vpm</link>
     <guid isPermaLink="false">https://osf.io/b8vpm#ja</guid>
@@ -13,7 +48,7 @@
     <description>Cognitive Control as Precision Regulation: From Predictive Coding to Adaptive Behaviou</description>
   </item>
   <item>
-    <title>同じゴシップ、異なる判断：なぜ職場での不適切なゴシップがAIを対象とするとより容認されるのか</title>
+    <title>同じゴシップ、異なる判断：なぜ不適切な職場のゴシップはAIを対象とするとより容認されるのか</title>
     <link>https://osf.io/9vuat</link>
     <guid isPermaLink="false">https://osf.io/9vuat#ja</guid>
     <pubDate>Tue, 03 Nov 2026 19:51:06 +0000</pubDate>
@@ -41,14 +76,14 @@
     <description>German Adaptation and Psychometric Evaluation of the Conversation Questionnaire</description>
   </item>
   <item>
-    <title>ミールのクルード因子の概念的明確化と応用可能性に向けた事前登録済み系統的レビュー</title>
+    <title>ミールのクルード因子の概念的明確化とその応用可能性に関する事前登録済み系統的レビュー</title>
     <link>https://osf.io/n2y8s</link>
     <guid isPermaLink="false">https://osf.io/n2y8s#ja</guid>
     <pubDate>Tue, 03 Nov 2026 19:51:03 +0000</pubDate>
     <description>Towards a conceptual clarification and possible applications of Meehl’s crud factor: A preregistered systematic review</description>
   </item>
   <item>
-    <title>境界性パーソナリティ障害―診断を否定できない診断名：診断拒否が症状であるならば、診断は誤り得るのか？ChazhoorおよびYounger（2026）への応答</title>
+    <title>境界性パーソナリティ障害―診断を否定できない診断：診断拒否が症状であるならば、診断は誤り得るのか？ChazhoorとYounger（2026）への応答</title>
     <link>https://osf.io/nw3g7</link>
     <guid isPermaLink="false">https://osf.io/nw3g7#ja</guid>
     <pubDate>Mon, 02 Nov 2026 23:57:26 +0000</pubDate>
@@ -62,7 +97,7 @@
     <description>Effects of finding and savoring kawaii aspects of animal pictures on affective ratings, mood, and prosocial behavior</description>
   </item>
   <item>
-    <title>感情と自己・他者のリスク判断：対象に依存しない影響の証拠</title>
+    <title>感情と自己・他者のリスク判断：対象不変の影響に関する証拠</title>
     <link>https://osf.io/swmp3</link>
     <guid isPermaLink="false">https://osf.io/swmp3#ja</guid>
     <pubDate>Mon, 02 Nov 2026 23:57:25 +0000</pubDate>
@@ -90,21 +125,21 @@
     <description>Characterizing the Association between Delinquency and Parenting Practices Across Adolescence: Longitudinal Associations and the Role of Genetic Liability</description>
   </item>
   <item>
-    <title>自己は誰が書くのか？AI支援執筆下におけるアイデンティティ変容の持続性</title>
+    <title>自己は誰が書くのか？AI支援ライティング下におけるアイデンティティ変容の持続性</title>
     <link>https://osf.io/z4wna</link>
     <guid isPermaLink="false">https://osf.io/z4wna#ja</guid>
     <pubDate>Mon, 02 Nov 2026 23:57:25 +0000</pubDate>
     <description>Who Writes the Self? Identity Shift Persists Under AI-Assisted Writing</description>
   </item>
   <item>
-    <title>パートナー選好研究におけるコライダー・バイアス：Eastwickら（2024年）の方法論的拡張</title>
+    <title>パートナー選好研究におけるコライダーバイアス：Eastwickら（2024年）の方法論的拡張</title>
     <link>https://osf.io/vuxq4</link>
     <guid isPermaLink="false">https://osf.io/vuxq4#ja</guid>
     <pubDate>Mon, 02 Nov 2026 23:57:24 +0000</pubDate>
     <description>Collider Bias in Partner Preference Research: A Methodological Extension of Eastwick et al. (2024)</description>
   </item>
   <item>
-    <title>4つのエコロジカルモーメンタリーアセスメントデータセットにおける症状間相互作用は将来の症状状態を予測できない</title>
+    <title>4つのエコロジカル・モーメンタリー・アセスメントデータセットにおける症状間相互作用は将来の症状状態を予測できない</title>
     <link>https://osf.io/ct9nw</link>
     <guid isPermaLink="false">https://osf.io/ct9nw#ja</guid>
     <pubDate>Mon, 02 Nov 2026 23:57:24 +0000</pubDate>
@@ -125,7 +160,7 @@
     <description>The Cognitive Structure of the WPPSI-IV: What Can Network Analysis Tell Us?</description>
   </item>
   <item>
-    <title>米国成人における大量摂食エピソード、カンナビス使用および健康：横断的かつ探索的死亡率分析</title>
+    <title>米国成人における過食エピソード、カンナビス使用および健康状態：横断的かつ探索的死亡率分析</title>
     <link>https://osf.io/ms925</link>
     <guid isPermaLink="false">https://osf.io/ms925#ja</guid>
     <pubDate>Mon, 02 Nov 2026 23:57:24 +0000</pubDate>
@@ -139,21 +174,21 @@
     <description>Etude comparative des répercussions émotionnelles chez les primo-intervenants (pompiers, SMUR) et les psychologues</description>
   </item>
   <item>
-    <title>自己参照言語と他者参照言語がソーシャルメディア上の科学コンテンツへの関与に及ぼす影響：フィールド実験</title>
+    <title>自己参照言語と他者参照言語がソーシャルメディアにおける科学コンテンツへの関与に及ぼす影響：フィールド実験</title>
     <link>https://osf.io/3anz6</link>
     <guid isPermaLink="false">https://osf.io/3anz6#ja</guid>
     <pubDate>Mon, 02 Nov 2026 23:57:23 +0000</pubDate>
     <description>Effects of Self- and Other-Referencing Language on Engagement with Science Content on Social Media: A Field Experiment</description>
   </item>
   <item>
-    <title>米国成人における大麻関連薬物使用障害を伴う過食発作の併存率、負担および障害の実態</title>
+    <title>米国成人における大麻関連薬物使用障害を伴う過食発作の有病率、負担および障害の関連性</title>
     <link>https://osf.io/ut5g2</link>
     <guid isPermaLink="false">https://osf.io/ut5g2#ja</guid>
     <pubDate>Mon, 02 Nov 2026 23:57:23 +0000</pubDate>
     <description>Prevalence, Burden, and Disability Associated with Co-occurring Binge Eating Among U.S. Adults with Cannabis-Involved Drug Use Disorder</description>
   </item>
   <item>
-    <title>発達科学を家庭に近づける：乳幼児期研究への参加に関する保護者および専門家の視点</title>
+    <title>発達科学を家族に身近に：幼児期研究への参加に関する養育者と専門家の視点</title>
     <link>https://osf.io/fyuqp</link>
     <guid isPermaLink="false">https://osf.io/fyuqp#ja</guid>
     <pubDate>Mon, 02 Nov 2026 23:57:23 +0000</pubDate>
@@ -167,21 +202,21 @@
     <description>New money, no money, and psychological inheritance in the elasticity of 21st century happiness</description>
   </item>
   <item>
-    <title>AIが社会的存在となるとき：社会的脳の視点からみるメンタルヘルスにおけるAIコンパニオンの可能性とリスク</title>
+    <title>AIが社会的存在となるとき：社会的脳の視点から見るメンタルヘルスにおけるAIコンパニオンの可能性とリスク</title>
     <link>https://osf.io/n25bc</link>
     <guid isPermaLink="false">https://osf.io/n25bc#ja</guid>
     <pubDate>Mon, 02 Nov 2026 23:57:23 +0000</pubDate>
     <description>When AI becomes social: the promise and risks of AI companions for mental health – a social brain perspective</description>
   </item>
   <item>
-    <title>適応的聴覚刺激は聴覚呼吸協調を維持し自発呼吸の遅延を促進する</title>
+    <title>適応的聴覚刺激が聴覚-呼吸協調を維持し自発呼吸の遅延を促進する</title>
     <link>https://osf.io/qajb5</link>
     <guid isPermaLink="false">https://osf.io/qajb5#ja</guid>
     <pubDate>Mon, 02 Nov 2026 23:57:22 +0000</pubDate>
     <description>Adaptive auditory stimulation sustains auditory-respiratory coordination and promotes slowing of spontaneous breathing</description>
   </item>
   <item>
-    <title>AIへの信頼：デジタル社会における人間とAIの相互作用のための意思決定理論的枠組み</title>
+    <title>AIへの信頼：デジタル社会における人間とAIの相互作用に関する意思決定理論的枠組み</title>
     <link>https://osf.io/8nj6q</link>
     <guid isPermaLink="false">https://osf.io/8nj6q#ja</guid>
     <pubDate>Mon, 02 Nov 2026 23:57:22 +0000</pubDate>
@@ -195,7 +230,7 @@
     <description>Challenge, Hallucination, Imagery, and Motor Suggestion Scale (CHIMSS)</description>
   </item>
   <item>
-    <title>評判はいつ未来を助けるのか？世代間資源ジレンマにおける観衆の存在と自己開示の影響</title>
+    <title>評判はいつ未来を助けるのか？世代間資源ジレンマにおける観衆の存在と自己同一性の開示の影響</title>
     <link>https://osf.io/zu9ap</link>
     <guid isPermaLink="false">https://osf.io/zu9ap#ja</guid>
     <pubDate>Sat, 31 Oct 2026 21:03:44 +0000</pubDate>
@@ -216,35 +251,35 @@
     <description>Depression-Anxiety Comorbidity Across Sex During COVID-19: An Evaluation of Partial Invariance with Invariance Partial Pruning</description>
   </item>
   <item>
-    <title>うつ病とインターネット依存の関連に対する認知制御の抑制効果：課題遂行型fMRIによる活性化および課題変調機能的結合性の証拠</title>
+    <title>抑うつとインターネット依存の関連に対する認知制御の抑制効果：課題遂行型fMRIによる活性化および課題変調機能的結合の証拠</title>
     <link>https://osf.io/a4wf5</link>
     <guid isPermaLink="false">https://osf.io/a4wf5#ja</guid>
     <pubDate>Sat, 31 Oct 2026 21:03:44 +0000</pubDate>
     <description>Cognitive Control as a Brake on the Depression–Internet Addiction Link: Task-Based fMRI Evidence from Activation and Task-Modulated Functional Connectivity</description>
   </item>
   <item>
-    <title>創造性の暴走：陰謀論者および政治的過激派における意味的組織化の特徴</title>
+    <title>創造性の暴走：陰謀論者および政治的極端者における意味的組織化の特徴</title>
     <link>https://osf.io/gt2ra</link>
     <guid isPermaLink="false">https://osf.io/gt2ra#ja</guid>
     <pubDate>Sat, 31 Oct 2026 21:03:43 +0000</pubDate>
     <description>When Creativity Goes Rogue:  Semantic Organization in Conspiracy Thinkers and Politically Extreme Individuals</description>
   </item>
   <item>
-    <title>言語の架け橋としてのコミュニケーション再構築：失語症を有するバイリンガルの談話評価と治療の最良実践法</title>
+    <title>言語の架け橋となりコミュニケーションを再構築する：失語症を持つバイリンガルの談話評価と治療の最良実践法</title>
     <link>https://osf.io/7c96m</link>
     <guid isPermaLink="false">https://osf.io/7c96m#ja</guid>
     <pubDate>Sat, 31 Oct 2026 21:03:43 +0000</pubDate>
     <description>Bridging Languages, Rebuilding Communication: Best Practices for Assessing and Treating Discourse for Bilingual People with Aphasia</description>
   </item>
   <item>
-    <title>短い非構造化会話からAIを用いて性格特性を予測する研究</title>
+    <title>AIを用いた短時間の非構造化会話からのパーソナリティ特性予測</title>
     <link>https://osf.io/8476g</link>
     <guid isPermaLink="false">https://osf.io/8476g#ja</guid>
     <pubDate>Sat, 31 Oct 2026 21:03:43 +0000</pubDate>
     <description>Predicting Personality Traits from Short Unstructured Conversations with AI</description>
   </item>
   <item>
-    <title>強迫性障害の誰が紹介されるのか？イングランドのプライマリケア記録における10ポイントの社会的剥奪格差</title>
+    <title>強迫性障害患者の紹介傾向：イングランドのプライマリケア記録における10ポイントの社会的剥奪ギャップ</title>
     <link>https://osf.io/9gv32</link>
     <guid isPermaLink="false">https://osf.io/9gv32#ja</guid>
     <pubDate>Sat, 31 Oct 2026 17:58:40 +0000</pubDate>
@@ -258,21 +293,21 @@
     <description>On the size of the model selection problem in a conjoint measurement experiment</description>
   </item>
   <item>
-    <title>自発的挑戦、幻覚、イメージ、および運動マインドフルネス尺度（VCHIMMS）</title>
+    <title>自発的挑戦、幻覚、イメージ、運動マインドフルネス尺度（VCHIMMS）</title>
     <link>https://osf.io/4pybc</link>
     <guid isPermaLink="false">https://osf.io/4pybc#ja</guid>
     <pubDate>Sat, 31 Oct 2026 17:58:39 +0000</pubDate>
     <description>Voluntary Challenge, Hallucination, Imagery, and Motor Mindful Scale (VCHIMMS)</description>
   </item>
   <item>
-    <title>日々の瞑想は自己慈悲を高めるか？ベイズ多層日誌研究による検証</title>
+    <title>日々の瞑想は自己慈悲を高めるか？ベイズ階層型日誌研究による検証</title>
     <link>https://osf.io/986ht</link>
     <guid isPermaLink="false">https://osf.io/986ht#ja</guid>
     <pubDate>Fri, 30 Oct 2026 22:24:11 +0000</pubDate>
     <description>Does Daily Meditation Increase Self-Compassion? A Bayesian Multilevel Diary Study</description>
   </item>
   <item>
-    <title>空間システムとしての美術館：身体運動、視覚的比較および美術鑑賞における記憶の役割</title>
+    <title>空間システムとしての美術館：身体運動、視覚的比較および芸術鑑賞における記憶の役割</title>
     <link>https://osf.io/4kzxd</link>
     <guid isPermaLink="false">https://osf.io/4kzxd#ja</guid>
     <pubDate>Fri, 30 Oct 2026 22:24:11 +0000</pubDate>
@@ -314,46 +349,11 @@
     <description>Patterns of Reactivity in Misophonia: Profiles of Behavioral and Self-Reported Symptoms</description>
   </item>
   <item>
-    <title>精神病、躁病、うつ病の自己報告による誘因：RedditのAI支援分析</title>
+    <title>精神病、躁病、うつ病の自己報告された誘因：RedditデータのAI支援分析</title>
     <link>https://osf.io/qr2hk</link>
     <guid isPermaLink="false">https://osf.io/qr2hk#ja</guid>
     <pubDate>Fri, 30 Oct 2026 22:24:09 +0000</pubDate>
     <description>Self-Reported Precipitants of Psychosis, Mania, and Depression: An AI-Assisted Analysis of Reddit</description>
-  </item>
-  <item>
-    <title>性的およびジェンダー少数者の新成人におけるストレッサーの日誌調査：共同設計と予備的知見</title>
-    <link>https://osf.io/3sd9y</link>
-    <guid isPermaLink="false">https://osf.io/3sd9y#ja</guid>
-    <pubDate>Fri, 30 Oct 2026 22:24:09 +0000</pubDate>
-    <description>Daily Diary Study of Sexual and Gender Minority Emerging Adults’ Stressors:  Codesign and Preliminary Findings</description>
-  </item>
-  <item>
-    <title>自閉症スペクトラムの思春期青年における拒絶感受性の特徴づけと抑うつ・不安症状への影響</title>
-    <link>https://osf.io/74u8v</link>
-    <guid isPermaLink="false">https://osf.io/74u8v#ja</guid>
-    <pubDate>Fri, 30 Oct 2026 22:24:08 +0000</pubDate>
-    <description>Characterizing Rejection Sensitivity in Autistic Adolescents and Implications for Depression and Anxiety Symptoms</description>
-  </item>
-  <item>
-    <title>イタリア人教員の記憶および学習過程に関する知識を評価する測定尺度の開発と検証</title>
-    <link>https://osf.io/4ta89</link>
-    <guid isPermaLink="false">https://osf.io/4ta89#ja</guid>
-    <pubDate>Fri, 30 Oct 2026 22:24:08 +0000</pubDate>
-    <description>Developing and Validating a Measurement Scale to Assess Knowledge of Memory and Learning Processes Among Italian Teachers</description>
-  </item>
-  <item>
-    <title>外国語の使用は芸術をより深遠にしない―親しみやすさが影響する</title>
-    <link>https://osf.io/xq8tr</link>
-    <guid isPermaLink="false">https://osf.io/xq8tr#ja</guid>
-    <pubDate>Fri, 30 Oct 2026 18:14:37 +0000</pubDate>
-    <description>Using a Foreign Language Does Not Make the Art More Profound - Familiarity Does</description>
-  </item>
-  <item>
-    <title>職場の緑化と住み込みシフト労働者の仕事への没頭：Popovら（2023）の概念的再検証</title>
-    <link>https://osf.io/b9uhq</link>
-    <guid isPermaLink="false">https://osf.io/b9uhq#ja</guid>
-    <pubDate>Fri, 30 Oct 2026 18:14:37 +0000</pubDate>
-    <description>Workplace Greenery and Work Engagement Among Live-In Shiftworkers: A Conceptual Replication of Popov et al. (2023)</description>
   </item>
 </channel>
 </rss>
