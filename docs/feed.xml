@@ -6,14 +6,154 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>実験室からアプリへ（そしてその逆へ）：子どもと青年のためのエビデンスに基づくデジタルメンタルヘルス介入の概念的枠組み</title>
+    <title>思春期のメンタルヘルス予防を目的としたデジタル育児介入の開発知見とユーザー体験</title>
+    <link>https://osf.io/sy3nk</link>
+    <guid isPermaLink="false">https://osf.io/sy3nk#ja</guid>
+    <pubDate>Fri, 06 Nov 2026 21:30:51 +0000</pubDate>
+    <description>Development Insights and User Experience of a Preventive Digital Parenting Intervention for Adolescent Mental Health</description>
+  </item>
+  <item>
+    <title>不変の一致魅力効果：チェコ語における距離と関係節修飾の操作</title>
+    <link>https://osf.io/7th9j</link>
+    <guid isPermaLink="false">https://osf.io/7th9j#ja</guid>
+    <pubDate>Fri, 06 Nov 2026 21:30:51 +0000</pubDate>
+    <description>Invariant agreement attraction effects: Distance and RC modification manipulations in Czech</description>
+  </item>
+  <item>
+    <title>青年期の情動と持続可能な開発への関与を結ぶ三波長RI-CLPM分析</title>
+    <link>https://osf.io/cqfk4</link>
+    <guid isPermaLink="false">https://osf.io/cqfk4#ja</guid>
+    <pubDate>Fri, 06 Nov 2026 21:30:51 +0000</pubDate>
+    <description>A Three-Wave RI-CLPM Linking Adolescent Affect and their Engagement with Sustainable Development</description>
+  </item>
+  <item>
+    <title>受動的なスポンジではない：注意が散漫になると脳の環境同期が低下する場合</title>
+    <link>https://osf.io/jnsa9</link>
+    <guid isPermaLink="false">https://osf.io/jnsa9#ja</guid>
+    <pubDate>Fri, 06 Nov 2026 21:30:50 +0000</pubDate>
+    <description>Not passive sponges: When attention wanes, our brains are less synchronized with the environment</description>
+  </item>
+  <item>
+    <title>気候危機における効力感と希望に対する音楽的気分調整の役割</title>
+    <link>https://osf.io/8dn4g</link>
+    <guid isPermaLink="false">https://osf.io/8dn4g#ja</guid>
+    <pubDate>Fri, 06 Nov 2026 21:30:50 +0000</pubDate>
+    <description>The Role of Musical Mood Regulation for Efficacy Beliefs and Hope in the Climate Crisis</description>
+  </item>
+  <item>
+    <title>少数言語継承への準備：フリースラント州の妊娠中の親における言語管理の準備状況</title>
+    <link>https://osf.io/73w84</link>
+    <guid isPermaLink="false">https://osf.io/73w84#ja</guid>
+    <pubDate>Fri, 06 Nov 2026 21:30:50 +0000</pubDate>
+    <description>Getting ready for minority language transmission: Language management preparation among expecting parents in Fryslân</description>
+  </item>
+  <item>
+    <title>共有原因調整媒介（SCAM）：方法の導入と実証的応用</title>
+    <link>https://osf.io/z2hpt</link>
+    <guid isPermaLink="false">https://osf.io/z2hpt#ja</guid>
+    <pubDate>Fri, 06 Nov 2026 21:30:50 +0000</pubDate>
+    <description>Shared Cause Adjusted Mediation (SCAM): Introduction of method with empirical applications</description>
+  </item>
+  <item>
+    <title>遮蔽後の運動情報に依存する遮蔽運動の知覚</title>
+    <link>https://osf.io/zhjw3</link>
+    <guid isPermaLink="false">https://osf.io/zhjw3#ja</guid>
+    <pubDate>Fri, 06 Nov 2026 21:30:50 +0000</pubDate>
+    <description>Perception of occluded motion depends on post-occlusion motion information</description>
+  </item>
+  <item>
+    <title>二因子一般化認知診断モデルの枠組み</title>
+    <link>https://osf.io/jev3u</link>
+    <guid isPermaLink="false">https://osf.io/jev3u#ja</guid>
+    <pubDate>Fri, 06 Nov 2026 21:30:49 +0000</pubDate>
+    <description>A Bi-Factor Generalized Cognitive Diagnosis Model Framework</description>
+  </item>
+  <item>
+    <title>統制限界仮説に基づく統合失調症の研究</title>
+    <link>https://osf.io/jbkgr</link>
+    <guid isPermaLink="false">https://osf.io/jbkgr#ja</guid>
+    <pubDate>Fri, 06 Nov 2026 21:30:49 +0000</pubDate>
+    <description>The control limit hypothesis of schizophrenia</description>
+  </item>
+  <item>
+    <title>SaccadeJS：ウェブブラウザ上での行動実験のためのウェブカメラを用いた眼球運動追跡システム</title>
+    <link>https://osf.io/4z75t</link>
+    <guid isPermaLink="false">https://osf.io/4z75t#ja</guid>
+    <pubDate>Fri, 06 Nov 2026 21:30:49 +0000</pubDate>
+    <description>SaccadeJS: Webcam eye tracking for behavioral experiments in a web browser</description>
+  </item>
+  <item>
+    <title>若年層を対象としたデジタルメディア介入のリスクと機会：科学計量学的レビュー</title>
+    <link>https://osf.io/5xczu</link>
+    <guid isPermaLink="false">https://osf.io/5xczu#ja</guid>
+    <pubDate>Fri, 06 Nov 2026 21:30:49 +0000</pubDate>
+    <description>Risks and Opportunities in Digital Media Interventions for Youth: A Scientometric Review</description>
+  </item>
+  <item>
+    <title>子ども時代から思春期にかけての読書：家庭環境が行動、動機付け、熟達度に及ぼす持続的影響</title>
+    <link>https://osf.io/zdhc6</link>
+    <guid isPermaLink="false">https://osf.io/zdhc6#ja</guid>
+    <pubDate>Fri, 06 Nov 2026 21:30:49 +0000</pubDate>
+    <description>Reading from childhood to adolescence: enduring influences of home environment on behaviour, motivation and proficiency</description>
+  </item>
+  <item>
+    <title>ジェンダーインクルーシブな声とコミュニケーション訓練：ノンバイナリークライアントの支援</title>
+    <link>https://osf.io/rgx9n</link>
+    <guid isPermaLink="false">https://osf.io/rgx9n#ja</guid>
+    <pubDate>Fri, 06 Nov 2026 21:30:48 +0000</pubDate>
+    <description>Gender-Inclusive Voice and Communication Training: Supporting Nonbinary Clients</description>
+  </item>
+  <item>
+    <title>月経周期の状態と急性主観的サイケデリック体験</title>
+    <link>https://osf.io/734yn</link>
+    <guid isPermaLink="false">https://osf.io/734yn#ja</guid>
+    <pubDate>Fri, 06 Nov 2026 21:30:48 +0000</pubDate>
+    <description>Menstrual Cycle Status and the Acute Subjective Psychedelic Experience</description>
+  </item>
+  <item>
+    <title>馴染み深い語の象徴性が新語の意味形成に与える影響</title>
+    <link>https://osf.io/5kug3</link>
+    <guid isPermaLink="false">https://osf.io/5kug3#ja</guid>
+    <pubDate>Fri, 06 Nov 2026 21:30:48 +0000</pubDate>
+    <description>Familiar words iconicity shapes novel words meaning</description>
+  </item>
+  <item>
+    <title>指導者の観察がビデオ媒介トレーニングにおける外国語発話習得を促進する効果</title>
+    <link>https://osf.io/8qxve</link>
+    <guid isPermaLink="false">https://osf.io/8qxve#ja</guid>
+    <pubDate>Fri, 06 Nov 2026 21:30:48 +0000</pubDate>
+    <description>Being Observed by a Tutor Enhances Foreign Speech Production Learning in Video-Mediated Training</description>
+  </item>
+  <item>
+    <title>参加を超えて、意義ある包摂へ：特別支援教育を要する子ども・若者との経験に配慮した探究的アプローチ</title>
+    <link>https://osf.io/js3wm</link>
+    <guid isPermaLink="false">https://osf.io/js3wm#ja</guid>
+    <pubDate>Fri, 06 Nov 2026 21:30:48 +0000</pubDate>
+    <description>Beyond Participation, Towards Meaningful Inclusion:  An Experience-Sensitive Approach to Inquiry with Children and Young People with Special Educational Needs and Disabilities (SEND)</description>
+  </item>
+  <item>
+    <title>ダークトライアドと女性および男性における特性攻撃性：因子重複の実質的影響の解明</title>
+    <link>https://osf.io/b92ku</link>
+    <guid isPermaLink="false">https://osf.io/b92ku#ja</guid>
+    <pubDate>Fri, 06 Nov 2026 21:30:47 +0000</pubDate>
+    <description>The Dark Triad and trait aggression in women and men: Clarifying the substantive consequences of factor overlap</description>
+  </item>
+  <item>
+    <title>「『メンタルヘルス』と『精神疾患』の区別の欠如が人口の福祉に関する効果的な政策を阻害する」</title>
+    <link>https://osf.io/pfdy8</link>
+    <guid isPermaLink="false">https://osf.io/pfdy8#ja</guid>
+    <pubDate>Fri, 06 Nov 2026 21:30:47 +0000</pubDate>
+    <description>Failure to distinguish “mental health” from “mental illness” disrupts effective policy for population well-being</description>
+  </item>
+  <item>
+    <title>研究室からアプリへ（そして再び研究室へ）：子ども・青年のためのエビデンスに基づくデジタルメンタルヘルス介入の概念的枠組み</title>
     <link>https://osf.io/7g3mp</link>
     <guid isPermaLink="false">https://osf.io/7g3mp#ja</guid>
     <pubDate>Fri, 06 Nov 2026 16:12:27 +0000</pubDate>
     <description>From Lab to App (and Back): A Conceptual Framework for Evidence-Based Digital Mental Health Interventions in Children and Adolescents</description>
   </item>
   <item>
-    <title>文脈におけるリスク：気象が消費者の気候リスク認知に与える影響</title>
+    <title>文脈におけるリスク：気象が気候リスクに対する消費者の反応に与える影響</title>
     <link>https://osf.io/7eaw6</link>
     <guid isPermaLink="false">https://osf.io/7eaw6#ja</guid>
     <pubDate>Fri, 06 Nov 2026 16:12:27 +0000</pubDate>
@@ -27,14 +167,14 @@
     <description>Testing implications of the network theory of mental disorders in intensive short-term treatment</description>
   </item>
   <item>
-    <title>不平等は目に見えなくても窃盗を増加させ、信頼を低下させ、協力を損なうことがある</title>
+    <title>不平等は見えなくても窃盗を増加させ、信頼を低下させ、協力を損なう可能性がある</title>
     <link>https://osf.io/jskhb</link>
     <guid isPermaLink="false">https://osf.io/jskhb#ja</guid>
     <pubDate>Fri, 06 Nov 2026 16:12:27 +0000</pubDate>
     <description>Inequality Can Increase Stealing, Reduce Trust, and Undermine Cooperation, Even When It Is Invisible</description>
   </item>
   <item>
-    <title>事前登録プロトコル：自己評価による感覚知能のスコアリング―仮説H4からH7、カウントC1、固定語彙および採点ルールの検討（結果報告なし）</title>
+    <title>事前登録プロトコル：自己評価による感情知能のスコアリング—仮説H4からH7、カウントC1、固定語彙および採点規則に関する検討（結果未報告）</title>
     <link>https://osf.io/dfcmw</link>
     <guid isPermaLink="false">https://osf.io/dfcmw#ja</guid>
     <pubDate>Fri, 06 Nov 2026 16:12:27 +0000</pubDate>
@@ -48,7 +188,7 @@
     <description>Can LLMs Grow Like Children? A Developmental Analysis of Capability Trajectories in Language Model Training</description>
   </item>
   <item>
-    <title>生涯発達における対人関係および集団間紛争解決の異なる概念</title>
+    <title>生涯にわたる対人関係および集団間紛争解決の異なる概念</title>
     <link>https://osf.io/qkncd</link>
     <guid isPermaLink="false">https://osf.io/qkncd#ja</guid>
     <pubDate>Fri, 06 Nov 2026 08:32:49 +0000</pubDate>
@@ -69,21 +209,21 @@
     <description>Sleep and the Daytime Course of Anhedonia in Adolescent Depression: An Ecological Momentary Assessment Study</description>
   </item>
   <item>
-    <title>航空旅行中の移動補助具損傷の根本原因と予防策に関する迅速レビュー</title>
+    <title>航空旅行中の移動補助具損傷の根本原因と予防に関する迅速レビュー</title>
     <link>https://osf.io/5r8w2</link>
     <guid isPermaLink="false">https://osf.io/5r8w2#ja</guid>
     <pubDate>Thu, 05 Nov 2026 21:48:47 +0000</pubDate>
     <description>Root Causes and Prevention of Mobility Device Damage During Air Travel: A Rapid Review</description>
   </item>
   <item>
-    <title>服従傾向バイアスは複数集団間の測定不変性を歪めるか？木構造因子分析法のモンテカルロ比較</title>
+    <title>服従傾向バイアスは複数集団間の測定不変性を歪めるか？ツリーベース因子分析法のモンテカルロ比較</title>
     <link>https://osf.io/myk4s</link>
     <guid isPermaLink="false">https://osf.io/myk4s#ja</guid>
     <pubDate>Thu, 05 Nov 2026 21:48:47 +0000</pubDate>
     <description>Does Acquiescence Bias Distort Measurement Invariance Across Multiple Groups? A Monte Carlo Comparison of Tree-Based Factor Analytic Methods</description>
   </item>
   <item>
-    <title>変容した時間性のマッピング：自然主義的旅行報告に対する人間検証済み大規模言語モデル分析</title>
+    <title>変容した時間性のマッピング：自然主義的旅行報告に基づく人間検証済み大規模言語モデル分析</title>
     <link>https://osf.io/rfvbm</link>
     <guid isPermaLink="false">https://osf.io/rfvbm#ja</guid>
     <pubDate>Thu, 05 Nov 2026 21:48:47 +0000</pubDate>
@@ -132,7 +272,7 @@
     <description>GEST-A: A Hierarchical and Dynamic Framework of Conceptual Abstraction</description>
   </item>
   <item>
-    <title>会話質問票のドイツ語版適応と心理測定学的評価</title>
+    <title>会話質問票のドイツ語版作成と心理測定学的評価</title>
     <link>https://osf.io/6fpk2</link>
     <guid isPermaLink="false">https://osf.io/6fpk2#ja</guid>
     <pubDate>Tue, 03 Nov 2026 19:51:05 +0000</pubDate>
@@ -146,49 +286,49 @@
     <description>Towards a conceptual clarification and possible applications of Meehl’s crud factor: A preregistered systematic review</description>
   </item>
   <item>
-    <title>境界性パーソナリティ障害―診断を否定できない診断名：診断拒否が症状であるならば、診断は誤り得るのか？ChazhoorおよびYounger（2026）への応答</title>
+    <title>境界性パーソナリティ障害―診断を否定できない診断：診断拒否が症状であるならば、診断は誤り得るのか？Chazhoor and Younger（2026）への応答</title>
     <link>https://osf.io/nw3g7</link>
     <guid isPermaLink="false">https://osf.io/nw3g7#ja</guid>
     <pubDate>Mon, 02 Nov 2026 23:57:26 +0000</pubDate>
     <description>Borderline personality disorder, a diagnosis that cannot be challenged: If rejecting the diagnosis is a symptom, can the diagnosis ever be wrong? A response to Chazhoor and Younger (2026)</description>
   </item>
   <item>
-    <title>動物の写真における「かわいい」要素の発見と味わいが感情評価、気分、および親社会的行動に及ぼす影響</title>
+    <title>動物写真の「かわいい」要素の発見と味わいが感情評価、気分、および親社会的行動に及ぼす影響</title>
     <link>https://osf.io/6x2gc</link>
     <guid isPermaLink="false">https://osf.io/6x2gc#ja</guid>
     <pubDate>Mon, 02 Nov 2026 23:57:25 +0000</pubDate>
     <description>Effects of finding and savoring kawaii aspects of animal pictures on affective ratings, mood, and prosocial behavior</description>
   </item>
   <item>
-    <title>感情と自己・他者のリスク判断：対象不変の影響に関する証拠</title>
+    <title>感情と自己・他者のリスク判断：対象に依存しない影響の証拠</title>
     <link>https://osf.io/swmp3</link>
     <guid isPermaLink="false">https://osf.io/swmp3#ja</guid>
     <pubDate>Mon, 02 Nov 2026 23:57:25 +0000</pubDate>
     <description>Affect and Self–Other Risk Judgments: Evidence for Target-Invariant Influence</description>
   </item>
   <item>
-    <title>幾何学的類似性の実証的課題を克服する：モデルベースのレビュー</title>
+    <title>幾何学的類似性の実証的課題の克服：モデルベースのレビュー</title>
     <link>https://osf.io/pe2su</link>
     <guid isPermaLink="false">https://osf.io/pe2su#ja</guid>
     <pubDate>Mon, 02 Nov 2026 23:57:25 +0000</pubDate>
     <description>Overcoming the Empirical Challenges of Geometric Similarities: A Model-Based Review</description>
   </item>
   <item>
-    <title>妊娠前抑うつ症状の予後予測ツールの開発と検証：自己報告およびバイオマーカー指標を統合した二段階モデルの統計解析計画</title>
+    <title>妊娠前抑うつ症状の予後予測ツールの開発と検証：自己報告およびバイオマーカー測定を統合した二段階モデルの統計解析計画</title>
     <link>https://osf.io/hcgfx</link>
     <guid isPermaLink="false">https://osf.io/hcgfx#ja</guid>
     <pubDate>Mon, 02 Nov 2026 23:57:25 +0000</pubDate>
     <description>Development and validation of a prognostic tool for antenatal depressive symptoms: Statistical analysis plan for a two-stage model integrating self-reported and biomarker measures</description>
   </item>
   <item>
-    <title>青年期における非行と養育行動の関連性の特徴づけ：縦断的関連および遺伝的素因の役割</title>
+    <title>青年期における非行と養育行動の関連性の特徴づけ：縦断的関連と遺伝的素因の役割</title>
     <link>https://osf.io/asftx</link>
     <guid isPermaLink="false">https://osf.io/asftx#ja</guid>
     <pubDate>Mon, 02 Nov 2026 23:57:25 +0000</pubDate>
     <description>Characterizing the Association between Delinquency and Parenting Practices Across Adolescence: Longitudinal Associations and the Role of Genetic Liability</description>
   </item>
   <item>
-    <title>自己は誰が書くのか？AI支援執筆下におけるアイデンティティ変容の持続性</title>
+    <title>自己は誰が書くのか？AI支援ライティング下におけるアイデンティティの変容の持続性</title>
     <link>https://osf.io/z4wna</link>
     <guid isPermaLink="false">https://osf.io/z4wna#ja</guid>
     <pubDate>Mon, 02 Nov 2026 23:57:25 +0000</pubDate>
@@ -202,158 +342,18 @@
     <description>Collider Bias in Partner Preference Research: A Methodological Extension of Eastwick et al. (2024)</description>
   </item>
   <item>
-    <title>4つのエコロジカルモーメンタリーアセスメントデータセットにおける症状間相互作用は将来の症状状態を予測しない</title>
+    <title>4つのエコロジカルモーメンタリーアセスメントデータセットにおける症状間相互作用は将来の症状状態を予測できない</title>
     <link>https://osf.io/ct9nw</link>
     <guid isPermaLink="false">https://osf.io/ct9nw#ja</guid>
     <pubDate>Mon, 02 Nov 2026 23:57:24 +0000</pubDate>
     <description>Cross-Symptoms Interactions Fail to Predict Future Symptom States Across Four Ecological Momentary Assessment Datasets</description>
   </item>
   <item>
-    <title>AIは人間のファクトチェックを拡張できるか？コミュニティノートからの証拠</title>
+    <title>AIは人間の事実確認を拡大できるか？コミュニティノートからの証拠</title>
     <link>https://osf.io/n23zb</link>
     <guid isPermaLink="false">https://osf.io/n23zb#ja</guid>
     <pubDate>Mon, 02 Nov 2026 23:57:24 +0000</pubDate>
     <description>Can AI Scale Human Fact-Checking? Evidence from Community Notes</description>
-  </item>
-  <item>
-    <title>WPPSI-IVの認知構造：ネットワーク分析が示すものとは何か</title>
-    <link>https://osf.io/yq4ks</link>
-    <guid isPermaLink="false">https://osf.io/yq4ks#ja</guid>
-    <pubDate>Mon, 02 Nov 2026 23:57:24 +0000</pubDate>
-    <description>The Cognitive Structure of the WPPSI-IV: What Can Network Analysis Tell Us?</description>
-  </item>
-  <item>
-    <title>米国成人における過食エピソード、カンナビス使用および健康：横断的かつ探索的死亡率分析</title>
-    <link>https://osf.io/ms925</link>
-    <guid isPermaLink="false">https://osf.io/ms925#ja</guid>
-    <pubDate>Mon, 02 Nov 2026 23:57:24 +0000</pubDate>
-    <description>Large Eating Episodes, Cannabis Use, and Health in US Adults: A Cross-Sectional and Exploratory Mortality Analysis</description>
-  </item>
-  <item>
-    <title>初動対応者（消防士、救急医療隊員）と心理学者における感情的影響の比較研究</title>
-    <link>https://osf.io/pmkrd</link>
-    <guid isPermaLink="false">https://osf.io/pmkrd#ja</guid>
-    <pubDate>Mon, 02 Nov 2026 23:57:23 +0000</pubDate>
-    <description>Etude comparative des répercussions émotionnelles chez les primo-intervenants (pompiers, SMUR) et les psychologues</description>
-  </item>
-  <item>
-    <title>自己参照言語と他者参照言語がソーシャルメディアにおける科学コンテンツへの関与に及ぼす影響：フィールド実験</title>
-    <link>https://osf.io/3anz6</link>
-    <guid isPermaLink="false">https://osf.io/3anz6#ja</guid>
-    <pubDate>Mon, 02 Nov 2026 23:57:23 +0000</pubDate>
-    <description>Effects of Self- and Other-Referencing Language on Engagement with Science Content on Social Media: A Field Experiment</description>
-  </item>
-  <item>
-    <title>米国成人における大麻関連薬物使用障害と共存する過食症の有病率、負担および障害の実態</title>
-    <link>https://osf.io/ut5g2</link>
-    <guid isPermaLink="false">https://osf.io/ut5g2#ja</guid>
-    <pubDate>Mon, 02 Nov 2026 23:57:23 +0000</pubDate>
-    <description>Prevalence, Burden, and Disability Associated with Co-occurring Binge Eating Among U.S. Adults with Cannabis-Involved Drug Use Disorder</description>
-  </item>
-  <item>
-    <title>発達科学を家庭に近づける：幼児期研究への参加に関する養育者と専門家の視点</title>
-    <link>https://osf.io/fyuqp</link>
-    <guid isPermaLink="false">https://osf.io/fyuqp#ja</guid>
-    <pubDate>Mon, 02 Nov 2026 23:57:23 +0000</pubDate>
-    <description>Bringing developmental science closer to families: Caregivers’ and professionals’ perspectives on participation in early childhood research</description>
-  </item>
-  <item>
-    <title>21世紀の幸福の弾力性における新興富裕層、無資産層、および心理的継承</title>
-    <link>https://osf.io/76f8m</link>
-    <guid isPermaLink="false">https://osf.io/76f8m#ja</guid>
-    <pubDate>Mon, 02 Nov 2026 23:57:23 +0000</pubDate>
-    <description>New money, no money, and psychological inheritance in the elasticity of 21st century happiness</description>
-  </item>
-  <item>
-    <title>AIが社会的存在となるとき：社会的脳の視点からみるメンタルヘルスにおけるAIコンパニオンの可能性とリスク</title>
-    <link>https://osf.io/n25bc</link>
-    <guid isPermaLink="false">https://osf.io/n25bc#ja</guid>
-    <pubDate>Mon, 02 Nov 2026 23:57:23 +0000</pubDate>
-    <description>When AI becomes social: the promise and risks of AI companions for mental health – a social brain perspective</description>
-  </item>
-  <item>
-    <title>適応的聴覚刺激は聴覚呼吸協調を維持し自発呼吸の減速を促進する</title>
-    <link>https://osf.io/qajb5</link>
-    <guid isPermaLink="false">https://osf.io/qajb5#ja</guid>
-    <pubDate>Mon, 02 Nov 2026 23:57:22 +0000</pubDate>
-    <description>Adaptive auditory stimulation sustains auditory-respiratory coordination and promotes slowing of spontaneous breathing</description>
-  </item>
-  <item>
-    <title>AIへの信頼：デジタル社会における人間とAIの相互作用のための意思決定理論的枠組み</title>
-    <link>https://osf.io/8nj6q</link>
-    <guid isPermaLink="false">https://osf.io/8nj6q#ja</guid>
-    <pubDate>Mon, 02 Nov 2026 23:57:22 +0000</pubDate>
-    <description>Trust in AI: A Decision-Theoretic framework for Human–AI Interactions in the Digital Society</description>
-  </item>
-  <item>
-    <title>チャレンジ・幻覚・イメージ・運動示唆尺度（CHIMSS）</title>
-    <link>https://osf.io/dfgcs</link>
-    <guid isPermaLink="false">https://osf.io/dfgcs#ja</guid>
-    <pubDate>Sat, 31 Oct 2026 21:03:44 +0000</pubDate>
-    <description>Challenge, Hallucination, Imagery, and Motor Suggestion Scale (CHIMSS)</description>
-  </item>
-  <item>
-    <title>評判はいつ未来に役立つのか？世代間資源ジレンマにおける観衆の存在と自己開示の影響</title>
-    <link>https://osf.io/zu9ap</link>
-    <guid isPermaLink="false">https://osf.io/zu9ap#ja</guid>
-    <pubDate>Sat, 31 Oct 2026 21:03:44 +0000</pubDate>
-    <description>When Does Reputation Help the Future? Audience Presence and Identity Disclosure in Intergenerational Resource Dilemmas</description>
-  </item>
-  <item>
-    <title>戦場を越えて：中欧4か国における戦争関連ストレッサーと精神健康の横断的研究</title>
-    <link>https://osf.io/sar3b</link>
-    <guid isPermaLink="false">https://osf.io/sar3b#ja</guid>
-    <pubDate>Sat, 31 Oct 2026 21:03:44 +0000</pubDate>
-    <description>Beyond the Battlefield: A Cross-Sectional Study of War-Related Stressors and Mental Health in Four Central European Countries</description>
-  </item>
-  <item>
-    <title>COVID-19期における性別を超えたうつ病・不安症の併存：部分不変性の評価と不変性部分剪定の検討</title>
-    <link>https://osf.io/gwnav</link>
-    <guid isPermaLink="false">https://osf.io/gwnav#ja</guid>
-    <pubDate>Sat, 31 Oct 2026 21:03:44 +0000</pubDate>
-    <description>Depression-Anxiety Comorbidity Across Sex During COVID-19: An Evaluation of Partial Invariance with Invariance Partial Pruning</description>
-  </item>
-  <item>
-    <title>抑うつとインターネット依存の関連に対する認知制御の抑制効果：課題遂行型fMRIによる活性化および課題変調機能的結合性の証拠</title>
-    <link>https://osf.io/a4wf5</link>
-    <guid isPermaLink="false">https://osf.io/a4wf5#ja</guid>
-    <pubDate>Sat, 31 Oct 2026 21:03:44 +0000</pubDate>
-    <description>Cognitive Control as a Brake on the Depression–Internet Addiction Link: Task-Based fMRI Evidence from Activation and Task-Modulated Functional Connectivity</description>
-  </item>
-  <item>
-    <title>創造性の暴走：陰謀論者および政治的極端者における意味的組織化の特徴</title>
-    <link>https://osf.io/gt2ra</link>
-    <guid isPermaLink="false">https://osf.io/gt2ra#ja</guid>
-    <pubDate>Sat, 31 Oct 2026 21:03:43 +0000</pubDate>
-    <description>When Creativity Goes Rogue:  Semantic Organization in Conspiracy Thinkers and Politically Extreme Individuals</description>
-  </item>
-  <item>
-    <title>言語の架け橋としてのコミュニケーション再構築：失語症を有するバイリンガルの談話評価と治療における最良実践法</title>
-    <link>https://osf.io/7c96m</link>
-    <guid isPermaLink="false">https://osf.io/7c96m#ja</guid>
-    <pubDate>Sat, 31 Oct 2026 21:03:43 +0000</pubDate>
-    <description>Bridging Languages, Rebuilding Communication: Best Practices for Assessing and Treating Discourse for Bilingual People with Aphasia</description>
-  </item>
-  <item>
-    <title>AIを用いた短時間の非構造化会話からのパーソナリティ特性予測</title>
-    <link>https://osf.io/8476g</link>
-    <guid isPermaLink="false">https://osf.io/8476g#ja</guid>
-    <pubDate>Sat, 31 Oct 2026 21:03:43 +0000</pubDate>
-    <description>Predicting Personality Traits from Short Unstructured Conversations with AI</description>
-  </item>
-  <item>
-    <title>強迫性障害患者の紹介傾向：イングランドのプライマリケア記録における10ポイントの社会的資源不足ギャップ</title>
-    <link>https://osf.io/9gv32</link>
-    <guid isPermaLink="false">https://osf.io/9gv32#ja</guid>
-    <pubDate>Sat, 31 Oct 2026 17:58:40 +0000</pubDate>
-    <description>Who with OCD gets referred? A 10-point deprivation gap in English primary care records</description>
-  </item>
-  <item>
-    <title>連合測定実験におけるモデル選択問題の規模について</title>
-    <link>https://osf.io/qwh64</link>
-    <guid isPermaLink="false">https://osf.io/qwh64#ja</guid>
-    <pubDate>Sat, 31 Oct 2026 17:58:39 +0000</pubDate>
-    <description>On the size of the model selection problem in a conjoint measurement experiment</description>
   </item>
 </channel>
 </rss>
