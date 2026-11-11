@@ -6,6 +6,20 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>複数研究におけるベイズ因子の乗算：我々はどの仮説を検証しているのか？</title>
+    <link>https://osf.io/bwtxv</link>
+    <guid isPermaLink="false">https://osf.io/bwtxv#ja</guid>
+    <pubDate>Wed, 11 Nov 2026 17:20:47 +0000</pubDate>
+    <description>Multiplying Bayes Factors Across Studies: Which Hypotheses Are We Testing?</description>
+  </item>
+  <item>
+    <title>好奇心の認識と評価：初期の好奇的行動に対する親の判断における国際的類似点と相違点</title>
+    <link>https://osf.io/k5fuv</link>
+    <guid isPermaLink="false">https://osf.io/k5fuv#ja</guid>
+    <pubDate>Wed, 11 Nov 2026 17:20:47 +0000</pubDate>
+    <description>Recognizing versus valuing curiosity: Cross-country similarities and differences in parental judgments of early curious behaviors</description>
+  </item>
+  <item>
     <title>横断的強迫性から臨床応用へ：研究と臨床をつなぐ計算精神医学のアプローチ</title>
     <link>https://osf.io/uswbg</link>
     <guid isPermaLink="false">https://osf.io/uswbg#ja</guid>
@@ -27,14 +41,14 @@
     <description>The social ecology of trustworthiness inferences: Cultural gradients in emotion overgeneralization</description>
   </item>
   <item>
-    <title>どの認知歪曲が混同されやすいか？支配的認知歪曲分類における言語モデルの統制比較</title>
+    <title>どの認知歪みが混同されやすいか？主要認知歪み分類における言語モデルの統制比較</title>
     <link>https://osf.io/8wd2x</link>
     <guid isPermaLink="false">https://osf.io/8wd2x#ja</guid>
     <pubDate>Wed, 11 Nov 2026 09:28:17 +0000</pubDate>
     <description>Which Distortion gets confused? A Controlled Comparison of Language Models for Dominant Cognitive Distortion Classification</description>
   </item>
   <item>
-    <title>シミュレーテッドTwitter課題におけるソーシャルメディア利用者の誤情報関与における個人差の検討</title>
+    <title>シミュレーテッドTwitter課題におけるソーシャルメディア利用者の誤情報関与に関する個人差の検討</title>
     <link>https://osf.io/4tm37</link>
     <guid isPermaLink="false">https://osf.io/4tm37#ja</guid>
     <pubDate>Wed, 11 Nov 2026 09:28:16 +0000</pubDate>
@@ -55,14 +69,14 @@
     <description>Neuroscience-informed psychoeducation for cognitive rehabilitation</description>
   </item>
   <item>
-    <title>産業・労働・組織心理学におけるデータ透明性：データ共有と再利用のための文書化入門</title>
+    <title>産業・労働・組織心理学におけるデータ透明性：データ共有と再利用のためのドキュメンテーション入門</title>
     <link>https://osf.io/m3tqf</link>
     <guid isPermaLink="false">https://osf.io/m3tqf#ja</guid>
     <pubDate>Tue, 10 Nov 2026 22:32:35 +0000</pubDate>
     <description>Data Transparency in Industrial, Work, and Organizational Psychology: A Primer on Data Sharing and Documentation of Data Reuse</description>
   </item>
   <item>
-    <title>時間の重要性：心理学研究におけるターゲット試行エミュレーションの基準時点の特定</title>
+    <title>時間の重要性：心理学研究におけるターゲット試行模倣の基準時点の特定</title>
     <link>https://osf.io/aqkyv</link>
     <guid isPermaLink="false">https://osf.io/aqkyv#ja</guid>
     <pubDate>Tue, 10 Nov 2026 22:32:34 +0000</pubDate>
@@ -83,7 +97,7 @@
     <description>Celebrity Endorsement and Meditation Intention: A Randomized Experiment</description>
   </item>
   <item>
-    <title>ダウン症成人を対象としたランダム化比較試験における被験者募集と維持に関する系統的レビュー</title>
+    <title>成人ダウン症候群を対象としたランダム化比較試験における参加者募集と維持に関する系統的レビュー</title>
     <link>https://osf.io/qchpw</link>
     <guid isPermaLink="false">https://osf.io/qchpw#ja</guid>
     <pubDate>Tue, 10 Nov 2026 22:32:34 +0000</pubDate>
@@ -111,7 +125,7 @@
     <description>Mediterranean-style dietary components and self-reported depression: a cross-sectional analysis of 502,359 UK adults in the UK Biobank cohort</description>
   </item>
   <item>
-    <title>職場の寛容性と個人の自律性は仕事へのエンゲージメントと関連するか ―心理的安全性と内発的動機づけの媒介分析</title>
+    <title>職場の寛容性と個人の自律性は仕事へのエンゲージメントと関連するか ― 心理的安全性と内発的動機づけの媒介分析</title>
     <link>https://osf.io/bu7jp</link>
     <guid isPermaLink="false">https://osf.io/bu7jp#ja</guid>
     <pubDate>Tue, 10 Nov 2026 17:44:37 +0000</pubDate>
@@ -146,14 +160,14 @@
     <description>Development Insights and User Experience of a Preventive Digital Parenting Intervention for Adolescent Mental Health</description>
   </item>
   <item>
-    <title>不変の一致引き寄せ効果：チェコ語における距離と関係節修飾の操作</title>
+    <title>不変の一致魅力効果：チェコ語における距離と関係節修飾の操作</title>
     <link>https://osf.io/7th9j</link>
     <guid isPermaLink="false">https://osf.io/7th9j#ja</guid>
     <pubDate>Fri, 06 Nov 2026 21:30:51 +0000</pubDate>
     <description>Invariant agreement attraction effects: Distance and RC modification manipulations in Czech</description>
   </item>
   <item>
-    <title>青年期の情動と持続可能な開発への関与を結ぶ三波長RI-CLPM研究</title>
+    <title>青年期の感情と持続可能な開発への関与を結ぶ三波長RI-CLPM分析</title>
     <link>https://osf.io/cqfk4</link>
     <guid isPermaLink="false">https://osf.io/cqfk4#ja</guid>
     <pubDate>Fri, 06 Nov 2026 21:30:51 +0000</pubDate>
@@ -181,7 +195,7 @@
     <description>Getting ready for minority language transmission: Language management preparation among expecting parents in Fryslân</description>
   </item>
   <item>
-    <title>共有原因調整媒介（SCAM）：実証的応用を伴う手法の導入</title>
+    <title>共有原因調整媒介（SCAM）：方法の導入と実証的応用</title>
     <link>https://osf.io/z2hpt</link>
     <guid isPermaLink="false">https://osf.io/z2hpt#ja</guid>
     <pubDate>Fri, 06 Nov 2026 21:30:50 +0000</pubDate>
@@ -216,7 +230,7 @@
     <description>SaccadeJS: Webcam eye tracking for behavioral experiments in a web browser</description>
   </item>
   <item>
-    <title>若年層におけるデジタルメディア介入のリスクと機会：科学計量学的レビュー</title>
+    <title>若年層を対象としたデジタルメディア介入のリスクと機会：科学計量学的レビュー</title>
     <link>https://osf.io/5xczu</link>
     <guid isPermaLink="false">https://osf.io/5xczu#ja</guid>
     <pubDate>Fri, 06 Nov 2026 21:30:49 +0000</pubDate>
@@ -251,21 +265,21 @@
     <description>Familiar words iconicity shapes novel words meaning</description>
   </item>
   <item>
-    <title>指導者の観察がビデオ媒介トレーニングにおける外国語発話学習を促進する効果</title>
+    <title>チューターによる観察がビデオ媒介トレーニングにおける外国語発話産出学習を促進する</title>
     <link>https://osf.io/8qxve</link>
     <guid isPermaLink="false">https://osf.io/8qxve#ja</guid>
     <pubDate>Fri, 06 Nov 2026 21:30:48 +0000</pubDate>
     <description>Being Observed by a Tutor Enhances Foreign Speech Production Learning in Video-Mediated Training</description>
   </item>
   <item>
-    <title>参加を超えて、意義ある包摂へ：特別支援教育を要する子ども・若者との経験に配慮した探究的アプローチ</title>
+    <title>参加を超えて、意味ある包摂へ：特別支援教育を要する子ども・若者との経験に配慮した探究的アプローチ</title>
     <link>https://osf.io/js3wm</link>
     <guid isPermaLink="false">https://osf.io/js3wm#ja</guid>
     <pubDate>Fri, 06 Nov 2026 21:30:48 +0000</pubDate>
     <description>Beyond Participation, Towards Meaningful Inclusion:  An Experience-Sensitive Approach to Inquiry with Children and Young People with Special Educational Needs and Disabilities (SEND)</description>
   </item>
   <item>
-    <title>ダークトライアドと攻撃性特性における男女差：因子重複の実質的影響の解明</title>
+    <title>ダークトライアドと女性および男性における特性攻撃性：因子重複の実質的影響の解明</title>
     <link>https://osf.io/b92ku</link>
     <guid isPermaLink="false">https://osf.io/b92ku#ja</guid>
     <pubDate>Fri, 06 Nov 2026 21:30:47 +0000</pubDate>
@@ -279,14 +293,14 @@
     <description>Failure to distinguish “mental health” from “mental illness” disrupts effective policy for population well-being</description>
   </item>
   <item>
-    <title>研究室からアプリへ（そしてその逆へ）：子どもと青年のためのエビデンスに基づくデジタルメンタルヘルス介入の概念的枠組み</title>
+    <title>研究室からアプリへ（そして再び）：子ども・青年のためのエビデンスに基づくデジタルメンタルヘルス介入の概念的枠組み</title>
     <link>https://osf.io/7g3mp</link>
     <guid isPermaLink="false">https://osf.io/7g3mp#ja</guid>
     <pubDate>Fri, 06 Nov 2026 16:12:27 +0000</pubDate>
     <description>From Lab to App (and Back): A Conceptual Framework for Evidence-Based Digital Mental Health Interventions in Children and Adolescents</description>
   </item>
   <item>
-    <title>文脈におけるリスク：気象が消費者の気候リスク認知に与える影響</title>
+    <title>文脈におけるリスク：気象が気候リスクに対する消費者の反応に与える影響</title>
     <link>https://osf.io/7eaw6</link>
     <guid isPermaLink="false">https://osf.io/7eaw6#ja</guid>
     <pubDate>Fri, 06 Nov 2026 16:12:27 +0000</pubDate>
@@ -300,14 +314,14 @@
     <description>Testing implications of the network theory of mental disorders in intensive short-term treatment</description>
   </item>
   <item>
-    <title>不平等は見えなくても窃盗を増加させ、信頼を低下させ、協力を損なう可能性がある</title>
+    <title>不平等は見えなくても窃盗を増加させ、信頼を減少させ、協力を損なう可能性がある</title>
     <link>https://osf.io/jskhb</link>
     <guid isPermaLink="false">https://osf.io/jskhb#ja</guid>
     <pubDate>Fri, 06 Nov 2026 16:12:27 +0000</pubDate>
     <description>Inequality Can Increase Stealing, Reduce Trust, and Undermine Cooperation, Even When It Is Invisible</description>
   </item>
   <item>
-    <title>事前登録プロトコル：自己評価による感情知能の測定。仮説H4からH7、カウントC1、固定語彙および採点ルール。結果は報告されていない。</title>
+    <title>事前登録プロトコル：自己評価による感情知能の測定。仮説H4からH7、カウントC1、固定語彙および採点規則。結果は報告されていない。</title>
     <link>https://osf.io/dfcmw</link>
     <guid isPermaLink="false">https://osf.io/dfcmw#ja</guid>
     <pubDate>Fri, 06 Nov 2026 16:12:27 +0000</pubDate>
@@ -321,7 +335,7 @@
     <description>Can LLMs Grow Like Children? A Developmental Analysis of Capability Trajectories in Language Model Training</description>
   </item>
   <item>
-    <title>生涯にわたる対人関係および集団間葛藤解決の異なる概念</title>
+    <title>生涯にわたる対人および集団間葛藤解決の異なる概念</title>
     <link>https://osf.io/qkncd</link>
     <guid isPermaLink="false">https://osf.io/qkncd#ja</guid>
     <pubDate>Fri, 06 Nov 2026 08:32:49 +0000</pubDate>
@@ -340,20 +354,6 @@
     <guid isPermaLink="false">https://osf.io/2q3tp#ja</guid>
     <pubDate>Fri, 06 Nov 2026 08:32:48 +0000</pubDate>
     <description>Sleep and the Daytime Course of Anhedonia in Adolescent Depression: An Ecological Momentary Assessment Study</description>
-  </item>
-  <item>
-    <title>航空旅行中の移動補助具損傷の根本原因と予防策に関する迅速レビュー</title>
-    <link>https://osf.io/5r8w2</link>
-    <guid isPermaLink="false">https://osf.io/5r8w2#ja</guid>
-    <pubDate>Thu, 05 Nov 2026 21:48:47 +0000</pubDate>
-    <description>Root Causes and Prevention of Mobility Device Damage During Air Travel: A Rapid Review</description>
-  </item>
-  <item>
-    <title>服従傾向バイアスは複数集団間の測定不変性を歪めるか？ツリーベース因子分析法のモンテカルロ比較</title>
-    <link>https://osf.io/myk4s</link>
-    <guid isPermaLink="false">https://osf.io/myk4s#ja</guid>
-    <pubDate>Thu, 05 Nov 2026 21:48:47 +0000</pubDate>
-    <description>Does Acquiescence Bias Distort Measurement Invariance Across Multiple Groups? A Monte Carlo Comparison of Tree-Based Factor Analytic Methods</description>
   </item>
 </channel>
 </rss>
