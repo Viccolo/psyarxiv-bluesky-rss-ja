@@ -6,14 +6,21 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>研究間でベイズ因子を乗算する際に検証される仮説とは何か？</title>
+    <title>社会的・情動的・行動的スキルの実践的活用：SEBスキルと職業達成、態度、行動、興味、価値観との強固な関連性</title>
+    <link>https://osf.io/kg4an</link>
+    <guid isPermaLink="false">https://osf.io/kg4an#ja</guid>
+    <pubDate>Thu, 12 Nov 2026 20:22:37 +0000</pubDate>
+    <description>Putting social, emotional, and behavioral skills to work: SEB skills are robustly linked with occupational attainment, attitudes, behaviors, interests, and values</description>
+  </item>
+  <item>
+    <title>複数研究におけるベイズ因子の乗算：我々はどの仮説を検証しているのか？</title>
     <link>https://osf.io/bwtxv</link>
     <guid isPermaLink="false">https://osf.io/bwtxv#ja</guid>
     <pubDate>Wed, 11 Nov 2026 17:20:47 +0000</pubDate>
     <description>Multiplying Bayes Factors Across Studies: Which Hypotheses Are We Testing?</description>
   </item>
   <item>
-    <title>好奇心の認識と評価：初期の好奇的行動に対する親の判断における国際的類似点と相違点</title>
+    <title>好奇心の認知と評価：初期の好奇的行動に対する親の判断における国際的類似点と相違点</title>
     <link>https://osf.io/k5fuv</link>
     <guid isPermaLink="false">https://osf.io/k5fuv#ja</guid>
     <pubDate>Wed, 11 Nov 2026 17:20:47 +0000</pubDate>
@@ -41,21 +48,21 @@
     <description>The social ecology of trustworthiness inferences: Cultural gradients in emotion overgeneralization</description>
   </item>
   <item>
-    <title>どの認知歪みが混同されやすいか？主要認知歪み分類における言語モデルの制御比較</title>
+    <title>どの認知歪曲が混同されやすいか？主要認知歪曲分類における言語モデルの制御比較</title>
     <link>https://osf.io/8wd2x</link>
     <guid isPermaLink="false">https://osf.io/8wd2x#ja</guid>
     <pubDate>Wed, 11 Nov 2026 09:28:17 +0000</pubDate>
     <description>Which Distortion gets confused? A Controlled Comparison of Language Models for Dominant Cognitive Distortion Classification</description>
   </item>
   <item>
-    <title>シミュレーテッドTwitter課題におけるソーシャルメディア利用者の誤情報関与に関する個人差の検討</title>
+    <title>シミュレーテッドTwitter課題におけるソーシャルメディア利用者の誤情報関与における個人差の検討</title>
     <link>https://osf.io/4tm37</link>
     <guid isPermaLink="false">https://osf.io/4tm37#ja</guid>
     <pubDate>Wed, 11 Nov 2026 09:28:16 +0000</pubDate>
     <description>Examining Individual Differences in Misinformation Engagement among Social Media Users in a Simulated Twitter Task</description>
   </item>
   <item>
-    <title>強迫性傾向の高い個人における意味的抑制中の前補足運動野活動の変容</title>
+    <title>強迫性傾向の高い個人における意味的抑制時の前補足運動野動員の変化</title>
     <link>https://osf.io/45rm7</link>
     <guid isPermaLink="false">https://osf.io/45rm7#ja</guid>
     <pubDate>Tue, 10 Nov 2026 22:32:35 +0000</pubDate>
@@ -90,14 +97,14 @@
     <description>Cognitive Polyphasia and Cognitive Dissonance: An Integrative Model for Understanding Inconsistency Management Within Social Representations Theory</description>
   </item>
   <item>
-    <title>著名人推薦と瞑想意図：ランダム化実験研究</title>
+    <title>著名人推薦と瞑想意図：無作為化実験研究</title>
     <link>https://osf.io/cv2s8</link>
     <guid isPermaLink="false">https://osf.io/cv2s8#ja</guid>
     <pubDate>Tue, 10 Nov 2026 22:32:34 +0000</pubDate>
     <description>Celebrity Endorsement and Meditation Intention: A Randomized Experiment</description>
   </item>
   <item>
-    <title>ダウン症成人を対象としたランダム化比較試験における参加者募集と維持に関する系統的レビュー</title>
+    <title>ダウン症成人を対象としたランダム化比較試験における参加者募集および維持に関する系統的レビュー</title>
     <link>https://osf.io/qchpw</link>
     <guid isPermaLink="false">https://osf.io/qchpw#ja</guid>
     <pubDate>Tue, 10 Nov 2026 22:32:34 +0000</pubDate>
@@ -111,7 +118,7 @@
     <description>A Placebo Cannot Be Psychedelic: Why psychedelic trials need dose, not mimicry, as their control</description>
   </item>
   <item>
-    <title>同一サンプルのネストモデルにおけるロジット係数とプロビット係数の比較：改訂KHB法の構造方程式モデリングへの適用</title>
+    <title>同一サンプルの入れ子モデルにおけるロジット係数とプロビット係数の比較：改訂版KHB法の構造方程式モデリングへの適用</title>
     <link>https://osf.io/bt9ud</link>
     <guid isPermaLink="false">https://osf.io/bt9ud#ja</guid>
     <pubDate>Tue, 10 Nov 2026 22:32:33 +0000</pubDate>
@@ -125,7 +132,7 @@
     <description>Mediterranean-style dietary components and self-reported depression: a cross-sectional analysis of 502,359 UK adults in the UK Biobank cohort</description>
   </item>
   <item>
-    <title>職場の寛容性と個人の自律性は仕事へのエンゲージメントと関連するか？―心理的安全性と内発的動機づけの媒介分析</title>
+    <title>職場の寛容性と個人の自律性は仕事へのエンゲージメントと関連しているか？―心理的安全性と内発的動機づけの媒介分析</title>
     <link>https://osf.io/bu7jp</link>
     <guid isPermaLink="false">https://osf.io/bu7jp#ja</guid>
     <pubDate>Tue, 10 Nov 2026 17:44:37 +0000</pubDate>
@@ -139,14 +146,14 @@
     <description>The case for a developmentally-informed education system in the early years</description>
   </item>
   <item>
-    <title>慢性肩痛患者における画像提示課題中の運動関連痛恐怖の心理生理学的相関</title>
+    <title>慢性肩痛患者における画像提示課題中の運動関連疼痛恐怖の心理生理学的相関</title>
     <link>https://osf.io/hb942</link>
     <guid isPermaLink="false">https://osf.io/hb942#ja</guid>
     <pubDate>Mon, 09 Nov 2026 19:43:43 +0000</pubDate>
     <description>Psychophysiological correlates of fear of movement-related pain assessed during a picture-based paradigm in people with chronic shoulder pain</description>
   </item>
   <item>
-    <title>「感受性に基づく自己の世界形成：断続的・非発話自閉症成人における聴覚環境と音感受性」</title>
+    <title>「私は自分の感受性に基づいて世界を形作る」：断続的・非発話自閉症成人における聴覚環境と音感受性の検討</title>
     <link>https://osf.io/f9n7k</link>
     <guid isPermaLink="false">https://osf.io/f9n7k#ja</guid>
     <pubDate>Mon, 09 Nov 2026 19:43:42 +0000</pubDate>
@@ -167,7 +174,7 @@
     <description>Invariant agreement attraction effects: Distance and RC modification manipulations in Czech</description>
   </item>
   <item>
-    <title>青年期の感情と持続可能な開発への関与を結ぶ三波長RI-CLPM研究</title>
+    <title>青年期の感情と持続可能な開発への関与を結ぶ三波長RI-CLPM分析</title>
     <link>https://osf.io/cqfk4</link>
     <guid isPermaLink="false">https://osf.io/cqfk4#ja</guid>
     <pubDate>Fri, 06 Nov 2026 21:30:51 +0000</pubDate>
@@ -188,14 +195,14 @@
     <description>The Role of Musical Mood Regulation for Efficacy Beliefs and Hope in the Climate Crisis</description>
   </item>
   <item>
-    <title>少数言語継承への準備：フリースラント州の妊娠中の親における言語管理の準備状況</title>
+    <title>少数言語継承の準備：フリースラント州の妊娠中の親における言語管理の準備状況</title>
     <link>https://osf.io/73w84</link>
     <guid isPermaLink="false">https://osf.io/73w84#ja</guid>
     <pubDate>Fri, 06 Nov 2026 21:30:50 +0000</pubDate>
     <description>Getting ready for minority language transmission: Language management preparation among expecting parents in Fryslân</description>
   </item>
   <item>
-    <title>共有原因調整媒介（SCAM）：方法の導入と実証的応用</title>
+    <title>共有原因調整媒介（SCAM）：実証的応用を伴う手法の導入</title>
     <link>https://osf.io/z2hpt</link>
     <guid isPermaLink="false">https://osf.io/z2hpt#ja</guid>
     <pubDate>Fri, 06 Nov 2026 21:30:50 +0000</pubDate>
@@ -230,14 +237,14 @@
     <description>SaccadeJS: Webcam eye tracking for behavioral experiments in a web browser</description>
   </item>
   <item>
-    <title>若年層におけるデジタルメディア介入のリスクと機会：科学計量学的レビュー</title>
+    <title>若年層におけるデジタルメディア介入のリスクと機会：サイエントメトリックレビュー</title>
     <link>https://osf.io/5xczu</link>
     <guid isPermaLink="false">https://osf.io/5xczu#ja</guid>
     <pubDate>Fri, 06 Nov 2026 21:30:49 +0000</pubDate>
     <description>Risks and Opportunities in Digital Media Interventions for Youth: A Scientometric Review</description>
   </item>
   <item>
-    <title>子ども時代から思春期にかけての読書：家庭環境が行動、動機付け、習熟度に及ぼす持続的影響</title>
+    <title>子ども時代から思春期にかけての読書：家庭環境が行動、動機付け、熟達度に及ぼす持続的影響</title>
     <link>https://osf.io/zdhc6</link>
     <guid isPermaLink="false">https://osf.io/zdhc6#ja</guid>
     <pubDate>Fri, 06 Nov 2026 21:30:49 +0000</pubDate>
@@ -258,14 +265,14 @@
     <description>Menstrual Cycle Status and the Acute Subjective Psychedelic Experience</description>
   </item>
   <item>
-    <title>馴染み深い語の象徴性が新語の意味形成に与える影響</title>
+    <title>馴染みのある語の象徴性が新語の意味形成に与える影響</title>
     <link>https://osf.io/5kug3</link>
     <guid isPermaLink="false">https://osf.io/5kug3#ja</guid>
     <pubDate>Fri, 06 Nov 2026 21:30:48 +0000</pubDate>
     <description>Familiar words iconicity shapes novel words meaning</description>
   </item>
   <item>
-    <title>チューターによる観察がビデオ媒介トレーニングにおける外国語発話産出学習を促進する</title>
+    <title>指導者の観察がビデオ媒介トレーニングにおける外国語発話習得を促進する効果</title>
     <link>https://osf.io/8qxve</link>
     <guid isPermaLink="false">https://osf.io/8qxve#ja</guid>
     <pubDate>Fri, 06 Nov 2026 21:30:48 +0000</pubDate>
@@ -279,7 +286,7 @@
     <description>Beyond Participation, Towards Meaningful Inclusion:  An Experience-Sensitive Approach to Inquiry with Children and Young People with Special Educational Needs and Disabilities (SEND)</description>
   </item>
   <item>
-    <title>ダークトライアドと攻撃性特性における男女差：因子重複の実質的影響の解明</title>
+    <title>ダークトライアドと女性および男性における特性攻撃性：因子重複の実質的影響の解明</title>
     <link>https://osf.io/b92ku</link>
     <guid isPermaLink="false">https://osf.io/b92ku#ja</guid>
     <pubDate>Fri, 06 Nov 2026 21:30:47 +0000</pubDate>
@@ -293,14 +300,14 @@
     <description>Failure to distinguish “mental health” from “mental illness” disrupts effective policy for population well-being</description>
   </item>
   <item>
-    <title>研究室からアプリへ（そしてその逆へ）：子ども・青年のためのエビデンスに基づくデジタルメンタルヘルス介入の概念的枠組み</title>
+    <title>研究室からアプリへ（そしてその逆も）：子どもと青年のためのエビデンスに基づくデジタルメンタルヘルス介入の概念的枠組み</title>
     <link>https://osf.io/7g3mp</link>
     <guid isPermaLink="false">https://osf.io/7g3mp#ja</guid>
     <pubDate>Fri, 06 Nov 2026 16:12:27 +0000</pubDate>
     <description>From Lab to App (and Back): A Conceptual Framework for Evidence-Based Digital Mental Health Interventions in Children and Adolescents</description>
   </item>
   <item>
-    <title>文脈におけるリスク：気象が消費者の気候リスク認知に与える影響</title>
+    <title>文脈におけるリスク：気象が気候リスクに対する消費者の反応に与える影響</title>
     <link>https://osf.io/7eaw6</link>
     <guid isPermaLink="false">https://osf.io/7eaw6#ja</guid>
     <pubDate>Fri, 06 Nov 2026 16:12:27 +0000</pubDate>
@@ -321,7 +328,7 @@
     <description>Inequality Can Increase Stealing, Reduce Trust, and Undermine Cooperation, Even When It Is Invisible</description>
   </item>
   <item>
-    <title>事前登録プロトコル：自己評価による感覚知能の読み取り。仮説H4からH7、カウントC1、固定語彙および採点規則。結果は報告されていない。</title>
+    <title>事前登録プロトコル：自己評価による感覚知能の測定。仮説H4からH7、カウントC1、固定語彙および採点規則。結果は報告されていない。</title>
     <link>https://osf.io/dfcmw</link>
     <guid isPermaLink="false">https://osf.io/dfcmw#ja</guid>
     <pubDate>Fri, 06 Nov 2026 16:12:27 +0000</pubDate>
@@ -335,7 +342,7 @@
     <description>Can LLMs Grow Like Children? A Developmental Analysis of Capability Trajectories in Language Model Training</description>
   </item>
   <item>
-    <title>生涯発達における対人関係および集団間葛藤解決の異なる概念</title>
+    <title>生涯発達における対人関係および集団間紛争解決の異なる概念</title>
     <link>https://osf.io/qkncd</link>
     <guid isPermaLink="false">https://osf.io/qkncd#ja</guid>
     <pubDate>Fri, 06 Nov 2026 08:32:49 +0000</pubDate>
@@ -347,13 +354,6 @@
     <guid isPermaLink="false">https://osf.io/a4ekm#ja</guid>
     <pubDate>Fri, 06 Nov 2026 08:32:48 +0000</pubDate>
     <description>The Third Allostasis: a biophysical displacement of regulatory purpose in neurodivergent, high-ability and other high processing cost phenotypes (HPCPh)</description>
-  </item>
-  <item>
-    <title>思春期うつ病における睡眠と日中の快楽減退の経時的変動：エコロジカルモーメンタリーアセスメント研究</title>
-    <link>https://osf.io/2q3tp</link>
-    <guid isPermaLink="false">https://osf.io/2q3tp#ja</guid>
-    <pubDate>Fri, 06 Nov 2026 08:32:48 +0000</pubDate>
-    <description>Sleep and the Daytime Course of Anhedonia in Adolescent Depression: An Ecological Momentary Assessment Study</description>
   </item>
 </channel>
 </rss>
