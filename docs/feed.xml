@@ -6,7 +6,7 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
-    <title>社会的・情動的・行動的スキルの実践的活用：SEBスキルが職業的達成、態度、行動、興味、価値観と強く関連することの検証</title>
+    <title>社会的・情動的・行動的スキルの実践：SEBスキルが職業達成、態度、行動、興味、価値観と強く関連することの検証</title>
     <link>https://osf.io/kg4an</link>
     <guid isPermaLink="false">https://osf.io/kg4an#ja</guid>
     <pubDate>Thu, 12 Nov 2026 20:22:37 +0000</pubDate>
@@ -48,7 +48,7 @@
     <description>The social ecology of trustworthiness inferences: Cultural gradients in emotion overgeneralization</description>
   </item>
   <item>
-    <title>どの認知歪曲が混同されやすいか？主要認知歪曲分類における言語モデルの比較検証</title>
+    <title>どの認知歪曲が混同されやすいか？支配的認知歪曲分類における言語モデルの統制比較</title>
     <link>https://osf.io/8wd2x</link>
     <guid isPermaLink="false">https://osf.io/8wd2x#ja</guid>
     <pubDate>Wed, 11 Nov 2026 09:28:17 +0000</pubDate>
@@ -97,28 +97,28 @@
     <description>Cognitive Polyphasia and Cognitive Dissonance: An Integrative Model for Understanding Inconsistency Management Within Social Representations Theory</description>
   </item>
   <item>
-    <title>著名人推薦と瞑想意図：ランダム化実験研究</title>
+    <title>著名人推薦と瞑想意図：無作為化実験研究</title>
     <link>https://osf.io/cv2s8</link>
     <guid isPermaLink="false">https://osf.io/cv2s8#ja</guid>
     <pubDate>Tue, 10 Nov 2026 22:32:34 +0000</pubDate>
     <description>Celebrity Endorsement and Meditation Intention: A Randomized Experiment</description>
   </item>
   <item>
-    <title>成人ダウン症候群を対象としたランダム化比較試験における参加者募集および維持に関する系統的レビュー</title>
+    <title>ダウン症成人を対象としたランダム化比較試験における参加者募集および維持に関する系統的レビュー</title>
     <link>https://osf.io/qchpw</link>
     <guid isPermaLink="false">https://osf.io/qchpw#ja</guid>
     <pubDate>Tue, 10 Nov 2026 22:32:34 +0000</pubDate>
     <description>A systematic review of recruitment and retention within randomised controlled trials of adults with Down Syndrome</description>
   </item>
   <item>
-    <title>プラセボはサイケデリックになり得ない：サイケデリック試験において模倣ではなく用量を対照とすべき理由</title>
+    <title>プラセボはサイケデリックにはなり得ない：サイケデリック試験において模倣ではなく用量を対照とすべき理由</title>
     <link>https://osf.io/hkq53</link>
     <guid isPermaLink="false">https://osf.io/hkq53#ja</guid>
     <pubDate>Tue, 10 Nov 2026 22:32:34 +0000</pubDate>
     <description>A Placebo Cannot Be Psychedelic: Why psychedelic trials need dose, not mimicry, as their control</description>
   </item>
   <item>
-    <title>同一サンプルのネストモデルにおけるロジット係数とプロビット係数の比較：改訂版KHB法の構造方程式モデリングへの適用</title>
+    <title>同一サンプルのネストモデルにおけるロジット係数とプロビット係数の比較：改訂KHB法の構造方程式モデリングへの適用</title>
     <link>https://osf.io/bt9ud</link>
     <guid isPermaLink="false">https://osf.io/bt9ud#ja</guid>
     <pubDate>Tue, 10 Nov 2026 22:32:33 +0000</pubDate>
@@ -132,7 +132,7 @@
     <description>Mediterranean-style dietary components and self-reported depression: a cross-sectional analysis of 502,359 UK adults in the UK Biobank cohort</description>
   </item>
   <item>
-    <title>職場の寛容性と個人の自律性は仕事へのエンゲージメントと関連しているか？―心理的安全性と内発的動機づけの媒介分析</title>
+    <title>職場の寛容性と個人の自律性は仕事へのエンゲージメントと関連するか？―心理的安全性と内発的動機付けの媒介分析</title>
     <link>https://osf.io/bu7jp</link>
     <guid isPermaLink="false">https://osf.io/bu7jp#ja</guid>
     <pubDate>Tue, 10 Nov 2026 17:44:37 +0000</pubDate>
@@ -146,7 +146,7 @@
     <description>The case for a developmentally-informed education system in the early years</description>
   </item>
   <item>
-    <title>慢性肩痛患者における画像提示課題中の運動関連疼痛恐怖の心理生理学的相関</title>
+    <title>慢性肩痛患者における画像提示課題中の運動関連痛恐怖の心理生理学的相関</title>
     <link>https://osf.io/hb942</link>
     <guid isPermaLink="false">https://osf.io/hb942#ja</guid>
     <pubDate>Mon, 09 Nov 2026 19:43:43 +0000</pubDate>
@@ -202,7 +202,7 @@
     <description>Getting ready for minority language transmission: Language management preparation among expecting parents in Fryslân</description>
   </item>
   <item>
-    <title>共有原因調整媒介（SCAM）：方法の導入と実証的応用</title>
+    <title>共有原因調整媒介（SCAM）：実証的応用を伴う手法の導入</title>
     <link>https://osf.io/z2hpt</link>
     <guid isPermaLink="false">https://osf.io/z2hpt#ja</guid>
     <pubDate>Fri, 06 Nov 2026 21:30:50 +0000</pubDate>
@@ -237,21 +237,21 @@
     <description>SaccadeJS: Webcam eye tracking for behavioral experiments in a web browser</description>
   </item>
   <item>
-    <title>若年層におけるデジタルメディア介入のリスクと機会：科学計量学的レビュー</title>
+    <title>若年層におけるデジタルメディア介入のリスクと機会：サイエントメトリックレビュー</title>
     <link>https://osf.io/5xczu</link>
     <guid isPermaLink="false">https://osf.io/5xczu#ja</guid>
     <pubDate>Fri, 06 Nov 2026 21:30:49 +0000</pubDate>
     <description>Risks and Opportunities in Digital Media Interventions for Youth: A Scientometric Review</description>
   </item>
   <item>
-    <title>幼少期から思春期にかけての読書：家庭環境が行動、動機付け、習熟度に及ぼす持続的影響</title>
+    <title>幼少期から思春期にかけての読書：家庭環境が行動、動機付け、熟達度に及ぼす持続的影響</title>
     <link>https://osf.io/zdhc6</link>
     <guid isPermaLink="false">https://osf.io/zdhc6#ja</guid>
     <pubDate>Fri, 06 Nov 2026 21:30:49 +0000</pubDate>
     <description>Reading from childhood to adolescence: enduring influences of home environment on behaviour, motivation and proficiency</description>
   </item>
   <item>
-    <title>ジェンダーインクルーシブな声とコミュニケーショントレーニング：ノンバイナリークライアントの支援</title>
+    <title>ジェンダーインクルーシブな音声・コミュニケーショントレーニング：ノンバイナリークライアント支援のために</title>
     <link>https://osf.io/rgx9n</link>
     <guid isPermaLink="false">https://osf.io/rgx9n#ja</guid>
     <pubDate>Fri, 06 Nov 2026 21:30:48 +0000</pubDate>
@@ -286,7 +286,7 @@
     <description>Beyond Participation, Towards Meaningful Inclusion:  An Experience-Sensitive Approach to Inquiry with Children and Young People with Special Educational Needs and Disabilities (SEND)</description>
   </item>
   <item>
-    <title>ダークトライアドと女性および男性の特性攻撃性：因子重複の実質的影響の解明</title>
+    <title>ダークトライアドと男女の特性攻撃性：因子重複の実質的影響の解明</title>
     <link>https://osf.io/b92ku</link>
     <guid isPermaLink="false">https://osf.io/b92ku#ja</guid>
     <pubDate>Fri, 06 Nov 2026 21:30:47 +0000</pubDate>
@@ -300,7 +300,7 @@
     <description>Failure to distinguish “mental health” from “mental illness” disrupts effective policy for population well-being</description>
   </item>
   <item>
-    <title>研究室からアプリへ（そしてその逆へ）：子どもと青年のためのエビデンスに基づくデジタルメンタルヘルス介入の概念的枠組み</title>
+    <title>研究室からアプリへ（そして再び研究室へ）：子どもと青年のためのエビデンスに基づくデジタルメンタルヘルス介入の概念的枠組み</title>
     <link>https://osf.io/7g3mp</link>
     <guid isPermaLink="false">https://osf.io/7g3mp#ja</guid>
     <pubDate>Fri, 06 Nov 2026 16:12:27 +0000</pubDate>
@@ -328,21 +328,21 @@
     <description>Inequality Can Increase Stealing, Reduce Trust, and Undermine Cooperation, Even When It Is Invisible</description>
   </item>
   <item>
-    <title>事前登録プロトコル：自己評価による感情知能のスコアリング－仮説H4からH7、カウントC1、固定語彙および採点規則の検討（結果報告なし）</title>
+    <title>事前登録プロトコル：自己評価による感覚知能のスコアリング－仮説H4からH7、カウントC1、固定語彙および採点規則に関する検討（結果報告なし）</title>
     <link>https://osf.io/dfcmw</link>
     <guid isPermaLink="false">https://osf.io/dfcmw#ja</guid>
     <pubDate>Fri, 06 Nov 2026 16:12:27 +0000</pubDate>
     <description>Pre-registered protocol: Felt Intelligence reads scored by the person. Hypotheses H4 to H7, count C1, frozen lexicon and scoring rules. No results reported.</description>
   </item>
   <item>
-    <title>大規模言語モデルは子どものように成長するか？言語モデル訓練における能力発達軌跡の発達的分析</title>
+    <title>大規模言語モデルは子どものように成長するか？言語モデル訓練における能力発達軌跡の発達心理学的分析</title>
     <link>https://osf.io/c8j7u</link>
     <guid isPermaLink="false">https://osf.io/c8j7u#ja</guid>
     <pubDate>Fri, 06 Nov 2026 16:12:26 +0000</pubDate>
     <description>Can LLMs Grow Like Children? A Developmental Analysis of Capability Trajectories in Language Model Training</description>
   </item>
   <item>
-    <title>生涯にわたる対人および集団間葛藤解決の異なる概念</title>
+    <title>生涯発達における対人関係および集団間紛争解決の異なる概念</title>
     <link>https://osf.io/qkncd</link>
     <guid isPermaLink="false">https://osf.io/qkncd#ja</guid>
     <pubDate>Fri, 06 Nov 2026 08:32:49 +0000</pubDate>
