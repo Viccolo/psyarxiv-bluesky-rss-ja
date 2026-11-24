@@ -6,6 +6,118 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>学校における能力別集団編成の社会的影響</title>
+    <link>https://osf.io/pxsv8</link>
+    <guid isPermaLink="false">https://osf.io/pxsv8#ja</guid>
+    <pubDate>Mon, 23 Nov 2026 22:35:55 +0000</pubDate>
+    <description>The Social Consequences of Ability Grouping in Schools</description>
+  </item>
+  <item>
+    <title>安定した基盤における認知変動：児童期・思春期の認知の揺らぎに関するナラティブレビューと認知変動の定量化実践ガイド</title>
+    <link>https://osf.io/5yqvk</link>
+    <guid isPermaLink="false">https://osf.io/5yqvk#ja</guid>
+    <pubDate>Mon, 23 Nov 2026 22:35:55 +0000</pubDate>
+    <description>Cognitive variability on stable ground:  A narrative review of cognitive fluctuation in childhood and adolescence and hands-on tutorial in quantifying (cognitive) variability</description>
+  </item>
+  <item>
+    <title>瞬間的感情識別：瞬間的情動から区別される理論整合的指標</title>
+    <link>https://osf.io/kcygm</link>
+    <guid isPermaLink="false">https://osf.io/kcygm#ja</guid>
+    <pubDate>Mon, 23 Nov 2026 22:35:55 +0000</pubDate>
+    <description>Momentary Emotion Differentiation:  A Theory-Consistent Index that is Disambiguated from Momentary Affect</description>
+  </item>
+  <item>
+    <title>失語症患者の機能的コミュニケーション評価におけるバーチャルリアリティの実現可能性</title>
+    <link>https://osf.io/3vt2p</link>
+    <guid isPermaLink="false">https://osf.io/3vt2p#ja</guid>
+    <pubDate>Mon, 23 Nov 2026 22:35:55 +0000</pubDate>
+    <description>Feasibility of virtual reality in assessing functional communication in persons with aphasia</description>
+  </item>
+  <item>
+    <title>支援的コミュニケーションにおけるAIと人間の情報源帰属および知覚された共感：系統的レビューとメタアナリシス</title>
+    <link>https://osf.io/mb3rp</link>
+    <guid isPermaLink="false">https://osf.io/mb3rp#ja</guid>
+    <pubDate>Mon, 23 Nov 2026 22:35:54 +0000</pubDate>
+    <description>AI versus human source attribution and perceived empathy in supportive communication: A systematic review and meta-analysis</description>
+  </item>
+  <item>
+    <title>観察的注意特性の確立</title>
+    <link>https://osf.io/ztcns</link>
+    <guid isPermaLink="false">https://osf.io/ztcns#ja</guid>
+    <pubDate>Mon, 23 Nov 2026 22:35:54 +0000</pubDate>
+    <description>Establishing the Observant Attention Trait</description>
+  </item>
+  <item>
+    <title>ステージ1登録報告：処理の水準と種類－知覚的符号化課題後の色-対象連合の想起における処理水準の検討</title>
+    <link>https://osf.io/rfm8g</link>
+    <guid isPermaLink="false">https://osf.io/rfm8g#ja</guid>
+    <pubDate>Mon, 23 Nov 2026 22:35:54 +0000</pubDate>
+    <description>Stage 1 Registered Report: Levels and Types of Processing: Levels of Processing for Recall of Color-Object Associations After Perceptual Encoding Tasks</description>
+  </item>
+  <item>
+    <title>ランダム化装置の認知的および社会的起源</title>
+    <link>https://osf.io/xbeac</link>
+    <guid isPermaLink="false">https://osf.io/xbeac#ja</guid>
+    <pubDate>Mon, 23 Nov 2026 22:35:54 +0000</pubDate>
+    <description>The cognitive and social origins of randomization devices</description>
+  </item>
+  <item>
+    <title>「もし本当ならすごい」：願望的信念と陰謀論の魅力</title>
+    <link>https://osf.io/np9h6</link>
+    <guid isPermaLink="false">https://osf.io/np9h6#ja</guid>
+    <pubDate>Mon, 23 Nov 2026 22:35:54 +0000</pubDate>
+    <description>“Huge if true”: Aspirational believing and the appeal of conspiracy theories</description>
+  </item>
+  <item>
+    <title>大規模言語モデルと言語発達：機能的情報交換可能性と子ども–LLMデータギャップの検討</title>
+    <link>https://osf.io/ny3qm</link>
+    <guid isPermaLink="false">https://osf.io/ny3qm#ja</guid>
+    <pubDate>Mon, 23 Nov 2026 22:35:53 +0000</pubDate>
+    <description>Language at Scale: Functional Informational Interchangeability and the Child–LLM Data Gap</description>
+  </item>
+  <item>
+    <title>職場の無礼行為と抑うつ・不安気分の将来的影響に関する再検討：Caoら（2026年）の研究の再評価</title>
+    <link>https://osf.io/q5av4</link>
+    <guid isPermaLink="false">https://osf.io/q5av4#ja</guid>
+    <pubDate>Mon, 23 Nov 2026 22:35:53 +0000</pubDate>
+    <description>Questionable prospective effects between workplace incivility and depressive and anxious mood: A reassessment of Cao et al. (2026)</description>
+  </item>
+  <item>
+    <title>多産性の裏側：Prolificプラットフォーム労働者の経験に基づく混合方法研究から導かれる倫理的研究指針</title>
+    <link>https://osf.io/t5j8w</link>
+    <guid isPermaLink="false">https://osf.io/t5j8w#ja</guid>
+    <pubDate>Mon, 23 Nov 2026 22:35:53 +0000</pubDate>
+    <description>The Other Side of Prolific: Ethical Research Guidelines Based on a Mixed Methods Investigation of Prolific Platform Workers’ Experiences</description>
+  </item>
+  <item>
+    <title>尺度は引用元と意味的に類似しているか？五つのアノミー測定器における構成概念増殖の埋め込み分析</title>
+    <link>https://osf.io/veqhn</link>
+    <guid isPermaLink="false">https://osf.io/veqhn#ja</guid>
+    <pubDate>Mon, 23 Nov 2026 22:35:53 +0000</pubDate>
+    <description>Do Scales Semantically Resemble the Sources They Cite? Embedding Analysis of Construct Proliferation in Five Anomy Instruments</description>
+  </item>
+  <item>
+    <title>リズムに生まれて：母胎・乳児神経生理学におけるメタ安定的結合振動子の動的システムとしての検討</title>
+    <link>https://osf.io/7abfn</link>
+    <guid isPermaLink="false">https://osf.io/7abfn#ja</guid>
+    <pubDate>Mon, 23 Nov 2026 22:35:52 +0000</pubDate>
+    <description>Born on Rhythms: Mother–Foetus and -Infant Neurophysiology as a Dynamic System of Metastable Coupled Oscillators</description>
+  </item>
+  <item>
+    <title>現象学的精神病理学における方法論的考察の現状</title>
+    <link>https://osf.io/h5kwj</link>
+    <guid isPermaLink="false">https://osf.io/h5kwj#ja</guid>
+    <pubDate>Mon, 23 Nov 2026 22:35:52 +0000</pubDate>
+    <description>The State of Play: Methodological Reflections on Phenomenological Psychopathology</description>
+  </item>
+  <item>
+    <title>反応性攻撃に関する二者間視点：兄弟間相互作用における時間的行動および神経動態</title>
+    <link>https://osf.io/wnu89</link>
+    <guid isPermaLink="false">https://osf.io/wnu89#ja</guid>
+    <pubDate>Mon, 23 Nov 2026 22:35:52 +0000</pubDate>
+    <description>A Dyadic Perspective on Reactive Aggression: Temporal Behavioral and Neural Dynamics in Sibling Interactions</description>
+  </item>
+  <item>
     <title>構成概念の出現追跡：生成的心理計測を用いたトランスフォーマー解釈可能性における意味からメカニズムへの展開</title>
     <link>https://osf.io/m4c8v</link>
     <guid isPermaLink="false">https://osf.io/m4c8v#ja</guid>
@@ -20,7 +132,7 @@
     <description>Beyond Diagnostic Categories: Policy Implications of Dimensional Classification of Mental Disorders</description>
   </item>
   <item>
-    <title>AI生成の超写実的人間顔における知覚された社会的特性のレビュー</title>
+    <title>AI生成の超写実的な人間の顔における知覚された社会的特性のレビュー</title>
     <link>https://osf.io/25sbx</link>
     <guid isPermaLink="false">https://osf.io/25sbx#ja</guid>
     <pubDate>Mon, 23 Nov 2026 11:09:57 +0000</pubDate>
@@ -48,7 +160,7 @@
     <description>Development of Visual Temporal Order Judgment and Its Relationship to Sensory Processing Characteristics in Children</description>
   </item>
   <item>
-    <title>汎用的オンライン批判的推論（GEN-COR）測定のためのログデータ指標の定義</title>
+    <title>汎用的批判的オンライン推論（GEN-COR）測定のためのログデータ指標の定義</title>
     <link>https://osf.io/fr5d9</link>
     <guid isPermaLink="false">https://osf.io/fr5d9#ja</guid>
     <pubDate>Thu, 19 Nov 2026 23:15:06 +0000</pubDate>
@@ -69,14 +181,14 @@
     <description>Humans’ reasons for and against eating animals</description>
   </item>
   <item>
-    <title>認識的不確実性と偶発的不確実性の尺度の開発と検証</title>
+    <title>認識的不確実性と偶然的不確実性の尺度の開発と検証</title>
     <link>https://osf.io/27enb</link>
     <guid isPermaLink="false">https://osf.io/27enb#ja</guid>
     <pubDate>Wed, 18 Nov 2026 18:05:55 +0000</pubDate>
     <description>The Development and Validation of a Scale of Epistemic and Aleatory Uncertainty.</description>
   </item>
   <item>
-    <title>ギャンブル関与のある地域サンプルにおけるシミュレートギャンブル中の主観的および客観的覚醒指標の相互作用</title>
+    <title>ギャンブル関与のある地域サンプルにおけるシミュレーテッドギャンブル中の主観的および客観的覚醒指標の相互作用</title>
     <link>https://osf.io/6x3wd</link>
     <guid isPermaLink="false">https://osf.io/6x3wd#ja</guid>
     <pubDate>Tue, 17 Nov 2026 19:25:19 +0000</pubDate>
@@ -90,49 +202,49 @@
     <description>The politics of stasis and change: The motivational roots of conservatism in party platforms and citizens&#x27; own words</description>
   </item>
   <item>
-    <title>ハイブリッド選択における経験的価値の軽視は学習および表象操作に対して頑健である</title>
+    <title>ハイブリッド選択における経験的価値の無視は学習および表象操作に対して頑健である</title>
     <link>https://osf.io/de365</link>
     <guid isPermaLink="false">https://osf.io/de365#ja</guid>
     <pubDate>Mon, 16 Nov 2026 18:51:27 +0000</pubDate>
     <description>Experiential value neglect in hybrid choice is robust to learning and representational manipulations.</description>
   </item>
   <item>
-    <title>強化学習によるエネルギーに関する誤解の是正と嗜好形成</title>
+    <title>強化学習によるエネルギーに関する誤解の修正と嗜好形成</title>
     <link>https://osf.io/7u56t</link>
     <guid isPermaLink="false">https://osf.io/7u56t#ja</guid>
     <pubDate>Mon, 16 Nov 2026 18:51:27 +0000</pubDate>
     <description>Correcting misconceptions and shaping preferences about energy with reinforcement learning</description>
   </item>
   <item>
-    <title>予測的空間制約が物体認識に与える影響</title>
+    <title>予測的空間制約が対象認識に与える影響</title>
     <link>https://osf.io/e34xt</link>
     <guid isPermaLink="false">https://osf.io/e34xt#ja</guid>
     <pubDate>Mon, 16 Nov 2026 18:51:27 +0000</pubDate>
     <description>How Predictive Spatial Constraints Shape Object Recognition</description>
   </item>
   <item>
-    <title>教育科学におけるウェブカメラと赤外線視線追跡データの相互交換性：実験室および自宅環境における同一参加者比較</title>
+    <title>教育科学の文脈におけるウェブカメラと赤外線視線追跡データの交換可能性：実験室および自宅での同一参加者内比較</title>
     <link>https://osf.io/bxuwv</link>
     <guid isPermaLink="false">https://osf.io/bxuwv#ja</guid>
     <pubDate>Mon, 16 Nov 2026 18:51:27 +0000</pubDate>
     <description>How Interchangeable Are Webcam and Infrared Eye-Tracking Data in Educational Science Contexts? A Within-Participant Comparison in the Laboratory and at Home</description>
   </item>
   <item>
-    <title>誤情報受容性の次元性：一般的傾向か領域特異的傾向か？</title>
+    <title>誤情報への感受性の次元性：一般的傾向か領域特異的傾向か？</title>
     <link>https://osf.io/vnwkg</link>
     <guid isPermaLink="false">https://osf.io/vnwkg#ja</guid>
     <pubDate>Mon, 16 Nov 2026 18:51:26 +0000</pubDate>
     <description>The Dimensionality of Misinformation Susceptibility: General Disposition or Domain-Specific Tendencies?</description>
   </item>
   <item>
-    <title>相関プロファイルの類似性指標としての二重入力型群内相関係数のベンチマーキング</title>
+    <title>相関プロファイルの類似性指標としての二重入力型イントラクラス相関係数のベンチマーキング</title>
     <link>https://osf.io/cq2ma</link>
     <guid isPermaLink="false">https://osf.io/cq2ma#ja</guid>
     <pubDate>Mon, 16 Nov 2026 18:51:26 +0000</pubDate>
     <description>Benchmarking the Double-Entry Intraclass Correlation as an Index of the Similarity between Correlation Profiles</description>
   </item>
   <item>
-    <title>複数研究による制御された屋内空間の検討：NeuroDesign/NeuroArchitecture指標（NDIX）の実現可能性と感度の初期評価</title>
+    <title>複数研究による制御された屋内空間の検討：NeuroDesign/NeuroArchitecture指数（NDIX）の実現可能性および感度の初期評価</title>
     <link>https://osf.io/nced4</link>
     <guid isPermaLink="false">https://osf.io/nced4#ja</guid>
     <pubDate>Sun, 15 Nov 2026 21:56:19 +0000</pubDate>
@@ -160,7 +272,7 @@
     <description>Near-Death Experiences and Near-Death-Like Experiences: A Comparative Synthesis and Implications for Their Interpretation</description>
   </item>
   <item>
-    <title>平静さと摂食障害の脆弱性：心理的素因と接近–回避バイアスの解離</title>
+    <title>平静心と摂食障害の脆弱性：心理的素因と接近–回避バイアスの分離</title>
     <link>https://osf.io/jenvh</link>
     <guid isPermaLink="false">https://osf.io/jenvh#ja</guid>
     <pubDate>Sun, 15 Nov 2026 21:56:19 +0000</pubDate>
@@ -181,14 +293,14 @@
     <description>Building the future: Schemas contribute to episodic simulation</description>
   </item>
   <item>
-    <title>速い眼、鋭い眼、あるいは優れた眼か？視覚知覚と高次認知の関連性</title>
+    <title>速い眼、鋭い眼、または優れた眼？視覚知覚と高次認知を結びつける要因とは</title>
     <link>https://osf.io/wu9er</link>
     <guid isPermaLink="false">https://osf.io/wu9er#ja</guid>
     <pubDate>Sat, 14 Nov 2026 23:34:54 +0000</pubDate>
     <description>Fast Eyes, Sharp Eyes, or Good Eyes? What Links Visual Perception to Higher-Order Cognition</description>
   </item>
   <item>
-    <title>身体活動のための自己実行可能な行動変容技法の理解、実践および適応：質的研究</title>
+    <title>身体活動のための自己実行可能な行動変容技法の理解、実践および適応に関する質的研究</title>
     <link>https://osf.io/y3fes</link>
     <guid isPermaLink="false">https://osf.io/y3fes#ja</guid>
     <pubDate>Fri, 13 Nov 2026 21:56:49 +0000</pubDate>
@@ -202,7 +314,7 @@
     <description>CaliGaze: A Validated Webcam Eye-Tracking Framework for Attentional Drift-Diffusion Modeling</description>
   </item>
   <item>
-    <title>注意が視覚的統計学習に及ぼす影響とその逆方向の関係：EEG周波数タグ付けによる周波数ベースのグルーピングからの知見</title>
+    <title>注意が視覚的統計学習に与える影響とその逆方向の関係：EEG周波数タグ付けによる周波数ベースのグルーピングからの知見</title>
     <link>https://osf.io/xf97u</link>
     <guid isPermaLink="false">https://osf.io/xf97u#ja</guid>
     <pubDate>Fri, 13 Nov 2026 21:56:49 +0000</pubDate>
@@ -216,14 +328,14 @@
     <description>Normative Reference Values for Saccadic and Fixation Eye Movements in Healthy Young  Adults: Centile Norms, Split-Half Calibration and Test–Retest Reliability from GazeBase</description>
   </item>
   <item>
-    <title>初等初期以降の語彙読み流暢性に関する長期的予測因子</title>
+    <title>初等初期学年以降の語彙読解流暢性の長期予測因子</title>
     <link>https://osf.io/5ehrd</link>
     <guid isPermaLink="false">https://osf.io/5ehrd#ja</guid>
     <pubDate>Fri, 13 Nov 2026 21:56:48 +0000</pubDate>
     <description>Long-Term Predictors of Word Reading Fluency Beyond the Early Elementary Grades</description>
   </item>
   <item>
-    <title>自閉症における社会認知の行動的および神経的パターンに関する人格の特徴</title>
+    <title>自閉症における社会認知の行動および神経パターンに関する人格の特徴的役割</title>
     <link>https://osf.io/a7hxs</link>
     <guid isPermaLink="false">https://osf.io/a7hxs#ja</guid>
     <pubDate>Fri, 13 Nov 2026 21:56:48 +0000</pubDate>
@@ -237,123 +349,11 @@
     <description>Traveling back and forth through time: oscillatory brain patterns distinguish directional cued recall</description>
   </item>
   <item>
-    <title>重要性の学習：目標の確実性が作業記憶の優先順位付けに与える影響</title>
+    <title>重要なことを学ぶ：目標の確実性が作業記憶の優先順位付けに与える影響</title>
     <link>https://osf.io/xwy5t</link>
     <guid isPermaLink="false">https://osf.io/xwy5t#ja</guid>
     <pubDate>Fri, 13 Nov 2026 21:56:47 +0000</pubDate>
     <description>Learning What Matters: Goal certainty shapes working memory prioritization</description>
-  </item>
-  <item>
-    <title>社会的・情動的・行動的スキルの実践的活用：SEBスキルと職業達成、態度、行動、興味、価値観との強固な関連性</title>
-    <link>https://osf.io/kg4an</link>
-    <guid isPermaLink="false">https://osf.io/kg4an#ja</guid>
-    <pubDate>Thu, 12 Nov 2026 20:22:37 +0000</pubDate>
-    <description>Putting social, emotional, and behavioral skills to work: SEB skills are robustly linked with occupational attainment, attitudes, behaviors, interests, and values</description>
-  </item>
-  <item>
-    <title>複数研究におけるベイズ因子の乗算：我々はどの仮説を検証しているのか？</title>
-    <link>https://osf.io/bwtxv</link>
-    <guid isPermaLink="false">https://osf.io/bwtxv#ja</guid>
-    <pubDate>Wed, 11 Nov 2026 17:20:47 +0000</pubDate>
-    <description>Multiplying Bayes Factors Across Studies: Which Hypotheses Are We Testing?</description>
-  </item>
-  <item>
-    <title>好奇心の認知と評価：初期の好奇的行動に対する親の判断における国際的類似点と相違点</title>
-    <link>https://osf.io/k5fuv</link>
-    <guid isPermaLink="false">https://osf.io/k5fuv#ja</guid>
-    <pubDate>Wed, 11 Nov 2026 17:20:47 +0000</pubDate>
-    <description>Recognizing versus valuing curiosity: Cross-country similarities and differences in parental judgments of early curious behaviors</description>
-  </item>
-  <item>
-    <title>横断的強迫性から臨床応用へ：研究と臨床をつなぐ計算精神医学のアプローチ</title>
-    <link>https://osf.io/uswbg</link>
-    <guid isPermaLink="false">https://osf.io/uswbg#ja</guid>
-    <pubDate>Wed, 11 Nov 2026 09:28:17 +0000</pubDate>
-    <description>From transdiagnostic compulsivity to clinical applications: a computational psychiatry approach to bridge research and clinic</description>
-  </item>
-  <item>
-    <title>変化を検討するための縦断的多層構造方程式モデリング手法入門</title>
-    <link>https://osf.io/z5d2v</link>
-    <guid isPermaLink="false">https://osf.io/z5d2v#ja</guid>
-    <pubDate>Wed, 11 Nov 2026 09:28:17 +0000</pubDate>
-    <description>An introduction to longitudinal multilevel and structural equation modeling approaches for examining change</description>
-  </item>
-  <item>
-    <title>信頼性推論の社会生態学：感情の過剰一般化における文化的勾配</title>
-    <link>https://osf.io/3m4sd</link>
-    <guid isPermaLink="false">https://osf.io/3m4sd#ja</guid>
-    <pubDate>Wed, 11 Nov 2026 09:28:17 +0000</pubDate>
-    <description>The social ecology of trustworthiness inferences: Cultural gradients in emotion overgeneralization</description>
-  </item>
-  <item>
-    <title>どの認知歪みが混同されやすいか？主要認知歪み分類における言語モデルの統制比較</title>
-    <link>https://osf.io/8wd2x</link>
-    <guid isPermaLink="false">https://osf.io/8wd2x#ja</guid>
-    <pubDate>Wed, 11 Nov 2026 09:28:17 +0000</pubDate>
-    <description>Which Distortion gets confused? A Controlled Comparison of Language Models for Dominant Cognitive Distortion Classification</description>
-  </item>
-  <item>
-    <title>シミュレーテッドTwitter課題におけるソーシャルメディア利用者の誤情報関与における個人差の検討</title>
-    <link>https://osf.io/4tm37</link>
-    <guid isPermaLink="false">https://osf.io/4tm37#ja</guid>
-    <pubDate>Wed, 11 Nov 2026 09:28:16 +0000</pubDate>
-    <description>Examining Individual Differences in Misinformation Engagement among Social Media Users in a Simulated Twitter Task</description>
-  </item>
-  <item>
-    <title>強迫性傾向の高い個人における意味的抑制時の前補足運動野動員の変化</title>
-    <link>https://osf.io/45rm7</link>
-    <guid isPermaLink="false">https://osf.io/45rm7#ja</guid>
-    <pubDate>Tue, 10 Nov 2026 22:32:35 +0000</pubDate>
-    <description>Altered pre-supplementary motor area recruitment during semantic inhibition in individuals with elevated obsessive–compulsive traits</description>
-  </item>
-  <item>
-    <title>認知リハビリテーションのための神経科学に基づく心理教育</title>
-    <link>https://osf.io/gj728</link>
-    <guid isPermaLink="false">https://osf.io/gj728#ja</guid>
-    <pubDate>Tue, 10 Nov 2026 22:32:35 +0000</pubDate>
-    <description>Neuroscience-informed psychoeducation for cognitive rehabilitation</description>
-  </item>
-  <item>
-    <title>産業・労働・組織心理学におけるデータ透明性：データ共有と再利用のための文書化入門</title>
-    <link>https://osf.io/m3tqf</link>
-    <guid isPermaLink="false">https://osf.io/m3tqf#ja</guid>
-    <pubDate>Tue, 10 Nov 2026 22:32:35 +0000</pubDate>
-    <description>Data Transparency in Industrial, Work, and Organizational Psychology: A Primer on Data Sharing and Documentation of Data Reuse</description>
-  </item>
-  <item>
-    <title>時間の重要性：心理学研究におけるターゲット試行模倣の基準時点の特定</title>
-    <link>https://osf.io/aqkyv</link>
-    <guid isPermaLink="false">https://osf.io/aqkyv#ja</guid>
-    <pubDate>Tue, 10 Nov 2026 22:32:34 +0000</pubDate>
-    <description>It’s about time: Specifying time zero for target trial emulation in psychological research</description>
-  </item>
-  <item>
-    <title>認知的多様性と認知的不協和：社会的表象理論における不一致管理の統合モデル</title>
-    <link>https://osf.io/dw7j8</link>
-    <guid isPermaLink="false">https://osf.io/dw7j8#ja</guid>
-    <pubDate>Tue, 10 Nov 2026 22:32:34 +0000</pubDate>
-    <description>Cognitive Polyphasia and Cognitive Dissonance: An Integrative Model for Understanding Inconsistency Management Within Social Representations Theory</description>
-  </item>
-  <item>
-    <title>著名人推薦と瞑想意図：無作為化実験研究</title>
-    <link>https://osf.io/cv2s8</link>
-    <guid isPermaLink="false">https://osf.io/cv2s8#ja</guid>
-    <pubDate>Tue, 10 Nov 2026 22:32:34 +0000</pubDate>
-    <description>Celebrity Endorsement and Meditation Intention: A Randomized Experiment</description>
-  </item>
-  <item>
-    <title>成人ダウン症候群を対象としたランダム化比較試験における参加者募集および維持に関する系統的レビュー</title>
-    <link>https://osf.io/qchpw</link>
-    <guid isPermaLink="false">https://osf.io/qchpw#ja</guid>
-    <pubDate>Tue, 10 Nov 2026 22:32:34 +0000</pubDate>
-    <description>A systematic review of recruitment and retention within randomised controlled trials of adults with Down Syndrome</description>
-  </item>
-  <item>
-    <title>プラセボはサイケデリックにはなり得ない：サイケデリック試験において模倣ではなく用量を対照とすべき理由</title>
-    <link>https://osf.io/hkq53</link>
-    <guid isPermaLink="false">https://osf.io/hkq53#ja</guid>
-    <pubDate>Tue, 10 Nov 2026 22:32:34 +0000</pubDate>
-    <description>A Placebo Cannot Be Psychedelic: Why psychedelic trials need dose, not mimicry, as their control</description>
   </item>
 </channel>
 </rss>
