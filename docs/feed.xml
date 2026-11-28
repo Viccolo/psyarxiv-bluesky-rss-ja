@@ -6,6 +6,41 @@
   <description>psyarxivbot.bsky.social のポストから PsyArXiv 論文へのリンクを集め、日本語タイトル付きで配信する非公式RSSフィード</description>
   <language>ja</language>
   <item>
+    <title>音楽は認知課題の遂行に改善効果をもたらすか、それとも障害を与えるか？ステージ1登録報告</title>
+    <link>https://osf.io/nue8d</link>
+    <guid isPermaLink="false">https://osf.io/nue8d#ja</guid>
+    <pubDate>Fri, 27 Nov 2026 21:55:32 +0000</pubDate>
+    <description>Does music improve or impair cognitive task performance? A Stage 1 Registered Report</description>
+  </item>
+  <item>
+    <title>自己の世界化：自己なきパターン理論の生態学的構成</title>
+    <link>https://osf.io/k4eja</link>
+    <guid isPermaLink="false">https://osf.io/k4eja#ja</guid>
+    <pubDate>Fri, 27 Nov 2026 21:55:32 +0000</pubDate>
+    <description>Worlding the Self: The Ecological Constitution of the Pattern Theory of Selflessness</description>
+  </item>
+  <item>
+    <title>自閉症研究のグリーンスクリーン：表象主義と「正常」環境の政治経済学</title>
+    <link>https://osf.io/s8cf7</link>
+    <guid isPermaLink="false">https://osf.io/s8cf7#ja</guid>
+    <pubDate>Fri, 27 Nov 2026 21:55:31 +0000</pubDate>
+    <description>Autism Research&#x27;s Green Screen: Representationalism and the Political Economy of &#x27;Normal&#x27; Environments</description>
+  </item>
+  <item>
+    <title>行為感覚は記憶に影響を与えない：意図的結合パラダイムを用いた検討</title>
+    <link>https://osf.io/dpykw</link>
+    <guid isPermaLink="false">https://osf.io/dpykw#ja</guid>
+    <pubDate>Fri, 27 Nov 2026 21:55:31 +0000</pubDate>
+    <description>Sense of Agency does not influence Memory: Investigation using Intentional Binding Paradigm</description>
+  </item>
+  <item>
+    <title>成人のADHDにおける遅延ではなく不安定性の原因：ドリフト拡散モデルと機械学習を統合した計算的フェノタイピングの枠組み</title>
+    <link>https://osf.io/fjwcg</link>
+    <guid isPermaLink="false">https://osf.io/fjwcg#ja</guid>
+    <pubDate>Fri, 27 Nov 2026 21:55:31 +0000</pubDate>
+    <description>Why Adults with ADHD Are Inconsistent Rather  Than Slow: A Computational Phenotyping  Framework Integrating Drift Diffusion Modelling and  Machine Learning</description>
+  </item>
+  <item>
     <title>学校における能力別集団編成の社会的影響</title>
     <link>https://osf.io/pxsv8</link>
     <guid isPermaLink="false">https://osf.io/pxsv8#ja</guid>
@@ -13,14 +48,14 @@
     <description>The Social Consequences of Ability Grouping in Schools</description>
   </item>
   <item>
-    <title>安定した基盤における認知変動：児童期・青年期の認知の揺らぎに関するナラティブレビューと認知変動の定量化実践ガイド</title>
+    <title>安定した基盤における認知の変動性：児童期および青年期の認知変動に関するナラティブレビューと認知変動性の定量化実践ガイド</title>
     <link>https://osf.io/5yqvk</link>
     <guid isPermaLink="false">https://osf.io/5yqvk#ja</guid>
     <pubDate>Mon, 23 Nov 2026 22:35:55 +0000</pubDate>
     <description>Cognitive variability on stable ground:  A narrative review of cognitive fluctuation in childhood and adolescence and hands-on tutorial in quantifying (cognitive) variability</description>
   </item>
   <item>
-    <title>瞬間的感情分化：瞬間的情動から区別される理論的一貫性指標</title>
+    <title>瞬間的感情識別：瞬間的情動から区別される理論的一貫性指標</title>
     <link>https://osf.io/kcygm</link>
     <guid isPermaLink="false">https://osf.io/kcygm#ja</guid>
     <pubDate>Mon, 23 Nov 2026 22:35:55 +0000</pubDate>
@@ -48,7 +83,7 @@
     <description>Establishing the Observant Attention Trait</description>
   </item>
   <item>
-    <title>ステージ1登録報告：処理の水準と種類－知覚符号化課題後の色-物体連合の想起における処理水準の検討</title>
+    <title>ステージ1登録報告：処理の水準と種類－知覚的符号化課題後の色-物体連合の想起における処理水準の検討</title>
     <link>https://osf.io/rfm8g</link>
     <guid isPermaLink="false">https://osf.io/rfm8g#ja</guid>
     <pubDate>Mon, 23 Nov 2026 22:35:54 +0000</pubDate>
@@ -62,28 +97,28 @@
     <description>The cognitive and social origins of randomization devices</description>
   </item>
   <item>
-    <title>「もし本当ならすごい」：願望的信念と陰謀論の魅力</title>
+    <title>「もし本当ならば大変なことだ」：願望的信念と陰謀論の魅力</title>
     <link>https://osf.io/np9h6</link>
     <guid isPermaLink="false">https://osf.io/np9h6#ja</guid>
     <pubDate>Mon, 23 Nov 2026 22:35:54 +0000</pubDate>
     <description>“Huge if true”: Aspirational believing and the appeal of conspiracy theories</description>
   </item>
   <item>
-    <title>大規模言語モデルと言語発達：機能的情報交換性と子どもデータギャップの検討</title>
+    <title>大規模言語モデルと言語発達：機能的情報交換性と子ども–LLMデータギャップの検討</title>
     <link>https://osf.io/ny3qm</link>
     <guid isPermaLink="false">https://osf.io/ny3qm#ja</guid>
     <pubDate>Mon, 23 Nov 2026 22:35:53 +0000</pubDate>
     <description>Language at Scale: Functional Informational Interchangeability and the Child–LLM Data Gap</description>
   </item>
   <item>
-    <title>職場の無礼行為と抑うつ・不安気分の将来的影響に関する疑義：Caoら（2026年）の再評価</title>
+    <title>職場の無礼行為と抑うつ・不安気分の将来的影響に関する再検討：Caoら（2026年）の研究を中心に</title>
     <link>https://osf.io/q5av4</link>
     <guid isPermaLink="false">https://osf.io/q5av4#ja</guid>
     <pubDate>Mon, 23 Nov 2026 22:35:53 +0000</pubDate>
     <description>Questionable prospective effects between workplace incivility and depressive and anxious mood: A reassessment of Cao et al. (2026)</description>
   </item>
   <item>
-    <title>プロリフィックの裏側：混合研究法によるプロリフィックプラットフォーム労働者の経験に基づく倫理的研究ガイドライン</title>
+    <title>プロリフィックの裏側：混合方法研究に基づくプロリフィックプラットフォーム労働者の経験に関する倫理的研究指針</title>
     <link>https://osf.io/t5j8w</link>
     <guid isPermaLink="false">https://osf.io/t5j8w#ja</guid>
     <pubDate>Mon, 23 Nov 2026 22:35:53 +0000</pubDate>
@@ -97,21 +132,21 @@
     <description>Do Scales Semantically Resemble the Sources They Cite? Embedding Analysis of Construct Proliferation in Five Anomy Instruments</description>
   </item>
   <item>
-    <title>リズムに生まれて：母体・胎児および乳児の神経生理学におけるメタ安定結合振動子の動的システムとしての検討</title>
+    <title>リズムに生まれて：母胎・乳児神経生理学におけるメタ安定的結合振動子の動的システムとしての研究</title>
     <link>https://osf.io/7abfn</link>
     <guid isPermaLink="false">https://osf.io/7abfn#ja</guid>
     <pubDate>Mon, 23 Nov 2026 22:35:52 +0000</pubDate>
     <description>Born on Rhythms: Mother–Foetus and -Infant Neurophysiology as a Dynamic System of Metastable Coupled Oscillators</description>
   </item>
   <item>
-    <title>現象学的精神病理学に関する方法論的考察の現状</title>
+    <title>現状の展望：現象学的精神病理学における方法論的考察</title>
     <link>https://osf.io/h5kwj</link>
     <guid isPermaLink="false">https://osf.io/h5kwj#ja</guid>
     <pubDate>Mon, 23 Nov 2026 22:35:52 +0000</pubDate>
     <description>The State of Play: Methodological Reflections on Phenomenological Psychopathology</description>
   </item>
   <item>
-    <title>反応的攻撃性の二者的視点：兄弟間相互作用における時間的行動および神経動態の解析</title>
+    <title>反応的攻撃性の二者視点：兄弟間相互作用における時間的行動および神経動態の解析</title>
     <link>https://osf.io/wnu89</link>
     <guid isPermaLink="false">https://osf.io/wnu89#ja</guid>
     <pubDate>Mon, 23 Nov 2026 22:35:52 +0000</pubDate>
@@ -195,7 +230,7 @@
     <description>The interplay of subjective and objective measures of arousal during simulated gambling in a community sample with gambling involvement</description>
   </item>
   <item>
-    <title>停滞と変化の政治学：政党綱領および市民の言葉における保守主義の動機的根源</title>
+    <title>停滞と変化の政治学：政党綱領および市民の言葉に見る保守主義の動機的根源</title>
     <link>https://osf.io/j6kg8</link>
     <guid isPermaLink="false">https://osf.io/j6kg8#ja</guid>
     <pubDate>Mon, 16 Nov 2026 18:51:28 +0000</pubDate>
@@ -209,21 +244,21 @@
     <description>Experiential value neglect in hybrid choice is robust to learning and representational manipulations.</description>
   </item>
   <item>
-    <title>強化学習によるエネルギーに関する誤解の修正と嗜好形成</title>
+    <title>強化学習によるエネルギーに関する誤解の是正と嗜好形成</title>
     <link>https://osf.io/7u56t</link>
     <guid isPermaLink="false">https://osf.io/7u56t#ja</guid>
     <pubDate>Mon, 16 Nov 2026 18:51:27 +0000</pubDate>
     <description>Correcting misconceptions and shaping preferences about energy with reinforcement learning</description>
   </item>
   <item>
-    <title>予測的空間制約が対象認識に与える影響</title>
+    <title>予測的空間制約が物体認識に与える影響</title>
     <link>https://osf.io/e34xt</link>
     <guid isPermaLink="false">https://osf.io/e34xt#ja</guid>
     <pubDate>Mon, 16 Nov 2026 18:51:27 +0000</pubDate>
     <description>How Predictive Spatial Constraints Shape Object Recognition</description>
   </item>
   <item>
-    <title>教育科学の文脈におけるウェブカメラと赤外線視線追跡データの交換可能性：実験室および自宅における被験者内比較</title>
+    <title>教育科学分野におけるウェブカメラと赤外線視線追跡データの相互交換性：実験室および自宅環境における被験者内比較</title>
     <link>https://osf.io/bxuwv</link>
     <guid isPermaLink="false">https://osf.io/bxuwv#ja</guid>
     <pubDate>Mon, 16 Nov 2026 18:51:27 +0000</pubDate>
@@ -244,21 +279,21 @@
     <description>Benchmarking the Double-Entry Intraclass Correlation as an Index of the Similarity between Correlation Profiles</description>
   </item>
   <item>
-    <title>制御された屋内空間における多施設研究：NeuroDesign/NeuroArchitecture指標（NDIX）の実現可能性と感度の初期評価</title>
+    <title>複数研究による制御された屋内空間の検討：NeuroDesign/NeuroArchitecture指数（NDIX）の実現可能性と感度の初期評価</title>
     <link>https://osf.io/nced4</link>
     <guid isPermaLink="false">https://osf.io/nced4#ja</guid>
     <pubDate>Sun, 15 Nov 2026 21:56:19 +0000</pubDate>
     <description>Multi-study exploration across controlled indoor spaces: Initial evaluation of the feasibility and sensitivity of the NeuroDesign/NeuroArchitecture Index (NDIX)</description>
   </item>
   <item>
-    <title>曝露から体験へ：自然の視覚が海馬傍回皮質を活性化し、自然感の主観的報告は外側後頭皮質活動の減少と関連する</title>
+    <title>曝露から経験へ：自然の視覚が海馬傍回皮質を活性化し、自然感の主観的報告は外側後頭皮質活動の低下と関連する</title>
     <link>https://osf.io/kzdtc</link>
     <guid isPermaLink="false">https://osf.io/kzdtc#ja</guid>
     <pubDate>Sun, 15 Nov 2026 21:56:19 +0000</pubDate>
     <description>From exposure to experience: Viewing nature activates parahippocampal cortex while subjective reports of naturalness are associated with reduced lateral occipital activity</description>
   </item>
   <item>
-    <title>構造化された環境と精神健康：リスクとレジリエンスの神経生物学的枠組み</title>
+    <title>建築環境と精神健康：リスクとレジリエンスの神経生物学的枠組み</title>
     <link>https://osf.io/2wqjs</link>
     <guid isPermaLink="false">https://osf.io/2wqjs#ja</guid>
     <pubDate>Sun, 15 Nov 2026 21:56:19 +0000</pubDate>
@@ -293,7 +328,7 @@
     <description>Building the future: Schemas contribute to episodic simulation</description>
   </item>
   <item>
-    <title>速い眼、鋭い眼、あるいは優れた眼か？視覚知覚と高次認知を結びつける要因</title>
+    <title>速い目、鋭い目、あるいは優れた目か？視覚知覚と高次認知を結びつける要因とは</title>
     <link>https://osf.io/wu9er</link>
     <guid isPermaLink="false">https://osf.io/wu9er#ja</guid>
     <pubDate>Sat, 14 Nov 2026 23:34:54 +0000</pubDate>
@@ -314,46 +349,11 @@
     <description>CaliGaze: A Validated Webcam Eye-Tracking Framework for Attentional Drift-Diffusion Modeling</description>
   </item>
   <item>
-    <title>注意が視覚的統計学習に及ぼす影響とその逆方向の関係：EEG周波数タグ付けによる周波数ベースのグルーピングからの知見</title>
+    <title>注意が視覚的統計学習に与える影響とその逆方向の関係：EEG周波数タグ付けによる周波数ベースのグルーピングからの知見</title>
     <link>https://osf.io/xf97u</link>
     <guid isPermaLink="false">https://osf.io/xf97u#ja</guid>
     <pubDate>Fri, 13 Nov 2026 21:56:49 +0000</pubDate>
     <description>The influence of attention on visual statistical learning and vice versa: Insights from frequency-based grouping as revealed by EEG frequency tagging</description>
-  </item>
-  <item>
-    <title>健康な若年成人におけるサッカードおよび注視眼球運動の規範的参照値：GazeBaseによる百分位規範、分割半校正および再検査信頼性</title>
-    <link>https://osf.io/teg2u</link>
-    <guid isPermaLink="false">https://osf.io/teg2u#ja</guid>
-    <pubDate>Fri, 13 Nov 2026 21:56:48 +0000</pubDate>
-    <description>Normative Reference Values for Saccadic and Fixation Eye Movements in Healthy Young  Adults: Centile Norms, Split-Half Calibration and Test–Retest Reliability from GazeBase</description>
-  </item>
-  <item>
-    <title>初等初期学年以降の語彙読解流暢性の長期予測因子</title>
-    <link>https://osf.io/5ehrd</link>
-    <guid isPermaLink="false">https://osf.io/5ehrd#ja</guid>
-    <pubDate>Fri, 13 Nov 2026 21:56:48 +0000</pubDate>
-    <description>Long-Term Predictors of Word Reading Fluency Beyond the Early Elementary Grades</description>
-  </item>
-  <item>
-    <title>自閉症における社会認知の行動的および神経的パターンの人格特性による識別</title>
-    <link>https://osf.io/a7hxs</link>
-    <guid isPermaLink="false">https://osf.io/a7hxs#ja</guid>
-    <pubDate>Fri, 13 Nov 2026 21:56:48 +0000</pubDate>
-    <description>Personality reveals distinct behavioral and neural patterns of social cognition in autism</description>
-  </item>
-  <item>
-    <title>時間を行き来する記憶：方向性手がかり想起における脳の振動パターンの識別</title>
-    <link>https://osf.io/v5w3f</link>
-    <guid isPermaLink="false">https://osf.io/v5w3f#ja</guid>
-    <pubDate>Fri, 13 Nov 2026 21:56:48 +0000</pubDate>
-    <description>Traveling back and forth through time: oscillatory brain patterns distinguish directional cued recall</description>
-  </item>
-  <item>
-    <title>重要性の学習：目標の確実性が作業記憶の優先順位付けに与える影響</title>
-    <link>https://osf.io/xwy5t</link>
-    <guid isPermaLink="false">https://osf.io/xwy5t#ja</guid>
-    <pubDate>Fri, 13 Nov 2026 21:56:47 +0000</pubDate>
-    <description>Learning What Matters: Goal certainty shapes working memory prioritization</description>
   </item>
 </channel>
 </rss>
